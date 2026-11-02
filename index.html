@@ -4,466 +4,318 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>LiquidFiles Translations</title>
-<meta name="description" content="29 ready-to-import language packs for LiquidFiles. Free, community-maintained YAML locale files.">
-<meta property="og:title" content="LiquidFiles Translations">
-<meta property="og:description" content="29 ready-to-import language packs for LiquidFiles.">
-<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='9' fill='%232f6bff'/%3E%3Cpath d='M16 7c4 5 7 8.4 7 12a7 7 0 0 1-14 0c0-3.6 3-7 7-12Z' fill='white'/%3E%3C/svg%3E">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Geist:wght@300..700&family=Geist+Mono:wght@400;500&family=Instrument+Serif:ital@1&display=swap" rel="stylesheet">
+<meta name="description" content="29 ready-to-import language files for LiquidFiles. Free, community-maintained YAML locale files.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23009ddc' stroke-width='2'%3E%3Ccircle cx='12' cy='12' r='9'/%3E%3Cpath d='M3 12h18M12 3c2.5 2.7 3.8 5.7 3.8 9s-1.3 6.3-3.8 9c-2.5-2.7-3.8-5.7-3.8-9S9.5 5.7 12 3Z'/%3E%3C/svg%3E">
 <style>
 :root {
-  --bg: #f4f4f1; --bg-2: #ecece8; --ink: #0c0d10; --ink-2: #3d4049; --muted: #747885;
-  --shell: rgba(12,13,16,.035); --hair: rgba(12,13,16,.08); --core: #fff;
-  --accent: #2f6bff; --accent-ink: #fff; --accent-soft: rgba(47,107,255,.09);
-  --glow-1: rgba(47,107,255,.16); --glow-2: rgba(0,190,170,.10);
-  --hi: inset 0 1px 0 rgba(255,255,255,.9);
-  --shadow: 0 1px 2px rgba(12,13,16,.04), 0 12px 40px -12px rgba(12,13,16,.10);
-  --ease: cubic-bezier(.32,.72,0,1);
-}
-@media (prefers-color-scheme: dark) {
-  :root {
-    --bg: #07080b; --bg-2: #0d0f14; --ink: #f2f3f7; --ink-2: #c3c6d1; --muted: #8b90a0;
-    --shell: rgba(255,255,255,.03); --hair: rgba(255,255,255,.08); --core: #101219;
-    --accent: #6d97ff; --accent-ink: #07080b; --accent-soft: rgba(109,151,255,.12);
-    --glow-1: rgba(70,110,255,.22); --glow-2: rgba(0,200,180,.08);
-    --hi: inset 0 1px 0 rgba(255,255,255,.06);
-    --shadow: 0 1px 2px rgba(0,0,0,.3), 0 20px 50px -20px rgba(0,0,0,.6);
-  }
+  --text: #212529; --muted: #6c757d; --line: #dee2e6; --light: #f8f9fa;
+  --blue: #009ddc; --blue-dark: #115eae; --blue-soft: #e3f2fd; --green: #28a745; --green-dark: #218838;
 }
 * { box-sizing: border-box; }
 [hidden] { display: none !important; }
-html { scroll-behavior: smooth; scroll-padding-top: 100px; }
-body { margin: 0; background: var(--bg); color: var(--ink); font: 16px/1.6 Geist, ui-sans-serif, system-ui, sans-serif;
-  -webkit-font-smoothing: antialiased; overflow-x: hidden; }
-a { color: inherit; text-decoration: none; }
-.wrap { max-width: 1180px; margin: 0 auto; padding: 0 24px; }
-.serif { font-family: "Instrument Serif", Georgia, serif; font-style: italic; font-weight: 400; letter-spacing: -.01em; }
-.mono { font-family: "Geist Mono", ui-monospace, Consolas, monospace; }
-svg.i { width: 18px; height: 18px; fill: none; stroke: currentColor; stroke-width: 1.5; stroke-linecap: round; stroke-linejoin: round; flex: none; }
-
-/* backdrop */
-.backdrop { position: fixed; inset: 0; z-index: -1; pointer-events: none; }
-.backdrop::before { content: ""; position: absolute; inset: 0;
-  background: radial-gradient(600px 400px at 78% 8%, var(--glow-1), transparent 70%),
-              radial-gradient(500px 380px at 8% 30%, var(--glow-2), transparent 70%); }
-.backdrop::after { content: ""; position: absolute; inset: 0; opacity: .5;
-  background-image: linear-gradient(var(--hair) 1px, transparent 1px), linear-gradient(90deg, var(--hair) 1px, transparent 1px);
-  background-size: 64px 64px; mask-image: radial-gradient(ellipse 80% 50% at 50% 0%, #000 30%, transparent 75%); }
+html { scroll-behavior: smooth; scroll-padding-top: 72px; }
+body { margin: 0; background: #fff; color: var(--text); font: 16px/1.6 system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; }
+a { color: var(--blue); text-decoration: none; }
+a:hover { text-decoration: underline; }
+.container { max-width: 1140px; margin: 0 auto; padding: 0 16px; }
+svg.i { width: 1em; height: 1em; fill: none; stroke: currentColor; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; vertical-align: -.125em; }
 
 /* nav */
-.nav { position: fixed; top: 16px; left: 50%; transform: translateX(-50%); z-index: 10; display: flex; align-items: center; gap: 4px;
-  padding: 6px; border-radius: 999px; background: color-mix(in srgb, var(--core) 72%, transparent);
-  backdrop-filter: blur(18px) saturate(1.4); -webkit-backdrop-filter: blur(18px) saturate(1.4);
-  box-shadow: 0 0 0 1px var(--hair), var(--shadow); max-width: calc(100% - 24px); }
-.brand { display: flex; align-items: center; gap: 10px; padding: 4px 14px 4px 6px; font-weight: 600; letter-spacing: -.01em; white-space: nowrap; }
-.logo { width: 28px; height: 28px; border-radius: 9px; background: var(--accent); display: grid; place-items: center; color: #fff; }
-.logo svg { width: 15px; height: 15px; fill: currentColor; }
-.nav .links { display: flex; gap: 2px; }
-.nav .links a { padding: 8px 14px; border-radius: 999px; color: var(--ink-2); font-size: .92rem; transition: background .4s var(--ease), color .4s var(--ease); }
-.nav .links a:hover { background: var(--shell); color: var(--ink); }
-.nav .gh { display: flex; align-items: center; gap: 8px; padding: 8px 14px; border-radius: 999px; background: var(--ink); color: var(--bg); font-size: .9rem; font-weight: 500; }
-.nav .gh svg { width: 16px; height: 16px; fill: currentColor; }
-
-/* bezel */
-.shell { padding: 6px; border-radius: 26px; background: var(--shell); box-shadow: 0 0 0 1px var(--hair); }
-.core { border-radius: 20px; background: var(--core); box-shadow: var(--hi), var(--shadow); }
-
-/* eyebrow / buttons */
-.eyebrow { display: inline-flex; align-items: center; gap: 8px; padding: 5px 12px 5px 6px; border-radius: 999px;
-  background: var(--shell); box-shadow: 0 0 0 1px var(--hair); font-size: 11px; letter-spacing: .16em; text-transform: uppercase; color: var(--ink-2); font-weight: 500; }
-.eyebrow .dot { width: 18px; height: 18px; border-radius: 50%; background: var(--accent-soft); display: grid; place-items: center; }
-.eyebrow .dot::after { content: ""; width: 6px; height: 6px; border-radius: 50%; background: var(--accent); box-shadow: 0 0 0 3px var(--accent-soft); }
-.btn { display: inline-flex; align-items: center; gap: 14px; padding: 6px 6px 6px 22px; border-radius: 999px; font-weight: 500;
-  transition: transform .5s var(--ease), box-shadow .5s var(--ease), background .5s var(--ease); }
-.btn:active { transform: scale(.98); }
-.btn .knob { width: 38px; height: 38px; border-radius: 50%; display: grid; place-items: center; transition: transform .6s var(--ease); }
-.btn:hover .knob { transform: translate(2px,-1px) scale(1.06); }
-.btn.primary { background: var(--ink); color: var(--bg); box-shadow: 0 10px 30px -10px rgba(12,13,16,.45); }
-.btn.primary .knob { background: color-mix(in srgb, var(--bg) 16%, transparent); }
-.btn.ghost { background: var(--core); color: var(--ink); box-shadow: 0 0 0 1px var(--hair), var(--hi); }
-.btn.ghost .knob { background: var(--shell); }
-.btn.ghost:hover .knob { transform: translateY(2px) scale(1.06); }
+nav { position: sticky; top: 0; z-index: 10; background: #fff; box-shadow: 0 .125rem .25rem rgba(0,0,0,.075); }
+nav .container { display: flex; align-items: center; gap: 24px; height: 64px; }
+.brand { display: flex; align-items: center; gap: 8px; font-weight: 700; font-size: 1.2rem; color: var(--text); }
+.brand:hover { text-decoration: none; }
+.brand svg.i { color: var(--blue); width: 28px; height: 28px; }
+.brand small { font-weight: 400; color: var(--blue); }
+nav ul { list-style: none; margin: 0 0 0 auto; padding: 0; display: flex; gap: 24px; align-items: center; }
+nav ul a { color: rgba(0,0,0,.65); font-size: .95rem; }
+nav ul a:hover { color: var(--text); text-decoration: none; }
+.btn { display: inline-flex; align-items: center; gap: 8px; font-weight: 600; border-radius: 6px; padding: 6px 16px; border: 1px solid transparent; transition: background-color .15s, border-color .15s; }
+.btn:hover { text-decoration: none; }
+nav .btn, .btn-blue { background: var(--blue); color: #fff; }
+nav .btn:hover, .btn-blue:hover { background: #008bc4; color: #fff; }
 
 /* hero */
-.hero > *, .bento > *, .grid > *, .faq > * { min-width: 0; }
-.hero { padding-top: 168px; padding-bottom: 96px; display: grid; grid-template-columns: 1.05fr .95fr; gap: 64px; align-items: center; }
-h1 { font-size: clamp(2.8rem, 6.2vw, 5.2rem); line-height: .98; letter-spacing: -.045em; font-weight: 600; margin: 24px 0 0; }
-h1 .serif { color: var(--accent); font-size: 1.08em; }
-.lede { font-size: 1.18rem; color: var(--ink-2); max-width: 520px; margin: 24px 0 36px; font-weight: 300; }
-.lede b { font-weight: 500; color: var(--ink); }
-.cta { display: flex; flex-wrap: wrap; gap: 12px; }
-.facts { display: flex; flex-wrap: wrap; gap: 10px 28px; margin-top: 40px; color: var(--muted); font-size: .9rem; }
-.facts span { display: inline-flex; align-items: center; gap: 8px; }
-.facts svg.i { width: 16px; height: 16px; color: var(--accent); }
+.hero { background: linear-gradient(135deg, #115eae 0%, #009ddc 50%, #118ad4 100%); color: #fff; padding: 80px 0; }
+.hero .container { display: grid; grid-template-columns: 1fr 1fr; gap: 48px; align-items: center; }
+.hero h1 { font-size: 3rem; line-height: 1.2; margin: 0 0 16px; font-weight: 700; }
+.hero p { font-size: 1.2rem; margin: 0 0 32px; opacity: .95; max-width: 520px; }
+.btn-lg { padding: 13px 32px; border-radius: 8px; font-size: 1.05rem; }
+.btn-green { background: var(--green); color: #fff; }
+.btn-green:hover { background: var(--green-dark); color: #fff; }
+.btn-outline { background: rgba(255,255,255,.15); border-color: rgba(255,255,255,.5); color: #fff; }
+.btn-outline:hover { background: rgba(255,255,255,.25); color: #fff; }
+.hero .buttons { display: flex; flex-wrap: wrap; gap: 12px; }
+.hero .note { font-size: .85rem; margin: 14px 0 0; opacity: .85; }
 
-/* app mock */
-.mock > .shell { transform: rotate(1.2deg); transition: transform 1s var(--ease); }
-.mock:hover > .shell { transform: rotate(0); }
-.mock .core { overflow: hidden; }
-.bar { display: flex; align-items: center; gap: 8px; padding: 14px 18px; border-bottom: 1px solid var(--hair); }
-.bar i { width: 10px; height: 10px; border-radius: 50%; background: var(--hair); }
-.bar .url { margin-left: 10px; flex: 1; font-size: .78rem; color: var(--muted); padding: 5px 12px; border-radius: 8px; background: var(--shell); }
-.lang-pill { display: inline-flex; align-items: center; gap: 8px; font-size: .8rem; padding: 5px 10px 5px 8px; border-radius: 999px; background: var(--accent-soft); color: var(--accent); font-weight: 500; white-space: nowrap; }
-.lang-pill svg.i { width: 14px; height: 14px; }
-.app { padding: 22px 22px 24px; display: grid; gap: 14px; }
-.app-head { display: flex; justify-content: space-between; align-items: center; }
-.app-head .t { font-weight: 600; font-size: 1.05rem; letter-spacing: -.01em; }
-.app-head .out { font-size: .82rem; color: var(--muted); display: inline-flex; align-items: center; gap: 6px; }
-.alert { display: flex; gap: 10px; align-items: center; padding: 12px 14px; border-radius: 12px; font-size: .88rem;
-  background: rgba(245,158,11,.09); color: #a15c07; box-shadow: inset 0 0 0 1px rgba(245,158,11,.2); }
-@media (prefers-color-scheme: dark) { .alert { color: #f5b041; } }
-.field { display: grid; gap: 6px; }
-.field label { font-size: .76rem; color: var(--muted); letter-spacing: .02em; }
-.chips { display: flex; flex-wrap: wrap; gap: 6px; padding: 9px; border-radius: 12px; box-shadow: inset 0 0 0 1px var(--hair); }
-.chips span { font-size: .82rem; padding: 3px 10px; border-radius: 999px; background: var(--shell); box-shadow: inset 0 0 0 1px var(--hair); }
-.log { display: flex; align-items: center; gap: 10px; padding: 10px 12px; border-radius: 12px; background: var(--shell); font-size: .85rem; }
-.log .av { width: 26px; height: 26px; border-radius: 50%; background: linear-gradient(135deg, var(--accent), #00bfa6); flex: none; }
-.log small { color: var(--muted); display: block; font-size: .75rem; }
-.actions { display: flex; gap: 8px; justify-content: flex-end; margin-top: 4px; }
-.actions span { padding: 9px 18px; border-radius: 10px; font-size: .88rem; font-weight: 500; }
-.actions .p { background: var(--accent); color: var(--accent-ink); }
-.actions .s { box-shadow: inset 0 0 0 1px var(--hair); color: var(--ink-2); }
-[data-t] { transition: opacity .35s var(--ease), filter .35s var(--ease), transform .35s var(--ease); display: inline-block; }
-.swap [data-t] { opacity: 0; filter: blur(4px); transform: translateY(4px); }
+/* app preview */
+.preview { background: #fff; color: var(--text); border-radius: 10px; box-shadow: 0 1rem 3rem rgba(0,0,0,.25); overflow: hidden; font-size: .85rem; }
+.preview .top { display: flex; align-items: center; gap: 14px; padding: 8px 14px; border-bottom: 1px solid var(--line); background: var(--light); color: var(--muted); }
+.preview .top b { color: var(--blue); }
+.preview .top .lang { margin-left: auto; background: var(--blue-soft); color: var(--blue-dark); padding: 2px 10px; border-radius: 4px; font-weight: 600; }
+.preview .body { padding: 16px 18px 18px; display: grid; gap: 10px; }
+.preview h4 { margin: 0; font-size: 1.15rem; display: flex; justify-content: space-between; align-items: baseline; }
+.preview h4 small { font-size: .8rem; font-weight: 400; color: var(--blue); }
+.preview .warn { background: #fff3cd; color: #664d03; border: 1px solid #ffe69c; border-radius: 4px; padding: 8px 12px; }
+.preview label { display: block; font-weight: 600; font-size: .78rem; margin-bottom: 4px; }
+.preview .input { border: 1px solid var(--line); border-radius: 4px; padding: 6px 10px; color: #495057; }
+.preview .row { display: flex; justify-content: flex-end; gap: 6px; }
+.preview .row span { padding: 5px 14px; border-radius: 4px; font-weight: 500; }
+.preview .row .s { background: #6c757d; color: #fff; }
+.preview .row .p { background: var(--green); color: #fff; }
+
+/* strip */
+.strip { background: var(--light); border-bottom: 1px solid var(--line); padding: 18px 0; text-align: center; color: #495057; font-size: .95rem; }
 
 /* sections */
-section { padding: 112px 0; }
-.head { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: end; gap: 24px; margin-bottom: 48px; }
-h2 { font-size: clamp(2rem, 4vw, 3.1rem); line-height: 1.04; letter-spacing: -.035em; font-weight: 600; margin: 18px 0 0; }
-h2 .serif { color: var(--accent); }
-.sub { color: var(--ink-2); font-weight: 300; max-width: 460px; margin: 14px 0 0; font-size: 1.05rem; }
-
-/* stats bento */
-.bento { display: grid; grid-template-columns: repeat(12, 1fr); gap: 14px; padding-top: 0; }
-.bento > .shell:nth-child(1) { grid-column: span 5; }
-.bento > .shell:nth-child(2) { grid-column: span 3; }
-.bento > .shell:nth-child(3) { grid-column: span 4; }
-.stat { padding: 26px 28px; height: 100%; display: flex; flex-direction: column; justify-content: space-between; gap: 22px; }
-.stat b { font-size: clamp(2.4rem, 4vw, 3.4rem); font-weight: 500; letter-spacing: -.05em; line-height: 1; }
-.stat p { margin: 0; color: var(--muted); font-size: .95rem; }
-.stat .k { font-size: 11px; text-transform: uppercase; letter-spacing: .16em; color: var(--muted); }
-.scripts { display: flex; flex-wrap: wrap; gap: 6px; }
-.scripts span { font-size: .95rem; padding: 4px 12px; border-radius: 999px; background: var(--shell); box-shadow: inset 0 0 0 1px var(--hair); }
+section { padding: 72px 0; }
+section.alt { background: var(--light); }
+.title { text-align: center; max-width: 640px; margin: 0 auto 40px; }
+.title h2 { font-size: 2rem; margin: 0 0 10px; font-weight: 700; }
+.title p { color: var(--muted); font-size: 1.1rem; margin: 0; }
 
 /* search */
-.search { width: min(100%, 360px); }
-.search .core { display: flex; align-items: center; gap: 10px; padding: 0 16px; border-radius: 999px; }
-.search.shell { border-radius: 999px; padding: 5px; }
-.search input { flex: 1; min-width: 0; border: 0; background: none; color: var(--ink); font: inherit; padding: 12px 0; outline: none; }
-.search input::placeholder { color: var(--muted); }
-.search:focus-within { box-shadow: 0 0 0 1px var(--accent), 0 0 0 5px var(--accent-soft); }
-.search .count { font-size: .78rem; color: var(--muted); white-space: nowrap; }
+.search { position: relative; max-width: 420px; margin: -16px auto 32px; }
+.search svg.i { position: absolute; left: 14px; top: 50%; transform: translateY(-50%); color: var(--muted); }
+.search input { width: 100%; padding: 10px 70px 10px 40px; font: inherit; border: 1px solid #ced4da; border-radius: 6px; }
+.search input:focus { outline: 0; border-color: #80ceee; box-shadow: 0 0 0 .25rem rgba(0,157,220,.25); }
+.search .count { position: absolute; right: 14px; top: 50%; transform: translateY(-50%); color: var(--muted); font-size: .85rem; }
 
 /* language cards */
-.grid { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 205px), 1fr)); gap: 14px; }
-.card.req .core { background: transparent; box-shadow: none; border: 1px dashed color-mix(in srgb, var(--ink) 18%, transparent); justify-content: center; gap: 10px; }
-.card.req .native { font-size: 1.15rem; }
-.card.req p { margin: 0 0 14px; color: var(--muted); font-size: .9rem; }
-.card:hover { box-shadow: 0 0 0 1px color-mix(in srgb, var(--accent) 40%, transparent); }
-.card .core { padding: 20px 20px 18px; height: 100%; display: flex; flex-direction: column; transition: transform .6s var(--ease); }
-.card:hover .core { transform: translateY(-2px); }
-.card .top { display: flex; justify-content: space-between; align-items: center; margin-bottom: 18px; }
-.tag { font-size: .72rem; padding: 3px 9px; border-radius: 999px; background: var(--shell); box-shadow: inset 0 0 0 1px var(--hair); color: var(--ink-2); }
-.code { font-size: .76rem; color: var(--muted); }
-.native { font-size: 1.55rem; font-weight: 500; letter-spacing: -.02em; line-height: 1.15; }
-.eng { color: var(--muted); font-size: .9rem; margin-top: 2px; }
-.sample { margin: 16px 0 18px; padding-top: 14px; border-top: 1px dashed var(--hair); display: flex; flex-wrap: wrap; gap: 6px; font-size: .8rem; color: var(--ink-2); }
-.sample span { padding: 2px 8px; border-radius: 6px; background: var(--shell); }
-.card .row { margin-top: auto; display: flex; gap: 8px; }
-.dl { flex: 1; display: inline-flex; align-items: center; justify-content: space-between; gap: 8px; padding: 5px 5px 5px 16px; border-radius: 999px;
-  background: var(--accent-soft); color: var(--accent); font-weight: 500; font-size: .9rem; transition: background .5s var(--ease), color .5s var(--ease); }
-.dl .knob { width: 30px; height: 30px; border-radius: 50%; display: grid; place-items: center; background: color-mix(in srgb, var(--accent) 14%, transparent); transition: transform .6s var(--ease); }
-.dl .knob svg.i { width: 15px; height: 15px; }
-.dl:hover { background: var(--accent); color: var(--accent-ink); }
-.dl:hover .knob { transform: translateY(2px); background: rgba(255,255,255,.18); }
-.view { width: 40px; display: grid; place-items: center; border-radius: 999px; color: var(--muted); box-shadow: inset 0 0 0 1px var(--hair); transition: color .4s var(--ease), background .4s var(--ease); }
-.view:hover { color: var(--ink); background: var(--shell); }
-.view svg.i { width: 16px; height: 16px; }
-.empty { color: var(--muted); padding: 40px 0; text-align: center; }
+.grid { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 250px), 1fr)); gap: 20px; }
+.card { background: #fff; border: 1px solid var(--line); border-radius: 8px; padding: 20px; display: flex; flex-direction: column; transition: box-shadow .15s; }
+.card:hover { box-shadow: 0 .5rem 1rem rgba(0,0,0,.08); }
+.card h3 { margin: 0; color: var(--blue); font-size: 1.3rem; }
+.card .sub { color: var(--muted); font-size: .9rem; display: flex; justify-content: space-between; gap: 8px; }
+.card code { font-size: .8rem; color: #495057; background: var(--light); border: 1px solid var(--line); border-radius: 4px; padding: 0 6px; }
+.card .words { margin: 12px 0 16px; font-size: .88rem; color: #495057; }
+.card .actions { margin-top: auto; display: flex; align-items: center; gap: 14px; }
+.card .actions .btn { padding: 6px 14px; }
+.card .actions a:not(.btn) { font-size: .9rem; font-weight: 600; }
+.card.req { border-style: dashed; background: transparent; justify-content: center; text-align: center; }
+.card.req h3 { color: var(--text); font-size: 1.1rem; }
+.card.req p { color: var(--muted); font-size: .9rem; margin: 6px 0 14px; }
+.card.req .actions { justify-content: center; margin-top: 0; }
+.empty { text-align: center; color: var(--muted); }
 
 /* steps */
-.steps { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: repeat(3, 1fr); gap: 14px; counter-reset: s; }
-.step .core { padding: 28px; height: 100%; }
-.step .n { font-size: .8rem; color: var(--accent); display: flex; align-items: center; gap: 10px; margin-bottom: 40px; }
-.step .n::after { content: ""; flex: 1; height: 1px; background: linear-gradient(90deg, var(--hair), transparent); }
-.step h3 { margin: 0 0 8px; font-size: 1.2rem; font-weight: 600; letter-spacing: -.02em; }
-.step p { margin: 0; color: var(--ink-2); font-weight: 300; }
-kbd { font: .82em "Geist Mono", ui-monospace, monospace; padding: 2px 7px; border-radius: 6px; background: var(--shell); box-shadow: inset 0 0 0 1px var(--hair); color: var(--ink); white-space: nowrap; }
+.steps { display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; list-style: none; padding: 0; margin: 0; }
+.step { background: #fff; border: 1px solid var(--line); border-radius: 8px; padding: 28px 24px; text-align: center; }
+.step .icon { width: 60px; height: 60px; border-radius: 10px; background: var(--blue-soft); color: var(--blue); display: grid; place-items: center; margin: 0 auto 16px; font-size: 28px; }
+.step h3 { color: var(--blue); margin: 0 0 8px; font-size: 1.3rem; }
+.step p { margin: 0; color: #495057; font-size: .95rem; }
+kbd { font: .85em ui-monospace, Consolas, monospace; background: var(--light); border: 1px solid var(--line); border-radius: 4px; padding: 1px 5px; color: var(--text); white-space: nowrap; }
 
 /* faq */
-.faq { display: grid; grid-template-columns: .8fr 1.2fr; gap: 64px; }
-.faq details { border-bottom: 1px solid var(--hair); }
-.faq summary { list-style: none; cursor: pointer; padding: 22px 0; display: flex; justify-content: space-between; gap: 16px; font-weight: 500; font-size: 1.05rem; }
+.faq { max-width: 760px; margin: 0 auto; border: 1px solid var(--line); border-radius: 8px; overflow: hidden; background: #fff; }
+.faq details + details { border-top: 1px solid var(--line); }
+.faq summary { cursor: pointer; padding: 16px 20px; font-weight: 600; list-style: none; display: flex; justify-content: space-between; gap: 16px; }
 .faq summary::-webkit-details-marker { display: none; }
-.faq summary .pm { width: 28px; height: 28px; border-radius: 50%; flex: none; display: grid; place-items: center; background: var(--shell); box-shadow: inset 0 0 0 1px var(--hair); transition: transform .5s var(--ease); }
-.faq details[open] .pm { transform: rotate(45deg); }
-.faq details p { margin: -6px 0 22px; color: var(--ink-2); font-weight: 300; max-width: 600px; }
-.faq a { color: var(--accent); }
+.faq summary::after { content: "+"; color: var(--blue); font-size: 1.3rem; line-height: 1; }
+.faq details[open] summary { color: var(--blue); }
+.faq details[open] summary::after { content: "−"; }
+.faq details p { margin: 0; padding: 0 20px 18px; color: #495057; }
 
-/* closing */
-.closing .core { padding: clamp(40px, 7vw, 80px); text-align: center; position: relative; overflow: hidden; }
-.closing .core::before { content: ""; position: absolute; inset: auto -20% -60% -20%; height: 120%; background: radial-gradient(closest-side, var(--glow-1), transparent); pointer-events: none; }
-.closing h2 { margin: 0 auto 14px; max-width: 700px; position: relative; }
-.closing .sub { margin: 0 auto 32px; position: relative; }
-.closing .cta { justify-content: center; position: relative; }
+/* cta */
+.cta { background: linear-gradient(135deg, #115eae 0%, #009ddc 100%); color: #fff; text-align: center; padding: 56px 0; }
+.cta h2 { margin: 0 0 8px; font-size: 2rem; }
+.cta p { margin: 0 0 24px; opacity: .9; }
 
-footer { padding: 40px 0 64px; color: var(--muted); font-size: .88rem; display: flex; flex-wrap: wrap; justify-content: space-between; gap: 12px; border-top: 1px solid var(--hair); }
-footer a { color: var(--ink-2); }
-footer a:hover { color: var(--ink); }
-
-/* reveal */
-.js .reveal { opacity: 0; transform: translateY(28px); filter: blur(6px); transition: opacity .9s var(--ease), transform .9s var(--ease), filter .9s var(--ease); transition-delay: var(--d, 0s); }
-.js .reveal.in { opacity: 1; transform: none; filter: none; }
+footer { background: var(--light); border-top: 1px solid var(--line); padding: 28px 0; font-size: .9rem; color: var(--muted); }
+footer .container { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 12px; }
 
 @media (max-width: 900px) {
-  .hero { grid-template-columns: 1fr; padding-top: 136px; gap: 56px; }
-  .mock > .shell { transform: none; }
-  .bento > .shell:nth-child(n) { grid-column: span 12; }
+  .hero .container { grid-template-columns: 1fr; }
+  .hero h1 { font-size: 2.3rem; }
   .steps { grid-template-columns: 1fr; }
-  .faq { grid-template-columns: 1fr; gap: 16px; }
-  .nav .links { display: none; }
+  nav ul li:not(:last-child) { display: none; }
 }
-@media (max-width: 560px) {
-  .wrap { padding-left: 16px; padding-right: 16px; }
-  section { padding: 80px 0; }
-  .cta .btn { flex: 1 1 100%; justify-content: space-between; }
-  .brand > span:last-child { display: none; }
-  .brand { padding-right: 6px; }
-  .bar .url { display: none; }
-}
-@media (prefers-reduced-motion: reduce) {
-  html { scroll-behavior: auto; }
-  *, *::before, *::after { transition-duration: .01ms !important; }
-  .js .reveal { opacity: 1; transform: none; filter: none; }
+@media (max-width: 480px) {
+  .brand small { display: none; }
+  .hero { padding: 48px 0; }
+  .hero .btn-lg { width: 100%; justify-content: center; }
 }
 </style>
 </head>
 <body>
-<script>document.documentElement.classList.add("js")</script>
-<div class="backdrop" aria-hidden="true"></div>
 
-<nav class="nav" aria-label="Main">
-  <a class="brand" href="#top" aria-label="LiquidFiles Translations, home">
-    <span class="logo"><svg viewBox="0 0 24 24"><path d="M12 2.5c4.6 5.6 8 9.5 8 13.6a8 8 0 0 1-16 0c0-4.1 3.4-8 8-13.6Z"/></svg></span>
-    <span>LiquidFiles Translations</span>
-  </a>
-  <div class="links"><a href="#languages">Languages</a><a href="#install">Install</a><a href="#faq">FAQ</a></div>
-  <a class="gh" href="https://github.com/AmarilloNL/liquidfiles-translations">
-    <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 .5a11.5 11.5 0 0 0-3.64 22.41c.58.1.79-.25.79-.56v-2c-3.2.7-3.88-1.37-3.88-1.37-.52-1.33-1.28-1.69-1.28-1.69-1.05-.71.08-.7.08-.7 1.16.08 1.77 1.19 1.77 1.19 1.03 1.77 2.7 1.26 3.36.96.1-.75.4-1.26.73-1.55-2.55-.29-5.24-1.28-5.24-5.69 0-1.26.45-2.29 1.19-3.1-.12-.29-.52-1.46.11-3.05 0 0 .97-.31 3.17 1.18a11 11 0 0 1 5.77 0c2.2-1.49 3.17-1.18 3.17-1.18.63 1.59.23 2.76.11 3.05.74.81 1.19 1.84 1.19 3.1 0 4.42-2.69 5.39-5.26 5.68.41.36.78 1.06.78 2.14v3.17c0 .31.21.67.8.56A11.5 11.5 0 0 0 12 .5Z"/></svg>
-    GitHub</a>
+<nav>
+  <div class="container">
+    <a class="brand" href="#top"><svg class="i" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c2.5 2.7 3.8 5.7 3.8 9s-1.3 6.3-3.8 9c-2.5-2.7-3.8-5.7-3.8-9S9.5 5.7 12 3Z"/></svg>LiquidFiles <small>Translations</small></a>
+    <ul>
+      <li><a href="#languages">Languages</a></li>
+      <li><a href="#install">Install</a></li>
+      <li><a href="#faq">FAQ</a></li>
+      <li><a class="btn" href="https://github.com/AmarilloNL/liquidfiles-translations">GitHub</a></li>
+    </ul>
+  </div>
 </nav>
 
 <main id="top">
-  <div class="wrap hero">
-    <div>
-      <span class="eyebrow reveal"><span class="dot"></span>Community locale pack · v4.2.17</span>
-      <h1 class="reveal" style="--d:.08s">Speak your users' <span class="serif">language.</span></h1>
-      <p class="lede reveal" style="--d:.16s">Ready-to-import translations for <b>LiquidFiles</b>. 29 languages, every interface string covered, free to download and use.</p>
-      <div class="cta reveal" style="--d:.24s">
-        <a class="btn primary" href="https://github.com/AmarilloNL/liquidfiles-translations/releases/latest/download/liquidfiles-translations.zip">
-          Download all languages
-          <span class="knob"><svg class="i" viewBox="0 0 24 24"><path d="M12 4v12m0 0-5-5m5 5 5-5M5 20h14"/></svg></span></a>
-        <a class="btn ghost" href="#languages">Browse languages
-          <span class="knob"><svg class="i" viewBox="0 0 24 24"><path d="M12 5v14m0 0-6-6m6 6 6-6"/></svg></span></a>
-      </div>
-      <div class="facts reveal" style="--d:.32s">
-        <span><svg class="i" viewBox="0 0 24 24"><path d="m5 12 4.5 4.5L19 7"/></svg>Drop-in YAML files</span>
-        <span><svg class="i" viewBox="0 0 24 24"><path d="m5 12 4.5 4.5L19 7"/></svg>No account required</span>
-        <span><svg class="i" viewBox="0 0 24 24"><path d="m5 12 4.5 4.5L19 7"/></svg>Open source</span>
-      </div>
-    </div>
-
-    <div class="mock reveal" style="--d:.2s" aria-label="Preview of LiquidFiles in different languages">
-      <div class="shell"><div class="core">
-        <div class="bar"><i></i><i></i><i></i><span class="url mono">files.example.com/message</span>
-          <span class="lang-pill"><svg class="i" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c2.5 2.7 3.8 5.7 3.8 9s-1.3 6.3-3.8 9c-2.5-2.7-3.8-5.7-3.8-9S9.5 5.7 12 3Z"/></svg><span data-t="name">Nederlands</span></span></div>
-        <div class="app" id="app">
-          <div class="app-head"><span class="t">Message #1042</span>
-            <span class="out"><svg class="i" viewBox="0 0 24 24" style="width:14px;height:14px"><path d="M15 4h3a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2h-3M10 16l4-4-4-4M14 12H4"/></svg><span data-t="2">Afmelden</span></span></div>
-          <div class="alert"><svg class="i" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg><span data-t="5">Sessie is verlopen</span></div>
-          <div class="field"><label data-t="3">Ontvangers</label>
-            <div class="chips"><span>anna@contoso.com</span><span>finance@fabrikam.eu</span></div></div>
-          <div class="field"><label data-t="4">Gedownload door</label>
-            <div class="log"><span class="av"></span><div>anna@contoso.com<small class="mono">2026-11-02 · 14:21</small></div></div></div>
-          <div class="actions"><span class="s" data-t="1">Annuleren</span><span class="p" data-t="0">Opslaan</span></div>
+  <div class="hero">
+    <div class="container">
+      <div>
+        <h1>LiquidFiles in Your Users' Language.</h1>
+        <p>Free, ready-to-import translations for LiquidFiles. 29 languages, every interface string covered. Upload the file and you're done.</p>
+        <div class="buttons">
+          <a class="btn btn-lg btn-green" href="https://github.com/AmarilloNL/liquidfiles-translations/releases/latest/download/liquidfiles-translations.zip">
+            <svg class="i" viewBox="0 0 24 24"><path d="M12 4v12m0 0-5-5m5 5 5-5M5 20h14"/></svg>Download All Languages</a>
+          <a class="btn btn-lg btn-outline" href="#languages">Browse Languages →</a>
         </div>
-      </div></div>
+        <p class="note">29 languages · 1,378 strings each · made for LiquidFiles v4.2.17</p>
+      </div>
+
+      <div class="preview" aria-label="Example of a LiquidFiles screen in different languages">
+        <div class="top"><b>Secure Message</b><span>Message #1042</span><span class="lang" data-t="name">Nederlands</span></div>
+        <div class="body" id="app">
+          <h4><span>Message #1042</span><small data-t="2">Afmelden</small></h4>
+          <div class="warn" data-t="5">Sessie is verlopen</div>
+          <div><label data-t="3">Ontvangers</label><div class="input">anna@contoso.com, finance@fabrikam.eu</div></div>
+          <div><label data-t="4">Gedownload door</label><div class="input">anna@contoso.com · 2026-11-02 14:21</div></div>
+          <div class="row"><span class="s" data-t="1">Annuleren</span><span class="p" data-t="0">Opslaan</span></div>
+        </div>
+      </div>
     </div>
   </div>
 
-  <div class="wrap bento">
-    <div class="shell reveal"><div class="core stat">
-      <span class="k">Coverage</span>
-      <div><b>1,378</b><p>strings per language: the whole user and admin interface, emails and errors.</p></div>
-    </div></div>
-    <div class="shell reveal" style="--d:.08s"><div class="core stat">
-      <span class="k">Languages</span>
-      <div><b>29</b><p>Including every official EU language.</p></div>
-    </div></div>
-    <div class="shell reveal" style="--d:.16s"><div class="core stat">
-      <span class="k">Writing systems</span>
-      <div class="scripts"><span>Latin</span><span>Кириллица</span><span>Ελληνικά</span><span lang="ar">العربية</span><span lang="ja">日本語</span><span lang="zh-CN">汉字</span></div>
-    </div></div>
-  </div>
+  <div class="strip">Includes every official EU language, plus Arabic, Japanese, Chinese, Russian, Turkish and Ukrainian.</div>
 
   <section id="languages">
-    <div class="wrap">
-      <div class="head">
-        <div>
-          <span class="eyebrow reveal"><span class="dot"></span>Languages</span>
-          <h2 class="reveal" style="--d:.06s">Pick a language, <span class="serif">download,</span> done.</h2>
-        </div>
-        <div class="search shell reveal" style="--d:.12s"><div class="core">
-          <svg class="i" viewBox="0 0 24 24" style="color:var(--muted)"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
-          <input type="search" id="q" placeholder="Search languages" aria-label="Search languages" autocomplete="off">
-          <span class="count mono" id="count" aria-live="polite">29 / 29</span>
-        </div></div>
+    <div class="container">
+      <div class="title">
+        <h2>Available Languages</h2>
+        <p>Download a single language, or get all of them as one zip file.</p>
+      </div>
+      <div class="search">
+        <svg class="i" viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+        <input type="search" id="q" placeholder="Search languages…" aria-label="Search languages" autocomplete="off">
+        <span class="count" id="count" aria-live="polite">29 / 29</span>
       </div>
       <ul class="grid" id="grid"></ul>
-      <p class="empty" id="empty" hidden>No language matches that search. <a href="https://github.com/AmarilloNL/liquidfiles-translations/issues" style="color:var(--accent)">Request one on GitHub</a>.</p>
+      <p class="empty" id="empty" hidden>No language matches that search.</p>
     </div>
   </section>
 
-  <section id="install">
-    <div class="wrap">
-      <div class="head"><div>
-        <span class="eyebrow reveal"><span class="dot"></span>Installation</span>
-        <h2 class="reveal" style="--d:.06s">Live in <span class="serif">three</span> steps.</h2>
-        <p class="sub reveal" style="--d:.12s">No restart, no command line. Everything happens in the LiquidFiles admin console.</p>
-      </div></div>
+  <section id="install" class="alt">
+    <div class="container">
+      <div class="title">
+        <h2>Install in Three Steps</h2>
+        <p>Everything happens in the LiquidFiles admin console. No command line needed.</p>
+      </div>
       <ol class="steps">
-        <li class="step shell reveal"><div class="core"><span class="n mono">01</span><h3>Download</h3><p>Grab a single <kbd>.yml</kbd> file above, or the zip with all 29 languages.</p></div></li>
-        <li class="step shell reveal" style="--d:.08s"><div class="core"><span class="n mono">02</span><h3>Upload</h3><p>Open <kbd>Admin → System → Locales</kbd> and add the file as a new locale. Locales apply to every domain on the appliance.</p></div></li>
-        <li class="step shell reveal" style="--d:.16s"><div class="core"><span class="n mono">03</span><h3>Activate</h3><p>Set a default under <kbd>Admin → Configuration → Settings</kbd>, or let users choose in Account Settings. Browser languages are detected automatically.</p></div></li>
+        <li class="step"><div class="icon"><svg class="i" viewBox="0 0 24 24"><path d="M12 4v12m0 0-5-5m5 5 5-5M5 20h14"/></svg></div>
+          <h3>Download</h3><p>Download the <kbd>.yml</kbd> file for your language, or the zip with all 29.</p></li>
+        <li class="step"><div class="icon"><svg class="i" viewBox="0 0 24 24"><path d="M12 20V8m0 0-5 5m5-5 5 5M5 4h14"/></svg></div>
+          <h3>Upload</h3><p>Go to <kbd>Admin → System → Locales</kbd> and add the file as a new locale.</p></li>
+        <li class="step"><div class="icon"><svg class="i" viewBox="0 0 24 24"><path d="m5 12 4.5 4.5L19 7"/></svg></div>
+          <h3>Activate</h3><p>Set the default in <kbd>Admin → Configuration → Settings</kbd>, or let users choose it in Account Settings.</p></li>
       </ol>
     </div>
   </section>
 
   <section id="faq">
-    <div class="wrap faq">
-      <div>
-        <span class="eyebrow reveal"><span class="dot"></span>FAQ</span>
-        <h2 class="reveal" style="--d:.06s">Good to <span class="serif">know.</span></h2>
-      </div>
-      <div class="reveal" style="--d:.1s">
-        <details><summary>Which LiquidFiles version do these match?<span class="pm"><svg class="i" viewBox="0 0 24 24" style="width:14px;height:14px"><path d="M12 5v14M5 12h14"/></svg></span></summary>
-          <p>They were made from the English strings of LiquidFiles v4.2.17. Older and newer 4.x versions work too. Any string a file doesn't have is shown in English.</p></details>
-        <details><summary>Will regional browser languages pick these up?<span class="pm"><svg class="i" viewBox="0 0 24 24" style="width:14px;height:14px"><path d="M12 5v14M5 12h14"/></svg></span></summary>
-          <p>Yes. LiquidFiles falls back from a regional code to the base language, so a browser set to <kbd>de-AT</kbd> or <kbd>fr-BE</kbd> uses the <kbd>de</kbd> or <kbd>fr</kbd> file. You can add a small regional file on top for the strings that differ.</p></details>
-        <details><summary>Can I change wording to fit my organisation?<span class="pm"><svg class="i" viewBox="0 0 24 24" style="width:14px;height:14px"><path d="M12 5v14M5 12h14"/></svg></span></summary>
-          <p>Of course. Once a locale is uploaded you can edit any string under Admin → System → Locales, or edit the YAML before uploading it.</p></details>
-        <details><summary>I found a mistake. How do I report it?<span class="pm"><svg class="i" viewBox="0 0 24 24" style="width:14px;height:14px"><path d="M12 5v14M5 12h14"/></svg></span></summary>
+    <div class="container">
+      <div class="title"><h2>Frequently Asked Questions</h2></div>
+      <div class="faq">
+        <details><summary>Which LiquidFiles version do these match?</summary>
+          <p>They were made from the English strings of LiquidFiles v4.2.17. Other 4.x versions work as well. Any string a file doesn't have is shown in English.</p></details>
+        <details><summary>Do regional browser languages use these files?</summary>
+          <p>Yes. LiquidFiles falls back from a regional code to the base language, so a browser set to <kbd>de-AT</kbd> or <kbd>fr-BE</kbd> uses the <kbd>de</kbd> or <kbd>fr</kbd> file.</p></details>
+        <details><summary>Can I change the wording?</summary>
+          <p>Yes. After uploading, you can edit any string under Admin → System → Locales. You can also edit the YAML file before uploading it.</p></details>
+        <details><summary>I found a mistake. How do I report it?</summary>
           <p><a href="https://github.com/AmarilloNL/liquidfiles-translations/issues">Open an issue</a> or send a pull request on GitHub. Native speakers are very welcome.</p></details>
-        <details><summary>Is this an official LiquidFiles project?<span class="pm"><svg class="i" viewBox="0 0 24 24" style="width:14px;height:14px"><path d="M12 5v14M5 12h14"/></svg></span></summary>
+        <details><summary>Is this an official LiquidFiles project?</summary>
           <p>No. This is an independent community project and isn't affiliated with or endorsed by LiquidFiles.</p></details>
       </div>
     </div>
   </section>
 
-  <div class="wrap closing reveal">
-    <div class="shell"><div class="core">
-      <h2>Every language, <span class="serif">one download.</span></h2>
-      <p class="sub">All 29 YAML files in a single zip, ready for Admin → System → Locales.</p>
-      <div class="cta">
-        <a class="btn primary" href="https://github.com/AmarilloNL/liquidfiles-translations/releases/latest/download/liquidfiles-translations.zip">
-          Download all (.zip)
-          <span class="knob"><svg class="i" viewBox="0 0 24 24"><path d="M12 4v12m0 0-5-5m5 5 5-5M5 20h14"/></svg></span></a>
-        <a class="btn ghost" href="https://github.com/AmarilloNL/liquidfiles-translations">View on GitHub
-          <span class="knob"><svg class="i" viewBox="0 0 24 24"><path d="M7 17 17 7M9 7h8v8"/></svg></span></a>
-      </div>
-    </div></div>
+  <div class="cta">
+    <div class="container">
+      <h2>Get All 29 Languages</h2>
+      <p>One zip file, ready to upload under Admin → System → Locales.</p>
+      <a class="btn btn-lg btn-green" href="https://github.com/AmarilloNL/liquidfiles-translations/releases/latest/download/liquidfiles-translations.zip">
+        <svg class="i" viewBox="0 0 24 24"><path d="M12 4v12m0 0-5-5m5 5 5-5M5 20h14"/></svg>Download All Languages</a>
+    </div>
   </div>
-
-  <div class="wrap"><footer>
-    <span>Community project · not affiliated with LiquidFiles.</span>
-    <span><a href="https://github.com/AmarilloNL/liquidfiles-translations">GitHub</a> · <a href="https://github.com/AmarilloNL/liquidfiles-translations/issues">Report an issue</a> · <a href="https://docs.liquidfiles.com/branding/locales.html">LiquidFiles locale docs</a></span>
-  </footer></div>
 </main>
 
+<footer>
+  <div class="container">
+    <span>Community project. Not affiliated with LiquidFiles.</span>
+    <span><a href="https://github.com/AmarilloNL/liquidfiles-translations">GitHub</a> · <a href="https://github.com/AmarilloNL/liquidfiles-translations/issues">Report an issue</a> · <a href="https://docs.liquidfiles.com/branding/locales.html">LiquidFiles locale docs</a></span>
+  </div>
+</footer>
+
 <script>
-// [file, locale code, native name, English name, script, [save, cancel, logout, recipients, downloaded_by, session_expired]]
+// [file, locale code, native name, English name, [save, cancel, logout, recipients, downloaded_by, session_expired]]
 const L = [
-  ["ar-sa","ar","العربية","Arabic","Arabic",["حفظ","إلغاء","تسجيل الخروج","المستلمون","تم التنزيل بواسطة","انتهت صلاحية الجلسة"]],
-  ["bg-bg","bg","Български","Bulgarian","Cyrillic",["Запазване","Отказ","Изход","Получатели","Изтеглено от","Сесията е изтекла"]],
-  ["zh-cn","zh-CN","简体中文","Chinese (Simplified)","Han",["保存","取消","退出登录","收件人","下载者","会话已过期"]],
-  ["hr-hr","hr","Hrvatski","Croatian","Latin",["Spremi","Odustani","Odjava","Primatelji","Preuzeo","Sesija je istekla"]],
-  ["cs-cz","cs","Čeština","Czech","Latin",["Uložit","Zrušit","Odhlásit se","Příjemci","Stáhl(a)","Relace vypršela"]],
-  ["da-dk","da","Dansk","Danish","Latin",["Gem","Annuller","Log ud","Modtagere","Downloadet af","Sessionen er udløbet"]],
-  ["nl-nl","nl","Nederlands","Dutch","Latin",["Opslaan","Annuleren","Afmelden","Ontvangers","Gedownload door","Sessie is verlopen"]],
-  ["et-ee","et","Eesti","Estonian","Latin",["Salvesta","Tühista","Logi välja","Saajad","Allalaadija","Seanss on aegunud"]],
-  ["fi-fi","fi","Suomi","Finnish","Latin",["Tallenna","Peruuta","Kirjaudu ulos","Vastaanottajat","Lataaja","Istunto on vanhentunut"]],
-  ["fr-fr","fr","Français","French","Latin",["Enregistrer","Annuler","Se déconnecter","Destinataires","Téléchargé par","La session a expiré"]],
-  ["de-de","de","Deutsch","German","Latin",["Speichern","Abbrechen","Abmelden","Empfänger","Heruntergeladen von","Die Sitzung ist abgelaufen"]],
-  ["el-gr","el","Ελληνικά","Greek","Greek",["Αποθήκευση","Ακύρωση","Αποσύνδεση","Παραλήπτες","Λήψη από","Η περίοδος σύνδεσης έληξε"]],
-  ["hu-hu","hu","Magyar","Hungarian","Latin",["Mentés","Mégse","Kijelentkezés","Címzettek","Letöltötte","A munkamenet lejárt"]],
-  ["ga-ie","ga","Gaeilge","Irish","Latin",["Sábháil","Cealaigh","Logáil amach","Faighteoirí","Íoslódáilte ag","Tá an seisiún imithe in éag"]],
-  ["it-it","it","Italiano","Italian","Latin",["Salva","Annulla","Esci","Destinatari","Scaricato da","La sessione è scaduta"]],
-  ["ja-jp","ja","日本語","Japanese","Japanese",["保存","キャンセル","ログアウト","受信者","ダウンロードしたユーザー","セッションの有効期限が切れました"]],
-  ["lv-lv","lv","Latviešu","Latvian","Latin",["Saglabāt","Atcelt","Iziet","Saņēmēji","Lejupielādēja","Sesija ir beigusies"]],
-  ["lt-lt","lt","Lietuvių","Lithuanian","Latin",["Išsaugoti","Atšaukti","Atsijungti","Gavėjai","Atsisiuntė","Seansas baigėsi"]],
-  ["mt-mt","mt","Malti","Maltese","Latin",["Issejvja","Ikkanċella","Oħroġ","Riċevituri","Imniżżel minn","Is-sessjoni skadiet"]],
-  ["pl-pl","pl","Polski","Polish","Latin",["Zapisz","Anuluj","Wyloguj","Odbiorcy","Pobrane przez","Sesja wygasła"]],
-  ["pt-pt","pt","Português","Portuguese","Latin",["Guardar","Cancelar","Terminar sessão","Destinatários","Transferido por","A sessão expirou"]],
-  ["ro-ro","ro","Română","Romanian","Latin",["Salvați","Anulați","Deconectare","Destinatari","Descărcat de","Sesiunea a expirat"]],
-  ["ru-ru","ru","Русский","Russian","Cyrillic",["Сохранить","Отмена","Выйти","Получатели","Кем скачано","Сеанс истёк"]],
-  ["sk-sk","sk","Slovenčina","Slovak","Latin",["Uložiť","Zrušiť","Odhlásiť sa","Príjemcovia","Stiahol(-la)","Relácia vypršala"]],
-  ["sl-si","sl","Slovenščina","Slovenian","Latin",["Shrani","Prekliči","Odjava","Prejemniki","Prenesel","Seja je potekla"]],
-  ["es-es","es","Español","Spanish","Latin",["Guardar","Cancelar","Cerrar sesión","Destinatarios","Descargado por","La sesión ha caducado"]],
-  ["sv-se","sv","Svenska","Swedish","Latin",["Spara","Avbryt","Logga ut","Mottagare","Hämtad av","Sessionen har gått ut"]],
-  ["tr-tr","tr","Türkçe","Turkish","Latin",["Kaydet","İptal","Oturumu kapat","Alıcılar","İndiren","Oturumun süresi doldu"]],
-  ["uk-ua","uk","Українська","Ukrainian","Cyrillic",["Зберегти","Скасувати","Вийти","Отримувачі","Ким завантажено","Сеанс завершився"]],
+  ["ar-sa","ar","العربية","Arabic",["حفظ","إلغاء","تسجيل الخروج","المستلمون","تم التنزيل بواسطة","انتهت صلاحية الجلسة"]],
+  ["bg-bg","bg","Български","Bulgarian",["Запазване","Отказ","Изход","Получатели","Изтеглено от","Сесията е изтекла"]],
+  ["zh-cn","zh-CN","简体中文","Chinese (Simplified)",["保存","取消","退出登录","收件人","下载者","会话已过期"]],
+  ["hr-hr","hr","Hrvatski","Croatian",["Spremi","Odustani","Odjava","Primatelji","Preuzeo","Sesija je istekla"]],
+  ["cs-cz","cs","Čeština","Czech",["Uložit","Zrušit","Odhlásit se","Příjemci","Stáhl(a)","Relace vypršela"]],
+  ["da-dk","da","Dansk","Danish",["Gem","Annuller","Log ud","Modtagere","Downloadet af","Sessionen er udløbet"]],
+  ["nl-nl","nl","Nederlands","Dutch",["Opslaan","Annuleren","Afmelden","Ontvangers","Gedownload door","Sessie is verlopen"]],
+  ["et-ee","et","Eesti","Estonian",["Salvesta","Tühista","Logi välja","Saajad","Allalaadija","Seanss on aegunud"]],
+  ["fi-fi","fi","Suomi","Finnish",["Tallenna","Peruuta","Kirjaudu ulos","Vastaanottajat","Lataaja","Istunto on vanhentunut"]],
+  ["fr-fr","fr","Français","French",["Enregistrer","Annuler","Se déconnecter","Destinataires","Téléchargé par","La session a expiré"]],
+  ["de-de","de","Deutsch","German",["Speichern","Abbrechen","Abmelden","Empfänger","Heruntergeladen von","Die Sitzung ist abgelaufen"]],
+  ["el-gr","el","Ελληνικά","Greek",["Αποθήκευση","Ακύρωση","Αποσύνδεση","Παραλήπτες","Λήψη από","Η περίοδος σύνδεσης έληξε"]],
+  ["hu-hu","hu","Magyar","Hungarian",["Mentés","Mégse","Kijelentkezés","Címzettek","Letöltötte","A munkamenet lejárt"]],
+  ["ga-ie","ga","Gaeilge","Irish",["Sábháil","Cealaigh","Logáil amach","Faighteoirí","Íoslódáilte ag","Tá an seisiún imithe in éag"]],
+  ["it-it","it","Italiano","Italian",["Salva","Annulla","Esci","Destinatari","Scaricato da","La sessione è scaduta"]],
+  ["ja-jp","ja","日本語","Japanese",["保存","キャンセル","ログアウト","受信者","ダウンロードしたユーザー","セッションの有効期限が切れました"]],
+  ["lv-lv","lv","Latviešu","Latvian",["Saglabāt","Atcelt","Iziet","Saņēmēji","Lejupielādēja","Sesija ir beigusies"]],
+  ["lt-lt","lt","Lietuvių","Lithuanian",["Išsaugoti","Atšaukti","Atsijungti","Gavėjai","Atsisiuntė","Seansas baigėsi"]],
+  ["mt-mt","mt","Malti","Maltese",["Issejvja","Ikkanċella","Oħroġ","Riċevituri","Imniżżel minn","Is-sessjoni skadiet"]],
+  ["pl-pl","pl","Polski","Polish",["Zapisz","Anuluj","Wyloguj","Odbiorcy","Pobrane przez","Sesja wygasła"]],
+  ["pt-pt","pt","Português","Portuguese",["Guardar","Cancelar","Terminar sessão","Destinatários","Transferido por","A sessão expirou"]],
+  ["ro-ro","ro","Română","Romanian",["Salvați","Anulați","Deconectare","Destinatari","Descărcat de","Sesiunea a expirat"]],
+  ["ru-ru","ru","Русский","Russian",["Сохранить","Отмена","Выйти","Получатели","Кем скачано","Сеанс истёк"]],
+  ["sk-sk","sk","Slovenčina","Slovak",["Uložiť","Zrušiť","Odhlásiť sa","Príjemcovia","Stiahol(-la)","Relácia vypršala"]],
+  ["sl-si","sl","Slovenščina","Slovenian",["Shrani","Prekliči","Odjava","Prejemniki","Prenesel","Seja je potekla"]],
+  ["es-es","es","Español","Spanish",["Guardar","Cancelar","Cerrar sesión","Destinatarios","Descargado por","La sesión ha caducado"]],
+  ["sv-se","sv","Svenska","Swedish",["Spara","Avbryt","Logga ut","Mottagare","Hämtad av","Sessionen har gått ut"]],
+  ["tr-tr","tr","Türkçe","Turkish",["Kaydet","İptal","Oturumu kapat","Alıcılar","İndiren","Oturumun süresi doldu"]],
+  ["uk-ua","uk","Українська","Ukrainian",["Зберегти","Скасувати","Вийти","Отримувачі","Ким завантажено","Сеанс завершився"]],
 ];
 const REPO = "https://github.com/AmarilloNL/liquidfiles-translations";
 const grid = document.getElementById("grid");
-grid.innerHTML = L.map(([f, code, nat, eng, script, s], i) => `
-  <li class="card shell reveal" style="--d:${(i % 4) * .05}s" data-k="${(nat + " " + eng + " " + code + " " + f).toLowerCase()}">
-    <div class="core">
-      <div class="top"><span class="tag">${script}</span><span class="code mono">${f}.yml</span></div>
-      <div class="native" lang="${code}" dir="${code === "ar" ? "rtl" : "auto"}">${nat}</div>
-      <div class="eng">${eng}</div>
-      <div class="sample" lang="${code}"><span>${s[0]}</span><span>${s[1]}</span><span>${s[2]}</span></div>
-      <div class="row">
-        <a class="dl" href="locales/${f}.yml" download>Download<span class="knob"><svg class="i" viewBox="0 0 24 24"><path d="M12 4v12m0 0-5-5m5 5 5-5M5 20h14"/></svg></span></a>
-        <a class="view" href="${REPO}/blob/main/locales/${f}.yml" title="View ${eng} file on GitHub" aria-label="View ${eng} file on GitHub"><svg class="i" viewBox="0 0 24 24"><path d="M2.5 12S6 5.5 12 5.5 21.5 12 21.5 12 18 18.5 12 18.5 2.5 12 2.5 12Z"/><circle cx="12" cy="12" r="3"/></svg></a>
-      </div>
+grid.innerHTML = L.map(([f, code, nat, eng, s]) => `
+  <li class="card" data-k="${(nat + " " + eng + " " + code + " " + f).toLowerCase()}">
+    <h3 lang="${code}">${nat}</h3>
+    <div class="sub"><span>${eng}</span><code>${f}.yml</code></div>
+    <div class="words" lang="${code}">${s[0]} · ${s[1]} · ${s[2]}</div>
+    <div class="actions">
+      <a class="btn btn-blue" href="locales/${f}.yml" download><svg class="i" viewBox="0 0 24 24"><path d="M12 4v12m0 0-5-5m5 5 5-5M5 20h14"/></svg>Download</a>
+      <a href="${REPO}/blob/main/locales/${f}.yml">View file →</a>
     </div>
   </li>`).join("") + `
-  <li class="card shell req reveal" data-k="">
-    <div class="core">
-      <div class="native">Missing a language?</div>
-      <p>Request it or contribute a translation on GitHub.</p>
-      <div class="row"><a class="dl" href="${REPO}/issues/new">Request<span class="knob"><svg class="i" viewBox="0 0 24 24"><path d="M12 5v14M5 12h14"/></svg></span></a></div>
-    </div>
+  <li class="card req">
+    <h3>Missing a language?</h3>
+    <p>Request it or contribute a translation on GitHub.</p>
+    <div class="actions"><a href="${REPO}/issues/new">Request a language →</a></div>
   </li>`;
 
-// search
 const q = document.getElementById("q"), count = document.getElementById("count"), empty = document.getElementById("empty");
 q.addEventListener("input", () => {
   const t = q.value.trim().toLowerCase(); let n = 0;
-  for (const c of grid.children) { if (c.classList.contains("req")) continue; const hit = c.dataset.k.includes(t); c.hidden = !hit; if (hit) { n++; c.classList.add("in"); } }
+  for (const c of grid.children) { if (c.classList.contains("req")) continue; const hit = c.dataset.k.includes(t); c.hidden = !hit; n += hit; }
   count.textContent = `${n} / ${L.length}`; empty.hidden = n > 0;
 });
 
-// reveal on scroll
-const io = new IntersectionObserver(es => es.forEach(e => { if (e.isIntersecting) { e.target.classList.add("in"); io.unobserve(e.target); } }), { rootMargin: "0px 0px -8% 0px" });
-document.querySelectorAll(".reveal").forEach(el => io.observe(el));
-
-// live language preview in the hero mock
-const app = document.getElementById("app"), mock = app.closest(".core");
-const nodes = mock.querySelectorAll("[data-t]");
+// cycle the preview through the languages
+const app = document.getElementById("app"), preview = app.closest(".preview"), nodes = preview.querySelectorAll("[data-t]");
 let idx = L.findIndex(l => l[0] === "nl-nl");
 setInterval(() => {
-  if (document.hidden || mock.matches(":hover")) return;
+  if (document.hidden || preview.matches(":hover")) return;
   idx = (idx + 1) % L.length;
-  const [, code, nat, , , s] = L[idx];
-  mock.classList.add("swap");
-  setTimeout(() => {
-    nodes.forEach(n => n.textContent = n.dataset.t === "name" ? nat : s[n.dataset.t]);
-    app.lang = code; app.dir = code === "ar" ? "rtl" : "ltr";
-    mock.classList.remove("swap");
-  }, 350);
-}, 2600);
+  const [, code, nat, , s] = L[idx];
+  nodes.forEach(n => n.textContent = n.dataset.t === "name" ? nat : s[n.dataset.t]);
+  app.lang = code; app.dir = code === "ar" ? "rtl" : "ltr";
+}, 2500);
 </script>
 </body>
 </html>

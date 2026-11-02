@@ -453,8 +453,8 @@ document.querySelectorAll(".reveal").forEach(el => io.observe(el));
 const app = document.getElementById("app"), mock = app.closest(".core");
 const nodes = mock.querySelectorAll("[data-t]");
 let idx = L.findIndex(l => l[0] === "nl-nl");
-if (!matchMedia("(prefers-reduced-motion: reduce)").matches) setInterval(() => {
-  if (document.hidden) return;
+setInterval(() => {
+  if (document.hidden || mock.matches(":hover")) return;
   idx = (idx + 1) % L.length;
   const [, code, nat, , , s] = L[idx];
   mock.classList.add("swap");

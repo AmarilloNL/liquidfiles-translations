@@ -225,10 +225,11 @@ footer a:hover { color: var(--ink); }
   .nav .links { display: none; }
 }
 @media (max-width: 560px) {
-  .wrap { padding: 0 16px; }
+  .wrap { padding-left: 16px; padding-right: 16px; }
   section { padding: 80px 0; }
-  .cta .btn { flex: 1; justify-content: space-between; }
-  .brand span { display: none; }
+  .cta .btn { flex: 1 1 100%; justify-content: space-between; }
+  .brand > span:last-child { display: none; }
+  .brand { padding-right: 6px; }
   .bar .url { display: none; }
 }
 @media (prefers-reduced-motion: reduce) {

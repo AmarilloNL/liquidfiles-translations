@@ -1,0 +1,154 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>LiquidFiles Translations</title>
+<meta name="description" content="29 ready-to-import language files (locales) for LiquidFiles. Free to download.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root {
+  --bg: #f6f7fb; --surface: #fff; --text: #14172b; --muted: #5b6078; --line: #e3e6ef;
+  --accent: #1f6feb; --accent-ink: #fff; --accent-soft: #e7efff; --chip: #eef0f6;
+}
+@media (prefers-color-scheme: dark) {
+  :root { --bg: #0d1020; --surface: #161a2e; --text: #eef0fa; --muted: #9aa0bd; --line: #262b45;
+          --accent: #5b9bff; --accent-ink: #0d1020; --accent-soft: #1c2747; --chip: #20253d; }
+}
+* { box-sizing: border-box; }
+[hidden] { display: none !important; }
+body { margin: 0; background: var(--bg); color: var(--text); font: 16px/1.55 Inter, system-ui, sans-serif; }
+a { color: var(--accent); }
+.wrap { max-width: 1080px; margin: 0 auto; padding: 0 20px; }
+
+header { padding: 72px 0 40px; position: relative; overflow: hidden; }
+header::before { content: ""; position: absolute; inset: -40% -10% auto; height: 520px; z-index: -1;
+  background: radial-gradient(closest-side, var(--accent-soft), transparent); }
+h1, h2 { font-family: "Bricolage Grotesque", Inter, sans-serif; letter-spacing: -.02em; margin: 0; }
+h1 { font-size: clamp(2.3rem, 6vw, 3.8rem); font-weight: 800; line-height: 1.05; }
+h1 span { color: var(--accent); }
+.lede { color: var(--muted); font-size: 1.15rem; max-width: 620px; margin: 16px 0 28px; }
+.stats { display: flex; flex-wrap: wrap; gap: 8px 24px; color: var(--muted); font-size: .95rem; margin-bottom: 28px; }
+.stats b { color: var(--text); font-weight: 600; }
+.actions { display: flex; flex-wrap: wrap; gap: 12px; }
+.btn { display: inline-flex; align-items: center; gap: 8px; padding: 12px 20px; border-radius: 10px;
+  font-weight: 600; text-decoration: none; border: 1px solid var(--line); color: var(--text); background: var(--surface);
+  transition: transform .15s, box-shadow .15s; }
+.btn:hover { transform: translateY(-1px); box-shadow: 0 6px 20px -8px rgba(0,0,0,.25); }
+.btn.primary { background: var(--accent); color: var(--accent-ink); border-color: transparent; }
+.btn svg { width: 18px; height: 18px; }
+
+section { padding: 32px 0; }
+.bar { display: flex; flex-wrap: wrap; gap: 12px; justify-content: space-between; align-items: end; margin-bottom: 18px; }
+h2 { font-size: 1.7rem; font-weight: 600; }
+input[type=search] { width: min(100%, 300px); padding: 11px 14px; border-radius: 10px; border: 1px solid var(--line);
+  background: var(--surface); color: var(--text); font: inherit; }
+input[type=search]:focus { outline: 2px solid var(--accent); outline-offset: 1px; }
+
+.grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); gap: 14px; list-style: none; padding: 0; margin: 0; }
+.card { background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 18px;
+  display: flex; flex-direction: column; gap: 4px; transition: border-color .15s; }
+.card:hover { border-color: var(--accent); }
+.native { font-size: 1.3rem; font-weight: 600; }
+.meta { display: flex; justify-content: space-between; align-items: center; color: var(--muted); font-size: .9rem; }
+.code { font: 500 .8rem ui-monospace, Consolas, monospace; background: var(--chip); padding: 2px 8px; border-radius: 6px; color: var(--text); }
+.row { display: flex; gap: 8px; margin-top: 14px; }
+.row a { flex: 1; text-align: center; padding: 8px 10px; border-radius: 8px; font-size: .9rem; font-weight: 600; text-decoration: none; }
+.dl { background: var(--accent-soft); color: var(--accent); }
+.dl:hover { background: var(--accent); color: var(--accent-ink); }
+.view { color: var(--muted); border: 1px solid var(--line); }
+.view:hover { color: var(--text); }
+.empty { color: var(--muted); padding: 24px 0; }
+
+.steps { counter-reset: s; list-style: none; padding: 0; margin: 18px 0 0; display: grid; gap: 14px;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); }
+.steps li { background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 20px 20px 20px 64px; position: relative; }
+.steps li::before { counter-increment: s; content: counter(s); position: absolute; left: 20px; top: 18px; width: 30px; height: 30px;
+  border-radius: 50%; background: var(--accent); color: var(--accent-ink); display: grid; place-items: center; font-weight: 600; }
+.steps b { display: block; margin-bottom: 4px; }
+.steps p { margin: 0; color: var(--muted); font-size: .95rem; }
+kbd { font: .85em ui-monospace, Consolas, monospace; background: var(--chip); padding: 1px 6px; border-radius: 5px; color: var(--text); }
+
+footer { color: var(--muted); font-size: .9rem; padding: 40px 0 56px; border-top: 1px solid var(--line); margin-top: 32px; }
+@media (max-width: 520px) { header { padding-top: 48px; } .btn { flex: 1; justify-content: center; } }
+@media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <h1>LiquidFiles <span>Translations</span></h1>
+    <p class="lede">Free locale files for <a href="https://www.liquidfiles.com/">LiquidFiles</a>. Download a language, upload it under Admin → System → Locales, and your users can use it right away.</p>
+    <div class="stats"><span><b>29</b> languages</span><span><b>1,378</b> strings each</span><span>Based on <b>LiquidFiles v4.2.17</b></span></div>
+    <div class="actions">
+      <a class="btn primary" href="https://github.com/AmarilloNL/liquidfiles-translations/releases/latest/download/liquidfiles-translations.zip">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3v12m0 0-5-5m5 5 5-5M4 21h16"/></svg>
+        Download all (.zip)</a>
+      <a class="btn" href="https://github.com/AmarilloNL/liquidfiles-translations">
+        <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 .5a11.5 11.5 0 0 0-3.64 22.41c.58.1.79-.25.79-.56v-2c-3.2.7-3.88-1.37-3.88-1.37-.52-1.33-1.28-1.69-1.28-1.69-1.05-.71.08-.7.08-.7 1.16.08 1.77 1.19 1.77 1.19 1.03 1.77 2.7 1.26 3.36.96.1-.75.4-1.26.73-1.55-2.55-.29-5.24-1.28-5.24-5.69 0-1.26.45-2.29 1.19-3.1-.12-.29-.52-1.46.11-3.05 0 0 .97-.31 3.17 1.18a11 11 0 0 1 5.77 0c2.2-1.49 3.17-1.18 3.17-1.18.63 1.59.23 2.76.11 3.05.74.81 1.19 1.84 1.19 3.1 0 4.42-2.69 5.39-5.26 5.68.41.36.78 1.06.78 2.14v3.17c0 .31.21.67.8.56A11.5 11.5 0 0 0 12 .5Z"/></svg>
+        View on GitHub</a>
+    </div>
+  </div>
+</header>
+
+<main class="wrap">
+  <section aria-labelledby="langs">
+    <div class="bar">
+      <h2 id="langs">Languages</h2>
+      <input type="search" id="q" placeholder="Search a language…" aria-label="Search languages">
+    </div>
+    <ul class="grid" id="grid"></ul>
+    <p class="empty" id="empty" hidden>No language matches that search.</p>
+  </section>
+
+  <section aria-labelledby="how">
+    <h2 id="how">How to install</h2>
+    <ol class="steps">
+      <li><b>Download</b><p>Pick a language above and save the <kbd>.yml</kbd> file.</p></li>
+      <li><b>Upload</b><p>In LiquidFiles, go to <kbd>Admin → System → Locales</kbd> and add the file as a new locale.</p></li>
+      <li><b>Choose</b><p>Set the default in <kbd>Admin → Configuration → Settings</kbd>, or let users pick it under Account Settings. The browser language is detected automatically.</p></li>
+    </ol>
+  </section>
+</main>
+
+<footer>
+  <div class="wrap">
+    Found a wrong translation? <a href="https://github.com/AmarilloNL/liquidfiles-translations/issues">Open an issue</a> or send a pull request.
+    This is a community project and isn't affiliated with LiquidFiles. Strings added in newer LiquidFiles versions will fall back to English.
+  </div>
+</footer>
+
+<script>
+const LANGS = [
+  ["ar-sa","ar","العربية","Arabic"], ["bg-bg","bg","Български","Bulgarian"], ["zh-cn","zh-CN","简体中文","Chinese (Simplified)"],
+  ["hr-hr","hr","Hrvatski","Croatian"], ["cs-cz","cs","Čeština","Czech"], ["da-dk","da","Dansk","Danish"],
+  ["nl-nl","nl","Nederlands","Dutch"], ["et-ee","et","Eesti","Estonian"], ["fi-fi","fi","Suomi","Finnish"],
+  ["fr-fr","fr","Français","French"], ["de-de","de","Deutsch","German"], ["el-gr","el","Ελληνικά","Greek"],
+  ["hu-hu","hu","Magyar","Hungarian"], ["ga-ie","ga","Gaeilge","Irish"], ["it-it","it","Italiano","Italian"],
+  ["ja-jp","ja","日本語","Japanese"], ["lv-lv","lv","Latviešu","Latvian"], ["lt-lt","lt","Lietuvių","Lithuanian"],
+  ["mt-mt","mt","Malti","Maltese"], ["pl-pl","pl","Polski","Polish"], ["pt-pt","pt","Português","Portuguese"],
+  ["ro-ro","ro","Română","Romanian"], ["ru-ru","ru","Русский","Russian"], ["sk-sk","sk","Slovenčina","Slovak"],
+  ["sl-si","sl","Slovenščina","Slovenian"], ["es-es","es","Español","Spanish"], ["sv-se","sv","Svenska","Swedish"],
+  ["tr-tr","tr","Türkçe","Turkish"], ["uk-ua","uk","Українська","Ukrainian"],
+];
+const grid = document.getElementById("grid");
+grid.innerHTML = LANGS.map(([file, code, native, english]) => `
+  <li class="card" data-k="${(native + " " + english + " " + code).toLowerCase()}">
+    <span class="native" lang="${code}" dir="${code === "ar" ? "rtl" : "ltr"}">${native}</span>
+    <span class="meta">${english}<span class="code">${code}</span></span>
+    <span class="row">
+      <a class="dl" href="locales/${file}.yml" download aria-label="Download ${english}">Download</a>
+      <a class="view" href="https://github.com/AmarilloNL/liquidfiles-translations/blob/main/locales/${file}.yml" aria-label="View ${english} file">View</a>
+    </span>
+  </li>`).join("");
+const q = document.getElementById("q"), empty = document.getElementById("empty");
+q.addEventListener("input", () => {
+  const t = q.value.trim().toLowerCase(); let n = 0;
+  for (const c of grid.children) { const hit = c.dataset.k.includes(t); c.hidden = !hit; n += hit; }
+  empty.hidden = n > 0;
+});
+</script>
+</body>
+</html>

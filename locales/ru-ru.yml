@@ -1,0 +1,1569 @@
+ru:
+  s: с
+  min: мин
+  hours: Часы
+  days: Дни
+  weeks: Недели
+  months: Месяцы
+  years: Годы
+  ago: назад
+  email: Эл. почта
+  save: Сохранить
+  delete: Удалить
+  cancel: Отмена
+  remove: Убрать
+  aborting: Прерывание
+  aborted: Прервано
+  saved_successfully: Успешно сохранено
+  logout: Выйти
+  error: Ошибка
+  enabled: Включено
+  disabled: Отключено
+  disable: Отключить
+  default: По умолчанию
+  submit: Отправить
+  session_expired: Сеанс истёк
+  search: Поиск
+  filter: Фильтр
+  recipient: Получатель
+  recipients: Получатели
+  downloaded_by: Кем скачано
+  filename: Имя файла
+  size: Размер
+  downloaded: Скачано
+  host: Хост
+  ip: IP-адрес
+  action: Действие
+  view_message: Просмотреть сообщение
+  view_message_popup: Просмотреть сообщение (во всплывающем окне)
+  download_info: Сведения о скачивании
+  message_id: ID сообщения
+  filelink_id: ID FileLink
+  sent_at: Отправлено
+  id: ID
+  subject: Тема
+  expires: Истекает
+  invalid_method: Недопустимый метод
+  export_csv: Экспорт в CSV
+  export_all: Экспортировать всё
+  export_visible: Экспортировать видимое
+  temporarily_unavailable: Временно недоступно
+  generic_search_error: Общая ошибка поиска
+  sender: Отправитель
+  search_temporary_disabled: Поиск временно отключён
+  help: Справка
+  close: Закрыть
+  count: Количество
+  settings: Настройки учётной записи
+  virus: Вирус
+  virus_status: Антивирусная проверка
+  infected: Заражён
+  clean: Чистый
+  not_scanned: Не проверен
+  not_yet_scanned: Ещё не проверен
+  csrf_error: "CSRF: обнаружены недопустимые параметры. Войдите снова, чтобы продолжить."
+  could_not_be_saved: Не удалось сохранить
+  label: Метка
+  updated: Обновлено
+  add: Добавить
+  system_info: Сведения о системе
+  location: Местоположение
+  accept: Принять
+  last_7_days: Последние 7 дней
+  last_30_days: Последние 30 дней
+  last_60_days: Последние 60 дней
+  last_90_days: Последние 90 дней
+  last_180_days: Последние 180 дней
+  last_365_days: Последние 365 дней
+  file: Файл
+  files: Файлы
+  next: Далее
+  previous: Назад
+  name: Имя
+  view: Просмотр
+  forget: Забыть
+  update: Обновить
+  updated_at: Дата обновления
+  created_at: Дата создания
+  download_link_expired: Срок действия ссылки для скачивания истёк.
+  no_html5_upload_warning: Для отправки файлов нужен современный браузер с поддержкой HTML5. Microsoft Edge, Chrome, Firefox и Safari прекрасно подходят.
+  javascript_warning: Для отправки файлов и использования большинства функций требуется JavaScript.
+  cookie_accept: Этот сайт использует файлы cookie. Входя в систему или нажимая «Принять», Вы соглашаетесь на использование файлов cookie.
+  i_agree: Я согласен
+  session_timeout: Сеанс истёк, войдите снова
+  loading: Загрузка...
+  unsupported_browser_header: Неподдерживаемый браузер
+  unsupported_browser_description_html: Ваш браузер не поддерживается, и сайт, скорее всего, будет работать некорректно. Воспользуйтесь более новым браузером.
+  not_logged_in_invalid_parameters: Вход не выполнен, недопустимые параметры
+  toggle_dropdown: Показать/скрыть меню
+  rejected: Отклонено
+  undetected: Не обнаружено
+  invalid_link: Недействительная ссылка, обратитесь к отправителю
+  account_settings_tooltip: Настройки учётной записи
+  logout_tooltip: Выйти
+  download_id: ID скачивания
+  remote_host: Удалённый хост
+  show: Показать
+  hide: Скрыть
+  password: Пароль
+  download: Скачать
+  unauthorized: Нет доступа
+  account:
+    login: Войти
+    login_label: Адрес эл. почты
+    email: Адрес эл. почты
+    password: Пароль
+    current_password: Текущий пароль
+    please_enter_your_current_password: Введите текущий пароль
+    sign_in: Войти
+    remember_me: Запомнить меня
+    not_administrator: Вы не администратор
+    password_reset: Сбросить пароль
+    register: Зарегистрироваться
+    register_description_html: Спасибо! Чтобы продолжить, введите свои данные и создайте учётную запись.<br>В следующий раз Вы сможете войти с помощью адреса эл. почты и пароля.
+    account_not_activated: Учётная запись не активирована. Активируйте её перед входом. Мы отправили Вам письмо со случайным кодом. Введите код ниже или перейдите по ссылке в письме, чтобы подтвердить учётную запись.
+    incorrect_user_or_pw: Неверное имя пользователя или пароль
+    confirmation_email_sent: Письмо с подтверждением отправлено
+    activated_successfully: Успешно активировано
+    not_activated: Учётная запись не активирована
+    password_reset_email_sent: Письмо для сброса пароля отправлено
+    no_such_user: Такого пользователя не существует
+    no_such_email: Адрес эл. почты не найден
+    not_logged_in: Вход не выполнен. Войдите, чтобы продолжить.
+    saved_successfully: Успешно сохранено
+    unlicensed_install_some_settings: "Нелицензированная установка: параметры фирменного оформления видны только системным администраторам"
+    incorrect_login_or_demo: Неверное имя пользователя или пароль, либо достигнут лимит лицензии
+    incorrect_login_or_ldap: Неверное имя пользователя или пароль, либо ошибка сервера LDAP
+    invalid_api_key: Недействительный ключ API
+    cant_delete_last_sysadmin: Невозможно удалить последнего системного администратора
+    cant_change_last_sysadmin: Невозможно изменить последнего системного администратора
+    sso_login: Вход через SSO
+    invalid_sso_response: Недопустимый ответ SSO
+    automatic: Автоопределение
+    network_access_blocked: Доступ к этой системе из Вашей сети запрещён.
+    please_login: Войдите, чтобы открыть эту страницу.
+    email_validation_session_timeout: Сеанс истёк, подтвердите адрес эл. почты ещё раз.
+    signature: Подпись
+    not_authorized_for_action: У Вас нет прав на это действие
+    invalid_group: Недопустимая группа. Обратитесь к администратору, который может перевести Вашу учётную запись в группу локальных пользователей
+    invalid_group_configuration: Недопустимая конфигурация группы. Обратитесь к администратору, который может создать для Вас учётную запись или изменить конфигурацию группы.
+    please_enter_email_to_email_password: Введите адрес эл. почты, чтобы сбросить пароль. На этот адрес будет отправлено письмо с подтверждением.
+    password_reset_successfully: Пароль успешно сброшен
+    password_cant_be_empty: Пароль не может быть пустым
+    password_complexity_title: Сложность пароля
+    password_complexity_description_html: "<p>Ваш пароль <strong>не может быть основан на словарном слове</strong> и должен соответствовать как минимум 3 из следующих требований:</p><ul><li>Не менее 8 символов</li><li>Не менее 11 символов</li><li>Не менее 15 символов</li><li>Не менее 1 строчной и 1 прописной буквы</li><li>Не менее 1 цифры (0-9)</li><li>Не менее одного из следующих символов: !,@,#,$,%,^,&amp;,*,?,_,~,-,(,)</li></ul>"
+    is_not_strong_enough: недостаточно надёжен
+    your_password_has_expired: Срок действия Вашего пароля истёк
+    please_select_a_different_password: Выберите пароль, отличный от предыдущего
+    change_password: Изменить пароль
+    account_not_found: Учётная запись не найдена. Войдите снова.
+    user_required_to_use_saml: Невозможно сбросить пароль, войдите через SAML
+    sysadmin_ldap_error: Эта учётная запись управляется через LDAP и не может быть сброшена здесь
+    login_limit_exceeded: Превышен лимит попыток входа
+    a_confirmation_email_will_be_sent: На этот адрес будет отправлено письмо с подтверждением
+    name: Имя
+    password_confirm: Подтверждение пароля
+    save: Сохранить
+    can_not_reset_password_please_check_with_your_administrator: Невозможно сбросить пароль, обратитесь к администратору
+    no_need_to_register_user: Регистрироваться не нужно. Войдите с помощью существующей учётной записи.
+    registration_not_allowed: Регистрация запрещена
+    create_description: Создайте учётную запись, указав имя и пароль.
+    activated_successfully_please_login: Учётная запись успешно активирована. Теперь Вы можете войти с помощью адреса эл. почты и пароля.
+    invalid_activation_url: Недействительная ссылка активации. Проверьте ссылку и повторите попытку.
+    already_logged_in: Вы уже вошли в систему. Зарегистрировать новую учётную запись невозможно.
+    bruteforce_message: Превышено количество неудачных попыток. Повторите попытку через %{minutes} мин.
+    admin_access_blocked: Доступ администратора с Вашего IP-адреса запрещён.
+    account_created_successfully: Учётная запись успешно создана
+    create_account: Создать учётную запись
+    create_account_description: Обновите свои данные, чтобы создать учётную запись.
+    account_settings: Настройки учётной записи
+    change_language: Изменить язык и часовой пояс
+    filedrop_label: Filedrop (случайный)
+    filedrop_email_label: Filedrop
+    verify_account: Проверить учётную запись
+    invalid_sso_signature: Недопустимая подпись SSO или вход
+    user_not_found: Пользователь не найден
+    could_not_create_account: Не удалось создать учётную запись
+    two_factor_authentication_failed: Ошибка двухфакторной аутентификации Duo
+    copy_to_clipboard: Копировать в буфер обмена
+    copy_url_to_clipboard: Копировать URL в буфер обмена
+    delete_user_warning: Вы действительно хотите удалить этого пользователя?
+    unauthorized_to_login: У Вас нет права на вход
+    first_time_message_title: Добро пожаловать в LiquidFiles
+    first_time_message: <p>Добро пожаловать в LiquidFiles — самый простой способ безопасно отправлять большие файлы.</p><p>Основные функции работают точно так же, как в системе веб-почты.</p><p>Это сообщение будет показано только один раз. Если у Вас возникнут трудности или Вы захотите изучить более продвинутые функции, нажмите кнопку «Справка» в правом верхнем углу строки меню.</p>
+    first_time_message_button: Понятно!
+    registration_failed_unknown_error: Регистрация не удалась из-за неизвестной ошибки
+    session_timeout: Сеанс истёк
+    nothing_filled_in: Заполните форму
+    last_used: Последнее использование
+    strong_auth_required_before_password_reset: Перед сбросом пароля этой учётной записи требуется надёжная двухфакторная аутентификация.
+    unfriendly_registration_message: Если Вы можете зарегистрироваться в системе с этим адресом эл. почты, Вы получите письмо. Если письмо не пришло, воспользуйтесь ссылкой на поддержку выше.
+    unfriendly_password_reset_message: Если учётную запись с этим адресом эл. почты можно сбросить, Вы получите письмо. Если письмо не пришло, воспользуйтесь ссылкой на поддержку выше.
+    aliases:
+      aliases: Псевдонимы
+      aliases_description: Вы можете добавить к своей учётной записи псевдонимы отправителя и получателя. Псевдоним отправителя позволяет отправлять сообщения от имени этого адреса эл. почты. Псевдоним получателя позволяет просматривать сообщения для этого адреса. Сообщения на псевдоним получателя также отображаются в папке входящих защищённых сообщений.
+      aliases_no_change_description: Псевдоним отправителя позволяет отправлять сообщения от имени этого адреса эл. почты. Псевдоним получателя позволяет просматривать сообщения для этого адреса. Сообщения на псевдоним получателя также отображаются в папке входящих защищённых сообщений. Чтобы добавить или изменить псевдонимы, обратитесь к администратору.
+      recipient_aliases: Псевдонимы получателя
+      sender_aliases: Псевдонимы отправителя
+      add_alias: Добавить псевдоним
+      remove: Убрать
+      default_sender_alias: Псевдоним отправителя по умолчанию
+      default_sender_alias_description: Псевдоним отправителя, используемый по умолчанию.
+      are_you_sure: Вы действительно хотите убрать этот псевдоним?
+      no_emails: Псевдонимы не добавлены.
+      please_contact_an_administrator: Для управления ими обратитесь к администратору
+      auto_added_aliases: Автоматически добавленные псевдонимы
+      auto_added_aliases_description: Следующие псевдонимы были автоматически добавлены в Ваш профиль. Для управления ими обратитесь к администратору.
+    alias:
+      confirm:
+        show:
+          title: Спасибо за подтверждение
+          alias_email: Адрес эл. почты псевдонима
+          user: Пользователь
+          recipient_and_sender_confirmation: Указанный выше пользователь теперь может просматривать защищённые сообщения для этого адреса эл. почты и отправлять защищённые сообщения от его имени. Если это ошибка, перейдите по ссылке на поддержку выше.
+          only_recipient_confirmation: Указанный выше пользователь теперь может просматривать защищённые сообщения для этого адреса эл. почты. Если это ошибка, перейдите по ссылке на поддержку выше.
+          only_sender_confirmation: Указанный выше пользователь теперь может отправлять защищённые сообщения от имени этого адреса эл. почты. Если это ошибка, перейдите по ссылке на поддержку выше.
+    add_alias_modal:
+      title: Добавить псевдоним
+      description: Введите адрес эл. почты, к которому Вы хотите получить доступ как псевдоним получателя или отправителя. На этот адрес будет отправлено письмо с подтверждением.
+      recipient_alias: Псевдоним получателя - я хочу читать сообщения, отправленные на этот адрес эл. почты.
+      sender_alias: Псевдоним отправителя - я хочу отправлять сообщения от имени этого адреса эл. почты.
+      invalid_email: Недопустимый адрес эл. почты
+      add_permission: Выберите псевдоним получателя, псевдоним отправителя или оба.
+      send_request: Отправить запрос
+      request_has_been_sent: Ваш запрос отправлен.
+    api:
+      api_key: Ключ API
+      api_key_description: Ключ API используется подключаемыми модулями, например модулем для Outlook, и может применяться для пользовательских интеграций. Он нужен Вам, только если его запросил администратор.
+      api_key_reset_warning: Вы уверены? Если сбросить ключ API, старый ключ придётся заменить везде, где он использовался.
+      reset_api_key: Сбросить ключ API
+    contacts:
+      contacts: Контакты
+      contacts_description: Вы можете добавить сколько угодно контактов. У каждого контакта может быть несколько адресов эл. почты, чтобы быстро и легко отправлять сообщения сразу многим получателям.
+      add_contact: Добавить контакт
+      email_field_help: Список адресов эл. почты через запятую.
+      contact:
+        edit_label: Изменить метку
+        edit_email: Изменить адрес эл. почты
+        are_you_sure: Вы действительно хотите удалить этот контакт?
+    filedrops:
+      filedrops: Filedrop
+      filedrops_description: Вы являетесь основным получателем или получателем копии этих Filedrop. Любой файл, отправленный через любой из них, будет доставлен Вам.
+      name: Имя
+      title: Заголовок
+      recipient: Получатель
+      expires_after: Истекает через
+      max_size: Макс. размер файла
+      url: URL
+      main_recipient: Основной получатель
+      cc: Копия
+    personal_filedrop:
+      personal_filedrop: Личный Filedrop
+      personal_filedrop_description: Личный Filedrop — простой способ получать файлы. Вы можете отправить ссылку, опубликовать её на сайте или добавить в подпись эл. письма. Как только кто-нибудь отправит Вам что-либо через личный Filedrop, Вы получите уведомление.
+    previous_recipients:
+      previous_recipients: Предыдущие получатели
+      previous_recipients_description: При отправке защищённого сообщения каждый получатель добавляется в этот список предыдущих получателей. Так Вы сможете быстро отправить что-либо тем же получателям снова. Получатели, которым Вы ничего не отправляли в течение 180 дней, автоматически удаляются из списка.
+      are_you_sure: Вы действительно хотите удалить этого предыдущего получателя?
+    pw_dictionary:
+      based_on_a_dictionary_word: основан на словарном слове
+      based_upon_your_password_entry: основан на введённом Вами пароле
+      derived_from_your_password_entry: получен из введённого Вами пароля
+      derivable_from_your_password_entry: может быть получен из введённого Вами пароля
+      way_too_short: СЛИШКОМ короткий
+      too_short: слишком короткий
+      it_does_not_contain_enough_different_characters: содержит недостаточно РАЗНЫХ символов
+      all_whitespace: состоит только из пробелов
+      too_simplistic_systematic: слишком простой/систематичный
+      it_looks_like_a_national_insurance_number: похож на номер СНИЛС
+      based_on_a_reversed_dictionary_word: основан на (перевёрнутом) словарном слове
+    show:
+      basic_settings: Основные настройки
+      change_password: Изменить пароль
+      strong_auth: Двухфакторная аутентификация
+      aliases: Псевдонимы
+      previous_recipients: Предыдущие получатели
+      contacts: Контакты
+      personal_filedrop: Личный Filedrop
+      api: API
+      filedrops: Filedrop
+    sms_disable:
+      disable_sms_otp: Отключить двухфакторную аутентификацию по SMS
+      disable_sms_otp_description: Если Вы хотите отключить двухфакторную аутентификацию по SMS, нажмите кнопку ниже. Для подтверждения запроса будет отправлен SMS-код.
+      verify_token_description: "Чтобы отключить двухфакторную аутентификацию по SMS, введите код, отправленный на Ваш мобильный телефон:"
+      code: Код
+      sms_token_failed: Неверный SMS-код, не удалось отключить двухфакторную аутентификацию по SMS
+      sms_otp_has_been_disabled: Двухфакторная аутентификация по SMS отключена
+    sms_signup:
+      sms_signup_description: Вы можете повысить безопасность учётной записи, включив двухфакторную аутентификацию. Чтобы включить её, введите номер телефона ниже.
+      phone_number: Номер телефона
+    sms_enable:
+      signup_complete: Двухфакторная аутентификация по SMS включена
+    terms_of_service:
+      show:
+        title: Условия использования
+        accept_terms_of_service: Принять условия использования
+        do_not_accept: Не принимаю
+      create:
+        you_need_to_accept: Необходимо принять условия использования!
+  activerecord:
+    attributes:
+      attachment:
+        filename: Имя файла
+        size: Размер
+        secure_id: ID вложения
+        content_type: Тип содержимого
+        created_at: Дата создания
+        updated_at: Дата обновления
+      download:
+        recipient: Получатель
+        downloaded_at: Дата скачивания
+        remote_ip: Удалённый IP
+        remote_host: Удалённый хост
+        created_at: Дата создания
+        updated_at: Дата обновления
+      filedrop:
+        name: Имя
+        title: Заголовок
+        description: Описание
+        blocked_extensions: Заблокированные расширения
+        permitted_extensions: Разрешённые типы файлов
+        expires_after: Истекает через
+        max_filesize: Максимальный размер файла
+        created_at: Дата создания
+        updated_at: Дата обновления
+        api_key: Ключ API
+        cc: Копия
+        authorization: Авторизация
+      message:
+        recipients: Получатели
+        sender: Отправитель
+        cc: Копия
+        bcc: Скрытая копия
+        message: Сообщение
+        subject: Тема
+        deleted: Удалено
+        authorization: Авторизация
+        created_at: Дата создания
+        updated_at: Дата обновления
+        expires_at: Истекает
+      share/log:
+        created_at: Дата
+      share/file:
+        checksum: Контрольная сумма (SHA256)
+      share/file/version:
+        whodunnit: Кем изменено
+        created_at: Дата изменения
+      user:
+        name: Имя
+        email: Адрес эл. почты
+        quota: Квота
+        used: Использовано
+        max: Макс.
+        password: Пароль
+        ldap_authentication: Аутентификация LDAP
+        api_key: Ключ API
+        level: Уровень
+        filedrop: Filedrop
+    models:
+      configuration: Конфигурация
+      attachment: Вложение
+      filedrop: Filedrop
+      message: Сообщение
+      user: Пользователь
+      download: Скачивание
+  admin:
+    groups:
+      form:
+        bcc_myself: Отправлять копию себе
+        can_change_bcc_myself: Пользователи этой группы могут изменять параметр «Отправлять копию себе»
+      index:
+        default_group_assignment: Назначение группы по умолчанию
+    users:
+      users:
+        email: Адрес эл. почты
+        name: Имя
+        group: Группа
+        max: Макс. размер файла
+        quota: Квота
+        strong_auth: Надёжная аутентификация
+        filedrop: Filedrop
+        last_login_at: Последний вход
+        last_login_ip: IP последнего входа
+        created: Создано
+      form:
+        name_label: Имя
+        email: Адрес эл. почты
+        password: Пароль
+        password_confirmation: Подтверждение пароля
+        max_label: Максимальный размер файла
+        group: Группа
+        strong_auth: Надёжная аутентификация
+        strong_auth_username: Имя пользователя для надёжной аутентификации
+        api_key: Ключ API
+        filedrop: Filedrop
+  attachments:
+    not_found: Вложение не найдено
+  config:
+    settings: Настройки
+    email: Эл. почта
+    language_preferences_from_your_browser: Языковые настройки браузера
+    authentication: Аутентификация
+    time_zone: Часовой пояс
+    current_time_zone: Текущий часовой пояс
+    time_zone_from_browser: Часовой пояс, определённый браузером
+    time_zone_config_description: Если оставить для часового пояса значение «Автоопределение», будет использоваться часовой пояс, определённый Вашим браузером (всё время будет отображаться в этом поясе). Если браузер не может определить часовой пояс, используется часовой пояс системы по умолчанию. Если браузер определяет часовой пояс неверно или Вы хотите видеть время в другом поясе, можно задать конкретный часовой пояс.
+    time_zone_default: Часовой пояс системы по умолчанию
+    email_settings: Настройки эл. почты
+    configuration: Конфигурация
+    local_domains: Локальный домен
+    ldap_users: Пользователи с аутентификацией LDAP
+    ldap_users_are_always_local: Пользователи с аутентификацией LDAP всегда локальные
+    separated_by_comma: через запятую
+    default_max_file_size: Максимальный размер файла по умолчанию
+    local_users: Локальные пользователи
+    external_users: Внешние пользователи
+    allow_registration: Разрешить регистрацию
+    allow_registration_desc: Разрешить регистрацию на странице входа
+    external_user_account: Внешние получатели
+    external_user_account_desc: Внешние получатели должны создать учётную запись
+    allow_users_to_change_expiration: Пользователи могут изменять срок действия файлов
+    authorization: Разрешение
+    authorization_description: Параметр по умолчанию, определяющий, кто может скачивать файлы.
+    file_expiration: Срок действия
+    default_expire_files_after: По умолчанию файлы истекают через
+    delete_downloaded_files_after: Удалять скачанные файлы через
+    branding: Фирменное оформление
+    company_name: Название компании
+    custom_stylesheet: Пользовательская таблица стилей
+    custom_javascript: Пользовательский JavaScript
+    logotype: Логотип
+    leave_blank_for_default: оставьте пустым для значения по умолчанию
+    email_configuration: Конфигурация эл. почты
+    email_sender_address: Адрес отправителя
+    email_host: Базовый URL для писем
+    email_footer: Нижний колонтитул письма
+    email_relay_host: Сервер ретрансляции почты
+    email_relay_username: Имя пользователя для ретрансляции почты
+    email_relay_password: Пароль для ретрансляции почты
+    port: Порт
+    unlicensed_install_some_settings: "Нелицензированная установка: настройки фирменного оформления видны только системным администраторам"
+    mail_relay_example: "Например: mailrelay.domen.ru, mx.domen.ru:587"
+    ldap: LDAP
+    please_see_the: см.
+    for_more_information: для получения дополнительной информации
+    virus_scan: Антивирусная проверка
+    virus_scan_description: Проверять файлы на вирусы
+    blocked_file_extensions: Заблокированные расширения файлов
+    default_bcc_myself_label: Отправлять копию себе
+    default_bcc_myself: По умолчанию отправлять копию себе
+    allow_users_to_change_require_login_label: Требовать аутентификацию
+    allow_users_to_change_require_login: Пользователи могут изменять параметр «Требовать аутентификацию»
+    permitted_file_extensions_label: Разрешённые расширения файлов
+    delete: Удалить
+    ldap_description: "Включите аутентификацию пользователей через LDAP и задайте основные параметры подключения к серверу LDAP. Если порт не указан, используется стандартный порт LDAP 389 (или 636, если включён SSL). Примечание: порт 3268 НЕ используется для аутентификации в Active Directory, только для поиска в глобальном каталоге. Используйте вместо него порт 389/636."
+    ldap_authentication: Аутентификация LDAP
+    basic_settings: Основные настройки
+    server: Имя сервера / IP-адрес
+    username: Имя пользователя
+    password: Пароль
+    authentication_description: Этот пользователь используется для подключения к серверу LDAP (оставьте пустым для анонимного подключения). Пользователю нужны права на поиск в дереве LDAP.
+    search_key: Ключ поиска
+    search_key_description: Ключ поиска и домен используются для поиска пользователей в дереве LDAP. В таблице ниже показано, как ключ поиска и домен совместно используются для поиска пользователя.
+    search_key_description2: Таким образом, если ключ поиска LDAP содержит адрес эл. почты, домен следует оставить пустым. Если ключ поиска LDAP содержит только имя пользователя, в поле домена следует указать домен пользователей.
+    search_key_defaults: "Для Active Directory хорошей отправной точкой будет: sAMAccountName в качестве ключа поиска LDAP и kompaniya.ru (Ваш домен) в качестве домена."
+    user_enters: Пользователь вводит
+    authorized_ldap_groups: Авторизованные группы LDAP
+    available_groups: Доступные группы
+    default_settings: Настройки по умолчанию
+    setting: Параметр
+    value: Значение
+    description: Описание
+    default_local_max_description: Это максимальный размер файла по умолчанию для новых локальных пользователей. Его можно изменить для каждого пользователя отдельно.
+    user_changeable: Может изменять пользователь?
+    non_local: Нелокальный
+    remote: Удалённый
+    new_external_recipient_is_nonlocal: Новые внешние получатели являются
+    email_message_on_top_label: Сообщение вверху
+    email_message_on_top: В письме получателям сообщение отображается над списком файлов
+    use_either_permitted_or_blocked_extensions: Выберите либо разрешённые, либо заблокированные расширения, но не оба варианта
+    invalid_password: Недопустимый пароль
+    valid_password: Допустимый пароль
+    test_password_validation: Проверить правило для паролей
+    custom_password_validation: Пользовательская проверка пароля
+    custom_password_validation_description: "Это регулярное выражение используется для пользовательской проверки паролей. Введите только само регулярное выражение, без разделителей (не начинайте и не заканчивайте символом '/'). Пример: [a-zA-Z0-9]{7,} (пароли смогут содержать только a-z, A-Z и 0-9, не менее 7 символов)"
+    filedrop: Filedrop
+    receive: Получение
+    api_settings: Настройки API
+    enable_api_label: Включить API
+    enable_api_description: Включить API для доступа через подключаемые модули и скрипты
+    enable_api_group_config: Дополнительные настройки API доступны в конфигурации групп.
+    api_client_size_override_label: Ограничение размера для клиентов API
+    api_client_size_override_description: Клиенты API будут отправлять файлы, превышающие этот размер, через устройство
+    sso_secret_key: Секретный ключ SSO
+    generate_key: Создать новый ключ
+    sso_replace_confirm: Вы уверены? Замена секретного ключа SSO приведёт к тому, что существующие интеграции SSO перестанут работать.
+    virus_scan_skip_locals: Не проверять на вирусы файлы локальных пользователей
+    virus_scan_skip_locals_description: Не проверять на вирусы файлы локальных пользователей
+    virus_scan_permit_unscanned: Разрешить непроверенные файлы
+    virus_scan_permit_unscanned_description: Разрешить скачивание файлов, ещё не проверенных на вирусы
+    userdrop: Filedrop пользователя
+    user_filedrop_with_random_key: Filedrop пользователей со случайным ключом
+    enable_userdrop: Включить Filedrop пользователей
+    example: Пример
+    user_filedrop_with_email: Filedrop пользователей с адресами эл. почты
+    enable_userdrop_email: Включить Filedrop пользователей с адресом эл. почты
+    userdop_email_data_leakage: Это можно использовать для выявления локальных адресов эл. почты, перебирая адреса в URL Filedrop и проверяя, какие из них дают действительный ответ.
+    userdrop_files_expire_after: Переданные файлы истекают через
+    userdrop_max_filesize: Максимальный размер файла для Filedrop пользователя
+    bruteforce_label: Защита от атак методом перебора
+    bruteforce_description_1: Блокировать IP-адрес на
+    bruteforce_description_2: мин. после
+    bruteforce_description_3: неудачных попыток входа/регистрации в течение
+    bruteforce_description_4: мин.
+    bruteforce_whitelist_label: Список разрешённых для защиты от перебора
+    allowed_admin_networks_label: Сети администрирования
+    allowed_admin_networks_description: Ограничить доступ администратора этими хостами и сетями. Localhost (127.0.0.1, ::1) разрешён всегда
+    enable_strong_authentication: По умолчанию включить надёжную аутентификацию для этих типов пользователей
+    authenticated_username: Имя аутентифицированного пользователя
+    duo_hostname: Имя хоста Duo
+    duo_client_id: Ключ интеграции Duo
+    duo_client_secret: Секретный ключ Duo
+    strong_authentication_test: Проверка надёжной аутентификации
+    stronger_password: Выберите более надёжный пароль.
+    cannot_begin_or_end_with_blank: Пароль не может начинаться или заканчиваться пробелом.
+    at_least_one_invalid_domain: Как минимум один недопустимый домен
+    at_least_one_invalid_email: Как минимум один недопустимый адрес эл. почты
+    email_security_level: Уровень безопасности доставки почты
+    geoip: Поиск GeoIP
+    geoip_description: Получает данные о геолокации с https://geoip.liquidfiles.com и показывает карты.
+    tooltip:
+      local_domains: Локальный пользователь может отправлять файлы кому угодно. Нелокальный пользователь может отправлять файлы только локальным пользователям. При первом входе пользователя или при создании учётной записи домен адреса эл. почты сравнивается с этими доменами, чтобы определить, считается ли пользователь локальным.
+      ldap_users_are_always_local: Каждый пользователь, прошедший аутентификацию через LDAP, автоматически считается локальным независимо от домена.
+      allow_registration: Разрешает регистрацию на странице входа. По списку локальных доменов определяется, является ли новый пользователь локальным или нелокальным.
+      local_user_maxfile: Когда локальный пользователь регистрируется или впервые проходит удалённую аутентификацию, ему назначается этот максимальный размер файла.
+      nonlocal_user_maxfile: Когда нелокальный пользователь регистрируется, ему назначается этот максимальный размер файла.
+      delete_downloaded_files_after: Скачанный файл хранится в течение этого периода. Он должен быть достаточно длинным, чтобы получатель мог выбрать другое место для сохранения или начать заново, но достаточно коротким, чтобы ссылка не распространилась среди других людей.
+      file_expiration: Позволяет пользователям изменять срок действия файлов. Если параметр отключён, для всех файлов используется срок действия по умолчанию.
+      default_expire_files_after: Файлы истекут по прошествии этого периода.
+      blocked_file_extensions: Блокировать файлы с этими расширениями (без учёта регистра).
+      virus_scan: Проверять все отправленные файлы на вирусы с помощью антивируса ClamAV
+      require_authentication_permission: Если параметр включён, пользователи могут сами выбирать, требуется ли аутентификация
+      default_bcc_myself: Если параметр включён, сообщения по умолчанию также отправляются самому пользователю
+      permitted_file_extensions: "Если оставить пустым, разрешены все расширения. Если указано хотя бы одно расширение, разрешены только указанные типы файлов. Пример: png, gif, jpg, txt"
+      new_external_recipient_is_nonlocal: Когда сообщение отправляется новому получателю, создавать ли его как нелокального пользователя (чтобы он мог ответить) или как внешнего пользователя?
+      email_message_on_top: Если флажок установлен, в письме получателям сообщение отображается над списком файлов. Если нет, список файлов отображается над сообщением.
+      email_sender: Этот адрес эл. почты используется в качестве отправителя для писем, создаваемых системой, например при сбросе пароля. Чтобы эти письма не помечались как спам, это должен быть реальный адрес эл. почты.
+      email_host: Вложения будут использовать этот URL в качестве базового. Обычно это http://imya-hosta.domen или https://imya-hosta.domen, но может быть и https://imya-hosta.domen:4433, если при подключении пользователей к устройству LiquidFiles на брандмауэре используется переадресация портов.
+      email_footer: Эта подпись будет добавляться ко всем исходящим письмам.
+      email_relay: Использовать этот почтовый сервер для ретрансляции исходящих писем.
+      email_relay_username: Учётная запись для входа на сервер ретрансляции почты
+      email_relay_password: Пароль учётной записи для входа на сервер ретрансляции почты
+  date:
+    formats:
+      default: "%d.%m.%Y"
+      short: "%d.%m"
+      medium: "%d.%m.%Y"
+      long: "%d.%m.%Y"
+  time:
+    am: ДП
+    pm: ПП
+    formats:
+      default: "%d.%m.%Y %H:%M:%S %z"
+      short: "%d.%m %H:%M"
+      medium: "%d.%m.%Y %H:%M"
+      long: "%d.%m.%Y %H:%M"
+  downloads:
+    download_id: ID скачивания
+    index:
+      download_log_title: Скачивания
+      download_log_description: Кто, что и когда скачал
+      paginator_entry_name: скачиваний
+    show:
+      no_map_for_reserved_address: Невозможно показать карту для зарезервированных адресов
+  filedrop:
+    filedrop: Filedrop
+    no_such_filedrop: Такого Filedrop не существует
+    invalid_filedrop_url: Недействительный URL Filedrop
+    invalid_filedrop_url_description: По этому URL нет Filedrop. Проверьте URL и повторите попытку.
+    label: Filedrop
+    mb: МБ
+    name: Имя
+    name_description: Короткое имя, которое также используется в URL (например, /filedrop/imya)
+    title: Заголовок
+    title_description: Заголовок вверху страницы
+    description: Описание
+    description_description: Описание под заголовком
+    user: Пользователь-получатель
+    user_description: Получателем может быть назначен любой локальный пользователь
+    cc: Копия
+    cc_description: "(через запятую) Отправлять копию на эти адреса"
+    expires_after: Истекает через
+    expires_after_description: дн.
+    max_filesize: Максимальный размер файла
+    max_filesize_description: МБ
+    reset_filedrop: Сбросить URL Filedrop
+    filedrop_reset_warning: Вы уверены? Если сбросить URL Filedrop, его придётся заменить везде, где он был опубликован.
+    permitted_extensions: Разрешённые расширения
+    permitted_extensions_description: Будут разрешены только эти типы файлов
+    blocked_extensions: Заблокированные расширения
+    blocked_extensions_description: Эти типы файлов будут заблокированы
+    demo_license_warning_standard: Для использования Filedrop в рабочей среде требуется лицензия. Перейдите на лицензию Pro, чтобы включить функцию Filedrop.
+    max_one_during_demo: В демонстрационном режиме или с лицензией Standard можно настроить не более одного Filedrop
+    filedrop_info: Filedrop позволяет Вашим клиентам отправлять Вам файлы без аутентификации и предварительной настройки. У каждого Filedrop есть постоянный URL, на который можно ссылаться с веб-страниц или в подписях писем. Когда кто-то передаёт файл через Filedrop, он автоматически отправляется заранее заданному пользователю.
+    authorization: Разрешение
+    authorization_description: кто может скачивать файлы, переданные через Filedrop
+    you_will_be_notified: Когда Ваши файлы будут скачаны, Вы получите уведомление о скачивании.
+    require_authentication: Для этого Filedrop требуется аутентификация. Введите пароль, чтобы продолжить.
+    authenticate: Пройти аутентификацию
+    authentication_failed: Ошибка аутентификации
+    require_validation: Для этого Filedrop требуется аутентификация или подтверждение адреса эл. почты.
+  filelink:
+    filelink: FileLink
+    filelinks: FileLink
+    filelink_title: FileLink
+    filelink_description: FileLink — это ссылка на отдельный файл. Вы можете отправить эту ссылку кому угодно, не создавая сообщение и не указывая получателей. Скачать файл смогут только те, кто получил случайную ссылку.
+    expired_or_nonexistent_title: Недействительный FileLink
+    expired_or_nonexistent: Срок действия этого FileLink истёк, или он не существует. Обратитесь к отправителю за новой ссылкой.
+    existing_filelinks: Существующие FileLink
+    new_filelink: Новый FileLink
+    available_files: Доступные файлы
+    filename: Имя файла
+    filesize: Размер файла
+    expires_at: Истекает
+    link: Ссылка
+    checksum: Контрольная сумма
+    copy_link_to_clipboard: Копировать FileLink в буфер обмена
+    expire_link_at: Срок действия ссылки истекает
+    you_have_no_filelinks: У Вас нет FileLink. Добавьте новый FileLink или создайте его из доступного файла.
+    you_have_no_files_available: У Вас нет ранее отправленных файлов. Как только Вы отправите хотя бы один файл, его можно будет выбрать здесь для создания FileLink.
+    create_link: Создать ссылку
+    invalid_file: Недопустимый файл, невозможно создать FileLink
+    delete: Удалить
+    delete_link_warning: Вы действительно хотите удалить этот FileLink?
+    could_not_delete_link: Не удалось удалить FileLink. Ссылка не найдена!
+    filelink_deleted: FileLink удалён!
+    select_file: Выбрать файл
+    send_download_receipts: Отправлять уведомления о скачивании
+    disabled: FileLink отключены, обратитесь к администратору
+    unauthorized: У Вас нет права использовать FileLink
+    require_authentication: Требовать аутентификацию
+    filelink_require_authentication: Для этого FileLink требуется аутентификация
+    filelink_url: URL FileLink
+    expired: Истёк
+    filelink_expired: Срок действия FileLink истёк
+    select_from_available_files: FileLink можно также создать из любого из этих существующих файлов.
+    downloads: Скачивания
+    authentication_failed: Ошибка аутентификации
+    password_label_html: Пароль <small class="text-muted">(необязательно)</small>
+    password_present_html: Для этого FileLink задан пароль.<br>Чтобы удалить его, сохраните пустой пароль.
+    password_not_present: Пароль не задан.
+    copy_to_clipboard: Копировать FileLink в буфер обмена
+    add_file: Добавить файл
+  ftpdrop:
+    create:
+      ftpdrop: FTPdrop
+  html_editor:
+    font:
+      bold: Полужирный
+      italic: Курсив
+      underline: Подчёркнутый
+      clear: Очистить форматирование
+      height: Межстрочный интервал
+      name: Шрифт
+      strikethrough: Зачёркнутый
+      subscript: Подстрочный
+      superscript: Надстрочный
+      size: Размер шрифта
+    image:
+      image: Изображение
+      insert: Вставить изображение
+      resize_full: Полный размер
+      resize_half: Половина размера
+      resize_quarter: Четверть размера
+      float_left: По левому краю
+      float_right: По правому краю
+      float_none: Без выравнивания
+      shape_rounded: "Форма: скруглённая"
+      shape_circle: "Форма: круг"
+      shape_thumbnail: "Форма: миниатюра"
+      shape_none: "Форма: нет"
+      url: URL изображения
+      remove: Удалить изображение
+    link:
+      link: Ссылка
+      insert: Вставить ссылку
+      unlink: Удалить ссылку
+      edit: Изменить
+      text_to_display: Отображаемый текст
+      url: На какой URL должна вести эта ссылка?
+      open_in_new_window: Открыть в новом окне
+    table:
+      table: Таблица
+    hr:
+      insert: Вставить горизонтальную линию
+    style:
+      style: Стиль
+      normal: Обычный
+      blockquote: Цитата
+      pre: Код
+      h1: Заголовок 1
+      h2: Заголовок 2
+      h3: Заголовок 3
+      h4: Заголовок 4
+      h5: Заголовок 5
+      h6: Заголовок 6
+    lists:
+      unordered: Маркированный список
+      ordered: Нумерованный список
+    options:
+      help: Справка
+      fullscreen: Полноэкранный режим
+      codeview: Просмотр кода
+    paragraph:
+      paragraph: Абзац
+      outdent: Уменьшить отступ
+      indent: Увеличить отступ
+      left: По левому краю
+      center: По центру
+      right: По правому краю
+      justify: По ширине
+    color:
+      recent: Последний цвет
+      more: Другие цвета
+      background: Цвет фона
+      foreground: Цвет текста
+      transparent: Прозрачный
+      set_transparent: Сделать прозрачным
+      reset: Сбросить
+      reset_to_default: Восстановить по умолчанию
+    shortcut:
+      shortcuts: Сочетания клавиш
+      close: Закрыть
+      text_formatting: Форматирование текста
+      action: Действие
+      paragraph_formatting: Форматирование абзаца
+      document_style: Стиль документа
+      extra_keys: Дополнительные клавиши
+    history:
+      undo: Отменить
+      redo: Повторить
+  invite:
+    invite_user: Пригласить пользователя
+    description: Вы можете пригласить пользователей обмениваться с Вами файлами. После ввода их данных они получат письмо с инструкциями по завершению регистрации.
+    send_invite: Отправить приглашение
+    name_placeholder: Полное имя
+    invitation_sent: Приглашение отправлено
+    not_permitted_to_invite_users: У Вас нет права приглашать пользователей.
+    invalid_email: Недопустимый адрес эл. почты
+  link:
+    show:
+      set_password: Задать пароль
+      download: Скачать
+      downloads_and_info: Все скачивания и дополнительные сведения
+    authenticate:
+      show:
+        title: Пароль FileLink
+        authenticate: Пройти аутентификацию
+        require_authentication: Чтобы открыть этот FileLink, необходимо ввести пароль.
+      create:
+        authentication_failed: Ошибка аутентификации.
+    downloads:
+      index:
+        back_to_filelink: Назад к FileLink
+    link_downloads:
+      latest_downloads: Последние скачивания (%{count} из %{total})
+  menu:
+    shares: Share
+    messages: Сообщения
+    send_files: Написать
+    users: Пользователи
+    active_transfers: Активные передачи
+    configuration: Конфигурация
+    system: Система
+    message_list: Список сообщений
+    settings: Настройки
+    admin: Администрирование
+    account: Учётная запись
+    inbox: Входящие
+    sent_messages: Отправленные
+    downloads: Журнал скачиваний
+    filelink: FileLink
+    secure_messages: Защищённые сообщения
+    support: Поддержка
+  message:
+    message_sent: Сообщение отправлено
+    not_found: Сообщение не найдено
+    message_not_found_header: Сообщение не найдено!
+    message_not_found_description: Попросите отправителя отправить это сообщение повторно.
+    previous_recipients: Предыдущие получатели
+    contacts: Контакты
+    is_not_permitted: не разрешено
+    not_permitted_to_delete_messages: У Вас нет права удалять сообщения
+    is_not_in_any_of_the_allowed_domains: не входит ни в один из разрешённых доменов
+    is_not_in_any_of_the_allowed_groups: не входит ни в одну из разрешённых групп
+    attach_1_file: Необходимо прикрепить хотя бы один файл
+    too_many_files: Прикреплено слишком много файлов. К одному сообщению можно прикрепить не более %{count} файлов.
+    attached_files: Прикреплённые файлы
+    expired: Срок действия сообщения истёк
+    authorize:
+      show:
+        title: Войдите, чтобы открыть защищённое сообщение
+        authenticate_description_html: Вы собираетесь просмотреть защищённое сообщение. Сначала необходимо войти. Чтобы продолжить, введите адрес эл. почты или войдите в систему.<br>Если у Вас нет учётной записи в этой системе, введите адрес эл. почты, и мы отправим Вам защищённую ссылку для его подтверждения.
+        unauthenticated_html: <h4>Неверное имя пользователя или пароль</h4><p>Введите имя пользователя и пароль. Пароль можно сбросить с помощью кнопки «Сбросить пароль» ниже.</p>
+        unauthorized_to_view_check_email_html: <h4>Неавторизованный адрес эл. почты</h4><p>Убедитесь, что защищённое сообщение [<span class="font-monospace fw-bold">%{message_id}</span>] было отправлено Вам, и введите адрес эл. почты точно так, как было адресовано сообщение.</p><p>Например, если Ваш адрес может быть как ivan.petrov@kompaniya.ru, так и ipetrov@kompaniya.ru, система не может знать, что это один и тот же адрес. Если защищённое сообщение было отправлено на ivan.petrov@kompaniya.ru, именно этот адрес нужно ввести здесь.</p><p>Если Вы не уверены, обратитесь к отправителю защищённого сообщения.</p>
+    errors:
+      not_authorized_to_view_message: "У Вас нет права просматривать сообщение с ID: %{message_id}. Убедитесь, что это сообщение было отправлено Вам."
+      private_message_requires_authentication: Для личных сообщений требуется аутентификация
+    attachments:
+      download_attachment_details_csv: Скачать сведения о вложениях (CSV)
+      attachment:
+        fileinfo: Сведения о файле
+        file_size: Размер файла
+        content_type: Тип содержимого
+        checksum: Контрольная сумма
+        virus_status: Антивирусная проверка
+    compose:
+      options_permission:
+        authentication_required: Требуется аутентификация
+        authentication_not_required: Аутентификация не требуется
+        require_authentication_description: Должны ли получатели проходить аутентификацию, чтобы открыть это сообщение?
+        access_restriction_html: Ограничение доступа<br><small class="text-muted">Кто имеет доступ к этому сообщению?</small>
+        recipients_only_html: Только<br>получатели
+        recipients_plus_locals_html: Получатели<br>+ локальные пользователи
+        recipients_plus_domains_html: Получатели<br>+ домены
+        anyone_secret_link_html: Любой<br>(секретная ссылка)
+    unavailable:
+      header: Сообщение недоступно
+      description: Срок действия этого сообщения истёк, оно удалено, не существует или больше недоступно. Попросите отправителя отправить сообщение повторно.
+    downloads:
+      index:
+        download_log_title: Журнал скачиваний
+        message_id: ID сообщения
+        paginator_entry_name: Скачивания
+      download:
+        details: Подробности
+      not_found:
+        title: Сообщение или скачивание не найдено
+        description_html: Не удалось найти сообщение или скачивание, либо у Вас нет права на их просмотр
+    temporary_user:
+      create:
+        invalid_temporary_user: Неверный пароль. Проверьте письмо с временным паролем или запросите новый временный пароль.
+        temporary_user_expired: Срок действия этого временного пароля истёк. На Ваш адрес эл. почты отправлен новый временный пароль. Проверьте папку «Входящие» и используйте новый временный пароль.
+        not_authorized_to_view_message: "У Вас нет права просматривать сообщение с ID: %{message_id}. Убедитесь, что это сообщение было отправлено Вам."
+      show:
+        title: Введите временный пароль
+        description_html: "Вы собираетесь просмотреть защищённое сообщение. Чтобы открыть его, необходимо ввести временный пароль.<br>Временный пароль — это уникальная случайная строка, идентифицирующая Вас. Временный пароль был отправлен Вам отдельным письмом (тема: Временный пароль)."
+        what_is_this: Что это?
+        login: Войти
+        submit: Проверить временный пароль
+        submit_email: Отправить
+        if_you_have_account: "(если у Вас уже есть учётная запись)"
+        request_temporary_user_header: Запросить новый временный пароль
+        request_temporary_user_description_html: Вы можете запросить новый временный пароль, чтобы открыть это сообщение. Введите адрес эл. почты ниже, чтобы запросить новый временный пароль для этого защищённого сообщения.
+        info_header: Сведения о временном пароле
+        info_body_html: "<p>Временный пароль — это уникальная последовательность цифр и букв, например:</p><pre><code>3ynp-7FKa-pZS9</code></pre><p><em>Этот временный пароль — лишь пример того, как он выглядит; его нельзя использовать.</em></p><p>В папке «Входящие» Вы найдёте <strong>два письма</strong>: одно с защищённым сообщением и одно <strong>с темой, начинающейся со слов: Временный пароль</strong>. Во втором содержится Ваш уникальный временный пароль для этой системы.</p><p>Если Вы не получали письмо с временным паролем, возможно, у Вас уже есть учётная запись в этой системе. В этом случае нажмите «Войти».</p><p>Если Вы считаете, что должны были получить временный пароль, но не получили его, нажмите «Запросить временный пароль», чтобы получить новый.</p>"
+        email_address: Адрес эл. почты
+        email_not_permitted: Этому адресу эл. почты не разрешено просматривать данное защищённое сообщение.
+        email_not_permitted_description_html: <p>Проверьте полученное письмо с защищённым сообщением и введите адрес эл. почты точно так, как было адресовано сообщение.</p><p>Например, если Ваш адрес может быть как ivan.petrov@kompaniya.ru, так и ipetrov@kompaniya.ru, система не может знать, что это один и тот же адрес. Если защищённое сообщение было отправлено на ivan.petrov@kompaniya.ru, именно этот адрес нужно ввести здесь.</p><p>Если Вы не уверены, обратитесь к отправителю защищённого сообщения.</p>
+        email_can_login: У Вас уже есть учётная запись в этой системе
+        email_can_login_description_html: <p>Вы можете войти в эту систему с помощью этого адреса эл. почты и своего пароля.</p><p>Нажмите кнопку «Войти» ниже, чтобы войти с помощью существующей учётной записи.</p>
+        temporary_user_delivered_header: Временный пароль отправлен
+        temporary_user_delivered_description_html: <p>На Ваш адрес эл. почты отправлен временный пароль. Проверьте папку «Входящие», закройте это окно и введите временный пароль.</p>
+    reply:
+      re: "Re:"
+      wrote: пишет
+      show:
+        title: Ответить на защищённое сообщение
+        from: От
+        reply: Ответить
+        reply_all: Ответить всем
+      options:
+        options_description: Обратите внимание, что все параметры берутся из исходного сообщения.
+    show:
+      back: Назад
+      message_header: Заголовок сообщения
+      reply: Ответить
+  messages:
+    sent:
+      skipped_file_not_found: Пропущено - файл не найден
+      show:
+        sent_title: Отправленные
+        sent_description: Отправленные Вами сообщения
+        paginator_entry_name: сообщений
+    attachments:
+      download_cmd:
+        unauthorized:
+          header: Нет доступа
+          body: У Вас нет права скачивать этот файл. Попросите отправителя отправить его Вам повторно.
+          back: Назад
+        exceeded:
+          header: Превышен лимит скачиваний
+          body: Лимит скачиваний для этого файла превышен. Попросите отправителя отправить его Вам повторно.
+          back: Назад
+    download_zip:
+      unauthorized:
+        header: Нет доступа
+        body: У Вас нет права скачивать этот архив. Попросите отправителя отправить файл Вам повторно.
+        back: Назад
+      exceeded:
+        header: Превышен лимит скачиваний
+        body: Лимит скачиваний для одного или нескольких файлов в этом архиве превышен. Попросите отправителя отправить файл Вам повторно.
+        back: Назад
+    message:
+      reply: Ответить
+      reply_all: Ответить всем
+  models:
+    user:
+      no_need_to_create_local_user: Создавать локального пользователя не требуется
+      license_exceeded: Превышен лимит лицензии
+  notifier:
+    activate_user_subject: "[%{hostname}] Активация учётной записи"
+    user_activation: Активация пользователя
+    please_visit_the_following_url_to_activate: Перейдите по ссылке ниже, чтобы активировать учётную запись
+    the_following_files_are_attached: К этому сообщению прикреплены следующие файлы
+    please_visit_the_following_url: Перейдите по этой ссылке, чтобы скачать вложения
+    attachments_are_available: Вложения доступны до
+    message_id: "ID сообщения: %{id}"
+    email_password_reset_subject: Сброс пароля
+    download_receipt_subject: "Уведомление о скачивании [ID: %{message_id}]"
+    a_file_that_you_sent: Отправленный Вами файл был скачан. Сохраните это письмо как подтверждение скачивания.
+    recipient: Получатель
+    filename: Имя файла
+    time_of_download: Время скачивания
+    downloaded_from: Откуда скачано
+    download_receipt: Уведомление о скачивании
+    user_created:
+      account_created: Учётная запись создана
+      subject: "[%{hostname}] Учётная запись создана"
+      message: "Вас ожидает защищённое вложение. Чтобы получить его, необходимо пройти аутентификацию. Перейдите по ссылке ниже, чтобы зарегистрироваться:"
+  outlook:
+    messages:
+      new:
+        attachments_header: Вложения
+        attachments_hint: Чтобы прикрепить файлы, перетащите их в область ниже или нажмите кнопку «Прикрепить файлы».
+        add_to_message: Добавить в сообщение
+      attachments:
+        attach_files: Прикрепить файлы
+        drop_files_here: Перетащите файлы сюда...
+      options:
+        recipients_can_reply: Получатели могут ответить
+        send_copy_to_myself: Отправить копию себе
+        private_message: Личное сообщение
+        private_message_required_auth_error: При отправке личного сообщения необходимо использовать режим «Требуется аутентификация».
+      options_authorization:
+        authentication_authorization_title_html: Аутентификация &amp; авторизация
+        authentication_select_title: Выберите аутентификацию
+        authentication_required: Требуется аутентификация
+        authentication_not_required: Аутентификация не требуется
+        authorization_select_title: Выберите авторизацию
+        recipients_only: Только получатели
+        recipients_locals: Получатели + локальные пользователи
+        recipients_domains: Получатели + домены
+        anyone: Любой (секретная ссылка)
+      options_expiration:
+        message_expires: Срок действия сообщения
+        message_expires_after: Сообщение истекает через
+  pagination:
+    first: "&laquo; Первая"
+    last: Последняя &raquo;
+    previous: "&lsaquo; Предыдущая"
+    next: Следующая &rsaquo;
+    truncate: "&hellip;"
+  requests:
+    title: Запрос файлов
+    file_request: Запрос файлов
+    files_sent: Файлы отправлены, спасибо!
+    request_file: Запросить файл
+    file_requests: Запросы файлов
+    description: С помощью запроса файлов можно попросить кого-либо отправить Вам файлы. После ввода данных этот человек получит письмо с уникальной ссылкой, по которой сможет отправить Вам запрошенные файлы.
+    file_request_not_found: Запрос файлов не найден
+    file_request_expired: Срок действия запроса файлов истёк
+    file_request_already_used: Запрос файлов уже использован
+    file_request_sent: Запрос файлов отправлен
+    not_permited: У Вас нет права использовать функцию запроса файлов
+    multiuse: Многоразовый - эту ссылку для запроса можно использовать несколько раз
+    invalid_recipient: Недопустимый получатель, этот запрос файлов был отправлен другому человеку
+    invalid_user: Это не Ваш запрос файлов
+    index:
+      title: Запросы файлов
+      new_file_request: Новый запрос файлов
+      multiuse: Многоразовый
+      responded_to: Получен ответ
+      hide_expired: Скрыть истёкшие и использованные
+      show_expired: Показать истёкшие и использованные
+    request:
+      resend: Отправить повторно
+      are_you_sure_you_want_to_delete: Вы действительно хотите удалить этот запрос файлов?
+    popup:
+      from: От
+      to: Кому
+      subject: Тема
+      message: Сообщение
+    resend:
+      request_resent: Запрос файлов отправлен повторно
+    new:
+      request_expires: Срок действия запроса
+  send:
+    send: Отправить
+    sent: Отправлено
+    recipients: Кому
+    send_as: Отправить как
+    you_can_only_send_files_to_yourself: Вы можете отправлять файлы только себе
+    subject: Тема
+    subject_placeholder: Тема
+    attachments: Вложения
+    max_file_size: "Максимальный размер вложений: %{filesize} МБ"
+    upload_queue: Очередь отправки
+    remove: Убрать
+    cancel_all: Отменить всё
+    cancel_all_uploads: Отменить все отправки
+    message: Сообщение
+    message_placeholder: Сообщение
+    done_editing_please_send: Редактирование завершено, отправьте файлы после завершения всех загрузок
+    files_sent_successfully: Файлы успешно отправлены
+    you_need_at_least_one_recipient: Необходим хотя бы один получатель
+    you_need_at_least_one_attachment: Необходимо хотя бы одно вложение
+    options: Параметры
+    cc: Копия
+    bcc: Скрытая копия
+    bcc_message_description: Получатели скрытой копии не будут видны другим получателям
+    add_cc: добавить копию
+    add_bcc: добавить скрытую копию
+    bcc_myself: Отправить копию себе
+    require_login: Требовать вход для скачивания файлов
+    only_specified_recipients_can_download: Скачивать вложения могут только указанные получатели
+    anyone_can_download: Скачивать вложения может любой
+    expires_in: Вложения можно скачивать в течение
+    expires_at: Вложения истекают
+    send_options: Параметры отправки
+    to: Кому
+    from: От
+    filename: Имя файла
+    filesize: Размер файла
+    downloaded_at: Дата скачивания
+    message_sent: Сообщение отправлено
+    message_expires: Срок действия сообщения
+    message_expires_after: Сообщение истекает через
+    message_expires_after_description: Рассчитывается для каждого файла отдельно. Если Вы отправите 2 файла, которые истекают после 1 скачивания, каждый получатель сможет скачать каждый файл один раз.
+    downloads_per_recipient: Скачиваний на получателя
+    total_downloads: Всего скачиваний
+    file_not_downloaded: Ни одно вложение не скачано
+    at_least_one_invalid_extension: Как минимум одно из вложений имеет недопустимое расширение
+    invalid_filetype: Недопустимое расширение
+    blocked_extension: "Недопустимое расширение. Нельзя отправлять файлы со следующими расширениями: %{extensions}"
+    permitted_extensions: "Разрешённые расширения: %{filetypes}"
+    already_selected: Этот файл уже выбран
+    maximum_filesize_exceeded: Превышен максимальный размер файла
+    contains_virus: "%{filename} содержит ВИРУС: %{virus}"
+    limited_by_browser: Ограничено браузером
+    limited_by_disk: Ограничено местом на диске
+    limited_by_system_quota: Ограничено системной квотой
+    limited_by_group_quota: Ограничено квотой группы
+    limited_by_quota: Ограничено квотой
+    limited_per_message: Ограничение на сообщение
+    system_quota_exceeded: Превышена системная квота
+    group_quota_exceeded: Превышена квота группы
+    quota_exceeded: Квота превышена
+    no_available_quota: Квота превышена, удалите несколько файлов, чтобы продолжить
+    not_authorized_to_send: У Вас нет права отправлять на адрес %{email}
+    public_url: Общедоступный URL
+    message_url: URL сообщения
+    authorization: Авторизация
+    insufficient_disk_space: Недостаточно места на диске
+    active_transfers: Активные передачи
+    view_log: Просмотреть журнал
+    previously_sent_attachments: Ранее отправленные вложения
+    has_not_downloaded: "%{recipient} ещё не скачал(а) ни одного файла"
+    authentication: Аутентификация
+    required: Обязательно
+    disabled: Отключено
+    require_authentication_tooltip_html: <li>Чтобы скачать файл, получатель должен войти с помощью имени пользователя и пароля.</li> <li>Вы получите уведомление, когда файл будет скачан.</li>
+    dont_require_authentication_tooltip_html: <li>Получателю не нужно будет входить в систему, чтобы скачать файл.</li> <li>Вы получите уведомление о скачивании файла, но не узнаете, кто его скачал (это неизвестно).</li> <li>Уведомление придёт, только когда файл скачает первый получатель.</li>
+    authenticate_link_description: Чтобы открыть этот FileLink, необходимо войти.
+    unauthorized: У Вас нет права просматривать это сообщение.
+    unauthenticated: Неверный пароль
+    incorrect_login_or_demo: Неверный пароль или достигнут лимит лицензии
+    email_authorization_message: Спасибо. Чтобы убедиться, что это Ваш адрес эл. почты, мы отправили Вам письмо с кодом подтверждения. Введите код подтверждения ниже или перейдите по ссылке в письме, чтобы открыть сообщение.
+    email_authorization_link: Спасибо. Чтобы убедиться, что это Ваш адрес эл. почты, мы отправили Вам письмо с кодом подтверждения. Введите код подтверждения из письма ниже или перейдите по ссылке в письме, чтобы открыть FileLink.
+    email_authorization_message_create_account: Спасибо. Поскольку у Вас нет учётной записи в этой системе, мы отправили Вам письмо с кодом подтверждения, чтобы убедиться, что это Ваш адрес эл. почты. Введите код подтверждения ниже или перейдите по ссылке в письме, чтобы подтвердить адрес. Затем Вам будет предложено создать учётную запись, после чего откроется сообщение.
+    email_authorization_link_create_account: Спасибо. Поскольку у Вас нет учётной записи в этой системе, мы отправили Вам письмо с кодом подтверждения, чтобы убедиться, что это Ваш адрес эл. почты. Введите код подтверждения из письма ниже или перейдите по ссылке в письме, чтобы подтвердить адрес. Затем Вам будет предложено создать учётную запись, после чего откроется FileLink.
+    authorize: Авторизовать
+    authenticate: Войти
+    sending: Отправка...
+    abort_transfer: Прервать передачу
+    files_to_big: Слишком большие файлы
+    only_specified_recipients: Доступ есть только у указанных получателей
+    only_specified_recipients_and_local_users: Доступ есть только у указанных получателей и локальных пользователей
+    only_specified_recipients_and_domains: Доступ есть только у указанных получателей и пользователей их домена
+    anyone_after_authentication: Доступ есть у любого (у кого есть случайная ссылка)
+    no_recipient_validation: Без проверки получателей
+    anyone_can_access: Доступ есть у любого
+    anyone: Любой
+    no_authentication: Без аутентификации
+    can_download: могут скачивать
+    not_yet_scanned: проверяется на вирусы, повторите попытку чуть позже. В очереди %{queue}
+    was_infected: "был заражён вирусом %{virus} и удалён"
+    deleted_or_expired: Удалено или истекло
+    im_done_editing: Отправить автоматически после завершения текущих загрузок
+    download_all: Скачать всё
+    zipped_archive: ZIP-архив
+    message_id: ID сообщения
+    overall_progress: Общий ход выполнения
+    abort: Прервать
+    limitations: Ограничения
+    max_size: Максимальный размер
+    add_files: Добавить файлы...
+    add_folder: Добавить папку...
+    no_attachment_added: Вложение не добавлено
+    you_need_to_add_at_least_one_file: Необходимо добавить хотя бы один файл.
+    private_message_or_attached_files: Необходимо включить параметр «Личное сообщение» или прикрепить хотя бы один файл.
+    no_runtime_found: Среда выполнения не найдена, отправка файлов невозможна
+    runtime_check_title: Среда выполнения не найдена
+    selected: выбрано
+    file_size_error: Ошибка размера файла
+    remaining: осталось
+    attached_files: Прикреплённые файлы
+    show_message: Показать сообщение
+    can_be_max: может быть не позднее чем через %{days} дн.
+    not_ready: Ещё не готово к скачиванию
+    download_info: Сведения о скачивании
+    browser: Браузер
+    platform: Платформа
+    operating_system: Операционная система
+    location: Местоположение
+    download_details: Подробности скачивания
+    download_information_not_found: Не удалось найти сведения о скачивании.
+    add: Добавить
+    select_existing_files: Выбрать существующие файлы
+    add_existing_files: Добавить существующие файлы
+    add_existing_description: Эти файлы уже были отправлены, и Вы можете отправить их повторно.
+    zip_disabled: ZIP отключён
+    zip_disabled_description_exceeded: Максимальное количество скачиваний превышено как минимум для одного вложения.
+    spinner_info_html: <strong>Ваше сообщение готово к отправке</strong>. Некоторые файлы ещё обрабатываются в фоновом режиме, но ждать не нужно. <strong>Нажмите «Отправить», когда будете готовы!</strong>
+    sent_to_you: Отправлено Вам
+    excluding_admins: Без учёта администраторов
+    downloads: Скачивания
+    download_log: Журнал скачиваний
+    delete_attachments: Удалить вложения
+    delete_message: Удалить сообщение
+    delete_attachments_warning: Вы действительно хотите удалить вложения?
+    delete_message_warning: При удалении сообщения также будут удалены прикреплённые файлы и журнал скачиваний. Вы действительно хотите удалить сообщение?
+    invalid_message: Недопустимое сообщение
+    message_deleted: Сообщение удалено
+    attachments_deleted: Вложения удалены
+    checksum: Контрольная сумма (SHA256)
+    not_permitted_to_send_messages: У Вас нет права отправлять сообщения.
+    invalid_group_belonging: Отправка запрещена (недопустимая группа). Вы зарегистрированы как внешний пользователь, но Ваш адрес эл. почты принадлежит домену %{domain}, который также входит в число ограниченных доменов получателей. Для внешних пользователей это не допускается. Чтобы продолжить, попросите системного администратора перевести Вас в другую группу.
+    expires_after_exceeded: Превышено количество скачиваний
+    expires_after_exceeded_for_zip: Превышено количество скачиваний как минимум для одного файла в ZIP-архиве
+    permission_description_title: Ограничения доступа
+    permission_description_only_specified_html: <ul> <li>Доступ к сообщению и скачивание файлов возможны только для указанных получателей.</li> <li>Пересылка письма или URL кому-либо не допускается.</li> <li>Чтобы открыть сообщение и скачать файлы, получатели должны войти в систему.</li> <li>При каждом скачивании каждого файла отправляется уведомление о скачивании с подробными сведениями.</li> </ul>
+    permission_description_only_specified_and_local_html: <ul> <li>Скачивать файлы могут только указанные получатели и локальные пользователи.</li> <li>Письмо или URL можно пересылать только локальным пользователям.</li> <li>Чтобы скачать файлы, получатели должны войти в систему.</li> <li>При каждом скачивании каждого файла отправляется уведомление о скачивании с подробными сведениями.</li> </ul>
+    permission_description_only_specified_and_domains_html: <ul> <li>Доступ есть только у указанных получателей и пользователей из того же почтового домена.</li> <li>Если Вы отправите сообщение на direktor@partner.ru, доступ к нему получит и sekretar@partner.ru, но не lyubopytny@konkurent.ru.</li> <li>Чтобы скачать файлы, получатели должны войти в систему.</li> <li>При каждом скачивании каждого файла отправляется уведомление о скачивании с подробными сведениями.</li> </ul>
+    permission_description_anyone_after_authentication_html: <ul> <li>Скачать файлы может любой, у кого есть секретный случайный URL.</li> <li>Письмо или URL можно пересылать кому угодно.</li> <li>Чтобы скачать файлы, получатели должны войти в систему.</li> <li>При каждом скачивании каждого файла отправляется уведомление о скачивании с подробными сведениями.</li> </ul>
+    permission_description_anyone_html: <ul> <li>Скачать файлы может любой, у кого есть секретный случайный URL.</li> <li>Письмо или URL можно пересылать кому угодно.</li> <li>Для скачивания файлов вход <strong>не</strong> требуется.</li> <li>При первом скачивании кем-либо отправляется <strong>базовое</strong> уведомление о скачивании (чтобы знать, кто что скачал, требуется аутентификация).</li> </ul>
+    your_message_has_been_sent: Ваше сообщение отправлено
+    you_can_send_to_anyone: "(Эту ссылку можно отправить кому угодно)"
+    send_more_files: Отправить ещё файлы
+    download_speed: Скорость скачивания
+    download_time: Время скачивания
+    at_least_one_invalid_email: Как минимум один недопустимый адрес эл. почты
+    reply: Получатель может ответить
+    private_message: Личное сообщение
+    private_message_description_html: В личном сообщении текст Вашего сообщения не отправляется получателю по эл. почте — он становится виден только после того, как получатель перейдёт по ссылке в письме и пройдёт аутентификацию. <ul> <li>Личное сообщение можно отправить без вложений.</li> <li>Когда кто-либо просмотрит Ваше сообщение, Вы получите уведомление о доступе.</li> <li>Нельзя отправить личное сообщение с разрешением на скачивание «Скачивать может любой».</li> </ul>
+    private_message_delivered_description: Сообщение отправлено как личное. Текст сообщения не включён в письмо, и Вы будете получать уведомление о доступе, когда каждый получатель просмотрит сообщение.
+    access_info: Сведения о доступе
+    access_details: Подробности доступа
+    validation_code: Код подтверждения
+    expired_token_inline: Срок действия аутентификации по эл. почте истёк, повторите попытку.
+    invalid_token: Неверный или просроченный код. Перейдите по ссылке в исходном письме, чтобы снова подтвердить адрес эл. почты.
+    download_zip: Скачать ZIP
+    zip_ready_for_download: ZIP готов к скачиванию
+    processing_zip: Обработка ZIP-файла
+    drop_file_here: Перетащите файл сюда
+    drop_files_here: Перетащите файлы сюда
+    drop_files_and_folders_here: Перетащите файлы и папки сюда
+    select_pool_files: Выбрать файлы из хранилища
+    add_pool_files: Добавить файлы из хранилища
+    invalid_validation_token: Это недействительный код подтверждения.
+    not_the_validation_token: Это ID сообщения, а не код подтверждения. Введите код подтверждения.
+    no_messages_in_inbox: Во входящих нет сообщений.
+    filename_already_selected: Файл с таким именем уже добавлен в это сообщение
+    filesize_exceeded: Превышен максимальный размер сообщения
+    infected_with: Заражён вирусом
+    not_permitted_to_download_content_blocked: "Скачивание этого файла запрещено. Антивирусная проверка обнаружила: %{virus}"
+    invalid_email_address: Недопустимый адрес эл. почты
+    cant_create_folder: Невозможно создать папку
+    cant_check_folder: Невозможно проверить папку
+    cant_restore_folder: Невозможно восстановить папку
+    cant_check_chunks: Невозможно проверить фрагменты
+    zip_not_include_all_files: Скачать можно не все файлы — ZIP будет содержать только доступные для скачивания файлы.
+    paste_tip: Совет! Вставляйте с помощью Ctrl+Shift+V, чтобы удалить форматирование.
+  session:
+    api:
+      authentication_error: Ошибка аутентификации, повторите попытку.
+      not_local_user: Недопустимый адрес эл. почты. Эту функцию могут использовать только локальные пользователи.
+      show:
+        login: Войти
+        login_label: Адрес эл. почты
+        password: Пароль
+        sso_login: Вход через SSO
+        authentication_title: Вход
+        authentication_description: Чтобы продолжить, введите адрес эл. почты или войдите в систему.
+      authenticated:
+        authentication_successful: Аутентификация пройдена успешно
+    authenticate:
+      login: Войдите, чтобы продолжить
+      description_html: Чтобы открыть эту страницу, необходимо войти. Чтобы продолжить, введите адрес эл. почты или войдите в систему.<br>Если у Вас нет учётной записи в этой системе, введите адрес эл. почты, и мы отправим Вам временный пароль по эл. почте.
+      unauthorized: У Вас нет права просматривать это сообщение. Введите адрес эл. почты точно так, как было адресовано Вам сообщение, или обратитесь к отправителю.
+    email:
+      validate_email: Подтвердите адрес эл. почты
+      validate_email_description_html: "На Ваш адрес эл. почты отправлен код безопасности: <strong>%{email}</strong>. Перейдите по ссылке или введите код безопасности здесь, чтобы подтвердить адрес и продолжить."
+      session_expired: Сеанс истёк, введите адрес эл. почты ещё раз, чтобы продолжить
+      token_expired: Срок действия ссылки для аутентификации в письме истёк, повторите попытку.
+      already_authenticated: Вы уже вошли в систему в этом браузере.
+      resend_validation_email: Отправить письмо с подтверждением повторно
+      verify: Проверить
+      validate_email_sent: "Новое письмо с подтверждением отправлено: %{time}. Перейдите по ссылке в письме или введите код безопасности ниже, чтобы подтвердить адрес эл. почты."
+      invalid_temporary_user: Неверный код безопасности. Проверьте почту — во «Входящие» отправлен новый код безопасности.
+      create_account: Создать учётную запись
+      create_account_description: Создайте учётную запись в этой системе, чтобы входить с помощью адреса эл. почты и пароля вместо кода безопасности.
+      invalid_email: Недопустимый адрес эл. почты
+    login_limit_exceeded:
+      delivered:
+        page_header: Превышен лимит попыток входа
+        description: Вы слишком много раз пытались войти. Чтобы продолжить, необходимо сбросить пароль.
+        email: Отправлено письмо со ссылкой для сброса пароля.
+      waiting:
+        page_header: Превышен лимит попыток входа
+        description: "Вы слишком много раз пытались войти. Примечание: необходимо входить с помощью сетевого пароля. Если Вам нужно сбросить его и Вы не знаете как, обратитесь к сетевому администратору. По истечении времени ожидания можно перезагрузить эту страницу, чтобы сбросить лимит."
+        expiration_time: Время ожидания
+        reload: Перезагрузить
+      show:
+        page_header: Превышен лимит попыток входа
+        description: Вы слишком много раз пытались войти. Вы можете сбросить лимит попыток входа и войти снова. Вам отправлено письмо для сброса лимита.
+      reset:
+        login_limit_reset: Лимит попыток входа сброшен
+    shared:
+      authentication_successful: Аутентификация пройдена успешно
+    outlook:
+      edit:
+        authentication_title: Аутентификация
+        authentication_description: Войдите, чтобы продолжить
+        login: Войти
+        login_label: Адрес эл. почты
+        password: Пароль
+        sso_login: Вход через SSO
+      show:
+        authentication_title: Аутентификация
+        authentication_description: Войдите, чтобы прикрепить защищённые файлы.
+        authenticate: Пройти аутентификацию
+    saml:
+      not_configured:
+        title: SAML не настроен
+        description: В этой системе не настроен SAML. Если Вы считаете, что это ошибка, обратитесь в службу поддержки для выяснения причин.
+        support_button: Связаться с поддержкой
+      api:
+        local:
+          title: Аутентификация SAML
+          description: Аутентификация SAML запущена в браузере по умолчанию — продолжите вход там. Если Вы не можете найти окно или по какой-либо причине оно не работает, продолжите, нажав кнопку ниже.
+          button_label: Вход через SSO
+      response:
+        api_error:
+          authentication_error: Ошибка аутентификации
+          saml_authentication_error: Ошибка аутентификации SSO
+          saml_authentication_error_description: Ошибка аутентификации SSO. Если проблема сохраняется, обратитесь к администратору.
+        api_disabled:
+          api_disabled: Неавторизованная группа пользователей
+          api_disabled_description: У Вашей учётной записи нет доступа к этой функции (API отключён). Обратитесь к администратору и попросите перевести Вашу учётную запись в другую группу.
+        api_response:
+          authentication_successful: Аутентификация пройдена успешно
+        create:
+          could_not_create_account: Не удалось создать учётную запись. За дополнительной информацией обратитесь к администратору.
+        show:
+          could_not_create_account: Не удалось создать учётную запись. За дополнительной информацией обратитесь к администратору.
+    temporary_user:
+      validate_email: Подтвердите адрес эл. почты
+      validate_email_description_html: "На Ваш адрес эл. почты отправлен временный пароль: <strong>%{email}</strong>. Перейдите по ссылке или введите временный пароль здесь, чтобы подтвердить адрес и продолжить."
+      session_expired: Сеанс истёк, введите адрес эл. почты ещё раз, чтобы продолжить
+      token_expired: Срок действия ссылки для аутентификации в письме истёк, повторите попытку.
+      already_authenticated: Вы уже вошли в систему в этом браузере.
+      resend_validation_email: Отправить письмо с подтверждением повторно
+      verify: Проверить
+      validate_email_sent: "Новое письмо с подтверждением отправлено: %{time}. Перейдите по ссылке в письме или введите пароль ниже, чтобы подтвердить адрес эл. почты."
+      invalid_temporary_user: Неверный пароль. Проверьте почту — временный пароль повторно отправлен во «Входящие».
+      temporary_user_expired: Срок действия временного пароля истёк. Проверьте почту — во «Входящие» отправлен новый временный пароль.
+      create_account: Создать учётную запись
+      create_account_description: Создайте постоянную учётную запись в этой системе, чтобы входить с помощью адреса эл. почты и пароля вместо временной учётной записи.
+  shared:
+    show: Показать
+    reify: Восстановить
+    download: Скачать
+    restore: Восстановить
+    delete: Удалить
+    trash: Корзина
+    cancel: Отмена
+    close: Закрыть
+    current: Текущая
+    bootstrap_confirm_dialog:
+      confirm_action: Подтвердите действие
+    shares:
+      bootstrap_confirm_dialog:
+        confirm_action: Подтвердите действие
+      navigation:
+        files: Файлы
+        activity_log: Журнал действий
+      wrap_content:
+        activity_log: Журнал действий
+    error_messages:
+      prohibited_this_from_being_saved: помешали сохранить %{target}
+  share:
+    share: Share
+    shares: Share
+    no_shares: Нет доступных Share
+    name: Имя
+    folder_name: Имя папки
+    share_not_found: Share не найден
+    folder_not_found: Папка не найдена
+    file_not_found: Файл не найден
+    no_read_access: У Вас нет доступа к этому Share
+    no_write_access: У Вас нет права записи в этот Share
+    not_authorized_to_view_logs: У Вас нет права просматривать журналы
+    require_authentication: Для этого Share требуется аутентификация. Введите пароль, чтобы продолжить.
+    authenticate: Пройти аутентификацию
+    authentication_failed: Ошибка аутентификации
+  shares:
+    folders:
+      are_you_sure_you_want_to_delete: Вы действительно хотите удалить эту папку?
+      are_you_sure_you_want_to_trash: Вы действительно хотите безвозвратно удалить эту папку?
+      folder_name_already_taken: Папка с таким именем уже существует!
+      folder_not_found: Папка не найдена
+      could_not_create_folder: "Не удалось создать папку: %{error}"
+      zip_no_files: Нет файлов для добавления в ZIP
+      windows_path_warning:
+        title: Ограничение длины пути в Windows
+        description_html: <strong>Пользователям Windows:</strong> Windows ограничивает длину пути к файлу 259 символами. При отправке папок из расположений с длинными путями файлы, глубоко вложенные в структуру папок, могут быть пропущены без предупреждения, что приведёт к неполной отправке или дублированию папок.
+        workarounds_title: Рекомендуемые решения
+        workarounds_html: "<li><strong>Используйте виртуальный диск:</strong> откройте командную строку и выполните: <code>subst X: \"C:\\ochen\\dlinny\\put\\k\\papke\"</code><br>Затем отправляйте файлы с виртуального диска <code>X:\\</code></li><li><strong>Перейдите ближе к файлам:</strong> перед выбором папки для отправки откройте вложенную папку, расположенную ближе к файлам</li><li><strong>Используйте более короткий путь:</strong> перед отправкой скопируйте файлы в расположение с коротким путём, например <code>C:\\uploads\\</code></li><li><strong>Сначала сожмите папку:</strong> упакуйте папку в ZIP-файл и отправьте его</li>"
+        advanced_title: "Для опытных: включение длинных путей в Windows 10/11"
+        advanced_description_html: Начиная с Windows 10 версии 1607 можно включить поддержку более длинных путей. <strong>Примечание:</strong> требуются права администратора, и это может работать не во всех браузерах. Решения, приведённые выше, надёжнее.
+        registry_steps_title: Порядок включения длинных путей
+        registry_steps_html: "<li>Нажмите <kbd>Win + R</kbd>, введите <code>regedit</code> и нажмите Enter</li><li>Перейдите в раздел: <code>HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\FileSystem</code></li><li>Найдите или создайте параметр DWORD с именем <code>LongPathsEnabled</code> и задайте значение <code>1</code></li><li>Перезагрузите компьютер, чтобы изменение вступило в силу</li><li>Повторите отправку (поддержка может различаться в зависимости от браузера)</li>"
+        browser_disclaimer_html: "<strong>Важно:</strong> даже при включённом параметре реестра поддержка длинных путей зависит от браузера. Chrome, Edge и Firefox могут по-прежнему применять ограничение в 259 символов. Решения, приведённые выше, надёжнее."
+      folder:
+        rename_folder: Переименовать папку
+        move_folder_description: Переместить папку %{foldername} в папку, выбранную ниже
+        move_folder: Переместить папку
+      action_bar:
+        download_as_zip: Скачать как ZIP
+        download_as_zip_with_deleted: Скачать как ZIP, включая удалённые файлы
+        toggle_deleted_view: Показать/скрыть удалённые файлы
+        filter: Фильтр
+        upload_file: Отправить файлы
+        upload_folder: Отправить папку
+        create_folder: Создать папку
+        windows_path_warning: Предупреждение о длине пути
+        upload_folder_unsupported: Отправка папок не поддерживается
+        upload_folder_unsupported_description: К сожалению, Ваш браузер не поддерживает отправку папок. Чтобы отправить структуру папок, используйте настольную версию Chrome или Safari.
+        showing_deleted: Показано удалённых элементов, %{number_of}
+        hiding_deleted: Скрыто удалённых элементов, %{number_of}
+        actions: Действия
+        move_selected: Переместить выбранное
+        trash_selected: Переместить выбранное в корзину
+        delete_selected: Удалить выбранное
+      action_bar_below:
+        send_notifications: Отправить уведомления
+        sending_notifications: Отправка уведомлений
+        quota: Квота
+        used_of: использовано из
+        available: доступно
+        quota_exceeded: Квота превышена
+      create_folder_modal:
+        create_folder: Создать папку
+        create: Создать
+      files:
+        are_you_sure_you_want_to_delete: Вы действительно хотите удалить этот файл?
+        are_you_sure_you_want_to_trash: Вы действительно хотите безвозвратно удалить этот файл?
+        file_not_found: Файл не найден
+        file:
+          rename_file: Переименовать файл
+          move_file: Переместить
+          move_file_description: Переместить файл %{filename} в папку, выбранную ниже
+        show:
+          prev: Назад
+          up: Вверх
+          next: Далее
+          last_updated: Последнее обновление
+          versions: Версии
+          show_all: Показать все
+          version_from: Версия от
+          next_version: Следующая версия
+          previous_version: Предыдущая версия
+          current_version: Текущая версия
+          pdf_preview_not_supported: Ваш браузер не поддерживает предварительный просмотр PDF-файлов
+        available_chunks:
+          available: Доступны частично отправленные копии следующих файлов
+          resume_replace: Продолжить отправку или заменить файлы?
+      quota:
+        quota: Квота
+        used_of: использовано из
+        available: доступно
+        quota_exceeded: Квота превышена
+      move_file_folder_modal:
+        move_folder: Переместить папку
+        move_file: Переместить файл
+        move: Переместить
+      show:
+        select_all: Выбрать все/снять выбор
+    logs:
+      action_bar:
+        activity_log: Журнал действий
+      message:
+        created: Создано
+        uploaded: Отправлено
+        downloaded: Скачано
+        reified: Восстановлено
+        removed: Удалено
+        restored: Восстановлено
+        deleted: Удалено
+        moved: Перемещено
+        renamed: Переименовано
+        added: Добавлено
+        viewed: Просмотрено
+        infected: Заражено
+        trashed: Перемещено в корзину
+        deleted_user: "(Удалённый пользователь)"
+        share: Share
+        folder: Папка
+        file: Файл
+        group: Группа
+        user: Пользователь
+        read: Чтение
+        read/write: Чтение/запись
+        av_scanner: Антивирус
+        version_from: Версия от
+        file_deleted: Файл удалён
+        to: в
+        from: из
+        unknown: Неизвестно
+        other: Другое
+  share/log:
+    message:
+      you: Вы
+      share: Share
+      folder: папка
+      file: файл
+      user: пользователь
+      version_from: версия от
+      read: чтение
+      read/write: чтение/запись
+      created: создал(а)
+      added: добавил(а)
+      uploaded: отправил(а)
+      downloaded: скачал(а)
+      updated: обновил(а)
+      restored: восстановил(а)
+      reified: восстановил(а)
+      deleted: удалил(а)
+      removed: безвозвратно удалил(а)
+      trashed: переместил(а) в корзину
+      renamed: переименовал(а)
+      viewed: просмотрел(а)
+      infected: заражено
+      av_scanner: Антивирус
+      file_deleted: Файл удалён
+  sms_auth:
+    login_failed: Ошибка входа
+    sms_error: Ошибка конфигурации SMS, обратитесь к системному администратору
+    verify_token: Проверить SMS-код
+    verify_token_description: "Введите код, отправленный на Ваш мобильный телефон:"
+    sms_login_failed: Ошибка проверки SMS, отправлен новый SMS-код
+    sms_signup: Подключение двухфакторной аутентификации по SMS
+    sms_signup_failed: Ошибка двухфакторной аутентификации по SMS
+    sms_signup_description: Чтобы продолжить, необходимо подключить двухфакторную аутентификацию по SMS. Введите номер телефона ниже, чтобы продолжить.
+    verify: Проверить
+    resend: Отправить код повторно
+    code: Код
+    token_resent: SMS-код повторно отправлен в %{time}
+    send_token: Отправить код подтверждения
+    phone_number: Номер телефона
+    invalid_phone_number: Недопустимый номер телефона, повторите попытку.
+    change_phone_number: Изменить номер телефона
+    phone_number_help: Введите номер телефона с кодом страны и без начальных нулей (например, 79161234567). На этот номер будет отправлен код подтверждения.
+    one-time-code: Одноразовый код
+  strong_auth:
+    two_factor_authentication: Двухфакторная аутентификация
+    enable_2fa: Включить двухфакторную аутентификацию
+    disable_2fa: Отключить двухфакторную аутентификацию
+    title: Включить двухфакторную аутентификацию
+    enable_2fa_description: Чтобы повысить безопасность учётной записи, можно включить надёжную двухфакторную аутентификацию.
+    require_description: Чтобы пользоваться этой системой, необходимо настроить двухфакторную аутентификацию.
+    disable_description: Введите текущий код, чтобы отключить двухфакторную аутентификацию
+    two_factor_auth_disabled: Двухфакторная аутентификация отключена
+    step1: "Шаг 1: установите приложение для аутентификации"
+    step1_description: Включите двухфакторную аутентификацию, обычно с помощью мобильного приложения.
+    totp_apps_description_html: К приложениям для аутентификации относятся <a href="https://authy.com" target="_blank" rel="external nofollow noopener noreferrer">Authy</a> (для разных платформ) и Google Authenticator (iOS/Android). Другие варианты см. на странице <a href="https://docs.liquidfiles.com/authentication/totp.html#clients" target="_blank">TOTP Clients</a>.
+    step2: "Шаг 2: настройте приложение для аутентификации"
+    step2_description: Настройте приложение для аутентификации, отсканировав QR-код.
+    step2_alt: Или введите код ниже
+    step3: "Шаг 3: проверка"
+    step3_description: Проверьте настройку, введя код, созданный приложением для аутентификации.
+    failed_to_authenticate: Ошибка аутентификации, повторите попытку.
+    click_on_link: Также можно перейти по ссылке ниже, чтобы добавить конфигурацию в приложение для двухфакторной аутентификации
+    configure: Настроить двухфакторную аутентификацию
+    success_saved: Готово, конфигурация двухфакторной аутентификации сохранена
+    verify_token: Проверка двухфакторной аутентификации
+    verify_token_description: Введите код двухфакторной аутентификации из мобильного приложения.
+    verify: Проверить
+    two_factor_login_failed: Ошибка двухфакторной аутентификации
+    two_factor_validation_failed: Ошибка проверки двухфакторной аутентификации
+    skip_2fa_for_two_weeks: Не запрашивать двухфакторную аутентификацию в этом браузере две недели
+    one-time-code: Одноразовый код
+  support:
+    email_subject: Мне нужна помощь с
+    email_body: Опишите проблему как можно подробнее. Спасибо.
+    navbar_tooltip: Если Вам нужна помощь с доступом к системе или её использованием, перейдите по этой ссылке, и мы с радостью Вам поможем.
+  user:
+    includes_at_least_one_invalid_email_address: содержит как минимум один недопустимый адрес эл. почты
+    confirm:
+      invalid_session: Недопустимый сеанс
+      already_validated: Ваш адрес эл. почты уже подтверждён
+      invalid_token: Неверный код. Повторите попытку или нажмите «Отправить письмо с подтверждением повторно».
+      validation_email_sent: "Письмо с подтверждением отправлено: %{time}"
+      activated_successfully: Успешно активировано
+      validate_email_description: Проверьте почту и введите временный пароль, чтобы подтвердить адрес эл. почты.
+    register:
+      already_registered: Эта учётная запись уже зарегистрирована, войдите, чтобы продолжить
+      already_registered_not_validated: Ваша учётная запись уже зарегистрирована, но адрес эл. почты ещё нужно подтвердить. Мы отправили Вам письмо со случайным кодом. Введите код ниже или перейдите по ссылке в письме, чтобы подтвердить учётную запись.
+      show:
+        register: Регистрация учётной записи
+        description_html: <p>Введите свои данные, чтобы создать учётную запись. С её помощью Вы сможете безопасно отправлять большие файлы через %{branding_name}.</p>
+    signup:
+      create:
+        need_password: Необходимо ввести пароль
+        need_name: Необходимо ввести имя
+    create:
+      show:
+        cancel_and_remember: Отменить и больше не спрашивать
+        cancel_and_remember_title: Этот выбор будет запомнен в текущем браузере
+  validator:
+    required: Это поле обязательно для заполнения.
+    remote: Исправьте значение в этом поле.
+    email: Введите действительный адрес эл. почты.
+    url: Введите действительный URL.
+    date: Введите действительную дату.
+    dateISO: Введите действительную дату (ISO).
+    number: Введите действительное число.
+    digits: Вводите только цифры.
+    creditcard: Введите действительный номер кредитной карты.
+    equalTo: Введите то же значение ещё раз.
+    accept: Введите значение с допустимым расширением.
+    maxlength: Введите не более {0} символов.
+    minlength: Введите не менее {0} символов.
+    rangelength: Введите значение длиной от {0} до {1} символов.
+    range: Введите значение от {0} до {1}.
+    max: Введите значение, меньшее или равное {0}.
+    min: Введите значение, большее или равное {0}.
+    step: Введите значение, кратное {0}.
+    invalid_phone_number: Недопустимый номер телефона
+  locale: Русский

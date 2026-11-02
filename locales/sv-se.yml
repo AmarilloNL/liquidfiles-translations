@@ -1,0 +1,1569 @@
+sv:
+  s: s
+  min: min
+  hours: Timmar
+  days: Dagar
+  weeks: Veckor
+  months: Månader
+  years: År
+  ago: sedan
+  email: E-post
+  save: Spara
+  delete: Ta bort
+  cancel: Avbryt
+  remove: Ta bort
+  aborting: Avbryter
+  aborted: Avbruten
+  saved_successfully: Sparat
+  logout: Logga ut
+  error: Fel
+  enabled: Aktiverad
+  disabled: Inaktiverad
+  disable: Inaktivera
+  default: Standard
+  submit: Skicka
+  session_expired: Sessionen har gått ut
+  search: Sök
+  filter: Filter
+  recipient: Mottagare
+  recipients: Mottagare
+  downloaded_by: Hämtad av
+  filename: Filnamn
+  size: Storlek
+  downloaded: Hämtad
+  host: Värd
+  ip: IP-adress
+  action: Åtgärd
+  view_message: Visa meddelande
+  view_message_popup: Visa meddelande (popup)
+  download_info: Nedladdningsinformation
+  message_id: Meddelande-ID
+  filelink_id: FileLink-ID
+  sent_at: Skickat
+  id: ID
+  subject: Ämne
+  expires: Upphör
+  invalid_method: Ogiltig metod
+  export_csv: Exportera CSV
+  export_all: Exportera alla
+  export_visible: Exportera synliga
+  temporarily_unavailable: Tillfälligt otillgänglig
+  generic_search_error: Allmänt sökfel
+  sender: Avsändare
+  search_temporary_disabled: Sökning tillfälligt inaktiverad
+  help: Hjälp
+  close: Stäng
+  count: Antal
+  settings: Kontoinställningar
+  virus: Virus
+  virus_status: Virusstatus
+  infected: Infekterad
+  clean: Ren
+  not_scanned: Inte skannad
+  not_yet_scanned: Ännu inte skannad
+  csrf_error: "CSRF: ogiltiga parametrar har upptäckts. Logga in igen för att fortsätta."
+  could_not_be_saved: Kunde inte sparas
+  label: Etikett
+  updated: Uppdaterad
+  add: Lägg till
+  system_info: Systeminformation
+  location: Plats
+  accept: Godkänn
+  last_7_days: Senaste 7 dagarna
+  last_30_days: Senaste 30 dagarna
+  last_60_days: Senaste 60 dagarna
+  last_90_days: Senaste 90 dagarna
+  last_180_days: Senaste 180 dagarna
+  last_365_days: Senaste 365 dagarna
+  file: Fil
+  files: Filer
+  next: Nästa
+  previous: Föregående
+  name: Namn
+  view: Visa
+  forget: Glöm
+  update: Uppdatera
+  updated_at: Uppdaterad
+  created_at: Skapad
+  download_link_expired: Nedladdningslänken har gått ut.
+  no_html5_upload_warning: För att ladda upp filer krävs en modern webbläsare med stöd för HTML5. Microsoft Edge, Chrome, Firefox och Safari fungerar alla utmärkt.
+  javascript_warning: JavaScript krävs för att skicka filer och använda de flesta funktionerna.
+  cookie_accept: Den här webbplatsen använder cookies. Genom att logga in eller klicka på ”Godkänn” godkänner du användningen av cookies.
+  i_agree: Jag godkänner
+  session_timeout: Sessionen har gått ut, logga in igen
+  loading: Läser in...
+  unsupported_browser_header: Webbläsaren stöds inte
+  unsupported_browser_description_html: Din webbläsare stöds inte och webbplatsen kommer troligen inte att fungera som förväntat. Använd en modernare webbläsare för den här webbplatsen.
+  not_logged_in_invalid_parameters: Inte inloggad, ogiltiga parametrar
+  toggle_dropdown: Visa/dölj meny
+  rejected: Avvisad
+  undetected: Inte upptäckt
+  invalid_link: Ogiltig länk, kontakta avsändaren
+  account_settings_tooltip: Kontoinställningar
+  logout_tooltip: Logga ut
+  download_id: Nedladdnings-ID
+  remote_host: Fjärrvärd
+  show: Visa
+  hide: Dölj
+  password: Lösenord
+  download: Hämta
+  unauthorized: Obehörig
+  account:
+    login: Logga in
+    login_label: E-postadress
+    email: E-postadress
+    password: Lösenord
+    current_password: Nuvarande lösenord
+    please_enter_your_current_password: Ange ditt nuvarande lösenord
+    sign_in: Logga in
+    remember_me: Kom ihåg mig
+    not_administrator: Du är inte administratör
+    password_reset: Återställ lösenord
+    register: Registrera
+    register_description_html: Tack! För att fortsätta anger du dina uppgifter och skapar ett konto.<br>Nästa gång kan du logga in med din e-postadress och ditt lösenord.
+    account_not_activated: Kontot är inte aktiverat. Aktivera kontot innan du loggar in. Ett e-postmeddelande med en slumpmässig kod har skickats till dig. Ange koden nedan eller klicka på länken i e-postmeddelandet för att verifiera ditt konto.
+    incorrect_user_or_pw: Felaktigt användarnamn eller lösenord
+    confirmation_email_sent: Bekräftelsemeddelande skickat
+    activated_successfully: Aktiverat
+    not_activated: Kontot är inte aktiverat
+    password_reset_email_sent: E-postmeddelande för lösenordsåterställning skickat
+    no_such_user: Användaren finns inte
+    no_such_email: E-postadressen hittades inte
+    not_logged_in: Du är inte inloggad. Logga in för att fortsätta.
+    saved_successfully: Sparat
+    unlicensed_install_some_settings: "Olicensierad installation: varumärkesalternativ visas endast för systemadministratörer"
+    incorrect_login_or_demo: Felaktigt användarnamn eller lösenord, eller så har licensgränsen nåtts
+    incorrect_login_or_ldap: Felaktigt användarnamn eller lösenord, eller fel på LDAP-servern
+    invalid_api_key: Ogiltig API-nyckel
+    cant_delete_last_sysadmin: Den sista systemadministratören kan inte tas bort
+    cant_change_last_sysadmin: Den sista systemadministratören kan inte ändras
+    sso_login: SSO-inloggning
+    invalid_sso_response: Ogiltigt SSO-svar
+    automatic: Identifierad automatiskt
+    network_access_blocked: Åtkomst till systemet från ditt nätverk är inte tillåten.
+    please_login: Logga in för att öppna den här sidan.
+    email_validation_session_timeout: Sessionen har gått ut, verifiera din e-postadress igen.
+    signature: Signatur
+    not_authorized_for_action: Du har inte behörighet att utföra den här åtgärden
+    invalid_group: Ogiltig grupp. Kontakta en administratör som kan flytta ditt konto till en grupp för lokala användare
+    invalid_group_configuration: Ogiltig gruppkonfiguration. Kontakta en administratör som kan skapa ett konto åt dig eller ändra gruppkonfigurationen.
+    please_enter_email_to_email_password: Ange din e-postadress för att återställa lösenordet. Ett bekräftelsemeddelande skickas till adressen.
+    password_reset_successfully: Lösenordet har återställts
+    password_cant_be_empty: Lösenordet får inte vara tomt
+    password_complexity_title: Lösenordskomplexitet
+    password_complexity_description_html: "<p>Ditt lösenord <strong>får inte baseras på ett ord ur ordlistan</strong> och måste uppfylla minst 3 av följande krav:</p><ul><li>Minst 8 tecken</li><li>Minst 11 tecken</li><li>Minst 15 tecken</li><li>Minst 1 liten och 1 stor bokstav</li><li>Minst 1 siffra (0-9)</li><li>Minst ett av följande tecken: !,@,#,$,%,^,&amp;,*,?,_,~,-,(,)</li></ul>"
+    is_not_strong_enough: är inte tillräckligt starkt
+    your_password_has_expired: Ditt lösenord har gått ut
+    please_select_a_different_password: Välj ett annat lösenord än ditt tidigare
+    change_password: Ändra lösenord
+    account_not_found: Kontot hittades inte. Logga in igen.
+    user_required_to_use_saml: Lösenordet kan inte återställas, logga in via SAML
+    sysadmin_ldap_error: Det här kontot autentiseras via LDAP och kan inte återställas här
+    login_limit_exceeded: Inloggningsgränsen har överskridits
+    a_confirmation_email_will_be_sent: Ett bekräftelsemeddelande skickas till adressen
+    name: Namn
+    password_confirm: Bekräfta lösenord
+    save: Spara
+    can_not_reset_password_please_check_with_your_administrator: Lösenordet kan inte återställas, kontakta din administratör
+    no_need_to_register_user: Du behöver inte registrera dig. Logga in med ditt befintliga konto.
+    registration_not_allowed: Registrering är inte tillåten
+    create_description: Skapa ditt konto genom att ange ditt namn och ett lösenord.
+    activated_successfully_please_login: Kontot har aktiverats. Du kan nu logga in med din e-postadress och ditt lösenord.
+    invalid_activation_url: Ogiltig aktiveringslänk. Kontrollera länken och försök igen.
+    already_logged_in: Du är redan inloggad. Det går inte att registrera ett nytt konto.
+    bruteforce_message: Du har överskridit antalet misslyckade försök. Försök igen om %{minutes} minuter.
+    admin_access_blocked: Administratörsåtkomst är inte tillåten från din IP-adress.
+    account_created_successfully: Kontot har skapats
+    create_account: Skapa konto
+    create_account_description: Uppdatera dina uppgifter för att skapa ditt konto.
+    account_settings: Kontoinställningar
+    change_language: Ändra språk och tidszon
+    filedrop_label: Filedrop (slumpmässig)
+    filedrop_email_label: Filedrop
+    verify_account: Verifierar kontot
+    invalid_sso_signature: Ogiltig SSO-signatur eller inloggning
+    user_not_found: Användaren hittades inte
+    could_not_create_account: Kontot kunde inte skapas
+    two_factor_authentication_failed: Duo tvåfaktorsautentisering misslyckades
+    copy_to_clipboard: Kopiera till Urklipp
+    copy_url_to_clipboard: Kopiera URL till Urklipp
+    delete_user_warning: Vill du verkligen ta bort den här användaren?
+    unauthorized_to_login: Inte behörig att logga in
+    first_time_message_title: Välkommen till LiquidFiles
+    first_time_message: <p>Välkommen till LiquidFiles – det enklaste sättet att skicka stora filer säkert.</p><p>Grundfunktionerna fungerar precis som en webbmejl.</p><p>Det här meddelandet visas bara en gång. Om du kör fast eller vill upptäcka mer avancerade funktioner klickar du på knappen ”Hjälp” längst upp till höger i menyraden.</p>
+    first_time_message_button: Uppfattat!
+    registration_failed_unknown_error: Registreringen misslyckades på grund av ett okänt fel
+    session_timeout: Sessionen har gått ut
+    nothing_filled_in: Fyll i formuläret
+    last_used: Senast använd
+    strong_auth_required_before_password_reset: Stark tvåfaktorsautentisering krävs innan lösenordet för det här kontot kan återställas.
+    unfriendly_registration_message: Om du kan registrera dig i systemet med den här e-postadressen får du ett e-postmeddelande. Om du inte får något, använd supportlänken ovan.
+    unfriendly_password_reset_message: Om kontot med den här e-postadressen kan återställas får du ett e-postmeddelande. Om du inte får något, använd supportlänken ovan.
+    aliases:
+      aliases: Alias
+      aliases_description: Du kan lägga till avsändar- och mottagaralias i ditt konto. Med ett avsändaralias kan du skicka meddelanden som den e-postadressen. Med ett mottagaralias kan du se meddelanden till den e-postadressen. Meddelanden till ett mottagaralias visas även i din inkorg för säkra meddelanden.
+      aliases_no_change_description: Med ett avsändaralias kan du skicka meddelanden som den e-postadressen. Med ett mottagaralias kan du se meddelanden till den e-postadressen. Meddelanden till ett mottagaralias visas även i din inkorg för säkra meddelanden. Kontakta en administratör för att lägga till eller ändra alias.
+      recipient_aliases: Mottagaralias
+      sender_aliases: Avsändaralias
+      add_alias: Lägg till alias
+      remove: Ta bort
+      default_sender_alias: Standardavsändaralias
+      default_sender_alias_description: Standardaliaset för avsändare.
+      are_you_sure: Vill du verkligen ta bort det här aliaset?
+      no_emails: Inga alias har lagts till.
+      please_contact_an_administrator: Kontakta en administratör för att hantera dessa
+      auto_added_aliases: Automatiskt tillagda alias
+      auto_added_aliases_description: Följande alias har lagts till automatiskt i din profil. Kontakta en administratör för att hantera dessa.
+    alias:
+      confirm:
+        show:
+          title: Tack för din bekräftelse
+          alias_email: Aliasets e-postadress
+          user: Användare
+          recipient_and_sender_confirmation: Användaren ovan kan nu se säkra meddelanden till den här e-postadressen och skicka säkra meddelanden som den här e-postadressen. Klicka på supportlänken ovan om detta är ett misstag.
+          only_recipient_confirmation: Användaren ovan kan nu se säkra meddelanden till den här e-postadressen. Klicka på supportlänken ovan om detta är ett misstag.
+          only_sender_confirmation: Användaren ovan kan nu skicka säkra meddelanden som den här e-postadressen. Klicka på supportlänken ovan om detta är ett misstag.
+    add_alias_modal:
+      title: Lägg till alias
+      description: Ange den e-postadress du vill få åtkomst till som mottagar- eller avsändaralias. Ett e-postmeddelande skickas till adressen för bekräftelse.
+      recipient_alias: Mottagaralias - jag vill läsa meddelanden som skickas till den här e-postadressen.
+      sender_alias: Avsändaralias - jag vill skicka meddelanden som den här e-postadressen.
+      invalid_email: Ogiltig e-postadress
+      add_permission: Välj mottagaralias, avsändaralias eller båda.
+      send_request: Skicka begäran
+      request_has_been_sent: Din begäran har skickats.
+    api:
+      api_key: API-nyckel
+      api_key_description: API-nyckeln används av plugin-program som Outlook-pluginet och kan användas för egna integrationer. Du behöver den bara om en administratör ber dig om det.
+      api_key_reset_warning: Är du säker? Om du återställer API-nyckeln måste du byta ut den gamla nyckeln överallt där du har använt den.
+      reset_api_key: Återställ API-nyckel
+    contacts:
+      contacts: Kontakter
+      contacts_description: Du kan lägga till så många kontakter du vill. Varje kontakt kan ha flera e-postadresser, så att du snabbt och enkelt kan skicka till flera mottagare samtidigt.
+      add_contact: Lägg till kontakt
+      email_field_help: Kommaseparerad lista med e-postadresser.
+      contact:
+        edit_label: Redigera etikett
+        edit_email: Redigera e-postadress
+        are_you_sure: Vill du verkligen ta bort den här kontakten?
+    filedrops:
+      filedrops: Filedrops
+      filedrops_description: Du är huvudmottagare eller kopiemottagare för dessa Filedrops. Alla filer som skickas via någon av dem levereras till dig.
+      name: Namn
+      title: Titel
+      recipient: Mottagare
+      expires_after: Upphör efter
+      max_size: Max filstorlek
+      url: URL
+      main_recipient: Huvudmottagare
+      cc: Kopia
+    personal_filedrop:
+      personal_filedrop: Personlig Filedrop
+      personal_filedrop_description: Din personliga Filedrop är ett enkelt sätt att ta emot filer. Du kan skicka länken, publicera den på en webbplats eller lägga till den i din e-postsignatur. Du får ett meddelande så snart någon har skickat något via din personliga Filedrop.
+    previous_recipients:
+      previous_recipients: Tidigare mottagare
+      previous_recipients_description: När du skickar ett säkert meddelande läggs varje mottagare till i den här listan över tidigare mottagare. Det gör det snabbt att skicka till samma mottagare igen. Mottagare som du inte har skickat något till på 180 dagar tas automatiskt bort från listan.
+      are_you_sure: Vill du verkligen ta bort den här tidigare mottagaren?
+    pw_dictionary:
+      based_on_a_dictionary_word: baseras på ett ord ur ordlistan
+      based_upon_your_password_entry: baseras på det angivna lösenordet
+      derived_from_your_password_entry: är härlett från det angivna lösenordet
+      derivable_from_your_password_entry: kan härledas från det angivna lösenordet
+      way_too_short: är ALLDELES för kort
+      too_short: är för kort
+      it_does_not_contain_enough_different_characters: innehåller inte tillräckligt många OLIKA tecken
+      all_whitespace: består bara av blanksteg
+      too_simplistic_systematic: är för enkelt/systematiskt
+      it_looks_like_a_national_insurance_number: ser ut som ett personnummer
+      based_on_a_reversed_dictionary_word: baseras på ett (omvänt) ord ur ordlistan
+    show:
+      basic_settings: Grundinställningar
+      change_password: Ändra lösenord
+      strong_auth: Tvåfaktorsautentisering
+      aliases: Alias
+      previous_recipients: Tidigare mottagare
+      contacts: Kontakter
+      personal_filedrop: Personlig Filedrop
+      api: API
+      filedrops: Filedrops
+    sms_disable:
+      disable_sms_otp: Inaktivera tvåfaktorsautentisering via sms
+      disable_sms_otp_description: Om du vill inaktivera tvåfaktorsautentisering via sms klickar du på knappen nedan. En sms-kod skickas för att bekräfta begäran.
+      verify_token_description: "Ange koden som skickats till din mobiltelefon för att inaktivera tvåfaktorsautentisering via sms:"
+      code: Kod
+      sms_token_failed: Ogiltig sms-kod, tvåfaktorsautentisering via sms kunde inte inaktiveras
+      sms_otp_has_been_disabled: Tvåfaktorsautentisering via sms har inaktiverats
+    sms_signup:
+      sms_signup_description: Du kan förbättra säkerheten för ditt konto genom att aktivera tvåfaktorsautentisering. Ange ditt telefonnummer nedan för att aktivera den.
+      phone_number: Telefonnummer
+    sms_enable:
+      signup_complete: Tvåfaktorsautentisering via sms har aktiverats
+    terms_of_service:
+      show:
+        title: Användarvillkor
+        accept_terms_of_service: Godkänn användarvillkoren
+        do_not_accept: Godkänn inte
+      create:
+        you_need_to_accept: Du måste godkänna användarvillkoren!
+  activerecord:
+    attributes:
+      attachment:
+        filename: Filnamn
+        size: Storlek
+        secure_id: Bilage-ID
+        content_type: Innehållstyp
+        created_at: Skapad
+        updated_at: Uppdaterad
+      download:
+        recipient: Mottagare
+        downloaded_at: Hämtad
+        remote_ip: Fjärr-IP
+        remote_host: Fjärrvärd
+        created_at: Skapad
+        updated_at: Uppdaterad
+      filedrop:
+        name: Namn
+        title: Titel
+        description: Beskrivning
+        blocked_extensions: Blockerade filtillägg
+        permitted_extensions: Tillåtna filtyper
+        expires_after: Upphör efter
+        max_filesize: Max filstorlek
+        created_at: Skapad
+        updated_at: Uppdaterad
+        api_key: API-nyckel
+        cc: Kopia
+        authorization: Behörighet
+      message:
+        recipients: Mottagare
+        sender: Avsändare
+        cc: Kopia
+        bcc: Hemlig kopia
+        message: Meddelande
+        subject: Ämne
+        deleted: Borttagen
+        authorization: Behörighet
+        created_at: Skapad
+        updated_at: Uppdaterad
+        expires_at: Upphör
+      share/log:
+        created_at: Datum
+      share/file:
+        checksum: Kontrollsumma (SHA256)
+      share/file/version:
+        whodunnit: Ändrad av
+        created_at: Ändrad
+      user:
+        name: Namn
+        email: E-postadress
+        quota: Kvot
+        used: Använt
+        max: Max
+        password: Lösenord
+        ldap_authentication: LDAP-autentisering
+        api_key: API-nyckel
+        level: Nivå
+        filedrop: Filedrop
+    models:
+      configuration: Konfiguration
+      attachment: Bilaga
+      filedrop: Filedrop
+      message: Meddelande
+      user: Användare
+      download: Nedladdning
+  admin:
+    groups:
+      form:
+        bcc_myself: Skicka en kopia till mig själv
+        can_change_bcc_myself: Låt användare i den här gruppen ändra inställningen för att skicka en kopia till sig själva
+      index:
+        default_group_assignment: Standardgrupptilldelning
+    users:
+      users:
+        email: E-postadress
+        name: Namn
+        group: Grupp
+        max: Max filstorlek
+        quota: Kvot
+        strong_auth: Stark autentisering
+        filedrop: Filedrop
+        last_login_at: Senaste inloggning
+        last_login_ip: IP vid senaste inloggning
+        created: Skapad
+      form:
+        name_label: Namn
+        email: E-postadress
+        password: Lösenord
+        password_confirmation: Bekräfta lösenord
+        max_label: Max filstorlek
+        group: Grupp
+        strong_auth: Stark autentisering
+        strong_auth_username: Användarnamn för stark autentisering
+        api_key: API-nyckel
+        filedrop: Filedrop
+  attachments:
+    not_found: Bilagan hittades inte
+  config:
+    settings: Inställningar
+    email: E-post
+    language_preferences_from_your_browser: Språkinställningar från din webbläsare
+    authentication: Autentisering
+    time_zone: Tidszon
+    current_time_zone: Aktuell tidszon
+    time_zone_from_browser: Tidszon som identifierats av din webbläsare
+    time_zone_config_description: Om du låter tidszonen stå på ”Identifierad automatiskt” används den tidszon som din webbläsare identifierar (alla tider visas då i den tidszonen). Om webbläsaren inte kan identifiera tidszonen används systemets standardtidszon. Om din webbläsare inte identifierar rätt tidszon, eller om du vill se tider i en annan tidszon, kan du ange en specifik tidszon.
+    time_zone_default: Systemets standardtidszon
+    email_settings: E-postinställningar
+    configuration: Konfiguration
+    local_domains: Lokal domän
+    ldap_users: LDAP-autentiserade användare
+    ldap_users_are_always_local: LDAP-autentiserade användare är alltid lokala
+    separated_by_comma: kommaseparerade
+    default_max_file_size: Standard för max filstorlek
+    local_users: Lokala användare
+    external_users: Externa användare
+    allow_registration: Tillåt registrering
+    allow_registration_desc: Tillåt registrering på inloggningssidan
+    external_user_account: Externa mottagare
+    external_user_account_desc: Externa mottagare måste skapa ett konto
+    allow_users_to_change_expiration: Låt användare ändra när filer upphör
+    authorization: Behörighet
+    authorization_description: Standardinställning för vem som får hämta filer.
+    file_expiration: Giltighetstid
+    default_expire_files_after: Filer upphör som standard efter
+    delete_downloaded_files_after: Ta bort hämtade filer efter
+    branding: Varumärke
+    company_name: Företagsnamn
+    custom_stylesheet: Anpassad formatmall
+    custom_javascript: Anpassat JavaScript
+    logotype: Logotyp
+    leave_blank_for_default: lämna tomt för standardvärde
+    email_configuration: E-postkonfiguration
+    email_sender_address: Avsändaradress
+    email_host: Bas-URL för e-post
+    email_footer: Sidfot i e-post
+    email_relay_host: E-postrelä
+    email_relay_username: Användarnamn för e-postrelä
+    email_relay_password: Lösenord för e-postrelä
+    port: Port
+    unlicensed_install_some_settings: "Olicensierad installation: varumärkesinställningar visas endast för systemadministratörer"
+    mail_relay_example: "T.ex.: mailrelay.doman.se, mx.doman.se:587"
+    ldap: LDAP
+    please_see_the: se
+    for_more_information: för mer information
+    virus_scan: Virusskanning
+    virus_scan_description: Skanna filer efter virus
+    blocked_file_extensions: Blockerade filtillägg
+    default_bcc_myself_label: Skicka kopia till mig själv
+    default_bcc_myself: Skicka som standard en kopia till mig själv
+    allow_users_to_change_require_login_label: Kräv autentisering
+    allow_users_to_change_require_login: Låt användare ändra ”Kräv autentisering”
+    permitted_file_extensions_label: Tillåtna filtillägg
+    delete: Ta bort
+    ldap_description: "Aktivera LDAP-autentisering av användare och ange några grundläggande parametrar för anslutning till LDAP-servern. Om ingen port anges används standardporten 389 för LDAP (eller port 636 om SSL är aktiverat). Obs! Port 3268 används INTE för autentisering i Active Directory, utan endast för sökningar i den globala adressboken. Använd port 389/636 i stället."
+    ldap_authentication: LDAP-autentisering
+    basic_settings: Grundinställningar
+    server: Servernamn / IP-adress
+    username: Användarnamn
+    password: Lösenord
+    authentication_description: Den här användaren används för att ansluta till LDAP-servern (lämna tomt för anonym bindning). Användaren måste ha sökbehörighet i LDAP-trädet.
+    search_key: Söknyckel
+    search_key_description: Söknyckeln och domänen används för att hitta användare i LDAP-trädet. I tabellen nedan ser du hur söknyckel och domän samverkar för att hitta en användare.
+    search_key_description2: Om LDAP-söknyckeln innehåller e-postadressen ska domänen alltså vara tom. Om LDAP-söknyckeln bara innehåller användarnamnet ska domänen innehålla användarnas domän.
+    search_key_defaults: "För Active Directory är en bra utgångspunkt: sAMAccountName som LDAP-söknyckel och foretag.se (din domän) som domän."
+    user_enters: Användaren anger
+    authorized_ldap_groups: Behöriga LDAP-grupper
+    available_groups: Tillgängliga grupper
+    default_settings: Standardinställningar
+    setting: Inställning
+    value: Värde
+    description: Beskrivning
+    default_local_max_description: Detta är standardvärdet för max filstorlek för nya lokala användare. Det kan ändras för enskilda användare.
+    user_changeable: Kan ändras av användaren?
+    non_local: Icke-lokal
+    remote: Fjärr
+    new_external_recipient_is_nonlocal: Nya externa mottagare är
+    email_message_on_top_label: Meddelande överst
+    email_message_on_top: Meddelandet placeras ovanför fillistan i e-postmeddelandet till mottagarna
+    use_either_permitted_or_blocked_extensions: Du måste välja antingen tillåtna eller blockerade filtillägg, inte båda
+    invalid_password: Ogiltigt lösenord
+    valid_password: Giltigt lösenord
+    test_password_validation: Testa lösenordsvalidering
+    custom_password_validation: Anpassad lösenordsvalidering
+    custom_password_validation_description: "Det här reguljära uttrycket används för anpassad lösenordsvalidering. Skriv bara det reguljära uttrycket, utan avgränsare (börja och sluta inte med '/'). Exempel: [a-zA-Z0-9]{7,} (lösenord får då bara innehålla a-z, A-Z och 0-9, minst 7 tecken)"
+    filedrop: Filedrop
+    receive: Ta emot
+    api_settings: API-inställningar
+    enable_api_label: Aktivera API
+    enable_api_description: Aktivera API för att tillåta åtkomst via plugin-program och skript
+    enable_api_group_config: Fler API-inställningar finns i gruppkonfigurationen.
+    api_client_size_override_label: Storleksgräns för API-klienter
+    api_client_size_override_description: API-klienter skickar filer som är större än denna storlek via appliancen
+    sso_secret_key: Hemlig SSO-nyckel
+    generate_key: Generera ny nyckel
+    sso_replace_confirm: Är du säker? Om du byter ut den hemliga SSO-nyckeln slutar befintliga SSO-integrationer att fungera.
+    virus_scan_skip_locals: Hoppa över virusskanning för lokala användare
+    virus_scan_skip_locals_description: Skanna inte lokala användares filer efter virus
+    virus_scan_permit_unscanned: Tillåt oskannade filer
+    virus_scan_permit_unscanned_description: Tillåt hämtning av filer som ännu inte har virusskannats
+    userdrop: Användar-Filedrop
+    user_filedrop_with_random_key: Användar-Filedrops med slumpmässig nyckel
+    enable_userdrop: Aktivera användar-Filedrops
+    example: Exempel
+    user_filedrop_with_email: Användar-Filedrops med e-postadresser
+    enable_userdrop_email: Aktivera användar-Filedrops med e-postadress
+    userdop_email_data_leakage: Detta kan användas för att upptäcka lokala e-postadresser genom att testa adresser på Filedrop-URL:en och se vilka som ger ett giltigt svar.
+    userdrop_files_expire_after: Inlämnade filer upphör efter
+    userdrop_max_filesize: Max filstorlek för användar-Filedrop
+    bruteforce_label: Skydd mot brute force
+    bruteforce_description_1: Blockera IP-adressen i
+    bruteforce_description_2: minuter efter
+    bruteforce_description_3: misslyckade inloggningar/registreringar inom
+    bruteforce_description_4: minuter
+    bruteforce_whitelist_label: Vitlista för brute force
+    allowed_admin_networks_label: Administratörsnätverk
+    allowed_admin_networks_description: Begränsa administratörsåtkomst till dessa värdar och nätverk. Localhost (127.0.0.1, ::1) är alltid tillåtet
+    enable_strong_authentication: Aktivera stark autentisering som standard för dessa användartyper
+    authenticated_username: Autentiserat användarnamn
+    duo_hostname: Duo-värdnamn
+    duo_client_id: Duo-integrationsnyckel
+    duo_client_secret: Hemlig Duo-nyckel
+    strong_authentication_test: Testa stark autentisering
+    stronger_password: Välj ett starkare lösenord.
+    cannot_begin_or_end_with_blank: Lösenordet får inte börja eller sluta med ett blanksteg.
+    at_least_one_invalid_domain: Minst en ogiltig domän
+    at_least_one_invalid_email: Minst en ogiltig e-postadress
+    email_security_level: Säkerhetsnivå för e-postleverans
+    geoip: GeoIP-uppslagning
+    geoip_description: Hämtar platsdata från https://geoip.liquidfiles.com och visar kartor.
+    tooltip:
+      local_domains: En lokal användare kan skicka filer till vem som helst. En icke-lokal användare kan bara skicka filer till lokala användare. Första gången en användare loggar in, eller när kontot skapas, jämförs e-postadressens domän med dessa domäner för att avgöra om användaren ska betraktas som lokal.
+      ldap_users_are_always_local: Alla användare som autentiseras via LDAP betraktas automatiskt som lokala, oavsett domän.
+      allow_registration: Tillåter registrering på inloggningssidan. Listan över lokala domäner avgör om en ny användare är lokal eller icke-lokal.
+      local_user_maxfile: När en lokal användare registrerar sig eller autentiseras via fjärrautentisering för första gången tilldelas denna max filstorlek.
+      nonlocal_user_maxfile: När en icke-lokal användare registrerar sig tilldelas denna max filstorlek.
+      delete_downloaded_files_after: En hämtad fil sparas så här länge. Tiden bör vara tillräckligt lång för att mottagaren ska kunna välja en annan nedladdningsplats eller börja om, men tillräckligt kort för att länken inte ska spridas till fler personer.
+      file_expiration: Låter användare ändra när filer upphör. Om detta inte är aktiverat får alla filer standardtiden.
+      default_expire_files_after: Filer upphör efter denna tid.
+      blocked_file_extensions: Blockera filer med dessa filtillägg (skiftlägesokänsligt).
+      virus_scan: Skanna alla uppladdade filer efter virus med virusskannern ClamAV
+      require_authentication_permission: När detta är aktiverat får användare själva välja om autentisering ska krävas
+      default_bcc_myself: När detta är aktiverat skickas meddelanden som standard även till användaren själv
+      permitted_file_extensions: "Om fältet är tomt tillåts alla filtillägg. Om minst ett filtillägg anges tillåts bara de angivna filtyperna. Exempel: png, gif, jpg, txt"
+      new_external_recipient_is_nonlocal: När ett meddelande skickas till en ny mottagare, ska mottagaren skapas som icke-lokal användare (så att hen kan svara) eller som extern användare?
+      email_message_on_top: När detta är markerat placeras meddelandet ovanför fillistan i e-postmeddelandet till mottagarna. Annars placeras fillistan ovanför meddelandet.
+      email_sender: Den här e-postadressen används som avsändare för systemgenererade e-postmeddelanden, till exempel lösenordsåterställningar. För att undvika att dessa markeras som skräppost måste det vara en riktig e-postadress.
+      email_host: Bilagor använder denna URL som bas-URL. Normalt är det http://vardnamn.doman eller https://vardnamn.doman, men det kan vara https://vardnamn.doman:4433 om du använder portvidarebefordran i brandväggen när användare ansluter till LiquidFiles-appliancen.
+      email_footer: Den här signaturen läggs till i alla utgående e-postmeddelanden.
+      email_relay: Använd den här e-postservern som relä för utgående e-post.
+      email_relay_username: Konto som används för att logga in på e-postreläet
+      email_relay_password: Lösenord för kontot som används för att logga in på e-postreläet
+  date:
+    formats:
+      default: "%Y-%m-%d"
+      short: "%d/%m"
+      medium: "%Y-%m-%d"
+      long: "%Y-%m-%d"
+  time:
+    am: fm
+    pm: em
+    formats:
+      default: "%Y-%m-%d %H:%M:%S %z"
+      short: "%d/%m %H:%M"
+      medium: "%Y-%m-%d %H:%M"
+      long: "%Y-%m-%d %H:%M"
+  downloads:
+    download_id: Nedladdnings-ID
+    index:
+      download_log_title: Nedladdningar
+      download_log_description: Vem som hämtade vad och när
+      paginator_entry_name: nedladdningar
+    show:
+      no_map_for_reserved_address: Det går inte att visa en karta för reserverade adresser
+  filedrop:
+    filedrop: Filedrop
+    no_such_filedrop: Denna Filedrop finns inte
+    invalid_filedrop_url: Ogiltig Filedrop-URL
+    invalid_filedrop_url_description: Det finns ingen Filedrop på den här URL:en. Kontrollera URL:en och försök igen.
+    label: Filedrops
+    mb: MB
+    name: Namn
+    name_description: Kortnamn som även används i URL:en (t.ex. /filedrop/namn)
+    title: Titel
+    title_description: Rubriken högst upp på sidan
+    description: Beskrivning
+    description_description: Beskrivning under rubriken
+    user: Mottagande användare
+    user_description: Vilken lokal användare som helst kan anges som mottagare
+    cc: Kopia
+    cc_description: "(kommaseparerade) Skicka en kopia till dessa adresser"
+    expires_after: Upphör efter
+    expires_after_description: dagar
+    max_filesize: Max filstorlek
+    max_filesize_description: MB
+    reset_filedrop: Återställ Filedrop-URL
+    filedrop_reset_warning: Är du säker? Om du återställer Filedrop-URL:en måste du byta ut den överallt där du har publicerat den.
+    permitted_extensions: Tillåtna filtillägg
+    permitted_extensions_description: Endast dessa filtyper tillåts
+    blocked_extensions: Blockerade filtillägg
+    blocked_extensions_description: Dessa filtyper blockeras
+    demo_license_warning_standard: Filedrops kräver en licens i produktion. Uppgradera till en Pro-licens för att aktivera Filedrop-funktionen.
+    max_one_during_demo: Under demon eller med en Standard-licens kan du konfigurera högst en Filedrop
+    filedrop_info: Med en Filedrop kan dina kunder skicka filer till dig utan autentisering eller förberedelser. Varje Filedrop har en fast URL som du kan länka till från webbsidor eller i e-postsignaturer. När någon lämnar en fil i Filedrop skickas den automatiskt till en fördefinierad användare.
+    authorization: Behörighet
+    authorization_description: vem som får hämta filer som lämnats i Filedrop
+    you_will_be_notified: Du får ett nedladdningskvitto när dina filer har hämtats.
+    require_authentication: Den här Filedrop kräver autentisering. Ange lösenordet för att fortsätta.
+    authenticate: Autentisera
+    authentication_failed: Autentiseringen misslyckades
+    require_validation: Den här Filedrop kräver autentisering eller verifiering av din e-postadress.
+  filelink:
+    filelink: FileLink
+    filelinks: FileLinks
+    filelink_title: FileLink
+    filelink_description: En FileLink är en länk till en enskild fil. Du kan skicka länken till vem som helst utan att skapa ett meddelande eller ange mottagare. Endast de personer som du har skickat den slumpmässiga länken till kan hämta filen.
+    expired_or_nonexistent_title: Ogiltig FileLink
+    expired_or_nonexistent: Den här FileLink har gått ut eller finns inte. Kontakta avsändaren för att få en ny länk.
+    existing_filelinks: Befintliga FileLinks
+    new_filelink: Ny FileLink
+    available_files: Tillgängliga filer
+    filename: Filnamn
+    filesize: Filstorlek
+    expires_at: Upphör
+    link: Länk
+    checksum: Kontrollsumma
+    copy_link_to_clipboard: Kopiera FileLink till Urklipp
+    expire_link_at: Länken upphör
+    you_have_no_filelinks: Du har inga FileLinks. Lägg till en ny FileLink eller skapa en från en tillgänglig fil.
+    you_have_no_files_available: Du har inga tidigare skickade filer. När du har skickat minst en fil kan du välja den här för att skapa en FileLink.
+    create_link: Skapa länk
+    invalid_file: Ogiltig fil, det går inte att skapa en FileLink
+    delete: Ta bort
+    delete_link_warning: Vill du verkligen ta bort den här FileLink?
+    could_not_delete_link: FileLink kunde inte tas bort. Länken hittades inte!
+    filelink_deleted: FileLink borttagen!
+    select_file: Välj fil
+    send_download_receipts: Skicka nedladdningskvitton
+    disabled: FileLinks är inaktiverade, kontakta en administratör
+    unauthorized: Du har inte behörighet att använda FileLinks
+    require_authentication: Kräv autentisering
+    filelink_require_authentication: Den här FileLink kräver att du autentiserar dig
+    filelink_url: FileLink-URL
+    expired: Har gått ut
+    filelink_expired: FileLink har gått ut
+    select_from_available_files: Du kan också skapa en FileLink från någon av dessa befintliga filer.
+    downloads: Nedladdningar
+    authentication_failed: Autentiseringen misslyckades
+    password_label_html: Lösenord <small class="text-muted">(valfritt)</small>
+    password_present_html: Ett lösenord har angetts för den här FileLink.<br>Du kan ta bort det genom att spara ett tomt lösenord.
+    password_not_present: Inget lösenord har angetts.
+    copy_to_clipboard: Kopiera FileLink till Urklipp
+    add_file: Lägg till fil
+  ftpdrop:
+    create:
+      ftpdrop: FTPdrop
+  html_editor:
+    font:
+      bold: Fet
+      italic: Kursiv
+      underline: Understruken
+      clear: Ta bort formatering
+      height: Radhöjd
+      name: Teckensnitt
+      strikethrough: Genomstruken
+      subscript: Nedsänkt
+      superscript: Upphöjd
+      size: Teckenstorlek
+    image:
+      image: Bild
+      insert: Infoga bild
+      resize_full: Full storlek
+      resize_half: Halv storlek
+      resize_quarter: Fjärdedels storlek
+      float_left: Vänsterjustera
+      float_right: Högerjustera
+      float_none: Ingen justering
+      shape_rounded: "Form: rundad"
+      shape_circle: "Form: cirkel"
+      shape_thumbnail: "Form: miniatyr"
+      shape_none: "Form: ingen"
+      url: Bild-URL
+      remove: Ta bort bild
+    link:
+      link: Länk
+      insert: Infoga länk
+      unlink: Ta bort länk
+      edit: Redigera
+      text_to_display: Text som visas
+      url: Vilken URL ska länken gå till?
+      open_in_new_window: Öppna i nytt fönster
+    table:
+      table: Tabell
+    hr:
+      insert: Infoga horisontell linje
+    style:
+      style: Format
+      normal: Normal
+      blockquote: Citat
+      pre: Kod
+      h1: Rubrik 1
+      h2: Rubrik 2
+      h3: Rubrik 3
+      h4: Rubrik 4
+      h5: Rubrik 5
+      h6: Rubrik 6
+    lists:
+      unordered: Punktlista
+      ordered: Numrerad lista
+    options:
+      help: Hjälp
+      fullscreen: Helskärm
+      codeview: Kodvy
+    paragraph:
+      paragraph: Stycke
+      outdent: Minska indrag
+      indent: Öka indrag
+      left: Vänsterjustera
+      center: Centrera
+      right: Högerjustera
+      justify: Marginaljustera
+    color:
+      recent: Senaste färg
+      more: Fler färger
+      background: Bakgrundsfärg
+      foreground: Textfärg
+      transparent: Transparent
+      set_transparent: Gör transparent
+      reset: Återställ
+      reset_to_default: Återställ till standard
+    shortcut:
+      shortcuts: Kortkommandon
+      close: Stäng
+      text_formatting: Textformatering
+      action: Åtgärd
+      paragraph_formatting: Styckeformatering
+      document_style: Dokumentformat
+      extra_keys: Extra tangenter
+    history:
+      undo: Ångra
+      redo: Gör om
+  invite:
+    invite_user: Bjud in användare
+    description: Du kan bjuda in användare att dela filer med dig. När du har angett deras uppgifter får de ett e-postmeddelande med instruktioner för att slutföra registreringen.
+    send_invite: Skicka inbjudan
+    name_placeholder: Fullständigt namn
+    invitation_sent: Inbjudan skickad
+    not_permitted_to_invite_users: Du har inte behörighet att bjuda in användare.
+    invalid_email: Ogiltig e-postadress
+  link:
+    show:
+      set_password: Ange lösenord
+      download: Hämta
+      downloads_and_info: Alla nedladdningar och mer information
+    authenticate:
+      show:
+        title: FileLink-lösenord
+        authenticate: Autentisera
+        require_authentication: För att öppna den här FileLink måste du ange det lösenord som krävs.
+      create:
+        authentication_failed: Autentiseringen misslyckades.
+    downloads:
+      index:
+        back_to_filelink: Tillbaka till FileLink
+    link_downloads:
+      latest_downloads: Senaste nedladdningar (%{count} av totalt %{total})
+  menu:
+    shares: Shares
+    messages: Meddelanden
+    send_files: Skriv
+    users: Användare
+    active_transfers: Aktiva överföringar
+    configuration: Konfiguration
+    system: System
+    message_list: Meddelandelista
+    settings: Inställningar
+    admin: Administration
+    account: Konto
+    inbox: Inkorg
+    sent_messages: Skickat
+    downloads: Nedladdningslogg
+    filelink: FileLinks
+    secure_messages: Säkra meddelanden
+    support: Support
+  message:
+    message_sent: Meddelandet har skickats
+    not_found: Meddelandet hittades inte
+    message_not_found_header: Meddelandet hittades inte!
+    message_not_found_description: Be avsändaren att skicka meddelandet igen.
+    previous_recipients: Tidigare mottagare
+    contacts: Kontakter
+    is_not_permitted: är inte tillåten
+    not_permitted_to_delete_messages: Du har inte behörighet att ta bort meddelanden
+    is_not_in_any_of_the_allowed_domains: tillhör inte någon av de tillåtna domänerna
+    is_not_in_any_of_the_allowed_groups: tillhör inte någon av de tillåtna grupperna
+    attach_1_file: Du måste bifoga minst en fil
+    too_many_files: För många bifogade filer. Du kan bifoga högst %{count} filer till ett meddelande.
+    attached_files: Bifogade filer
+    expired: Meddelandet har gått ut
+    authorize:
+      show:
+        title: Logga in för att öppna det säkra meddelandet
+        authenticate_description_html: Du är på väg att visa ett säkert meddelande. Du måste logga in först. Ange din e-postadress eller logga in för att fortsätta.<br>Om du inte har något konto i systemet anger du din e-postadress, så skickar vi en säker länk för att verifiera din e-postadress.
+        unauthenticated_html: <h4>Ogiltigt användarnamn eller lösenord</h4><p>Ange ditt användarnamn och lösenord. Du kan återställa lösenordet med knappen Återställ lösenord nedan.</p>
+        unauthorized_to_view_check_email_html: <h4>Obehörig e-postadress</h4><p>Kontrollera att det säkra meddelandet [<span class="font-monospace fw-bold">%{message_id}</span>] har skickats till dig och ange e-postadressen exakt som den användes vid utskicket.</p><p>Om din e-postadress till exempel kan vara både anna.andersson@foretag.se och aandersson@foretag.se kan systemet inte veta att det är samma adress. Om det säkra meddelandet skickades till anna.andersson@foretag.se är det den adressen du måste ange här.</p><p>Om du är osäker, kontakta avsändaren av det säkra meddelandet.</p>
+    errors:
+      not_authorized_to_view_message: "Du har inte behörighet att visa meddelande-ID: %{message_id}. Kontrollera att meddelandet har skickats till dig."
+      private_message_requires_authentication: Privata meddelanden kräver autentisering
+    attachments:
+      download_attachment_details_csv: Hämta bilageinformation (CSV)
+      attachment:
+        fileinfo: Filinformation
+        file_size: Filstorlek
+        content_type: Innehållstyp
+        checksum: Kontrollsumma
+        virus_status: Virusstatus
+    compose:
+      options_permission:
+        authentication_required: Autentisering krävs
+        authentication_not_required: Autentisering krävs inte
+        require_authentication_description: Måste mottagarna autentisera sig för att öppna meddelandet?
+        access_restriction_html: Åtkomstbegränsning<br><small class="text-muted">Vem får öppna meddelandet?</small>
+        recipients_only_html: Endast<br>mottagare
+        recipients_plus_locals_html: Mottagare<br>+ lokala användare
+        recipients_plus_domains_html: Mottagare<br>+ domäner
+        anyone_secret_link_html: Alla<br>(hemlig länk)
+    unavailable:
+      header: Meddelandet är inte tillgängligt
+      description: Meddelandet har gått ut, tagits bort, finns inte eller är inte längre tillgängligt. Be avsändaren att skicka det igen.
+    downloads:
+      index:
+        download_log_title: Nedladdningslogg
+        message_id: Meddelande-ID
+        paginator_entry_name: Nedladdningar
+      download:
+        details: Detaljer
+      not_found:
+        title: Meddelandet eller nedladdningen hittades inte
+        description_html: Meddelandet eller nedladdningen hittades inte, eller så har du inte behörighet att visa det
+    temporary_user:
+      create:
+        invalid_temporary_user: Ogiltigt lösenord. Kontrollera e-postmeddelandet med ditt tillfälliga lösenord eller begär ett nytt tillfälligt lösenord.
+        temporary_user_expired: Det här tillfälliga lösenordet har gått ut. Ett nytt tillfälligt lösenord har skickats till din e-postadress. Kontrollera din inkorg och använd det nya tillfälliga lösenordet.
+        not_authorized_to_view_message: "Du har inte behörighet att visa meddelande-ID: %{message_id}. Kontrollera att meddelandet har skickats till dig."
+      show:
+        title: Ange ditt tillfälliga lösenord
+        description_html: "Du är på väg att visa ett säkert meddelande. För att öppna det måste du ange ditt tillfälliga lösenord.<br>Ett tillfälligt lösenord är en unik, slumpmässig teckensträng som identifierar dig. Du har fått det tillfälliga lösenordet i ett separat e-postmeddelande (ämne: Tillfälligt lösenord)."
+        what_is_this: Vad är detta?
+        login: Logga in
+        submit: Verifiera tillfälligt lösenord
+        submit_email: Skicka
+        if_you_have_account: "(om du redan har ett konto)"
+        request_temporary_user_header: Begär nytt tillfälligt lösenord
+        request_temporary_user_description_html: Du kan begära ett nytt tillfälligt lösenord för att öppna meddelandet. Ange din e-postadress nedan för att begära ett nytt tillfälligt lösenord för det här säkra meddelandet.
+        info_header: Information om tillfälligt lösenord
+        info_body_html: "<p>Ett tillfälligt lösenord är en unik följd av siffror och bokstäver, till exempel:</p><pre><code>3ynp-7FKa-pZS9</code></pre><p><em>Det här tillfälliga lösenordet är bara ett exempel så att du ser hur det ser ut – det går inte att använda.</em></p><p>I din inkorg hittar du <strong>två e-postmeddelanden</strong>: ett med det säkra meddelandet och ett med ett <strong>ämne som börjar med: Tillfälligt lösenord</strong>. Det senare innehåller ditt unika tillfälliga lösenord för systemet.</p><p>Om du inte har fått något e-postmeddelande med ett tillfälligt lösenord kan det bero på att du redan har ett konto i systemet. Klicka i så fall på ”Logga in”.</p><p>Om du tror att du borde ha fått ett tillfälligt lösenord men inte har det, klicka på ”Begär tillfälligt lösenord” för att få ett nytt.</p>"
+        email_address: E-postadress
+        email_not_permitted: Den här e-postadressen har inte behörighet att visa det säkra meddelandet.
+        email_not_permitted_description_html: <p>Kontrollera e-postmeddelandet med det säkra meddelandet som du har fått och ange e-postadressen exakt som den användes vid utskicket.</p><p>Om din e-postadress till exempel kan vara både anna.andersson@foretag.se och aandersson@foretag.se kan systemet inte veta att det är samma adress. Om det säkra meddelandet skickades till anna.andersson@foretag.se är det den adressen du måste ange här.</p><p>Om du är osäker, kontakta avsändaren av det säkra meddelandet.</p>
+        email_can_login: Du har redan ett konto i systemet
+        email_can_login_description_html: <p>Du kan logga in i systemet med den här e-postadressen och ditt lösenord.</p><p>Klicka på knappen Logga in nedan för att logga in med ditt befintliga konto.</p>
+        temporary_user_delivered_header: Tillfälligt lösenord skickat
+        temporary_user_delivered_description_html: <p>Ett tillfälligt lösenord har skickats till din e-postadress. Kontrollera din inkorg, stäng det här fönstret och ange det tillfälliga lösenordet.</p>
+    reply:
+      re: "Sv:"
+      wrote: skrev
+      show:
+        title: Svara på säkert meddelande
+        from: Från
+        reply: Svara
+        reply_all: Svara alla
+      options:
+        options_description: Observera att alla alternativ ärvs från det ursprungliga meddelandet.
+    show:
+      back: Tillbaka
+      message_header: Meddelandehuvud
+      reply: Svara
+  messages:
+    sent:
+      skipped_file_not_found: Överhoppad - filen hittades inte
+      show:
+        sent_title: Skickat
+        sent_description: Meddelanden som du har skickat
+        paginator_entry_name: meddelanden
+    attachments:
+      download_cmd:
+        unauthorized:
+          header: Obehörig
+          body: Du har inte behörighet att hämta filen. Be avsändaren att skicka filen till dig igen.
+          back: Tillbaka
+        exceeded:
+          header: Nedladdningsgränsen har överskridits
+          body: Nedladdningsgränsen för filen har överskridits. Be avsändaren att skicka filen till dig igen.
+          back: Tillbaka
+    download_zip:
+      unauthorized:
+        header: Obehörig
+        body: Du har inte behörighet att hämta arkivet. Be avsändaren att skicka filen till dig igen.
+        back: Tillbaka
+      exceeded:
+        header: Nedladdningsgränsen har överskridits
+        body: Nedladdningsgränsen för en eller flera filer i arkivet har överskridits. Be avsändaren att skicka filen till dig igen.
+        back: Tillbaka
+    message:
+      reply: Svara
+      reply_all: Svara alla
+  models:
+    user:
+      no_need_to_create_local_user: Det behövs ingen lokal användare
+      license_exceeded: Licensgränsen har överskridits
+  notifier:
+    activate_user_subject: "[%{hostname}] Aktivera konto"
+    user_activation: Användaraktivering
+    please_visit_the_following_url_to_activate: Klicka på följande länk för att aktivera ditt konto
+    the_following_files_are_attached: Följande filer är bifogade till meddelandet
+    please_visit_the_following_url: Klicka på den här länken för att hämta bilagorna
+    attachments_are_available: Bilagorna är tillgängliga till
+    message_id: "Meddelande-ID: %{id}"
+    email_password_reset_subject: Återställning av lösenord
+    download_receipt_subject: "Nedladdningskvitto [ID: %{message_id}]"
+    a_file_that_you_sent: En fil som du har skickat har hämtats. Spara detta som ett kvitto på nedladdningen.
+    recipient: Mottagare
+    filename: Filnamn
+    time_of_download: Tidpunkt för nedladdning
+    downloaded_from: Hämtad från
+    download_receipt: Nedladdningskvitto
+    user_created:
+      account_created: Kontot har skapats
+      subject: "[%{hostname}] Kontot har skapats"
+      message: "En säker bilaga väntar på dig. Du måste autentisera dig för att hämta den. Klicka på följande länk för att registrera dig:"
+  outlook:
+    messages:
+      new:
+        attachments_header: Bilagor
+        attachments_hint: Du kan bifoga filer genom att dra dem till området nedan eller genom att klicka på knappen Bifoga filer.
+        add_to_message: Lägg till i meddelandet
+      attachments:
+        attach_files: Bifoga filer
+        drop_files_here: Släpp filer här...
+      options:
+        recipients_can_reply: Mottagarna kan svara
+        send_copy_to_myself: Skicka en kopia till mig själv
+        private_message: Privat meddelande
+        private_message_required_auth_error: När du skickar ett privat meddelande måste du använda läget ”Autentisering krävs”.
+      options_authorization:
+        authentication_authorization_title_html: Autentisering &amp; behörighet
+        authentication_select_title: Välj autentisering
+        authentication_required: Autentisering krävs
+        authentication_not_required: Autentisering krävs inte
+        authorization_select_title: Välj behörighet
+        recipients_only: Endast mottagare
+        recipients_locals: Mottagare + lokala användare
+        recipients_domains: Mottagare + domäner
+        anyone: Alla (hemlig länk)
+      options_expiration:
+        message_expires: Meddelandet upphör
+        message_expires_after: Meddelandet upphör efter
+  pagination:
+    first: "&laquo; Första"
+    last: Sista &raquo;
+    previous: "&lsaquo; Föregående"
+    next: Nästa &rsaquo;
+    truncate: "&hellip;"
+  requests:
+    title: Filbegäran
+    file_request: Filbegäran
+    files_sent: Filerna har skickats, tack!
+    request_file: Begär fil
+    file_requests: Filbegäranden
+    description: Med en filbegäran kan du be någon att skicka filer till dig. När du har angett uppgifterna får personen ett e-postmeddelande med en unik länk som kan användas för att skicka de begärda filerna till dig.
+    file_request_not_found: Filbegäran hittades inte
+    file_request_expired: Filbegäran har gått ut
+    file_request_already_used: Filbegäran har redan använts
+    file_request_sent: Filbegäran har skickats
+    not_permited: Du har inte behörighet att använda funktionen för filbegäran
+    multiuse: Flergångsanvändning - länken för filbegäran kan användas flera gånger
+    invalid_recipient: Ogiltig mottagare, den här filbegäran skickades till någon annan
+    invalid_user: Det här är inte din filbegäran
+    index:
+      title: Filbegäranden
+      new_file_request: Ny filbegäran
+      multiuse: Flergångsanvändning
+      responded_to: Besvarad
+      hide_expired: Dölj utgångna och använda
+      show_expired: Visa utgångna och använda
+    request:
+      resend: Skicka igen
+      are_you_sure_you_want_to_delete: Vill du verkligen ta bort den här filbegäran?
+    popup:
+      from: Från
+      to: Till
+      subject: Ämne
+      message: Meddelande
+    resend:
+      request_resent: Filbegäran har skickats igen
+    new:
+      request_expires: Begäran upphör
+  send:
+    send: Skicka
+    sent: Skickat
+    recipients: Till
+    send_as: Skicka som
+    you_can_only_send_files_to_yourself: Du kan bara skicka filer till dig själv
+    subject: Ämne
+    subject_placeholder: Ämne
+    attachments: Bilagor
+    max_file_size: "Max storlek för bilagor: %{filesize} MB"
+    upload_queue: Uppladdningskö
+    remove: Ta bort
+    cancel_all: Avbryt alla
+    cancel_all_uploads: Avbryt alla uppladdningar
+    message: Meddelande
+    message_placeholder: Meddelande
+    done_editing_please_send: Jag är klar med redigeringen, skicka filerna när alla uppladdningar är klara
+    files_sent_successfully: Filerna har skickats
+    you_need_at_least_one_recipient: Du måste ange minst en mottagare
+    you_need_at_least_one_attachment: Du måste lägga till minst en bilaga
+    options: Alternativ
+    cc: Kopia
+    bcc: Hemlig kopia
+    bcc_message_description: Mottagare av hemlig kopia visas inte för andra mottagare
+    add_cc: lägg till kopia
+    add_bcc: lägg till hemlig kopia
+    bcc_myself: Skicka en kopia till mig själv
+    require_login: Kräv inloggning för att hämta filer
+    only_specified_recipients_can_download: Endast angivna mottagare kan hämta bilagorna
+    anyone_can_download: Alla kan hämta bilagorna
+    expires_in: Bilagorna kan hämtas i
+    expires_at: Bilagorna upphör
+    send_options: Sändningsalternativ
+    to: Till
+    from: Från
+    filename: Filnamn
+    filesize: Filstorlek
+    downloaded_at: Hämtad
+    message_sent: Meddelandet har skickats
+    message_expires: Meddelandet upphör
+    message_expires_after: Meddelandet upphör efter
+    message_expires_after_description: Beräkningen görs per fil. Om du skickar 2 filer som upphör efter 1 nedladdning kan varje mottagare hämta varje fil en gång.
+    downloads_per_recipient: Nedladdningar per mottagare
+    total_downloads: Nedladdningar totalt
+    file_not_downloaded: Inga bilagor har hämtats
+    at_least_one_invalid_extension: Minst en av bilagorna har ett ogiltigt filtillägg
+    invalid_filetype: Ogiltigt filtillägg
+    blocked_extension: "Ogiltigt filtillägg. Du kan inte ladda upp filer med följande filtillägg: %{extensions}"
+    permitted_extensions: "Tillåtna filtillägg är: %{filetypes}"
+    already_selected: Filen har redan valts
+    maximum_filesize_exceeded: Max filstorlek har överskridits
+    contains_virus: "%{filename} innehåller VIRUS: %{virus}"
+    limited_by_browser: Begränsad av webbläsaren
+    limited_by_disk: Begränsad av diskutrymmet
+    limited_by_system_quota: Begränsad av systemkvoten
+    limited_by_group_quota: Begränsad av gruppkvoten
+    limited_by_quota: Begränsad av kvoten
+    limited_per_message: Gräns per meddelande
+    system_quota_exceeded: Systemkvoten har överskridits
+    group_quota_exceeded: Gruppkvoten har överskridits
+    quota_exceeded: Kvoten har överskridits
+    no_available_quota: Kvoten har överskridits, ta bort några filer för att fortsätta
+    not_authorized_to_send: Du har inte behörighet att skicka till %{email}
+    public_url: Offentlig URL
+    message_url: Meddelande-URL
+    authorization: Behörighet
+    insufficient_disk_space: Otillräckligt diskutrymme
+    active_transfers: Aktiva överföringar
+    view_log: Visa logg
+    previously_sent_attachments: Tidigare skickade bilagor
+    has_not_downloaded: "%{recipient} har inte hämtat någon av filerna"
+    authentication: Autentisering
+    required: Krävs
+    disabled: Inaktiverad
+    require_authentication_tooltip_html: <li>Mottagaren måste logga in med användarnamn och lösenord för att hämta filen.</li> <li>Du får en bekräftelse när filen hämtas.</li>
+    dont_require_authentication_tooltip_html: <li>Mottagaren behöver inte logga in för att hämta filen.</li> <li>Du får en bekräftelse när filen har hämtats, men inte vem som hämtade den (det vet vi inte).</li> <li>Du får bara en bekräftelse när den första mottagaren hämtar filen.</li>
+    authenticate_link_description: Du måste logga in innan du kan öppna den här FileLink.
+    unauthorized: Du har inte behörighet att visa meddelandet.
+    unauthenticated: Felaktigt lösenord
+    incorrect_login_or_demo: Felaktigt lösenord eller så har licensgränsen nåtts
+    email_authorization_message: Tack. För att verifiera att det här är din e-postadress har ett e-postmeddelande med en verifieringskod skickats. Ange verifieringskoden nedan eller klicka på länken i e-postmeddelandet för att komma till meddelandet.
+    email_authorization_link: Tack. För att verifiera att det här är din e-postadress har ett e-postmeddelande med en verifieringskod skickats. Ange verifieringskoden från e-postmeddelandet nedan eller klicka på länken i e-postmeddelandet för att komma till FileLink.
+    email_authorization_message_create_account: Tack. Eftersom du inte har något konto i systemet har ett e-postmeddelande med en verifieringskod skickats för att verifiera att det här är din e-postadress. Ange verifieringskoden nedan eller klicka på länken i e-postmeddelandet för att verifiera din adress. Sedan ombeds du skapa ett konto och kommer därefter till meddelandet.
+    email_authorization_link_create_account: Tack. Eftersom du inte har något konto i systemet har ett e-postmeddelande med en verifieringskod skickats för att verifiera att det här är din e-postadress. Ange verifieringskoden från e-postmeddelandet nedan eller klicka på länken i e-postmeddelandet för att verifiera din adress. Sedan ombeds du skapa ett konto och kommer därefter till FileLink.
+    authorize: Auktorisera
+    authenticate: Logga in
+    sending: Skickar...
+    abort_transfer: Avbryt överföring
+    files_to_big: Fil(er) för stora
+    only_specified_recipients: Endast angivna mottagare har åtkomst
+    only_specified_recipients_and_local_users: Endast angivna mottagare och lokala användare har åtkomst
+    only_specified_recipients_and_domains: Endast angivna mottagare och användare i deras domän har åtkomst
+    anyone_after_authentication: Alla (med den slumpmässiga länken) har åtkomst
+    no_recipient_validation: Ingen mottagarverifiering
+    anyone_can_access: Alla har åtkomst
+    anyone: Alla
+    no_authentication: Ingen autentisering
+    can_download: kan hämta
+    not_yet_scanned: skannas efter virus, försök igen om en liten stund. %{queue} i kö
+    was_infected: "var infekterad med viruset %{virus} och har tagits bort"
+    deleted_or_expired: Borttagen eller har gått ut
+    im_done_editing: Skicka automatiskt när pågående uppladdningar är klara
+    download_all: Hämta alla
+    zipped_archive: ZIP-arkiv
+    message_id: Meddelande-ID
+    overall_progress: Total förlopp
+    abort: Avbryt
+    limitations: Begränsningar
+    max_size: Max storlek
+    add_files: Lägg till filer...
+    add_folder: Lägg till mapp...
+    no_attachment_added: Ingen bilaga har lagts till
+    you_need_to_add_at_least_one_file: Du måste lägga till minst en fil.
+    private_message_or_attached_files: Du måste antingen aktivera Privat meddelande eller bifoga minst en fil.
+    no_runtime_found: Ingen körmiljö hittades, det går inte att skicka filer
+    runtime_check_title: Ingen körmiljö hittades
+    selected: valda
+    file_size_error: Fel i filstorlek
+    remaining: återstår
+    attached_files: Bifogade filer
+    show_message: Visa meddelande
+    can_be_max: kan vara högst %{days} dagar framåt i tiden
+    not_ready: Ännu inte klar för nedladdning
+    download_info: Nedladdningsinformation
+    browser: Webbläsare
+    platform: Plattform
+    operating_system: Operativsystem
+    location: Plats
+    download_details: Nedladdningsdetaljer
+    download_information_not_found: Nedladdningsinformationen hittades inte.
+    add: Lägg till
+    select_existing_files: Välj befintliga filer
+    add_existing_files: Lägg till befintliga filer
+    add_existing_description: Dessa filer har redan skickats och du kan skicka dem igen.
+    zip_disabled: ZIP inaktiverat
+    zip_disabled_description_exceeded: Det maximala antalet nedladdningar har överskridits för minst en bilaga.
+    spinner_info_html: <strong>Ditt meddelande är redo att skickas</strong>. Vissa filer bearbetas fortfarande i bakgrunden, men du behöver inte vänta. <strong>Klicka på Skicka när du är redo!</strong>
+    sent_to_you: Skickat till dig
+    excluding_admins: Exklusive administratörer
+    downloads: Nedladdningar
+    download_log: Nedladdningslogg
+    delete_attachments: Ta bort bilagor
+    delete_message: Ta bort meddelande
+    delete_attachments_warning: Vill du verkligen ta bort bilagorna?
+    delete_message_warning: Om du tar bort meddelandet tas även de bifogade filerna och nedladdningsloggen bort. Vill du verkligen ta bort meddelandet?
+    invalid_message: Ogiltigt meddelande
+    message_deleted: Meddelandet har tagits bort
+    attachments_deleted: Bilagorna har tagits bort
+    checksum: Kontrollsumma (SHA256)
+    not_permitted_to_send_messages: Du har inte behörighet att skicka meddelanden.
+    invalid_group_belonging: Det är inte tillåtet att skicka (ogiltig grupp). Du är registrerad som extern användare, men din e-postadress tillhör domänen %{domain}, som också finns bland de begränsade mottagardomänerna. Detta är inte tillåtet för externa användare. Be systemadministratören att flytta dig till en annan grupp för att fortsätta.
+    expires_after_exceeded: Antalet nedladdningar har överskridits
+    expires_after_exceeded_for_zip: Antalet nedladdningar har överskridits för minst en fil i ZIP-arkivet
+    permission_description_title: Åtkomstbegränsningar
+    permission_description_only_specified_html: <ul> <li>Endast angivna mottagare kan öppna meddelandet och hämta filerna.</li> <li>Det är inte tillåtet att vidarebefordra e-postmeddelandet eller URL:en till någon.</li> <li>Mottagarna måste logga in för att öppna meddelandet och hämta filerna.</li> <li>Ett nedladdningskvitto med detaljerad information skickas varje gång en användare hämtar en fil.</li> </ul>
+    permission_description_only_specified_and_local_html: <ul> <li>Endast angivna mottagare och lokala användare kan hämta filerna.</li> <li>E-postmeddelandet eller URL:en får bara vidarebefordras till lokala användare.</li> <li>Mottagarna måste logga in för att hämta filerna.</li> <li>Ett nedladdningskvitto med detaljerad information skickas varje gång en användare hämtar en fil.</li> </ul>
+    permission_description_only_specified_and_domains_html: <ul> <li>Endast angivna mottagare och användare i samma e-postdomän har åtkomst.</li> <li>Om du skickar till chef@partner.se kan även sekreterare@partner.se öppna meddelandet, men inte nyfiken@konkurrent.se.</li> <li>Mottagarna måste logga in för att hämta filerna.</li> <li>Ett nedladdningskvitto med detaljerad information skickas varje gång en användare hämtar en fil.</li> </ul>
+    permission_description_anyone_after_authentication_html: <ul> <li>Alla som har den hemliga, slumpmässiga URL:en kan hämta filerna.</li> <li>E-postmeddelandet eller URL:en kan vidarebefordras till vem som helst.</li> <li>Mottagarna måste logga in för att hämta filerna.</li> <li>Ett nedladdningskvitto med detaljerad information skickas varje gång en användare hämtar en fil.</li> </ul>
+    permission_description_anyone_html: <ul> <li>Alla som har den hemliga, slumpmässiga URL:en kan hämta filerna.</li> <li>E-postmeddelandet eller URL:en kan vidarebefordras till vem som helst.</li> <li>Inloggning krävs <strong>inte</strong> för att hämta filerna.</li> <li>Ett <strong>enkelt</strong> nedladdningskvitto skickas vid den första nedladdningen av vem som helst (autentisering krävs för att veta vem som hämtade vad).</li> </ul>
+    your_message_has_been_sent: Ditt meddelande har skickats
+    you_can_send_to_anyone: "(Du kan skicka den här länken till vem som helst)"
+    send_more_files: Skicka fler filer
+    download_speed: Nedladdningshastighet
+    download_time: Nedladdningstid
+    at_least_one_invalid_email: Minst en ogiltig e-postadress
+    reply: Mottagaren kan svara
+    private_message: Privat meddelande
+    private_message_description_html: Med ett privat meddelande skickas inte meddelandetexten i e-postmeddelandet till mottagaren – den visas först när mottagaren klickar på länken i e-postmeddelandet och autentiserar sig. <ul> <li>Du kan skicka ett privat meddelande utan bilagor.</li> <li>Du får en åtkomstbekräftelse när någon har läst ditt meddelande.</li> <li>Du kan inte skicka ett privat meddelande med nedladdningsbehörigheten ”Alla kan hämta”.</li> </ul>
+    private_message_delivered_description: Meddelandet har skickats som ett privat meddelande. Meddelandetexten ingår inte i e-postmeddelandet och du får en åtkomstbekräftelse när varje mottagare har läst meddelandet.
+    access_info: Åtkomstinformation
+    access_details: Åtkomstdetaljer
+    validation_code: Verifieringskod
+    expired_token_inline: E-postautentiseringen har gått ut, försök igen.
+    invalid_token: Ogiltig eller utgången kod. Klicka på länken i det ursprungliga e-postmeddelandet för att verifiera din e-postadress igen.
+    download_zip: Hämta ZIP
+    zip_ready_for_download: ZIP klar för nedladdning
+    processing_zip: Bearbetar ZIP-arkiv
+    drop_file_here: Släpp filen här
+    drop_files_here: Släpp filer här
+    drop_files_and_folders_here: Släpp filer och mappar här
+    select_pool_files: Välj poolfiler
+    add_pool_files: Lägg till poolfiler
+    invalid_validation_token: Det här är ingen giltig verifieringskod.
+    not_the_validation_token: Det där är meddelande-ID:t, inte verifieringskoden. Ange verifieringskoden.
+    no_messages_in_inbox: Inga meddelanden i inkorgen.
+    filename_already_selected: En fil med det här namnet har redan lagts till i meddelandet
+    filesize_exceeded: Max storlek för meddelandet har överskridits
+    infected_with: Infekterad med virus
+    not_permitted_to_download_content_blocked: "Det är inte tillåtet att hämta filen. Virusskanningen upptäckte: %{virus}"
+    invalid_email_address: Ogiltig e-postadress
+    cant_create_folder: Det går inte att skapa mappen
+    cant_check_folder: Det går inte att kontrollera mappen
+    cant_restore_folder: Det går inte att återställa mappen
+    cant_check_chunks: Det går inte att kontrollera delarna
+    zip_not_include_all_files: Alla filer kan inte hämtas – ZIP-arkivet innehåller bara de filer som kan hämtas.
+    paste_tip: Tips! Klistra in med Ctrl+Skift+V för att ta bort formateringen.
+  session:
+    api:
+      authentication_error: Autentiseringsfel, försök igen.
+      not_local_user: Ogiltig e-postadress. Endast lokala användare kan använda den här funktionen.
+      show:
+        login: Logga in
+        login_label: E-postadress
+        password: Lösenord
+        sso_login: SSO-inloggning
+        authentication_title: Logga in
+        authentication_description: Ange din e-postadress eller logga in för att fortsätta.
+      authenticated:
+        authentication_successful: Autentiseringen lyckades
+    authenticate:
+      login: Logga in för att fortsätta
+      description_html: Du måste logga in för att öppna den här sidan. Ange din e-postadress eller logga in för att fortsätta.<br>Om du inte har något konto i systemet anger du din e-postadress, så skickar vi ett tillfälligt lösenord till dig via e-post.
+      unauthorized: Du har inte behörighet att visa meddelandet. Ange din e-postadress exakt som meddelandet skickades till dig, eller kontakta avsändaren.
+    email:
+      validate_email: Verifiera din e-postadress
+      validate_email_description_html: "En säkerhetskod har skickats till din e-postadress: <strong>%{email}</strong>. Klicka på länken eller ange säkerhetskoden här för att verifiera din e-postadress och fortsätta."
+      session_expired: Sessionen har gått ut, ange din e-postadress igen för att fortsätta
+      token_expired: Autentiseringslänken i e-postmeddelandet har gått ut, försök igen.
+      already_authenticated: Du är redan inloggad i den här webbläsaren.
+      resend_validation_email: Skicka verifieringsmeddelandet igen
+      verify: Verifiera
+      validate_email_sent: "Ett nytt verifieringsmeddelande skickades: %{time}. Klicka på länken i e-postmeddelandet eller ange säkerhetskoden nedan för att verifiera din e-postadress."
+      invalid_temporary_user: Ogiltig säkerhetskod. Kontrollera din e-post – en ny säkerhetskod har skickats till din inkorg.
+      create_account: Skapa konto
+      create_account_description: Skapa ett konto i systemet så att du kan logga in med din e-postadress och ditt lösenord i stället för med en säkerhetskod.
+      invalid_email: Ogiltig e-postadress
+    login_limit_exceeded:
+      delivered:
+        page_header: Inloggningsgränsen har överskridits
+        description: Du har försökt logga in för många gånger. För att fortsätta måste du återställa ditt lösenord.
+        email: Ett e-postmeddelande med en länk för att återställa ditt lösenord har skickats.
+      waiting:
+        page_header: Inloggningsgränsen har överskridits
+        description: Du har försökt logga in för många gånger. Observera att du måste logga in med ditt nätverkslösenord. Om du behöver återställa lösenordet och inte vet hur, kontakta en nätverksadministratör. När väntetiden har gått kan du läsa in sidan igen för att återställa gränsen.
+        expiration_time: Väntetid
+        reload: Läs in igen
+      show:
+        page_header: Inloggningsgränsen har överskridits
+        description: Du har försökt logga in för många gånger. Du kan återställa inloggningsgränsen och logga in igen. Ett e-postmeddelande för att återställa gränsen har skickats till dig.
+      reset:
+        login_limit_reset: Inloggningsgränsen har återställts
+    shared:
+      authentication_successful: Autentiseringen lyckades
+    outlook:
+      edit:
+        authentication_title: Autentisera
+        authentication_description: Logga in för att fortsätta
+        login: Logga in
+        login_label: E-postadress
+        password: Lösenord
+        sso_login: SSO-inloggning
+      show:
+        authentication_title: Autentisera
+        authentication_description: Logga in för att bifoga säkra filer.
+        authenticate: Autentisera
+    saml:
+      not_configured:
+        title: SAML är inte konfigurerat
+        description: SAML har inte konfigurerats i systemet. Om du tror att detta är ett fel, kontakta supporten så att de kan undersöka saken.
+        support_button: Kontakta support
+      api:
+        local:
+          title: SAML-autentisering
+          description: SAML-autentiseringen har öppnats i din standardwebbläsare – fortsätt inloggningen där. Om du inte hittar fönstret eller om det inte fungerar kan du fortsätta genom att klicka på knappen nedan.
+          button_label: SSO-inloggning
+      response:
+        api_error:
+          authentication_error: Autentiseringen misslyckades
+          saml_authentication_error: SSO-autentiseringen misslyckades
+          saml_authentication_error_description: SSO-autentiseringen misslyckades. Kontakta administratören om problemet kvarstår.
+        api_disabled:
+          api_disabled: Obehörig användargrupp
+          api_disabled_description: Ditt konto har inte åtkomst till den här funktionen (API inaktiverat). Kontakta en administratör och be hen flytta ditt konto till en annan grupp.
+        api_response:
+          authentication_successful: Autentiseringen lyckades
+        create:
+          could_not_create_account: Kontot kunde inte skapas. Kontakta en administratör för mer information.
+        show:
+          could_not_create_account: Kontot kunde inte skapas. Kontakta en administratör för mer information.
+    temporary_user:
+      validate_email: Verifiera din e-postadress
+      validate_email_description_html: "Ett tillfälligt lösenord har skickats till din e-postadress: <strong>%{email}</strong>. Klicka på länken eller ange det tillfälliga lösenordet här för att verifiera din e-postadress och fortsätta."
+      session_expired: Sessionen har gått ut, ange din e-postadress igen för att fortsätta
+      token_expired: Autentiseringslänken i e-postmeddelandet har gått ut, försök igen.
+      already_authenticated: Du är redan inloggad i den här webbläsaren.
+      resend_validation_email: Skicka verifieringsmeddelandet igen
+      verify: Verifiera
+      validate_email_sent: "Ett nytt verifieringsmeddelande skickades: %{time}. Klicka på länken i e-postmeddelandet eller ange lösenordet nedan för att verifiera din e-postadress."
+      invalid_temporary_user: Ogiltigt lösenord. Kontrollera din e-post – det tillfälliga lösenordet har skickats till din inkorg igen.
+      temporary_user_expired: Det tillfälliga lösenordet har gått ut. Kontrollera din e-post – ett nytt tillfälligt lösenord har skickats till din inkorg.
+      create_account: Skapa konto
+      create_account_description: Skapa ett permanent konto i systemet så att du kan logga in med din e-postadress och ditt lösenord i stället för med ett tillfälligt användarkonto.
+  shared:
+    show: Visa
+    reify: Återställ
+    download: Hämta
+    restore: Återställ
+    delete: Ta bort
+    trash: Papperskorg
+    cancel: Avbryt
+    close: Stäng
+    current: Aktuell
+    bootstrap_confirm_dialog:
+      confirm_action: Bekräfta åtgärd
+    shares:
+      bootstrap_confirm_dialog:
+        confirm_action: Bekräfta åtgärd
+      navigation:
+        files: Filer
+        activity_log: Aktivitetslogg
+      wrap_content:
+        activity_log: Aktivitetslogg
+    error_messages:
+      prohibited_this_from_being_saved: förhindrade att %{target} sparades
+  share:
+    share: Share
+    shares: Shares
+    no_shares: Inga Shares tillgängliga
+    name: Namn
+    folder_name: Mappnamn
+    share_not_found: Share hittades inte
+    folder_not_found: Mappen hittades inte
+    file_not_found: Filen hittades inte
+    no_read_access: Inte behörig att öppna denna Share
+    no_write_access: Ingen skrivbehörighet till denna Share
+    not_authorized_to_view_logs: Inte behörig att visa loggar
+    require_authentication: Denna Share kräver autentisering. Ange lösenordet för att fortsätta.
+    authenticate: Autentisera
+    authentication_failed: Autentiseringen misslyckades
+  shares:
+    folders:
+      are_you_sure_you_want_to_delete: Vill du verkligen ta bort den här mappen?
+      are_you_sure_you_want_to_trash: Vill du verkligen ta bort den här mappen permanent?
+      folder_name_already_taken: Mappnamnet används redan!
+      folder_not_found: Mappen hittades inte
+      could_not_create_folder: "Mappen kunde inte skapas: %{error}"
+      zip_no_files: Det finns inga filer att lägga till i ZIP-arkivet
+      windows_path_warning:
+        title: Begränsning av sökvägslängd i Windows
+        description_html: <strong>Windows-användare:</strong> Windows begränsar filsökvägar till 259 tecken. När du laddar upp mappar från platser med långa sökvägar kan filer djupt ner i mappstrukturen tyst utelämnas, vilket kan leda till ofullständiga uppladdningar eller dubblettmappar.
+        workarounds_title: Rekommenderade lösningar
+        workarounds_html: "<li><strong>Använd en virtuell enhet:</strong> öppna Kommandotolken och kör: <code>subst X: \"C:\\din\\langa\\sokvag\\till\\mappen\"</code><br>Ladda sedan upp från den virtuella enheten <code>X:\\</code></li><li><strong>Navigera närmare filerna:</strong> bläddra till en undermapp närmare dina filer innan du väljer mappen som ska laddas upp</li><li><strong>Använd en kortare sökväg:</strong> kopiera dina filer till en kortare plats, till exempel <code>C:\\uploads\\</code>, innan du laddar upp dem</li><li><strong>Zippa mappen först:</strong> komprimera mappen till en ZIP-fil och ladda upp ZIP-filen i stället</li>"
+        advanced_title: "Avancerat: aktivera långa sökvägar i Windows 10/11"
+        advanced_description_html: Från och med Windows 10 version 1607 kan du aktivera stöd för längre sökvägar. <strong>Obs!</strong> Det kräver administratörsbehörighet och fungerar kanske inte i alla webbläsare. Lösningarna ovan är mer tillförlitliga.
+        registry_steps_title: Steg för att aktivera långa sökvägar
+        registry_steps_html: "<li>Tryck på <kbd>Win + R</kbd>, skriv <code>regedit</code> och tryck på Retur</li><li>Gå till: <code>HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\FileSystem</code></li><li>Leta upp eller skapa ett DWORD-värde med namnet <code>LongPathsEnabled</code> och ange det till <code>1</code></li><li>Starta om datorn för att ändringen ska börja gälla</li><li>Testa uppladdningen igen (stödet kan variera mellan webbläsare)</li>"
+        browser_disclaimer_html: "<strong>Viktigt:</strong> även med den här registerinställningen aktiverad varierar stödet för långa sökvägar mellan webbläsare. Chrome, Edge och Firefox kan fortfarande tillämpa gränsen på 259 tecken. Lösningarna ovan är mer tillförlitliga."
+      folder:
+        rename_folder: Byt namn på mapp
+        move_folder_description: Flytta mappen %{foldername} till den mapp som valts nedan
+        move_folder: Flytta mapp
+      action_bar:
+        download_as_zip: Hämta som ZIP
+        download_as_zip_with_deleted: Hämta som ZIP, inklusive borttagna filer
+        toggle_deleted_view: Visa/dölj borttagna filer
+        filter: Filter
+        upload_file: Ladda upp filer
+        upload_folder: Ladda upp mapp
+        create_folder: Skapa mapp
+        windows_path_warning: Varning om sökvägslängd
+        upload_folder_unsupported: Uppladdning av mappar stöds inte
+        upload_folder_unsupported_description: Tyvärr stöder din webbläsare inte uppladdning av mappar. Använd skrivbordsversionen av Chrome eller Safari för att ladda upp en mappstruktur.
+        showing_deleted: Visar %{number_of} borttagna
+        hiding_deleted: Döljer %{number_of} borttagna
+        actions: Åtgärder
+        move_selected: Flytta markerade
+        trash_selected: Flytta markerade till papperskorgen
+        delete_selected: Ta bort markerade
+      action_bar_below:
+        send_notifications: Skicka aviseringar
+        sending_notifications: Skickar aviseringar
+        quota: Kvot
+        used_of: använt av
+        available: tillgängligt
+        quota_exceeded: Kvoten har överskridits
+      create_folder_modal:
+        create_folder: Skapa mapp
+        create: Skapa
+      files:
+        are_you_sure_you_want_to_delete: Vill du verkligen ta bort den här filen?
+        are_you_sure_you_want_to_trash: Vill du verkligen ta bort den här filen permanent?
+        file_not_found: Filen hittades inte
+        file:
+          rename_file: Byt namn på fil
+          move_file: Flytta
+          move_file_description: Flytta filen %{filename} till den mapp som valts nedan
+        show:
+          prev: Föregående
+          up: Upp
+          next: Nästa
+          last_updated: Senast uppdaterad
+          versions: Versioner
+          show_all: Visa alla
+          version_from: Version från
+          next_version: Nästa version
+          previous_version: Föregående version
+          current_version: Aktuell version
+          pdf_preview_not_supported: Förhandsgranskning av PDF-filer stöds inte i din webbläsare
+        available_chunks:
+          available: Det finns delvis uppladdade versioner av följande filer
+          resume_replace: Vill du återuppta uppladdningen eller ersätta filerna?
+      quota:
+        quota: Kvot
+        used_of: använt av
+        available: tillgängligt
+        quota_exceeded: Kvoten har överskridits
+      move_file_folder_modal:
+        move_folder: Flytta mapp
+        move_file: Flytta fil
+        move: Flytta
+      show:
+        select_all: Markera/avmarkera alla
+    logs:
+      action_bar:
+        activity_log: Aktivitetslogg
+      message:
+        created: Skapad
+        uploaded: Uppladdad
+        downloaded: Hämtad
+        reified: Återställd
+        removed: Borttagen
+        restored: Återställd
+        deleted: Borttagen
+        moved: Flyttad
+        renamed: Namnbytt
+        added: Tillagd
+        viewed: Visad
+        infected: Infekterad
+        trashed: Flyttad till papperskorgen
+        deleted_user: "(Borttagen användare)"
+        share: Share
+        folder: Mapp
+        file: Fil
+        group: Grupp
+        user: Användare
+        read: Läsa
+        read/write: Läsa/skriva
+        av_scanner: Virusskanner
+        version_from: Version från
+        file_deleted: Filen har tagits bort
+        to: till
+        from: från
+        unknown: Okänd
+        other: Övrigt
+  share/log:
+    message:
+      you: Du
+      share: Share
+      folder: mapp
+      file: fil
+      user: användare
+      version_from: version från
+      read: läsa
+      read/write: läsa/skriva
+      created: skapade
+      added: lade till
+      uploaded: laddade upp
+      downloaded: hämtade
+      updated: uppdaterade
+      restored: återställde
+      reified: återställde
+      deleted: tog bort
+      removed: tog bort permanent
+      trashed: flyttade till papperskorgen
+      renamed: bytte namn på
+      viewed: visade
+      infected: infekterad
+      av_scanner: Virusskanner
+      file_deleted: Filen har tagits bort
+  sms_auth:
+    login_failed: Inloggningen misslyckades
+    sms_error: Fel i sms-konfigurationen, kontakta systemadministratören
+    verify_token: Verifiera sms-kod
+    verify_token_description: "Ange koden som skickats till din mobiltelefon:"
+    sms_login_failed: Sms-verifieringen misslyckades, en ny sms-kod har skickats
+    sms_signup: Registrering för tvåfaktorsautentisering via sms
+    sms_signup_failed: Tvåfaktorsautentisering via sms misslyckades
+    sms_signup_description: För att fortsätta måste du registrera dig för tvåfaktorsautentisering via sms. Ange ditt telefonnummer nedan för att fortsätta.
+    verify: Verifiera
+    resend: Skicka koden igen
+    code: Kod
+    token_resent: Sms-koden skickades igen %{time}
+    send_token: Skicka verifieringskod
+    phone_number: Telefonnummer
+    invalid_phone_number: Ogiltigt telefonnummer, försök igen.
+    change_phone_number: Ändra telefonnummer
+    phone_number_help: Ange ditt telefonnummer med landsnummer och utan inledande nolla (t.ex. 46701234567). En verifieringskod skickas till numret.
+    one-time-code: Engångskod
+  strong_auth:
+    two_factor_authentication: Tvåfaktorsautentisering
+    enable_2fa: Aktivera tvåfaktorsautentisering
+    disable_2fa: Inaktivera tvåfaktorsautentisering
+    title: Aktivera tvåfaktorsautentisering
+    enable_2fa_description: Du kan aktivera stark tvåfaktorsautentisering för att öka säkerheten för ditt konto.
+    require_description: För att använda systemet måste du konfigurera tvåfaktorsautentisering.
+    disable_description: Ange den aktuella koden för att inaktivera tvåfaktorsautentisering
+    two_factor_auth_disabled: Tvåfaktorsautentisering inaktiverad
+    step1: "Steg 1: Hämta autentiseringsappen"
+    step1_description: Aktivera tvåfaktorsautentisering, vanligtvis med en mobilapp.
+    totp_apps_description_html: Exempel på autentiseringsappar är <a href="https://authy.com" target="_blank" rel="external nofollow noopener noreferrer">Authy</a> (flera plattformar) och Google Authenticator (iOS/Android). Se <a href="https://docs.liquidfiles.com/authentication/totp.html#clients" target="_blank">TOTP Clients</a> för fler alternativ.
+    step2: "Steg 2: Konfigurera autentiseringsappen"
+    step2_description: Konfigurera din autentiseringsapp genom att skanna QR-koden.
+    step2_alt: Eller ange följande kod
+    step3: "Steg 3: Verifiera"
+    step3_description: Verifiera konfigurationen genom att ange koden som autentiseringsappen genererar.
+    failed_to_authenticate: Autentiseringen misslyckades, försök igen.
+    click_on_link: Du kan också klicka på följande länk för att lägga till konfigurationen i din app för tvåfaktorsautentisering
+    configure: Konfigurera tvåfaktorsautentisering
+    success_saved: Klart, konfigurationen för tvåfaktorsautentisering har sparats
+    verify_token: Verifiera tvåfaktorsautentisering
+    verify_token_description: Ange koden för tvåfaktorsautentisering från din mobilapp.
+    verify: Verifiera
+    two_factor_login_failed: Tvåfaktorsautentiseringen misslyckades
+    two_factor_validation_failed: Verifieringen av tvåfaktorsautentiseringen misslyckades
+    skip_2fa_for_two_weeks: Hoppa över tvåfaktorsautentisering i den här webbläsaren i två veckor
+    one-time-code: Engångskod
+  support:
+    email_subject: Jag behöver hjälp med
+    email_body: Beskriv problemet så detaljerat som möjligt. Tack.
+    navbar_tooltip: Om du behöver hjälp med att komma åt eller använda systemet klickar du på den här länken, så hjälper vi dig gärna.
+  user:
+    includes_at_least_one_invalid_email_address: innehåller minst en ogiltig e-postadress
+    confirm:
+      invalid_session: Ogiltig session
+      already_validated: Din e-postadress har redan verifierats
+      invalid_token: Ogiltig kod. Försök igen eller klicka på Skicka verifieringsmeddelandet igen.
+      validation_email_sent: "Verifieringsmeddelande skickat: %{time}"
+      activated_successfully: Aktiverat
+      validate_email_description: Kontrollera din e-post och ange det tillfälliga lösenordet för att verifiera din e-postadress.
+    register:
+      already_registered: Kontot är redan registrerat, logga in för att fortsätta
+      already_registered_not_validated: Ditt konto är redan registrerat, men din e-postadress behöver verifieras. Ett e-postmeddelande med en slumpmässig kod har skickats till dig. Ange koden nedan eller klicka på länken i e-postmeddelandet för att verifiera ditt konto.
+      show:
+        register: Registrera ett konto
+        description_html: <p>Ange dina uppgifter för att skapa ett konto. Med kontot kan du skicka stora filer säkert till %{branding_name}.</p>
+    signup:
+      create:
+        need_password: Du måste ange ett lösenord
+        need_name: Du måste ange ett namn
+    create:
+      show:
+        cancel_and_remember: Avbryt och fråga inte igen
+        cancel_and_remember_title: Detta sparas i din nuvarande webbläsare
+  validator:
+    required: Fältet är obligatoriskt.
+    remote: Rätta det här fältet.
+    email: Ange en giltig e-postadress.
+    url: Ange en giltig URL.
+    date: Ange ett giltigt datum.
+    dateISO: Ange ett giltigt datum (ISO).
+    number: Ange ett giltigt tal.
+    digits: Ange endast siffror.
+    creditcard: Ange ett giltigt kreditkortsnummer.
+    equalTo: Ange samma värde igen.
+    accept: Ange ett värde med ett giltigt filtillägg.
+    maxlength: Ange högst {0} tecken.
+    minlength: Ange minst {0} tecken.
+    rangelength: Ange ett värde med mellan {0} och {1} tecken.
+    range: Ange ett värde mellan {0} och {1}.
+    max: Ange ett värde som är mindre än eller lika med {0}.
+    min: Ange ett värde som är större än eller lika med {0}.
+    step: Ange en multipel av {0}.
+    invalid_phone_number: Ogiltigt telefonnummer
+  locale: Svenska

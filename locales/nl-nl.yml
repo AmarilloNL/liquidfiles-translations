@@ -1,0 +1,1956 @@
+nl:
+  s: s
+  min: min
+  hours: Uren
+  days: Dagen
+  weeks: Weken
+  months: Maanden
+  years: Jaren
+  ago: geleden
+  email: E-mail
+  save: Opslaan
+  delete: Verwijderen
+  cancel: Annuleren
+  remove: Verwijderen
+  aborting: Stoppen
+  aborted: Gestopt
+  saved_successfully: Succesvol opgeslagen
+  logout: Afmelden
+  error: Fout
+  enabled: Ingeschakeld
+  disabled: Uitgeschakeld
+  disable: Uitschakelen
+  default: Standaard
+  submit: Versturen
+  session_expired: Sessie is verlopen
+  search: Zoeken
+  filter: Filter
+  recipient: Ontvanger
+  recipients: Ontvangers
+  downloaded_by: Gedownload door
+  filename: Bestandsnaam
+  size: Grootte
+  downloaded: Gedownload
+  host: Host
+  ip: IP-adres
+  action: Actie
+  view_message: Bericht bekijken
+  view_message_popup: Bericht bekijken (pop-up)
+  download_info: Downloadinformatie
+  message_id: Bericht-ID
+  filelink_id: FileLink-ID
+  sent_at: Verzonden op
+  id: ID
+  subject: Onderwerp
+  expires: Verloopt
+  invalid_method: Ongeldige methode
+  export_csv: CSV exporteren
+  export_all: Alles exporteren
+  export_visible: Zichtbare exporteren
+  temporarily_unavailable: Tijdelijk niet beschikbaar
+  generic_search_error: Algemene zoekfout
+  sender: Afzender
+  search_temporary_disabled: Zoeken tijdelijk uitgeschakeld
+  help: Help
+  close: Sluiten
+  count: Aantal
+  settings: Accountinstellingen
+  virus: Virus
+  virus_status: Virusstatus
+  infected: Besmet
+  clean: Schoon
+  not_scanned: Niet gescand
+  not_yet_scanned: Nog niet gescand
+  csrf_error: 'CSRF: ongeldige parameters gedetecteerd. Meld u opnieuw aan om verder
+    te gaan.'
+  could_not_be_saved: Kon niet worden opgeslagen
+  label: Label
+  updated: Bijgewerkt
+  add: Toevoegen
+  system_info: Systeeminformatie
+  location: Locatie
+  accept: Accepteren
+  last_7_days: Laatste 7 dagen
+  last_30_days: Laatste 30 dagen
+  last_60_days: Laatste 60 dagen
+  last_90_days: Laatste 90 dagen
+  last_180_days: Laatste 180 dagen
+  last_365_days: Laatste 365 dagen
+  file: Bestand
+  files: Bestanden
+  next: Volgende
+  previous: Vorige
+  name: Naam
+  view: Bekijken
+  forget: Vergeten
+  update: Bijwerken
+  updated_at: Bijgewerkt op
+  created_at: Aangemaakt op
+  download_link_expired: Downloadlink is verlopen.
+  no_html5_upload_warning: Voor het uploaden van bestanden is een moderne, HTML5-compatibele
+    browser nodig. Microsoft Edge, Chrome, Firefox en Safari werken allemaal prima.
+  javascript_warning: Om bestanden te versturen en de meeste functies te gebruiken,
+    is JavaScript nodig.
+  cookie_accept: Deze site maakt gebruik van cookies. Door u aan te melden of op 'Accepteren'
+    te klikken, gaat u akkoord met het gebruik van cookies.
+  i_agree: Ik ga akkoord
+  session_timeout: Sessie verlopen, meld u opnieuw aan
+  loading: Bezig met laden...
+  unsupported_browser_header: Browser niet ondersteund
+  unsupported_browser_description_html: Uw browser wordt niet ondersteund, waardoor
+    deze site waarschijnlijk niet goed werkt. Gebruik een moderne browser voor deze
+    site.
+  not_logged_in_invalid_parameters: Niet aangemeld, ongeldige parameters
+  toggle_dropdown: Menu openen/sluiten
+  rejected: Afgewezen
+  undetected: Niet gedetecteerd
+  invalid_link: Ongeldige link, neem contact op met de afzender
+  account_settings_tooltip: Accountinstellingen
+  logout_tooltip: Afmelden
+  download_id: Download-ID
+  remote_host: Externe host
+  show: Tonen
+  hide: Verbergen
+  password: Wachtwoord
+  download: Downloaden
+  unauthorized: Niet gemachtigd
+  account:
+    login: Aanmelden
+    login_label: E-mailadres
+    email: E-mailadres
+    password: Wachtwoord
+    current_password: Huidig wachtwoord
+    please_enter_your_current_password: Vul uw huidige wachtwoord in
+    sign_in: Aanmelden
+    remember_me: Onthoud mij
+    not_administrator: U bent geen beheerder
+    password_reset: Wachtwoord herstellen
+    register: Registreren
+    register_description_html: Bedankt! Vul uw gegevens in om een account aan te maken.<br>De
+      volgende keer kunt u zich aanmelden met uw e-mailadres en wachtwoord.
+    account_not_activated: Account niet geactiveerd
+    incorrect_user_or_pw: Gebruikersnaam of wachtwoord ongeldig
+    confirmation_email_sent: Bevestigingse-mail verzonden
+    activated_successfully: Succesvol geactiveerd
+    not_activated: Account niet geactiveerd
+    password_reset_email_sent: E-mail voor wachtwoordherstel verzonden
+    no_such_user: Gebruiker onbekend
+    no_such_email: E-mailadres niet gevonden
+    not_logged_in: Niet aangemeld
+    saved_successfully: Succesvol opgeslagen
+    unlicensed_install_some_settings: 'Installatie zonder licentie: brandingopties
+      zijn alleen zichtbaar voor systeembeheerders'
+    incorrect_login_or_demo: Gebruikersnaam of wachtwoord is ongeldig, of de licentielimiet
+      is bereikt.
+    incorrect_login_or_ldap: Ongeldige gebruikersnaam of wachtwoord, of de LDAP-server
+      reageert niet.
+    invalid_api_key: Ongeldige API-sleutel
+    cant_delete_last_sysadmin: De laatste systeembeheerder kan niet worden verwijderd
+    cant_change_last_sysadmin: De laatste systeembeheerder kan niet worden gewijzigd
+    sso_login: SSO-aanmelding
+    invalid_sso_response: SSO-aanmelding mislukt.
+    automatic: Automatisch gedetecteerd
+    network_access_blocked: Toegang tot dit systeem is niet toegestaan vanaf uw netwerk.
+    please_login: Meld u aan om deze pagina te openen.
+    email_validation_session_timeout: Sessie verlopen, bevestig uw e-mailadres opnieuw.
+    signature: Handtekening
+    not_authorized_for_action: U bent niet gemachtigd om deze actie uit te voeren
+    invalid_group: Ongeldige groep. Neem contact op met een beheerder die uw account
+      naar een groep voor lokale gebruikers kan verplaatsen
+    invalid_group_configuration: Ongeldige groepsconfiguratie. Neem contact op met
+      een beheerder die een account voor u kan aanmaken of de groepsconfiguratie kan
+      aanpassen.
+    please_enter_email_to_email_password: Vul uw e-mailadres in om uw wachtwoord opnieuw
+      in te stellen.
+    password_reset_successfully: Wachtwoord succesvol gewijzigd
+    password_cant_be_empty: Wachtwoord mag niet leeg zijn
+    password_complexity_title: Wachtwoordcomplexiteit
+    password_complexity_description_html: "<p>Uw wachtwoord <strong>mag niet gebaseerd
+      zijn op een woord uit het woordenboek</strong> en moet aan minimaal 3 van de
+      volgende eisen voldoen:</p><ul><li>Minimaal 8 tekens</li><li>Minimaal 11 tekens</li><li>Minimaal
+      15 tekens</li><li>Minimaal 1 kleine letter en 1 hoofdletter</li><li>Minimaal
+      1 cijfer (0-9)</li><li>Minimaal één van de volgende tekens: !,@,#,$,%,^,&amp;,*,?,_,~,-,(,)</li></ul>"
+    is_not_strong_enough: is niet sterk genoeg
+    your_password_has_expired: Uw wachtwoord is verlopen
+    please_select_a_different_password: Kies een ander wachtwoord dan uw vorige
+    change_password: Wachtwoord wijzigen
+    account_not_found: Account niet gevonden. Meld u opnieuw aan.
+    user_required_to_use_saml: Wachtwoord kan niet opnieuw worden ingesteld. Meld
+      u aan via SAML
+    sysadmin_ldap_error: Dit account wordt via LDAP geauthenticeerd en kan hier niet
+      opnieuw worden ingesteld
+    login_limit_exceeded: Aanmeldlimiet overschreden
+    a_confirmation_email_will_be_sent: Er wordt een bevestigingse-mail verzonden
+    name: Naam
+    password_confirm: Wachtwoord bevestigen
+    save: Opslaan
+    can_not_reset_password_please_check_with_your_administrator: Uw wachtwoord kan
+      niet opnieuw worden ingesteld. Neem contact op met uw beheerder.
+    no_need_to_register_user: U hoeft geen account te registreren. Meld u aan met
+      uw bestaande account.
+    registration_not_allowed: Registratie niet toegestaan
+    create_description: Maak uw account aan door uw naam en wachtwoord op te geven.
+    activated_successfully_please_login: Uw account is succesvol geactiveerd. U kunt
+      zich nu aanmelden met uw e-mailadres en wachtwoord.
+    invalid_activation_url: Ongeldige activatie-URL. Controleer de URL en probeer
+      het opnieuw.
+    already_logged_in: U bent al aangemeld. Het is niet mogelijk om een nieuw account
+      te registreren.
+    bruteforce_message: Het maximale aantal aanmeldpogingen is overschreden. Probeer
+      het over %{minutes} minuten opnieuw.
+    admin_access_blocked: Beheerderstoegang is niet toegestaan vanaf uw IP-adres.
+    account_created_successfully: Account succesvol aangemaakt
+    create_account: Account aanmaken
+    create_account_description: Werk uw gegevens bij om uw account aan te maken.
+    account_settings: Accountinstellingen
+    change_language: Taal en landinstellingen wijzigen
+    filedrop_label: Filedrop (willekeurig)
+    filedrop_email_label: Filedrop
+    verify_account: Account verifiëren
+    invalid_sso_signature: Ongeldige SSO-handtekening of aanmelding
+    user_not_found: Gebruiker niet gevonden
+    could_not_create_account: Account kon niet worden aangemaakt
+    two_factor_authentication_failed: Duo-tweestapsverificatie mislukt
+    copy_to_clipboard: Kopiëren naar klembord
+    copy_url_to_clipboard: URL kopiëren naar klembord
+    delete_user_warning: Weet u zeker dat u deze gebruiker wilt verwijderen?
+    unauthorized_to_login: Niet gemachtigd om u aan te melden
+    first_time_message_title: Welkom bij LiquidFiles
+    first_time_message: "<p>Welkom bij LiquidFiles, de eenvoudigste manier om grote
+      bestanden veilig te versturen.</p><p>Voor de basisfuncties werkt het net als
+      webmail.</p><p>Dit bericht wordt maar één keer getoond. Loopt u ergens vast,
+      of wilt u meer geavanceerde functies ontdekken, klik dan op de knop 'Help' rechtsboven
+      in de menubalk.</p>"
+    first_time_message_button: Begrepen!
+    registration_failed_unknown_error: Registratie mislukt door een onbekende fout
+    session_timeout: Sessie verlopen
+    nothing_filled_in: Vul het formulier in
+    last_used: Laatst gebruikt
+    strong_auth_required_before_password_reset: Voor dit account is sterke tweestapsverificatie
+      vereist voordat het wachtwoord opnieuw kan worden ingesteld.
+    unfriendly_registration_message: Als u zich met dit e-mailadres op dit systeem
+      kunt registreren, ontvangt u een e-mail. Ontvangt u geen e-mail, gebruik dan
+      de supportlink hierboven.
+    unfriendly_password_reset_message: Als het account met dit e-mailadres opnieuw
+      kan worden ingesteld, ontvangt u een e-mail. Ontvangt u geen e-mail, gebruik
+      dan de supportlink hierboven.
+    aliases:
+      aliases: Aliassen
+      aliases_description: U kunt afzender- en ontvangeraliassen aan uw account toevoegen.
+        Met een afzenderalias kunt u berichten verzenden vanaf dat specifieke e-mailadres.
+        Met een ontvangeralias kunt u berichten voor dat e-mailadres bekijken. Berichten
+        aan een ontvangeralias zijn ook zichtbaar in uw beveiligde inbox.
+      aliases_no_change_description: Met een afzenderalias kunt u berichten verzenden
+        vanaf dat specifieke e-mailadres. Met een ontvangeralias kunt u berichten
+        voor dat e-mailadres bekijken. Berichten aan een ontvangeralias zijn ook zichtbaar
+        in uw beveiligde inbox. Neem contact op met een beheerder om een alias toe
+        te voegen of te wijzigen.
+      recipient_aliases: Ontvangeraliassen
+      sender_aliases: Afzenderaliassen
+      add_alias: Alias toevoegen
+      remove: Verwijderen
+      default_sender_alias: Standaard afzenderalias
+      default_sender_alias_description: De standaard afzenderalias.
+      are_you_sure: Weet u zeker dat u deze alias wilt verwijderen?
+      no_emails: Er zijn geen aliassen toegevoegd.
+      please_contact_an_administrator: Neem contact op met een beheerder om deze te
+        beheren
+      auto_added_aliases: Automatisch toegevoegde aliassen
+      auto_added_aliases_description: De volgende aliassen zijn automatisch aan uw
+        profiel toegevoegd. Neem contact op met een beheerder om deze te beheren.
+    alias:
+      confirm:
+        show:
+          title: Bedankt voor uw bevestiging
+          alias_email: Alias-e-mailadres
+          user: Gebruiker
+          recipient_and_sender_confirmation: De bovenstaande gebruiker kan nu beveiligde
+            berichten voor dit e-mailadres bekijken en beveiligde berichten verzenden
+            namens dit e-mailadres. Klik op de supportlink hierboven als dit niet
+            de bedoeling was.
+          only_recipient_confirmation: De bovenstaande gebruiker kan nu beveiligde
+            berichten voor dit e-mailadres bekijken. Klik op de supportlink hierboven
+            als dit niet de bedoeling was.
+          only_sender_confirmation: De bovenstaande gebruiker kan nu beveiligde berichten
+            verzenden namens dit e-mailadres. Klik op de supportlink hierboven als
+            dit niet de bedoeling was.
+    add_alias_modal:
+      title: Alias toevoegen
+      description: Vul het e-mailadres in waartoe u toegang wilt als ontvanger- of
+        afzenderalias. Er wordt een e-mail naar dit adres gestuurd ter bevestiging.
+      recipient_alias: Ontvangeralias - ik wil berichten lezen die naar dit e-mailadres
+        zijn gestuurd.
+      sender_alias: Afzenderalias - ik wil berichten verzenden namens dit e-mailadres.
+      invalid_email: Ongeldig e-mailadres
+      add_permission: Kies ontvangeralias, afzenderalias of beide.
+      send_request: Aanvraag versturen
+      request_has_been_sent: Uw aanvraag is verstuurd.
+    api:
+      api_key: API-sleutel
+      api_key_description: De API-sleutel wordt gebruikt door plug-ins zoals de Outlook-plug-in
+        en voor eigen koppelingen. U heeft deze alleen nodig als een beheerder daarom
+        vraagt.
+      api_key_reset_warning: Weet u het zeker? Als u de API-sleutel opnieuw instelt,
+        moet u de oude sleutel overal vervangen waar u die gebruikt.
+      reset_api_key: API-sleutel opnieuw instellen
+    contacts:
+      contacts: Contactpersonen
+      contacts_description: U kunt zoveel contactpersonen toevoegen als u wilt. Elke
+        contactpersoon kan meerdere e-mailadressen hebben, zodat u snel en eenvoudig
+        naar meerdere ontvangers tegelijk kunt versturen.
+      add_contact: Contactpersoon toevoegen
+      email_field_help: E-mailadressen, gescheiden door komma's.
+      contact:
+        edit_label: Label bewerken
+        edit_email: E-mailadres bewerken
+        are_you_sure: Weet u zeker dat u deze contactpersoon wilt verwijderen?
+    filedrops:
+      filedrops: Filedrops
+      filedrops_description: U bent de hoofdontvanger of CC-ontvanger van deze Filedrops.
+        Elk bestand dat via een van deze Filedrops wordt verzonden, wordt bij u afgeleverd.
+      name: Naam
+      title: Titel
+      recipient: Ontvanger
+      expires_after: Verloopt na
+      max_size: Max. bestandsgrootte
+      url: URL
+      main_recipient: Hoofdontvanger
+      cc: CC
+    personal_filedrop:
+      personal_filedrop: Persoonlijke Filedrop
+      personal_filedrop_description: Met uw persoonlijke Filedrop kunt u eenvoudig
+        bestanden ontvangen. U kunt de link versturen, op een website plaatsen of
+        in uw e-mailhandtekening opnemen. U ontvangt een melding zodra iemand iets
+        via uw persoonlijke Filedrop heeft verzonden.
+    previous_recipients:
+      previous_recipients: Eerdere ontvangers
+      previous_recipients_description: Wanneer u een beveiligd bericht verstuurt,
+        wordt elke ontvanger aan deze lijst met eerdere ontvangers toegevoegd. Zo
+        kunt u snel opnieuw naar dezelfde ontvangers versturen. Ontvangers naar wie
+        u 180 dagen niets heeft verstuurd, worden automatisch van deze lijst verwijderd.
+      are_you_sure: Weet u zeker dat u deze eerdere ontvanger wilt verwijderen?
+    pw_dictionary:
+      based_on_a_dictionary_word: is gebaseerd op een woord uit het woordenboek
+      based_upon_your_password_entry: is gebaseerd op uw wachtwoordinvoer
+      derived_from_your_password_entry: is afgeleid van uw wachtwoordinvoer
+      derivable_from_your_password_entry: is af te leiden uit uw wachtwoordinvoer
+      way_too_short: is VEEL te kort
+      too_short: is te kort
+      it_does_not_contain_enough_different_characters: bevat niet genoeg VERSCHILLENDE
+        tekens
+      all_whitespace: bestaat alleen uit spaties
+      too_simplistic_systematic: is te eenvoudig/systematisch
+      it_looks_like_a_national_insurance_number: lijkt op een burgerservicenummer
+      based_on_a_reversed_dictionary_word: is gebaseerd op een (omgekeerd) woord uit
+        het woordenboek
+    show:
+      basic_settings: Basisinstellingen
+      change_password: Wachtwoord wijzigen
+      strong_auth: Tweestapsverificatie
+      aliases: Aliassen
+      previous_recipients: Eerdere ontvangers
+      contacts: Contactpersonen
+      personal_filedrop: Persoonlijke Filedrop
+      api: API
+      filedrops: Filedrops
+    sms_disable:
+      disable_sms_otp: Sms-tweestapsverificatie uitschakelen
+      disable_sms_otp_description: Klik op de knop hieronder als u sms-tweestapsverificatie
+        wilt uitschakelen. Ter bevestiging wordt een sms-code verstuurd.
+      verify_token_description: 'Vul de code in die naar uw mobiele telefoon is gestuurd
+        om sms-tweestapsverificatie uit te schakelen:'
+      code: Code
+      sms_token_failed: Ongeldige sms-code, sms-tweestapsverificatie kon niet worden
+        uitgeschakeld
+      sms_otp_has_been_disabled: Sms-tweestapsverificatie is uitgeschakeld
+    sms_signup:
+      sms_signup_description: U kunt de beveiliging van uw account verbeteren door
+        tweestapsverificatie in te schakelen. Vul hieronder uw telefoonnummer in om
+        tweestapsverificatie in te schakelen.
+      phone_number: Telefoonnummer
+    sms_enable:
+      signup_complete: Sms-tweestapsverificatie is ingeschakeld
+    terms_of_service:
+      show:
+        title: Gebruiksvoorwaarden
+        accept_terms_of_service: Gebruiksvoorwaarden accepteren
+        do_not_accept: Niet accepteren
+      create:
+        you_need_to_accept: U moet de gebruiksvoorwaarden accepteren!
+  activerecord:
+    attributes:
+      attachment:
+        filename: Bestandsnaam
+        size: Grootte
+        secure_id: Bijlage-ID
+        content_type: Inhoudstype
+        created_at: Aangemaakt op
+        updated_at: Bijgewerkt op
+      download:
+        recipient: Ontvanger
+        downloaded_at: Gedownload op
+        remote_ip: Extern IP-adres
+        remote_host: Externe host
+        created_at: Aangemaakt op
+        updated_at: Bijgewerkt op
+      filedrop:
+        name: Naam
+        title: Titel
+        description: Omschrijving
+        blocked_extensions: Geblokkeerde extensies
+        permitted_extensions: Toegestane bestandstypen
+        expires_after: Verloopt na
+        max_filesize: Maximale bestandsgrootte
+        created_at: Aangemaakt op
+        updated_at: Bijgewerkt op
+        api_key: API-sleutel
+        cc: CC
+        authorization: Autorisatie
+      message:
+        recipients: Ontvangers
+        sender: Afzender
+        cc: CC
+        bcc: BCC
+        message: Bericht
+        subject: Onderwerp
+        deleted: Verwijderd
+        authorization: Autorisatie
+        created_at: Aangemaakt op
+        updated_at: Bijgewerkt op
+        expires_at: Verloopt op
+      share/log:
+        created_at: Datum
+      share/file:
+        checksum: Checksum (SHA256)
+      share/file/version:
+        whodunnit: Gewijzigd door
+        created_at: Gewijzigd op
+      user:
+        name: Naam
+        email: E-mailadres
+        quota: Quotum
+        used: Gebruikt
+        max: Max
+        password: Wachtwoord
+        ldap_authentication: LDAP-authenticatie
+        api_key: API-sleutel
+        level: Niveau
+        filedrop: Filedrop
+    models:
+      configuration: Configuratie
+      attachment: Bijlage
+      filedrop: Filedrop
+      message: Bericht
+      user: Gebruiker
+      download: Download
+  admin:
+    groups:
+      form:
+        bcc_myself: Kopie naar mijzelf versturen
+        can_change_bcc_myself: Gebruikers in deze groep mogen de instelling voor een
+          kopie naar zichzelf wijzigen
+      index:
+        default_group_assignment: Standaard groepstoewijzing
+    users:
+      users:
+        email: E-mailadres
+        name: Naam
+        group: Groep
+        max: Max. bestandsgrootte
+        quota: Quotum
+        strong_auth: Sterke authenticatie
+        filedrop: Filedrop
+        last_login_at: Laatst aangemeld
+        last_login_ip: Laatste aanmeld-IP
+        created: Aangemaakt
+      form:
+        name_label: Naam
+        email: E-mailadres
+        password: Wachtwoord
+        password_confirmation: Wachtwoord bevestigen
+        max_label: Maximale bestandsgrootte
+        group: Groep
+        strong_auth: Sterke authenticatie
+        strong_auth_username: Gebruikersnaam sterke authenticatie
+        api_key: API-sleutel
+        filedrop: Filedrop
+  attachments:
+    not_found: Bijlage niet gevonden
+  config:
+    settings: Instellingen
+    email: E-mail
+    language_preferences_from_your_browser: Taalvoorkeuren van uw browser
+    authentication: Authenticatie
+    time_zone: Tijdzone
+    current_time_zone: Huidige tijdzone
+    time_zone_from_browser: Tijdzone gedetecteerd door uw browser
+    time_zone_config_description: Als u de tijdzone op 'Automatisch gedetecteerd'
+      laat staan, wordt de tijdzone gebruikt die uw browser doorgeeft (alle tijden
+      worden dan in die tijdzone getoond). Als uw browser geen tijdzone doorgeeft,
+      wordt de standaard tijdzone van het systeem gebruikt. Detecteert uw browser
+      niet de juiste tijdzone, of wilt u tijden in een andere tijdzone zien, dan kunt
+      u een specifieke tijdzone instellen.
+    time_zone_default: Standaard tijdzone van het systeem
+    email_settings: E-mailinstellingen
+    configuration: Configuratie
+    local_domains: Lokaal domein
+    ldap_users: Via LDAP geauthenticeerde gebruikers
+    ldap_users_are_always_local: Via LDAP geauthenticeerde gebruikers zijn altijd
+      lokaal
+    separated_by_comma: gescheiden door komma's
+    default_max_file_size: Standaard maximale bestandsgrootte
+    local_users: Lokale gebruikers
+    external_users: Externe gebruikers
+    allow_registration: Registratie toestaan
+    allow_registration_desc: Registratie toestaan vanaf de aanmeldpagina
+    external_user_account: Externe ontvangers
+    external_user_account_desc: Externe ontvangers moeten een account aanmaken
+    allow_users_to_change_expiration: Gebruikers mogen de vervaldatum wijzigen
+    authorization: Toestemming
+    authorization_description: Standaardinstelling voor wie bestanden mag downloaden.
+    file_expiration: Vervaldatum
+    default_expire_files_after: Bestanden verlopen standaard na
+    delete_downloaded_files_after: Gedownloade bestanden verwijderen na
+    branding: Branding
+    company_name: Bedrijfsnaam
+    custom_stylesheet: Aangepast stylesheet
+    custom_javascript: Aangepast JavaScript
+    logotype: Logo
+    leave_blank_for_default: leeg laten voor standaardwaarde
+    email_configuration: E-mailconfiguratie
+    email_sender_address: Afzenderadres
+    email_host: Basis-URL voor e-mail
+    email_footer: E-mailvoettekst
+    email_relay_host: E-mailrelayserver
+    email_relay_username: Gebruikersnaam e-mailrelay
+    email_relay_password: Wachtwoord e-mailrelay
+    port: Poort
+    unlicensed_install_some_settings: 'Installatie zonder licentie: brandinginstellingen
+      zijn alleen zichtbaar voor systeembeheerders'
+    mail_relay_example: 'Bijv.: mailrelay.domein.nl, mx.domein.nl:587'
+    ldap: LDAP
+    please_see_the: zie de
+    for_more_information: voor meer informatie
+    virus_scan: Virusscan
+    virus_scan_description: Bestanden scannen op virussen.
+    blocked_file_extensions: Geblokkeerde bestandsextensies
+    default_bcc_myself_label: Kopie naar mijzelf
+    default_bcc_myself: Standaard een kopie naar mijzelf sturen
+    allow_users_to_change_require_login_label: Aanmelding vereist
+    allow_users_to_change_require_login: Gebruikers mogen 'Aanmelding vereist' wijzigen
+    permitted_file_extensions_label: Toegestane bestandsextensies
+    delete: Verwijderen
+    ldap_description: 'Schakel LDAP-authenticatie van gebruikers in en stel enkele
+      basisparameters in voor de verbinding met de LDAP-server. Als u geen poort opgeeft,
+      wordt de standaard LDAP-poort 389 gebruikt (of poort 636 als SSL is ingeschakeld).
+      Let op: poort 3268 wordt in Active Directory NIET gebruikt voor authenticatie,
+      alleen voor zoekopdrachten in het globale adresboek. Gebruik in plaats daarvan
+      poort 389/636.'
+    ldap_authentication: LDAP-authenticatie
+    basic_settings: Basisinstellingen
+    server: Server (hostnaam of IP-adres)
+    username: Gebruikersnaam
+    password: Wachtwoord
+    authentication_description: Deze gebruiker wordt gebruikt om verbinding te maken
+      met de LDAP-server (laat leeg voor een anonieme bind). De gebruiker moet zoekrechten
+      hebben in de LDAP-boom.
+    search_key: Zoeksleutel
+    search_key_description: De zoeksleutel en het domein zijn nodig om gebruikers
+      in de LDAP-boom te vinden. Zie de onderstaande tabel voor hoe zoeksleutel en
+      domein samen worden gebruikt om een gebruiker te vinden.
+    search_key_description2: Als de LDAP-zoeksleutel dus het e-mailadres bevat, moet
+      het domein leeg blijven. Als de LDAP-zoeksleutel alleen de gebruikersnaam bevat,
+      moet het domein het domein van de gebruikers bevatten.
+    search_key_defaults: 'Voor Active Directory is een goed beginpunt: sAMAccountName
+      als LDAP-zoeksleutel en bedrijf.nl (uw domein) als domein.'
+    user_enters: Gebruiker vult in
+    authorized_ldap_groups: Geautoriseerde LDAP-groepen
+    available_groups: Beschikbare groepen
+    default_settings: Standaardinstellingen
+    setting: Instelling
+    value: Waarde
+    description: Omschrijving
+    default_local_max_description: Dit is de standaard maximale bestandsgrootte voor
+      nieuwe lokale gebruikers. Deze kan per gebruiker worden aangepast.
+    user_changeable: Door gebruiker te wijzigen?
+    non_local: Niet-lokaal
+    remote: Extern
+    new_external_recipient_is_nonlocal: Nieuwe externe ontvangers zijn
+    email_message_on_top_label: Bericht bovenaan
+    email_message_on_top: Het bericht staat boven de lijst met bestanden in de e-mail
+      aan ontvangers
+    use_either_permitted_or_blocked_extensions: Kies toegestane óf geblokkeerde extensies,
+      niet beide
+    invalid_password: Ongeldig wachtwoord
+    valid_password: Geldig wachtwoord
+    test_password_validation: Wachtwoordvalidatie testen
+    custom_password_validation: Aangepaste wachtwoordvalidatie
+    custom_password_validation_description: 'Deze reguliere expressie wordt gebruikt
+      voor de aangepaste wachtwoordvalidatie. Typ alleen de reguliere expressie, zonder
+      scheidingstekens (niet beginnen en eindigen met ''/''). Voorbeeld: [a-zA-Z0-9]{7,}
+      (wachtwoorden mogen dan alleen a-z, A-Z en 0-9 bevatten, minimaal 7 tekens)'
+    filedrop: Filedrop
+    receive: Ontvangen
+    api_settings: API-instellingen
+    enable_api_label: API inschakelen
+    enable_api_description: Schakel de API in om toegang via plug-ins en scripts mogelijk
+      te maken.
+    enable_api_group_config: Meer API-instellingen vindt u in de groepsconfiguratie.
+    api_client_size_override_label: Grootte-instelling voor API-clients
+    api_client_size_override_description: API-clients versturen bestanden die groter
+      zijn dan deze grootte via de appliance
+    sso_secret_key: SSO-geheime sleutel
+    generate_key: Nieuwe sleutel genereren
+    sso_replace_confirm: Weet u het zeker? Als u de SSO-geheime sleutel vervangt,
+      werken bestaande SSO-koppelingen niet meer.
+    virus_scan_skip_locals: Virusscan overslaan voor lokale gebruikers
+    virus_scan_skip_locals_description: Bestanden van lokale gebruikers worden niet
+      op virussen gescand.
+    virus_scan_permit_unscanned: Niet-gescande bestanden toestaan
+    virus_scan_permit_unscanned_description: Bestanden die nog niet op virussen zijn
+      gescand mogen worden gedownload
+    userdrop: Gebruikers-Filedrop
+    user_filedrop_with_random_key: Gebruikers-Filedrops met willekeurige sleutel
+    enable_userdrop: Gebruikers-FileDrop inschakelen
+    example: Voorbeeld
+    user_filedrop_with_email: Gebruikers-Filedrops met e-mailadressen
+    enable_userdrop_email: Gebruikers-Filedrops met e-mailadres inschakelen
+    userdop_email_data_leakage: Deze optie verhoogt het risico dat geldige e-mailadressen
+      worden achterhaald. Aanvallers kunnen willekeurige adressen proberen om zo bestaande
+      adressen te ontdekken.
+    userdrop_files_expire_after: Geplaatste bestanden verlopen na
+    userdrop_max_filesize: Maximale bestandsgrootte voor Gebruikers-Filedrop
+    bruteforce_label: Bescherming tegen brute force
+    bruteforce_description_1: IP-adres blokkeren gedurende
+    bruteforce_description_2: minuten na
+    bruteforce_description_3: mislukte aanmeldingen/registraties binnen
+    bruteforce_description_4: minuten
+    bruteforce_whitelist_label: Whitelist brute force
+    allowed_admin_networks_label: Beheernetwerken
+    allowed_admin_networks_description: Beperk beheerderstoegang tot deze hosts en
+      netwerken. Localhost (127.0.0.1, ::1) is altijd toegestaan
+    enable_strong_authentication: Sterke authenticatie standaard inschakelen voor
+      deze typen gebruikers
+    authenticated_username: Geauthenticeerde gebruikersnaam
+    duo_hostname: Duo-hostnaam
+    duo_client_id: Duo-integratiesleutel
+    duo_client_secret: Duo-geheime sleutel
+    strong_authentication_test: Sterke authenticatie testen
+    stronger_password: Kies een sterker wachtwoord.
+    cannot_begin_or_end_with_blank: Het wachtwoord mag niet beginnen of eindigen met
+      een spatie.
+    at_least_one_invalid_domain: Minstens één ongeldig domein
+    at_least_one_invalid_email: Minstens één ongeldig e-mailadres
+    email_security_level: Beveiligingsniveau e-mailbezorging
+    geoip: GeoIP-opzoeking
+    geoip_description: Hiermee worden locatiegegevens gedownload van https://geoip.liquidfiles.com
+      en worden kaarten getoond.
+    tooltip:
+      local_domains: Een lokale gebruiker kan bestanden naar iedereen versturen. Een
+        niet-lokale gebruiker kan alleen bestanden naar lokale gebruikers versturen.
+        Wanneer een gebruiker zich voor het eerst aanmeldt of het account wordt aangemaakt,
+        wordt het domein van het e-mailadres vergeleken met deze domeinen om te bepalen
+        of de gebruiker lokaal is.
+      ldap_users_are_always_local: Elke gebruiker die via LDAP authenticeert, wordt
+        automatisch als lokaal beschouwd, ongeacht het domein.
+      allow_registration: Hiermee kunnen gebruikers zich zelf registreren. Op basis
+        van de lijst met lokale domeinen wordt bepaald of een nieuwe gebruiker lokaal
+        of niet-lokaal is.
+      local_user_maxfile: Wanneer een lokale gebruiker zich registreert of zich voor
+        het eerst via externe authenticatie aanmeldt, wordt deze maximale bestandsgrootte
+        ingesteld.
+      nonlocal_user_maxfile: Wanneer een niet-lokale gebruiker zich registreert, wordt
+        deze maximale bestandsgrootte ingesteld.
+      delete_downloaded_files_after: Een gedownload bestand wordt zo lang bewaard.
+        Dit moet lang genoeg zijn zodat de ontvanger een andere downloadlocatie kan
+        kiezen of opnieuw kan beginnen, maar kort genoeg zodat de link niet naar meer
+        mensen wordt verspreid.
+      file_expiration: Hiermee kunnen gebruikers de vervaldatum van bestanden wijzigen.
+        Als dit niet is ingeschakeld, krijgen alle bestanden de standaard vervaldatum.
+      default_expire_files_after: Bestanden verlopen na deze periode.
+      blocked_file_extensions: Blokkeer bestanden met deze extensies (niet hoofdlettergevoelig).
+      virus_scan: Scan alle geüploade bestanden op virussen met de ClamAV-virusscanner
+      require_authentication_permission: Als dit is ingeschakeld, mogen gebruikers
+        zelf kiezen of authenticatie vereist is
+      default_bcc_myself: Als dit is ingeschakeld, worden berichten standaard ook
+        naar de gebruiker zelf gestuurd
+      permitted_file_extensions: 'Als dit leeg is, zijn alle bestandsextensies toegestaan.
+        Als er minstens één extensie is ingevuld, zijn alleen de ingevulde bestandstypen
+        toegestaan. Voorbeeld: png, gif, jpg, txt'
+      new_external_recipient_is_nonlocal: 'Wanneer een bericht naar een nieuwe ontvanger
+        wordt gestuurd: moet die gebruiker worden aangemaakt als niet-lokale gebruiker
+        (zodat hij of zij kan antwoorden) of als externe gebruiker?'
+      email_message_on_top: Als dit is ingeschakeld, staat het bericht bovenaan de
+        e-mail en de lijst met bestanden eronder. Als dit is uitgeschakeld, staat
+        de lijst met bestanden boven het bericht.
+      email_sender: Dit e-mailadres wordt gebruikt als afzender van systeemberichten,
+        zoals wachtwoordherstel. Gebruik een echt bestaand e-mailadres, zodat deze
+        berichten niet als spam worden gemarkeerd.
+      email_host: Bijlagen gebruiken deze URL als basis-URL. Normaal is dit http://hostnaam.domein
+        of https://hostnaam.domein, maar het kan ook https://hostnaam.domein:4433
+        zijn als u port forwarding op uw firewall gebruikt wanneer gebruikers verbinding
+        maken met de LiquidFiles-appliance.
+      email_footer: Deze handtekening wordt onder alle uitgaande e-mails geplaatst.
+      email_relay: Gebruik deze mailserver om uitgaande e-mail door te sturen.
+      email_relay_username: Account waarmee wordt aangemeld bij de e-mailrelayserver
+      email_relay_password: Wachtwoord van het account waarmee wordt aangemeld bij
+        de e-mailrelayserver
+  date:
+    formats:
+      default: "%d-%m-%Y"
+      short: "%d-%m"
+      medium: "%d-%m-%Y"
+      long: "%d-%m-%Y"
+  time:
+    am: am
+    pm: pm
+    formats:
+      default: "%d-%m-%Y %H:%M:%S %z"
+      short: "%d-%m %H:%M"
+      medium: "%d-%m-%Y %H:%M"
+      long: "%d-%m-%Y %H:%M"
+  downloads:
+    download_id: Download-ID
+    index:
+      download_log_title: Downloads
+      download_log_description: Wie heeft wat en wanneer gedownload
+      paginator_entry_name: downloads
+    show:
+      no_map_for_reserved_address: Kan geen kaart tonen voor gereserveerde adressen
+  filedrop:
+    filedrop: Filedrop
+    no_such_filedrop: Deze Filedrop bestaat niet
+    invalid_filedrop_url: Ongeldige Filedrop-URL
+    invalid_filedrop_url_description: Er is geen Filedrop op deze URL. Controleer
+      de URL en probeer het opnieuw.
+    label: Filedrops
+    mb: MB
+    name: Naam
+    name_description: Korte naam die ook in de URL wordt gebruikt (bijv. /filedrop/naam)
+    title: Titel
+    title_description: Titel bovenaan de pagina
+    description: Omschrijving
+    description_description: Omschrijving onder de titel
+    user: Ontvangende gebruiker
+    user_description: Elke lokale gebruiker kan als ontvanger worden ingesteld
+    cc: CC
+    cc_description: "(gescheiden door komma's) Deze adressen ontvangen een kopie."
+    expires_after: Verloopt na
+    expires_after_description: dagen
+    max_filesize: Maximale bestandsgrootte
+    max_filesize_description: MB
+    reset_filedrop: Filedrop-URL opnieuw instellen
+    filedrop_reset_warning: Weet u het zeker? Als u de Filedrop-URL opnieuw instelt,
+      moet u de URL overal vervangen waar u deze heeft geplaatst.
+    permitted_extensions: Toegestane extensies
+    permitted_extensions_description: Alleen deze bestandstypen zijn toegestaan
+    blocked_extensions: Geblokkeerde extensies
+    blocked_extensions_description: Deze bestandstypen worden geblokkeerd
+    demo_license_warning_standard: Voor Filedrops in productie is een licentie nodig.
+      Upgrade naar een Pro-licentie om Filedrop te gebruiken.
+    max_one_during_demo: Tijdens de demo of met een Standard-licentie kunt u maximaal
+      één Filedrop instellen
+    filedrop_info: Met een Filedrop kunnen uw klanten bestanden naar u versturen zonder
+      authenticatie of voorafgaande instellingen. Elke Filedrop heeft een vaste URL
+      waarnaar u kunt linken vanaf webpagina's of in e-mailhandtekeningen. Wanneer
+      iemand een bestand in de Filedrop plaatst, wordt het automatisch naar een vooraf
+      ingestelde gebruiker gestuurd.
+    authorization: Toestemming
+    authorization_description: wie de bestanden mag downloaden die in de Filedrop
+      zijn geplaatst
+    you_will_be_notified: U ontvangt een downloadbevestiging wanneer uw bestanden
+      zijn gedownload.
+    require_authentication: Voor deze Filedrop is authenticatie vereist. Vul het wachtwoord
+      in om verder te gaan.
+    authenticate: Authenticeren
+    authentication_failed: Authenticatie mislukt
+    require_validation: Voor deze Filedrop is authenticatie of validatie van uw e-mailadres
+      vereist.
+  filelink:
+    filelink: FileLink
+    filelinks: FileLinks
+    filelink_title: FileLink
+    filelink_description: Een FileLink is een link naar één bestand. U kunt deze link
+      naar iedereen sturen, zonder een bericht te maken of ontvangers op te geven.
+      Alleen mensen naar wie u de willekeurige link heeft gestuurd, kunnen het bestand
+      downloaden.
+    expired_or_nonexistent_title: Ongeldige FileLink
+    expired_or_nonexistent: Deze FileLink is verlopen of bestaat niet. Neem contact
+      op met de afzender voor een nieuwe link.
+    existing_filelinks: Bestaande FileLinks
+    new_filelink: Nieuwe FileLink
+    available_files: Beschikbare bestanden
+    filename: Bestandsnaam
+    filesize: Bestandsgrootte
+    expires_at: Verloopt
+    link: Link
+    checksum: Checksum
+    copy_link_to_clipboard: FileLink naar klembord kopiëren
+    expire_link_at: Link verloopt op
+    you_have_no_filelinks: U heeft geen FileLinks. Voeg een nieuwe FileLink toe, of
+      maak er een aan vanuit een beschikbaar bestand.
+    you_have_no_files_available: U heeft geen eerder verzonden bestanden beschikbaar.
+      Zodra u minstens één bestand heeft verzonden, kunt u het hier selecteren om
+      er een FileLink van te maken.
+    create_link: Link aanmaken
+    invalid_file: Ongeldig bestand, kan geen FileLink aanmaken
+    delete: Verwijderen
+    delete_link_warning: Weet u zeker dat u deze link wilt verwijderen?
+    could_not_delete_link: Kon de FileLink niet verwijderen. Link niet gevonden!
+    filelink_deleted: FileLink verwijderd!
+    select_file: Bestand selecteren
+    send_download_receipts: Downloadbevestigingen verzenden
+    disabled: FileLinks zijn uitgeschakeld. Neem contact op met een beheerder
+    unauthorized: U bent niet gemachtigd om FileLinks te gebruiken
+    require_authentication: Aanmelding vereist
+    filelink_require_authentication: Voor deze FileLink moet u zich aanmelden
+    filelink_url: FileLink-URL
+    expired: Verlopen
+    filelink_expired: FileLink verlopen
+    select_from_available_files: U kunt ook een FileLink maken van een van deze bestaande
+      bestanden.
+    downloads: Downloads
+    authentication_failed: Authenticatie mislukt
+    password_label_html: Wachtwoord <small class="text-muted">(niet verplicht)</small>
+    password_present_html: Er is een wachtwoord ingesteld voor deze FileLink.<br>U
+      kunt het verwijderen door een leeg wachtwoord op te slaan.
+    password_not_present: Er is geen wachtwoord ingesteld.
+    copy_to_clipboard: FileLink naar klembord kopiëren
+    add_file: Bestand toevoegen
+  ftpdrop:
+    create:
+      ftpdrop: FTPdrop
+  html_editor:
+    font:
+      bold: Vet
+      italic: Cursief
+      underline: Onderstrepen
+      clear: Opmaak verwijderen
+      height: Regelhoogte
+      name: Lettertype
+      strikethrough: Doorhalen
+      subscript: Subscript
+      superscript: Superscript
+      size: Tekengrootte
+    image:
+      image: Afbeelding
+      insert: Afbeelding invoegen
+      resize_full: Volledige grootte
+      resize_half: Halve grootte
+      resize_quarter: Kwart grootte
+      float_left: Links uitlijnen
+      float_right: Rechts uitlijnen
+      float_none: Geen uitlijning
+      shape_rounded: 'Vorm: afgerond'
+      shape_circle: 'Vorm: cirkel'
+      shape_thumbnail: 'Vorm: miniatuur'
+      shape_none: 'Vorm: geen'
+      url: Afbeeldings-URL
+      remove: Afbeelding verwijderen
+    link:
+      link: Link
+      insert: Link invoegen
+      unlink: Link verwijderen
+      edit: Bewerken
+      text_to_display: Weer te geven tekst
+      url: Naar welke URL moet deze link verwijzen?
+      open_in_new_window: In nieuw venster openen
+    table:
+      table: Tabel
+    hr:
+      insert: Horizontale lijn invoegen
+    style:
+      style: Stijl
+      normal: Normaal
+      blockquote: Citaat
+      pre: Code
+      h1: Kop 1
+      h2: Kop 2
+      h3: Kop 3
+      h4: Kop 4
+      h5: Kop 5
+      h6: Kop 6
+    lists:
+      unordered: Ongenummerde lijst
+      ordered: Genummerde lijst
+    options:
+      help: Help
+      fullscreen: Volledig scherm
+      codeview: Codeweergave
+    paragraph:
+      paragraph: Alinea
+      outdent: Inspringing verkleinen
+      indent: Inspringing vergroten
+      left: Links uitlijnen
+      center: Centreren
+      right: Rechts uitlijnen
+      justify: Uitvullen
+    color:
+      recent: Recente kleur
+      more: Meer kleuren
+      background: Achtergrondkleur
+      foreground: Tekstkleur
+      transparent: Transparant
+      set_transparent: Transparant maken
+      reset: Herstellen
+      reset_to_default: Standaard herstellen
+    shortcut:
+      shortcuts: Sneltoetsen
+      close: Sluiten
+      text_formatting: Tekstopmaak
+      action: Actie
+      paragraph_formatting: Alineaopmaak
+      document_style: Documentstijl
+      extra_keys: Extra toetsen
+    history:
+      undo: Ongedaan maken
+      redo: Opnieuw
+  invite:
+    invite_user: Gebruiker uitnodigen
+    description: U kunt gebruikers uitnodigen om bestanden met u te delen. Nadat u
+      hun gegevens heeft ingevuld, ontvangen zij een e-mail met instructies om hun
+      registratie te voltooien.
+    send_invite: Uitnodiging versturen
+    name_placeholder: Volledige naam
+    invitation_sent: Uitnodiging verzonden
+    not_permitted_to_invite_users: U bent niet gemachtigd om gebruikers uit te nodigen.
+    invalid_email: Ongeldig e-mailadres
+  link:
+    show:
+      set_password: Wachtwoord instellen
+      download: Downloaden
+      downloads_and_info: Alle downloads en meer informatie
+    authenticate:
+      show:
+        title: FileLink-wachtwoord
+        authenticate: Authenticeren
+        require_authentication: Vul het vereiste wachtwoord in om deze FileLink te
+          openen.
+      create:
+        authentication_failed: Authenticatie mislukt.
+    downloads:
+      index:
+        back_to_filelink: Terug naar FileLink
+    link_downloads:
+      latest_downloads: Laatste downloads (%{count} van %{total} in totaal)
+  menu:
+    shares: Shares
+    messages: Berichten
+    send_files: Opstellen
+    users: Gebruikers
+    active_transfers: Actieve overdrachten
+    configuration: Configuratie
+    system: Systeem
+    message_list: Berichtenlijst
+    settings: Instellingen
+    admin: Beheer
+    account: Account
+    inbox: Inbox
+    sent_messages: Verzonden
+    downloads: Downloadlogboek
+    filelink: FileLinks
+    secure_messages: Beveiligde berichten
+    support: Support
+  message:
+    message_sent: Bericht verzonden
+    not_found: Bericht niet gevonden
+    message_not_found_header: Bericht niet gevonden!
+    message_not_found_description: Vraag de afzender om dit bericht opnieuw te versturen.
+    previous_recipients: Eerdere ontvangers
+    contacts: Contactpersonen
+    is_not_permitted: is niet toegestaan
+    not_permitted_to_delete_messages: U bent niet gemachtigd om berichten te verwijderen
+    is_not_in_any_of_the_allowed_domains: valt niet onder een van de toegestane domeinen
+    is_not_in_any_of_the_allowed_groups: zit niet in een van de toegestane groepen
+    attach_1_file: U moet minstens één bestand bijvoegen
+    too_many_files: Te veel bestanden bijgevoegd. U kunt maximaal %{count} bestanden
+      aan één bericht toevoegen.
+    attached_files: Bijgevoegde bestanden
+    expired: Het bericht is verlopen
+    authorize:
+      show:
+        title: Meld u aan om het beveiligde bericht te openen
+        authenticate_description_html: U staat op het punt een beveiligd bericht te
+          bekijken. U moet zich eerst aanmelden. Vul uw e-mailadres in of meld u aan
+          om verder te gaan.<br>Heeft u nog geen account op dit systeem? Vul dan uw
+          e-mailadres in, dan sturen wij u een beveiligde link om uw e-mailadres te
+          bevestigen.
+        unauthenticated_html: "<h4>Ongeldige gebruikersnaam of wachtwoord</h4><p>Vul
+          uw gebruikersnaam en wachtwoord in. U kunt uw wachtwoord opnieuw instellen
+          met de knop Wachtwoord herstellen hieronder.</p>"
+        unauthorized_to_view_check_email_html: <h4>Niet-gemachtigd e-mailadres</h4><p>Controleer
+          of het beveiligde bericht [<span class="font-monospace fw-bold">%{message_id}</span>]
+          aan u is verzonden en vul het e-mailadres exact zo in als het bericht is
+          verzonden.</p><p>Als u bijvoorbeeld zowel jan.jansen@bedrijf.nl als jjansen@bedrijf.nl
+          gebruikt, kan dit systeem niet weten dat dit hetzelfde adres is. Als het
+          beveiligde bericht naar jan.jansen@bedrijf.nl is verzonden, moet u dat adres
+          hier invullen.</p><p>Twijfelt u? Neem dan contact op met de afzender van
+          het beveiligde bericht.</p>
+    errors:
+      not_authorized_to_view_message: U bent niet gemachtigd om bericht-ID %{message_id}
+        te bekijken. Controleer of dit bericht aan u is verzonden.
+      private_message_requires_authentication: Privéberichten vereisen authenticatie
+    attachments:
+      download_attachment_details_csv: Bijlagegegevens downloaden (csv)
+      attachment:
+        fileinfo: Bestandsinformatie
+        file_size: Bestandsgrootte
+        content_type: Inhoudstype
+        checksum: Checksum
+        virus_status: Virusstatus
+    compose:
+      options_permission:
+        authentication_required: Aanmelding vereist
+        authentication_not_required: Aanmelding niet vereist
+        require_authentication_description: Moeten ontvangers zich aanmelden om dit
+          bericht te kunnen lezen?
+        access_restriction_html: Toegangsbeperking<br><small class="text-muted">Wie
+          heeft toegang tot dit bericht?</small>
+        recipients_only_html: Alleen<br>ontvangers
+        recipients_plus_locals_html: Ontvangers<br>+ lokale gebruikers
+        recipients_plus_domains_html: Ontvangers<br>+ domeinen
+        anyone_secret_link_html: Iedereen<br>(geheime link)
+    unavailable:
+      header: Bericht niet beschikbaar
+      description: Dit bericht is verlopen, verwijderd, bestaat niet of is niet meer
+        beschikbaar. Vraag de afzender het bericht opnieuw te versturen.
+    downloads:
+      index:
+        download_log_title: Downloadlogboek
+        message_id: Bericht-ID
+        paginator_entry_name: Downloads
+      download:
+        details: Details
+      not_found:
+        title: Bericht of download niet gevonden
+        description_html: Het bericht of de download is niet gevonden, of u bent niet
+          gemachtigd om deze te bekijken
+    temporary_user:
+      create:
+        invalid_temporary_user: Ongeldig wachtwoord. Controleer de e-mail met uw tijdelijke
+          wachtwoord of vraag een nieuw tijdelijk wachtwoord aan.
+        temporary_user_expired: Dit tijdelijke wachtwoord is verlopen. Er is een nieuw
+          tijdelijk wachtwoord naar uw e-mailadres gestuurd. Controleer uw inbox en
+          gebruik het nieuwe tijdelijke wachtwoord.
+        not_authorized_to_view_message: U bent niet gemachtigd om bericht-ID %{message_id}
+          te bekijken. Controleer of dit bericht aan u is verzonden.
+      show:
+        title: Vul uw tijdelijke wachtwoord in
+        description_html: 'U staat op het punt een beveiligd bericht te bekijken.
+          Om dit bericht te openen, moet u uw tijdelijke wachtwoord invullen.<br>Een
+          tijdelijk wachtwoord is een unieke, willekeurige code die u identificeert.
+          U heeft het tijdelijke wachtwoord in een aparte e-mail ontvangen (onderwerp:
+          Tijdelijk wachtwoord).'
+        what_is_this: Wat is dit?
+        login: Aanmelden
+        submit: Tijdelijk wachtwoord controleren
+        submit_email: Versturen
+        if_you_have_account: "(als u al een account heeft)"
+        request_temporary_user_header: Nieuw tijdelijk wachtwoord aanvragen
+        request_temporary_user_description_html: U kunt een nieuw tijdelijk wachtwoord
+          aanvragen om dit bericht te openen. Vul hieronder uw e-mailadres in om een
+          nieuw tijdelijk wachtwoord voor dit beveiligde bericht aan te vragen.
+        info_header: Informatie over het tijdelijke wachtwoord
+        info_body_html: '<p>Een tijdelijk wachtwoord is een unieke reeks cijfers en
+          letters, bijvoorbeeld:</p><pre><code>3ynp-7FKa-pZS9</code></pre><p><em>Dit
+          tijdelijke wachtwoord is alleen een voorbeeld zodat u ziet hoe het eruitziet.
+          U kunt het niet echt gebruiken.</em></p><p>In uw inbox vindt u <strong>twee
+          e-mails</strong>: de e-mail met het beveiligde bericht en een e-mail met
+          een <strong>onderwerp dat begint met: Tijdelijk wachtwoord</strong>. In
+          die e-mail staat uw unieke tijdelijke wachtwoord voor dit systeem.</p><p>Heeft
+          u geen e-mail met een tijdelijk wachtwoord ontvangen? Dan heeft u misschien
+          al een account op dit systeem. Klik in dat geval op "Aanmelden".</p><p>Denkt
+          u dat u een tijdelijk wachtwoord had moeten ontvangen maar is dat niet gebeurd?
+          Klik dan op "Tijdelijk wachtwoord aanvragen" om een nieuw wachtwoord te
+          krijgen.</p>'
+        email_address: E-mailadres
+        email_not_permitted: Dit e-mailadres is niet gemachtigd om dit beveiligde
+          bericht te bekijken.
+        email_not_permitted_description_html: "<p>Controleer de e-mail met het beveiligde
+          bericht die u heeft ontvangen en vul het e-mailadres exact zo in als het
+          bericht is verzonden.</p><p>Als u bijvoorbeeld zowel jan.jansen@bedrijf.nl
+          als jjansen@bedrijf.nl gebruikt, kan dit systeem niet weten dat dit hetzelfde
+          adres is. Als het beveiligde bericht naar jan.jansen@bedrijf.nl is verzonden,
+          moet u dat adres hier invullen.</p><p>Twijfelt u? Neem dan contact op met
+          de afzender van het beveiligde bericht.</p>"
+        email_can_login: U heeft al een account op dit systeem
+        email_can_login_description_html: "<p>U kunt zich met dit e-mailadres en uw
+          wachtwoord aanmelden op dit systeem.</p><p>Klik op de knop Aanmelden hieronder
+          om u aan te melden met uw bestaande account.</p>"
+        temporary_user_delivered_header: Tijdelijk wachtwoord verzonden
+        temporary_user_delivered_description_html: "<p>Er is een tijdelijk wachtwoord
+          naar uw e-mailadres gestuurd. Controleer uw inbox, sluit deze pop-up en
+          vul het tijdelijke wachtwoord in.</p>"
+    reply:
+      re: 'Re:'
+      wrote: schreef
+      show:
+        title: Beveiligd bericht beantwoorden
+        from: Van
+        reply: Beantwoorden
+        reply_all: Allen beantwoorden
+      options:
+        options_description: Alle opties worden overgenomen van het oorspronkelijke
+          bericht.
+    show:
+      back: Terug
+      message_header: Berichtkop
+      reply: Beantwoorden
+  messages:
+    sent:
+      skipped_file_not_found: Overgeslagen - bestand niet gevonden
+      show:
+        sent_title: Verzonden
+        sent_description: Berichten die u heeft verzonden
+        paginator_entry_name: berichten
+    attachments:
+      download_cmd:
+        unauthorized:
+          header: Niet gemachtigd
+          body: U bent niet gemachtigd om dit bestand te downloaden. Vraag de afzender
+            om het bestand opnieuw naar u te versturen.
+          back: Terug
+        exceeded:
+          header: Downloadlimiet overschreden
+          body: De downloadlimiet voor dit bestand is overschreden. Vraag de afzender
+            om het bestand opnieuw naar u te versturen.
+          back: Terug
+    download_zip:
+      unauthorized:
+        header: Niet gemachtigd
+        body: U bent niet gemachtigd om dit archief te downloaden. Vraag de afzender
+          om het bestand opnieuw naar u te versturen.
+        back: Terug
+      exceeded:
+        header: Downloadlimiet overschreden
+        body: De downloadlimiet voor een of meer bestanden in dit archief is overschreden.
+          Vraag de afzender om het bestand opnieuw naar u te versturen.
+        back: Terug
+    message:
+      reply: Beantwoorden
+      reply_all: Allen beantwoorden
+  models:
+    user:
+      no_need_to_create_local_user: Het is niet nodig om een lokale gebruiker aan
+        te maken
+      license_exceeded: Licentielimiet overschreden
+  notifier:
+    activate_user_subject: "[%{hostname}] Account activeren"
+    user_activation: Gebruikersactivatie
+    please_visit_the_following_url_to_activate: Klik op de volgende link om uw account
+      te activeren
+    the_following_files_are_attached: De volgende bestanden zijn aan dit bericht toegevoegd
+    please_visit_the_following_url: Klik op de volgende link om de bijlagen te downloaden
+    attachments_are_available: De bijlagen zijn beschikbaar tot
+    message_id: 'Bericht-ID: %{id}'
+    email_password_reset_subject: Wachtwoord opnieuw instellen
+    download_receipt_subject: 'Downloadbevestiging [ID: %{message_id}]'
+    a_file_that_you_sent: Een bestand dat u heeft verzonden, is succesvol gedownload.
+    recipient: Ontvanger
+    filename: Bestandsnaam
+    time_of_download: Tijdstip van download
+    downloaded_from: Gedownload vanaf
+    download_receipt: Downloadbevestiging
+    user_created:
+      account_created: Account aangemaakt
+      subject: "[%{hostname}] Account aangemaakt"
+      message: 'Er staat een beveiligde download voor u klaar. U moet zich aanmelden
+        om deze te downloaden. Klik op de volgende link om u te registreren:'
+  outlook:
+    messages:
+      new:
+        attachments_header: Bijlagen
+        attachments_hint: U kunt bestanden toevoegen door ze naar het gedeelte hieronder
+          te slepen, of door op de knop Bestanden toevoegen te klikken.
+        add_to_message: Aan bericht toevoegen
+      attachments:
+        attach_files: Bestanden toevoegen
+        drop_files_here: Sleep bestanden hierheen...
+      options:
+        recipients_can_reply: Ontvangers kunnen antwoorden
+        send_copy_to_myself: Kopie naar mijzelf versturen
+        private_message: Privébericht
+        private_message_required_auth_error: Bij een privébericht moet u de modus
+          'Aanmelding vereist' gebruiken.
+      options_authorization:
+        authentication_authorization_title_html: Authenticatie &amp; autorisatie
+        authentication_select_title: Authenticatie kiezen
+        authentication_required: Aanmelding vereist
+        authentication_not_required: Aanmelding niet vereist
+        authorization_select_title: Autorisatie kiezen
+        recipients_only: Alleen ontvangers
+        recipients_locals: Ontvangers + lokale gebruikers
+        recipients_domains: Ontvangers + domeinen
+        anyone: Iedereen (geheime link)
+      options_expiration:
+        message_expires: Bericht verloopt
+        message_expires_after: Bericht verloopt na
+  pagination:
+    first: "&laquo; Eerste"
+    last: Laatste &raquo;
+    previous: "&lsaquo; Vorige"
+    next: Volgende &rsaquo;
+    truncate: "&hellip;"
+  requests:
+    title: Bestandsaanvraag
+    file_request: Bestandsaanvraag
+    files_sent: Bestanden verzonden, bedankt!
+    request_file: Bestand aanvragen
+    file_requests: Bestandsaanvragen
+    description: Met een bestandsaanvraag vraagt u iemand om bestanden naar u te sturen.
+      Nadat u de gegevens heeft ingevuld, ontvangt de persoon een e-mail met een unieke
+      link waarmee de gevraagde bestanden naar u kunnen worden verstuurd.
+    file_request_not_found: Bestandsaanvraag niet gevonden
+    file_request_expired: Bestandsaanvraag verlopen
+    file_request_already_used: Bestandsaanvraag is al gebruikt
+    file_request_sent: Bestandsaanvraag verstuurd
+    not_permited: U bent niet gemachtigd om bestandsaanvragen te gebruiken
+    multiuse: Meervoudig gebruik - deze link voor de bestandsaanvraag mag meerdere
+      keren worden gebruikt
+    invalid_recipient: Ongeldige ontvanger, deze bestandsaanvraag is naar iemand anders
+      gestuurd
+    invalid_user: Dit is niet uw bestandsaanvraag
+    index:
+      title: Bestandsaanvragen
+      new_file_request: Nieuwe bestandsaanvraag
+      multiuse: Meervoudig gebruik
+      responded_to: Beantwoord
+      hide_expired: Verlopen en gebruikte verbergen
+      show_expired: Verlopen en gebruikte tonen
+    request:
+      resend: Opnieuw versturen
+      are_you_sure_you_want_to_delete: Weet u zeker dat u deze bestandsaanvraag wilt
+        verwijderen?
+    popup:
+      from: Van
+      to: Aan
+      subject: Onderwerp
+      message: Bericht
+    resend:
+      request_resent: De bestandsaanvraag is opnieuw verstuurd
+    new:
+      request_expires: Aanvraag verloopt
+  send:
+    send: Verzenden
+    sent: Verzonden
+    recipients: Aan
+    send_as: Verzenden als
+    you_can_only_send_files_to_yourself: U kunt alleen bestanden naar uzelf versturen
+    subject: Onderwerp
+    subject_placeholder: Onderwerp
+    attachments: Bijlagen
+    max_file_size: 'Maximale grootte van de bijlagen: %{filesize} MB'
+    upload_queue: Uploadwachtrij
+    remove: Verwijderen
+    cancel_all: Alles annuleren
+    cancel_all_uploads: Alle uploads annuleren
+    message: Bericht
+    message_placeholder: Bericht
+    done_editing_please_send: Ik ben klaar met bewerken. Verstuur het bericht zodra
+      alle bestanden zijn geüpload
+    files_sent_successfully: Bestanden succesvol verzonden
+    you_need_at_least_one_recipient: Geef minimaal één ontvanger op.
+    you_need_at_least_one_attachment: Voeg minimaal één bijlage toe
+    options: Opties
+    cc: CC
+    bcc: BCC
+    bcc_message_description: BCC-ontvangers zijn niet zichtbaar voor andere ontvangers
+    add_cc: CC toevoegen
+    add_bcc: BCC toevoegen
+    bcc_myself: Kopie naar mijzelf versturen
+    require_login: Aanmelding vereist om bestanden te downloaden
+    only_specified_recipients_can_download: Alleen opgegeven ontvangers kunnen de
+      bijlagen downloaden
+    anyone_can_download: Iedereen kan de bijlagen downloaden
+    expires_in: 'Beschikbaar tot '
+    expires_at: Bijlagen verlopen op
+    send_options: Verzendopties
+    to: Aan
+    from: Van
+    filename: Bestandsnaam
+    filesize: Bestandsgrootte
+    downloaded_at: Gedownload op
+    message_sent: Bericht verzonden
+    message_expires: Bericht verloopt
+    message_expires_after: Bericht verloopt na
+    message_expires_after_description: Dit wordt per bestand berekend. Als u twee
+      bestanden verstuurt die na één download verlopen, kan elke ontvanger elk bestand
+      één keer downloaden.
+    downloads_per_recipient: Downloads per ontvanger
+    total_downloads: Totaal aantal downloads
+    file_not_downloaded: Er zijn geen bestanden gedownload
+    at_least_one_invalid_extension: Minstens één bijlage heeft een ongeldige extensie
+    invalid_filetype: Ongeldig bestandstype
+    blocked_extension: 'Ongeldig bestandstype. U kunt alleen bestanden met de volgende
+      extensies uploaden: %{extensions}'
+    permitted_extensions: 'Toegestane extensies zijn: %{filetypes}'
+    already_selected: Dit bestand is al geselecteerd
+    maximum_filesize_exceeded: Maximale bestandsgrootte overschreden
+    contains_virus: "%{filename} bevat een virus: %{virus}"
+    limited_by_browser: Beperkt door webbrowser
+    limited_by_disk: Beperkt door beschikbare schijfruimte
+    limited_by_system_quota: Beperkt door systeemquotum
+    limited_by_group_quota: Beperkt door groepsquotum
+    limited_by_quota: Beperkt door quotum
+    limited_per_message: Limiet per bericht
+    system_quota_exceeded: Systeemquotum overschreden
+    group_quota_exceeded: Groepsquotum overschreden
+    quota_exceeded: Quotum overschreden
+    no_available_quota: Quotum overschreden. Verwijder enkele bestanden om door te
+      gaan
+    not_authorized_to_send: U bent niet gemachtigd om te versturen naar %{email}
+    public_url: Openbare URL
+    message_url: Bericht-URL
+    authorization: Autorisatie
+    insufficient_disk_space: Onvoldoende schijfruimte
+    active_transfers: Actieve overdrachten
+    view_log: Logboek bekijken
+    previously_sent_attachments: Eerder verzonden bijlagen
+    has_not_downloaded: "%{recipient} heeft nog geen bestanden gedownload"
+    authentication: Authenticatie
+    required: Vereist
+    disabled: Uitgeschakeld
+    require_authentication_tooltip_html: "<li>De ontvanger moet zich aanmelden met
+      gebruikersnaam en wachtwoord om het bestand te downloaden.</li> <li>U ontvangt
+      een bevestiging zodra het bestand is gedownload.</li>"
+    dont_require_authentication_tooltip_html: "<li>De ontvanger hoeft zich niet aan
+      te melden om het bestand te downloaden.</li> <li>U krijgt een bevestiging wanneer
+      het bestand is gedownload, maar niet door wie (dat is niet bekend).</li> <li>U
+      krijgt alleen een bevestiging wanneer de eerste ontvanger het bestand downloadt.</li>"
+    authenticate_link_description: U moet zich aanmelden voordat u deze FileLink kunt
+      openen.
+    unauthorized: U bent niet gemachtigd om dit bericht te lezen
+    unauthenticated: Onjuist wachtwoord
+    incorrect_login_or_demo: Ongeldig wachtwoord of licentielimiet bereikt
+    email_authorization_message: Bedankt. Om te controleren of dit uw e-mailadres
+      is, is er een e-mail met een validatiecode verzonden. Vul de validatiecode hieronder
+      in, of klik op de link in de e-mail om naar het bericht te gaan.
+    email_authorization_link: Bedankt. Om te controleren of dit uw e-mailadres is,
+      is er een e-mail met een validatiecode verzonden. Vul de validatiecode uit de
+      e-mail hieronder in, of klik op de link in de e-mail om naar de FileLink te
+      gaan.
+    email_authorization_message_create_account: Bedankt. Omdat u nog geen account
+      op dit systeem heeft, is er een e-mail met een validatiecode verzonden om te
+      controleren of dit uw e-mailadres is. Vul de validatiecode hieronder in, of
+      klik op de link in de e-mail om uw e-mailadres te bevestigen. Daarna wordt u
+      gevraagd een account aan te maken en gaat u naar het bericht.
+    email_authorization_link_create_account: Bedankt. Omdat u nog geen account op
+      dit systeem heeft, is er een e-mail met een validatiecode verzonden om te controleren
+      of dit uw e-mailadres is. Vul de validatiecode uit de e-mail hieronder in, of
+      klik op de link in de e-mail om uw e-mailadres te bevestigen. Daarna wordt u
+      gevraagd een account aan te maken en gaat u naar de FileLink.
+    authorize: Autoriseren
+    authenticate: Aanmelden
+    sending: Bezig met verzenden...
+    abort_transfer: Overdracht afbreken
+    files_to_big: Bestanden te groot
+    only_specified_recipients: Alleen opgegeven ontvangers
+    only_specified_recipients_and_local_users: Alleen opgegeven ontvangers en lokale
+      gebruikers
+    only_specified_recipients_and_domains: Alleen opgegeven ontvangers en gebruikers
+      van hun domein hebben toegang
+    anyone_after_authentication: Iedereen na aanmelding
+    no_recipient_validation: Geen ontvangervalidatie
+    anyone_can_access: Iedereen heeft toegang
+    anyone: Iedereen
+    no_authentication: Geen authenticatie
+    can_download: kunnen downloaden
+    not_yet_scanned: wordt momenteel op virussen gescand. Probeer het later opnieuw.
+      %{queue} in de wachtrij
+    was_infected: is verwijderd omdat het besmet was met het virus %{virus}
+    deleted_or_expired: Verwijderd of verlopen
+    im_done_editing: Automatisch verzenden zodra de huidige uploads klaar zijn
+    download_all: Alles downloaden
+    zipped_archive: ZIP-archief
+    message_id: Bericht-ID
+    overall_progress: Totale voortgang
+    abort: Afbreken
+    limitations: Beperkingen
+    max_size: Maximale grootte
+    add_files: Bestanden toevoegen...
+    add_folder: Map toevoegen...
+    no_attachment_added: Geen bijlage toegevoegd
+    you_need_to_add_at_least_one_file: U moet minimaal één bestand toevoegen.
+    private_message_or_attached_files: Schakel Privébericht in of voeg minimaal één
+      bestand toe.
+    no_runtime_found: Geen runtime gevonden, kan geen bestanden verzenden
+    runtime_check_title: Geen runtime gevonden
+    selected: geselecteerd
+    file_size_error: Fout in bestandsgrootte
+    remaining: resterend
+    attached_files: Bijgevoegde bestanden
+    show_message: Bericht weergeven
+    can_be_max: mag maximaal %{days} dagen in de toekomst liggen
+    not_ready: Nog niet klaar om te downloaden
+    download_info: Downloadinformatie
+    browser: Browser
+    platform: Platform
+    operating_system: Besturingssysteem
+    location: Locatie
+    download_details: Downloaddetails
+    download_information_not_found: Downloadinformatie kon niet worden gevonden.
+    add: Toevoegen
+    select_existing_files: Bestaande bestanden selecteren
+    add_existing_files: Bestaande bestanden toevoegen
+    add_existing_description: Deze bestanden zijn al eerder verzonden. U kunt ze opnieuw
+      verzenden.
+    zip_disabled: ZIP uitgeschakeld
+    zip_disabled_description_exceeded: Het maximale aantal downloads voor minstens
+      één bijlage is overschreden.
+    spinner_info_html: "<strong>Uw bericht is klaar om te verzenden</strong>. Sommige
+      bestanden worden nog op de achtergrond verwerkt, maar u hoeft niet te wachten.
+      <strong>Klik op Verzenden wanneer u klaar bent!</strong>"
+    sent_to_you: Aan u verzonden
+    excluding_admins: Exclusief beheerders
+    downloads: Downloads
+    download_log: Downloadlogboek
+    delete_attachments: Bijlagen verwijderen
+    delete_message: Bericht verwijderen
+    delete_attachments_warning: Weet u zeker dat u de bijlagen wilt verwijderen?
+    delete_message_warning: Als u het bericht verwijdert, worden ook de bijgevoegde
+      bestanden en het downloadlogboek verwijderd. Weet u zeker dat u het bericht
+      wilt verwijderen?
+    invalid_message: Ongeldig bericht
+    message_deleted: Bericht verwijderd
+    attachments_deleted: Bijlagen verwijderd
+    checksum: Checksum (SHA256)
+    not_permitted_to_send_messages: U bent niet gemachtigd om berichten te versturen.
+    invalid_group_belonging: Verzenden niet toegestaan (ongeldige groep). U bent ingesteld
+      als externe gebruiker, maar uw e-mailadres valt onder het domein %{domain},
+      dat ook bij de beperkte ontvangersdomeinen hoort. Dit is niet toegestaan voor
+      externe gebruikers. Vraag de systeembeheerder om u naar een andere groep te
+      verplaatsen.
+    expires_after_exceeded: Maximaal aantal downloads overschreden
+    expires_after_exceeded_for_zip: Het maximale aantal downloads is overschreden
+      voor minstens één bestand in het ZIP-archief
+    permission_description_title: Toegangsbeperkingen
+    permission_description_only_specified_html: "<ul> <li>Alleen opgegeven ontvangers
+      hebben toegang tot het bericht en kunnen de bestanden downloaden.</li> <li>Het
+      doorsturen van de e-mail of URL is niet toegestaan.</li> <li>Ontvangers moeten
+      zich aanmelden om het bericht te openen en de bestanden te downloaden.</li>
+      <li>Bij elke download wordt een downloadbevestiging met gedetailleerde informatie
+      verzonden.</li> </ul>"
+    permission_description_only_specified_and_local_html: "<ul> <li>Alleen opgegeven
+      ontvangers en lokale gebruikers kunnen de bestanden downloaden.</li> <li>De
+      e-mail of URL mag alleen naar lokale gebruikers worden doorgestuurd.</li> <li>Ontvangers
+      moeten zich aanmelden om de bestanden te downloaden.</li> <li>Bij elke download
+      wordt een downloadbevestiging met gedetailleerde informatie verzonden.</li>
+      </ul>"
+    permission_description_only_specified_and_domains_html: "<ul> <li>Alleen opgegeven
+      ontvangers en gebruikers van hetzelfde e-maildomein hebben toegang.</li> <li>Als
+      u naar directeur@partner.nl stuurt, heeft secretaresse@partner.nl ook toegang
+      tot het bericht, maar iemand@concurrent.nl niet.</li> <li>Ontvangers moeten
+      zich aanmelden om de bestanden te downloaden.</li> <li>Bij elke download wordt
+      een downloadbevestiging met gedetailleerde informatie verzonden.</li> </ul>"
+    permission_description_anyone_after_authentication_html: "<ul> <li>Iedereen met
+      de geheime, willekeurige URL kan de bestanden downloaden.</li> <li>De e-mail
+      of URL kan naar iedereen worden doorgestuurd.</li> <li>Ontvangers moeten zich
+      aanmelden om de bestanden te downloaden.</li> <li>Bij elke download wordt een
+      downloadbevestiging met gedetailleerde informatie verzonden.</li> </ul>"
+    permission_description_anyone_html: "<ul> <li>Iedereen met de geheime, willekeurige
+      URL kan de bestanden downloaden.</li> <li>De e-mail of URL kan naar iedereen
+      worden doorgestuurd.</li> <li>Aanmelden is <strong>niet</strong> nodig om de
+      bestanden te downloaden.</li> <li>Er wordt een <strong>eenvoudige</strong> downloadbevestiging
+      verzonden wanneer iemand de bestanden voor het eerst downloadt (aanmelding is
+      nodig om te weten wie wat heeft gedownload).</li> </ul>"
+    your_message_has_been_sent: Uw bericht is verzonden
+    you_can_send_to_anyone: "(U kunt deze link naar iedereen sturen)"
+    send_more_files: Meer bestanden versturen
+    download_speed: Downloadsnelheid
+    download_time: Downloadtijd
+    at_least_one_invalid_email: Minstens één ongeldig e-mailadres
+    reply: Ontvanger kan antwoorden
+    private_message: Privébericht
+    private_message_description_html: Bij een privébericht wordt de tekst van uw bericht
+      niet per e-mail naar de ontvanger gestuurd. Het bericht is pas zichtbaar wanneer
+      de ontvanger op de link in de e-mail klikt en zich aanmeldt. <ul> <li>U kunt
+      een privébericht zonder bijlagen versturen.</li> <li>U ontvangt een bevestiging
+      wanneer iemand uw bericht heeft bekeken.</li> <li>U kunt geen privébericht versturen
+      met de downloadrechten 'Iedereen kan downloaden'.</li> </ul>
+    private_message_delivered_description: Het bericht is als privébericht verzonden.
+      De tekst van het bericht staat niet in de e-mail, en u ontvangt een bevestiging
+      zodra elke ontvanger het bericht heeft bekeken.
+    access_info: Toegangsinformatie
+    access_details: Toegangsgegevens
+    validation_code: Validatiecode
+    expired_token_inline: De e-mailverificatie is verlopen. Probeer het opnieuw.
+    invalid_token: Ongeldig of verlopen token. Klik op de link in de oorspronkelijke
+      e-mail om uw e-mailadres opnieuw te bevestigen.
+    download_zip: ZIP downloaden
+    zip_ready_for_download: ZIP klaar om te downloaden
+    processing_zip: ZIP-archief wordt verwerkt
+    drop_file_here: Sleep het bestand hierheen
+    drop_files_here: Sleep bestanden hierheen
+    drop_files_and_folders_here: Sleep bestanden en mappen hierheen
+    select_pool_files: Poolbestanden selecteren
+    add_pool_files: Poolbestanden toevoegen
+    invalid_validation_token: Dit is geen geldige validatiecode.
+    not_the_validation_token: Dit is het bericht-ID, niet de validatiecode. Vul de
+      validatiecode in.
+    no_messages_in_inbox: Geen berichten in de inbox.
+    filename_already_selected: Er is al een bestand met deze naam aan dit bericht
+      toegevoegd
+    filesize_exceeded: Maximale berichtgrootte overschreden
+    infected_with: Besmet met virus
+    not_permitted_to_download_content_blocked: 'Het is niet toegestaan om dit bestand
+      te downloaden. De virusscan heeft het volgende gedetecteerd: %{virus}'
+    invalid_email_address: Ongeldig e-mailadres
+    cant_create_folder: Kan map niet aanmaken
+    cant_check_folder: Kan map niet controleren
+    cant_restore_folder: Kan map niet herstellen
+    cant_check_chunks: Kan onderdelen niet controleren
+    zip_not_include_all_files: Niet alle bestanden kunnen worden gedownload. Het ZIP-bestand
+      bevat alleen de bestanden die nog beschikbaar zijn.
+    paste_tip: Tip! Plak met Ctrl+Shift+V om de opmaak te verwijderen.
+  session:
+    api:
+      authentication_error: Authenticatiefout. Probeer het opnieuw.
+      not_local_user: Ongeldig e-mailadres. Alleen lokale gebruikers kunnen deze functie
+        gebruiken.
+      show:
+        login: Aanmelden
+        login_label: E-mailadres
+        password: Wachtwoord
+        sso_login: SSO-aanmelding
+        authentication_title: Aanmelden
+        authentication_description: Vul uw e-mailadres in of meld u aan om verder
+          te gaan.
+      authenticated:
+        authentication_successful: Authenticatie geslaagd
+    authenticate:
+      login: Meld u aan om verder te gaan
+      description_html: U moet zich aanmelden om deze pagina te openen. Vul uw e-mailadres
+        in of meld u aan om verder te gaan.<br>Heeft u nog geen account op dit systeem?
+        Vul dan uw e-mailadres in, dan sturen wij u een tijdelijk wachtwoord.
+      unauthorized: U bent niet gemachtigd om dit bericht te bekijken. Vul het e-mailadres
+        in waarnaar het bericht is verzonden, of neem contact op met de afzender.
+    email:
+      validate_email: Bevestig uw e-mailadres
+      validate_email_description_html: 'Er is een beveiligingscode naar uw e-mailadres
+        gestuurd: <strong>%{email}</strong>. Klik op de link in de e-mail of vul de
+        beveiligingscode hier in om uw e-mailadres te bevestigen en verder te gaan.'
+      session_expired: Sessie verlopen. Vul uw e-mailadres opnieuw in om verder te
+        gaan
+      token_expired: De authenticatielink in de e-mail is verlopen. Probeer het opnieuw.
+      already_authenticated: U bent in deze browser al aangemeld.
+      resend_validation_email: Bevestigingse-mail opnieuw versturen
+      verify: Controleren
+      validate_email_sent: Er is om %{time} een nieuwe bevestigingse-mail verstuurd.
+        Klik op de link in de e-mail of vul de beveiligingscode hieronder in om uw
+        e-mailadres te bevestigen.
+      invalid_temporary_user: Ongeldige beveiligingscode. Controleer uw e-mail, er
+        is een nieuwe beveiligingscode naar uw inbox gestuurd.
+      create_account: Account aanmaken
+      create_account_description: Maak een account aan op dit systeem, zodat u zich
+        kunt aanmelden met uw e-mailadres en wachtwoord in plaats van met een beveiligingscode.
+      invalid_email: Ongeldig e-mailadres
+    login_limit_exceeded:
+      delivered:
+        page_header: Aanmeldlimiet overschreden
+        description: U heeft te vaak geprobeerd zich aan te melden. Om verder te gaan,
+          moet u uw wachtwoord opnieuw instellen.
+        email: Er is een e-mail verstuurd met een link om uw wachtwoord opnieuw in
+          te stellen.
+      waiting:
+        page_header: Aanmeldlimiet overschreden
+        description: 'U heeft te vaak geprobeerd zich aan te melden. Let op: u moet
+          zich aanmelden met uw netwerkwachtwoord. Wilt u dit wachtwoord opnieuw instellen
+          en weet u niet hoe, neem dan contact op met een netwerkbeheerder. Na de
+          verlooptijd kunt u deze pagina opnieuw laden om de limiet op te heffen.'
+        expiration_time: Verlooptijd
+        reload: Opnieuw laden
+      show:
+        page_header: Aanmeldlimiet overschreden
+        description: U heeft te vaak geprobeerd zich aan te melden. U kunt de aanmeldlimiet
+          opheffen en u opnieuw aanmelden. Er is een e-mail naar u verstuurd om de
+          aanmeldlimiet op te heffen.
+      reset:
+        login_limit_reset: Aanmeldlimiet opgeheven
+    shared:
+      authentication_successful: Authenticatie geslaagd
+    outlook:
+      edit:
+        authentication_title: Authenticeren
+        authentication_description: Meld u aan om verder te gaan
+        login: Aanmelden
+        login_label: E-mailadres
+        password: Wachtwoord
+        sso_login: SSO-aanmelding
+      show:
+        authentication_title: Authenticeren
+        authentication_description: Meld u aan om beveiligde bestanden toe te voegen.
+        authenticate: Authenticeren
+    saml:
+      not_configured:
+        title: SAML niet geconfigureerd
+        description: SAML is niet geconfigureerd op dit systeem. Denkt u dat dit een
+          fout is, neem dan contact op met support zodat zij dit verder kunnen onderzoeken.
+        support_button: Contact opnemen met support
+      api:
+        local:
+          title: SAML-authenticatie
+          description: De SAML-authenticatie is geopend in uw standaardbrowser. Ga
+            daar verder met aanmelden. Kunt u het venster niet vinden of werkt het
+            niet, dan kunt u verdergaan met de knop hieronder.
+          button_label: SSO-aanmelding
+      response:
+        api_error:
+          authentication_error: Authenticatie mislukt
+          saml_authentication_error: SSO-authenticatie mislukt
+          saml_authentication_error_description: SSO-authenticatie mislukt. Neem contact
+            op met de beheerder als het probleem blijft bestaan.
+        api_disabled:
+          api_disabled: Niet-gemachtigde gebruikersgroep
+          api_disabled_description: Uw account heeft geen toegang tot deze functie
+            (API uitgeschakeld). Neem contact op met een beheerder om uw account naar
+            een andere groep te laten verplaatsen.
+        api_response:
+          authentication_successful: Authenticatie geslaagd
+        create:
+          could_not_create_account: Account kon niet worden aangemaakt. Neem contact
+            op met een beheerder voor meer informatie.
+        show:
+          could_not_create_account: Account kon niet worden aangemaakt. Neem contact
+            op met een beheerder voor meer informatie.
+    temporary_user:
+      validate_email: Bevestig uw e-mailadres
+      validate_email_description_html: 'Er is een tijdelijk wachtwoord naar uw e-mailadres
+        gestuurd: <strong>%{email}</strong>. Klik op de link in de e-mail of vul het
+        tijdelijke wachtwoord hier in om uw e-mailadres te bevestigen en verder te
+        gaan.'
+      session_expired: Sessie verlopen. Vul uw e-mailadres opnieuw in om verder te
+        gaan
+      token_expired: De authenticatielink in de e-mail is verlopen. Probeer het opnieuw.
+      already_authenticated: U bent in deze browser al aangemeld.
+      resend_validation_email: Bevestigingse-mail opnieuw versturen
+      verify: Controleren
+      validate_email_sent: Er is om %{time} een nieuwe bevestigingse-mail verstuurd.
+        Klik op de link in de e-mail of vul het wachtwoord hieronder in om uw e-mailadres
+        te bevestigen.
+      invalid_temporary_user: Ongeldig wachtwoord. Controleer uw e-mail, het tijdelijke
+        wachtwoord is opnieuw naar uw inbox gestuurd.
+      temporary_user_expired: Tijdelijk wachtwoord verlopen. Controleer uw e-mail,
+        er is een nieuw tijdelijk wachtwoord naar uw inbox gestuurd.
+      create_account: Account aanmaken
+      create_account_description: Maak een vast account aan op dit systeem, zodat
+        u zich kunt aanmelden met uw e-mailadres en wachtwoord in plaats van met een
+        tijdelijk gebruikersaccount.
+  shared:
+    show: Tonen
+    reify: Herstellen
+    download: Downloaden
+    restore: Herstellen
+    delete: Verwijderen
+    trash: Prullenbak
+    cancel: Annuleren
+    close: Sluiten
+    current: Huidig
+    bootstrap_confirm_dialog:
+      confirm_action: Actie bevestigen
+    shares:
+      bootstrap_confirm_dialog:
+        confirm_action: Actie bevestigen
+      navigation:
+        files: Bestanden
+        activity_log: Activiteitenlogboek
+      wrap_content:
+        activity_log: Activiteitenlogboek
+    error_messages:
+      prohibited_this_from_being_saved: heeft voorkomen dat %{target} kon worden opgeslagen
+  share:
+    share: Share
+    shares: Shares
+    no_shares: Geen shares beschikbaar
+    name: Naam
+    folder_name: Mapnaam
+    share_not_found: Share niet gevonden
+    folder_not_found: Map niet gevonden
+    file_not_found: Bestand niet gevonden
+    no_read_access: Niet gemachtigd om deze share te openen
+    no_write_access: Geen schrijfrechten voor deze share
+    not_authorized_to_view_logs: Niet gemachtigd om logboeken te bekijken
+    require_authentication: Voor deze share is authenticatie vereist. Vul het wachtwoord
+      in om verder te gaan.
+    authenticate: Authenticeren
+    authentication_failed: Authenticatie mislukt
+  shares:
+    folders:
+      are_you_sure_you_want_to_delete: Weet u zeker dat u deze map wilt verwijderen?
+      are_you_sure_you_want_to_trash: Weet u zeker dat u deze map definitief wilt
+        verwijderen?
+      folder_name_already_taken: Deze mapnaam is al in gebruik!
+      folder_not_found: Map niet gevonden
+      could_not_create_folder: 'Map kon niet worden aangemaakt: %{error}'
+      zip_no_files: Er zijn geen bestanden om aan het ZIP-bestand toe te voegen
+      windows_path_warning:
+        title: Beperking padlengte in Windows
+        description_html: "<strong>Windows-gebruikers:</strong> Windows beperkt bestandspaden
+          tot 259 tekens. Als u mappen uploadt vanaf een locatie met een lang pad,
+          kunnen bestanden die diep in de mapstructuur staan ongemerkt worden overgeslagen.
+          Dit kan leiden tot onvolledige uploads of dubbele mappen."
+        workarounds_title: Aanbevolen oplossingen
+        workarounds_html: '<li><strong>Gebruik een virtuele schijf:</strong> open
+          de opdrachtprompt en voer uit: <code>subst X: "C:\uw\lange\pad\naar\map"</code><br>Upload
+          daarna vanaf de virtuele schijf <code>X:\</code></li><li><strong>Ga dichter
+          naar de bestanden:</strong> blader naar een submap dichter bij uw bestanden
+          voordat u de map voor de upload kiest</li><li><strong>Gebruik een korter
+          pad:</strong> kopieer uw bestanden naar een kortere locatie zoals <code>C:\uploads\</code>
+          voordat u ze uploadt</li><li><strong>Zip de map eerst:</strong> comprimeer
+          de map tot een ZIP-bestand en upload in plaats daarvan het ZIP-bestand</li>'
+        advanced_title: 'Geavanceerd: lange paden inschakelen in Windows 10/11'
+        advanced_description_html: Vanaf Windows 10 versie 1607 kunt u ondersteuning
+          voor langere paden inschakelen. <strong>Let op:</strong> hiervoor zijn beheerdersrechten
+          nodig en het werkt mogelijk niet in alle browsers. De oplossingen hierboven
+          zijn betrouwbaarder.
+        registry_steps_title: Stappen om lange paden in te schakelen
+        registry_steps_html: "<li>Druk op <kbd>Win + R</kbd>, typ <code>regedit</code>
+          en druk op Enter</li><li>Ga naar: <code>HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\FileSystem</code></li><li>Zoek
+          of maak een DWORD-waarde met de naam <code>LongPathsEnabled</code> en stel
+          deze in op <code>1</code></li><li>Start uw computer opnieuw op om de wijziging
+          door te voeren</li><li>Probeer de upload opnieuw (ondersteuning verschilt
+          per browser)</li>"
+        browser_disclaimer_html: "<strong>Belangrijk:</strong> ook met deze registerinstelling
+          verschilt de ondersteuning voor lange paden per browser. Chrome, Edge en
+          Firefox kunnen de limiet van 259 tekens nog steeds toepassen. De oplossingen
+          hierboven zijn betrouwbaarder."
+      folder:
+        rename_folder: Map hernoemen
+        move_folder_description: Verplaats de map %{foldername} naar de map die hieronder
+          is geselecteerd
+        move_folder: Map verplaatsen
+      action_bar:
+        download_as_zip: Downloaden als ZIP
+        download_as_zip_with_deleted: Downloaden als ZIP, inclusief verwijderde bestanden
+        toggle_deleted_view: Verwijderde bestanden tonen/verbergen
+        filter: Filter
+        upload_file: Bestanden uploaden
+        upload_folder: Map uploaden
+        create_folder: Map aanmaken
+        windows_path_warning: Waarschuwing padlengte
+        upload_folder_unsupported: Map uploaden niet ondersteund
+        upload_folder_unsupported_description: Helaas wordt het uploaden van mappen
+          niet ondersteund in uw browser. Gebruik de desktopversie van Chrome of Safari
+          om een mapstructuur te uploaden.
+        showing_deleted: "%{number_of} verwijderde worden getoond"
+        hiding_deleted: "%{number_of} verwijderde zijn verborgen"
+        actions: Acties
+        move_selected: Selectie verplaatsen
+        trash_selected: Selectie naar prullenbak
+        delete_selected: Selectie verwijderen
+      action_bar_below:
+        send_notifications: Meldingen versturen
+        sending_notifications: Meldingen worden verstuurd
+        quota: Quotum
+        used_of: gebruikt van
+        available: beschikbaar
+        quota_exceeded: Quotum overschreden
+      create_folder_modal:
+        create_folder: Map aanmaken
+        create: Aanmaken
+      files:
+        are_you_sure_you_want_to_delete: Weet u zeker dat u dit bestand wilt verwijderen?
+        are_you_sure_you_want_to_trash: Weet u zeker dat u dit bestand definitief
+          wilt verwijderen?
+        file_not_found: Bestand niet gevonden
+        file:
+          rename_file: Bestand hernoemen
+          move_file: Verplaatsen
+          move_file_description: Verplaats het bestand %{filename} naar de map die
+            hieronder is geselecteerd
+        show:
+          prev: Vorige
+          up: Omhoog
+          next: Volgende
+          last_updated: Laatst bijgewerkt
+          versions: Versies
+          show_all: Alles tonen
+          version_from: Versie van
+          next_version: Volgende versie
+          previous_version: Vorige versie
+          current_version: Huidige versie
+          pdf_preview_not_supported: Een voorbeeld van PDF-bestanden wordt niet ondersteund
+            in uw browser
+        available_chunks:
+          available: Van de volgende bestanden zijn gedeeltelijke uploads beschikbaar
+          resume_replace: Wilt u de upload hervatten of de bestanden vervangen?
+      quota:
+        quota: Quotum
+        used_of: gebruikt van
+        available: beschikbaar
+        quota_exceeded: Quotum overschreden
+      move_file_folder_modal:
+        move_folder: Map verplaatsen
+        move_file: Bestand verplaatsen
+        move: Verplaatsen
+      show:
+        select_all: Alles selecteren/deselecteren
+    logs:
+      action_bar:
+        activity_log: Activiteitenlogboek
+      message:
+        created: Aangemaakt
+        uploaded: Geüpload
+        downloaded: Gedownload
+        reified: Hersteld
+        removed: Verwijderd
+        restored: Teruggezet
+        deleted: Verwijderd
+        moved: Verplaatst
+        renamed: Hernoemd
+        added: Toegevoegd
+        viewed: Bekeken
+        infected: Besmet
+        trashed: Naar prullenbak
+        deleted_user: "(Verwijderde gebruiker)"
+        share: Share
+        folder: Map
+        file: Bestand
+        group: Groep
+        user: Gebruiker
+        read: Lezen
+        read/write: Lezen/schrijven
+        av_scanner: Virusscanner
+        version_from: Versie van
+        file_deleted: Bestand verwijderd
+        to: naar
+        from: van
+        unknown: Onbekend
+        other: Overig
+  share/log:
+    message:
+      you: U
+      share: share
+      folder: map
+      file: bestand
+      user: gebruiker
+      version_from: versie van
+      read: lezen
+      read/write: lezen/schrijven
+      created: aangemaakt
+      added: toegevoegd
+      uploaded: geüpload
+      downloaded: gedownload
+      updated: bijgewerkt
+      restored: teruggezet
+      reified: hersteld
+      deleted: verwijderd
+      removed: definitief verwijderd
+      trashed: naar prullenbak verplaatst
+      renamed: hernoemd
+      viewed: bekeken
+      infected: besmet
+      av_scanner: Virusscanner
+      file_deleted: Bestand verwijderd
+  sms_auth:
+    login_failed: Aanmelden mislukt
+    sms_error: Fout in de sms-configuratie. Neem contact op met de systeembeheerder
+    verify_token: Sms-code controleren
+    verify_token_description: 'Vul de code in die naar uw mobiele telefoon is gestuurd:'
+    sms_login_failed: Sms-validatie mislukt, er is een nieuwe sms-code verstuurd
+    sms_signup: Aanmelden voor sms-tweestapsverificatie
+    sms_signup_failed: Sms-tweestapsverificatie mislukt
+    sms_signup_description: Om verder te gaan, moet u zich aanmelden voor sms-tweestapsverificatie.
+      Vul hieronder uw telefoonnummer in om verder te gaan.
+    verify: Controleren
+    resend: Code opnieuw versturen
+    code: Code
+    token_resent: Sms-code opnieuw verstuurd om %{time}
+    send_token: Verificatiecode versturen
+    phone_number: Telefoonnummer
+    invalid_phone_number: Ongeldig telefoonnummer, probeer het opnieuw.
+    change_phone_number: Telefoonnummer wijzigen
+    phone_number_help: Vul uw telefoonnummer in met landcode en zonder voorloopnul
+      (bijv. 31612345678). Er wordt een verificatiecode naar dit nummer gestuurd.
+    one-time-code: Eenmalige code
+  strong_auth:
+    two_factor_authentication: Tweestapsverificatie
+    enable_2fa: Tweestapsverificatie inschakelen
+    disable_2fa: Tweestapsverificatie uitschakelen
+    title: Tweestapsverificatie inschakelen
+    enable_2fa_description: U kunt sterke tweestapsverificatie inschakelen om de beveiliging
+      van uw account te verhogen.
+    require_description: Om dit systeem te gebruiken, moet u tweestapsverificatie
+      instellen.
+    disable_description: Vul de huidige code in om tweestapsverificatie uit te schakelen
+    two_factor_auth_disabled: Tweestapsverificatie uitgeschakeld
+    step1: 'Stap 1: download de authenticatie-app'
+    step1_description: Schakel tweestapsverificatie in, meestal met een mobiele app.
+    totp_apps_description_html: Voorbeelden van authenticatie-apps zijn <a href="https://authy.com"
+      target="_blank" rel="external nofollow noopener noreferrer">Authy</a> (meerdere
+      platforms) en Google Authenticator (iOS/Android). Zie <a href="https://docs.liquidfiles.com/authentication/totp.html#clients"
+      target="_blank">TOTP Clients</a> voor meer opties.
+    step2: 'Stap 2: stel de authenticatie-app in'
+    step2_description: Stel uw authenticatie-app in door de QR-code te scannen.
+    step2_alt: Of vul de volgende code in
+    step3: 'Stap 3: controleren'
+    step3_description: Controleer uw instelling door de code in te vullen die de authenticatie-app
+      aanmaakt.
+    failed_to_authenticate: Authenticatie mislukt, probeer het opnieuw.
+    click_on_link: U kunt ook op de volgende link klikken om de instelling aan uw
+      authenticatie-app toe te voegen
+    configure: Tweestapsverificatie instellen
+    success_saved: Gelukt, de instelling voor tweestapsverificatie is opgeslagen
+    verify_token: Tweestapsverificatie controleren
+    verify_token_description: Vul de code voor tweestapsverificatie uit uw mobiele
+      app in.
+    verify: Controleren
+    two_factor_login_failed: Tweestapsverificatie mislukt
+    two_factor_validation_failed: Validatie van tweestapsverificatie mislukt
+    skip_2fa_for_two_weeks: Tweestapsverificatie in deze browser twee weken overslaan
+    one-time-code: Eenmalige code
+  support:
+    email_subject: Graag hulp bij
+    email_body: Beschrijf het probleem zo gedetailleerd mogelijk. Bedankt.
+    navbar_tooltip: Heeft u hulp nodig bij het openen of gebruiken van dit systeem?
+      Klik op deze link, dan helpen wij u graag.
+  user:
+    includes_at_least_one_invalid_email_address: bevat minstens één ongeldig e-mailadres
+    confirm:
+      invalid_session: Ongeldige sessie
+      already_validated: Uw e-mailadres is al bevestigd
+      invalid_token: Ongeldige code. Probeer het opnieuw of klik op Bevestigingse-mail
+        opnieuw versturen.
+      validation_email_sent: Bevestigingse-mail verstuurd om %{time}
+      activated_successfully: Succesvol geactiveerd
+      validate_email_description: Controleer uw e-mail en vul het tijdelijke wachtwoord
+        in om uw e-mailadres te bevestigen.
+    register:
+      already_registered: Dit account is al geregistreerd. Meld u aan om verder te
+        gaan
+      already_registered_not_validated: Uw account is al geregistreerd, maar uw e-mailadres
+        moet nog worden bevestigd. Er is een e-mail met een willekeurige code naar
+        u verstuurd. Vul de code hieronder in of klik op de link in de e-mail om uw
+        account te bevestigen.
+      show:
+        register: Een account registreren
+        description_html: "<p>Vul uw gegevens in om een account aan te maken. Met
+          dit account kunt u grote bestanden veilig naar %{branding_name} versturen.</p>"
+    signup:
+      create:
+        need_password: U moet een wachtwoord invullen
+        need_name: U moet een naam invullen
+    create:
+      show:
+        cancel_and_remember: Annuleren en niet meer vragen
+        cancel_and_remember_title: Dit wordt onthouden in uw huidige browser
+  validator:
+    required: Dit veld is verplicht.
+    remote: Corrigeer dit veld.
+    email: Vul een geldig e-mailadres in.
+    url: Vul een geldige URL in.
+    date: Vul een geldige datum in.
+    dateISO: Vul een geldige datum in (ISO-formaat).
+    number: Vul een geldig getal in.
+    digits: Vul alleen cijfers in.
+    creditcard: Vul een geldig creditcardnummer in.
+    equalTo: Vul dezelfde waarde nogmaals in.
+    accept: Vul een waarde in met een geldige extensie.
+    maxlength: Vul maximaal {0} tekens in.
+    minlength: Vul minimaal {0} tekens in.
+    rangelength: Vul een waarde in van minimaal {0} en maximaal {1} tekens.
+    range: Vul een waarde in tussen {0} en {1}.
+    max: Vul een waarde in kleiner dan of gelijk aan {0}.
+    min: Vul een waarde in groter dan of gelijk aan {0}.
+    step: Vul een veelvoud van {0} in.
+    invalid_phone_number: Ongeldig telefoonnummer
+  locale: Nederlands

@@ -1,0 +1,1569 @@
+et:
+  s: s
+  min: min
+  hours: Tundi
+  days: Päeva
+  weeks: Nädalat
+  months: Kuud
+  years: Aastat
+  ago: tagasi
+  email: E-post
+  save: Salvesta
+  delete: Kustuta
+  cancel: Tühista
+  remove: Eemalda
+  aborting: Katkestamine
+  aborted: Katkestatud
+  saved_successfully: Edukalt salvestatud
+  logout: Logi välja
+  error: Viga
+  enabled: Lubatud
+  disabled: Keelatud
+  disable: Keela
+  default: Vaikimisi
+  submit: Saada
+  session_expired: Seanss on aegunud
+  search: Otsi
+  filter: Filter
+  recipient: Saaja
+  recipients: Saajad
+  downloaded_by: Allalaadija
+  filename: Failinimi
+  size: Suurus
+  downloaded: Alla laaditud
+  host: Host
+  ip: IP-aadress
+  action: Toiming
+  view_message: Kuva sõnum
+  view_message_popup: Kuva sõnum (hüpikaken)
+  download_info: Allalaadimise teave
+  message_id: Sõnumi ID
+  filelink_id: FileLinki ID
+  sent_at: Saadetud
+  id: ID
+  subject: Teema
+  expires: Aegub
+  invalid_method: Vigane meetod
+  export_csv: Ekspordi CSV
+  export_all: Ekspordi kõik
+  export_visible: Ekspordi nähtavad
+  temporarily_unavailable: Ajutiselt kättesaamatu
+  generic_search_error: Üldine otsinguviga
+  sender: Saatja
+  search_temporary_disabled: Otsing on ajutiselt keelatud
+  help: Abi
+  close: Sulge
+  count: Arv
+  settings: Konto seaded
+  virus: Viirus
+  virus_status: Viiruse olek
+  infected: Nakatunud
+  clean: Puhas
+  not_scanned: Skannimata
+  not_yet_scanned: Veel skannimata
+  csrf_error: "CSRF: tuvastati vigased parameetrid. Jätkamiseks logi uuesti sisse."
+  could_not_be_saved: Salvestamine ebaõnnestus
+  label: Silt
+  updated: Uuendatud
+  add: Lisa
+  system_info: Süsteemi teave
+  location: Asukoht
+  accept: Nõustu
+  last_7_days: Viimased 7 päeva
+  last_30_days: Viimased 30 päeva
+  last_60_days: Viimased 60 päeva
+  last_90_days: Viimased 90 päeva
+  last_180_days: Viimased 180 päeva
+  last_365_days: Viimased 365 päeva
+  file: Fail
+  files: Failid
+  next: Järgmine
+  previous: Eelmine
+  name: Nimi
+  view: Kuva
+  forget: Unusta
+  update: Uuenda
+  updated_at: Uuendatud
+  created_at: Loodud
+  download_link_expired: Allalaadimislink on aegunud.
+  no_html5_upload_warning: Failide üleslaadimiseks on vaja kaasaegset HTML5-ga ühilduvat brauserit. Microsoft Edge, Chrome, Firefox ja Safari töötavad kõik suurepäraselt.
+  javascript_warning: Failide saatmiseks ja enamiku funktsioonide kasutamiseks on vaja JavaScripti.
+  cookie_accept: See sait kasutab küpsiseid. Sisse logides või nupul „Nõustu“ klõpsates nõustud küpsiste kasutamisega.
+  i_agree: Nõustun
+  session_timeout: Seanss aegus, logi uuesti sisse
+  loading: Laadimine...
+  unsupported_browser_header: Brauserit ei toetata
+  unsupported_browser_description_html: Sinu brauserit ei toetata, mistõttu see sait ei pruugi ootuspäraselt töötada. Kasuta selle saidi jaoks uuemat brauserit.
+  not_logged_in_invalid_parameters: Pole sisse logitud, vigased parameetrid
+  toggle_dropdown: Näita/peida menüü
+  rejected: Tagasi lükatud
+  undetected: Tuvastamata
+  invalid_link: Vigane link, võta ühendust saatjaga
+  account_settings_tooltip: Konto seaded
+  logout_tooltip: Logi välja
+  download_id: Allalaadimise ID
+  remote_host: Kaughost
+  show: Näita
+  hide: Peida
+  password: Parool
+  download: Laadi alla
+  unauthorized: Volitamata
+  account:
+    login: Logi sisse
+    login_label: E-posti aadress
+    email: E-posti aadress
+    password: Parool
+    current_password: Praegune parool
+    please_enter_your_current_password: Sisesta oma praegune parool
+    sign_in: Logi sisse
+    remember_me: Jäta mind meelde
+    not_administrator: Sa ei ole administraator
+    password_reset: Parooli lähtestamine
+    register: Registreeru
+    register_description_html: Aitäh! Jätkamiseks sisesta oma andmed ja loo konto.<br>Järgmisel korral saad sisse logida oma e-posti aadressi ja parooliga.
+    account_not_activated: Konto pole aktiveeritud. Aktiveeri konto enne sisselogimist. Sulle saadeti e-kiri juhusliku koodiga. Sisesta kood allpool või klõpsa e-kirjas oleval lingil, et oma konto kinnitada.
+    incorrect_user_or_pw: Vale kasutajanimi või parool
+    confirmation_email_sent: Kinnitusmeil saadetud
+    activated_successfully: Edukalt aktiveeritud
+    not_activated: Konto pole aktiveeritud
+    password_reset_email_sent: Parooli lähtestamise e-kiri saadetud
+    no_such_user: Sellist kasutajat pole
+    no_such_email: E-posti aadressi ei leitud
+    not_logged_in: Sa pole sisse logitud. Jätkamiseks logi sisse.
+    saved_successfully: Edukalt salvestatud
+    unlicensed_install_some_settings: "Litsentsita paigaldus: brändingu valikud on nähtavad ainult süsteemiadministraatoritele"
+    incorrect_login_or_demo: Vale kasutajanimi või parool või on litsentsi piirang täis
+    incorrect_login_or_ldap: Vale kasutajanimi või parool või LDAP-serveri viga
+    invalid_api_key: Vigane API-võti
+    cant_delete_last_sysadmin: Viimast süsteemiadministraatorit ei saa kustutada
+    cant_change_last_sysadmin: Viimast süsteemiadministraatorit ei saa muuta
+    sso_login: SSO-sisselogimine
+    invalid_sso_response: Vigane SSO vastus
+    automatic: Tuvastatud automaatselt
+    network_access_blocked: Juurdepääs süsteemile sinu võrgust ei ole lubatud.
+    please_login: Selle lehe avamiseks logi sisse.
+    email_validation_session_timeout: Seanss aegus, kinnita oma e-posti aadress uuesti.
+    signature: Allkiri
+    not_authorized_for_action: Sul pole õigust seda toimingut teha
+    invalid_group: Vigane rühm. Võta ühendust administraatoriga, kes saab sinu konto kohalike kasutajate rühma teisaldada
+    invalid_group_configuration: Vigane rühma konfiguratsioon. Võta ühendust administraatoriga, kes saab sulle konto luua või rühma konfiguratsiooni muuta.
+    please_enter_email_to_email_password: Parooli lähtestamiseks sisesta oma e-posti aadress. Sellele aadressile saadetakse kinnitusmeil.
+    password_reset_successfully: Parool edukalt lähtestatud
+    password_cant_be_empty: Parool ei tohi olla tühi
+    password_complexity_title: Parooli keerukus
+    password_complexity_description_html: "<p>Sinu parool <strong>ei tohi põhineda sõnastikusõnal</strong> ja peab vastama vähemalt kolmele järgmisest nõudest:</p><ul><li>Vähemalt 8 märki</li><li>Vähemalt 11 märki</li><li>Vähemalt 15 märki</li><li>Vähemalt 1 väike- ja 1 suurtäht</li><li>Vähemalt 1 number (0-9)</li><li>Vähemalt üks järgmistest märkidest: !,@,#,$,%,^,&amp;,*,?,_,~,-,(,)</li></ul>"
+    is_not_strong_enough: ei ole piisavalt tugev
+    your_password_has_expired: Sinu parool on aegunud
+    please_select_a_different_password: Vali eelmisest erinev parool
+    change_password: Muuda parooli
+    account_not_found: Kontot ei leitud. Logi uuesti sisse.
+    user_required_to_use_saml: Parooli ei saa lähtestada, logi sisse SAML-i kaudu
+    sysadmin_ldap_error: See konto autenditakse LDAP-i kaudu ja seda ei saa siin lähtestada
+    login_limit_exceeded: Sisselogimise piirang ületatud
+    a_confirmation_email_will_be_sent: Sellele aadressile saadetakse kinnitusmeil
+    name: Nimi
+    password_confirm: Kinnita parool
+    save: Salvesta
+    can_not_reset_password_please_check_with_your_administrator: Parooli ei saa lähtestada, võta ühendust administraatoriga
+    no_need_to_register_user: Registreerumine pole vajalik. Logi sisse oma olemasoleva kontoga.
+    registration_not_allowed: Registreerumine pole lubatud
+    create_description: Loo konto, sisestades oma nime ja parooli.
+    activated_successfully_please_login: Konto on edukalt aktiveeritud. Nüüd saad sisse logida oma e-posti aadressi ja parooliga.
+    invalid_activation_url: Vigane aktiveerimislink. Kontrolli linki ja proovi uuesti.
+    already_logged_in: Oled juba sisse logitud. Uut kontot ei saa registreerida.
+    bruteforce_message: Oled ületanud ebaõnnestunud katsete arvu. Proovi uuesti %{minutes} minuti pärast.
+    admin_access_blocked: Administraatori juurdepääs sinu IP-aadressilt ei ole lubatud.
+    account_created_successfully: Konto edukalt loodud
+    create_account: Loo konto
+    create_account_description: Konto loomiseks uuenda oma andmeid.
+    account_settings: Konto seaded
+    change_language: Muuda keelt ja ajavööndit
+    filedrop_label: Filedrop (juhuslik)
+    filedrop_email_label: Filedrop
+    verify_account: Konto kinnitamine
+    invalid_sso_signature: Vigane SSO-allkiri või sisselogimine
+    user_not_found: Kasutajat ei leitud
+    could_not_create_account: Kontot ei õnnestunud luua
+    two_factor_authentication_failed: Duo kaheastmeline autentimine ebaõnnestus
+    copy_to_clipboard: Kopeeri lõikelauale
+    copy_url_to_clipboard: Kopeeri URL lõikelauale
+    delete_user_warning: Kas soovid kindlasti selle kasutaja kustutada?
+    unauthorized_to_login: Puudub õigus sisse logida
+    first_time_message_title: Tere tulemast LiquidFilesi
+    first_time_message: <p>Tere tulemast LiquidFilesi – lihtsaim viis suurte failide turvaliseks saatmiseks.</p><p>Põhifunktsioonid töötavad täpselt nagu veebipost.</p><p>Seda sõnumit kuvatakse ainult üks kord. Kui jääd hätta või soovid avastada täpsemaid funktsioone, klõpsa menüüriba paremas ülanurgas nupul „Abi“.</p>
+    first_time_message_button: Selge!
+    registration_failed_unknown_error: Registreerumine ebaõnnestus tundmatu vea tõttu
+    session_timeout: Seanss aegus
+    nothing_filled_in: Täida vorm
+    last_used: Viimati kasutatud
+    strong_auth_required_before_password_reset: Selle konto parooli lähtestamiseks on vajalik tugev kaheastmeline autentimine.
+    unfriendly_registration_message: Kui selle e-posti aadressiga on võimalik süsteemis registreeruda, saad e-kirja. Kui sa seda ei saa, kasuta ülalolevat tugilinki.
+    unfriendly_password_reset_message: Kui selle e-posti aadressiga kontot on võimalik lähtestada, saad e-kirja. Kui sa seda ei saa, kasuta ülalolevat tugilinki.
+    aliases:
+      aliases: Aliased
+      aliases_description: Saad lisada oma kontole saatja- ja saaja-aliaseid. Saatja-alias võimaldab saata sõnumeid selle e-posti aadressi nimel. Saaja-alias võimaldab vaadata sellele e-posti aadressile saadetud sõnumeid. Saaja-aliasele saadetud sõnumid on nähtavad ka sinu turvaliste sõnumite postkastis.
+      aliases_no_change_description: Saatja-alias võimaldab saata sõnumeid selle e-posti aadressi nimel. Saaja-alias võimaldab vaadata sellele e-posti aadressile saadetud sõnumeid. Saaja-aliasele saadetud sõnumid on nähtavad ka sinu turvaliste sõnumite postkastis. Aliaste lisamiseks või muutmiseks võta ühendust administraatoriga.
+      recipient_aliases: Saaja-aliased
+      sender_aliases: Saatja-aliased
+      add_alias: Lisa alias
+      remove: Eemalda
+      default_sender_alias: Vaikimisi saatja-alias
+      default_sender_alias_description: Vaikimisi saatja-alias.
+      are_you_sure: Kas soovid kindlasti selle aliase eemaldada?
+      no_emails: Ühtegi aliast pole lisatud.
+      please_contact_an_administrator: Nende haldamiseks võta ühendust administraatoriga
+      auto_added_aliases: Automaatselt lisatud aliased
+      auto_added_aliases_description: Järgmised aliased lisati sinu profiilile automaatselt. Nende haldamiseks võta ühendust administraatoriga.
+    alias:
+      confirm:
+        show:
+          title: Aitäh kinnitamast
+          alias_email: Aliase e-posti aadress
+          user: Kasutaja
+          recipient_and_sender_confirmation: Ülaltoodud kasutaja saab nüüd vaadata sellele e-posti aadressile saadetud turvalisi sõnumeid ja saata turvalisi sõnumeid selle aadressi nimel. Kui see on viga, klõpsa ülaloleval tugilingil.
+          only_recipient_confirmation: Ülaltoodud kasutaja saab nüüd vaadata sellele e-posti aadressile saadetud turvalisi sõnumeid. Kui see on viga, klõpsa ülaloleval tugilingil.
+          only_sender_confirmation: Ülaltoodud kasutaja saab nüüd saata turvalisi sõnumeid selle e-posti aadressi nimel. Kui see on viga, klõpsa ülaloleval tugilingil.
+    add_alias_modal:
+      title: Lisa alias
+      description: Sisesta e-posti aadress, millele soovid saaja- või saatja-aliasena juurdepääsu. Sellele aadressile saadetakse kinnituseks e-kiri.
+      recipient_alias: Saaja-alias - soovin lugeda sellele e-posti aadressile saadetud sõnumeid.
+      sender_alias: Saatja-alias - soovin saata sõnumeid selle e-posti aadressi nimel.
+      invalid_email: Vigane e-posti aadress
+      add_permission: Vali saaja-alias, saatja-alias või mõlemad.
+      send_request: Saada taotlus
+      request_has_been_sent: Sinu taotlus on saadetud.
+    api:
+      api_key: API-võti
+      api_key_description: API-võtit kasutavad pistikprogrammid, näiteks Outlooki pistikprogramm, ja seda saab kasutada kohandatud integratsioonide jaoks. Seda on vaja ainult siis, kui administraator seda palub.
+      api_key_reset_warning: Kas oled kindel? Kui lähtestad API-võtme, pead vana võtme kõikjal, kus seda kasutasid, välja vahetama.
+      reset_api_key: Lähtesta API-võti
+    contacts:
+      contacts: Kontaktid
+      contacts_description: Saad lisada nii palju kontakte, kui soovid. Igal kontaktil võib olla mitu e-posti aadressi, et saaksid kiiresti ja lihtsalt saata korraga mitmele saajale.
+      add_contact: Lisa kontakt
+      email_field_help: Komaga eraldatud e-posti aadresside loend.
+      contact:
+        edit_label: Muuda silti
+        edit_email: Muuda e-posti aadressi
+        are_you_sure: Kas soovid kindlasti selle kontakti kustutada?
+    filedrops:
+      filedrops: Filedropid
+      filedrops_description: Oled nende Filedropide peamine saaja või koopia saaja. Kõik ükskõik millise neist kaudu saadetud failid toimetatakse sulle.
+      name: Nimi
+      title: Pealkiri
+      recipient: Saaja
+      expires_after: Aegub pärast
+      max_size: Faili maksimaalne suurus
+      url: URL
+      main_recipient: Peamine saaja
+      cc: Koopia
+    personal_filedrop:
+      personal_filedrop: Isiklik Filedrop
+      personal_filedrop_description: Isiklik Filedrop on lihtne viis failide vastuvõtmiseks. Saad lingi saata, veebisaidile postitada või oma e-posti allkirja lisada. Saad teavituse kohe, kui keegi on sinu isikliku Filedropi kaudu midagi saatnud.
+    previous_recipients:
+      previous_recipients: Varasemad saajad
+      previous_recipients_description: Kui saadad turvalise sõnumi, lisatakse iga saaja sellesse varasemate saajate loendisse. Nii saad kiiresti samadele saajatele uuesti saata. Saajad, kellele sa pole 180 päeva jooksul midagi saatnud, eemaldatakse loendist automaatselt.
+      are_you_sure: Kas soovid kindlasti selle varasema saaja kustutada?
+    pw_dictionary:
+      based_on_a_dictionary_word: põhineb sõnastikusõnal
+      based_upon_your_password_entry: põhineb sisestatud paroolil
+      derived_from_your_password_entry: on tuletatud sisestatud paroolist
+      derivable_from_your_password_entry: on tuletatav sisestatud paroolist
+      way_too_short: on LIIGA lühike
+      too_short: on liiga lühike
+      it_does_not_contain_enough_different_characters: ei sisalda piisavalt ERINEVAID märke
+      all_whitespace: koosneb ainult tühikutest
+      too_simplistic_systematic: on liiga lihtne/süstemaatiline
+      it_looks_like_a_national_insurance_number: näeb välja nagu isikukood
+      based_on_a_reversed_dictionary_word: põhineb (tagurpidi) sõnastikusõnal
+    show:
+      basic_settings: Põhiseaded
+      change_password: Muuda parooli
+      strong_auth: Kaheastmeline autentimine
+      aliases: Aliased
+      previous_recipients: Varasemad saajad
+      contacts: Kontaktid
+      personal_filedrop: Isiklik Filedrop
+      api: API
+      filedrops: Filedropid
+    sms_disable:
+      disable_sms_otp: Keela SMS-iga kaheastmeline autentimine
+      disable_sms_otp_description: Kui soovid SMS-iga kaheastmelise autentimise keelata, klõpsa allolevat nuppu. Taotluse kinnitamiseks saadetakse SMS-kood.
+      verify_token_description: "SMS-iga kaheastmelise autentimise keelamiseks sisesta sinu mobiiltelefonile saadetud kood:"
+      code: Kood
+      sms_token_failed: Vigane SMS-kood, SMS-iga kaheastmelist autentimist ei õnnestunud keelata
+      sms_otp_has_been_disabled: SMS-iga kaheastmeline autentimine on keelatud
+    sms_signup:
+      sms_signup_description: Saad oma konto turvalisust parandada, lubades kaheastmelise autentimise. Selle lubamiseks sisesta allpool oma telefoninumber.
+      phone_number: Telefoninumber
+    sms_enable:
+      signup_complete: SMS-iga kaheastmeline autentimine on lubatud
+    terms_of_service:
+      show:
+        title: Kasutustingimused
+        accept_terms_of_service: Nõustu kasutustingimustega
+        do_not_accept: Ei nõustu
+      create:
+        you_need_to_accept: Pead kasutustingimustega nõustuma!
+  activerecord:
+    attributes:
+      attachment:
+        filename: Failinimi
+        size: Suurus
+        secure_id: Manuse ID
+        content_type: Sisutüüp
+        created_at: Loodud
+        updated_at: Uuendatud
+      download:
+        recipient: Saaja
+        downloaded_at: Alla laaditud
+        remote_ip: Kaug-IP
+        remote_host: Kaughost
+        created_at: Loodud
+        updated_at: Uuendatud
+      filedrop:
+        name: Nimi
+        title: Pealkiri
+        description: Kirjeldus
+        blocked_extensions: Blokeeritud laiendid
+        permitted_extensions: Lubatud failitüübid
+        expires_after: Aegub pärast
+        max_filesize: Faili maksimaalne suurus
+        created_at: Loodud
+        updated_at: Uuendatud
+        api_key: API-võti
+        cc: Koopia
+        authorization: Volitus
+      message:
+        recipients: Saajad
+        sender: Saatja
+        cc: Koopia
+        bcc: Pimekoopia
+        message: Sõnum
+        subject: Teema
+        deleted: Kustutatud
+        authorization: Volitus
+        created_at: Loodud
+        updated_at: Uuendatud
+        expires_at: Aegub
+      share/log:
+        created_at: Kuupäev
+      share/file:
+        checksum: Kontrollsumma (SHA256)
+      share/file/version:
+        whodunnit: Muutja
+        created_at: Muudetud
+      user:
+        name: Nimi
+        email: E-posti aadress
+        quota: Kvoot
+        used: Kasutatud
+        max: Maks.
+        password: Parool
+        ldap_authentication: LDAP-autentimine
+        api_key: API-võti
+        level: Tase
+        filedrop: Filedrop
+    models:
+      configuration: Konfiguratsioon
+      attachment: Manus
+      filedrop: Filedrop
+      message: Sõnum
+      user: Kasutaja
+      download: Allalaadimine
+  admin:
+    groups:
+      form:
+        bcc_myself: Saada mulle koopia
+        can_change_bcc_myself: Luba selle rühma kasutajatel muuta endale koopia saatmise seadet
+      index:
+        default_group_assignment: Vaikimisi rühma määramine
+    users:
+      users:
+        email: E-posti aadress
+        name: Nimi
+        group: Rühm
+        max: Faili maksimaalne suurus
+        quota: Kvoot
+        strong_auth: Tugev autentimine
+        filedrop: Filedrop
+        last_login_at: Viimane sisselogimine
+        last_login_ip: Viimase sisselogimise IP
+        created: Loodud
+      form:
+        name_label: Nimi
+        email: E-posti aadress
+        password: Parool
+        password_confirmation: Kinnita parool
+        max_label: Faili maksimaalne suurus
+        group: Rühm
+        strong_auth: Tugev autentimine
+        strong_auth_username: Tugeva autentimise kasutajanimi
+        api_key: API-võti
+        filedrop: Filedrop
+  attachments:
+    not_found: Manust ei leitud
+  config:
+    settings: Seaded
+    email: E-post
+    language_preferences_from_your_browser: Brauseri keele-eelistused
+    authentication: Autentimine
+    time_zone: Ajavöönd
+    current_time_zone: Praegune ajavöönd
+    time_zone_from_browser: Brauseri tuvastatud ajavöönd
+    time_zone_config_description: Kui jätad ajavööndi seadeks „Tuvastatud automaatselt“, kasutatakse brauseri tuvastatud ajavööndit (kõik kellaajad kuvatakse selles ajavööndis). Kui brauser ajavööndit tuvastada ei suuda, kasutatakse süsteemi vaikimisi ajavööndit. Kui brauser ei tuvasta õiget ajavööndit või soovid näha kellaaegu mõnes muus ajavööndis, saad määrata konkreetse ajavööndi.
+    time_zone_default: Süsteemi vaikimisi ajavöönd
+    email_settings: E-posti seaded
+    configuration: Konfiguratsioon
+    local_domains: Kohalik domeen
+    ldap_users: LDAP-iga autenditud kasutajad
+    ldap_users_are_always_local: LDAP-iga autenditud kasutajad on alati kohalikud
+    separated_by_comma: komaga eraldatud
+    default_max_file_size: Faili vaikimisi maksimaalne suurus
+    local_users: Kohalikud kasutajad
+    external_users: Välised kasutajad
+    allow_registration: Luba registreerumine
+    allow_registration_desc: Luba registreerumine sisselogimislehel
+    external_user_account: Välised saajad
+    external_user_account_desc: Välised saajad peavad konto looma
+    allow_users_to_change_expiration: Luba kasutajatel failide aegumist muuta
+    authorization: Õigus
+    authorization_description: Vaikimisi seade selle kohta, kes võib faile alla laadida.
+    file_expiration: Aegumine
+    default_expire_files_after: Failid aeguvad vaikimisi pärast
+    delete_downloaded_files_after: Kustuta allalaaditud failid pärast
+    branding: Bränding
+    company_name: Ettevõtte nimi
+    custom_stylesheet: Kohandatud laaditabel
+    custom_javascript: Kohandatud JavaScript
+    logotype: Logo
+    leave_blank_for_default: jäta vaikeväärtuse jaoks tühjaks
+    email_configuration: E-posti konfiguratsioon
+    email_sender_address: Saatja aadress
+    email_host: E-kirjade baas-URL
+    email_footer: E-kirja jalus
+    email_relay_host: E-posti edastusserver
+    email_relay_username: E-posti edastusserveri kasutajanimi
+    email_relay_password: E-posti edastusserveri parool
+    port: Port
+    unlicensed_install_some_settings: "Litsentsita paigaldus: brändingu seaded on nähtavad ainult süsteemiadministraatoritele"
+    mail_relay_example: "Nt: mailrelay.domeen.ee, mx.domeen.ee:587"
+    ldap: LDAP
+    please_see_the: vt
+    for_more_information: lisateabe saamiseks
+    virus_scan: Viirusekontroll
+    virus_scan_description: Kontrolli faile viiruste suhtes
+    blocked_file_extensions: Blokeeritud faililaiendid
+    default_bcc_myself_label: Saada mulle koopia
+    default_bcc_myself: Saada vaikimisi mulle koopia
+    allow_users_to_change_require_login_label: Nõua autentimist
+    allow_users_to_change_require_login: Luba kasutajatel muuta seadet „Nõua autentimist“
+    permitted_file_extensions_label: Lubatud faililaiendid
+    delete: Kustuta
+    ldap_description: "Luba kasutajate LDAP-autentimine ja määra LDAP-serveriga ühenduse loomise põhiparameetrid. Kui porti pole määratud, kasutatakse LDAP-i vaikeporti 389 (või porti 636, kui SSL on lubatud). NB! Porti 3268 EI kasutata Active Directorys autentimiseks, vaid ainult globaalse aadressiraamatu päringuteks. Kasuta selle asemel porti 389/636."
+    ldap_authentication: LDAP-autentimine
+    basic_settings: Põhiseaded
+    server: Serveri nimi / IP-aadress
+    username: Kasutajanimi
+    password: Parool
+    authentication_description: Seda kasutajat kasutatakse LDAP-serveriga ühenduse loomiseks (anonüümse sidumise jaoks jäta tühjaks). Kasutajal peavad olema LDAP-puus otsinguõigused.
+    search_key: Otsinguvõti
+    search_key_description: Otsinguvõtit ja domeeni kasutatakse kasutajate leidmiseks LDAP-puust. Allolevast tabelist näed, kuidas otsinguvõti ja domeen kasutaja leidmiseks koos toimivad.
+    search_key_description2: Kui LDAP-otsinguvõti sisaldab e-posti aadressi, peab domeen olema tühi. Kui LDAP-otsinguvõti sisaldab ainult kasutajanime, peab domeen sisaldama kasutajate domeeni.
+    search_key_defaults: "Active Directory puhul on hea lähtepunkt: sAMAccountName LDAP-otsinguvõtmena ja ettevote.ee (sinu domeen) domeenina."
+    user_enters: Kasutaja sisestab
+    authorized_ldap_groups: Volitatud LDAP-rühmad
+    available_groups: Saadaolevad rühmad
+    default_settings: Vaikeseaded
+    setting: Seade
+    value: Väärtus
+    description: Kirjeldus
+    default_local_max_description: See on uute kohalike kasutajate faili vaikimisi maksimaalne suurus. Seda saab kasutajate kaupa muuta.
+    user_changeable: Kasutaja saab muuta?
+    non_local: Mittekohalik
+    remote: Kaug
+    new_external_recipient_is_nonlocal: Uued välised saajad on
+    email_message_on_top_label: Sõnum üleval
+    email_message_on_top: Sõnum paigutatakse saajatele saadetavas e-kirjas failide loendi kohale
+    use_either_permitted_or_blocked_extensions: Pead valima kas lubatud või blokeeritud laiendid, mitte mõlemad
+    invalid_password: Vigane parool
+    valid_password: Kehtiv parool
+    test_password_validation: Testi parooli valideerimist
+    custom_password_validation: Kohandatud parooli valideerimine
+    custom_password_validation_description: "Seda regulaaravaldist kasutatakse paroolide kohandatud valideerimiseks. Sisesta ainult regulaaravaldis, ilma eraldajateta (ära alusta ega lõpeta märgiga '/'). Näide: [a-zA-Z0-9]{7,} (paroolid võivad sel juhul sisaldada ainult märke a-z, A-Z ja 0-9, vähemalt 7 märki)"
+    filedrop: Filedrop
+    receive: Võta vastu
+    api_settings: API seaded
+    enable_api_label: Luba API
+    enable_api_description: Luba API, et võimaldada juurdepääsu pistikprogrammide ja skriptide kaudu
+    enable_api_group_config: Täiendavad API seaded on rühmade konfiguratsioonis.
+    api_client_size_override_label: API-klientide suuruse piir
+    api_client_size_override_description: API-kliendid saadavad sellest suuremad failid seadme kaudu
+    sso_secret_key: SSO salajane võti
+    generate_key: Loo uus võti
+    sso_replace_confirm: Kas oled kindel? SSO salajase võtme asendamisel lakkavad olemasolevad SSO-integratsioonid töötamast.
+    virus_scan_skip_locals: Jäta kohalike kasutajate viirusekontroll vahele
+    virus_scan_skip_locals_description: Ära kontrolli kohalike kasutajate faile viiruste suhtes
+    virus_scan_permit_unscanned: Luba kontrollimata failid
+    virus_scan_permit_unscanned_description: Luba alla laadida faile, mida pole veel viiruste suhtes kontrollitud
+    userdrop: Kasutaja Filedrop
+    user_filedrop_with_random_key: Kasutajate Filedropid juhusliku võtmega
+    enable_userdrop: Luba kasutajate Filedropid
+    example: Näide
+    user_filedrop_with_email: Kasutajate Filedropid e-posti aadressidega
+    enable_userdrop_email: Luba kasutajate Filedropid e-posti aadressiga
+    userdop_email_data_leakage: Seda võidakse kasutada kohalike e-posti aadresside väljaselgitamiseks, proovides aadresse Filedropi URL-il ja vaadates, millised annavad kehtiva vastuse.
+    userdrop_files_expire_after: Üleantud failid aeguvad pärast
+    userdrop_max_filesize: Kasutaja Filedropi faili maksimaalne suurus
+    bruteforce_label: Kaitse jõurünnakute eest
+    bruteforce_description_1: Blokeeri IP-aadress
+    bruteforce_description_2: minutiks pärast
+    bruteforce_description_3: ebaõnnestunud sisselogimist/registreerumist
+    bruteforce_description_4: minuti jooksul
+    bruteforce_whitelist_label: Jõurünnakukaitse lubatud loend
+    allowed_admin_networks_label: Haldusvõrgud
+    allowed_admin_networks_description: Piira administraatori juurdepääs nende hostide ja võrkudega. Localhost (127.0.0.1, ::1) on alati lubatud
+    enable_strong_authentication: Luba nende kasutajatüüpide jaoks vaikimisi tugev autentimine
+    authenticated_username: Autenditud kasutajanimi
+    duo_hostname: Duo hostinimi
+    duo_client_id: Duo integratsioonivõti
+    duo_client_secret: Duo salajane võti
+    strong_authentication_test: Testi tugevat autentimist
+    stronger_password: Vali tugevam parool.
+    cannot_begin_or_end_with_blank: Parool ei tohi alata ega lõppeda tühikuga.
+    at_least_one_invalid_domain: Vähemalt üks vigane domeen
+    at_least_one_invalid_email: Vähemalt üks vigane e-posti aadress
+    email_security_level: E-kirjade edastamise turvatase
+    geoip: GeoIP-päring
+    geoip_description: Laadib asukohaandmed aadressilt https://geoip.liquidfiles.com ja kuvab kaarte.
+    tooltip:
+      local_domains: Kohalik kasutaja saab faile saata kõigile. Mittekohalik kasutaja saab faile saata ainult kohalikele kasutajatele. Kui kasutaja esimest korda sisse logib või konto luuakse, võrreldakse e-posti aadressi domeeni nende domeenidega, et otsustada, kas kasutajat loetakse kohalikuks.
+      ldap_users_are_always_local: Iga LDAP-i kaudu autenditud kasutajat loetakse automaatselt kohalikuks, olenemata domeenist.
+      allow_registration: Lubab registreerumise sisselogimislehel. Kohalike domeenide loendi põhjal määratakse, kas uus kasutaja on kohalik või mittekohalik.
+      local_user_maxfile: Kui kohalik kasutaja registreerub või autenditakse esimest korda kaugautentimise kaudu, määratakse talle see faili maksimaalne suurus.
+      nonlocal_user_maxfile: Kui mittekohalik kasutaja registreerub, määratakse talle see faili maksimaalne suurus.
+      delete_downloaded_files_after: Allalaaditud faili säilitatakse nii kaua. Aeg peab olema piisavalt pikk, et saaja saaks valida muu allalaadimiskoha või uuesti alustada, kuid piisavalt lühike, et linki ei levitataks rohkematele inimestele.
+      file_expiration: Lubab kasutajatel failide aegumisaega muuta. Kui see pole lubatud, saavad kõik failid vaikimisi aegumisaja.
+      default_expire_files_after: Failid aeguvad pärast seda aega.
+      blocked_file_extensions: Blokeeri nende laienditega failid (tõstutundetu).
+      virus_scan: Kontrolli kõiki üleslaaditud faile ClamAV viirusetõrjega
+      require_authentication_permission: Kui see on lubatud, saavad kasutajad ise otsustada, kas autentimine on nõutav
+      default_bcc_myself: Kui see on lubatud, saadetakse sõnumid vaikimisi ka kasutajale endale
+      permitted_file_extensions: "Kui väli on tühi, on kõik laiendid lubatud. Kui sisestatud on vähemalt üks laiend, on lubatud ainult sisestatud failitüübid. Näide: png, gif, jpg, txt"
+      new_external_recipient_is_nonlocal: Kui sõnum saadetakse uuele saajale, kas ta tuleks luua mittekohaliku kasutajana (et ta saaks vastata) või välise kasutajana?
+      email_message_on_top: Kui see on valitud, paigutatakse sõnum saajatele saadetavas e-kirjas failide loendi kohale. Kui mitte, paigutatakse failide loend sõnumi kohale.
+      email_sender: Seda e-posti aadressi kasutatakse süsteemi loodud e-kirjade, näiteks parooli lähtestamise, saatjana. Et neid e-kirju ei märgitaks rämpspostiks, peab see olema päris e-posti aadress.
+      email_host: Manused kasutavad seda URL-i baas-URL-ina. Tavaliselt on see http://hostinimi.domeen või https://hostinimi.domeen, kuid see võib olla ka https://hostinimi.domeen:4433, kui kasutad tulemüüris pordi suunamist, kui kasutajad LiquidFilesi seadmega ühenduvad.
+      email_footer: See allkiri lisatakse kõigile väljaminevatele e-kirjadele.
+      email_relay: Kasuta seda meiliserverit väljaminevate e-kirjade edastamiseks.
+      email_relay_username: Konto, millega logitakse sisse e-posti edastusserverisse
+      email_relay_password: Selle konto parool, millega logitakse sisse e-posti edastusserverisse
+  date:
+    formats:
+      default: "%d.%m.%Y"
+      short: "%d.%m"
+      medium: "%d.%m.%Y"
+      long: "%d.%m.%Y"
+  time:
+    am: AM
+    pm: PM
+    formats:
+      default: "%d.%m.%Y %H:%M:%S %z"
+      short: "%d.%m %H:%M"
+      medium: "%d.%m.%Y %H:%M"
+      long: "%d.%m.%Y %H:%M"
+  downloads:
+    download_id: Allalaadimise ID
+    index:
+      download_log_title: Allalaadimised
+      download_log_description: Kes mida ja millal alla laadis
+      paginator_entry_name: allalaadimist
+    show:
+      no_map_for_reserved_address: Reserveeritud aadresside jaoks ei saa kaarti kuvada
+  filedrop:
+    filedrop: Filedrop
+    no_such_filedrop: Sellist Filedropi pole
+    invalid_filedrop_url: Vigane Filedropi URL
+    invalid_filedrop_url_description: Sellel URL-il pole Filedropi. Kontrolli URL-i ja proovi uuesti.
+    label: Filedropid
+    mb: MB
+    name: Nimi
+    name_description: Lühinimi, mida kasutatakse ka URL-is (nt /filedrop/nimi)
+    title: Pealkiri
+    title_description: Pealkiri lehe ülaosas
+    description: Kirjeldus
+    description_description: Kirjeldus pealkirja all
+    user: Vastuvõttev kasutaja
+    user_description: Saajaks saab määrata mis tahes kohaliku kasutaja
+    cc: Koopia
+    cc_description: "(komaga eraldatud) Saada koopia nendele aadressidele"
+    expires_after: Aegub pärast
+    expires_after_description: päeva
+    max_filesize: Faili maksimaalne suurus
+    max_filesize_description: MB
+    reset_filedrop: Lähtesta Filedropi URL
+    filedrop_reset_warning: Kas oled kindel? Kui lähtestad Filedropi URL-i, pead selle kõikjal, kuhu oled selle postitanud, välja vahetama.
+    permitted_extensions: Lubatud laiendid
+    permitted_extensions_description: Lubatakse ainult neid failitüüpe
+    blocked_extensions: Blokeeritud laiendid
+    blocked_extensions_description: Need failitüübid blokeeritakse
+    demo_license_warning_standard: Filedropide tootmiskasutuseks on vaja litsentsi. Filedropi funktsiooni lubamiseks uuenda Pro-litsentsile.
+    max_one_during_demo: Demo ajal või Standard-litsentsiga saad seadistada kõige rohkem ühe Filedropi
+    filedrop_info: Filedrop võimaldab sinu klientidel saata sulle faile ilma autentimise või eelneva seadistamiseta. Igal Filedropil on püsiv URL, millele saab linkida veebilehtedelt või e-posti allkirjadest. Kui keegi Filedropi faili jätab, saadetakse see automaatselt eelnevalt määratud kasutajale.
+    authorization: Õigus
+    authorization_description: kes võib Filedropi jäetud faile alla laadida
+    you_will_be_notified: Saad allalaadimiskinnituse, kui sinu failid on alla laaditud.
+    require_authentication: See Filedrop nõuab autentimist. Jätkamiseks sisesta parool.
+    authenticate: Autendi
+    authentication_failed: Autentimine ebaõnnestus
+    require_validation: See Filedrop nõuab autentimist või sinu e-posti aadressi kinnitamist.
+  filelink:
+    filelink: FileLink
+    filelinks: FileLinkid
+    filelink_title: FileLink
+    filelink_description: FileLink on link ühele failile. Saad selle lingi saata kellele tahes, ilma sõnumit loomata või saajaid määramata. Faili saavad alla laadida ainult need inimesed, kellele oled juhusliku lingi saatnud.
+    expired_or_nonexistent_title: Vigane FileLink
+    expired_or_nonexistent: See FileLink on aegunud või seda pole olemas. Uue lingi saamiseks võta ühendust saatjaga.
+    existing_filelinks: Olemasolevad FileLinkid
+    new_filelink: Uus FileLink
+    available_files: Saadaolevad failid
+    filename: Failinimi
+    filesize: Faili suurus
+    expires_at: Aegub
+    link: Link
+    checksum: Kontrollsumma
+    copy_link_to_clipboard: Kopeeri FileLink lõikelauale
+    expire_link_at: Link aegub
+    you_have_no_filelinks: Sul pole FileLinke. Lisa uus FileLink või loo see saadaolevast failist.
+    you_have_no_files_available: Sul pole varem saadetud faile. Kui oled saatnud vähemalt ühe faili, saad selle siin valida ja sellest FileLinki luua.
+    create_link: Loo link
+    invalid_file: Vigane fail, FileLinki ei saa luua
+    delete: Kustuta
+    delete_link_warning: Kas soovid kindlasti selle FileLinki kustutada?
+    could_not_delete_link: FileLinki ei õnnestunud kustutada. Linki ei leitud!
+    filelink_deleted: FileLink kustutatud!
+    select_file: Vali fail
+    send_download_receipts: Saada allalaadimiskinnitused
+    disabled: FileLinkid on keelatud, võta ühendust administraatoriga
+    unauthorized: Sul pole õigust FileLinke kasutada
+    require_authentication: Nõua autentimist
+    filelink_require_authentication: See FileLink nõuab autentimist
+    filelink_url: FileLinki URL
+    expired: Aegunud
+    filelink_expired: FileLink aegunud
+    select_from_available_files: Saad luua FileLinki ka mõnest neist olemasolevatest failidest.
+    downloads: Allalaadimised
+    authentication_failed: Autentimine ebaõnnestus
+    password_label_html: Parool <small class="text-muted">(valikuline)</small>
+    password_present_html: Sellele FileLinkile on määratud parool.<br>Saad selle eemaldada, salvestades tühja parooli.
+    password_not_present: Parooli pole määratud.
+    copy_to_clipboard: Kopeeri FileLink lõikelauale
+    add_file: Lisa fail
+  ftpdrop:
+    create:
+      ftpdrop: FTPdrop
+  html_editor:
+    font:
+      bold: Paks
+      italic: Kursiiv
+      underline: Allakriipsutus
+      clear: Eemalda vorming
+      height: Reavahe
+      name: Font
+      strikethrough: Läbikriipsutus
+      subscript: Alaindeks
+      superscript: Ülaindeks
+      size: Fondi suurus
+    image:
+      image: Pilt
+      insert: Lisa pilt
+      resize_full: Täissuurus
+      resize_half: Pool suurusest
+      resize_quarter: Veerand suurusest
+      float_left: Joonda vasakule
+      float_right: Joonda paremale
+      float_none: Joondus puudub
+      shape_rounded: "Kuju: ümardatud"
+      shape_circle: "Kuju: ring"
+      shape_thumbnail: "Kuju: pisipilt"
+      shape_none: "Kuju: puudub"
+      url: Pildi URL
+      remove: Eemalda pilt
+    link:
+      link: Link
+      insert: Lisa link
+      unlink: Eemalda link
+      edit: Muuda
+      text_to_display: Kuvatav tekst
+      url: Millisele URL-ile see link peaks viima?
+      open_in_new_window: Ava uues aknas
+    table:
+      table: Tabel
+    hr:
+      insert: Lisa horisontaaljoon
+    style:
+      style: Laad
+      normal: Tavaline
+      blockquote: Tsitaat
+      pre: Kood
+      h1: Pealkiri 1
+      h2: Pealkiri 2
+      h3: Pealkiri 3
+      h4: Pealkiri 4
+      h5: Pealkiri 5
+      h6: Pealkiri 6
+    lists:
+      unordered: Täpploend
+      ordered: Nummerdatud loend
+    options:
+      help: Abi
+      fullscreen: Täisekraan
+      codeview: Koodivaade
+    paragraph:
+      paragraph: Lõik
+      outdent: Vähenda taanet
+      indent: Suurenda taanet
+      left: Joonda vasakule
+      center: Joonda keskele
+      right: Joonda paremale
+      justify: Rööpjoonda
+    color:
+      recent: Viimane värv
+      more: Rohkem värve
+      background: Taustavärv
+      foreground: Teksti värv
+      transparent: Läbipaistev
+      set_transparent: Muuda läbipaistvaks
+      reset: Lähtesta
+      reset_to_default: Lähtesta vaikeväärtusele
+    shortcut:
+      shortcuts: Kiirklahvid
+      close: Sulge
+      text_formatting: Teksti vormindamine
+      action: Toiming
+      paragraph_formatting: Lõigu vormindamine
+      document_style: Dokumendi laad
+      extra_keys: Lisaklahvid
+    history:
+      undo: Võta tagasi
+      redo: Tee uuesti
+  invite:
+    invite_user: Kutsu kasutaja
+    description: Saad kutsuda kasutajaid sinuga faile jagama. Kui oled nende andmed sisestanud, saavad nad e-kirja juhistega registreerumise lõpetamiseks.
+    send_invite: Saada kutse
+    name_placeholder: Täisnimi
+    invitation_sent: Kutse saadetud
+    not_permitted_to_invite_users: Sul pole õigust kasutajaid kutsuda.
+    invalid_email: Vigane e-posti aadress
+  link:
+    show:
+      set_password: Määra parool
+      download: Laadi alla
+      downloads_and_info: Kõik allalaadimised ja lisateave
+    authenticate:
+      show:
+        title: FileLinki parool
+        authenticate: Autendi
+        require_authentication: Selle FileLinki avamiseks pead sisestama nõutava parooli.
+      create:
+        authentication_failed: Autentimine ebaõnnestus.
+    downloads:
+      index:
+        back_to_filelink: Tagasi FileLinki juurde
+    link_downloads:
+      latest_downloads: Viimased allalaadimised (%{count}/%{total})
+  menu:
+    shares: Share'id
+    messages: Sõnumid
+    send_files: Koosta
+    users: Kasutajad
+    active_transfers: Aktiivsed edastused
+    configuration: Konfiguratsioon
+    system: Süsteem
+    message_list: Sõnumite loend
+    settings: Seaded
+    admin: Haldus
+    account: Konto
+    inbox: Postkast
+    sent_messages: Saadetud
+    downloads: Allalaadimiste logi
+    filelink: FileLinkid
+    secure_messages: Turvalised sõnumid
+    support: Tugi
+  message:
+    message_sent: Sõnum saadetud
+    not_found: Sõnumit ei leitud
+    message_not_found_header: Sõnumit ei leitud!
+    message_not_found_description: Palu saatjal see sõnum uuesti saata.
+    previous_recipients: Varasemad saajad
+    contacts: Kontaktid
+    is_not_permitted: ei ole lubatud
+    not_permitted_to_delete_messages: Sul pole õigust sõnumeid kustutada
+    is_not_in_any_of_the_allowed_domains: ei kuulu ühtegi lubatud domeeni
+    is_not_in_any_of_the_allowed_groups: ei kuulu ühtegi lubatud rühma
+    attach_1_file: Pead lisama vähemalt ühe faili
+    too_many_files: Liiga palju manuseid. Ühele sõnumile saad lisada kuni %{count} faili.
+    attached_files: Lisatud failid
+    expired: Sõnum on aegunud
+    authorize:
+      show:
+        title: Turvalise sõnumi avamiseks logi sisse
+        authenticate_description_html: Oled avamas turvalist sõnumit. Kõigepealt pead sisse logima. Jätkamiseks sisesta oma e-posti aadress või logi sisse.<br>Kui sul pole selles süsteemis kontot, sisesta oma e-posti aadress ja me saadame sulle turvalise lingi aadressi kinnitamiseks.
+        unauthenticated_html: <h4>Vigane kasutajanimi või parool</h4><p>Sisesta oma kasutajanimi ja parool. Saad parooli lähtestada alloleva nupuga Parooli lähtestamine.</p>
+        unauthorized_to_view_check_email_html: <h4>Volitamata e-posti aadress</h4><p>Kontrolli, et turvaline sõnum [<span class="font-monospace fw-bold">%{message_id}</span>] on saadetud sulle, ja sisesta e-posti aadress täpselt nii, nagu sõnum saadeti.</p><p>Kui sinu e-posti aadress võib olla näiteks nii mari.tamm@ettevote.ee kui ka mtamm@ettevote.ee, ei saa süsteem teada, et see on sama aadress. Kui turvaline sõnum saadeti aadressile mari.tamm@ettevote.ee, pead siia sisestama just selle aadressi.</p><p>Kui sa pole kindel, võta ühendust turvalise sõnumi saatjaga.</p>
+    errors:
+      not_authorized_to_view_message: "Sul pole õigust vaadata sõnumit ID-ga: %{message_id}. Kontrolli, et see sõnum on saadetud sulle."
+      private_message_requires_authentication: Privaatsõnumid nõuavad autentimist
+    attachments:
+      download_attachment_details_csv: Laadi alla manuste üksikasjad (CSV)
+      attachment:
+        fileinfo: Faili teave
+        file_size: Faili suurus
+        content_type: Sisutüüp
+        checksum: Kontrollsumma
+        virus_status: Viiruse olek
+    compose:
+      options_permission:
+        authentication_required: Autentimine on nõutav
+        authentication_not_required: Autentimine pole nõutav
+        require_authentication_description: Kas saajad peavad selle sõnumi avamiseks autentima?
+        access_restriction_html: Juurdepääsupiirang<br><small class="text-muted">Kes saab selle sõnumi avada?</small>
+        recipients_only_html: Ainult<br>saajad
+        recipients_plus_locals_html: Saajad<br>+ kohalikud kasutajad
+        recipients_plus_domains_html: Saajad<br>+ domeenid
+        anyone_secret_link_html: Kõik<br>(salajane link)
+    unavailable:
+      header: Sõnum pole saadaval
+      description: See sõnum on aegunud, kustutatud, seda pole olemas või see pole enam saadaval. Palu saatjal sõnum uuesti saata.
+    downloads:
+      index:
+        download_log_title: Allalaadimiste logi
+        message_id: Sõnumi ID
+        paginator_entry_name: Allalaadimised
+      download:
+        details: Üksikasjad
+      not_found:
+        title: Sõnumit või allalaadimist ei leitud
+        description_html: Sõnumit või allalaadimist ei leitud või sul pole õigust seda vaadata
+    temporary_user:
+      create:
+        invalid_temporary_user: Vigane parool. Kontrolli ajutise parooliga e-kirja või taotle uut ajutist parooli.
+        temporary_user_expired: See ajutine parool on aegunud. Sinu e-posti aadressile saadeti uus ajutine parool. Kontrolli postkasti ja kasuta uut ajutist parooli.
+        not_authorized_to_view_message: "Sul pole õigust vaadata sõnumit ID-ga: %{message_id}. Kontrolli, et see sõnum on saadetud sulle."
+      show:
+        title: Sisesta oma ajutine parool
+        description_html: "Oled avamas turvalist sõnumit. Sõnumi avamiseks pead sisestama oma ajutise parooli.<br>Ajutine parool on unikaalne juhuslik märgijada, mis sind tuvastab. Ajutine parool saadeti sulle eraldi e-kirjaga (teema: Ajutine parool)."
+        what_is_this: Mis see on?
+        login: Logi sisse
+        submit: Kontrolli ajutist parooli
+        submit_email: Saada
+        if_you_have_account: "(kui sul on juba konto)"
+        request_temporary_user_header: Taotle uut ajutist parooli
+        request_temporary_user_description_html: Saad selle sõnumi avamiseks taotleda uut ajutist parooli. Selle turvalise sõnumi jaoks uue ajutise parooli taotlemiseks sisesta allpool oma e-posti aadress.
+        info_header: Teave ajutise parooli kohta
+        info_body_html: "<p>Ajutine parool on unikaalne numbrite ja tähtede jada, näiteks:</p><pre><code>3ynp-7FKa-pZS9</code></pre><p><em>See ajutine parool on ainult näide, et näeksid, kuidas see välja näeb – seda ei saa kasutada.</em></p><p>Oma postkastist leiad <strong>kaks e-kirja</strong>: turvalise sõnumiga e-kirja ja e-kirja, mille <strong>teema algab sõnadega: Ajutine parool</strong>. Viimane sisaldab sinu unikaalset ajutist parooli selle süsteemi jaoks.</p><p>Kui sa pole ajutise parooliga e-kirja saanud, võib sul juba olla selles süsteemis konto. Sel juhul klõpsa „Logi sisse“.</p><p>Kui arvad, et oleksid pidanud ajutise parooli saama, kuid pole seda saanud, klõpsa uue saamiseks „Taotle ajutist parooli“.</p>"
+        email_address: E-posti aadress
+        email_not_permitted: Sellel e-posti aadressil pole õigust seda turvalist sõnumit vaadata.
+        email_not_permitted_description_html: <p>Kontrolli saadud turvalise sõnumi e-kirja ja sisesta e-posti aadress täpselt nii, nagu sõnum saadeti.</p><p>Kui sinu e-posti aadress võib olla näiteks nii mari.tamm@ettevote.ee kui ka mtamm@ettevote.ee, ei saa süsteem teada, et see on sama aadress. Kui turvaline sõnum saadeti aadressile mari.tamm@ettevote.ee, pead siia sisestama just selle aadressi.</p><p>Kui sa pole kindel, võta ühendust turvalise sõnumi saatjaga.</p>
+        email_can_login: Sul on selles süsteemis juba konto
+        email_can_login_description_html: <p>Saad sellesse süsteemi sisse logida selle e-posti aadressi ja oma parooliga.</p><p>Olemasoleva kontoga sisselogimiseks klõpsa allpool nuppu Logi sisse.</p>
+        temporary_user_delivered_header: Ajutine parool saadetud
+        temporary_user_delivered_description_html: <p>Sinu e-posti aadressile saadeti ajutine parool. Kontrolli postkasti, sulge see aken ja sisesta ajutine parool.</p>
+    reply:
+      re: "Vs:"
+      wrote: kirjutas
+      show:
+        title: Vasta turvalisele sõnumile
+        from: Saatja
+        reply: Vasta
+        reply_all: Vasta kõigile
+      options:
+        options_description: Pane tähele, et kõik valikud päritakse algsest sõnumist.
+    show:
+      back: Tagasi
+      message_header: Sõnumi päis
+      reply: Vasta
+  messages:
+    sent:
+      skipped_file_not_found: Vahele jäetud - faili ei leitud
+      show:
+        sent_title: Saadetud
+        sent_description: Sinu saadetud sõnumid
+        paginator_entry_name: sõnumit
+    attachments:
+      download_cmd:
+        unauthorized:
+          header: Volitamata
+          body: Sul pole õigust seda faili alla laadida. Palu saatjal fail sulle uuesti saata.
+          back: Tagasi
+        exceeded:
+          header: Allalaadimispiirang ületatud
+          body: Selle faili allalaadimispiirang on ületatud. Palu saatjal fail sulle uuesti saata.
+          back: Tagasi
+    download_zip:
+      unauthorized:
+        header: Volitamata
+        body: Sul pole õigust seda arhiivi alla laadida. Palu saatjal fail sulle uuesti saata.
+        back: Tagasi
+      exceeded:
+        header: Allalaadimispiirang ületatud
+        body: Selle arhiivi ühe või mitme faili allalaadimispiirang on ületatud. Palu saatjal fail sulle uuesti saata.
+        back: Tagasi
+    message:
+      reply: Vasta
+      reply_all: Vasta kõigile
+  models:
+    user:
+      no_need_to_create_local_user: Kohalikku kasutajat pole vaja luua
+      license_exceeded: Litsentsi piirang ületatud
+  notifier:
+    activate_user_subject: "[%{hostname}] Aktiveeri konto"
+    user_activation: Kasutaja aktiveerimine
+    please_visit_the_following_url_to_activate: Konto aktiveerimiseks klõpsa järgmisel lingil
+    the_following_files_are_attached: Sellele sõnumile on lisatud järgmised failid
+    please_visit_the_following_url: Manuste allalaadimiseks klõpsa sellel lingil
+    attachments_are_available: Manused on saadaval kuni
+    message_id: "Sõnumi ID: %{id}"
+    email_password_reset_subject: Parooli lähtestamine
+    download_receipt_subject: "Allalaadimiskinnitus [ID: %{message_id}]"
+    a_file_that_you_sent: Sinu saadetud fail on alla laaditud. Hoia see e-kiri allalaadimise tõendina alles.
+    recipient: Saaja
+    filename: Failinimi
+    time_of_download: Allalaadimise aeg
+    downloaded_from: Alla laaditud asukohast
+    download_receipt: Allalaadimiskinnitus
+    user_created:
+      account_created: Konto loodud
+      subject: "[%{hostname}] Konto loodud"
+      message: "Sind ootab turvaline manus. Selle allalaadimiseks pead autentima. Registreerumiseks klõpsa järgmisel lingil:"
+  outlook:
+    messages:
+      new:
+        attachments_header: Manused
+        attachments_hint: Faile saad lisada, lohistades need allolevasse jaotisse või klõpsates nuppu Lisa failid.
+        add_to_message: Lisa sõnumile
+      attachments:
+        attach_files: Lisa failid
+        drop_files_here: Lohista failid siia...
+      options:
+        recipients_can_reply: Saajad saavad vastata
+        send_copy_to_myself: Saada mulle koopia
+        private_message: Privaatsõnum
+        private_message_required_auth_error: Privaatsõnumi saatmisel pead kasutama režiimi „Autentimine on nõutav“.
+      options_authorization:
+        authentication_authorization_title_html: Autentimine &amp; volitamine
+        authentication_select_title: Vali autentimine
+        authentication_required: Autentimine on nõutav
+        authentication_not_required: Autentimine pole nõutav
+        authorization_select_title: Vali volitus
+        recipients_only: Ainult saajad
+        recipients_locals: Saajad + kohalikud kasutajad
+        recipients_domains: Saajad + domeenid
+        anyone: Kõik (salajane link)
+      options_expiration:
+        message_expires: Sõnum aegub
+        message_expires_after: Sõnum aegub pärast
+  pagination:
+    first: "&laquo; Esimene"
+    last: Viimane &raquo;
+    previous: "&lsaquo; Eelmine"
+    next: Järgmine &rsaquo;
+    truncate: "&hellip;"
+  requests:
+    title: Failitaotlus
+    file_request: Failitaotlus
+    files_sent: Failid saadetud, aitäh!
+    request_file: Taotle faili
+    file_requests: Failitaotlused
+    description: Failitaotlusega saad paluda kellelgi sulle faile saata. Kui oled andmed sisestanud, saab isik e-kirja unikaalse lingiga, mille kaudu saab ta soovitud failid sulle saata.
+    file_request_not_found: Failitaotlust ei leitud
+    file_request_expired: Failitaotlus on aegunud
+    file_request_already_used: Failitaotlust on juba kasutatud
+    file_request_sent: Failitaotlus saadetud
+    not_permited: Sul pole õigust failitaotluse funktsiooni kasutada
+    multiuse: Mitmekordne kasutus - seda failitaotluse linki saab kasutada mitu korda
+    invalid_recipient: Vigane saaja, see failitaotlus saadeti kellelegi teisele
+    invalid_user: See pole sinu failitaotlus
+    index:
+      title: Failitaotlused
+      new_file_request: Uus failitaotlus
+      multiuse: Mitmekordne kasutus
+      responded_to: Vastatud
+      hide_expired: Peida aegunud ja kasutatud
+      show_expired: Näita aegunud ja kasutatud
+    request:
+      resend: Saada uuesti
+      are_you_sure_you_want_to_delete: Kas soovid kindlasti selle failitaotluse kustutada?
+    popup:
+      from: Saatja
+      to: Saaja
+      subject: Teema
+      message: Sõnum
+    resend:
+      request_resent: Failitaotlus saadeti uuesti
+    new:
+      request_expires: Taotlus aegub
+  send:
+    send: Saada
+    sent: Saadetud
+    recipients: Saaja
+    send_as: Saada kui
+    you_can_only_send_files_to_yourself: Saad faile saata ainult endale
+    subject: Teema
+    subject_placeholder: Teema
+    attachments: Manused
+    max_file_size: "Manuste maksimaalne suurus: %{filesize} MB"
+    upload_queue: Üleslaadimise järjekord
+    remove: Eemalda
+    cancel_all: Tühista kõik
+    cancel_all_uploads: Tühista kõik üleslaadimised
+    message: Sõnum
+    message_placeholder: Sõnum
+    done_editing_please_send: Olen muutmise lõpetanud, saada failid, kui kõik üleslaadimised on lõpetatud
+    files_sent_successfully: Failid edukalt saadetud
+    you_need_at_least_one_recipient: Vaja on vähemalt ühte saajat
+    you_need_at_least_one_attachment: Vaja on vähemalt ühte manust
+    options: Valikud
+    cc: Koopia
+    bcc: Pimekoopia
+    bcc_message_description: Pimekoopia saajaid teistele saajatele ei näidata
+    add_cc: lisa koopia
+    add_bcc: lisa pimekoopia
+    bcc_myself: Saada mulle koopia
+    require_login: Nõua failide allalaadimiseks sisselogimist
+    only_specified_recipients_can_download: Manuseid saavad alla laadida ainult määratud saajad
+    anyone_can_download: Manuseid saavad alla laadida kõik
+    expires_in: Manuseid saab alla laadida
+    expires_at: Manused aeguvad
+    send_options: Saatmise valikud
+    to: Saaja
+    from: Saatja
+    filename: Failinimi
+    filesize: Faili suurus
+    downloaded_at: Alla laaditud
+    message_sent: Sõnum saadetud
+    message_expires: Sõnum aegub
+    message_expires_after: Sõnum aegub pärast
+    message_expires_after_description: Arvestus toimub faili kaupa. Kui saadad 2 faili, mis aeguvad pärast 1 allalaadimist, saab iga saaja iga faili ühe korra alla laadida.
+    downloads_per_recipient: Allalaadimisi saaja kohta
+    total_downloads: Allalaadimisi kokku
+    file_not_downloaded: Ühtegi manust pole alla laaditud
+    at_least_one_invalid_extension: Vähemalt ühel manusel on vigane laiend
+    invalid_filetype: Vigane laiend
+    blocked_extension: "Vigane laiend. Sa ei saa üles laadida järgmiste laienditega faile: %{extensions}"
+    permitted_extensions: "Lubatud laiendid: %{filetypes}"
+    already_selected: See fail on juba valitud
+    maximum_filesize_exceeded: Faili maksimaalne suurus ületatud
+    contains_virus: "%{filename} sisaldab VIIRUST: %{virus}"
+    limited_by_browser: Piiratud brauseriga
+    limited_by_disk: Piiratud kettaruumiga
+    limited_by_system_quota: Piiratud süsteemi kvoodiga
+    limited_by_group_quota: Piiratud rühma kvoodiga
+    limited_by_quota: Piiratud kvoodiga
+    limited_per_message: Piirang sõnumi kohta
+    system_quota_exceeded: Süsteemi kvoot ületatud
+    group_quota_exceeded: Rühma kvoot ületatud
+    quota_exceeded: Kvoot ületatud
+    no_available_quota: Kvoot ületatud, jätkamiseks kustuta mõned failid
+    not_authorized_to_send: Sul pole õigust saata aadressile %{email}
+    public_url: Avalik URL
+    message_url: Sõnumi URL
+    authorization: Volitus
+    insufficient_disk_space: Kettaruumi pole piisavalt
+    active_transfers: Aktiivsed edastused
+    view_log: Kuva logi
+    previously_sent_attachments: Varem saadetud manused
+    has_not_downloaded: "%{recipient} pole ühtegi faili alla laadinud"
+    authentication: Autentimine
+    required: Nõutav
+    disabled: Keelatud
+    require_authentication_tooltip_html: <li>Saaja peab faili allalaadimiseks sisse logima kasutajanime ja parooliga.</li> <li>Saad kinnituse, kui fail alla laaditakse.</li>
+    dont_require_authentication_tooltip_html: <li>Saajalt ei nõuta faili allalaadimiseks sisselogimist.</li> <li>Saad kinnituse, kui fail on alla laaditud, kuid mitte selle kohta, kes selle alla laadis (seda me ei tea).</li> <li>Saad kinnituse ainult siis, kui esimene saaja faili alla laadib.</li>
+    authenticate_link_description: Enne selle FileLinki avamist pead sisse logima.
+    unauthorized: Sul pole õigust seda sõnumit vaadata.
+    unauthenticated: Vale parool
+    incorrect_login_or_demo: Vale parool või litsentsi piirang täis
+    email_authorization_message: Aitäh. Et kinnitada, et see on sinu e-posti aadress, saadeti e-kiri kinnituskoodiga. Sisesta kinnituskood allpool või klõpsa sõnumi juurde liikumiseks e-kirjas oleval lingil.
+    email_authorization_link: Aitäh. Et kinnitada, et see on sinu e-posti aadress, saadeti e-kiri kinnituskoodiga. Sisesta e-kirjas olev kinnituskood allpool või klõpsa FileLinki juurde liikumiseks e-kirjas oleval lingil.
+    email_authorization_message_create_account: Aitäh. Kuna sul pole selles süsteemis kontot, saadeti e-kiri kinnituskoodiga, et kinnitada, et see on sinu e-posti aadress. Sisesta kinnituskood allpool või klõpsa aadressi kinnitamiseks e-kirjas oleval lingil. Seejärel palutakse sul luua konto ja sind suunatakse sõnumi juurde.
+    email_authorization_link_create_account: Aitäh. Kuna sul pole selles süsteemis kontot, saadeti e-kiri kinnituskoodiga, et kinnitada, et see on sinu e-posti aadress. Sisesta e-kirjas olev kinnituskood allpool või klõpsa aadressi kinnitamiseks e-kirjas oleval lingil. Seejärel palutakse sul luua konto ja sind suunatakse FileLinki juurde.
+    authorize: Volita
+    authenticate: Logi sisse
+    sending: Saatmine...
+    abort_transfer: Katkesta edastus
+    files_to_big: Fail(id) liiga suur(ed)
+    only_specified_recipients: Juurdepääs on ainult määratud saajatel
+    only_specified_recipients_and_local_users: Juurdepääs on ainult määratud saajatel ja kohalikel kasutajatel
+    only_specified_recipients_and_domains: Juurdepääs on ainult määratud saajatel ja nende domeeni kasutajatel
+    anyone_after_authentication: Juurdepääs on kõigil (kellel on juhuslik link)
+    no_recipient_validation: Saajate kontroll puudub
+    anyone_can_access: Juurdepääs on kõigil
+    anyone: Kõik
+    no_authentication: Autentimine puudub
+    can_download: saavad alla laadida
+    not_yet_scanned: kontrollitakse viiruste suhtes, proovi mõne aja pärast uuesti. %{queue} järjekorras
+    was_infected: "oli nakatunud viirusega %{virus} ja on kustutatud"
+    deleted_or_expired: Kustutatud või aegunud
+    im_done_editing: Saada automaatselt, kui praegused üleslaadimised on lõpetatud
+    download_all: Laadi kõik alla
+    zipped_archive: ZIP-arhiiv
+    message_id: Sõnumi ID
+    overall_progress: Üldine edenemine
+    abort: Katkesta
+    limitations: Piirangud
+    max_size: Maksimaalne suurus
+    add_files: Lisa faile...
+    add_folder: Lisa kaust...
+    no_attachment_added: Manust pole lisatud
+    you_need_to_add_at_least_one_file: Pead lisama vähemalt ühe faili.
+    private_message_or_attached_files: Pead lubama Privaatsõnumi või lisama vähemalt ühe faili.
+    no_runtime_found: Käituskeskkonda ei leitud, faile ei saa saata
+    runtime_check_title: Käituskeskkonda ei leitud
+    selected: valitud
+    file_size_error: Faili suuruse viga
+    remaining: jäänud
+    attached_files: Lisatud failid
+    show_message: Näita sõnumit
+    can_be_max: võib olla kõige rohkem %{days} päeva tulevikus
+    not_ready: Pole veel allalaadimiseks valmis
+    download_info: Allalaadimise teave
+    browser: Brauser
+    platform: Platvorm
+    operating_system: Operatsioonisüsteem
+    location: Asukoht
+    download_details: Allalaadimise üksikasjad
+    download_information_not_found: Allalaadimise teavet ei leitud.
+    add: Lisa
+    select_existing_files: Vali olemasolevad failid
+    add_existing_files: Lisa olemasolevad failid
+    add_existing_description: Need failid on juba saadetud ja saad need uuesti saata.
+    zip_disabled: ZIP keelatud
+    zip_disabled_description_exceeded: Vähemalt ühe manuse allalaadimiste maksimaalne arv on ületatud.
+    spinner_info_html: <strong>Sinu sõnum on saatmiseks valmis</strong>. Mõnda faili töödeldakse veel taustal, kuid sa ei pea ootama. <strong>Kui oled valmis, klõpsa Saada!</strong>
+    sent_to_you: Sulle saadetud
+    excluding_admins: Administraatoriteta
+    downloads: Allalaadimised
+    download_log: Allalaadimiste logi
+    delete_attachments: Kustuta manused
+    delete_message: Kustuta sõnum
+    delete_attachments_warning: Kas soovid kindlasti manused kustutada?
+    delete_message_warning: Sõnumi kustutamisel kustutatakse ka lisatud failid ja allalaadimiste logi. Kas soovid kindlasti sõnumi kustutada?
+    invalid_message: Vigane sõnum
+    message_deleted: Sõnum kustutatud
+    attachments_deleted: Manused kustutatud
+    checksum: Kontrollsumma (SHA256)
+    not_permitted_to_send_messages: Sul pole õigust sõnumeid saata.
+    invalid_group_belonging: Saatmine pole lubatud (vigane rühm). Oled registreeritud välise kasutajana, kuid sinu e-posti aadress kuulub domeeni %{domain}, mis on ka piiratud saajadomeenide loendis. See pole välistele kasutajatele lubatud. Jätkamiseks palu süsteemiadministraatoril sind teise rühma teisaldada.
+    expires_after_exceeded: Allalaadimiste arv ületatud
+    expires_after_exceeded_for_zip: Allalaadimiste arv ületatud vähemalt ühe ZIP-arhiivi faili puhul
+    permission_description_title: Juurdepääsupiirangud
+    permission_description_only_specified_html: <ul> <li>Sõnumit avada ja faile alla laadida saavad ainult määratud saajad.</li> <li>E-kirja või URL-i edasisaatmine kellelegi pole lubatud.</li> <li>Sõnumi avamiseks ja failide allalaadimiseks peavad saajad sisse logima.</li> <li>Iga kord, kui kasutaja faili alla laadib, saadetakse üksikasjaliku teabega allalaadimiskinnitus.</li> </ul>
+    permission_description_only_specified_and_local_html: <ul> <li>Faile saavad alla laadida ainult määratud saajad ja kohalikud kasutajad.</li> <li>E-kirja või URL-i võib edasi saata ainult kohalikele kasutajatele.</li> <li>Failide allalaadimiseks peavad saajad sisse logima.</li> <li>Iga kord, kui kasutaja faili alla laadib, saadetakse üksikasjaliku teabega allalaadimiskinnitus.</li> </ul>
+    permission_description_only_specified_and_domains_html: <ul> <li>Juurdepääs on ainult määratud saajatel ja sama e-posti domeeni kasutajatel.</li> <li>Kui saadad aadressile juhataja@partner.ee, saab sõnumit avada ka sekretar@partner.ee, kuid mitte uudishimulik@konkurent.ee.</li> <li>Failide allalaadimiseks peavad saajad sisse logima.</li> <li>Iga kord, kui kasutaja faili alla laadib, saadetakse üksikasjaliku teabega allalaadimiskinnitus.</li> </ul>
+    permission_description_anyone_after_authentication_html: <ul> <li>Faile saab alla laadida igaüks, kellel on salajane juhuslik URL.</li> <li>E-kirja või URL-i võib edasi saata kellele tahes.</li> <li>Failide allalaadimiseks peavad saajad sisse logima.</li> <li>Iga kord, kui kasutaja faili alla laadib, saadetakse üksikasjaliku teabega allalaadimiskinnitus.</li> </ul>
+    permission_description_anyone_html: <ul> <li>Faile saab alla laadida igaüks, kellel on salajane juhuslik URL.</li> <li>E-kirja või URL-i võib edasi saata kellele tahes.</li> <li>Failide allalaadimiseks <strong>ei</strong> ole sisselogimine nõutav.</li> <li>Kui keegi faile esimest korda alla laadib, saadetakse <strong>lihtne</strong> allalaadimiskinnitus (et teada saada, kes mida alla laadis, on vaja autentimist).</li> </ul>
+    your_message_has_been_sent: Sinu sõnum on saadetud
+    you_can_send_to_anyone: "(Saad selle lingi saata kellele tahes)"
+    send_more_files: Saada rohkem faile
+    download_speed: Allalaadimiskiirus
+    download_time: Allalaadimisaeg
+    at_least_one_invalid_email: Vähemalt üks vigane e-posti aadress
+    reply: Saaja saab vastata
+    private_message: Privaatsõnum
+    private_message_description_html: Privaatsõnumi korral ei saadeta sõnumi teksti saajale e-kirjas – see on nähtav alles siis, kui saaja klõpsab e-kirjas oleval lingil ja autendib. <ul> <li>Saad saata privaatsõnumi ilma manusteta.</li> <li>Saad juurdepääsukinnituse, kui keegi on sinu sõnumit vaadanud.</li> <li>Sa ei saa saata privaatsõnumit allalaadimisõigusega „Kõik saavad alla laadida“.</li> </ul>
+    private_message_delivered_description: Sõnum saadeti privaatsõnumina. Sõnumi tekst ei sisaldu e-kirjas ja saad juurdepääsukinnituse, kui iga saaja on sõnumit vaadanud.
+    access_info: Juurdepääsu teave
+    access_details: Juurdepääsu üksikasjad
+    validation_code: Kinnituskood
+    expired_token_inline: E-posti autentimine aegus, proovi uuesti.
+    invalid_token: Vigane või aegunud kood. E-posti aadressi uuesti kinnitamiseks klõpsa algses e-kirjas oleval lingil.
+    download_zip: Laadi ZIP alla
+    zip_ready_for_download: ZIP on allalaadimiseks valmis
+    processing_zip: ZIP-arhiivi töötlemine
+    drop_file_here: Lohista fail siia
+    drop_files_here: Lohista failid siia
+    drop_files_and_folders_here: Lohista failid ja kaustad siia
+    select_pool_files: Vali kogumi failid
+    add_pool_files: Lisa kogumi failid
+    invalid_validation_token: See pole kehtiv kinnituskood.
+    not_the_validation_token: See on sõnumi ID, mitte kinnituskood. Sisesta kinnituskood.
+    no_messages_in_inbox: Postkastis pole sõnumeid.
+    filename_already_selected: Sellele sõnumile on juba lisatud sama nimega fail
+    filesize_exceeded: Sõnumi maksimaalne suurus ületatud
+    infected_with: Nakatunud viirusega
+    not_permitted_to_download_content_blocked: "Selle faili allalaadimine pole lubatud. Viirusekontroll tuvastas: %{virus}"
+    invalid_email_address: Vigane e-posti aadress
+    cant_create_folder: Kausta ei saa luua
+    cant_check_folder: Kausta ei saa kontrollida
+    cant_restore_folder: Kausta ei saa taastada
+    cant_check_chunks: Osi ei saa kontrollida
+    zip_not_include_all_files: Kõiki faile ei saa alla laadida – ZIP-arhiiv sisaldab ainult allalaaditavaid faile.
+    paste_tip: Nõuanne! Vormingu eemaldamiseks kleebi klahvidega Ctrl+Shift+V.
+  session:
+    api:
+      authentication_error: Autentimise viga, proovi uuesti.
+      not_local_user: Vigane e-posti aadress. Seda funktsiooni saavad kasutada ainult kohalikud kasutajad.
+      show:
+        login: Logi sisse
+        login_label: E-posti aadress
+        password: Parool
+        sso_login: SSO-sisselogimine
+        authentication_title: Logi sisse
+        authentication_description: Jätkamiseks sisesta oma e-posti aadress või logi sisse.
+      authenticated:
+        authentication_successful: Autentimine õnnestus
+    authenticate:
+      login: Jätkamiseks logi sisse
+      description_html: Selle lehe avamiseks pead sisse logima. Jätkamiseks sisesta oma e-posti aadress või logi sisse.<br>Kui sul pole selles süsteemis kontot, sisesta oma e-posti aadress ja me saadame sulle e-postiga ajutise parooli.
+      unauthorized: Sul pole õigust seda sõnumit vaadata. Sisesta oma e-posti aadress täpselt nii, nagu sõnum sulle saadeti, või võta ühendust sõnumi saatjaga.
+    email:
+      validate_email: Kinnita oma e-posti aadress
+      validate_email_description_html: "Sinu e-posti aadressile saadeti turvakood: <strong>%{email}</strong>. Klõpsa lingil või sisesta turvakood siia, et oma e-posti aadress kinnitada ja jätkata."
+      session_expired: Seanss aegus, jätkamiseks sisesta oma e-posti aadress uuesti
+      token_expired: E-kirjas olev autentimislink on aegunud, proovi uuesti.
+      already_authenticated: Oled selles brauseris juba sisse logitud.
+      resend_validation_email: Saada kinnitusmeil uuesti
+      verify: Kinnita
+      validate_email_sent: "Uus kinnitusmeil saadeti kell %{time}. Klõpsa e-kirjas oleval lingil või sisesta allpool turvakood, et oma e-posti aadress kinnitada."
+      invalid_temporary_user: Vigane turvakood. Kontrolli oma e-posti – sinu postkasti saadeti uus turvakood.
+      create_account: Loo konto
+      create_account_description: Loo selles süsteemis konto, et saaksid turvakoodi asemel sisse logida oma e-posti aadressi ja parooliga.
+      invalid_email: Vigane e-posti aadress
+    login_limit_exceeded:
+      delivered:
+        page_header: Sisselogimise piirang ületatud
+        description: Oled proovinud liiga palju kordi sisse logida. Jätkamiseks pead oma parooli lähtestama.
+        email: Saadeti e-kiri lingiga sinu parooli lähtestamiseks.
+      waiting:
+        page_header: Sisselogimise piirang ületatud
+        description: Oled proovinud liiga palju kordi sisse logida. Pane tähele, et pead sisse logima oma võrguparooliga. Kui pead selle parooli lähtestama ega tea, kuidas, võta ühendust võrguadministraatoriga. Pärast ooteaja möödumist saad piirangu lähtestamiseks selle lehe uuesti laadida.
+        expiration_time: Ooteaeg
+        reload: Laadi uuesti
+      show:
+        page_header: Sisselogimise piirang ületatud
+        description: Oled proovinud liiga palju kordi sisse logida. Saad sisselogimise piirangu lähtestada ja uuesti sisse logida. Sulle saadeti e-kiri piirangu lähtestamiseks.
+      reset:
+        login_limit_reset: Sisselogimise piirang lähtestatud
+    shared:
+      authentication_successful: Autentimine õnnestus
+    outlook:
+      edit:
+        authentication_title: Autendi
+        authentication_description: Jätkamiseks logi sisse
+        login: Logi sisse
+        login_label: E-posti aadress
+        password: Parool
+        sso_login: SSO-sisselogimine
+      show:
+        authentication_title: Autendi
+        authentication_description: Turvaliste failide lisamiseks logi sisse.
+        authenticate: Autendi
+    saml:
+      not_configured:
+        title: SAML pole seadistatud
+        description: SAML pole selles süsteemis seadistatud. Kui arvad, et see on viga, võta ühendust toega, et nad saaksid asja uurida.
+        support_button: Võta ühendust toega
+      api:
+        local:
+          title: SAML-autentimine
+          description: SAML-autentimine avanes sinu vaikebrauseris – jätka sisselogimist seal. Kui sa ei leia akent või see ei tööta mingil põhjusel, saad jätkata, klõpsates allolevat nuppu.
+          button_label: SSO-sisselogimine
+      response:
+        api_error:
+          authentication_error: Autentimine ebaõnnestus
+          saml_authentication_error: SSO-autentimine ebaõnnestus
+          saml_authentication_error_description: SSO-autentimine ebaõnnestus. Kui probleem püsib, võta ühendust administraatoriga.
+        api_disabled:
+          api_disabled: Volitamata kasutajarühm
+          api_disabled_description: Sinu kontol pole sellele funktsioonile juurdepääsu (API keelatud). Võta ühendust administraatoriga ja palu tal sinu konto teise rühma teisaldada.
+        api_response:
+          authentication_successful: Autentimine õnnestus
+        create:
+          could_not_create_account: Kontot ei õnnestunud luua. Lisateabe saamiseks võta ühendust administraatoriga.
+        show:
+          could_not_create_account: Kontot ei õnnestunud luua. Lisateabe saamiseks võta ühendust administraatoriga.
+    temporary_user:
+      validate_email: Kinnita oma e-posti aadress
+      validate_email_description_html: "Sinu e-posti aadressile saadeti ajutine parool: <strong>%{email}</strong>. Klõpsa lingil või sisesta ajutine parool siia, et oma e-posti aadress kinnitada ja jätkata."
+      session_expired: Seanss aegus, jätkamiseks sisesta oma e-posti aadress uuesti
+      token_expired: E-kirjas olev autentimislink on aegunud, proovi uuesti.
+      already_authenticated: Oled selles brauseris juba sisse logitud.
+      resend_validation_email: Saada kinnitusmeil uuesti
+      verify: Kinnita
+      validate_email_sent: "Uus kinnitusmeil saadeti kell %{time}. Klõpsa e-kirjas oleval lingil või sisesta allpool parool, et oma e-posti aadress kinnitada."
+      invalid_temporary_user: Vigane parool. Kontrolli oma e-posti – ajutine parool saadeti uuesti sinu postkasti.
+      temporary_user_expired: Ajutine parool on aegunud. Kontrolli oma e-posti – sinu postkasti saadeti uus ajutine parool.
+      create_account: Loo konto
+      create_account_description: Loo selles süsteemis püsiv konto, et saaksid ajutise kasutajakonto asemel sisse logida oma e-posti aadressi ja parooliga.
+  shared:
+    show: Näita
+    reify: Taasta
+    download: Laadi alla
+    restore: Taasta
+    delete: Kustuta
+    trash: Prügikast
+    cancel: Tühista
+    close: Sulge
+    current: Praegune
+    bootstrap_confirm_dialog:
+      confirm_action: Kinnita toiming
+    shares:
+      bootstrap_confirm_dialog:
+        confirm_action: Kinnita toiming
+      navigation:
+        files: Failid
+        activity_log: Tegevuslogi
+      wrap_content:
+        activity_log: Tegevuslogi
+    error_messages:
+      prohibited_this_from_being_saved: takistas objekti %{target} salvestamist
+  share:
+    share: Share
+    shares: Share'id
+    no_shares: Share'e pole saadaval
+    name: Nimi
+    folder_name: Kausta nimi
+    share_not_found: Share'i ei leitud
+    folder_not_found: Kausta ei leitud
+    file_not_found: Faili ei leitud
+    no_read_access: Puudub õigus seda Share'i avada
+    no_write_access: Puudub kirjutusõigus sellele Share'ile
+    not_authorized_to_view_logs: Puudub õigus logisid vaadata
+    require_authentication: See Share nõuab autentimist. Jätkamiseks sisesta parool.
+    authenticate: Autendi
+    authentication_failed: Autentimine ebaõnnestus
+  shares:
+    folders:
+      are_you_sure_you_want_to_delete: Kas soovid kindlasti selle kausta kustutada?
+      are_you_sure_you_want_to_trash: Kas soovid kindlasti selle kausta jäädavalt kustutada?
+      folder_name_already_taken: See kausta nimi on juba kasutusel!
+      folder_not_found: Kausta ei leitud
+      could_not_create_folder: "Kausta ei õnnestunud luua: %{error}"
+      zip_no_files: ZIP-arhiivi pole faile lisada
+      windows_path_warning:
+        title: Windowsi tee pikkuse piirang
+        description_html: <strong>Windowsi kasutajad:</strong> Windows piirab failiteed 259 märgiga. Pikkade teedega asukohtadest kaustade üleslaadimisel võidakse kaustastruktuuris sügaval asuvad failid märkamatult välja jätta, mis võib põhjustada mittetäielikke üleslaadimisi või topeltkaustu.
+        workarounds_title: Soovitatavad lahendused
+        workarounds_html: "<li><strong>Kasuta virtuaalset draivi:</strong> ava käsuviip ja käivita: <code>subst X: \"C:\\sinu\\pikk\\tee\\kaustani\"</code><br>Seejärel laadi üles virtuaalselt draivilt <code>X:\\</code></li><li><strong>Liigu failidele lähemale:</strong> sirvi enne üleslaaditava kausta valimist failidele lähemal asuvasse alamkausta</li><li><strong>Kasuta lühemat teed:</strong> kopeeri failid enne üleslaadimist lühemasse asukohta, näiteks <code>C:\\uploads\\</code></li><li><strong>Paki kaust kõigepealt kokku:</strong> tihenda kaust ZIP-failiks ja laadi selle asemel üles ZIP-fail</li>"
+        advanced_title: "Täpsem: luba pikad teed Windows 10/11-s"
+        advanced_description_html: Alates Windows 10 versioonist 1607 saad lubada pikemate teede toe. <strong>NB!</strong> See nõuab administraatoriõigusi ega pruugi kõigis brauserites töötada. Ülaltoodud lahendused on usaldusväärsemad.
+        registry_steps_title: Pikkade teede lubamise sammud
+        registry_steps_html: "<li>Vajuta <kbd>Win + R</kbd>, tipi <code>regedit</code> ja vajuta Enter</li><li>Liigu asukohta: <code>HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\FileSystem</code></li><li>Leia või loo DWORD-väärtus nimega <code>LongPathsEnabled</code> ja määra selle väärtuseks <code>1</code></li><li>Muudatuse jõustumiseks taaskäivita arvuti</li><li>Proovi üleslaadimist uuesti (tugi võib brauseriti erineda)</li>"
+        browser_disclaimer_html: "<strong>Tähtis:</strong> isegi kui see registriseade on lubatud, erineb pikkade teede tugi brauseriti. Chrome, Edge ja Firefox võivad endiselt rakendada 259 märgi piirangut. Ülaltoodud lahendused on usaldusväärsemad."
+      folder:
+        rename_folder: Nimeta kaust ümber
+        move_folder_description: Teisalda kaust %{foldername} allpool valitud kausta
+        move_folder: Teisalda kaust
+      action_bar:
+        download_as_zip: Laadi alla ZIP-ina
+        download_as_zip_with_deleted: Laadi alla ZIP-ina koos kustutatud failidega
+        toggle_deleted_view: Näita/peida kustutatud failid
+        filter: Filter
+        upload_file: Laadi failid üles
+        upload_folder: Laadi kaust üles
+        create_folder: Loo kaust
+        windows_path_warning: Tee pikkuse hoiatus
+        upload_folder_unsupported: Kausta üleslaadimist ei toetata
+        upload_folder_unsupported_description: Kahjuks ei toeta sinu brauser kaustade üleslaadimist. Kaustastruktuuri üleslaadimiseks kasuta Chrome'i või Safari töölauaversiooni.
+        showing_deleted: Kuvatakse %{number_of} kustutatut
+        hiding_deleted: Peidetud %{number_of} kustutatut
+        actions: Toimingud
+        move_selected: Teisalda valitud
+        trash_selected: Teisalda valitud prügikasti
+        delete_selected: Kustuta valitud
+      action_bar_below:
+        send_notifications: Saada teavitused
+        sending_notifications: Teavituste saatmine
+        quota: Kvoot
+        used_of: kasutatud /
+        available: saadaval
+        quota_exceeded: Kvoot ületatud
+      create_folder_modal:
+        create_folder: Loo kaust
+        create: Loo
+      files:
+        are_you_sure_you_want_to_delete: Kas soovid kindlasti selle faili kustutada?
+        are_you_sure_you_want_to_trash: Kas soovid kindlasti selle faili jäädavalt kustutada?
+        file_not_found: Faili ei leitud
+        file:
+          rename_file: Nimeta fail ümber
+          move_file: Teisalda
+          move_file_description: Teisalda fail %{filename} allpool valitud kausta
+        show:
+          prev: Eelmine
+          up: Üles
+          next: Järgmine
+          last_updated: Viimati uuendatud
+          versions: Versioonid
+          show_all: Näita kõiki
+          version_from: Versioon kuupäevast
+          next_version: Järgmine versioon
+          previous_version: Eelmine versioon
+          current_version: Praegune versioon
+          pdf_preview_not_supported: Sinu brauser ei toeta PDF-failide eelvaadet
+        available_chunks:
+          available: Järgmiste failide osalised üleslaadimised on saadaval
+          resume_replace: Kas soovid üleslaadimist jätkata või failid asendada?
+      quota:
+        quota: Kvoot
+        used_of: kasutatud /
+        available: saadaval
+        quota_exceeded: Kvoot ületatud
+      move_file_folder_modal:
+        move_folder: Teisalda kaust
+        move_file: Teisalda fail
+        move: Teisalda
+      show:
+        select_all: Vali kõik / tühista valik
+    logs:
+      action_bar:
+        activity_log: Tegevuslogi
+      message:
+        created: Loodud
+        uploaded: Üles laaditud
+        downloaded: Alla laaditud
+        reified: Taastatud
+        removed: Eemaldatud
+        restored: Taastatud
+        deleted: Kustutatud
+        moved: Teisaldatud
+        renamed: Ümber nimetatud
+        added: Lisatud
+        viewed: Vaadatud
+        infected: Nakatunud
+        trashed: Prügikasti teisaldatud
+        deleted_user: "(Kustutatud kasutaja)"
+        share: Share
+        folder: Kaust
+        file: Fail
+        group: Rühm
+        user: Kasutaja
+        read: Lugemine
+        read/write: Lugemine/kirjutamine
+        av_scanner: Viirusetõrje
+        version_from: Versioon kuupäevast
+        file_deleted: Fail kustutatud
+        to: sihtkohta
+        from: lähtekohast
+        unknown: Tundmatu
+        other: Muu
+  share/log:
+    message:
+      you: Sina
+      share: Share
+      folder: kaust
+      file: fail
+      user: kasutaja
+      version_from: versioon kuupäevast
+      read: lugemine
+      read/write: lugemine/kirjutamine
+      created: lõi
+      added: lisas
+      uploaded: laadis üles
+      downloaded: laadis alla
+      updated: uuendas
+      restored: taastas
+      reified: taastas
+      deleted: kustutas
+      removed: kustutas jäädavalt
+      trashed: teisaldas prügikasti
+      renamed: nimetas ümber
+      viewed: vaatas
+      infected: nakatunud
+      av_scanner: Viirusetõrje
+      file_deleted: Fail kustutatud
+  sms_auth:
+    login_failed: Sisselogimine ebaõnnestus
+    sms_error: SMS-i konfiguratsiooni viga, võta ühendust süsteemiadministraatoriga
+    verify_token: Kinnita SMS-kood
+    verify_token_description: "Sisesta sinu mobiiltelefonile saadetud kood:"
+    sms_login_failed: SMS-kinnitus ebaõnnestus, saadeti uus SMS-kood
+    sms_signup: SMS-iga kaheastmelise autentimise registreerimine
+    sms_signup_failed: SMS-iga kaheastmeline autentimine ebaõnnestus
+    sms_signup_description: Jätkamiseks pead registreeruma SMS-iga kaheastmelise autentimise kasutajaks. Jätkamiseks sisesta allpool oma telefoninumber.
+    verify: Kinnita
+    resend: Saada kood uuesti
+    code: Kood
+    token_resent: SMS-kood saadeti uuesti kell %{time}
+    send_token: Saada kinnituskood
+    phone_number: Telefoninumber
+    invalid_phone_number: Vigane telefoninumber, proovi uuesti.
+    change_phone_number: Muuda telefoninumbrit
+    phone_number_help: Sisesta oma telefoninumber koos riigikoodiga ja ilma algusnullita (nt 37251234567). Sellele numbrile saadetakse kinnituskood.
+    one-time-code: Ühekordne kood
+  strong_auth:
+    two_factor_authentication: Kaheastmeline autentimine
+    enable_2fa: Luba kaheastmeline autentimine
+    disable_2fa: Keela kaheastmeline autentimine
+    title: Luba kaheastmeline autentimine
+    enable_2fa_description: Saad oma konto turvalisuse suurendamiseks lubada tugeva kaheastmelise autentimise.
+    require_description: Selle süsteemi kasutamiseks pead seadistama kaheastmelise autentimise.
+    disable_description: Kaheastmelise autentimise keelamiseks sisesta praegune kood
+    two_factor_auth_disabled: Kaheastmeline autentimine keelatud
+    step1: "1. samm: laadi alla autentimisrakendus"
+    step1_description: Luba kaheastmeline autentimine, tavaliselt mobiilirakenduse abil.
+    totp_apps_description_html: Autentimisrakendused on näiteks <a href="https://authy.com" target="_blank" rel="external nofollow noopener noreferrer">Authy</a> (mitu platvormi) ja Google Authenticator (iOS/Android). Rohkem valikuid leiad lehelt <a href="https://docs.liquidfiles.com/authentication/totp.html#clients" target="_blank">TOTP Clients</a>.
+    step2: "2. samm: seadista autentimisrakendus"
+    step2_description: Seadista autentimisrakendus QR-koodi skannides.
+    step2_alt: Või sisesta järgmine kood
+    step3: "3. samm: kinnita"
+    step3_description: Kinnita seadistus, sisestades autentimisrakenduse loodud koodi.
+    failed_to_authenticate: Autentimine ebaõnnestus, proovi uuesti.
+    click_on_link: Teise võimalusena klõpsa järgmisel lingil, et lisada konfiguratsioon oma kaheastmelise autentimise rakendusse
+    configure: Seadista kaheastmeline autentimine
+    success_saved: Valmis, kaheastmelise autentimise konfiguratsioon on salvestatud
+    verify_token: Kinnita kaheastmeline autentimine
+    verify_token_description: Sisesta mobiilirakenduse kaheastmelise autentimise kood.
+    verify: Kinnita
+    two_factor_login_failed: Kaheastmeline autentimine ebaõnnestus
+    two_factor_validation_failed: Kaheastmelise autentimise kinnitamine ebaõnnestus
+    skip_2fa_for_two_weeks: Jäta selles brauseris kaheastmeline autentimine kaheks nädalaks vahele
+    one-time-code: Ühekordne kood
+  support:
+    email_subject: Vajan abi teemal
+    email_body: Kirjelda oma probleemi võimalikult üksikasjalikult. Aitäh.
+    navbar_tooltip: Kui vajad abi sellele süsteemile juurdepääsul või selle kasutamisel, klõpsa sellel lingil ja aitame hea meelega.
+  user:
+    includes_at_least_one_invalid_email_address: sisaldab vähemalt ühte vigast e-posti aadressi
+    confirm:
+      invalid_session: Vigane seanss
+      already_validated: Sinu e-posti aadress on juba kinnitatud
+      invalid_token: Vigane kood. Proovi uuesti või klõpsa Saada kinnitusmeil uuesti.
+      validation_email_sent: "Kinnitusmeil saadeti kell %{time}"
+      activated_successfully: Edukalt aktiveeritud
+      validate_email_description: Kontrolli oma e-posti ja sisesta ajutine parool, et oma e-posti aadress kinnitada.
+    register:
+      already_registered: See konto on juba registreeritud, jätkamiseks logi sisse
+      already_registered_not_validated: Sinu konto on juba registreeritud, kuid sinu e-posti aadress tuleb veel kinnitada. Sulle saadeti e-kiri juhusliku koodiga. Sisesta kood allpool või klõpsa e-kirjas oleval lingil, et oma konto kinnitada.
+      show:
+        register: Registreeri konto
+        description_html: <p>Konto loomiseks sisesta oma andmed. Selle kontoga saad suuri faile turvaliselt saata saajale %{branding_name}.</p>
+    signup:
+      create:
+        need_password: Pead sisestama parooli
+        need_name: Pead sisestama nime
+    create:
+      show:
+        cancel_and_remember: Tühista ja ära enam küsi
+        cancel_and_remember_title: See jäetakse sinu praegusesse brauserisse meelde
+  validator:
+    required: See väli on kohustuslik.
+    remote: Paranda see väli.
+    email: Sisesta kehtiv e-posti aadress.
+    url: Sisesta kehtiv URL.
+    date: Sisesta kehtiv kuupäev.
+    dateISO: Sisesta kehtiv kuupäev (ISO).
+    number: Sisesta kehtiv number.
+    digits: Sisesta ainult numbrid.
+    creditcard: Sisesta kehtiv krediitkaardi number.
+    equalTo: Sisesta sama väärtus uuesti.
+    accept: Sisesta kehtiva laiendiga väärtus.
+    maxlength: Sisesta kõige rohkem {0} märki.
+    minlength: Sisesta vähemalt {0} märki.
+    rangelength: Sisesta väärtus pikkusega {0} kuni {1} märki.
+    range: Sisesta väärtus vahemikus {0} kuni {1}.
+    max: Sisesta väärtus, mis on väiksem või võrdne kui {0}.
+    min: Sisesta väärtus, mis on suurem või võrdne kui {0}.
+    step: Sisesta arvu {0} kordne.
+    invalid_phone_number: Vigane telefoninumber
+  locale: Eesti

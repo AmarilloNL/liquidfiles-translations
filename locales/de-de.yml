@@ -1,0 +1,1569 @@
+de:
+  s: s
+  min: min
+  hours: Stunden
+  days: Tage
+  weeks: Wochen
+  months: Monate
+  years: Jahre
+  ago: her
+  email: E-Mail
+  save: Speichern
+  delete: Löschen
+  cancel: Abbrechen
+  remove: Entfernen
+  aborting: Wird abgebrochen
+  aborted: Abgebrochen
+  saved_successfully: Erfolgreich gespeichert
+  logout: Abmelden
+  error: Fehler
+  enabled: Aktiviert
+  disabled: Deaktiviert
+  disable: Deaktivieren
+  default: Standard
+  submit: Senden
+  session_expired: Die Sitzung ist abgelaufen
+  search: Suchen
+  filter: Filter
+  recipient: Empfänger
+  recipients: Empfänger
+  downloaded_by: Heruntergeladen von
+  filename: Dateiname
+  size: Größe
+  downloaded: Heruntergeladen
+  host: Host
+  ip: IP-Adresse
+  action: Aktion
+  view_message: Nachricht anzeigen
+  view_message_popup: Nachricht anzeigen (Pop-up)
+  download_info: Download-Informationen
+  message_id: Nachrichten-ID
+  filelink_id: FileLink-ID
+  sent_at: Gesendet
+  id: ID
+  subject: Betreff
+  expires: Läuft ab
+  invalid_method: Ungültige Methode
+  export_csv: CSV exportieren
+  export_all: Alle exportieren
+  export_visible: Sichtbare exportieren
+  temporarily_unavailable: Vorübergehend nicht verfügbar
+  generic_search_error: Allgemeiner Suchfehler
+  sender: Absender
+  search_temporary_disabled: Suche vorübergehend deaktiviert
+  help: Hilfe
+  close: Schließen
+  count: Anzahl
+  settings: Kontoeinstellungen
+  virus: Virus
+  virus_status: Virenstatus
+  infected: Infiziert
+  clean: Sauber
+  not_scanned: Nicht gescannt
+  not_yet_scanned: Noch nicht gescannt
+  csrf_error: "CSRF: Ungültige Parameter erkannt. Bitte melden Sie sich erneut an, um fortzufahren."
+  could_not_be_saved: Konnte nicht gespeichert werden
+  label: Bezeichnung
+  updated: Aktualisiert
+  add: Hinzufügen
+  system_info: Systeminformationen
+  location: Standort
+  accept: Akzeptieren
+  last_7_days: Letzte 7 Tage
+  last_30_days: Letzte 30 Tage
+  last_60_days: Letzte 60 Tage
+  last_90_days: Letzte 90 Tage
+  last_180_days: Letzte 180 Tage
+  last_365_days: Letzte 365 Tage
+  file: Datei
+  files: Dateien
+  next: Weiter
+  previous: Zurück
+  name: Name
+  view: Anzeigen
+  forget: Vergessen
+  update: Aktualisieren
+  updated_at: Aktualisiert am
+  created_at: Erstellt am
+  download_link_expired: Der Download-Link ist abgelaufen.
+  no_html5_upload_warning: Für das Hochladen von Dateien ist ein moderner, HTML5-kompatibler Browser erforderlich. Microsoft Edge, Chrome, Firefox und Safari funktionieren alle bestens.
+  javascript_warning: Zum Senden von Dateien und für die meisten Funktionen ist JavaScript erforderlich.
+  cookie_accept: Diese Website verwendet Cookies. Wenn Sie sich anmelden oder auf „Akzeptieren“ klicken, stimmen Sie der Verwendung von Cookies zu.
+  i_agree: Ich stimme zu
+  session_timeout: Sitzung abgelaufen, bitte melden Sie sich erneut an
+  loading: Wird geladen...
+  unsupported_browser_header: Nicht unterstützter Browser
+  unsupported_browser_description_html: Ihr Browser wird nicht unterstützt, daher funktioniert diese Website wahrscheinlich nicht wie erwartet. Bitte verwenden Sie für diese Website einen moderneren Browser.
+  not_logged_in_invalid_parameters: Nicht angemeldet, ungültige Parameter
+  toggle_dropdown: Menü ein-/ausblenden
+  rejected: Abgelehnt
+  undetected: Nicht erkannt
+  invalid_link: Ungültiger Link, bitte wenden Sie sich an den Absender
+  account_settings_tooltip: Kontoeinstellungen
+  logout_tooltip: Abmelden
+  download_id: Download-ID
+  remote_host: Remote-Host
+  show: Anzeigen
+  hide: Ausblenden
+  password: Passwort
+  download: Herunterladen
+  unauthorized: Nicht berechtigt
+  account:
+    login: Anmelden
+    login_label: E-Mail-Adresse
+    email: E-Mail-Adresse
+    password: Passwort
+    current_password: Aktuelles Passwort
+    please_enter_your_current_password: Bitte geben Sie Ihr aktuelles Passwort ein
+    sign_in: Anmelden
+    remember_me: Angemeldet bleiben
+    not_administrator: Sie sind kein Administrator
+    password_reset: Passwort zurücksetzen
+    register: Registrieren
+    register_description_html: Vielen Dank! Bitte geben Sie Ihre Daten ein, um ein Konto zu erstellen.<br>Beim nächsten Mal können Sie sich mit Ihrer E-Mail-Adresse und Ihrem Passwort anmelden.
+    account_not_activated: Das Konto ist nicht aktiviert. Bitte aktivieren Sie das Konto, bevor Sie sich anmelden. Wir haben Ihnen eine E-Mail mit einem zufälligen Code gesendet. Geben Sie den Code unten ein oder klicken Sie auf den Link in der E-Mail, um Ihr Konto zu bestätigen.
+    incorrect_user_or_pw: Benutzername oder Passwort ist falsch
+    confirmation_email_sent: Bestätigungs-E-Mail gesendet
+    activated_successfully: Erfolgreich aktiviert
+    not_activated: Konto nicht aktiviert
+    password_reset_email_sent: E-Mail zum Zurücksetzen des Passworts gesendet
+    no_such_user: Benutzer nicht vorhanden
+    no_such_email: E-Mail-Adresse nicht gefunden
+    not_logged_in: Sie sind nicht angemeldet. Bitte melden Sie sich an, um fortzufahren.
+    saved_successfully: Erfolgreich gespeichert
+    unlicensed_install_some_settings: "Nicht lizenzierte Installation: Branding-Optionen sind nur für Systemadministratoren sichtbar"
+    incorrect_login_or_demo: Benutzername oder Passwort ist falsch, oder das Lizenzlimit ist erreicht
+    incorrect_login_or_ldap: Benutzername oder Passwort ist falsch, oder der LDAP-Server antwortet nicht
+    invalid_api_key: Ungültiger API-Schlüssel
+    cant_delete_last_sysadmin: Der letzte Systemadministrator kann nicht gelöscht werden
+    cant_change_last_sysadmin: Der letzte Systemadministrator kann nicht geändert werden
+    sso_login: SSO-Anmeldung
+    invalid_sso_response: Ungültige SSO-Antwort
+    automatic: Automatisch erkannt
+    network_access_blocked: Der Zugriff auf dieses System ist von Ihrem Netzwerk aus nicht erlaubt.
+    please_login: Bitte melden Sie sich an, um diese Seite aufzurufen.
+    email_validation_session_timeout: Sitzung abgelaufen, bitte bestätigen Sie Ihre E-Mail-Adresse erneut.
+    signature: Signatur
+    not_authorized_for_action: Sie sind nicht berechtigt, diese Aktion auszuführen
+    invalid_group: Ungültige Gruppe. Bitte wenden Sie sich an einen Administrator, der Ihr Konto in eine Gruppe für lokale Benutzer verschieben kann
+    invalid_group_configuration: Ungültige Gruppenkonfiguration. Bitte wenden Sie sich an einen Administrator, der ein Konto für Sie erstellen oder die Gruppenkonfiguration anpassen kann.
+    please_enter_email_to_email_password: Bitte geben Sie Ihre E-Mail-Adresse ein, um das Passwort zurückzusetzen. An diese Adresse wird eine Bestätigungs-E-Mail gesendet.
+    password_reset_successfully: Passwort erfolgreich zurückgesetzt
+    password_cant_be_empty: Das Passwort darf nicht leer sein
+    password_complexity_title: Passwortkomplexität
+    password_complexity_description_html: "<p>Ihr Passwort <strong>darf nicht auf einem Wörterbuchwort basieren</strong> und muss mindestens 3 der folgenden Anforderungen erfüllen:</p><ul><li>Mindestens 8 Zeichen</li><li>Mindestens 11 Zeichen</li><li>Mindestens 15 Zeichen</li><li>Mindestens 1 Klein- und 1 Großbuchstabe</li><li>Mindestens 1 Ziffer (0-9)</li><li>Mindestens eines der folgenden Zeichen: !,@,#,$,%,^,&amp;,*,?,_,~,-,(,)</li></ul>"
+    is_not_strong_enough: ist nicht sicher genug
+    your_password_has_expired: Ihr Passwort ist abgelaufen
+    please_select_a_different_password: Bitte wählen Sie ein anderes Passwort als Ihr bisheriges
+    change_password: Passwort ändern
+    account_not_found: Konto nicht gefunden. Bitte melden Sie sich erneut an.
+    user_required_to_use_saml: Das Passwort kann nicht zurückgesetzt werden. Bitte melden Sie sich über SAML an
+    sysadmin_ldap_error: Dieses Konto wird über LDAP authentifiziert und kann hier nicht zurückgesetzt werden
+    login_limit_exceeded: Anmeldelimit überschritten
+    a_confirmation_email_will_be_sent: An diese Adresse wird eine Bestätigungs-E-Mail gesendet
+    name: Name
+    password_confirm: Passwort bestätigen
+    save: Speichern
+    can_not_reset_password_please_check_with_your_administrator: Ihr Passwort kann nicht zurückgesetzt werden. Bitte wenden Sie sich an Ihren Administrator.
+    no_need_to_register_user: Sie müssen sich nicht registrieren. Bitte melden Sie sich mit Ihrem bestehenden Konto an.
+    registration_not_allowed: Registrierung nicht erlaubt
+    create_description: Erstellen Sie Ihr Konto, indem Sie Ihren Namen und ein Passwort eingeben.
+    activated_successfully_please_login: Ihr Konto wurde erfolgreich aktiviert. Sie können sich jetzt mit Ihrer E-Mail-Adresse und Ihrem Passwort anmelden.
+    invalid_activation_url: Ungültige Aktivierungs-URL. Bitte prüfen Sie die URL und versuchen Sie es erneut.
+    already_logged_in: Sie sind bereits angemeldet. Ein neues Konto kann nicht registriert werden.
+    bruteforce_message: Sie haben die maximale Anzahl an Fehlversuchen überschritten. Bitte versuchen Sie es in %{minutes} Minuten erneut.
+    admin_access_blocked: Der Administratorzugriff ist von Ihrer IP-Adresse aus nicht erlaubt.
+    account_created_successfully: Konto erfolgreich erstellt
+    create_account: Konto erstellen
+    create_account_description: Bitte vervollständigen Sie Ihre Daten, um Ihr Konto zu erstellen.
+    account_settings: Kontoeinstellungen
+    change_language: Sprache und Zeitzone ändern
+    filedrop_label: Filedrop (zufällig)
+    filedrop_email_label: Filedrop
+    verify_account: Konto wird überprüft
+    invalid_sso_signature: Ungültige SSO-Signatur oder Anmeldung
+    user_not_found: Benutzer nicht gefunden
+    could_not_create_account: Das Konto konnte nicht erstellt werden
+    two_factor_authentication_failed: Duo-Zwei-Faktor-Authentifizierung fehlgeschlagen
+    copy_to_clipboard: In die Zwischenablage kopieren
+    copy_url_to_clipboard: URL in die Zwischenablage kopieren
+    delete_user_warning: Möchten Sie diesen Benutzer wirklich löschen?
+    unauthorized_to_login: Nicht zur Anmeldung berechtigt
+    first_time_message_title: Willkommen bei LiquidFiles
+    first_time_message: <p>Willkommen bei LiquidFiles, der einfachsten Möglichkeit, große Dateien sicher zu versenden.</p><p>Die Grundfunktionen funktionieren genau wie ein Webmail-System.</p><p>Diese Nachricht wird nur einmal angezeigt. Wenn Sie einmal nicht weiterkommen oder weitere Funktionen entdecken möchten, klicken Sie oben rechts in der Menüleiste auf die Schaltfläche „Hilfe“.</p>
+    first_time_message_button: Verstanden!
+    registration_failed_unknown_error: Registrierung aufgrund eines unbekannten Fehlers fehlgeschlagen
+    session_timeout: Sitzung abgelaufen
+    nothing_filled_in: Bitte füllen Sie das Formular aus
+    last_used: Zuletzt verwendet
+    strong_auth_required_before_password_reset: Für dieses Konto ist eine starke Zwei-Faktor-Authentifizierung erforderlich, bevor das Passwort zurückgesetzt werden kann.
+    unfriendly_registration_message: Wenn Sie sich mit dieser E-Mail-Adresse auf diesem System registrieren können, erhalten Sie eine E-Mail. Falls nicht, verwenden Sie bitte den Support-Link oben.
+    unfriendly_password_reset_message: Wenn das Konto mit dieser E-Mail-Adresse zurückgesetzt werden kann, erhalten Sie eine E-Mail. Falls nicht, verwenden Sie bitte den Support-Link oben.
+    aliases:
+      aliases: Aliase
+      aliases_description: Sie können Ihrem Konto Absender- und Empfängeraliase hinzufügen. Mit einem Absenderalias können Sie Nachrichten im Namen dieser E-Mail-Adresse senden. Mit einem Empfängeralias können Sie Nachrichten an diese E-Mail-Adresse anzeigen. Nachrichten an einen Empfängeralias sind auch in Ihrem Posteingang für sichere Nachrichten sichtbar.
+      aliases_no_change_description: Mit einem Absenderalias können Sie Nachrichten im Namen dieser E-Mail-Adresse senden. Mit einem Empfängeralias können Sie Nachrichten an diese E-Mail-Adresse anzeigen. Nachrichten an einen Empfängeralias sind auch in Ihrem Posteingang für sichere Nachrichten sichtbar. Bitte wenden Sie sich an einen Administrator, um Aliase hinzuzufügen oder zu ändern.
+      recipient_aliases: Empfängeraliase
+      sender_aliases: Absenderaliase
+      add_alias: Alias hinzufügen
+      remove: Entfernen
+      default_sender_alias: Standard-Absenderalias
+      default_sender_alias_description: Der Standard-Absenderalias.
+      are_you_sure: Möchten Sie diesen Alias wirklich entfernen?
+      no_emails: Es wurden keine Aliase hinzugefügt.
+      please_contact_an_administrator: Bitte wenden Sie sich an einen Administrator, um diese zu verwalten
+      auto_added_aliases: Automatisch hinzugefügte Aliase
+      auto_added_aliases_description: Die folgenden Aliase wurden Ihrem Profil automatisch hinzugefügt. Bitte wenden Sie sich an einen Administrator, um diese zu verwalten.
+    alias:
+      confirm:
+        show:
+          title: Vielen Dank für Ihre Bestätigung
+          alias_email: Alias-E-Mail-Adresse
+          user: Benutzer
+          recipient_and_sender_confirmation: Der oben genannte Benutzer kann jetzt sichere Nachrichten an diese E-Mail-Adresse anzeigen und sichere Nachrichten im Namen dieser E-Mail-Adresse senden. Bitte klicken Sie auf den Support-Link oben, falls dies ein Fehler war.
+          only_recipient_confirmation: Der oben genannte Benutzer kann jetzt sichere Nachrichten an diese E-Mail-Adresse anzeigen. Bitte klicken Sie auf den Support-Link oben, falls dies ein Fehler war.
+          only_sender_confirmation: Der oben genannte Benutzer kann jetzt sichere Nachrichten im Namen dieser E-Mail-Adresse senden. Bitte klicken Sie auf den Support-Link oben, falls dies ein Fehler war.
+    add_alias_modal:
+      title: Alias hinzufügen
+      description: Bitte geben Sie die E-Mail-Adresse ein, auf die Sie als Empfänger- oder Absenderalias zugreifen möchten. Zur Bestätigung wird eine E-Mail an diese Adresse gesendet.
+      recipient_alias: Empfängeralias - ich möchte Nachrichten lesen, die an diese E-Mail-Adresse gesendet wurden.
+      sender_alias: Absenderalias - ich möchte Nachrichten im Namen dieser E-Mail-Adresse senden.
+      invalid_email: Ungültige E-Mail-Adresse
+      add_permission: Bitte wählen Sie Empfängeralias, Absenderalias oder beides.
+      send_request: Anfrage senden
+      request_has_been_sent: Ihre Anfrage wurde gesendet.
+    api:
+      api_key: API-Schlüssel
+      api_key_description: Der API-Schlüssel wird von Plug-ins wie dem Outlook-Plug-in verwendet und kann für eigene Integrationen genutzt werden. Sie benötigen ihn nur, wenn ein Administrator Sie darum bittet.
+      api_key_reset_warning: Sind Sie sicher? Wenn Sie den API-Schlüssel zurücksetzen, müssen Sie den alten Schlüssel überall ersetzen, wo Sie ihn verwendet haben.
+      reset_api_key: API-Schlüssel zurücksetzen
+    contacts:
+      contacts: Kontakte
+      contacts_description: Sie können beliebig viele Kontakte hinzufügen. Jeder Kontakt kann mehrere E-Mail-Adressen haben, sodass Sie schnell und einfach an mehrere Empfänger gleichzeitig senden können.
+      add_contact: Kontakt hinzufügen
+      email_field_help: E-Mail-Adressen, durch Kommas getrennt.
+      contact:
+        edit_label: Bezeichnung bearbeiten
+        edit_email: E-Mail-Adresse bearbeiten
+        are_you_sure: Möchten Sie diesen Kontakt wirklich löschen?
+    filedrops:
+      filedrops: Filedrops
+      filedrops_description: Sie sind Haupt- oder CC-Empfänger dieser Filedrops. Jede Datei, die über einen dieser Filedrops gesendet wird, wird Ihnen zugestellt.
+      name: Name
+      title: Titel
+      recipient: Empfänger
+      expires_after: Läuft ab nach
+      max_size: Max. Dateigröße
+      url: URL
+      main_recipient: Hauptempfänger
+      cc: CC
+    personal_filedrop:
+      personal_filedrop: Persönlicher Filedrop
+      personal_filedrop_description: Mit Ihrem persönlichen Filedrop können Sie ganz einfach Dateien empfangen. Sie können den Link versenden, auf einer Website veröffentlichen oder in Ihre E-Mail-Signatur aufnehmen. Sie erhalten eine Benachrichtigung, sobald jemand etwas über Ihren persönlichen Filedrop gesendet hat.
+    previous_recipients:
+      previous_recipients: Frühere Empfänger
+      previous_recipients_description: Wenn Sie eine sichere Nachricht senden, wird jeder Empfänger zu dieser Liste früherer Empfänger hinzugefügt. So können Sie schnell erneut an dieselben Empfänger senden. Empfänger, an die Sie 180 Tage lang nichts gesendet haben, werden automatisch von dieser Liste entfernt.
+      are_you_sure: Möchten Sie diesen früheren Empfänger wirklich löschen?
+    pw_dictionary:
+      based_on_a_dictionary_word: basiert auf einem Wörterbuchwort
+      based_upon_your_password_entry: basiert auf Ihrer Passworteingabe
+      derived_from_your_password_entry: ist von Ihrer Passworteingabe abgeleitet
+      derivable_from_your_password_entry: ist aus Ihrer Passworteingabe ableitbar
+      way_too_short: ist VIEL zu kurz
+      too_short: ist zu kurz
+      it_does_not_contain_enough_different_characters: enthält nicht genügend UNTERSCHIEDLICHE Zeichen
+      all_whitespace: besteht nur aus Leerzeichen
+      too_simplistic_systematic: ist zu einfach/systematisch
+      it_looks_like_a_national_insurance_number: sieht aus wie eine Sozialversicherungsnummer
+      based_on_a_reversed_dictionary_word: basiert auf einem (umgekehrten) Wörterbuchwort
+    show:
+      basic_settings: Grundeinstellungen
+      change_password: Passwort ändern
+      strong_auth: Zwei-Faktor-Authentifizierung
+      aliases: Aliase
+      previous_recipients: Frühere Empfänger
+      contacts: Kontakte
+      personal_filedrop: Persönlicher Filedrop
+      api: API
+      filedrops: Filedrops
+    sms_disable:
+      disable_sms_otp: SMS-Zwei-Faktor-Authentifizierung deaktivieren
+      disable_sms_otp_description: Wenn Sie die SMS-Zwei-Faktor-Authentifizierung deaktivieren möchten, klicken Sie bitte auf die Schaltfläche unten. Zur Bestätigung wird ein SMS-Code gesendet.
+      verify_token_description: "Um die SMS-Zwei-Faktor-Authentifizierung zu deaktivieren, geben Sie bitte den Code ein, der an Ihr Mobiltelefon gesendet wurde:"
+      code: Code
+      sms_token_failed: Ungültiger SMS-Code, die SMS-Zwei-Faktor-Authentifizierung konnte nicht deaktiviert werden
+      sms_otp_has_been_disabled: Die SMS-Zwei-Faktor-Authentifizierung wurde deaktiviert
+    sms_signup:
+      sms_signup_description: Sie können die Sicherheit Ihres Kontos verbessern, indem Sie die Zwei-Faktor-Authentifizierung aktivieren. Bitte geben Sie unten Ihre Telefonnummer ein, um die Zwei-Faktor-Authentifizierung zu aktivieren.
+      phone_number: Telefonnummer
+    sms_enable:
+      signup_complete: Die SMS-Zwei-Faktor-Authentifizierung wurde aktiviert
+    terms_of_service:
+      show:
+        title: Nutzungsbedingungen
+        accept_terms_of_service: Nutzungsbedingungen akzeptieren
+        do_not_accept: Nicht akzeptieren
+      create:
+        you_need_to_accept: Sie müssen die Nutzungsbedingungen akzeptieren!
+  activerecord:
+    attributes:
+      attachment:
+        filename: Dateiname
+        size: Größe
+        secure_id: Anhang-ID
+        content_type: Inhaltstyp
+        created_at: Erstellt am
+        updated_at: Aktualisiert am
+      download:
+        recipient: Empfänger
+        downloaded_at: Heruntergeladen am
+        remote_ip: Remote-IP-Adresse
+        remote_host: Remote-Host
+        created_at: Erstellt am
+        updated_at: Aktualisiert am
+      filedrop:
+        name: Name
+        title: Titel
+        description: Beschreibung
+        blocked_extensions: Gesperrte Erweiterungen
+        permitted_extensions: Erlaubte Dateitypen
+        expires_after: Läuft ab nach
+        max_filesize: Maximale Dateigröße
+        created_at: Erstellt am
+        updated_at: Aktualisiert am
+        api_key: API-Schlüssel
+        cc: CC
+        authorization: Autorisierung
+      message:
+        recipients: Empfänger
+        sender: Absender
+        cc: CC
+        bcc: BCC
+        message: Nachricht
+        subject: Betreff
+        deleted: Gelöscht
+        authorization: Autorisierung
+        created_at: Erstellt am
+        updated_at: Aktualisiert am
+        expires_at: Läuft ab am
+      share/log:
+        created_at: Datum
+      share/file:
+        checksum: Prüfsumme (SHA256)
+      share/file/version:
+        whodunnit: Geändert von
+        created_at: Geändert am
+      user:
+        name: Name
+        email: E-Mail-Adresse
+        quota: Kontingent
+        used: Belegt
+        max: Max.
+        password: Passwort
+        ldap_authentication: LDAP-Authentifizierung
+        api_key: API-Schlüssel
+        level: Stufe
+        filedrop: Filedrop
+    models:
+      configuration: Konfiguration
+      attachment: Anhang
+      filedrop: Filedrop
+      message: Nachricht
+      user: Benutzer
+      download: Download
+  admin:
+    groups:
+      form:
+        bcc_myself: Eine Kopie an mich senden
+        can_change_bcc_myself: Benutzer dieser Gruppe dürfen die Einstellung für eine Kopie an sich selbst ändern
+      index:
+        default_group_assignment: Standard-Gruppenzuweisung
+    users:
+      users:
+        email: E-Mail-Adresse
+        name: Name
+        group: Gruppe
+        max: Max. Dateigröße
+        quota: Kontingent
+        strong_auth: Starke Authentifizierung
+        filedrop: Filedrop
+        last_login_at: Letzte Anmeldung
+        last_login_ip: IP der letzten Anmeldung
+        created: Erstellt
+      form:
+        name_label: Name
+        email: E-Mail-Adresse
+        password: Passwort
+        password_confirmation: Passwort bestätigen
+        max_label: Maximale Dateigröße
+        group: Gruppe
+        strong_auth: Starke Authentifizierung
+        strong_auth_username: Benutzername für starke Authentifizierung
+        api_key: API-Schlüssel
+        filedrop: Filedrop
+  attachments:
+    not_found: Anhang nicht gefunden
+  config:
+    settings: Einstellungen
+    email: E-Mail
+    language_preferences_from_your_browser: Spracheinstellungen Ihres Browsers
+    authentication: Authentifizierung
+    time_zone: Zeitzone
+    current_time_zone: Aktuelle Zeitzone
+    time_zone_from_browser: Von Ihrem Browser erkannte Zeitzone
+    time_zone_config_description: Wenn Sie die Zeitzone auf „Automatisch erkannt“ belassen, wird die von Ihrem Browser erkannte Zeitzone verwendet (alle Zeiten werden dann in dieser Zeitzone angezeigt). Kann Ihr Browser keine Zeitzone erkennen, wird die Standardzeitzone des Systems verwendet. Wenn Ihr Browser nicht die richtige Zeitzone erkennt oder Sie Zeiten in einer anderen Zeitzone sehen möchten, können Sie eine bestimmte Zeitzone festlegen.
+    time_zone_default: Standardzeitzone des Systems
+    email_settings: E-Mail-Einstellungen
+    configuration: Konfiguration
+    local_domains: Lokale Domain
+    ldap_users: Über LDAP authentifizierte Benutzer
+    ldap_users_are_always_local: Über LDAP authentifizierte Benutzer sind immer lokal
+    separated_by_comma: durch Kommas getrennt
+    default_max_file_size: Standardmäßige maximale Dateigröße
+    local_users: Lokale Benutzer
+    external_users: Externe Benutzer
+    allow_registration: Registrierung erlauben
+    allow_registration_desc: Registrierung auf der Anmeldeseite erlauben
+    external_user_account: Externe Empfänger
+    external_user_account_desc: Externe Empfänger müssen ein Konto erstellen
+    allow_users_to_change_expiration: Benutzer dürfen das Ablaufdatum von Dateien ändern
+    authorization: Berechtigung
+    authorization_description: Standardeinstellung dafür, wer Dateien herunterladen darf.
+    file_expiration: Ablauf
+    default_expire_files_after: Dateien laufen standardmäßig ab nach
+    delete_downloaded_files_after: Heruntergeladene Dateien löschen nach
+    branding: Branding
+    company_name: Firmenname
+    custom_stylesheet: Eigenes Stylesheet
+    custom_javascript: Eigenes JavaScript
+    logotype: Logo
+    leave_blank_for_default: leer lassen für Standardwert
+    email_configuration: E-Mail-Konfiguration
+    email_sender_address: Absenderadresse
+    email_host: Basis-URL für E-Mails
+    email_footer: E-Mail-Fußzeile
+    email_relay_host: E-Mail-Relay-Server
+    email_relay_username: Benutzername für E-Mail-Relay
+    email_relay_password: Passwort für E-Mail-Relay
+    port: Port
+    unlicensed_install_some_settings: "Nicht lizenzierte Installation: Branding-Einstellungen sind nur für Systemadministratoren sichtbar"
+    mail_relay_example: "z. B.: mailrelay.domain.de, mx.domain.de:587"
+    ldap: LDAP
+    please_see_the: siehe
+    for_more_information: für weitere Informationen
+    virus_scan: Virenscan
+    virus_scan_description: Dateien auf Viren scannen
+    blocked_file_extensions: Gesperrte Dateierweiterungen
+    default_bcc_myself_label: Kopie an mich senden
+    default_bcc_myself: Standardmäßig eine Kopie an mich senden
+    allow_users_to_change_require_login_label: Authentifizierung erforderlich
+    allow_users_to_change_require_login: Benutzer dürfen „Authentifizierung erforderlich“ ändern
+    permitted_file_extensions_label: Erlaubte Dateierweiterungen
+    delete: Löschen
+    ldap_description: "Aktivieren Sie die LDAP-Authentifizierung von Benutzern und legen Sie einige grundlegende Parameter für die Verbindung zum LDAP-Server fest. Wenn kein Port angegeben ist, wird der Standard-LDAP-Port 389 verwendet (bzw. Port 636, wenn SSL aktiviert ist). Hinweis: Port 3268 wird im Active Directory NICHT zur Authentifizierung verwendet, sondern nur für Abfragen des globalen Adressbuchs. Verwenden Sie stattdessen Port 389/636."
+    ldap_authentication: LDAP-Authentifizierung
+    basic_settings: Grundeinstellungen
+    server: Servername / IP-Adresse
+    username: Benutzername
+    password: Passwort
+    authentication_description: Dieser Benutzer wird für die Verbindung zum LDAP-Server verwendet (leer lassen für anonymen Bind). Der Benutzer benötigt Suchrechte im LDAP-Verzeichnisbaum.
+    search_key: Suchschlüssel
+    search_key_description: Der Suchschlüssel und die Domain werden verwendet, um Benutzer im LDAP-Verzeichnisbaum zu finden. In der folgenden Tabelle sehen Sie, wie Suchschlüssel und Domain zusammenwirken, um einen Benutzer zu finden.
+    search_key_description2: Wenn der LDAP-Suchschlüssel also die E-Mail-Adresse enthält, muss die Domain leer bleiben. Wenn der LDAP-Suchschlüssel nur den Benutzernamen enthält, muss die Domain die Domain der Benutzer enthalten.
+    search_key_defaults: "Für Active Directory ist ein guter Ausgangspunkt: sAMAccountName als LDAP-Suchschlüssel und firma.de (Ihre Domain) als Domain."
+    user_enters: Benutzer gibt ein
+    authorized_ldap_groups: Autorisierte LDAP-Gruppen
+    available_groups: Verfügbare Gruppen
+    default_settings: Standardeinstellungen
+    setting: Einstellung
+    value: Wert
+    description: Beschreibung
+    default_local_max_description: Dies ist die standardmäßige maximale Dateigröße für neue lokale Benutzer. Sie kann für einzelne Benutzer angepasst werden.
+    user_changeable: Vom Benutzer änderbar?
+    non_local: Nicht lokal
+    remote: Extern
+    new_external_recipient_is_nonlocal: Neue externe Empfänger sind
+    email_message_on_top_label: Nachricht oben
+    email_message_on_top: Die Nachricht steht in der E-Mail an die Empfänger über der Dateiliste
+    use_either_permitted_or_blocked_extensions: Sie müssen entweder erlaubte oder gesperrte Erweiterungen wählen, nicht beides
+    invalid_password: Ungültiges Passwort
+    valid_password: Gültiges Passwort
+    test_password_validation: Passwortvalidierung testen
+    custom_password_validation: Benutzerdefinierte Passwortvalidierung
+    custom_password_validation_description: "Dieser reguläre Ausdruck wird für die benutzerdefinierte Passwortvalidierung verwendet. Geben Sie nur den regulären Ausdruck ein, ohne Begrenzungszeichen (nicht mit '/' beginnen und enden). Beispiel: [a-zA-Z0-9]{7,} (Passwörter dürfen dann nur a-z, A-Z und 0-9 enthalten, mindestens 7 Zeichen)"
+    filedrop: Filedrop
+    receive: Empfangen
+    api_settings: API-Einstellungen
+    enable_api_label: API aktivieren
+    enable_api_description: API aktivieren, um den Zugriff über Plug-ins und Skripte zu ermöglichen
+    enable_api_group_config: Weitere API-Einstellungen finden Sie in der Gruppenkonfiguration.
+    api_client_size_override_label: Größengrenze für API-Clients
+    api_client_size_override_description: API-Clients senden Dateien, die größer als diese Größe sind, über die Appliance
+    sso_secret_key: Geheimer SSO-Schlüssel
+    generate_key: Neuen Schlüssel erzeugen
+    sso_replace_confirm: Sind Sie sicher? Wenn Sie den geheimen SSO-Schlüssel ersetzen, funktionieren bestehende SSO-Integrationen nicht mehr.
+    virus_scan_skip_locals: Virenscan für lokale Benutzer überspringen
+    virus_scan_skip_locals_description: Dateien lokaler Benutzer nicht auf Viren scannen
+    virus_scan_permit_unscanned: Nicht gescannte Dateien erlauben
+    virus_scan_permit_unscanned_description: Dateien, die noch nicht auf Viren gescannt wurden, dürfen heruntergeladen werden
+    userdrop: Benutzer-Filedrop
+    user_filedrop_with_random_key: Benutzer-Filedrops mit zufälligem Schlüssel
+    enable_userdrop: Benutzer-Filedrops aktivieren
+    example: Beispiel
+    user_filedrop_with_email: Benutzer-Filedrops mit E-Mail-Adressen
+    enable_userdrop_email: Benutzer-Filedrops mit E-Mail-Adresse aktivieren
+    userdop_email_data_leakage: Damit könnten lokale E-Mail-Adressen ermittelt werden, indem man E-Mail-Adressen über die Filedrop-URL ausprobiert und prüft, welche eine gültige Antwort liefern.
+    userdrop_files_expire_after: Abgelegte Dateien laufen ab nach
+    userdrop_max_filesize: Maximale Dateigröße für Benutzer-Filedrop
+    bruteforce_label: Brute-Force-Schutz
+    bruteforce_description_1: IP-Adresse sperren für
+    bruteforce_description_2: Minuten nach
+    bruteforce_description_3: fehlgeschlagenen Anmeldungen/Registrierungen innerhalb von
+    bruteforce_description_4: Minuten
+    bruteforce_whitelist_label: Brute-Force-Whitelist
+    allowed_admin_networks_label: Administratornetzwerke
+    allowed_admin_networks_description: Administratorzugriff auf diese Hosts und Netzwerke beschränken. Localhost (127.0.0.1, ::1) ist immer erlaubt
+    enable_strong_authentication: Starke Authentifizierung standardmäßig für diese Benutzertypen aktivieren
+    authenticated_username: Authentifizierter Benutzername
+    duo_hostname: Duo-Hostname
+    duo_client_id: Duo-Integrationsschlüssel
+    duo_client_secret: Geheimer Duo-Schlüssel
+    strong_authentication_test: Starke Authentifizierung testen
+    stronger_password: Bitte wählen Sie ein sichereres Passwort.
+    cannot_begin_or_end_with_blank: Das Passwort darf nicht mit einem Leerzeichen beginnen oder enden.
+    at_least_one_invalid_domain: Mindestens eine ungültige Domain
+    at_least_one_invalid_email: Mindestens eine ungültige E-Mail-Adresse
+    email_security_level: Sicherheitsstufe der E-Mail-Zustellung
+    geoip: GeoIP-Abfrage
+    geoip_description: Damit werden Standortdaten von https://geoip.liquidfiles.com heruntergeladen und Karten angezeigt.
+    tooltip:
+      local_domains: Ein lokaler Benutzer kann Dateien an jeden senden. Ein nicht lokaler Benutzer kann Dateien nur an lokale Benutzer senden. Wenn sich ein Benutzer zum ersten Mal anmeldet oder das Konto erstellt wird, wird die Domain der E-Mail-Adresse mit diesen Domains verglichen, um festzustellen, ob der Benutzer als lokal gilt.
+      ldap_users_are_always_local: Jeder Benutzer, der sich über LDAP authentifiziert, gilt automatisch als lokal, unabhängig von der Domain.
+      allow_registration: Erlaubt die Registrierung auf der Anmeldeseite. Anhand der Liste der lokalen Domains wird bestimmt, ob ein neuer Benutzer lokal oder nicht lokal ist.
+      local_user_maxfile: Wenn sich ein lokaler Benutzer registriert oder sich zum ersten Mal über eine externe Authentifizierung anmeldet, wird diese maximale Dateigröße festgelegt.
+      nonlocal_user_maxfile: Wenn sich ein nicht lokaler Benutzer registriert, wird diese maximale Dateigröße festgelegt.
+      delete_downloaded_files_after: Eine heruntergeladene Datei wird so lange aufbewahrt. Der Zeitraum sollte lang genug sein, damit der Empfänger einen anderen Speicherort wählen oder neu starten kann, aber kurz genug, damit der Link nicht an weitere Personen verteilt wird.
+      file_expiration: Erlaubt Benutzern, das Ablaufdatum von Dateien zu ändern. Ist dies nicht aktiviert, erhalten alle Dateien das Standard-Ablaufdatum.
+      default_expire_files_after: Dateien laufen nach diesem Zeitraum ab.
+      blocked_file_extensions: Dateien mit diesen Erweiterungen sperren (Groß-/Kleinschreibung wird nicht beachtet).
+      virus_scan: Alle hochgeladenen Dateien mit dem ClamAV-Virenscanner auf Viren scannen
+      require_authentication_permission: Wenn aktiviert, dürfen Benutzer selbst festlegen, ob eine Authentifizierung erforderlich ist
+      default_bcc_myself: Wenn aktiviert, werden Nachrichten standardmäßig auch an den Benutzer selbst gesendet
+      permitted_file_extensions: "Wenn leer, sind alle Dateierweiterungen erlaubt. Wenn mindestens eine Erweiterung eingetragen ist, sind nur die eingetragenen Dateitypen erlaubt. Beispiel: png, gif, jpg, txt"
+      new_external_recipient_is_nonlocal: Wenn eine Nachricht an einen neuen Empfänger gesendet wird, soll dieser als nicht lokaler Benutzer (damit er antworten kann) oder als externer Benutzer angelegt werden?
+      email_message_on_top: Wenn aktiviert, steht die Nachricht in der E-Mail an die Empfänger über der Dateiliste. Wenn deaktiviert, steht die Dateiliste über der Nachricht.
+      email_sender: Diese E-Mail-Adresse wird als Absender für systemgenerierte E-Mails wie das Zurücksetzen von Passwörtern verwendet. Damit diese E-Mails nicht als Spam markiert werden, muss es sich um eine echte E-Mail-Adresse handeln.
+      email_host: Anhänge verwenden diese URL als Basis-URL. Normalerweise ist das http://hostname.domain oder https://hostname.domain, es kann aber auch https://hostname.domain:4433 sein, wenn Sie Portweiterleitung auf Ihrer Firewall verwenden, über die Benutzer sich mit der LiquidFiles-Appliance verbinden.
+      email_footer: Diese Signatur wird an alle ausgehenden E-Mails angehängt.
+      email_relay: Diesen Mailserver als Relay für ausgehende E-Mails verwenden.
+      email_relay_username: Konto für die Anmeldung am E-Mail-Relay-Server
+      email_relay_password: Passwort des Kontos für die Anmeldung am E-Mail-Relay-Server
+  date:
+    formats:
+      default: "%d.%m.%Y"
+      short: "%d.%m."
+      medium: "%d.%m.%Y"
+      long: "%d.%m.%Y"
+  time:
+    am: vorm.
+    pm: nachm.
+    formats:
+      default: "%d.%m.%Y %H:%M:%S %z"
+      short: "%d.%m. %H:%M"
+      medium: "%d.%m.%Y %H:%M"
+      long: "%d.%m.%Y %H:%M"
+  downloads:
+    download_id: Download-ID
+    index:
+      download_log_title: Downloads
+      download_log_description: Wer hat was wann heruntergeladen
+      paginator_entry_name: Downloads
+    show:
+      no_map_for_reserved_address: Für reservierte Adressen kann keine Karte angezeigt werden
+  filedrop:
+    filedrop: Filedrop
+    no_such_filedrop: Dieser Filedrop existiert nicht
+    invalid_filedrop_url: Ungültige Filedrop-URL
+    invalid_filedrop_url_description: Unter dieser URL gibt es keinen Filedrop. Bitte prüfen Sie die URL und versuchen Sie es erneut.
+    label: Filedrops
+    mb: MB
+    name: Name
+    name_description: Kurzname, der auch in der URL verwendet wird (z. B. /filedrop/name)
+    title: Titel
+    title_description: Titel oben auf der Seite
+    description: Beschreibung
+    description_description: Beschreibung unter dem Titel
+    user: Empfangender Benutzer
+    user_description: Jeder lokale Benutzer kann als Empfänger festgelegt werden
+    cc: CC
+    cc_description: "(durch Kommas getrennt) Eine Kopie an diese Adressen senden"
+    expires_after: Läuft ab nach
+    expires_after_description: Tagen
+    max_filesize: Maximale Dateigröße
+    max_filesize_description: MB
+    reset_filedrop: Filedrop-URL zurücksetzen
+    filedrop_reset_warning: Sind Sie sicher? Wenn Sie die Filedrop-URL zurücksetzen, müssen Sie die URL überall ersetzen, wo Sie sie veröffentlicht haben.
+    permitted_extensions: Erlaubte Erweiterungen
+    permitted_extensions_description: Nur diese Dateitypen sind erlaubt
+    blocked_extensions: Gesperrte Erweiterungen
+    blocked_extensions_description: Diese Dateitypen werden gesperrt
+    demo_license_warning_standard: Für Filedrops im Produktivbetrieb ist eine Lizenz erforderlich. Bitte führen Sie ein Upgrade auf eine Pro-Lizenz durch, um Filedrop zu nutzen.
+    max_one_during_demo: Während der Demo oder mit einer Standard-Lizenz können Sie maximal einen Filedrop einrichten
+    filedrop_info: Mit einem Filedrop können Ihre Kunden Ihnen Dateien senden, ohne sich zu authentifizieren oder vorher etwas einzurichten. Jeder Filedrop hat eine feste URL, auf die Sie von Webseiten oder in E-Mail-Signaturen verlinken können. Wenn jemand eine Datei im Filedrop ablegt, wird sie automatisch an einen vorab festgelegten Benutzer gesendet.
+    authorization: Berechtigung
+    authorization_description: wer die im Filedrop abgelegten Dateien herunterladen darf
+    you_will_be_notified: Sie erhalten eine Download-Bestätigung, wenn Ihre Dateien heruntergeladen wurden.
+    require_authentication: Für diesen Filedrop ist eine Authentifizierung erforderlich. Bitte geben Sie das Passwort ein, um fortzufahren.
+    authenticate: Authentifizieren
+    authentication_failed: Authentifizierung fehlgeschlagen
+    require_validation: Für diesen Filedrop ist eine Authentifizierung oder Bestätigung Ihrer E-Mail-Adresse erforderlich.
+  filelink:
+    filelink: FileLink
+    filelinks: FileLinks
+    filelink_title: FileLink
+    filelink_description: Ein FileLink ist ein Link zu einer einzelnen Datei. Sie können diesen Link an jeden senden, ohne eine Nachricht zu erstellen oder Empfänger festzulegen. Nur Personen, denen Sie den zufälligen Link gesendet haben, können die Datei herunterladen.
+    expired_or_nonexistent_title: Ungültiger FileLink
+    expired_or_nonexistent: Dieser FileLink ist abgelaufen oder existiert nicht. Bitte wenden Sie sich an den Absender, um einen neuen Link zu erhalten.
+    existing_filelinks: Vorhandene FileLinks
+    new_filelink: Neuer FileLink
+    available_files: Verfügbare Dateien
+    filename: Dateiname
+    filesize: Dateigröße
+    expires_at: Läuft ab
+    link: Link
+    checksum: Prüfsumme
+    copy_link_to_clipboard: FileLink in die Zwischenablage kopieren
+    expire_link_at: Link läuft ab am
+    you_have_no_filelinks: Sie haben keine FileLinks. Fügen Sie einen neuen FileLink hinzu oder erstellen Sie einen aus einer verfügbaren Datei.
+    you_have_no_files_available: Es sind keine zuvor gesendeten Dateien verfügbar. Sobald Sie mindestens eine Datei gesendet haben, können Sie sie hier auswählen, um daraus einen FileLink zu erstellen.
+    create_link: Link erstellen
+    invalid_file: Ungültige Datei, FileLink kann nicht erstellt werden
+    delete: Löschen
+    delete_link_warning: Möchten Sie diesen FileLink wirklich löschen?
+    could_not_delete_link: Der FileLink konnte nicht gelöscht werden. Link nicht gefunden!
+    filelink_deleted: FileLink gelöscht!
+    select_file: Datei auswählen
+    send_download_receipts: Download-Bestätigungen senden
+    disabled: FileLinks sind deaktiviert. Bitte wenden Sie sich an einen Administrator
+    unauthorized: Sie sind nicht berechtigt, FileLinks zu verwenden
+    require_authentication: Authentifizierung erforderlich
+    filelink_require_authentication: Für diesen FileLink müssen Sie sich authentifizieren
+    filelink_url: FileLink-URL
+    expired: Abgelaufen
+    filelink_expired: FileLink abgelaufen
+    select_from_available_files: Sie können auch aus einer dieser vorhandenen Dateien einen FileLink erstellen.
+    downloads: Downloads
+    authentication_failed: Authentifizierung fehlgeschlagen
+    password_label_html: Passwort <small class="text-muted">(optional)</small>
+    password_present_html: Für diesen FileLink ist ein Passwort festgelegt.<br>Sie können es entfernen, indem Sie ein leeres Passwort speichern.
+    password_not_present: Es wurde kein Passwort festgelegt.
+    copy_to_clipboard: FileLink in die Zwischenablage kopieren
+    add_file: Datei hinzufügen
+  ftpdrop:
+    create:
+      ftpdrop: FTPdrop
+  html_editor:
+    font:
+      bold: Fett
+      italic: Kursiv
+      underline: Unterstrichen
+      clear: Formatierung entfernen
+      height: Zeilenhöhe
+      name: Schriftart
+      strikethrough: Durchgestrichen
+      subscript: Tiefgestellt
+      superscript: Hochgestellt
+      size: Schriftgröße
+    image:
+      image: Bild
+      insert: Bild einfügen
+      resize_full: Originalgröße
+      resize_half: Halbe Größe
+      resize_quarter: Viertelgröße
+      float_left: Links ausrichten
+      float_right: Rechts ausrichten
+      float_none: Keine Ausrichtung
+      shape_rounded: "Form: abgerundet"
+      shape_circle: "Form: Kreis"
+      shape_thumbnail: "Form: Miniatur"
+      shape_none: "Form: keine"
+      url: Bild-URL
+      remove: Bild entfernen
+    link:
+      link: Link
+      insert: Link einfügen
+      unlink: Link entfernen
+      edit: Bearbeiten
+      text_to_display: Anzuzeigender Text
+      url: Auf welche URL soll dieser Link verweisen?
+      open_in_new_window: In neuem Fenster öffnen
+    table:
+      table: Tabelle
+    hr:
+      insert: Horizontale Linie einfügen
+    style:
+      style: Stil
+      normal: Normal
+      blockquote: Zitat
+      pre: Code
+      h1: Überschrift 1
+      h2: Überschrift 2
+      h3: Überschrift 3
+      h4: Überschrift 4
+      h5: Überschrift 5
+      h6: Überschrift 6
+    lists:
+      unordered: Aufzählung
+      ordered: Nummerierte Liste
+    options:
+      help: Hilfe
+      fullscreen: Vollbild
+      codeview: Codeansicht
+    paragraph:
+      paragraph: Absatz
+      outdent: Einzug verkleinern
+      indent: Einzug vergrößern
+      left: Linksbündig
+      center: Zentriert
+      right: Rechtsbündig
+      justify: Blocksatz
+    color:
+      recent: Zuletzt verwendete Farbe
+      more: Weitere Farben
+      background: Hintergrundfarbe
+      foreground: Textfarbe
+      transparent: Transparent
+      set_transparent: Transparent setzen
+      reset: Zurücksetzen
+      reset_to_default: Auf Standard zurücksetzen
+    shortcut:
+      shortcuts: Tastenkombinationen
+      close: Schließen
+      text_formatting: Textformatierung
+      action: Aktion
+      paragraph_formatting: Absatzformatierung
+      document_style: Dokumentstil
+      extra_keys: Weitere Tasten
+    history:
+      undo: Rückgängig
+      redo: Wiederholen
+  invite:
+    invite_user: Benutzer einladen
+    description: Sie können Benutzer einladen, Dateien mit Ihnen zu teilen. Nachdem Sie ihre Daten eingegeben haben, erhalten sie eine E-Mail mit Anweisungen zum Abschließen der Registrierung.
+    send_invite: Einladung senden
+    name_placeholder: Vollständiger Name
+    invitation_sent: Einladung gesendet
+    not_permitted_to_invite_users: Sie sind nicht berechtigt, Benutzer einzuladen.
+    invalid_email: Ungültige E-Mail-Adresse
+  link:
+    show:
+      set_password: Passwort festlegen
+      download: Herunterladen
+      downloads_and_info: Alle Downloads und weitere Informationen
+    authenticate:
+      show:
+        title: FileLink-Passwort
+        authenticate: Authentifizieren
+        require_authentication: Um diesen FileLink zu öffnen, müssen Sie das erforderliche Passwort eingeben.
+      create:
+        authentication_failed: Authentifizierung fehlgeschlagen.
+    downloads:
+      index:
+        back_to_filelink: Zurück zum FileLink
+    link_downloads:
+      latest_downloads: Letzte Downloads (%{count} von insgesamt %{total})
+  menu:
+    shares: Shares
+    messages: Nachrichten
+    send_files: Verfassen
+    users: Benutzer
+    active_transfers: Aktive Übertragungen
+    configuration: Konfiguration
+    system: System
+    message_list: Nachrichtenliste
+    settings: Einstellungen
+    admin: Administration
+    account: Konto
+    inbox: Posteingang
+    sent_messages: Gesendet
+    downloads: Download-Protokoll
+    filelink: FileLinks
+    secure_messages: Sichere Nachrichten
+    support: Support
+  message:
+    message_sent: Nachricht gesendet
+    not_found: Nachricht nicht gefunden
+    message_not_found_header: Nachricht nicht gefunden!
+    message_not_found_description: Bitte bitten Sie den Absender, diese Nachricht erneut zu senden.
+    previous_recipients: Frühere Empfänger
+    contacts: Kontakte
+    is_not_permitted: ist nicht erlaubt
+    not_permitted_to_delete_messages: Sie sind nicht berechtigt, Nachrichten zu löschen
+    is_not_in_any_of_the_allowed_domains: gehört zu keiner der erlaubten Domains
+    is_not_in_any_of_the_allowed_groups: gehört zu keiner der erlaubten Gruppen
+    attach_1_file: Sie müssen mindestens eine Datei anhängen
+    too_many_files: Zu viele Dateien angehängt. Sie können maximal %{count} Dateien an eine Nachricht anhängen.
+    attached_files: Angehängte Dateien
+    expired: Die Nachricht ist abgelaufen
+    authorize:
+      show:
+        title: Bitte melden Sie sich an, um die sichere Nachricht zu öffnen
+        authenticate_description_html: Sie sind dabei, eine sichere Nachricht anzuzeigen. Dazu müssen Sie sich zuerst anmelden. Bitte geben Sie Ihre E-Mail-Adresse ein oder melden Sie sich an, um fortzufahren.<br>Wenn Sie kein Konto auf diesem System haben, geben Sie Ihre E-Mail-Adresse ein. Wir senden Ihnen dann einen sicheren Link zur Bestätigung Ihrer E-Mail-Adresse.
+        unauthenticated_html: <h4>Ungültiger Benutzername oder ungültiges Passwort</h4><p>Bitte geben Sie Ihren Benutzernamen und Ihr Passwort ein. Sie können Ihr Passwort über die Schaltfläche „Passwort zurücksetzen“ unten zurücksetzen.</p>
+        unauthorized_to_view_check_email_html: <h4>Nicht berechtigte E-Mail-Adresse</h4><p>Bitte prüfen Sie, ob die sichere Nachricht [<span class="font-monospace fw-bold">%{message_id}</span>] an Sie gesendet wurde, und geben Sie die E-Mail-Adresse genau so ein, wie die Nachricht gesendet wurde.</p><p>Wenn Ihre E-Mail-Adresse zum Beispiel sowohl max.mustermann@firma.de als auch mmustermann@firma.de lautet, kann dieses System nicht wissen, dass es sich um dieselbe Adresse handelt. Wurde die sichere Nachricht an max.mustermann@firma.de gesendet, müssen Sie hier diese Adresse eingeben.</p><p>Wenn Sie unsicher sind, wenden Sie sich bitte an den Absender der sicheren Nachricht.</p>
+    errors:
+      not_authorized_to_view_message: Sie sind nicht berechtigt, die Nachricht mit der ID %{message_id} anzuzeigen. Bitte prüfen Sie, ob diese Nachricht an Sie gesendet wurde.
+      private_message_requires_authentication: Private Nachrichten erfordern eine Authentifizierung
+    attachments:
+      download_attachment_details_csv: Anhangdetails herunterladen (CSV)
+      attachment:
+        fileinfo: Dateiinformationen
+        file_size: Dateigröße
+        content_type: Inhaltstyp
+        checksum: Prüfsumme
+        virus_status: Virenstatus
+    compose:
+      options_permission:
+        authentication_required: Authentifizierung erforderlich
+        authentication_not_required: Authentifizierung nicht erforderlich
+        require_authentication_description: Müssen sich Empfänger authentifizieren, um auf diese Nachricht zuzugreifen?
+        access_restriction_html: Zugriffsbeschränkung<br><small class="text-muted">Wer darf auf diese Nachricht zugreifen?</small>
+        recipients_only_html: Nur<br>Empfänger
+        recipients_plus_locals_html: Empfänger<br>+ lokale Benutzer
+        recipients_plus_domains_html: Empfänger<br>+ Domains
+        anyone_secret_link_html: Jeder<br>(geheimer Link)
+    unavailable:
+      header: Nachricht nicht verfügbar
+      description: Diese Nachricht ist abgelaufen, wurde gelöscht, existiert nicht oder ist nicht mehr verfügbar. Bitte bitten Sie den Absender, die Nachricht erneut zu senden.
+    downloads:
+      index:
+        download_log_title: Download-Protokoll
+        message_id: Nachrichten-ID
+        paginator_entry_name: Downloads
+      download:
+        details: Details
+      not_found:
+        title: Nachricht oder Download nicht gefunden
+        description_html: Die Nachricht oder der Download wurde nicht gefunden, oder Sie sind nicht berechtigt, sie anzuzeigen
+    temporary_user:
+      create:
+        invalid_temporary_user: Ungültiges Passwort. Bitte prüfen Sie die E-Mail mit Ihrem temporären Passwort oder fordern Sie ein neues temporäres Passwort an.
+        temporary_user_expired: Dieses temporäre Passwort ist abgelaufen. Ein neues temporäres Passwort wurde an Ihre E-Mail-Adresse gesendet. Bitte prüfen Sie Ihren Posteingang und verwenden Sie das neue temporäre Passwort.
+        not_authorized_to_view_message: Sie sind nicht berechtigt, die Nachricht mit der ID %{message_id} anzuzeigen. Bitte prüfen Sie, ob diese Nachricht an Sie gesendet wurde.
+      show:
+        title: Bitte geben Sie Ihr temporäres Passwort ein
+        description_html: "Sie sind dabei, eine sichere Nachricht anzuzeigen. Um diese Nachricht zu öffnen, müssen Sie Ihr temporäres Passwort eingeben.<br>Ein temporäres Passwort ist eine eindeutige, zufällige Zeichenfolge, die Sie identifiziert. Sie haben das temporäre Passwort in einer separaten E-Mail erhalten (Betreff: Temporäres Passwort)."
+        what_is_this: Was ist das?
+        login: Anmelden
+        submit: Temporäres Passwort prüfen
+        submit_email: Senden
+        if_you_have_account: "(wenn Sie bereits ein Konto haben)"
+        request_temporary_user_header: Neues temporäres Passwort anfordern
+        request_temporary_user_description_html: Sie können ein neues temporäres Passwort anfordern, um diese Nachricht zu öffnen. Bitte geben Sie unten Ihre E-Mail-Adresse ein, um ein neues temporäres Passwort für diese sichere Nachricht anzufordern.
+        info_header: Informationen zum temporären Passwort
+        info_body_html: "<p>Ein temporäres Passwort ist eine eindeutige Folge aus Ziffern und Buchstaben, zum Beispiel:</p><pre><code>3ynp-7FKa-pZS9</code></pre><p><em>Dieses temporäre Passwort ist nur ein Beispiel, damit Sie sehen, wie es aussieht. Es kann nicht verwendet werden.</em></p><p>In Ihrem Posteingang finden Sie <strong>zwei E-Mails</strong>: die E-Mail mit der sicheren Nachricht und eine E-Mail mit einem <strong>Betreff, der beginnt mit: Temporäres Passwort</strong>. Diese E-Mail enthält Ihr eindeutiges temporäres Passwort für dieses System.</p><p>Wenn Sie keine E-Mail mit einem temporären Passwort erhalten haben, haben Sie möglicherweise bereits ein Konto auf diesem System. Klicken Sie in diesem Fall auf „Anmelden“.</p><p>Wenn Sie glauben, dass Sie ein temporäres Passwort hätten erhalten sollen, dies aber nicht der Fall ist, klicken Sie auf „Temporäres Passwort anfordern“, um ein neues zu erhalten.</p>"
+        email_address: E-Mail-Adresse
+        email_not_permitted: Diese E-Mail-Adresse ist nicht berechtigt, diese sichere Nachricht anzuzeigen.
+        email_not_permitted_description_html: <p>Bitte prüfen Sie die E-Mail mit der sicheren Nachricht, die Sie erhalten haben, und geben Sie die E-Mail-Adresse genau so ein, wie die Nachricht gesendet wurde.</p><p>Wenn Ihre E-Mail-Adresse zum Beispiel sowohl max.mustermann@firma.de als auch mmustermann@firma.de lautet, kann dieses System nicht wissen, dass es sich um dieselbe Adresse handelt. Wurde die sichere Nachricht an max.mustermann@firma.de gesendet, müssen Sie hier diese Adresse eingeben.</p><p>Wenn Sie unsicher sind, wenden Sie sich bitte an den Absender der sicheren Nachricht.</p>
+        email_can_login: Sie haben bereits ein Konto auf diesem System
+        email_can_login_description_html: <p>Sie können sich mit dieser E-Mail-Adresse und Ihrem Passwort an diesem System anmelden.</p><p>Bitte klicken Sie unten auf „Anmelden“, um sich mit Ihrem bestehenden Konto anzumelden.</p>
+        temporary_user_delivered_header: Temporäres Passwort gesendet
+        temporary_user_delivered_description_html: <p>Ein temporäres Passwort wurde an Ihre E-Mail-Adresse gesendet. Bitte prüfen Sie Ihren Posteingang, schließen Sie dieses Pop-up und geben Sie das temporäre Passwort ein.</p>
+    reply:
+      re: "AW:"
+      wrote: schrieb
+      show:
+        title: Auf sichere Nachricht antworten
+        from: Von
+        reply: Antworten
+        reply_all: Allen antworten
+      options:
+        options_description: Bitte beachten Sie, dass alle Optionen von der ursprünglichen Nachricht übernommen werden.
+    show:
+      back: Zurück
+      message_header: Nachrichtenkopf
+      reply: Antworten
+  messages:
+    sent:
+      skipped_file_not_found: Übersprungen - Datei nicht gefunden
+      show:
+        sent_title: Gesendet
+        sent_description: Von Ihnen gesendete Nachrichten
+        paginator_entry_name: Nachrichten
+    attachments:
+      download_cmd:
+        unauthorized:
+          header: Nicht berechtigt
+          body: Sie sind nicht berechtigt, diese Datei herunterzuladen. Bitte bitten Sie den Absender, Ihnen die Datei erneut zu senden.
+          back: Zurück
+        exceeded:
+          header: Download-Limit überschritten
+          body: Das Download-Limit für diese Datei wurde überschritten. Bitte bitten Sie den Absender, Ihnen die Datei erneut zu senden.
+          back: Zurück
+    download_zip:
+      unauthorized:
+        header: Nicht berechtigt
+        body: Sie sind nicht berechtigt, dieses Archiv herunterzuladen. Bitte bitten Sie den Absender, Ihnen die Datei erneut zu senden.
+        back: Zurück
+      exceeded:
+        header: Download-Limit überschritten
+        body: Das Download-Limit für eine oder mehrere Dateien in diesem Archiv wurde überschritten. Bitte bitten Sie den Absender, Ihnen die Datei erneut zu senden.
+        back: Zurück
+    message:
+      reply: Antworten
+      reply_all: Allen antworten
+  models:
+    user:
+      no_need_to_create_local_user: Es ist nicht nötig, einen lokalen Benutzer zu erstellen
+      license_exceeded: Lizenzlimit überschritten
+  notifier:
+    activate_user_subject: "[%{hostname}] Konto aktivieren"
+    user_activation: Benutzeraktivierung
+    please_visit_the_following_url_to_activate: Bitte klicken Sie auf den folgenden Link, um Ihr Konto zu aktivieren
+    the_following_files_are_attached: Die folgenden Dateien sind an diese Nachricht angehängt
+    please_visit_the_following_url: Bitte klicken Sie auf diesen Link, um die Anhänge herunterzuladen
+    attachments_are_available: Die Anhänge sind verfügbar bis
+    message_id: "Nachrichten-ID: %{id}"
+    email_password_reset_subject: Passwort zurücksetzen
+    download_receipt_subject: "Download-Bestätigung [ID: %{message_id}]"
+    a_file_that_you_sent: Eine von Ihnen gesendete Datei wurde heruntergeladen. Bitte bewahren Sie diese E-Mail als Nachweis des Downloads auf.
+    recipient: Empfänger
+    filename: Dateiname
+    time_of_download: Zeitpunkt des Downloads
+    downloaded_from: Heruntergeladen von
+    download_receipt: Download-Bestätigung
+    user_created:
+      account_created: Konto erstellt
+      subject: "[%{hostname}] Konto erstellt"
+      message: "Für Sie steht ein sicherer Anhang bereit. Zum Herunterladen müssen Sie sich authentifizieren. Bitte klicken Sie auf den folgenden Link, um sich zu registrieren:"
+  outlook:
+    messages:
+      new:
+        attachments_header: Anhänge
+        attachments_hint: Sie können Dateien anhängen, indem Sie sie in den Bereich unten ziehen oder auf die Schaltfläche „Dateien anhängen“ klicken.
+        add_to_message: Zur Nachricht hinzufügen
+      attachments:
+        attach_files: Dateien anhängen
+        drop_files_here: Dateien hier ablegen...
+      options:
+        recipients_can_reply: Empfänger können antworten
+        send_copy_to_myself: Eine Kopie an mich senden
+        private_message: Private Nachricht
+        private_message_required_auth_error: Für eine private Nachricht müssen Sie den Modus „Authentifizierung erforderlich“ verwenden.
+      options_authorization:
+        authentication_authorization_title_html: Authentifizierung &amp; Autorisierung
+        authentication_select_title: Authentifizierung auswählen
+        authentication_required: Authentifizierung erforderlich
+        authentication_not_required: Authentifizierung nicht erforderlich
+        authorization_select_title: Autorisierung auswählen
+        recipients_only: Nur Empfänger
+        recipients_locals: Empfänger + lokale Benutzer
+        recipients_domains: Empfänger + Domains
+        anyone: Jeder (geheimer Link)
+      options_expiration:
+        message_expires: Nachricht läuft ab
+        message_expires_after: Nachricht läuft ab nach
+  pagination:
+    first: "&laquo; Erste"
+    last: Letzte &raquo;
+    previous: "&lsaquo; Zurück"
+    next: Weiter &rsaquo;
+    truncate: "&hellip;"
+  requests:
+    title: Dateianfrage
+    file_request: Dateianfrage
+    files_sent: Dateien gesendet, vielen Dank!
+    request_file: Datei anfordern
+    file_requests: Dateianfragen
+    description: Mit einer Dateianfrage bitten Sie jemanden, Ihnen Dateien zu senden. Nachdem Sie die Daten eingegeben haben, erhält die Person eine E-Mail mit einem eindeutigen Link, über den sie Ihnen die angeforderten Dateien senden kann.
+    file_request_not_found: Dateianfrage nicht gefunden
+    file_request_expired: Dateianfrage abgelaufen
+    file_request_already_used: Dateianfrage wurde bereits verwendet
+    file_request_sent: Dateianfrage gesendet
+    not_permited: Sie sind nicht berechtigt, Dateianfragen zu verwenden
+    multiuse: Mehrfachnutzung - dieser Link für die Dateianfrage darf mehrmals verwendet werden
+    invalid_recipient: Ungültiger Empfänger, diese Dateianfrage wurde an jemand anderen gesendet
+    invalid_user: Dies ist nicht Ihre Dateianfrage
+    index:
+      title: Dateianfragen
+      new_file_request: Neue Dateianfrage
+      multiuse: Mehrfachnutzung
+      responded_to: Beantwortet
+      hide_expired: Abgelaufene und verwendete ausblenden
+      show_expired: Abgelaufene und verwendete anzeigen
+    request:
+      resend: Erneut senden
+      are_you_sure_you_want_to_delete: Möchten Sie diese Dateianfrage wirklich löschen?
+    popup:
+      from: Von
+      to: An
+      subject: Betreff
+      message: Nachricht
+    resend:
+      request_resent: Die Dateianfrage wurde erneut gesendet
+    new:
+      request_expires: Anfrage läuft ab
+  send:
+    send: Senden
+    sent: Gesendet
+    recipients: An
+    send_as: Senden als
+    you_can_only_send_files_to_yourself: Sie können Dateien nur an sich selbst senden
+    subject: Betreff
+    subject_placeholder: Betreff
+    attachments: Anhänge
+    max_file_size: "Maximale Größe der Anhänge: %{filesize} MB"
+    upload_queue: Upload-Warteschlange
+    remove: Entfernen
+    cancel_all: Alle abbrechen
+    cancel_all_uploads: Alle Uploads abbrechen
+    message: Nachricht
+    message_placeholder: Nachricht
+    done_editing_please_send: Ich bin mit der Bearbeitung fertig. Bitte senden, sobald alle Uploads abgeschlossen sind
+    files_sent_successfully: Dateien erfolgreich gesendet
+    you_need_at_least_one_recipient: Sie benötigen mindestens einen Empfänger
+    you_need_at_least_one_attachment: Sie benötigen mindestens einen Anhang
+    options: Optionen
+    cc: CC
+    bcc: BCC
+    bcc_message_description: BCC-Empfänger werden den anderen Empfängern nicht angezeigt
+    add_cc: CC hinzufügen
+    add_bcc: BCC hinzufügen
+    bcc_myself: Eine Kopie an mich senden
+    require_login: Anmeldung zum Herunterladen von Dateien erforderlich
+    only_specified_recipients_can_download: Nur angegebene Empfänger können die Anhänge herunterladen
+    anyone_can_download: Jeder kann die Anhänge herunterladen
+    expires_in: Anhänge können heruntergeladen werden für
+    expires_at: Anhänge laufen ab am
+    send_options: Sendeoptionen
+    to: An
+    from: Von
+    filename: Dateiname
+    filesize: Dateigröße
+    downloaded_at: Heruntergeladen am
+    message_sent: Nachricht gesendet
+    message_expires: Nachricht läuft ab
+    message_expires_after: Nachricht läuft ab nach
+    message_expires_after_description: Die Berechnung erfolgt pro Datei. Wenn Sie 2 Dateien senden, die nach 1 Download ablaufen, kann jeder Empfänger jede Datei einmal herunterladen.
+    downloads_per_recipient: Downloads pro Empfänger
+    total_downloads: Downloads insgesamt
+    file_not_downloaded: Es wurden keine Anhänge heruntergeladen
+    at_least_one_invalid_extension: Mindestens einer der Anhänge hat eine ungültige Erweiterung
+    invalid_filetype: Ungültige Erweiterung
+    blocked_extension: "Ungültige Erweiterung. Sie können keine Dateien mit den folgenden Erweiterungen hochladen: %{extensions}"
+    permitted_extensions: "Erlaubte Erweiterungen sind: %{filetypes}"
+    already_selected: Diese Datei wurde bereits ausgewählt
+    maximum_filesize_exceeded: Maximale Dateigröße überschritten
+    contains_virus: "%{filename} enthält einen VIRUS: %{virus}"
+    limited_by_browser: Begrenzt durch den Browser
+    limited_by_disk: Begrenzt durch den Speicherplatz
+    limited_by_system_quota: Begrenzt durch das Systemkontingent
+    limited_by_group_quota: Begrenzt durch das Gruppenkontingent
+    limited_by_quota: Begrenzt durch das Kontingent
+    limited_per_message: Limit pro Nachricht
+    system_quota_exceeded: Systemkontingent überschritten
+    group_quota_exceeded: Gruppenkontingent überschritten
+    quota_exceeded: Kontingent überschritten
+    no_available_quota: Kontingent überschritten. Bitte löschen Sie einige Dateien, um fortzufahren
+    not_authorized_to_send: Sie sind nicht berechtigt, an %{email} zu senden
+    public_url: Öffentliche URL
+    message_url: Nachrichten-URL
+    authorization: Autorisierung
+    insufficient_disk_space: Nicht genügend Speicherplatz
+    active_transfers: Aktive Übertragungen
+    view_log: Protokoll anzeigen
+    previously_sent_attachments: Zuvor gesendete Anhänge
+    has_not_downloaded: "%{recipient} hat noch keine der Dateien heruntergeladen"
+    authentication: Authentifizierung
+    required: Erforderlich
+    disabled: Deaktiviert
+    require_authentication_tooltip_html: <li>Der Empfänger muss sich mit Benutzername und Passwort anmelden, um die Datei herunterzuladen.</li> <li>Sie erhalten eine Bestätigung, wenn die Datei heruntergeladen wird.</li>
+    dont_require_authentication_tooltip_html: <li>Der Empfänger muss sich zum Herunterladen der Datei nicht anmelden.</li> <li>Sie erhalten eine Bestätigung, wenn die Datei heruntergeladen wurde, aber nicht, von wem (das ist nicht bekannt).</li> <li>Sie erhalten nur eine Bestätigung, wenn der erste Empfänger die Datei herunterlädt.</li>
+    authenticate_link_description: Sie müssen sich anmelden, bevor Sie diesen FileLink öffnen können.
+    unauthorized: Sie sind nicht berechtigt, diese Nachricht anzuzeigen.
+    unauthenticated: Falsches Passwort
+    incorrect_login_or_demo: Falsches Passwort oder Lizenzlimit erreicht
+    email_authorization_message: Vielen Dank. Um zu bestätigen, dass dies Ihre E-Mail-Adresse ist, wurde eine E-Mail mit einem Bestätigungscode gesendet. Geben Sie den Bestätigungscode unten ein oder klicken Sie auf den Link in der E-Mail, um zur Nachricht zu gelangen.
+    email_authorization_link: Vielen Dank. Um zu bestätigen, dass dies Ihre E-Mail-Adresse ist, wurde eine E-Mail mit einem Bestätigungscode gesendet. Geben Sie den Bestätigungscode aus der E-Mail unten ein oder klicken Sie auf den Link in der E-Mail, um zum FileLink zu gelangen.
+    email_authorization_message_create_account: Vielen Dank. Da Sie noch kein Konto auf diesem System haben, wurde eine E-Mail mit einem Bestätigungscode gesendet, um zu bestätigen, dass dies Ihre E-Mail-Adresse ist. Bitte geben Sie den Bestätigungscode unten ein oder klicken Sie auf den Link in der E-Mail, um Ihre E-Mail-Adresse zu bestätigen. Anschließend werden Sie aufgefordert, ein Konto zu erstellen, und gelangen dann zur Nachricht.
+    email_authorization_link_create_account: Vielen Dank. Da Sie noch kein Konto auf diesem System haben, wurde eine E-Mail mit einem Bestätigungscode gesendet, um zu bestätigen, dass dies Ihre E-Mail-Adresse ist. Bitte geben Sie den Bestätigungscode aus der E-Mail unten ein oder klicken Sie auf den Link in der E-Mail, um Ihre E-Mail-Adresse zu bestätigen. Anschließend werden Sie aufgefordert, ein Konto zu erstellen, und gelangen dann zum FileLink.
+    authorize: Autorisieren
+    authenticate: Anmelden
+    sending: Wird gesendet...
+    abort_transfer: Übertragung abbrechen
+    files_to_big: Datei(en) zu groß
+    only_specified_recipients: Nur angegebene Empfänger haben Zugriff
+    only_specified_recipients_and_local_users: Nur angegebene Empfänger und lokale Benutzer haben Zugriff
+    only_specified_recipients_and_domains: Nur angegebene Empfänger und Benutzer ihrer Domain haben Zugriff
+    anyone_after_authentication: Jeder (mit Zugriff auf den zufälligen Link) hat Zugriff
+    no_recipient_validation: Keine Empfängerprüfung
+    anyone_can_access: Jeder hat Zugriff
+    anyone: Jeder
+    no_authentication: Keine Authentifizierung
+    can_download: können herunterladen
+    not_yet_scanned: wird gerade auf Viren gescannt. Bitte versuchen Sie es in Kürze erneut. %{queue} in der Warteschlange
+    was_infected: "war mit dem Virus %{virus} infiziert und wurde gelöscht"
+    deleted_or_expired: Gelöscht oder abgelaufen
+    im_done_editing: Automatisch senden, sobald die aktuellen Uploads abgeschlossen sind
+    download_all: Alle herunterladen
+    zipped_archive: ZIP-Archiv
+    message_id: Nachrichten-ID
+    overall_progress: Gesamtfortschritt
+    abort: Abbrechen
+    limitations: Einschränkungen
+    max_size: Maximale Größe
+    add_files: Dateien hinzufügen...
+    add_folder: Ordner hinzufügen...
+    no_attachment_added: Kein Anhang hinzugefügt
+    you_need_to_add_at_least_one_file: Sie müssen mindestens eine Datei hinzufügen.
+    private_message_or_attached_files: Sie müssen entweder „Private Nachricht“ aktivieren oder mindestens eine Datei anhängen.
+    no_runtime_found: Keine Laufzeitumgebung gefunden, Dateien können nicht gesendet werden
+    runtime_check_title: Keine Laufzeitumgebung gefunden
+    selected: ausgewählt
+    file_size_error: Fehler bei der Dateigröße
+    remaining: verbleibend
+    attached_files: Angehängte Dateien
+    show_message: Nachricht anzeigen
+    can_be_max: darf höchstens %{days} Tage in der Zukunft liegen
+    not_ready: Noch nicht zum Download bereit
+    download_info: Download-Informationen
+    browser: Browser
+    platform: Plattform
+    operating_system: Betriebssystem
+    location: Standort
+    download_details: Download-Details
+    download_information_not_found: Download-Informationen wurden nicht gefunden.
+    add: Hinzufügen
+    select_existing_files: Vorhandene Dateien auswählen
+    add_existing_files: Vorhandene Dateien hinzufügen
+    add_existing_description: Diese Dateien wurden bereits gesendet. Sie können sie erneut senden.
+    zip_disabled: ZIP deaktiviert
+    zip_disabled_description_exceeded: Die maximale Anzahl an Downloads wurde für mindestens einen Anhang überschritten.
+    spinner_info_html: <strong>Ihre Nachricht ist bereit zum Senden</strong>. Einige Dateien werden noch im Hintergrund verarbeitet, aber Sie müssen nicht warten. <strong>Klicken Sie auf „Senden“, wenn Sie so weit sind!</strong>
+    sent_to_you: An Sie gesendet
+    excluding_admins: Ohne Administratoren
+    downloads: Downloads
+    download_log: Download-Protokoll
+    delete_attachments: Anhänge löschen
+    delete_message: Nachricht löschen
+    delete_attachments_warning: Möchten Sie die Anhänge wirklich löschen?
+    delete_message_warning: Beim Löschen der Nachricht werden auch die angehängten Dateien und das Download-Protokoll gelöscht. Möchten Sie die Nachricht wirklich löschen?
+    invalid_message: Ungültige Nachricht
+    message_deleted: Nachricht gelöscht
+    attachments_deleted: Anhänge gelöscht
+    checksum: Prüfsumme (SHA256)
+    not_permitted_to_send_messages: Sie sind nicht berechtigt, Nachrichten zu senden.
+    invalid_group_belonging: Senden nicht erlaubt (ungültige Gruppe). Sie sind als externer Benutzer eingetragen, aber Ihre E-Mail-Adresse gehört zur Domain %{domain}, die auch in einer der eingeschränkten Empfänger-Domains aufgeführt ist. Das ist für externe Benutzer nicht erlaubt. Bitte bitten Sie den Systemadministrator, Sie in eine andere Gruppe zu verschieben.
+    expires_after_exceeded: Download-Anzahl überschritten
+    expires_after_exceeded_for_zip: Download-Anzahl für mindestens eine Datei im ZIP-Archiv überschritten
+    permission_description_title: Zugriffsbeschränkungen
+    permission_description_only_specified_html: <ul> <li>Nur angegebene Empfänger können auf die Nachricht zugreifen und die Dateien herunterladen.</li> <li>Das Weiterleiten der E-Mail oder URL ist nicht erlaubt.</li> <li>Empfänger müssen sich anmelden, um auf die Nachricht zuzugreifen und die Dateien herunterzuladen.</li> <li>Bei jedem Download jeder Datei wird eine Download-Bestätigung mit detaillierten Informationen gesendet.</li> </ul>
+    permission_description_only_specified_and_local_html: <ul> <li>Nur angegebene Empfänger und lokale Benutzer können die Dateien herunterladen.</li> <li>Die E-Mail oder URL darf nur an lokale Benutzer weitergeleitet werden.</li> <li>Empfänger müssen sich anmelden, um die Dateien herunterzuladen.</li> <li>Bei jedem Download jeder Datei wird eine Download-Bestätigung mit detaillierten Informationen gesendet.</li> </ul>
+    permission_description_only_specified_and_domains_html: <ul> <li>Nur angegebene Empfänger und Benutzer derselben E-Mail-Domain haben Zugriff.</li> <li>Wenn Sie an chef@partner.de senden, hat auch sekretariat@partner.de Zugriff auf die Nachricht, nicht aber neugierig@konkurrenz.de.</li> <li>Empfänger müssen sich anmelden, um die Dateien herunterzuladen.</li> <li>Bei jedem Download jeder Datei wird eine Download-Bestätigung mit detaillierten Informationen gesendet.</li> </ul>
+    permission_description_anyone_after_authentication_html: <ul> <li>Jeder, der die geheime, zufällige URL hat, kann die Dateien herunterladen.</li> <li>Die E-Mail oder URL kann an jeden weitergeleitet werden.</li> <li>Empfänger müssen sich anmelden, um die Dateien herunterzuladen.</li> <li>Bei jedem Download jeder Datei wird eine Download-Bestätigung mit detaillierten Informationen gesendet.</li> </ul>
+    permission_description_anyone_html: <ul> <li>Jeder, der die geheime, zufällige URL hat, kann die Dateien herunterladen.</li> <li>Die E-Mail oder URL kann an jeden weitergeleitet werden.</li> <li>Zum Herunterladen der Dateien ist <strong>keine</strong> Anmeldung erforderlich.</li> <li>Beim ersten Download durch eine beliebige Person wird eine <strong>einfache</strong> Download-Bestätigung gesendet (um zu wissen, wer was heruntergeladen hat, ist eine Anmeldung erforderlich).</li> </ul>
+    your_message_has_been_sent: Ihre Nachricht wurde gesendet
+    you_can_send_to_anyone: "(Sie können diesen Link an jeden senden)"
+    send_more_files: Weitere Dateien senden
+    download_speed: Download-Geschwindigkeit
+    download_time: Download-Dauer
+    at_least_one_invalid_email: Mindestens eine ungültige E-Mail-Adresse
+    reply: Empfänger kann antworten
+    private_message: Private Nachricht
+    private_message_description_html: Bei einer privaten Nachricht wird der Text Ihrer Nachricht nicht per E-Mail an den Empfänger gesendet. Die Nachricht ist erst sichtbar, wenn der Empfänger auf den Link in der E-Mail klickt und sich authentifiziert. <ul> <li>Sie können eine private Nachricht ohne Anhänge senden.</li> <li>Sie erhalten eine Bestätigung, wenn jemand Ihre Nachricht angesehen hat.</li> <li>Sie können keine private Nachricht mit der Download-Berechtigung „Jeder kann herunterladen“ senden.</li> </ul>
+    private_message_delivered_description: Die Nachricht wurde als private Nachricht gesendet. Der Nachrichtentext ist nicht in der E-Mail enthalten, und Sie erhalten eine Bestätigung, sobald jeder Empfänger die Nachricht angesehen hat.
+    access_info: Zugriffsinformationen
+    access_details: Zugriffsdetails
+    validation_code: Bestätigungscode
+    expired_token_inline: Die E-Mail-Authentifizierung ist abgelaufen. Bitte versuchen Sie es erneut.
+    invalid_token: Ungültiger oder abgelaufener Code. Bitte klicken Sie auf den Link in der ursprünglichen E-Mail, um Ihre E-Mail-Adresse erneut zu bestätigen.
+    download_zip: ZIP herunterladen
+    zip_ready_for_download: ZIP bereit zum Download
+    processing_zip: ZIP-Archiv wird verarbeitet
+    drop_file_here: Datei hier ablegen
+    drop_files_here: Dateien hier ablegen
+    drop_files_and_folders_here: Dateien und Ordner hier ablegen
+    select_pool_files: Pool-Dateien auswählen
+    add_pool_files: Pool-Dateien hinzufügen
+    invalid_validation_token: Dies ist kein gültiger Bestätigungscode.
+    not_the_validation_token: Das ist die Nachrichten-ID, nicht der Bestätigungscode. Bitte geben Sie den Bestätigungscode ein.
+    no_messages_in_inbox: Keine Nachrichten im Posteingang.
+    filename_already_selected: Dieser Nachricht wurde bereits eine Datei mit diesem Namen hinzugefügt
+    filesize_exceeded: Maximale Nachrichtengröße überschritten
+    infected_with: Mit Virus infiziert
+    not_permitted_to_download_content_blocked: "Das Herunterladen dieser Datei ist nicht erlaubt. Der Virenscan hat Folgendes erkannt: %{virus}"
+    invalid_email_address: Ungültige E-Mail-Adresse
+    cant_create_folder: Ordner kann nicht erstellt werden
+    cant_check_folder: Ordner kann nicht geprüft werden
+    cant_restore_folder: Ordner kann nicht wiederhergestellt werden
+    cant_check_chunks: Teile können nicht geprüft werden
+    zip_not_include_all_files: Nicht alle Dateien können heruntergeladen werden. Das ZIP-Archiv enthält nur die herunterladbaren Dateien.
+    paste_tip: Tipp! Fügen Sie Inhalte mit Strg+Umschalt+V ein, um die Formatierung zu entfernen.
+  session:
+    api:
+      authentication_error: Authentifizierungsfehler. Bitte versuchen Sie es erneut.
+      not_local_user: Ungültige E-Mail-Adresse. Nur lokale Benutzer können diese Funktion verwenden.
+      show:
+        login: Anmelden
+        login_label: E-Mail-Adresse
+        password: Passwort
+        sso_login: SSO-Anmeldung
+        authentication_title: Anmelden
+        authentication_description: Bitte geben Sie Ihre E-Mail-Adresse ein oder melden Sie sich an, um fortzufahren.
+      authenticated:
+        authentication_successful: Authentifizierung erfolgreich
+    authenticate:
+      login: Bitte melden Sie sich an, um fortzufahren
+      description_html: Sie müssen sich anmelden, um diese Seite aufzurufen. Bitte geben Sie Ihre E-Mail-Adresse ein oder melden Sie sich an, um fortzufahren.<br>Wenn Sie kein Konto auf diesem System haben, geben Sie Ihre E-Mail-Adresse ein. Wir senden Ihnen dann ein temporäres Passwort per E-Mail.
+      unauthorized: Sie sind nicht berechtigt, diese Nachricht anzuzeigen. Bitte geben Sie Ihre E-Mail-Adresse genau so ein, wie die Nachricht an Sie gesendet wurde, oder wenden Sie sich an den Absender der Nachricht.
+    email:
+      validate_email: Bestätigen Sie Ihre E-Mail-Adresse
+      validate_email_description_html: "Ein Sicherheitscode wurde an Ihre E-Mail-Adresse gesendet: <strong>%{email}</strong>. Bitte klicken Sie auf den Link oder geben Sie den Sicherheitscode hier ein, um Ihre E-Mail-Adresse zu bestätigen und fortzufahren."
+      session_expired: Sitzung abgelaufen. Bitte geben Sie Ihre E-Mail-Adresse erneut ein, um fortzufahren
+      token_expired: Der Authentifizierungslink in der E-Mail ist abgelaufen. Bitte versuchen Sie es erneut.
+      already_authenticated: Sie sind in diesem Browser bereits angemeldet.
+      resend_validation_email: Bestätigungs-E-Mail erneut senden
+      verify: Bestätigen
+      validate_email_sent: Um %{time} wurde eine neue Bestätigungs-E-Mail gesendet. Bitte klicken Sie auf den Link in der E-Mail oder geben Sie unten den Sicherheitscode ein, um Ihre E-Mail-Adresse zu bestätigen.
+      invalid_temporary_user: Ungültiger Sicherheitscode. Bitte prüfen Sie Ihre E-Mails, ein neuer Sicherheitscode wurde an Ihren Posteingang gesendet.
+      create_account: Konto erstellen
+      create_account_description: Erstellen Sie ein Konto auf diesem System, damit Sie sich mit Ihrer E-Mail-Adresse und Ihrem Passwort statt mit einem Sicherheitscode anmelden können.
+      invalid_email: Ungültige E-Mail-Adresse
+    login_limit_exceeded:
+      delivered:
+        page_header: Anmeldelimit überschritten
+        description: Sie haben zu oft versucht, sich anzumelden. Um fortzufahren, müssen Sie Ihr Passwort zurücksetzen.
+        email: Es wurde eine E-Mail mit einem Link zum Zurücksetzen Ihres Passworts gesendet.
+      waiting:
+        page_header: Anmeldelimit überschritten
+        description: "Sie haben zu oft versucht, sich anzumelden. Hinweis: Sie müssen sich mit Ihrem Netzwerkpasswort anmelden. Wenn Sie dieses Passwort zurücksetzen müssen und nicht wissen, wie das geht, wenden Sie sich bitte an einen Netzwerkadministrator. Nach Ablauf der Wartezeit können Sie diese Seite neu laden, um das Limit zurückzusetzen."
+        expiration_time: Ablaufzeit
+        reload: Neu laden
+      show:
+        page_header: Anmeldelimit überschritten
+        description: Sie haben zu oft versucht, sich anzumelden. Sie können das Anmeldelimit zurücksetzen und sich erneut anmelden. Es wurde eine E-Mail zum Zurücksetzen des Anmeldelimits an Sie gesendet.
+      reset:
+        login_limit_reset: Anmeldelimit zurückgesetzt
+    shared:
+      authentication_successful: Authentifizierung erfolgreich
+    outlook:
+      edit:
+        authentication_title: Authentifizieren
+        authentication_description: Bitte melden Sie sich an, um fortzufahren
+        login: Anmelden
+        login_label: E-Mail-Adresse
+        password: Passwort
+        sso_login: SSO-Anmeldung
+      show:
+        authentication_title: Authentifizieren
+        authentication_description: Bitte melden Sie sich an, um sichere Dateien anzuhängen.
+        authenticate: Authentifizieren
+    saml:
+      not_configured:
+        title: SAML nicht konfiguriert
+        description: SAML ist auf diesem System nicht konfiguriert. Wenn Sie glauben, dass dies ein Fehler ist, wenden Sie sich bitte an den Support, damit dieser die Ursache untersuchen kann.
+        support_button: Support kontaktieren
+      api:
+        local:
+          title: SAML-Authentifizierung
+          description: Die SAML-Authentifizierung wurde in Ihrem Standardbrowser geöffnet. Bitte setzen Sie die Anmeldung dort fort. Wenn Sie das Fenster nicht finden oder es aus irgendeinem Grund nicht funktioniert, können Sie über die Schaltfläche unten fortfahren.
+          button_label: SSO-Anmeldung
+      response:
+        api_error:
+          authentication_error: Authentifizierung fehlgeschlagen
+          saml_authentication_error: SSO-Authentifizierung fehlgeschlagen
+          saml_authentication_error_description: SSO-Authentifizierung fehlgeschlagen. Bitte wenden Sie sich an den Administrator, wenn das Problem weiterhin besteht.
+        api_disabled:
+          api_disabled: Nicht berechtigte Benutzergruppe
+          api_disabled_description: Ihr Konto ist nicht berechtigt, diese Funktion zu nutzen (API deaktiviert). Bitte wenden Sie sich an einen Administrator, damit er Ihr Konto in eine andere Gruppe verschiebt.
+        api_response:
+          authentication_successful: Authentifizierung erfolgreich
+        create:
+          could_not_create_account: Das Konto konnte nicht erstellt werden. Bitte wenden Sie sich für weitere Informationen an einen Administrator.
+        show:
+          could_not_create_account: Das Konto konnte nicht erstellt werden. Bitte wenden Sie sich für weitere Informationen an einen Administrator.
+    temporary_user:
+      validate_email: Bestätigen Sie Ihre E-Mail-Adresse
+      validate_email_description_html: "Ein temporäres Passwort wurde an Ihre E-Mail-Adresse gesendet: <strong>%{email}</strong>. Bitte klicken Sie auf den Link oder geben Sie das temporäre Passwort hier ein, um Ihre E-Mail-Adresse zu bestätigen und fortzufahren."
+      session_expired: Sitzung abgelaufen. Bitte geben Sie Ihre E-Mail-Adresse erneut ein, um fortzufahren
+      token_expired: Der Authentifizierungslink in der E-Mail ist abgelaufen. Bitte versuchen Sie es erneut.
+      already_authenticated: Sie sind in diesem Browser bereits angemeldet.
+      resend_validation_email: Bestätigungs-E-Mail erneut senden
+      verify: Bestätigen
+      validate_email_sent: Um %{time} wurde eine neue Bestätigungs-E-Mail gesendet. Bitte klicken Sie auf den Link in der E-Mail oder geben Sie unten das Passwort ein, um Ihre E-Mail-Adresse zu bestätigen.
+      invalid_temporary_user: Ungültiges Passwort. Bitte prüfen Sie Ihre E-Mails, das temporäre Passwort wurde erneut an Ihren Posteingang gesendet.
+      temporary_user_expired: Temporäres Passwort abgelaufen. Bitte prüfen Sie Ihre E-Mails, ein neues temporäres Passwort wurde an Ihren Posteingang gesendet.
+      create_account: Konto erstellen
+      create_account_description: Erstellen Sie ein dauerhaftes Konto auf diesem System, damit Sie sich mit Ihrer E-Mail-Adresse und Ihrem Passwort statt mit einem temporären Benutzerkonto anmelden können.
+  shared:
+    show: Anzeigen
+    reify: Wiederherstellen
+    download: Herunterladen
+    restore: Wiederherstellen
+    delete: Löschen
+    trash: Papierkorb
+    cancel: Abbrechen
+    close: Schließen
+    current: Aktuell
+    bootstrap_confirm_dialog:
+      confirm_action: Aktion bestätigen
+    shares:
+      bootstrap_confirm_dialog:
+        confirm_action: Aktion bestätigen
+      navigation:
+        files: Dateien
+        activity_log: Aktivitätsprotokoll
+      wrap_content:
+        activity_log: Aktivitätsprotokoll
+    error_messages:
+      prohibited_this_from_being_saved: hat verhindert, dass %{target} gespeichert werden konnte
+  share:
+    share: Share
+    shares: Shares
+    no_shares: Keine Shares verfügbar
+    name: Name
+    folder_name: Ordnername
+    share_not_found: Share nicht gefunden
+    folder_not_found: Ordner nicht gefunden
+    file_not_found: Datei nicht gefunden
+    no_read_access: Nicht berechtigt, auf dieses Share zuzugreifen
+    no_write_access: Keine Schreibberechtigung für dieses Share
+    not_authorized_to_view_logs: Nicht berechtigt, Protokolle anzuzeigen
+    require_authentication: Für dieses Share ist eine Authentifizierung erforderlich. Bitte geben Sie das Passwort ein, um fortzufahren.
+    authenticate: Authentifizieren
+    authentication_failed: Authentifizierung fehlgeschlagen
+  shares:
+    folders:
+      are_you_sure_you_want_to_delete: Möchten Sie diesen Ordner wirklich löschen?
+      are_you_sure_you_want_to_trash: Möchten Sie diesen Ordner wirklich endgültig löschen?
+      folder_name_already_taken: Dieser Ordnername ist bereits vergeben!
+      folder_not_found: Ordner nicht gefunden
+      could_not_create_folder: "Ordner konnte nicht erstellt werden: %{error}"
+      zip_no_files: Es gibt keine Dateien, die dem ZIP-Archiv hinzugefügt werden können
+      windows_path_warning:
+        title: Begrenzung der Pfadlänge unter Windows
+        description_html: <strong>Windows-Benutzer:</strong> Windows begrenzt Dateipfade auf 259 Zeichen. Wenn Sie Ordner von Speicherorten mit langen Pfaden hochladen, werden Dateien tief in der Ordnerstruktur möglicherweise stillschweigend ausgelassen. Das kann zu unvollständigen Uploads oder doppelten Ordnern führen.
+        workarounds_title: Empfohlene Lösungen
+        workarounds_html: "<li><strong>Virtuelles Laufwerk verwenden:</strong> Öffnen Sie die Eingabeaufforderung und führen Sie aus: <code>subst X: \"C:\\Ihr\\langer\\Pfad\\zum\\Ordner\"</code><br>Laden Sie dann vom virtuellen Laufwerk <code>X:\\</code> hoch</li><li><strong>Näher zu den Dateien navigieren:</strong> Wechseln Sie in einen Unterordner näher an Ihren Dateien, bevor Sie den Upload-Ordner auswählen</li><li><strong>Kürzeren Pfad verwenden:</strong> Kopieren Sie Ihre Dateien vor dem Hochladen an einen kürzeren Speicherort wie <code>C:\\uploads\\</code></li><li><strong>Ordner zuerst zippen:</strong> Komprimieren Sie den Ordner in eine ZIP-Datei und laden Sie stattdessen die ZIP-Datei hoch</li>"
+        advanced_title: "Erweitert: Lange Pfade unter Windows 10/11 aktivieren"
+        advanced_description_html: Ab Windows 10 Version 1607 können Sie die Unterstützung für längere Pfade aktivieren. <strong>Hinweis:</strong> Dafür sind Administratorrechte erforderlich, und es funktioniert möglicherweise nicht in allen Browsern. Die oben genannten Lösungen sind zuverlässiger.
+        registry_steps_title: Schritte zum Aktivieren langer Pfade
+        registry_steps_html: "<li>Drücken Sie <kbd>Win + R</kbd>, geben Sie <code>regedit</code> ein und drücken Sie die Eingabetaste</li><li>Navigieren Sie zu: <code>HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\FileSystem</code></li><li>Suchen oder erstellen Sie einen DWORD-Wert mit dem Namen <code>LongPathsEnabled</code> und setzen Sie ihn auf <code>1</code></li><li>Starten Sie Ihren Computer neu, damit die Änderung wirksam wird</li><li>Testen Sie den Upload erneut (die Unterstützung kann je nach Browser variieren)</li>"
+        browser_disclaimer_html: "<strong>Wichtig:</strong> Auch mit dieser Registrierungseinstellung variiert die Unterstützung langer Pfade je nach Browser. Chrome, Edge und Firefox können die Grenze von 259 Zeichen weiterhin anwenden. Die oben genannten Lösungen sind zuverlässiger."
+      folder:
+        rename_folder: Ordner umbenennen
+        move_folder_description: Den Ordner %{foldername} in den unten ausgewählten Ordner verschieben
+        move_folder: Ordner verschieben
+      action_bar:
+        download_as_zip: Als ZIP herunterladen
+        download_as_zip_with_deleted: Als ZIP herunterladen, einschließlich gelöschter Dateien
+        toggle_deleted_view: Gelöschte Dateien ein-/ausblenden
+        filter: Filter
+        upload_file: Dateien hochladen
+        upload_folder: Ordner hochladen
+        create_folder: Ordner erstellen
+        windows_path_warning: Warnung zur Pfadlänge
+        upload_folder_unsupported: Ordner-Upload nicht unterstützt
+        upload_folder_unsupported_description: Leider wird das Hochladen von Ordnern in Ihrem Browser nicht unterstützt. Bitte verwenden Sie die Desktop-Version von Chrome oder Safari, um eine Ordnerstruktur hochzuladen.
+        showing_deleted: "%{number_of} gelöschte werden angezeigt"
+        hiding_deleted: "%{number_of} gelöschte sind ausgeblendet"
+        actions: Aktionen
+        move_selected: Auswahl verschieben
+        trash_selected: Auswahl in den Papierkorb
+        delete_selected: Auswahl löschen
+      action_bar_below:
+        send_notifications: Benachrichtigungen senden
+        sending_notifications: Benachrichtigungen werden gesendet
+        quota: Kontingent
+        used_of: belegt von
+        available: verfügbar
+        quota_exceeded: Kontingent überschritten
+      create_folder_modal:
+        create_folder: Ordner erstellen
+        create: Erstellen
+      files:
+        are_you_sure_you_want_to_delete: Möchten Sie diese Datei wirklich löschen?
+        are_you_sure_you_want_to_trash: Möchten Sie diese Datei wirklich endgültig löschen?
+        file_not_found: Datei nicht gefunden
+        file:
+          rename_file: Datei umbenennen
+          move_file: Verschieben
+          move_file_description: Die Datei %{filename} in den unten ausgewählten Ordner verschieben
+        show:
+          prev: Zurück
+          up: Nach oben
+          next: Weiter
+          last_updated: Zuletzt aktualisiert
+          versions: Versionen
+          show_all: Alle anzeigen
+          version_from: Version vom
+          next_version: Nächste Version
+          previous_version: Vorherige Version
+          current_version: Aktuelle Version
+          pdf_preview_not_supported: Die Vorschau von PDF-Dateien wird in Ihrem Browser nicht unterstützt
+        available_chunks:
+          available: Für die folgenden Dateien sind unvollständige Uploads vorhanden
+          resume_replace: Möchten Sie den Upload fortsetzen oder die Dateien ersetzen?
+      quota:
+        quota: Kontingent
+        used_of: belegt von
+        available: verfügbar
+        quota_exceeded: Kontingent überschritten
+      move_file_folder_modal:
+        move_folder: Ordner verschieben
+        move_file: Datei verschieben
+        move: Verschieben
+      show:
+        select_all: Alle aus-/abwählen
+    logs:
+      action_bar:
+        activity_log: Aktivitätsprotokoll
+      message:
+        created: Erstellt
+        uploaded: Hochgeladen
+        downloaded: Heruntergeladen
+        reified: Wiederhergestellt
+        removed: Entfernt
+        restored: Wiederhergestellt
+        deleted: Gelöscht
+        moved: Verschoben
+        renamed: Umbenannt
+        added: Hinzugefügt
+        viewed: Angesehen
+        infected: Infiziert
+        trashed: In den Papierkorb verschoben
+        deleted_user: "(Gelöschter Benutzer)"
+        share: Share
+        folder: Ordner
+        file: Datei
+        group: Gruppe
+        user: Benutzer
+        read: Lesen
+        read/write: Lesen/Schreiben
+        av_scanner: Virenscanner
+        version_from: Version vom
+        file_deleted: Datei gelöscht
+        to: nach
+        from: von
+        unknown: Unbekannt
+        other: Sonstige
+  share/log:
+    message:
+      you: Sie
+      share: Share
+      folder: Ordner
+      file: Datei
+      user: Benutzer
+      version_from: Version vom
+      read: Lesen
+      read/write: Lesen/Schreiben
+      created: erstellt
+      added: hinzugefügt
+      uploaded: hochgeladen
+      downloaded: heruntergeladen
+      updated: aktualisiert
+      restored: wiederhergestellt
+      reified: wiederhergestellt
+      deleted: gelöscht
+      removed: endgültig gelöscht
+      trashed: in den Papierkorb verschoben
+      renamed: umbenannt
+      viewed: angesehen
+      infected: infiziert
+      av_scanner: Virenscanner
+      file_deleted: Datei gelöscht
+  sms_auth:
+    login_failed: Anmeldung fehlgeschlagen
+    sms_error: Fehler in der SMS-Konfiguration. Bitte wenden Sie sich an den Systemadministrator
+    verify_token: SMS-Code bestätigen
+    verify_token_description: "Bitte geben Sie den Code ein, der an Ihr Mobiltelefon gesendet wurde:"
+    sms_login_failed: SMS-Bestätigung fehlgeschlagen, ein neuer SMS-Code wurde gesendet
+    sms_signup: Registrierung für die SMS-Zwei-Faktor-Authentifizierung
+    sms_signup_failed: SMS-Zwei-Faktor-Authentifizierung fehlgeschlagen
+    sms_signup_description: Um fortzufahren, müssen Sie sich für die SMS-Zwei-Faktor-Authentifizierung registrieren. Bitte geben Sie unten Ihre Telefonnummer ein, um fortzufahren.
+    verify: Bestätigen
+    resend: Code erneut senden
+    code: Code
+    token_resent: SMS-Code erneut gesendet um %{time}
+    send_token: Bestätigungscode senden
+    phone_number: Telefonnummer
+    invalid_phone_number: Ungültige Telefonnummer, bitte versuchen Sie es erneut.
+    change_phone_number: Telefonnummer ändern
+    phone_number_help: Bitte geben Sie Ihre Telefonnummer mit Ländervorwahl und ohne führende Null ein (z. B. 491701234567). An diese Nummer wird ein Bestätigungscode gesendet.
+    one-time-code: Einmalcode
+  strong_auth:
+    two_factor_authentication: Zwei-Faktor-Authentifizierung
+    enable_2fa: Zwei-Faktor-Authentifizierung aktivieren
+    disable_2fa: Zwei-Faktor-Authentifizierung deaktivieren
+    title: Zwei-Faktor-Authentifizierung aktivieren
+    enable_2fa_description: Sie können eine starke Zwei-Faktor-Authentifizierung aktivieren, um die Sicherheit Ihres Kontos zu erhöhen.
+    require_description: Um dieses System zu nutzen, müssen Sie die Zwei-Faktor-Authentifizierung einrichten.
+    disable_description: Bitte geben Sie den aktuellen Code ein, um die Zwei-Faktor-Authentifizierung zu deaktivieren
+    two_factor_auth_disabled: Zwei-Faktor-Authentifizierung deaktiviert
+    step1: "Schritt 1: Authentifizierungs-App herunterladen"
+    step1_description: Aktivieren Sie die Zwei-Faktor-Authentifizierung, in der Regel mit einer mobilen App.
+    totp_apps_description_html: Zu den Authentifizierungs-Apps gehören <a href="https://authy.com" target="_blank" rel="external nofollow noopener noreferrer">Authy</a> (mehrere Plattformen) und Google Authenticator (iOS/Android). Weitere Optionen finden Sie unter <a href="https://docs.liquidfiles.com/authentication/totp.html#clients" target="_blank">TOTP Clients</a>.
+    step2: "Schritt 2: Authentifizierungs-App einrichten"
+    step2_description: Richten Sie Ihre Authentifizierungs-App ein, indem Sie den QR-Code scannen.
+    step2_alt: Oder geben Sie den folgenden Code ein
+    step3: "Schritt 3: Bestätigen"
+    step3_description: Bitte bestätigen Sie Ihre Einrichtung, indem Sie den von der Authentifizierungs-App erzeugten Code eingeben.
+    failed_to_authenticate: Authentifizierung fehlgeschlagen, bitte versuchen Sie es erneut.
+    click_on_link: Alternativ können Sie auf den folgenden Link klicken, um die Konfiguration Ihrer Authentifizierungs-App hinzuzufügen
+    configure: Zwei-Faktor-Authentifizierung einrichten
+    success_saved: Erfolgreich, die Konfiguration der Zwei-Faktor-Authentifizierung wurde gespeichert
+    verify_token: Zwei-Faktor-Authentifizierung bestätigen
+    verify_token_description: Bitte geben Sie den Code für die Zwei-Faktor-Authentifizierung aus Ihrer mobilen App ein.
+    verify: Bestätigen
+    two_factor_login_failed: Zwei-Faktor-Authentifizierung fehlgeschlagen
+    two_factor_validation_failed: Bestätigung der Zwei-Faktor-Authentifizierung fehlgeschlagen
+    skip_2fa_for_two_weeks: Zwei-Faktor-Authentifizierung in diesem Browser zwei Wochen lang überspringen
+    one-time-code: Einmalcode
+  support:
+    email_subject: Bitte helfen Sie mir bei
+    email_body: Bitte beschreiben Sie Ihr Problem so ausführlich wie möglich. Vielen Dank.
+    navbar_tooltip: Wenn Sie Hilfe beim Zugriff auf dieses System oder bei dessen Nutzung benötigen, klicken Sie bitte auf diesen Link. Wir helfen Ihnen gerne.
+  user:
+    includes_at_least_one_invalid_email_address: enthält mindestens eine ungültige E-Mail-Adresse
+    confirm:
+      invalid_session: Ungültige Sitzung
+      already_validated: Ihre E-Mail-Adresse wurde bereits bestätigt
+      invalid_token: Ungültiger Code. Bitte versuchen Sie es erneut oder klicken Sie auf „Bestätigungs-E-Mail erneut senden“.
+      validation_email_sent: "Bestätigungs-E-Mail gesendet um: %{time}"
+      activated_successfully: Erfolgreich aktiviert
+      validate_email_description: Bitte prüfen Sie Ihre E-Mails und geben Sie das temporäre Passwort ein, um Ihre E-Mail-Adresse zu bestätigen.
+    register:
+      already_registered: Dieses Konto ist bereits registriert. Bitte melden Sie sich an, um fortzufahren
+      already_registered_not_validated: Ihr Konto ist bereits registriert, aber Ihre E-Mail-Adresse muss noch bestätigt werden. Wir haben Ihnen eine E-Mail mit einem zufälligen Code gesendet. Bitte geben Sie den Code unten ein oder klicken Sie auf den Link in der E-Mail, um Ihr Konto zu bestätigen.
+      show:
+        register: Ein Konto registrieren
+        description_html: <p>Bitte geben Sie Ihre Daten ein, um ein Konto zu erstellen. Mit diesem Konto können Sie große Dateien sicher an %{branding_name} senden.</p>
+    signup:
+      create:
+        need_password: Sie müssen ein Passwort eingeben
+        need_name: Sie müssen einen Namen eingeben
+    create:
+      show:
+        cancel_and_remember: Abbrechen und nicht mehr fragen
+        cancel_and_remember_title: Dies wird in Ihrem aktuellen Browser gespeichert
+  validator:
+    required: Dieses Feld ist erforderlich.
+    remote: Bitte korrigieren Sie dieses Feld.
+    email: Bitte geben Sie eine gültige E-Mail-Adresse ein.
+    url: Bitte geben Sie eine gültige URL ein.
+    date: Bitte geben Sie ein gültiges Datum ein.
+    dateISO: Bitte geben Sie ein gültiges Datum ein (ISO).
+    number: Bitte geben Sie eine gültige Zahl ein.
+    digits: Bitte geben Sie nur Ziffern ein.
+    creditcard: Bitte geben Sie eine gültige Kreditkartennummer ein.
+    equalTo: Bitte geben Sie denselben Wert erneut ein.
+    accept: Bitte geben Sie einen Wert mit einer gültigen Erweiterung ein.
+    maxlength: Bitte geben Sie höchstens {0} Zeichen ein.
+    minlength: Bitte geben Sie mindestens {0} Zeichen ein.
+    rangelength: Bitte geben Sie einen Wert mit {0} bis {1} Zeichen ein.
+    range: Bitte geben Sie einen Wert zwischen {0} und {1} ein.
+    max: Bitte geben Sie einen Wert kleiner oder gleich {0} ein.
+    min: Bitte geben Sie einen Wert größer oder gleich {0} ein.
+    step: Bitte geben Sie ein Vielfaches von {0} ein.
+    invalid_phone_number: Ungültige Telefonnummer
+  locale: Deutsch

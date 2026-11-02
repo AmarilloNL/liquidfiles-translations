@@ -1,0 +1,1569 @@
+bg:
+  s: с
+  min: мин
+  hours: Часа
+  days: Дни
+  weeks: Седмици
+  months: Месеца
+  years: Години
+  ago: преди
+  email: Имейл
+  save: Запазване
+  delete: Изтриване
+  cancel: Отказ
+  remove: Премахване
+  aborting: Прекратяване
+  aborted: Прекратено
+  saved_successfully: Успешно запазено
+  logout: Изход
+  error: Грешка
+  enabled: Включено
+  disabled: Изключено
+  disable: Изключване
+  default: По подразбиране
+  submit: Изпращане
+  session_expired: Сесията е изтекла
+  search: Търсене
+  filter: Филтър
+  recipient: Получател
+  recipients: Получатели
+  downloaded_by: Изтеглено от
+  filename: Име на файла
+  size: Размер
+  downloaded: Изтеглено
+  host: Хост
+  ip: IP адрес
+  action: Действие
+  view_message: Преглед на съобщението
+  view_message_popup: Преглед на съобщението (изскачащ прозорец)
+  download_info: Информация за изтеглянето
+  message_id: ID на съобщението
+  filelink_id: ID на FileLink
+  sent_at: Изпратено
+  id: ID
+  subject: Тема
+  expires: Изтича
+  invalid_method: Невалиден метод
+  export_csv: Експортиране в CSV
+  export_all: Експортиране на всички
+  export_visible: Експортиране на видимите
+  temporarily_unavailable: Временно недостъпно
+  generic_search_error: Обща грешка при търсене
+  sender: Подател
+  search_temporary_disabled: Търсенето е временно изключено
+  help: Помощ
+  close: Затваряне
+  count: Брой
+  settings: Настройки на акаунта
+  virus: Вирус
+  virus_status: Антивирусен статус
+  infected: Заразен
+  clean: Чист
+  not_scanned: Не е сканиран
+  not_yet_scanned: Още не е сканиран
+  csrf_error: "CSRF: открити са невалидни параметри. Влезте отново, за да продължите."
+  could_not_be_saved: Неуспешно запазване
+  label: Етикет
+  updated: Актуализирано
+  add: Добавяне
+  system_info: Информация за системата
+  location: Местоположение
+  accept: Приемане
+  last_7_days: Последните 7 дни
+  last_30_days: Последните 30 дни
+  last_60_days: Последните 60 дни
+  last_90_days: Последните 90 дни
+  last_180_days: Последните 180 дни
+  last_365_days: Последните 365 дни
+  file: Файл
+  files: Файлове
+  next: Напред
+  previous: Назад
+  name: Име
+  view: Преглед
+  forget: Забравяне
+  update: Актуализиране
+  updated_at: Актуализирано на
+  created_at: Създадено на
+  download_link_expired: Връзката за изтегляне е изтекла.
+  no_html5_upload_warning: За качване на файлове е необходим модерен браузър, съвместим с HTML5. Microsoft Edge, Chrome, Firefox и Safari работят отлично.
+  javascript_warning: За изпращане на файлове и използване на повечето функции е необходим JavaScript.
+  cookie_accept: Този сайт използва бисквитки. Като влезете или щракнете върху „Приемане“, вие се съгласявате с използването на бисквитки.
+  i_agree: Съгласен съм
+  session_timeout: Сесията е изтекла, моля, влезте отново
+  loading: Зареждане...
+  unsupported_browser_header: Неподдържан браузър
+  unsupported_browser_description_html: Вашият браузър не се поддържа и този сайт вероятно няма да работи според очакванията. Моля, използвайте по-нов браузър.
+  not_logged_in_invalid_parameters: Не сте влезли, невалидни параметри
+  toggle_dropdown: Показване/скриване на менюто
+  rejected: Отхвърлено
+  undetected: Не е открито
+  invalid_link: Невалидна връзка, моля, свържете се с подателя
+  account_settings_tooltip: Настройки на акаунта
+  logout_tooltip: Изход
+  download_id: ID на изтеглянето
+  remote_host: Отдалечен хост
+  show: Показване
+  hide: Скриване
+  password: Парола
+  download: Изтегляне
+  unauthorized: Нямате права
+  account:
+    login: Вход
+    login_label: Имейл адрес
+    email: Имейл адрес
+    password: Парола
+    current_password: Текуща парола
+    please_enter_your_current_password: Въведете текущата си парола
+    sign_in: Вход
+    remember_me: Запомни ме
+    not_administrator: Не сте администратор
+    password_reset: Нулиране на паролата
+    register: Регистрация
+    register_description_html: Благодарим ви! За да продължите, въведете данните си и създайте акаунт.<br>Следващия път можете да влезете с имейл адреса и паролата си.
+    account_not_activated: Акаунтът не е активиран. Моля, активирайте акаунта, преди да влезете. Изпратихме ви имейл със случаен код. Въведете кода по-долу или щракнете върху връзката в имейла, за да потвърдите акаунта си.
+    incorrect_user_or_pw: Грешно потребителско име или парола
+    confirmation_email_sent: Имейлът за потвърждение е изпратен
+    activated_successfully: Успешно активиран
+    not_activated: Акаунтът не е активиран
+    password_reset_email_sent: Имейлът за нулиране на паролата е изпратен
+    no_such_user: Няма такъв потребител
+    no_such_email: Имейл адресът не е намерен
+    not_logged_in: Не сте влезли. Моля, влезте, за да продължите.
+    saved_successfully: Успешно запазено
+    unlicensed_install_some_settings: "Инсталация без лиценз: опциите за брандиране са видими само за системните администратори"
+    incorrect_login_or_demo: Грешно потребителско име или парола или е достигнат лимитът на лиценза
+    incorrect_login_or_ldap: Грешно потребителско име или парола или грешка в LDAP сървъра
+    invalid_api_key: Невалиден API ключ
+    cant_delete_last_sysadmin: Последният системен администратор не може да бъде изтрит
+    cant_change_last_sysadmin: Последният системен администратор не може да бъде променен
+    sso_login: SSO вход
+    invalid_sso_response: Невалиден SSO отговор
+    automatic: Открито автоматично
+    network_access_blocked: Достъпът до тази система от вашата мрежа не е разрешен.
+    please_login: Моля, влезте, за да отворите тази страница.
+    email_validation_session_timeout: Сесията е изтекла, моля, потвърдете отново имейл адреса си.
+    signature: Подпис
+    not_authorized_for_action: Нямате права да извършите това действие
+    invalid_group: Невалидна група. Моля, свържете се с администратор, който може да премести акаунта ви в група за локални потребители
+    invalid_group_configuration: Невалидна конфигурация на групата. Моля, свържете се с администратор, който може да ви създаде акаунт или да промени конфигурацията на групата.
+    please_enter_email_to_email_password: Въведете имейл адреса си, за да нулирате паролата. На този адрес ще бъде изпратен имейл за потвърждение.
+    password_reset_successfully: Паролата е нулирана успешно
+    password_cant_be_empty: Паролата не може да бъде празна
+    password_complexity_title: Сложност на паролата
+    password_complexity_description_html: "<p>Паролата ви <strong>не може да се основава на дума от речника</strong> и трябва да отговаря на поне 3 от следните изисквания:</p><ul><li>Поне 8 знака</li><li>Поне 11 знака</li><li>Поне 15 знака</li><li>Поне 1 малка и 1 главна буква</li><li>Поне 1 цифра (0-9)</li><li>Поне един от следните знаци: !,@,#,$,%,^,&amp;,*,?,_,~,-,(,)</li></ul>"
+    is_not_strong_enough: не е достатъчно сигурна
+    your_password_has_expired: Паролата ви е изтекла
+    please_select_a_different_password: Изберете парола, различна от предишната
+    change_password: Смяна на паролата
+    account_not_found: Акаунтът не е намерен. Моля, влезте отново.
+    user_required_to_use_saml: Паролата не може да бъде нулирана, влезте чрез SAML
+    sysadmin_ldap_error: Този акаунт се удостоверява чрез LDAP и не може да бъде нулиран оттук
+    login_limit_exceeded: Превишен е лимитът за вход
+    a_confirmation_email_will_be_sent: На този адрес ще бъде изпратен имейл за потвърждение
+    name: Име
+    password_confirm: Потвърждаване на паролата
+    save: Запазване
+    can_not_reset_password_please_check_with_your_administrator: Паролата не може да бъде нулирана, обърнете се към администратора си
+    no_need_to_register_user: Не е необходимо да се регистрирате. Влезте със съществуващия си акаунт.
+    registration_not_allowed: Регистрацията не е разрешена
+    create_description: Създайте акаунта си, като въведете името си и парола.
+    activated_successfully_please_login: Акаунтът е активиран успешно. Вече можете да влезете с имейл адреса и паролата си.
+    invalid_activation_url: Невалидна връзка за активиране. Проверете връзката и опитайте отново.
+    already_logged_in: Вече сте влезли. Не може да се регистрира нов акаунт.
+    bruteforce_message: Превишихте броя на неуспешните опити. Опитайте отново след %{minutes} минути.
+    admin_access_blocked: Администраторският достъп от вашия IP адрес не е разрешен.
+    account_created_successfully: Акаунтът е създаден успешно
+    create_account: Създаване на акаунт
+    create_account_description: Актуализирайте данните си, за да създадете акаунта.
+    account_settings: Настройки на акаунта
+    change_language: Промяна на езика и часовата зона
+    filedrop_label: Filedrop (случаен)
+    filedrop_email_label: Filedrop
+    verify_account: Проверка на акаунта
+    invalid_sso_signature: Невалиден SSO подпис или вход
+    user_not_found: Потребителят не е намерен
+    could_not_create_account: Акаунтът не можа да бъде създаден
+    two_factor_authentication_failed: Двуфакторното удостоверяване с Duo е неуспешно
+    copy_to_clipboard: Копиране в клипборда
+    copy_url_to_clipboard: Копиране на URL адреса в клипборда
+    delete_user_warning: Наистина ли искате да изтриете този потребител?
+    unauthorized_to_login: Нямате права да влезете
+    first_time_message_title: Добре дошли в LiquidFiles
+    first_time_message: <p>Добре дошли в LiquidFiles – най-лесният начин за сигурно изпращане на големи файлове.</p><p>Основните функции работят точно като уеб поща.</p><p>Това съобщение ще се покаже само веднъж. Ако се затрудните или искате да откриете по-разширени функции, щракнете върху бутона „Помощ“ в горния десен ъгъл на лентата с менюта.</p>
+    first_time_message_button: Разбрах!
+    registration_failed_unknown_error: Регистрацията е неуспешна поради неизвестна грешка
+    session_timeout: Сесията е изтекла
+    nothing_filled_in: Моля, попълнете формуляра
+    last_used: Последно използване
+    strong_auth_required_before_password_reset: За нулиране на паролата на този акаунт е необходимо силно двуфакторно удостоверяване.
+    unfriendly_registration_message: Ако можете да се регистрирате в системата с този имейл адрес, ще получите имейл. Ако не получите, използвайте връзката за поддръжка по-горе.
+    unfriendly_password_reset_message: Ако акаунтът с този имейл адрес може да бъде нулиран, ще получите имейл. Ако не получите, използвайте връзката за поддръжка по-горе.
+    aliases:
+      aliases: Псевдоними
+      aliases_description: Можете да добавите към акаунта си псевдоними на подател и получател. Псевдонимът на подател ви позволява да изпращате съобщения от името на този имейл адрес. Псевдонимът на получател ви позволява да преглеждате съобщенията за този адрес. Съобщенията до псевдоним на получател се виждат и във входящата ви поща за защитени съобщения.
+      aliases_no_change_description: Псевдонимът на подател ви позволява да изпращате съобщения от името на този имейл адрес. Псевдонимът на получател ви позволява да преглеждате съобщенията за този адрес. Съобщенията до псевдоним на получател се виждат и във входящата ви поща за защитени съобщения. Свържете се с администратор, за да добавите или промените псевдоними.
+      recipient_aliases: Псевдоними на получател
+      sender_aliases: Псевдоними на подател
+      add_alias: Добавяне на псевдоним
+      remove: Премахване
+      default_sender_alias: Псевдоним на подател по подразбиране
+      default_sender_alias_description: Псевдонимът на подател по подразбиране.
+      are_you_sure: Наистина ли искате да премахнете този псевдоним?
+      no_emails: Няма добавени псевдоними.
+      please_contact_an_administrator: Свържете се с администратор, за да ги управлявате
+      auto_added_aliases: Автоматично добавени псевдоними
+      auto_added_aliases_description: Следните псевдоними бяха добавени автоматично към профила ви. Свържете се с администратор, за да ги управлявате.
+    alias:
+      confirm:
+        show:
+          title: Благодарим ви за потвърждението
+          alias_email: Имейл адрес на псевдонима
+          user: Потребител
+          recipient_and_sender_confirmation: Горепосоченият потребител вече може да преглежда защитените съобщения за този имейл адрес и да изпраща защитени съобщения от негово име. Ако това е грешка, щракнете върху връзката за поддръжка по-горе.
+          only_recipient_confirmation: Горепосоченият потребител вече може да преглежда защитените съобщения за този имейл адрес. Ако това е грешка, щракнете върху връзката за поддръжка по-горе.
+          only_sender_confirmation: Горепосоченият потребител вече може да изпраща защитени съобщения от името на този имейл адрес. Ако това е грешка, щракнете върху връзката за поддръжка по-горе.
+    add_alias_modal:
+      title: Добавяне на псевдоним
+      description: Въведете имейл адреса, до който искате достъп като псевдоним на получател или подател. На този адрес ще бъде изпратен имейл за потвърждение.
+      recipient_alias: Псевдоним на получател - искам да чета съобщенията, изпратени до този имейл адрес.
+      sender_alias: Псевдоним на подател - искам да изпращам съобщения от името на този имейл адрес.
+      invalid_email: Невалиден имейл адрес
+      add_permission: Изберете псевдоним на получател, псевдоним на подател или и двете.
+      send_request: Изпращане на заявката
+      request_has_been_sent: Заявката ви е изпратена.
+    api:
+      api_key: API ключ
+      api_key_description: API ключът се използва от добавки, като например добавката за Outlook, и може да се използва за персонализирани интеграции. Нужен ви е само ако администратор ви помоли за това.
+      api_key_reset_warning: Сигурни ли сте? Ако нулирате API ключа, ще трябва да замените стария ключ навсякъде, където сте го използвали.
+      reset_api_key: Нулиране на API ключа
+    contacts:
+      contacts: Контакти
+      contacts_description: Можете да добавите колкото искате контакти. Всеки контакт може да има няколко имейл адреса, за да изпращате бързо и лесно до няколко получатели наведнъж.
+      add_contact: Добавяне на контакт
+      email_field_help: Списък с имейл адреси, разделени със запетаи.
+      contact:
+        edit_label: Редактиране на етикета
+        edit_email: Редактиране на имейл адреса
+        are_you_sure: Наистина ли искате да изтриете този контакт?
+    filedrops:
+      filedrops: Filedrop
+      filedrops_description: Вие сте основен получател или получател на копие на тези Filedrop. Всеки файл, изпратен чрез някой от тях, ще бъде доставен до вас.
+      name: Име
+      title: Заглавие
+      recipient: Получател
+      expires_after: Изтича след
+      max_size: Макс. размер на файла
+      url: URL
+      main_recipient: Основен получател
+      cc: Копие
+    personal_filedrop:
+      personal_filedrop: Личен Filedrop
+      personal_filedrop_description: Личният Filedrop е лесен начин да получавате файлове. Можете да изпратите връзката, да я публикувате на уебсайт или да я добавите в имейл подписа си. Ще получите известие веднага щом някой ви изпрати нещо чрез личния ви Filedrop.
+    previous_recipients:
+      previous_recipients: Предишни получатели
+      previous_recipients_description: Когато изпращате защитено съобщение, всеки получател се добавя към този списък с предишни получатели. Така можете бързо да изпращате отново до същите получатели. Получателите, на които не сте изпращали нищо в продължение на 180 дни, се премахват автоматично от списъка.
+      are_you_sure: Наистина ли искате да изтриете този предишен получател?
+    pw_dictionary:
+      based_on_a_dictionary_word: се основава на дума от речника
+      based_upon_your_password_entry: се основава на въведената парола
+      derived_from_your_password_entry: е производна на въведената парола
+      derivable_from_your_password_entry: може да бъде изведена от въведената парола
+      way_too_short: е ТВЪРДЕ кратка
+      too_short: е твърде кратка
+      it_does_not_contain_enough_different_characters: не съдържа достатъчно РАЗЛИЧНИ знаци
+      all_whitespace: съдържа само интервали
+      too_simplistic_systematic: е твърде проста/систематична
+      it_looks_like_a_national_insurance_number: прилича на ЕГН
+      based_on_a_reversed_dictionary_word: се основава на (обърната) дума от речника
+    show:
+      basic_settings: Основни настройки
+      change_password: Смяна на паролата
+      strong_auth: Двуфакторно удостоверяване
+      aliases: Псевдоними
+      previous_recipients: Предишни получатели
+      contacts: Контакти
+      personal_filedrop: Личен Filedrop
+      api: API
+      filedrops: Filedrop
+    sms_disable:
+      disable_sms_otp: Изключване на двуфакторното удостоверяване чрез SMS
+      disable_sms_otp_description: Ако искате да изключите двуфакторното удостоверяване чрез SMS, щракнете върху бутона по-долу. За потвърждаване на заявката ще бъде изпратен SMS код.
+      verify_token_description: "За да изключите двуфакторното удостоверяване чрез SMS, въведете кода, изпратен на мобилния ви телефон:"
+      code: Код
+      sms_token_failed: Невалиден SMS код, двуфакторното удостоверяване чрез SMS не можа да бъде изключено
+      sms_otp_has_been_disabled: Двуфакторното удостоверяване чрез SMS е изключено
+    sms_signup:
+      sms_signup_description: Можете да повишите сигурността на акаунта си, като включите двуфакторно удостоверяване. Въведете телефонния си номер по-долу, за да го включите.
+      phone_number: Телефонен номер
+    sms_enable:
+      signup_complete: Двуфакторното удостоверяване чрез SMS е включено
+    terms_of_service:
+      show:
+        title: Условия за ползване
+        accept_terms_of_service: Приемане на условията за ползване
+        do_not_accept: Не приемам
+      create:
+        you_need_to_accept: Трябва да приемете условията за ползване!
+  activerecord:
+    attributes:
+      attachment:
+        filename: Име на файла
+        size: Размер
+        secure_id: ID на прикачения файл
+        content_type: Тип на съдържанието
+        created_at: Създадено на
+        updated_at: Актуализирано на
+      download:
+        recipient: Получател
+        downloaded_at: Изтеглено на
+        remote_ip: Отдалечен IP
+        remote_host: Отдалечен хост
+        created_at: Създадено на
+        updated_at: Актуализирано на
+      filedrop:
+        name: Име
+        title: Заглавие
+        description: Описание
+        blocked_extensions: Блокирани разширения
+        permitted_extensions: Разрешени типове файлове
+        expires_after: Изтича след
+        max_filesize: Максимален размер на файла
+        created_at: Създадено на
+        updated_at: Актуализирано на
+        api_key: API ключ
+        cc: Копие
+        authorization: Упълномощаване
+      message:
+        recipients: Получатели
+        sender: Подател
+        cc: Копие
+        bcc: Скрито копие
+        message: Съобщение
+        subject: Тема
+        deleted: Изтрито
+        authorization: Упълномощаване
+        created_at: Създадено на
+        updated_at: Актуализирано на
+        expires_at: Изтича на
+      share/log:
+        created_at: Дата
+      share/file:
+        checksum: Контролна сума (SHA256)
+      share/file/version:
+        whodunnit: Променено от
+        created_at: Променено на
+      user:
+        name: Име
+        email: Имейл адрес
+        quota: Квота
+        used: Използвано
+        max: Макс.
+        password: Парола
+        ldap_authentication: LDAP удостоверяване
+        api_key: API ключ
+        level: Ниво
+        filedrop: Filedrop
+    models:
+      configuration: Конфигурация
+      attachment: Прикачен файл
+      filedrop: Filedrop
+      message: Съобщение
+      user: Потребител
+      download: Изтегляне
+  admin:
+    groups:
+      form:
+        bcc_myself: Изпращане на копие до мен
+        can_change_bcc_myself: Потребителите в тази група могат да променят настройката за изпращане на копие до себе си
+      index:
+        default_group_assignment: Разпределение по група по подразбиране
+    users:
+      users:
+        email: Имейл адрес
+        name: Име
+        group: Група
+        max: Макс. размер на файла
+        quota: Квота
+        strong_auth: Силно удостоверяване
+        filedrop: Filedrop
+        last_login_at: Последен вход
+        last_login_ip: IP на последния вход
+        created: Създадено
+      form:
+        name_label: Име
+        email: Имейл адрес
+        password: Парола
+        password_confirmation: Потвърждаване на паролата
+        max_label: Максимален размер на файла
+        group: Група
+        strong_auth: Силно удостоверяване
+        strong_auth_username: Потребителско име за силно удостоверяване
+        api_key: API ключ
+        filedrop: Filedrop
+  attachments:
+    not_found: Прикаченият файл не е намерен
+  config:
+    settings: Настройки
+    email: Имейл
+    language_preferences_from_your_browser: Езикови предпочитания на браузъра
+    authentication: Удостоверяване
+    time_zone: Часова зона
+    current_time_zone: Текуща часова зона
+    time_zone_from_browser: Часова зона, открита от браузъра
+    time_zone_config_description: Ако оставите часовата зона на „Открито автоматично“, ще се използва часовата зона, открита от браузъра ви (всички часове ще се показват в нея). Ако браузърът не може да открие часовата зона, ще се използва часовата зона на системата по подразбиране. Ако браузърът не открива правилната часова зона или искате да виждате часовете в друга зона, можете да зададете конкретна часова зона.
+    time_zone_default: Часова зона на системата по подразбиране
+    email_settings: Настройки на имейла
+    configuration: Конфигурация
+    local_domains: Локален домейн
+    ldap_users: Потребители, удостоверени чрез LDAP
+    ldap_users_are_always_local: Потребителите, удостоверени чрез LDAP, винаги са локални
+    separated_by_comma: разделени със запетаи
+    default_max_file_size: Максимален размер на файла по подразбиране
+    local_users: Локални потребители
+    external_users: Външни потребители
+    allow_registration: Разрешаване на регистрация
+    allow_registration_desc: Разрешаване на регистрация от страницата за вход
+    external_user_account: Външни получатели
+    external_user_account_desc: Външните получатели трябва да създадат акаунт
+    allow_users_to_change_expiration: Потребителите могат да променят срока на валидност на файловете
+    authorization: Разрешение
+    authorization_description: Настройка по подразбиране кой може да изтегля файлове.
+    file_expiration: Срок на валидност
+    default_expire_files_after: По подразбиране файловете изтичат след
+    delete_downloaded_files_after: Изтриване на изтеглените файлове след
+    branding: Брандиране
+    company_name: Име на компанията
+    custom_stylesheet: Персонализиран стилов файл
+    custom_javascript: Персонализиран JavaScript
+    logotype: Лого
+    leave_blank_for_default: оставете празно за стойността по подразбиране
+    email_configuration: Конфигурация на имейла
+    email_sender_address: Адрес на подателя
+    email_host: Базов URL адрес на имейлите
+    email_footer: Долен колонтитул на имейла
+    email_relay_host: Сървър за препредаване на имейли
+    email_relay_username: Потребителско име за препредаване на имейли
+    email_relay_password: Парола за препредаване на имейли
+    port: Порт
+    unlicensed_install_some_settings: "Инсталация без лиценз: настройките за брандиране са видими само за системните администратори"
+    mail_relay_example: "Напр.: mailrelay.domein.bg, mx.domein.bg:587"
+    ldap: LDAP
+    please_see_the: вижте
+    for_more_information: за повече информация
+    virus_scan: Антивирусно сканиране
+    virus_scan_description: Сканиране на файловете за вируси
+    blocked_file_extensions: Блокирани файлови разширения
+    default_bcc_myself_label: Изпращане на копие до мен
+    default_bcc_myself: По подразбиране изпращане на копие до мен
+    allow_users_to_change_require_login_label: Изискване на удостоверяване
+    allow_users_to_change_require_login: Потребителите могат да променят „Изискване на удостоверяване“
+    permitted_file_extensions_label: Разрешени файлови разширения
+    delete: Изтриване
+    ldap_description: "Включете LDAP удостоверяването на потребителите и задайте основните параметри за връзка с LDAP сървъра. Ако не е посочен порт, ще се използва LDAP портът по подразбиране 389 (или порт 636, ако SSL е включен). Забележка: порт 3268 НЕ се използва за удостоверяване в Active Directory, а само за търсене в глобалния адресен указател. Вместо него използвайте порт 389/636."
+    ldap_authentication: LDAP удостоверяване
+    basic_settings: Основни настройки
+    server: Име на сървъра / IP адрес
+    username: Потребителско име
+    password: Парола
+    authentication_description: Този потребител ще се използва за свързване с LDAP сървъра (оставете празно за анонимно свързване). Потребителят трябва да има права за търсене в LDAP дървото.
+    search_key: Ключ за търсене
+    search_key_description: Ключът за търсене и домейнът се използват за намиране на потребители в LDAP дървото. Таблицата по-долу показва как ключът за търсене и домейнът работят заедно за намиране на потребител.
+    search_key_description2: Така че, ако LDAP ключът за търсене съдържа имейл адреса, домейнът трябва да остане празен. Ако LDAP ключът за търсене съдържа само потребителското име, домейнът трябва да съдържа домейна на потребителите.
+    search_key_defaults: "За Active Directory добра отправна точка е: sAMAccountName като LDAP ключ за търсене и firma.bg (вашият домейн) като домейн."
+    user_enters: Потребителят въвежда
+    authorized_ldap_groups: Упълномощени LDAP групи
+    available_groups: Налични групи
+    default_settings: Настройки по подразбиране
+    setting: Настройка
+    value: Стойност
+    description: Описание
+    default_local_max_description: Това е максималният размер на файла по подразбиране за нови локални потребители. Може да се променя за отделните потребители.
+    user_changeable: Може ли потребителят да го промени?
+    non_local: Нелокален
+    remote: Отдалечен
+    new_external_recipient_is_nonlocal: Новите външни получатели са
+    email_message_on_top_label: Съобщението отгоре
+    email_message_on_top: Съобщението се показва над списъка с файлове в имейла до получателите
+    use_either_permitted_or_blocked_extensions: Трябва да изберете или разрешени, или блокирани разширения, но не и двете
+    invalid_password: Невалидна парола
+    valid_password: Валидна парола
+    test_password_validation: Тестване на проверката на паролата
+    custom_password_validation: Персонализирана проверка на паролата
+    custom_password_validation_description: "Този регулярен израз ще се използва за персонализирана проверка на паролите. Въведете само регулярния израз, без разделители (не започвайте и не завършвайте с '/'). Пример: [a-zA-Z0-9]{7,} (паролите ще могат да съдържат само a-z, A-Z и 0-9, минимум 7 знака)"
+    filedrop: Filedrop
+    receive: Получаване
+    api_settings: Настройки на API
+    enable_api_label: Включване на API
+    enable_api_description: Включване на API за достъп чрез добавки и скриптове
+    enable_api_group_config: Допълнителни настройки на API има в конфигурацията на групите.
+    api_client_size_override_label: Праг на размера за API клиентите
+    api_client_size_override_description: API клиентите ще изпращат файловете, по-големи от този размер, през устройството
+    sso_secret_key: Таен SSO ключ
+    generate_key: Генериране на нов ключ
+    sso_replace_confirm: Сигурни ли сте? При замяна на тайния SSO ключ съществуващите SSO интеграции ще спрат да работят.
+    virus_scan_skip_locals: Пропускане на антивирусното сканиране за локални потребители
+    virus_scan_skip_locals_description: Да не се сканират файловете на локалните потребители за вируси
+    virus_scan_permit_unscanned: Разрешаване на несканирани файлове
+    virus_scan_permit_unscanned_description: Разрешаване на изтегляне на файлове, които още не са сканирани за вируси
+    userdrop: Потребителски Filedrop
+    user_filedrop_with_random_key: Потребителски Filedrop със случаен ключ
+    enable_userdrop: Включване на потребителски Filedrop
+    example: Пример
+    user_filedrop_with_email: Потребителски Filedrop с имейл адреси
+    enable_userdrop_email: Включване на потребителски Filedrop с имейл адрес
+    userdop_email_data_leakage: Това би могло да се използва за откриване на локални имейл адреси чрез изпробване на адреси в URL адреса на Filedrop и проследяване кои дават валиден отговор.
+    userdrop_files_expire_after: Предадените файлове изтичат след
+    userdrop_max_filesize: Максимален размер на файла за потребителски Filedrop
+    bruteforce_label: Защита от атаки с груба сила
+    bruteforce_description_1: Блокиране на IP адреса за
+    bruteforce_description_2: минути след
+    bruteforce_description_3: неуспешни опита за вход/регистрация в рамките на
+    bruteforce_description_4: минути
+    bruteforce_whitelist_label: Бял списък за защита от груба сила
+    allowed_admin_networks_label: Мрежи за администриране
+    allowed_admin_networks_description: Ограничаване на администраторския достъп до тези хостове и мрежи. Localhost (127.0.0.1, ::1) винаги е разрешен
+    enable_strong_authentication: Включване на силно удостоверяване по подразбиране за тези типове потребители
+    authenticated_username: Удостоверено потребителско име
+    duo_hostname: Име на хоста на Duo
+    duo_client_id: Ключ за интеграция с Duo
+    duo_client_secret: Таен ключ на Duo
+    strong_authentication_test: Тестване на силното удостоверяване
+    stronger_password: Изберете по-сигурна парола.
+    cannot_begin_or_end_with_blank: Паролата не може да започва или завършва с интервал.
+    at_least_one_invalid_domain: Поне един невалиден домейн
+    at_least_one_invalid_email: Поне един невалиден имейл адрес
+    email_security_level: Ниво на сигурност при доставката на имейли
+    geoip: GeoIP търсене
+    geoip_description: Изтегля данни за местоположението от https://geoip.liquidfiles.com и показва карти.
+    tooltip:
+      local_domains: Локалният потребител може да изпраща файлове до всеки. Нелокалният потребител може да изпраща файлове само до локални потребители. При първото влизане на потребителя или при създаването на акаунта домейнът на имейл адреса се сравнява с тези домейни, за да се определи дали потребителят се счита за локален.
+      ldap_users_are_always_local: Всеки потребител, удостоверен чрез LDAP, автоматично се счита за локален, независимо от домейна.
+      allow_registration: Разрешава регистрация от страницата за вход. Въз основа на списъка с локални домейни се определя дали новият потребител е локален или нелокален.
+      local_user_maxfile: Когато локален потребител се регистрира или се удостовери за първи път чрез отдалечено удостоверяване, му се задава този максимален размер на файла.
+      nonlocal_user_maxfile: Когато нелокален потребител се регистрира, му се задава този максимален размер на файла.
+      delete_downloaded_files_after: Изтегленият файл се пази толкова време. То трябва да е достатъчно дълго, за да може получателят да избере друго място за изтегляне или да започне отначало, но достатъчно кратко, за да не се разпространи връзката до други хора.
+      file_expiration: Позволява на потребителите да променят срока на валидност на файловете. Ако това не е включено, всички файлове получават срока по подразбиране.
+      default_expire_files_after: Файловете ще изтекат след този период.
+      blocked_file_extensions: Блокиране на файлове с тези разширения (без значение главни или малки букви).
+      virus_scan: Сканиране на всички качени файлове за вируси с антивирусната програма ClamAV
+      require_authentication_permission: Ако е включено, потребителите могат сами да избират дали да се изисква удостоверяване
+      default_bcc_myself: Ако е включено, съобщенията по подразбиране се изпращат и до самия потребител
+      permitted_file_extensions: "Ако е празно, всички разширения са разрешени. Ако е въведено поне едно разширение, разрешени са само въведените типове файлове. Пример: png, gif, jpg, txt"
+      new_external_recipient_is_nonlocal: Когато съобщение се изпраща до нов получател, той трябва ли да се създаде като нелокален потребител (за да може да отговори) или като външен потребител?
+      email_message_on_top: Ако е отметнато, съобщението се показва над списъка с файлове в имейла до получателите. Ако не е, списъкът с файлове се показва над съобщението.
+      email_sender: Този имейл адрес ще се използва като подател на имейлите, генерирани от системата, например при нулиране на парола. За да не бъдат маркирани като спам, той трябва да е реален имейл адрес.
+      email_host: Прикачените файлове ще използват този URL адрес като базов. Обикновено това е http://imenahost.domein или https://imenahost.domein, но може да бъде и https://imenahost.domein:4433, ако използвате пренасочване на портове в защитната стена, когато потребителите се свързват с устройството LiquidFiles.
+      email_footer: Този подпис ще бъде добавен към всички изходящи имейли.
+      email_relay: Използване на този пощенски сървър за препредаване на изходящите имейли.
+      email_relay_username: Акаунт, с който се влиза в сървъра за препредаване на имейли
+      email_relay_password: Парола на акаунта, с който се влиза в сървъра за препредаване на имейли
+  date:
+    formats:
+      default: "%d.%m.%Y"
+      short: "%d.%m"
+      medium: "%d.%m.%Y"
+      long: "%d.%m.%Y"
+  time:
+    am: пр.об.
+    pm: сл.об.
+    formats:
+      default: "%d.%m.%Y %H:%M:%S %z"
+      short: "%d.%m %H:%M"
+      medium: "%d.%m.%Y %H:%M"
+      long: "%d.%m.%Y %H:%M"
+  downloads:
+    download_id: ID на изтеглянето
+    index:
+      download_log_title: Изтегляния
+      download_log_description: Кой какво и кога е изтеглил
+      paginator_entry_name: изтегляния
+    show:
+      no_map_for_reserved_address: Не може да се покаже карта за запазени адреси
+  filedrop:
+    filedrop: Filedrop
+    no_such_filedrop: Такъв Filedrop не съществува
+    invalid_filedrop_url: Невалиден URL адрес на Filedrop
+    invalid_filedrop_url_description: На този URL адрес няма Filedrop. Проверете URL адреса и опитайте отново.
+    label: Filedrop
+    mb: MB
+    name: Име
+    name_description: Кратко име, което се използва и в URL адреса (напр. /filedrop/ime)
+    title: Заглавие
+    title_description: Заглавието в горната част на страницата
+    description: Описание
+    description_description: Описанието под заглавието
+    user: Получаващ потребител
+    user_description: Всеки локален потребител може да бъде зададен като получател
+    cc: Копие
+    cc_description: "(разделени със запетаи) Изпращане на копие до тези адреси"
+    expires_after: Изтича след
+    expires_after_description: дни
+    max_filesize: Максимален размер на файла
+    max_filesize_description: MB
+    reset_filedrop: Нулиране на URL адреса на Filedrop
+    filedrop_reset_warning: Сигурни ли сте? Ако нулирате URL адреса на Filedrop, ще трябва да го замените навсякъде, където сте го публикували.
+    permitted_extensions: Разрешени разширения
+    permitted_extensions_description: Ще бъдат разрешени само тези типове файлове
+    blocked_extensions: Блокирани разширения
+    blocked_extensions_description: Тези типове файлове ще бъдат блокирани
+    demo_license_warning_standard: За използването на Filedrop в производствена среда е необходим лиценз. Надградете до лиценз Pro, за да включите функцията Filedrop.
+    max_one_during_demo: По време на демонстрацията или с лиценз Standard можете да конфигурирате най-много един Filedrop
+    filedrop_info: Filedrop позволява на клиентите ви да ви изпращат файлове без удостоверяване или предварителна настройка. Всеки Filedrop има постоянен URL адрес, към който можете да насочвате от уеб страници или имейл подписи. Когато някой предаде файл във Filedrop, той автоматично се изпраща до предварително определен потребител.
+    authorization: Разрешение
+    authorization_description: кой може да изтегля файловете, предадени във Filedrop
+    you_will_be_notified: Ще получите потвърждение за изтегляне, когато файловете ви бъдат изтеглени.
+    require_authentication: Този Filedrop изисква удостоверяване. Въведете паролата, за да продължите.
+    authenticate: Удостоверяване
+    authentication_failed: Удостоверяването е неуспешно
+    require_validation: Този Filedrop изисква удостоверяване или потвърждаване на имейл адреса ви.
+  filelink:
+    filelink: FileLink
+    filelinks: FileLink
+    filelink_title: FileLink
+    filelink_description: FileLink е връзка към един файл. Можете да изпратите тази връзка до всеки, без да създавате съобщение или да посочвате получатели. Само хората, на които сте изпратили случайната връзка, ще могат да изтеглят файла.
+    expired_or_nonexistent_title: Невалиден FileLink
+    expired_or_nonexistent: Този FileLink е изтекъл или не съществува. Свържете се с подателя за нова връзка.
+    existing_filelinks: Съществуващи FileLink
+    new_filelink: Нов FileLink
+    available_files: Налични файлове
+    filename: Име на файла
+    filesize: Размер на файла
+    expires_at: Изтича
+    link: Връзка
+    checksum: Контролна сума
+    copy_link_to_clipboard: Копиране на FileLink в клипборда
+    expire_link_at: Връзката изтича на
+    you_have_no_filelinks: Нямате FileLink. Добавете нов FileLink или създайте такъв от наличен файл.
+    you_have_no_files_available: Нямате изпратени преди това файлове. Щом изпратите поне един файл, можете да го изберете тук, за да създадете FileLink.
+    create_link: Създаване на връзка
+    invalid_file: Невалиден файл, не може да се създаде FileLink
+    delete: Изтриване
+    delete_link_warning: Наистина ли искате да изтриете този FileLink?
+    could_not_delete_link: FileLink не можа да бъде изтрит. Връзката не е намерена!
+    filelink_deleted: FileLink е изтрит!
+    select_file: Избиране на файл
+    send_download_receipts: Изпращане на потвърждения за изтегляне
+    disabled: FileLink е изключен, свържете се с администратор
+    unauthorized: Нямате права да използвате FileLink
+    require_authentication: Изискване на удостоверяване
+    filelink_require_authentication: Този FileLink изисква удостоверяване
+    filelink_url: URL адрес на FileLink
+    expired: Изтекъл
+    filelink_expired: FileLink е изтекъл
+    select_from_available_files: Можете също да създадете FileLink от някой от тези съществуващи файлове.
+    downloads: Изтегляния
+    authentication_failed: Удостоверяването е неуспешно
+    password_label_html: Парола <small class="text-muted">(незадължително)</small>
+    password_present_html: За този FileLink е зададена парола.<br>Можете да я премахнете, като запазите празна парола.
+    password_not_present: Не е зададена парола.
+    copy_to_clipboard: Копиране на FileLink в клипборда
+    add_file: Добавяне на файл
+  ftpdrop:
+    create:
+      ftpdrop: FTPdrop
+  html_editor:
+    font:
+      bold: Получер
+      italic: Курсив
+      underline: Подчертаване
+      clear: Премахване на форматирането
+      height: Височина на реда
+      name: Шрифт
+      strikethrough: Зачертаване
+      subscript: Долен индекс
+      superscript: Горен индекс
+      size: Размер на шрифта
+    image:
+      image: Изображение
+      insert: Вмъкване на изображение
+      resize_full: Пълен размер
+      resize_half: Половин размер
+      resize_quarter: Четвърт размер
+      float_left: Подравняване вляво
+      float_right: Подравняване вдясно
+      float_none: Без подравняване
+      shape_rounded: "Форма: заоблена"
+      shape_circle: "Форма: кръг"
+      shape_thumbnail: "Форма: миниатюра"
+      shape_none: "Форма: без"
+      url: URL адрес на изображението
+      remove: Премахване на изображението
+    link:
+      link: Връзка
+      insert: Вмъкване на връзка
+      unlink: Премахване на връзката
+      edit: Редактиране
+      text_to_display: Текст за показване
+      url: Към кой URL адрес да води тази връзка?
+      open_in_new_window: Отваряне в нов прозорец
+    table:
+      table: Таблица
+    hr:
+      insert: Вмъкване на хоризонтална линия
+    style:
+      style: Стил
+      normal: Нормален
+      blockquote: Цитат
+      pre: Код
+      h1: Заглавие 1
+      h2: Заглавие 2
+      h3: Заглавие 3
+      h4: Заглавие 4
+      h5: Заглавие 5
+      h6: Заглавие 6
+    lists:
+      unordered: Списък с водещи символи
+      ordered: Номериран списък
+    options:
+      help: Помощ
+      fullscreen: Цял екран
+      codeview: Изглед на кода
+    paragraph:
+      paragraph: Абзац
+      outdent: Намаляване на отстъпа
+      indent: Увеличаване на отстъпа
+      left: Подравняване вляво
+      center: Центриране
+      right: Подравняване вдясно
+      justify: Двустранно подравняване
+    color:
+      recent: Последен цвят
+      more: Още цветове
+      background: Цвят на фона
+      foreground: Цвят на текста
+      transparent: Прозрачно
+      set_transparent: Задаване на прозрачност
+      reset: Нулиране
+      reset_to_default: Връщане към стойностите по подразбиране
+    shortcut:
+      shortcuts: Клавишни комбинации
+      close: Затваряне
+      text_formatting: Форматиране на текста
+      action: Действие
+      paragraph_formatting: Форматиране на абзаца
+      document_style: Стил на документа
+      extra_keys: Допълнителни клавиши
+    history:
+      undo: Отмяна
+      redo: Повторение
+  invite:
+    invite_user: Поканване на потребител
+    description: Можете да поканите потребители да споделят файлове с вас. След като въведете данните им, те ще получат имейл с инструкции за завършване на регистрацията.
+    send_invite: Изпращане на покана
+    name_placeholder: Пълно име
+    invitation_sent: Поканата е изпратена
+    not_permitted_to_invite_users: Нямате права да каните потребители.
+    invalid_email: Невалиден имейл адрес
+  link:
+    show:
+      set_password: Задаване на парола
+      download: Изтегляне
+      downloads_and_info: Всички изтегляния и повече информация
+    authenticate:
+      show:
+        title: Парола за FileLink
+        authenticate: Удостоверяване
+        require_authentication: За да отворите този FileLink, трябва да въведете необходимата парола.
+      create:
+        authentication_failed: Удостоверяването е неуспешно.
+    downloads:
+      index:
+        back_to_filelink: Обратно към FileLink
+    link_downloads:
+      latest_downloads: Последни изтегляния (%{count} от общо %{total})
+  menu:
+    shares: Share
+    messages: Съобщения
+    send_files: Ново съобщение
+    users: Потребители
+    active_transfers: Активни прехвърляния
+    configuration: Конфигурация
+    system: Система
+    message_list: Списък със съобщения
+    settings: Настройки
+    admin: Администриране
+    account: Акаунт
+    inbox: Входяща поща
+    sent_messages: Изпратени
+    downloads: Дневник на изтеглянията
+    filelink: FileLink
+    secure_messages: Защитени съобщения
+    support: Поддръжка
+  message:
+    message_sent: Съобщението е изпратено
+    not_found: Съобщението не е намерено
+    message_not_found_header: Съобщението не е намерено!
+    message_not_found_description: Помолете подателя да изпрати това съобщение отново.
+    previous_recipients: Предишни получатели
+    contacts: Контакти
+    is_not_permitted: не е разрешено
+    not_permitted_to_delete_messages: Нямате права да изтривате съобщения
+    is_not_in_any_of_the_allowed_domains: не е в нито един от разрешените домейни
+    is_not_in_any_of_the_allowed_groups: не е в нито една от разрешените групи
+    attach_1_file: Трябва да прикачите поне един файл
+    too_many_files: Прикачени са твърде много файлове. Можете да прикачите най-много %{count} файла към едно съобщение.
+    attached_files: Прикачени файлове
+    expired: Съобщението е изтекло
+    authorize:
+      show:
+        title: Влезте, за да отворите защитеното съобщение
+        authenticate_description_html: На път сте да прегледате защитено съобщение. Първо трябва да влезете. Въведете имейл адреса си или влезте, за да продължите.<br>Ако нямате акаунт в тази система, въведете имейл адреса си и ще ви изпратим защитена връзка за потвърждаването му.
+        unauthenticated_html: <h4>Невалидно потребителско име или парола</h4><p>Въведете потребителското си име и парола. Можете да нулирате паролата си с бутона Нулиране на паролата по-долу.</p>
+        unauthorized_to_view_check_email_html: <h4>Неупълномощен имейл адрес</h4><p>Проверете дали защитеното съобщение [<span class="font-monospace fw-bold">%{message_id}</span>] е изпратено до вас и въведете имейл адреса точно така, както е изпратено съобщението.</p><p>Например, ако имейл адресът ви може да бъде както ivan.petrov@firma.bg, така и ipetrov@firma.bg, системата няма как да знае, че това е един и същ адрес. Ако защитеното съобщение е изпратено до ivan.petrov@firma.bg, тук трябва да въведете именно този адрес.</p><p>Ако не сте сигурни, свържете се с подателя на защитеното съобщение.</p>
+    errors:
+      not_authorized_to_view_message: "Нямате права да прегледате съобщението с ID: %{message_id}. Проверете дали това съобщение е изпратено до вас."
+      private_message_requires_authentication: Личните съобщения изискват удостоверяване
+    attachments:
+      download_attachment_details_csv: Изтегляне на данните за прикачените файлове (CSV)
+      attachment:
+        fileinfo: Информация за файла
+        file_size: Размер на файла
+        content_type: Тип на съдържанието
+        checksum: Контролна сума
+        virus_status: Антивирусен статус
+    compose:
+      options_permission:
+        authentication_required: Изисква се удостоверяване
+        authentication_not_required: Не се изисква удостоверяване
+        require_authentication_description: Трябва ли получателите да се удостоверят, за да отворят това съобщение?
+        access_restriction_html: Ограничение на достъпа<br><small class="text-muted">Кой има достъп до това съобщение?</small>
+        recipients_only_html: Само<br>получатели
+        recipients_plus_locals_html: Получатели<br>+ локални потребители
+        recipients_plus_domains_html: Получатели<br>+ домейни
+        anyone_secret_link_html: Всеки<br>(тайна връзка)
+    unavailable:
+      header: Съобщението не е налично
+      description: Това съобщение е изтекло, изтрито е, не съществува или вече не е налично. Помолете подателя да изпрати съобщението отново.
+    downloads:
+      index:
+        download_log_title: Дневник на изтеглянията
+        message_id: ID на съобщението
+        paginator_entry_name: Изтегляния
+      download:
+        details: Подробности
+      not_found:
+        title: Съобщението или изтеглянето не е намерено
+        description_html: Съобщението или изтеглянето не е намерено или нямате права да го прегледате
+    temporary_user:
+      create:
+        invalid_temporary_user: Невалидна парола. Проверете имейла с временната си парола или поискайте нова временна парола.
+        temporary_user_expired: Тази временна парола е изтекла. На имейл адреса ви е изпратена нова временна парола. Проверете входящата си поща и използвайте новата временна парола.
+        not_authorized_to_view_message: "Нямате права да прегледате съобщението с ID: %{message_id}. Проверете дали това съобщение е изпратено до вас."
+      show:
+        title: Въведете временната си парола
+        description_html: "На път сте да прегледате защитено съобщение. За да го отворите, трябва да въведете временната си парола.<br>Временната парола е уникален случаен низ, който ви идентифицира. Временната парола ви е изпратена в отделен имейл (тема: Временна парола)."
+        what_is_this: Какво е това?
+        login: Вход
+        submit: Проверка на временната парола
+        submit_email: Изпращане
+        if_you_have_account: "(ако вече имате акаунт)"
+        request_temporary_user_header: Поискване на нова временна парола
+        request_temporary_user_description_html: Можете да поискате нова временна парола, за да отворите това съобщение. Въведете имейл адреса си по-долу, за да поискате нова временна парола за това защитено съобщение.
+        info_header: Информация за временната парола
+        info_body_html: "<p>Временната парола е уникална поредица от цифри и букви, например:</p><pre><code>3ynp-7FKa-pZS9</code></pre><p><em>Тази временна парола е само пример, за да видите как изглежда – тя не може да се използва.</em></p><p>Във входящата си поща ще намерите <strong>два имейла</strong>: имейла със защитеното съобщение и имейл с <strong>тема, която започва с: Временна парола</strong>. Вторият съдържа вашата уникална временна парола за тази система.</p><p>Ако не сте получили имейл с временна парола, възможно е вече да имате акаунт в тази система. В такъв случай щракнете върху „Вход“.</p><p>Ако смятате, че е трябвало да получите временна парола, но не сте, щракнете върху „Поискване на временна парола“, за да получите нова.</p>"
+        email_address: Имейл адрес
+        email_not_permitted: Този имейл адрес няма права да преглежда това защитено съобщение.
+        email_not_permitted_description_html: <p>Проверете получения имейл със защитеното съобщение и въведете имейл адреса точно така, както е изпратено съобщението.</p><p>Например, ако имейл адресът ви може да бъде както ivan.petrov@firma.bg, така и ipetrov@firma.bg, системата няма как да знае, че това е един и същ адрес. Ако защитеното съобщение е изпратено до ivan.petrov@firma.bg, тук трябва да въведете именно този адрес.</p><p>Ако не сте сигурни, свържете се с подателя на защитеното съобщение.</p>
+        email_can_login: Вече имате акаунт в тази система
+        email_can_login_description_html: <p>Можете да влезете в тази система с този имейл адрес и паролата си.</p><p>Щракнете върху бутона Вход по-долу, за да влезете със съществуващия си акаунт.</p>
+        temporary_user_delivered_header: Временната парола е изпратена
+        temporary_user_delivered_description_html: <p>На имейл адреса ви е изпратена временна парола. Проверете входящата си поща, затворете този прозорец и въведете временната парола.</p>
+    reply:
+      re: "Отг:"
+      wrote: написа
+      show:
+        title: Отговор на защитено съобщение
+        from: От
+        reply: Отговор
+        reply_all: Отговор до всички
+      options:
+        options_description: Имайте предвид, че всички опции се наследяват от оригиналното съобщение.
+    show:
+      back: Назад
+      message_header: Заглавна част на съобщението
+      reply: Отговор
+  messages:
+    sent:
+      skipped_file_not_found: Пропуснато - файлът не е намерен
+      show:
+        sent_title: Изпратени
+        sent_description: Съобщения, които сте изпратили
+        paginator_entry_name: съобщения
+    attachments:
+      download_cmd:
+        unauthorized:
+          header: Нямате права
+          body: Нямате права да изтеглите този файл. Помолете подателя да ви го изпрати отново.
+          back: Назад
+        exceeded:
+          header: Превишен лимит за изтегляне
+          body: Лимитът за изтегляне на този файл е превишен. Помолете подателя да ви го изпрати отново.
+          back: Назад
+    download_zip:
+      unauthorized:
+        header: Нямате права
+        body: Нямате права да изтеглите този архив. Помолете подателя да ви изпрати файла отново.
+        back: Назад
+      exceeded:
+        header: Превишен лимит за изтегляне
+        body: Лимитът за изтегляне на един или повече файлове в този архив е превишен. Помолете подателя да ви изпрати файла отново.
+        back: Назад
+    message:
+      reply: Отговор
+      reply_all: Отговор до всички
+  models:
+    user:
+      no_need_to_create_local_user: Не е необходимо да се създава локален потребител
+      license_exceeded: Превишен е лимитът на лиценза
+  notifier:
+    activate_user_subject: "[%{hostname}] Активиране на акаунта"
+    user_activation: Активиране на потребител
+    please_visit_the_following_url_to_activate: Щракнете върху следната връзка, за да активирате акаунта си
+    the_following_files_are_attached: Към това съобщение са прикачени следните файлове
+    please_visit_the_following_url: Щракнете върху тази връзка, за да изтеглите прикачените файлове
+    attachments_are_available: Прикачените файлове са налични до
+    message_id: "ID на съобщението: %{id}"
+    email_password_reset_subject: Нулиране на паролата
+    download_receipt_subject: "Потвърждение за изтегляне [ID: %{message_id}]"
+    a_file_that_you_sent: Файл, който сте изпратили, е изтеглен. Запазете този имейл като доказателство за изтеглянето.
+    recipient: Получател
+    filename: Име на файла
+    time_of_download: Час на изтегляне
+    downloaded_from: Изтеглено от
+    download_receipt: Потвърждение за изтегляне
+    user_created:
+      account_created: Акаунтът е създаден
+      subject: "[%{hostname}] Акаунтът е създаден"
+      message: "Очаква ви защитен прикачен файл. За да го изтеглите, трябва да се удостоверите. Щракнете върху следната връзка, за да се регистрирате:"
+  outlook:
+    messages:
+      new:
+        attachments_header: Прикачени файлове
+        attachments_hint: Можете да прикачите файлове, като ги плъзнете в секцията по-долу или щракнете върху бутона Прикачване на файлове.
+        add_to_message: Добавяне към съобщението
+      attachments:
+        attach_files: Прикачване на файлове
+        drop_files_here: Пуснете файловете тук...
+      options:
+        recipients_can_reply: Получателите могат да отговарят
+        send_copy_to_myself: Изпращане на копие до мен
+        private_message: Лично съобщение
+        private_message_required_auth_error: При изпращане на лично съобщение трябва да използвате режима „Изисква се удостоверяване“.
+      options_authorization:
+        authentication_authorization_title_html: Удостоверяване &amp; упълномощаване
+        authentication_select_title: Избор на удостоверяване
+        authentication_required: Изисква се удостоверяване
+        authentication_not_required: Не се изисква удостоверяване
+        authorization_select_title: Избор на упълномощаване
+        recipients_only: Само получатели
+        recipients_locals: Получатели + локални потребители
+        recipients_domains: Получатели + домейни
+        anyone: Всеки (тайна връзка)
+      options_expiration:
+        message_expires: Съобщението изтича
+        message_expires_after: Съобщението изтича след
+  pagination:
+    first: "&laquo; Първа"
+    last: Последна &raquo;
+    previous: "&lsaquo; Предишна"
+    next: Следваща &rsaquo;
+    truncate: "&hellip;"
+  requests:
+    title: Заявка за файлове
+    file_request: Заявка за файлове
+    files_sent: Файловете са изпратени, благодарим ви!
+    request_file: Заявяване на файл
+    file_requests: Заявки за файлове
+    description: Със заявка за файлове можете да помолите някого да ви изпрати файлове. След като въведете данните, лицето ще получи имейл с уникална връзка, чрез която може да ви изпрати исканите файлове.
+    file_request_not_found: Заявката за файлове не е намерена
+    file_request_expired: Заявката за файлове е изтекла
+    file_request_already_used: Заявката за файлове вече е използвана
+    file_request_sent: Заявката за файлове е изпратена
+    not_permited: Нямате права да използвате функцията за заявки за файлове
+    multiuse: Многократна употреба - тази връзка за заявка за файлове може да се използва многократно
+    invalid_recipient: Невалиден получател, тази заявка за файлове е изпратена до някой друг
+    invalid_user: Това не е вашата заявка за файлове
+    index:
+      title: Заявки за файлове
+      new_file_request: Нова заявка за файлове
+      multiuse: Многократна употреба
+      responded_to: С отговор
+      hide_expired: Скриване на изтеклите и използваните
+      show_expired: Показване на изтеклите и използваните
+    request:
+      resend: Повторно изпращане
+      are_you_sure_you_want_to_delete: Наистина ли искате да изтриете тази заявка за файлове?
+    popup:
+      from: От
+      to: До
+      subject: Тема
+      message: Съобщение
+    resend:
+      request_resent: Заявката за файлове е изпратена повторно
+    new:
+      request_expires: Заявката изтича
+  send:
+    send: Изпращане
+    sent: Изпратено
+    recipients: До
+    send_as: Изпращане като
+    you_can_only_send_files_to_yourself: Можете да изпращате файлове само до себе си
+    subject: Тема
+    subject_placeholder: Тема
+    attachments: Прикачени файлове
+    max_file_size: "Максимален размер на прикачените файлове: %{filesize} MB"
+    upload_queue: Опашка за качване
+    remove: Премахване
+    cancel_all: Отказ на всички
+    cancel_all_uploads: Отказ на всички качвания
+    message: Съобщение
+    message_placeholder: Съобщение
+    done_editing_please_send: Приключих с редактирането, изпратете файловете, когато всички качвания приключат
+    files_sent_successfully: Файловете са изпратени успешно
+    you_need_at_least_one_recipient: Необходим е поне един получател
+    you_need_at_least_one_attachment: Необходим е поне един прикачен файл
+    options: Опции
+    cc: Копие
+    bcc: Скрито копие
+    bcc_message_description: Получателите на скрито копие няма да се показват на останалите получатели
+    add_cc: добавяне на копие
+    add_bcc: добавяне на скрито копие
+    bcc_myself: Изпращане на копие до мен
+    require_login: Изискване на вход за изтегляне на файловете
+    only_specified_recipients_can_download: Само посочените получатели могат да изтеглят прикачените файлове
+    anyone_can_download: Всеки може да изтегли прикачените файлове
+    expires_in: Прикачените файлове могат да се изтеглят в продължение на
+    expires_at: Прикачените файлове изтичат на
+    send_options: Опции за изпращане
+    to: До
+    from: От
+    filename: Име на файла
+    filesize: Размер на файла
+    downloaded_at: Изтеглено на
+    message_sent: Съобщението е изпратено
+    message_expires: Съобщението изтича
+    message_expires_after: Съобщението изтича след
+    message_expires_after_description: Изчислението се прави за всеки файл. Ако изпратите 2 файла, които изтичат след 1 изтегляне, всеки получател ще може да изтегли всеки файл веднъж.
+    downloads_per_recipient: Изтегляния на получател
+    total_downloads: Общо изтегляния
+    file_not_downloaded: Не е изтеглен нито един прикачен файл
+    at_least_one_invalid_extension: Поне един от прикачените файлове има невалидно разширение
+    invalid_filetype: Невалидно разширение
+    blocked_extension: "Невалидно разширение. Не можете да качвате файлове със следните разширения: %{extensions}"
+    permitted_extensions: "Разрешените разширения са: %{filetypes}"
+    already_selected: Този файл вече е избран
+    maximum_filesize_exceeded: Превишен е максималният размер на файла
+    contains_virus: "%{filename} съдържа ВИРУС: %{virus}"
+    limited_by_browser: Ограничено от браузъра
+    limited_by_disk: Ограничено от дисковото пространство
+    limited_by_system_quota: Ограничено от системната квота
+    limited_by_group_quota: Ограничено от квотата на групата
+    limited_by_quota: Ограничено от квотата
+    limited_per_message: Лимит за съобщение
+    system_quota_exceeded: Превишена е системната квота
+    group_quota_exceeded: Превишена е квотата на групата
+    quota_exceeded: Превишена е квотата
+    no_available_quota: Превишена е квотата, изтрийте някои файлове, за да продължите
+    not_authorized_to_send: Нямате права да изпращате до %{email}
+    public_url: Публичен URL адрес
+    message_url: URL адрес на съобщението
+    authorization: Упълномощаване
+    insufficient_disk_space: Недостатъчно дисково пространство
+    active_transfers: Активни прехвърляния
+    view_log: Преглед на дневника
+    previously_sent_attachments: Изпратени преди това прикачени файлове
+    has_not_downloaded: "%{recipient} още не е изтеглил нито един файл"
+    authentication: Удостоверяване
+    required: Задължително
+    disabled: Изключено
+    require_authentication_tooltip_html: <li>Получателят трябва да влезе с потребителско име и парола, за да изтегли файла.</li> <li>Ще получите потвърждение, когато файлът бъде изтеглен.</li>
+    dont_require_authentication_tooltip_html: <li>От получателя няма да се изисква вход, за да изтегли файла.</li> <li>Ще получите потвърждение, когато файлът бъде изтеглен, но не и кой го е изтеглил (това не е известно).</li> <li>Ще получите потвърждение само когато първият получател изтегли файла.</li>
+    authenticate_link_description: Трябва да влезете, преди да отворите този FileLink.
+    unauthorized: Нямате права да прегледате това съобщение.
+    unauthenticated: Грешна парола
+    incorrect_login_or_demo: Грешна парола или е достигнат лимитът на лиценза
+    email_authorization_message: Благодарим ви. За да проверим, че това е вашият имейл адрес, ви изпратихме имейл с код за потвърждение. Въведете кода за потвърждение по-долу или щракнете върху връзката в имейла, за да отидете на съобщението.
+    email_authorization_link: Благодарим ви. За да проверим, че това е вашият имейл адрес, ви изпратихме имейл с код за потвърждение. Въведете кода за потвърждение от имейла по-долу или щракнете върху връзката в имейла, за да отидете на FileLink.
+    email_authorization_message_create_account: Благодарим ви. Тъй като нямате акаунт в тази система, ви изпратихме имейл с код за потвърждение, за да проверим, че това е вашият имейл адрес. Въведете кода за потвърждение по-долу или щракнете върху връзката в имейла, за да потвърдите адреса си. След това ще бъдете помолени да създадете акаунт и ще бъдете пренасочени към съобщението.
+    email_authorization_link_create_account: Благодарим ви. Тъй като нямате акаунт в тази система, ви изпратихме имейл с код за потвърждение, за да проверим, че това е вашият имейл адрес. Въведете кода за потвърждение от имейла по-долу или щракнете върху връзката в имейла, за да потвърдите адреса си. След това ще бъдете помолени да създадете акаунт и ще бъдете пренасочени към FileLink.
+    authorize: Упълномощаване
+    authenticate: Вход
+    sending: Изпращане...
+    abort_transfer: Прекратяване на прехвърлянето
+    files_to_big: Твърде голям(и) файл(ове)
+    only_specified_recipients: Достъп имат само посочените получатели
+    only_specified_recipients_and_local_users: Достъп имат само посочените получатели и локалните потребители
+    only_specified_recipients_and_domains: Достъп имат само посочените получатели и потребителите от техния домейн
+    anyone_after_authentication: Достъп има всеки (със случайната връзка)
+    no_recipient_validation: Без проверка на получателите
+    anyone_can_access: Всеки има достъп
+    anyone: Всеки
+    no_authentication: Без удостоверяване
+    can_download: могат да изтеглят
+    not_yet_scanned: се сканира за вируси, опитайте отново след малко. %{queue} в опашката
+    was_infected: "беше заразен с вируса %{virus} и беше изтрит"
+    deleted_or_expired: Изтрит или изтекъл
+    im_done_editing: Автоматично изпращане след приключване на текущите качвания
+    download_all: Изтегляне на всички
+    zipped_archive: ZIP архив
+    message_id: ID на съобщението
+    overall_progress: Общ напредък
+    abort: Прекратяване
+    limitations: Ограничения
+    max_size: Максимален размер
+    add_files: Добавяне на файлове...
+    add_folder: Добавяне на папка...
+    no_attachment_added: Не е добавен прикачен файл
+    you_need_to_add_at_least_one_file: Трябва да добавите поне един файл.
+    private_message_or_attached_files: Трябва или да включите Лично съобщение, или да прикачите поне един файл.
+    no_runtime_found: Не е намерена среда за изпълнение, файловете не могат да бъдат изпратени
+    runtime_check_title: Не е намерена среда за изпълнение
+    selected: избрано
+    file_size_error: Грешка в размера на файла
+    remaining: остава
+    attached_files: Прикачени файлове
+    show_message: Показване на съобщението
+    can_be_max: може да бъде най-много %{days} дни в бъдещето
+    not_ready: Още не е готово за изтегляне
+    download_info: Информация за изтеглянето
+    browser: Браузър
+    platform: Платформа
+    operating_system: Операционна система
+    location: Местоположение
+    download_details: Подробности за изтеглянето
+    download_information_not_found: Информацията за изтеглянето не можа да бъде намерена.
+    add: Добавяне
+    select_existing_files: Избиране на съществуващи файлове
+    add_existing_files: Добавяне на съществуващи файлове
+    add_existing_description: Тези файлове вече са изпратени и можете да ги изпратите отново.
+    zip_disabled: ZIP е изключен
+    zip_disabled_description_exceeded: Максималният брой изтегляния е превишен за поне един прикачен файл.
+    spinner_info_html: <strong>Съобщението ви е готово за изпращане</strong>. Някои файлове все още се обработват във фонов режим, но не е нужно да чакате. <strong>Щракнете върху Изпращане, когато сте готови!</strong>
+    sent_to_you: Изпратени до вас
+    excluding_admins: Без администраторите
+    downloads: Изтегляния
+    download_log: Дневник на изтеглянията
+    delete_attachments: Изтриване на прикачените файлове
+    delete_message: Изтриване на съобщението
+    delete_attachments_warning: Наистина ли искате да изтриете прикачените файлове?
+    delete_message_warning: При изтриване на съобщението ще бъдат изтрити и прикачените файлове, и дневникът на изтеглянията. Наистина ли искате да изтриете съобщението?
+    invalid_message: Невалидно съобщение
+    message_deleted: Съобщението е изтрито
+    attachments_deleted: Прикачените файлове са изтрити
+    checksum: Контролна сума (SHA256)
+    not_permitted_to_send_messages: Нямате права да изпращате съобщения.
+    invalid_group_belonging: Изпращането не е разрешено (невалидна група). Регистрирани сте като външен потребител, но имейл адресът ви е в домейна %{domain}, който е включен и в ограничените домейни на получатели. Това не е разрешено за външни потребители. Помолете системния администратор да ви премести в друга група, за да продължите.
+    expires_after_exceeded: Превишен е броят на изтеглянията
+    expires_after_exceeded_for_zip: Превишен е броят на изтеглянията за поне един файл в ZIP архива
+    permission_description_title: Ограничения на достъпа
+    permission_description_only_specified_html: <ul> <li>Само посочените получатели имат достъп до съобщението и могат да изтеглят файловете.</li> <li>Препращането на имейла или URL адреса до когото и да е не е разрешено.</li> <li>Получателите трябва да влязат, за да отворят съобщението и да изтеглят файловете.</li> <li>При всяко изтегляне на всеки файл се изпраща потвърждение за изтегляне с подробна информация.</li> </ul>
+    permission_description_only_specified_and_local_html: <ul> <li>Само посочените получатели и локалните потребители могат да изтеглят файловете.</li> <li>Имейлът или URL адресът могат да се препращат само до локални потребители.</li> <li>Получателите трябва да влязат, за да изтеглят файловете.</li> <li>При всяко изтегляне на всеки файл се изпраща потвърждение за изтегляне с подробна информация.</li> </ul>
+    permission_description_only_specified_and_domains_html: <ul> <li>Достъп имат само посочените получатели и потребителите от същия имейл домейн.</li> <li>Ако изпратите до direktor@partnyor.bg, sekretar@partnyor.bg също има достъп до съобщението, но lyubopiten@konkurent.bg няма.</li> <li>Получателите трябва да влязат, за да изтеглят файловете.</li> <li>При всяко изтегляне на всеки файл се изпраща потвърждение за изтегляне с подробна информация.</li> </ul>
+    permission_description_anyone_after_authentication_html: <ul> <li>Всеки, който има тайния случаен URL адрес, може да изтегли файловете.</li> <li>Имейлът или URL адресът могат да се препращат до всеки.</li> <li>Получателите трябва да влязат, за да изтеглят файловете.</li> <li>При всяко изтегляне на всеки файл се изпраща потвърждение за изтегляне с подробна информация.</li> </ul>
+    permission_description_anyone_html: <ul> <li>Всеки, който има тайния случаен URL адрес, може да изтегли файловете.</li> <li>Имейлът или URL адресът могат да се препращат до всеки.</li> <li>За изтегляне на файловете <strong>не</strong> се изисква вход.</li> <li>При първото изтегляне от когото и да е се изпраща <strong>основно</strong> потвърждение за изтегляне (за да се знае кой какво е изтеглил, е необходимо удостоверяване).</li> </ul>
+    your_message_has_been_sent: Съобщението ви е изпратено
+    you_can_send_to_anyone: "(Можете да изпратите тази връзка до всеки)"
+    send_more_files: Изпращане на още файлове
+    download_speed: Скорост на изтегляне
+    download_time: Време за изтегляне
+    at_least_one_invalid_email: Поне един невалиден имейл адрес
+    reply: Получателят може да отговори
+    private_message: Лично съобщение
+    private_message_description_html: При лично съобщение текстът на съобщението не се изпраща до получателя по имейл – той се вижда едва когато получателят щракне върху връзката в имейла и се удостовери. <ul> <li>Можете да изпратите лично съобщение без прикачени файлове.</li> <li>Ще получите потвърждение за достъп, когато някой прегледа съобщението ви.</li> <li>Не можете да изпратите лично съобщение с разрешението за изтегляне „Всеки може да изтегли“.</li> </ul>
+    private_message_delivered_description: Съобщението е изпратено като лично съобщение. Текстът на съобщението не е включен в имейла и ще получите потвърждение за достъп, когато всеки получател прегледа съобщението.
+    access_info: Информация за достъпа
+    access_details: Подробности за достъпа
+    validation_code: Код за потвърждение
+    expired_token_inline: Удостоверяването чрез имейл е изтекло, опитайте отново.
+    invalid_token: Невалиден или изтекъл код. Щракнете върху връзката в оригиналния имейл, за да потвърдите отново имейл адреса си.
+    download_zip: Изтегляне на ZIP
+    zip_ready_for_download: ZIP е готов за изтегляне
+    processing_zip: Обработване на ZIP архива
+    drop_file_here: Пуснете файла тук
+    drop_files_here: Пуснете файловете тук
+    drop_files_and_folders_here: Пуснете файловете и папките тук
+    select_pool_files: Избиране на файлове от хранилището
+    add_pool_files: Добавяне на файлове от хранилището
+    invalid_validation_token: Това не е валиден код за потвърждение.
+    not_the_validation_token: Това е ID на съобщението, а не кодът за потвърждение. Въведете кода за потвърждение.
+    no_messages_in_inbox: Няма съобщения във входящата поща.
+    filename_already_selected: Към това съобщение вече е добавен файл с това име
+    filesize_exceeded: Превишен е максималният размер на съобщението
+    infected_with: Заразен с вирус
+    not_permitted_to_download_content_blocked: "Изтеглянето на този файл не е разрешено. Антивирусното сканиране откри: %{virus}"
+    invalid_email_address: Невалиден имейл адрес
+    cant_create_folder: Папката не може да бъде създадена
+    cant_check_folder: Папката не може да бъде проверена
+    cant_restore_folder: Папката не може да бъде възстановена
+    cant_check_chunks: Частите не могат да бъдат проверени
+    zip_not_include_all_files: Не всички файлове могат да бъдат изтеглени – ZIP архивът ще съдържа само файловете, които могат да се изтеглят.
+    paste_tip: Съвет! Поставяйте с Ctrl+Shift+V, за да премахнете форматирането.
+  session:
+    api:
+      authentication_error: Грешка при удостоверяване, опитайте отново.
+      not_local_user: Невалиден имейл адрес. Само локални потребители могат да използват тази функция.
+      show:
+        login: Вход
+        login_label: Имейл адрес
+        password: Парола
+        sso_login: SSO вход
+        authentication_title: Вход
+        authentication_description: Въведете имейл адреса си или влезте, за да продължите.
+      authenticated:
+        authentication_successful: Удостоверяването е успешно
+    authenticate:
+      login: Влезте, за да продължите
+      description_html: Трябва да влезете, за да отворите тази страница. Въведете имейл адреса си или влезте, за да продължите.<br>Ако нямате акаунт в тази система, въведете имейл адреса си и ще ви изпратим временна парола по имейл.
+      unauthorized: Нямате права да прегледате това съобщение. Въведете имейл адреса си точно така, както ви е изпратено съобщението, или се свържете с подателя.
+    email:
+      validate_email: Потвърдете имейл адреса си
+      validate_email_description_html: "На имейл адреса ви е изпратен код за сигурност: <strong>%{email}</strong>. Щракнете върху връзката или въведете кода за сигурност тук, за да потвърдите имейл адреса си и да продължите."
+      session_expired: Сесията е изтекла, въведете отново имейл адреса си, за да продължите
+      token_expired: Връзката за удостоверяване в имейла е изтекла, опитайте отново.
+      already_authenticated: Вече сте влезли в този браузър.
+      resend_validation_email: Повторно изпращане на имейла за потвърждение
+      verify: Потвърждаване
+      validate_email_sent: "Нов имейл за потвърждение е изпратен в %{time}. Щракнете върху връзката в имейла или въведете кода за сигурност по-долу, за да потвърдите имейл адреса си."
+      invalid_temporary_user: Невалиден код за сигурност. Проверете имейла си – във входящата ви поща е изпратен нов код за сигурност.
+      create_account: Създаване на акаунт
+      create_account_description: Създайте акаунт в тази система, за да можете да влизате с имейл адреса и паролата си вместо с код за сигурност.
+      invalid_email: Невалиден имейл адрес
+    login_limit_exceeded:
+      delivered:
+        page_header: Превишен е лимитът за вход
+        description: Опитахте да влезете твърде много пъти. За да продължите, трябва да нулирате паролата си.
+        email: Изпратен е имейл с връзка за нулиране на паролата ви.
+      waiting:
+        page_header: Превишен е лимитът за вход
+        description: "Опитахте да влезете твърде много пъти. Забележка: трябва да влезете с мрежовата си парола. Ако трябва да нулирате тази парола и не знаете как, свържете се с мрежовия администратор. След изтичане на времето за изчакване можете да презаредите тази страница, за да нулирате лимита."
+        expiration_time: Време за изчакване
+        reload: Презареждане
+      show:
+        page_header: Превишен е лимитът за вход
+        description: Опитахте да влезете твърде много пъти. Можете да нулирате лимита за вход и да влезете отново. Изпратихме ви имейл за нулиране на лимита за вход.
+      reset:
+        login_limit_reset: Лимитът за вход е нулиран
+    shared:
+      authentication_successful: Удостоверяването е успешно
+    outlook:
+      edit:
+        authentication_title: Удостоверяване
+        authentication_description: Влезте, за да продължите
+        login: Вход
+        login_label: Имейл адрес
+        password: Парола
+        sso_login: SSO вход
+      show:
+        authentication_title: Удостоверяване
+        authentication_description: Влезте, за да прикачите защитени файлове.
+        authenticate: Удостоверяване
+    saml:
+      not_configured:
+        title: SAML не е конфигуриран
+        description: SAML не е конфигуриран в тази система. Ако смятате, че това е грешка, свържете се с поддръжката, за да проучи проблема.
+        support_button: Свързване с поддръжката
+      api:
+        local:
+          title: SAML удостоверяване
+          description: SAML удостоверяването е стартирано в браузъра ви по подразбиране – продължете влизането там. Ако не можете да намерите прозореца или той не работи по някаква причина, можете да продължите, като щракнете върху бутона по-долу.
+          button_label: SSO вход
+      response:
+        api_error:
+          authentication_error: Удостоверяването е неуспешно
+          saml_authentication_error: SSO удостоверяването е неуспешно
+          saml_authentication_error_description: SSO удостоверяването е неуспешно. Свържете се с администратора, ако проблемът продължава.
+        api_disabled:
+          api_disabled: Неупълномощена група потребители
+          api_disabled_description: Акаунтът ви няма достъп до тази функция (API е изключен). Свържете се с администратор и го помолете да премести акаунта ви в друга група.
+        api_response:
+          authentication_successful: Удостоверяването е успешно
+        create:
+          could_not_create_account: Акаунтът не можа да бъде създаден. Свържете се с администратор за повече информация.
+        show:
+          could_not_create_account: Акаунтът не можа да бъде създаден. Свържете се с администратор за повече информация.
+    temporary_user:
+      validate_email: Потвърдете имейл адреса си
+      validate_email_description_html: "На имейл адреса ви е изпратена временна парола: <strong>%{email}</strong>. Щракнете върху връзката или въведете временната парола тук, за да потвърдите имейл адреса си и да продължите."
+      session_expired: Сесията е изтекла, въведете отново имейл адреса си, за да продължите
+      token_expired: Връзката за удостоверяване в имейла е изтекла, опитайте отново.
+      already_authenticated: Вече сте влезли в този браузър.
+      resend_validation_email: Повторно изпращане на имейла за потвърждение
+      verify: Потвърждаване
+      validate_email_sent: "Нов имейл за потвърждение е изпратен в %{time}. Щракнете върху връзката в имейла или въведете паролата по-долу, за да потвърдите имейл адреса си."
+      invalid_temporary_user: Невалидна парола. Проверете имейла си – временната парола е изпратена отново във входящата ви поща.
+      temporary_user_expired: Временната парола е изтекла. Проверете имейла си – във входящата ви поща е изпратена нова временна парола.
+      create_account: Създаване на акаунт
+      create_account_description: Създайте постоянен акаунт в тази система, за да можете да влизате с имейл адреса и паролата си вместо с временен потребителски акаунт.
+  shared:
+    show: Показване
+    reify: Възстановяване
+    download: Изтегляне
+    restore: Възстановяване
+    delete: Изтриване
+    trash: Кошче
+    cancel: Отказ
+    close: Затваряне
+    current: Текущ
+    bootstrap_confirm_dialog:
+      confirm_action: Потвърждаване на действието
+    shares:
+      bootstrap_confirm_dialog:
+        confirm_action: Потвърждаване на действието
+      navigation:
+        files: Файлове
+        activity_log: Дневник на дейността
+      wrap_content:
+        activity_log: Дневник на дейността
+    error_messages:
+      prohibited_this_from_being_saved: попречи на запазването на %{target}
+  share:
+    share: Share
+    shares: Share
+    no_shares: Няма налични Share
+    name: Име
+    folder_name: Име на папката
+    share_not_found: Share не е намерен
+    folder_not_found: Папката не е намерена
+    file_not_found: Файлът не е намерен
+    no_read_access: Нямате права за достъп до този Share
+    no_write_access: Нямате права за запис в този Share
+    not_authorized_to_view_logs: Нямате права да преглеждате дневниците
+    require_authentication: Този Share изисква удостоверяване. Въведете паролата, за да продължите.
+    authenticate: Удостоверяване
+    authentication_failed: Удостоверяването е неуспешно
+  shares:
+    folders:
+      are_you_sure_you_want_to_delete: Наистина ли искате да изтриете тази папка?
+      are_you_sure_you_want_to_trash: Наистина ли искате да изтриете окончателно тази папка?
+      folder_name_already_taken: Това име на папка вече е заето!
+      folder_not_found: Папката не е намерена
+      could_not_create_folder: "Папката не можа да бъде създадена: %{error}"
+      zip_no_files: Няма файлове за добавяне в ZIP архива
+      windows_path_warning:
+        title: Ограничение на дължината на пътя в Windows
+        description_html: <strong>Потребители на Windows:</strong> Windows ограничава пътищата на файловете до 259 знака. При качване на папки от местоположения с дълги пътища файловете, които са дълбоко в структурата на папките, могат да бъдат пропуснати без предупреждение, което може да доведе до непълни качвания или дублирани папки.
+        workarounds_title: Препоръчителни решения
+        workarounds_html: "<li><strong>Използвайте виртуално устройство:</strong> отворете командния ред и изпълнете: <code>subst X: \"C:\\vashiyat\\dalag\\pat\\do\\papkata\"</code><br>След това качвайте от виртуалното устройство <code>X:\\</code></li><li><strong>Отидете по-близо до файловете:</strong> преди да изберете папката за качване, отворете подпапка по-близо до файловете</li><li><strong>Използвайте по-кратък път:</strong> преди качване копирайте файловете на по-кратко място, например <code>C:\\uploads\\</code></li><li><strong>Първо архивирайте папката:</strong> компресирайте папката в ZIP файл и качете ZIP файла вместо нея</li>"
+        advanced_title: "Разширено: включване на дълги пътища в Windows 10/11"
+        advanced_description_html: От Windows 10 версия 1607 можете да включите поддръжка на по-дълги пътища. <strong>Забележка:</strong> за това са необходими администраторски права и може да не работи във всички браузъри. Горните решения са по-надеждни.
+        registry_steps_title: Стъпки за включване на дълги пътища
+        registry_steps_html: "<li>Натиснете <kbd>Win + R</kbd>, въведете <code>regedit</code> и натиснете Enter</li><li>Отидете на: <code>HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\FileSystem</code></li><li>Намерете или създайте стойност DWORD с име <code>LongPathsEnabled</code> и я задайте на <code>1</code></li><li>Рестартирайте компютъра, за да влезе промяната в сила</li><li>Опитайте отново качването (поддръжката може да се различава според браузъра)</li>"
+        browser_disclaimer_html: "<strong>Важно:</strong> дори при включена тази настройка в системния регистър поддръжката на дълги пътища се различава според браузъра. Chrome, Edge и Firefox може все пак да прилагат ограничението от 259 знака. Горните решения са по-надеждни."
+      folder:
+        rename_folder: Преименуване на папката
+        move_folder_description: Преместване на папката %{foldername} в избраната по-долу папка
+        move_folder: Преместване на папката
+      action_bar:
+        download_as_zip: Изтегляне като ZIP
+        download_as_zip_with_deleted: Изтегляне като ZIP, включително изтритите файлове
+        toggle_deleted_view: Показване/скриване на изтритите файлове
+        filter: Филтър
+        upload_file: Качване на файлове
+        upload_folder: Качване на папка
+        create_folder: Създаване на папка
+        windows_path_warning: Предупреждение за дължината на пътя
+        upload_folder_unsupported: Качването на папки не се поддържа
+        upload_folder_unsupported_description: За съжаление браузърът ви не поддържа качване на папки. Използвайте настолната версия на Chrome или Safari, за да качите структура от папки.
+        showing_deleted: Показани са %{number_of} изтрити
+        hiding_deleted: Скрити са %{number_of} изтрити
+        actions: Действия
+        move_selected: Преместване на избраните
+        trash_selected: Преместване на избраните в кошчето
+        delete_selected: Изтриване на избраните
+      action_bar_below:
+        send_notifications: Изпращане на известия
+        sending_notifications: Изпращане на известията
+        quota: Квота
+        used_of: използвани от
+        available: налични
+        quota_exceeded: Превишена е квотата
+      create_folder_modal:
+        create_folder: Създаване на папка
+        create: Създаване
+      files:
+        are_you_sure_you_want_to_delete: Наистина ли искате да изтриете този файл?
+        are_you_sure_you_want_to_trash: Наистина ли искате да изтриете окончателно този файл?
+        file_not_found: Файлът не е намерен
+        file:
+          rename_file: Преименуване на файла
+          move_file: Преместване
+          move_file_description: Преместване на файла %{filename} в избраната по-долу папка
+        show:
+          prev: Предишен
+          up: Нагоре
+          next: Следващ
+          last_updated: Последна актуализация
+          versions: Версии
+          show_all: Показване на всички
+          version_from: Версия от
+          next_version: Следваща версия
+          previous_version: Предишна версия
+          current_version: Текуща версия
+          pdf_preview_not_supported: Визуализацията на PDF файлове не се поддържа от браузъра ви
+        available_chunks:
+          available: Налични са частични качвания на следните файлове
+          resume_replace: Искате ли да продължите качването или да замените файловете?
+      quota:
+        quota: Квота
+        used_of: използвани от
+        available: налични
+        quota_exceeded: Превишена е квотата
+      move_file_folder_modal:
+        move_folder: Преместване на папката
+        move_file: Преместване на файла
+        move: Преместване
+      show:
+        select_all: Избиране/отмяна на избора на всички
+    logs:
+      action_bar:
+        activity_log: Дневник на дейността
+      message:
+        created: Създадено
+        uploaded: Качено
+        downloaded: Изтеглено
+        reified: Възстановено
+        removed: Премахнато
+        restored: Възстановено
+        deleted: Изтрито
+        moved: Преместено
+        renamed: Преименувано
+        added: Добавено
+        viewed: Прегледано
+        infected: Заразено
+        trashed: Преместено в кошчето
+        deleted_user: "(Изтрит потребител)"
+        share: Share
+        folder: Папка
+        file: Файл
+        group: Група
+        user: Потребител
+        read: Четене
+        read/write: Четене/запис
+        av_scanner: Антивирусна програма
+        version_from: Версия от
+        file_deleted: Файлът е изтрит
+        to: към
+        from: от
+        unknown: Неизвестно
+        other: Друго
+  share/log:
+    message:
+      you: Вие
+      share: Share
+      folder: папка
+      file: файл
+      user: потребител
+      version_from: версия от
+      read: четене
+      read/write: четене/запис
+      created: създаде
+      added: добави
+      uploaded: качи
+      downloaded: изтегли
+      updated: актуализира
+      restored: възстанови
+      reified: възстанови
+      deleted: изтри
+      removed: изтри окончателно
+      trashed: премести в кошчето
+      renamed: преименува
+      viewed: прегледа
+      infected: заразено
+      av_scanner: Антивирусна програма
+      file_deleted: Файлът е изтрит
+  sms_auth:
+    login_failed: Входът е неуспешен
+    sms_error: Грешка в конфигурацията на SMS, свържете се със системния администратор
+    verify_token: Потвърждаване на SMS кода
+    verify_token_description: "Въведете кода, изпратен на мобилния ви телефон:"
+    sms_login_failed: Потвърждаването чрез SMS е неуспешно, изпратен е нов SMS код
+    sms_signup: Регистрация за двуфакторно удостоверяване чрез SMS
+    sms_signup_failed: Двуфакторното удостоверяване чрез SMS е неуспешно
+    sms_signup_description: За да продължите, трябва да се регистрирате за двуфакторно удостоверяване чрез SMS. Въведете телефонния си номер по-долу, за да продължите.
+    verify: Потвърждаване
+    resend: Повторно изпращане на кода
+    code: Код
+    token_resent: SMS кодът е изпратен повторно в %{time}
+    send_token: Изпращане на код за потвърждение
+    phone_number: Телефонен номер
+    invalid_phone_number: Невалиден телефонен номер, опитайте отново.
+    change_phone_number: Промяна на телефонния номер
+    phone_number_help: Въведете телефонния си номер с кода на държавата и без водеща нула (напр. 359881234567). На този номер ще бъде изпратен код за потвърждение.
+    one-time-code: Еднократен код
+  strong_auth:
+    two_factor_authentication: Двуфакторно удостоверяване
+    enable_2fa: Включване на двуфакторното удостоверяване
+    disable_2fa: Изключване на двуфакторното удостоверяване
+    title: Включване на двуфакторното удостоверяване
+    enable_2fa_description: Можете да включите силно двуфакторно удостоверяване, за да повишите сигурността на акаунта си.
+    require_description: За да използвате тази система, трябва да настроите двуфакторно удостоверяване.
+    disable_description: Въведете текущия код, за да изключите двуфакторното удостоверяване
+    two_factor_auth_disabled: Двуфакторното удостоверяване е изключено
+    step1: "Стъпка 1: изтеглете приложението за удостоверяване"
+    step1_description: Включете двуфакторното удостоверяване, обикновено с мобилно приложение.
+    totp_apps_description_html: Сред приложенията за удостоверяване са <a href="https://authy.com" target="_blank" rel="external nofollow noopener noreferrer">Authy</a> (няколко платформи) и Google Authenticator (iOS/Android). Вижте <a href="https://docs.liquidfiles.com/authentication/totp.html#clients" target="_blank">TOTP Clients</a> за още възможности.
+    step2: "Стъпка 2: настройте приложението за удостоверяване"
+    step2_description: Настройте приложението за удостоверяване, като сканирате QR кода.
+    step2_alt: Или въведете следния код
+    step3: "Стъпка 3: потвърдете"
+    step3_description: Потвърдете настройката, като въведете кода, генериран от приложението за удостоверяване.
+    failed_to_authenticate: Удостоверяването е неуспешно, опитайте отново.
+    click_on_link: Можете също да щракнете върху следната връзка, за да добавите конфигурацията в приложението си за двуфакторно удостоверяване
+    configure: Настройване на двуфакторното удостоверяване
+    success_saved: Успешно, конфигурацията на двуфакторното удостоверяване е запазена
+    verify_token: Потвърждаване на двуфакторното удостоверяване
+    verify_token_description: Въведете кода за двуфакторно удостоверяване от мобилното си приложение.
+    verify: Потвърждаване
+    two_factor_login_failed: Двуфакторното удостоверяване е неуспешно
+    two_factor_validation_failed: Потвърждаването на двуфакторното удостоверяване е неуспешно
+    skip_2fa_for_two_weeks: Пропускане на двуфакторното удостоверяване в този браузър за две седмици
+    one-time-code: Еднократен код
+  support:
+    email_subject: Моля за помощ относно
+    email_body: Опишете проблема си възможно най-подробно. Благодарим ви.
+    navbar_tooltip: Ако имате нужда от помощ за достъп до тази система или за използването ѝ, щракнете върху тази връзка и с удоволствие ще ви помогнем.
+  user:
+    includes_at_least_one_invalid_email_address: съдържа поне един невалиден имейл адрес
+    confirm:
+      invalid_session: Невалидна сесия
+      already_validated: Имейл адресът ви вече е потвърден
+      invalid_token: Невалиден код. Опитайте отново или щракнете върху Повторно изпращане на имейла за потвърждение.
+      validation_email_sent: "Имейлът за потвърждение е изпратен в %{time}"
+      activated_successfully: Успешно активиран
+      validate_email_description: Проверете имейла си и въведете временната парола, за да потвърдите имейл адреса си.
+    register:
+      already_registered: Този акаунт вече е регистриран, влезте, за да продължите
+      already_registered_not_validated: Акаунтът ви вече е регистриран, но имейл адресът ви все още трябва да бъде потвърден. Изпратихме ви имейл със случаен код. Въведете кода по-долу или щракнете върху връзката в имейла, за да потвърдите акаунта си.
+      show:
+        register: Регистриране на акаунт
+        description_html: <p>Въведете данните си, за да създадете акаунт. С този акаунт можете сигурно да изпращате големи файлове до %{branding_name}.</p>
+    signup:
+      create:
+        need_password: Трябва да въведете парола
+        need_name: Трябва да въведете име
+    create:
+      show:
+        cancel_and_remember: Отказ и без повторно питане
+        cancel_and_remember_title: Това ще бъде запомнено в текущия ви браузър
+  validator:
+    required: Това поле е задължително.
+    remote: Коригирайте това поле.
+    email: Въведете валиден имейл адрес.
+    url: Въведете валиден URL адрес.
+    date: Въведете валидна дата.
+    dateISO: Въведете валидна дата (ISO).
+    number: Въведете валидно число.
+    digits: Въведете само цифри.
+    creditcard: Въведете валиден номер на кредитна карта.
+    equalTo: Въведете отново същата стойност.
+    accept: Въведете стойност с валидно разширение.
+    maxlength: Въведете не повече от {0} знака.
+    minlength: Въведете поне {0} знака.
+    rangelength: Въведете стойност с дължина между {0} и {1} знака.
+    range: Въведете стойност между {0} и {1}.
+    max: Въведете стойност, по-малка или равна на {0}.
+    min: Въведете стойност, по-голяма или равна на {0}.
+    step: Въведете кратно на {0}.
+    invalid_phone_number: Невалиден телефонен номер
+  locale: Български

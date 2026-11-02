@@ -1,0 +1,1569 @@
+cs:
+  s: s
+  min: min
+  hours: Hodiny
+  days: Dny
+  weeks: Týdny
+  months: Měsíce
+  years: Roky
+  ago: před
+  email: E-mail
+  save: Uložit
+  delete: Smazat
+  cancel: Zrušit
+  remove: Odebrat
+  aborting: Přerušování
+  aborted: Přerušeno
+  saved_successfully: Úspěšně uloženo
+  logout: Odhlásit se
+  error: Chyba
+  enabled: Zapnuto
+  disabled: Vypnuto
+  disable: Vypnout
+  default: Výchozí
+  submit: Odeslat
+  session_expired: Relace vypršela
+  search: Hledat
+  filter: Filtr
+  recipient: Příjemce
+  recipients: Příjemci
+  downloaded_by: Stáhl(a)
+  filename: Název souboru
+  size: Velikost
+  downloaded: Staženo
+  host: Hostitel
+  ip: IP adresa
+  action: Akce
+  view_message: Zobrazit zprávu
+  view_message_popup: Zobrazit zprávu (vyskakovací okno)
+  download_info: Informace o stažení
+  message_id: ID zprávy
+  filelink_id: ID FileLinku
+  sent_at: Odesláno
+  id: ID
+  subject: Předmět
+  expires: Platnost do
+  invalid_method: Neplatná metoda
+  export_csv: Exportovat CSV
+  export_all: Exportovat vše
+  export_visible: Exportovat viditelné
+  temporarily_unavailable: Dočasně nedostupné
+  generic_search_error: Obecná chyba vyhledávání
+  sender: Odesílatel
+  search_temporary_disabled: Vyhledávání je dočasně vypnuto
+  help: Nápověda
+  close: Zavřít
+  count: Počet
+  settings: Nastavení účtu
+  virus: Virus
+  virus_status: Stav antiviru
+  infected: Infikováno
+  clean: Čisté
+  not_scanned: Nekontrolováno
+  not_yet_scanned: Zatím nekontrolováno
+  csrf_error: "CSRF: zjištěny neplatné parametry. Chcete-li pokračovat, přihlaste se znovu."
+  could_not_be_saved: Nepodařilo se uložit
+  label: Popisek
+  updated: Aktualizováno
+  add: Přidat
+  system_info: Informace o systému
+  location: Umístění
+  accept: Přijmout
+  last_7_days: Posledních 7 dní
+  last_30_days: Posledních 30 dní
+  last_60_days: Posledních 60 dní
+  last_90_days: Posledních 90 dní
+  last_180_days: Posledních 180 dní
+  last_365_days: Posledních 365 dní
+  file: Soubor
+  files: Soubory
+  next: Další
+  previous: Předchozí
+  name: Jméno
+  view: Zobrazit
+  forget: Zapomenout
+  update: Aktualizovat
+  updated_at: Aktualizováno
+  created_at: Vytvořeno
+  download_link_expired: Platnost odkazu ke stažení vypršela.
+  no_html5_upload_warning: Nahrávání souborů vyžaduje moderní prohlížeč kompatibilní s HTML5. Microsoft Edge, Chrome, Firefox i Safari fungují skvěle.
+  javascript_warning: K odesílání souborů a používání většiny funkcí je potřeba JavaScript.
+  cookie_accept: Tento web používá soubory cookie. Přihlášením nebo kliknutím na „Přijmout“ souhlasíte s jejich používáním.
+  i_agree: Souhlasím
+  session_timeout: Relace vypršela, přihlaste se prosím znovu
+  loading: Načítání...
+  unsupported_browser_header: Nepodporovaný prohlížeč
+  unsupported_browser_description_html: Váš prohlížeč není podporován, a tento web proto pravděpodobně nebude fungovat podle očekávání. Použijte prosím novější prohlížeč.
+  not_logged_in_invalid_parameters: Nepřihlášen, neplatné parametry
+  toggle_dropdown: Zobrazit/skrýt nabídku
+  rejected: Odmítnuto
+  undetected: Nezjištěno
+  invalid_link: Neplatný odkaz, kontaktujte prosím odesílatele
+  account_settings_tooltip: Nastavení účtu
+  logout_tooltip: Odhlásit se
+  download_id: ID stažení
+  remote_host: Vzdálený hostitel
+  show: Zobrazit
+  hide: Skrýt
+  password: Heslo
+  download: Stáhnout
+  unauthorized: Neautorizováno
+  account:
+    login: Přihlásit se
+    login_label: E-mailová adresa
+    email: E-mailová adresa
+    password: Heslo
+    current_password: Aktuální heslo
+    please_enter_your_current_password: Zadejte prosím aktuální heslo
+    sign_in: Přihlásit se
+    remember_me: Zapamatovat si mě
+    not_administrator: Nejste správce
+    password_reset: Obnovení hesla
+    register: Registrovat se
+    register_description_html: Děkujeme! Chcete-li pokračovat, zadejte své údaje a vytvořte si účet.<br>Příště se můžete přihlásit svou e-mailovou adresou a heslem.
+    account_not_activated: Účet není aktivován. Před přihlášením účet aktivujte. Poslali jsme vám e-mail s náhodným kódem. Zadejte kód níže nebo klikněte na odkaz v e-mailu a potvrďte tak svůj účet.
+    incorrect_user_or_pw: Nesprávné uživatelské jméno nebo heslo
+    confirmation_email_sent: Potvrzovací e-mail odeslán
+    activated_successfully: Úspěšně aktivováno
+    not_activated: Účet není aktivován
+    password_reset_email_sent: E-mail pro obnovení hesla odeslán
+    no_such_user: Uživatel neexistuje
+    no_such_email: E-mailová adresa nenalezena
+    not_logged_in: Nejste přihlášeni. Chcete-li pokračovat, přihlaste se.
+    saved_successfully: Úspěšně uloženo
+    unlicensed_install_some_settings: "Nelicencovaná instalace: možnosti vlastního vzhledu vidí pouze správci systému"
+    incorrect_login_or_demo: Nesprávné uživatelské jméno nebo heslo, nebo byl dosažen limit licence
+    incorrect_login_or_ldap: Nesprávné uživatelské jméno nebo heslo, nebo chyba serveru LDAP
+    invalid_api_key: Neplatný klíč API
+    cant_delete_last_sysadmin: Posledního správce systému nelze smazat
+    cant_change_last_sysadmin: Posledního správce systému nelze změnit
+    sso_login: Přihlášení SSO
+    invalid_sso_response: Neplatná odpověď SSO
+    automatic: Zjištěno automaticky
+    network_access_blocked: Přístup k tomuto systému z vaší sítě není povolen.
+    please_login: Chcete-li otevřít tuto stránku, přihlaste se.
+    email_validation_session_timeout: Relace vypršela, ověřte prosím znovu svou e-mailovou adresu.
+    signature: Podpis
+    not_authorized_for_action: K provedení této akce nemáte oprávnění
+    invalid_group: Neplatná skupina. Kontaktujte správce, který může váš účet přesunout do skupiny místních uživatelů
+    invalid_group_configuration: Neplatná konfigurace skupiny. Kontaktujte správce, který vám může vytvořit účet nebo upravit konfiguraci skupiny.
+    please_enter_email_to_email_password: Zadejte svou e-mailovou adresu pro obnovení hesla. Na tuto adresu bude odeslán potvrzovací e-mail.
+    password_reset_successfully: Heslo bylo úspěšně obnoveno
+    password_cant_be_empty: Heslo nesmí být prázdné
+    password_complexity_title: Složitost hesla
+    password_complexity_description_html: "<p>Vaše heslo <strong>nesmí vycházet ze slovníkového slova</strong> a musí splňovat alespoň 3 z následujících požadavků:</p><ul><li>Alespoň 8 znaků</li><li>Alespoň 11 znaků</li><li>Alespoň 15 znaků</li><li>Alespoň 1 malé a 1 velké písmeno</li><li>Alespoň 1 číslice (0-9)</li><li>Alespoň jeden z následujících znaků: !,@,#,$,%,^,&amp;,*,?,_,~,-,(,)</li></ul>"
+    is_not_strong_enough: není dostatečně silné
+    your_password_has_expired: Platnost vašeho hesla vypršela
+    please_select_a_different_password: Zvolte prosím jiné heslo než předchozí
+    change_password: Změnit heslo
+    account_not_found: Účet nenalezen. Přihlaste se prosím znovu.
+    user_required_to_use_saml: Heslo nelze obnovit, přihlaste se prosím přes SAML
+    sysadmin_ldap_error: Tento účet je ověřován přes LDAP a nelze jej zde obnovit
+    login_limit_exceeded: Překročen limit přihlášení
+    a_confirmation_email_will_be_sent: Na tuto adresu bude odeslán potvrzovací e-mail
+    name: Jméno
+    password_confirm: Potvrzení hesla
+    save: Uložit
+    can_not_reset_password_please_check_with_your_administrator: Heslo nelze obnovit, obraťte se prosím na správce
+    no_need_to_register_user: Registrace není nutná. Přihlaste se prosím svým stávajícím účtem.
+    registration_not_allowed: Registrace není povolena
+    create_description: Vytvořte si účet zadáním svého jména a hesla.
+    activated_successfully_please_login: Účet byl úspěšně aktivován. Nyní se můžete přihlásit svou e-mailovou adresou a heslem.
+    invalid_activation_url: Neplatný aktivační odkaz. Zkontrolujte odkaz a zkuste to znovu.
+    already_logged_in: Již jste přihlášeni. Nový účet nelze zaregistrovat.
+    bruteforce_message: Překročili jste počet neúspěšných pokusů. Zkuste to prosím znovu za %{minutes} min.
+    admin_access_blocked: Přístup správce z vaší IP adresy není povolen.
+    account_created_successfully: Účet byl úspěšně vytvořen
+    create_account: Vytvořit účet
+    create_account_description: Chcete-li vytvořit účet, aktualizujte prosím své údaje.
+    account_settings: Nastavení účtu
+    change_language: Změnit jazyk a časové pásmo
+    filedrop_label: Filedrop (náhodný)
+    filedrop_email_label: Filedrop
+    verify_account: Ověřování účtu
+    invalid_sso_signature: Neplatný podpis nebo přihlášení SSO
+    user_not_found: Uživatel nenalezen
+    could_not_create_account: Účet se nepodařilo vytvořit
+    two_factor_authentication_failed: Dvoufázové ověření Duo se nezdařilo
+    copy_to_clipboard: Kopírovat do schránky
+    copy_url_to_clipboard: Kopírovat URL do schránky
+    delete_user_warning: Opravdu chcete tohoto uživatele smazat?
+    unauthorized_to_login: Nemáte oprávnění se přihlásit
+    first_time_message_title: Vítejte v LiquidFiles
+    first_time_message: <p>Vítejte v LiquidFiles – nejjednodušším způsobu, jak bezpečně posílat velké soubory.</p><p>Základní funkce fungují stejně jako webová pošta.</p><p>Tato zpráva se zobrazí pouze jednou. Pokud si nebudete vědět rady nebo budete chtít objevit pokročilejší funkce, klikněte na tlačítko „Nápověda“ v pravém horním rohu panelu nabídek.</p>
+    first_time_message_button: Rozumím!
+    registration_failed_unknown_error: Registrace se nezdařila kvůli neznámé chybě
+    session_timeout: Relace vypršela
+    nothing_filled_in: Vyplňte prosím formulář
+    last_used: Naposledy použito
+    strong_auth_required_before_password_reset: Před obnovením hesla k tomuto účtu je vyžadováno silné dvoufázové ověření.
+    unfriendly_registration_message: Pokud se s touto e-mailovou adresou můžete v systému zaregistrovat, obdržíte e-mail. Pokud jej neobdržíte, použijte prosím odkaz na podporu výše.
+    unfriendly_password_reset_message: Pokud lze účet s touto e-mailovou adresou obnovit, obdržíte e-mail. Pokud jej neobdržíte, použijte prosím odkaz na podporu výše.
+    aliases:
+      aliases: Aliasy
+      aliases_description: Ke svému účtu můžete přidat aliasy odesílatele a příjemce. Alias odesílatele vám umožní odesílat zprávy jménem dané e-mailové adresy. Alias příjemce vám umožní zobrazit zprávy pro danou adresu. Zprávy pro alias příjemce se zobrazí také ve vaší schránce zabezpečených zpráv.
+      aliases_no_change_description: Alias odesílatele vám umožní odesílat zprávy jménem dané e-mailové adresy. Alias příjemce vám umožní zobrazit zprávy pro danou adresu. Zprávy pro alias příjemce se zobrazí také ve vaší schránce zabezpečených zpráv. Chcete-li aliasy přidat nebo změnit, kontaktujte správce.
+      recipient_aliases: Aliasy příjemce
+      sender_aliases: Aliasy odesílatele
+      add_alias: Přidat alias
+      remove: Odebrat
+      default_sender_alias: Výchozí alias odesílatele
+      default_sender_alias_description: Výchozí alias odesílatele.
+      are_you_sure: Opravdu chcete tento alias odebrat?
+      no_emails: Nebyl přidán žádný alias.
+      please_contact_an_administrator: Chcete-li je spravovat, kontaktujte správce
+      auto_added_aliases: Automaticky přidané aliasy
+      auto_added_aliases_description: Následující aliasy byly automaticky přidány k vašemu profilu. Chcete-li je spravovat, kontaktujte správce.
+    alias:
+      confirm:
+        show:
+          title: Děkujeme za potvrzení
+          alias_email: E-mail aliasu
+          user: Uživatel
+          recipient_and_sender_confirmation: Výše uvedený uživatel nyní může zobrazit zabezpečené zprávy pro tuto e-mailovou adresu a odesílat zabezpečené zprávy jejím jménem. Pokud jde o omyl, klikněte na odkaz na podporu výše.
+          only_recipient_confirmation: Výše uvedený uživatel nyní může zobrazit zabezpečené zprávy pro tuto e-mailovou adresu. Pokud jde o omyl, klikněte na odkaz na podporu výše.
+          only_sender_confirmation: Výše uvedený uživatel nyní může odesílat zabezpečené zprávy jménem této e-mailové adresy. Pokud jde o omyl, klikněte na odkaz na podporu výše.
+    add_alias_modal:
+      title: Přidat alias
+      description: Zadejte e-mailovou adresu, ke které chcete získat přístup jako alias příjemce nebo odesílatele. Na tuto adresu bude k potvrzení odeslán e-mail.
+      recipient_alias: Alias příjemce - chci číst zprávy odeslané na tuto e-mailovou adresu.
+      sender_alias: Alias odesílatele - chci odesílat zprávy jménem této e-mailové adresy.
+      invalid_email: Neplatná e-mailová adresa
+      add_permission: Vyberte alias příjemce, alias odesílatele nebo obojí.
+      send_request: Odeslat žádost
+      request_has_been_sent: Vaše žádost byla odeslána.
+    api:
+      api_key: Klíč API
+      api_key_description: Klíč API používají doplňky, jako je doplněk pro Outlook, a lze jej použít pro vlastní integrace. Potřebujete jej pouze tehdy, pokud vás o to požádá správce.
+      api_key_reset_warning: Jste si jisti? Pokud klíč API obnovíte, budete muset starý klíč nahradit všude, kde jste jej používali.
+      reset_api_key: Obnovit klíč API
+    contacts:
+      contacts: Kontakty
+      contacts_description: Můžete přidat libovolný počet kontaktů. Každý kontakt může mít více e-mailových adres, takže můžete rychle a snadno odesílat více příjemcům najednou.
+      add_contact: Přidat kontakt
+      email_field_help: Seznam e-mailových adres oddělených čárkami.
+      contact:
+        edit_label: Upravit popisek
+        edit_email: Upravit e-mailovou adresu
+        are_you_sure: Opravdu chcete tento kontakt smazat?
+    filedrops:
+      filedrops: Filedropy
+      filedrops_description: Jste hlavním příjemcem nebo příjemcem kopie těchto Filedropů. Všechny soubory odeslané přes kterýkoli z nich budou doručeny vám.
+      name: Název
+      title: Titulek
+      recipient: Příjemce
+      expires_after: Platnost
+      max_size: Max. velikost souboru
+      url: URL
+      main_recipient: Hlavní příjemce
+      cc: Kopie
+    personal_filedrop:
+      personal_filedrop: Osobní Filedrop
+      personal_filedrop_description: Osobní Filedrop je jednoduchý způsob, jak přijímat soubory. Odkaz můžete poslat, zveřejnit na webu nebo vložit do e-mailového podpisu. Jakmile vám někdo něco pošle přes váš osobní Filedrop, obdržíte oznámení.
+    previous_recipients:
+      previous_recipients: Předchozí příjemci
+      previous_recipients_description: Když odešlete zabezpečenou zprávu, každý příjemce se přidá do tohoto seznamu předchozích příjemců. Díky tomu můžete rychle znovu odeslat stejným příjemcům. Příjemci, kterým jste 180 dní nic neposlali, jsou ze seznamu automaticky odebráni.
+      are_you_sure: Opravdu chcete tohoto předchozího příjemce smazat?
+    pw_dictionary:
+      based_on_a_dictionary_word: vychází ze slovníkového slova
+      based_upon_your_password_entry: vychází ze zadaného hesla
+      derived_from_your_password_entry: je odvozeno od zadaného hesla
+      derivable_from_your_password_entry: lze odvodit ze zadaného hesla
+      way_too_short: je PŘÍLIŠ krátké
+      too_short: je příliš krátké
+      it_does_not_contain_enough_different_characters: neobsahuje dostatek RŮZNÝCH znaků
+      all_whitespace: obsahuje pouze mezery
+      too_simplistic_systematic: je příliš jednoduché/systematické
+      it_looks_like_a_national_insurance_number: vypadá jako rodné číslo
+      based_on_a_reversed_dictionary_word: vychází z (obráceného) slovníkového slova
+    show:
+      basic_settings: Základní nastavení
+      change_password: Změnit heslo
+      strong_auth: Dvoufázové ověření
+      aliases: Aliasy
+      previous_recipients: Předchozí příjemci
+      contacts: Kontakty
+      personal_filedrop: Osobní Filedrop
+      api: API
+      filedrops: Filedropy
+    sms_disable:
+      disable_sms_otp: Vypnout dvoufázové ověření pomocí SMS
+      disable_sms_otp_description: Pokud chcete vypnout dvoufázové ověření pomocí SMS, klikněte na tlačítko níže. K potvrzení žádosti bude odeslán kód SMS.
+      verify_token_description: "Chcete-li vypnout dvoufázové ověření pomocí SMS, zadejte kód odeslaný na váš mobilní telefon:"
+      code: Kód
+      sms_token_failed: Neplatný kód SMS, dvoufázové ověření pomocí SMS se nepodařilo vypnout
+      sms_otp_has_been_disabled: Dvoufázové ověření pomocí SMS bylo vypnuto
+    sms_signup:
+      sms_signup_description: Zabezpečení účtu můžete zlepšit zapnutím dvoufázového ověření. Chcete-li jej zapnout, zadejte níže své telefonní číslo.
+      phone_number: Telefonní číslo
+    sms_enable:
+      signup_complete: Dvoufázové ověření pomocí SMS bylo zapnuto
+    terms_of_service:
+      show:
+        title: Podmínky použití
+        accept_terms_of_service: Přijmout podmínky použití
+        do_not_accept: Nepřijmout
+      create:
+        you_need_to_accept: Musíte přijmout podmínky použití!
+  activerecord:
+    attributes:
+      attachment:
+        filename: Název souboru
+        size: Velikost
+        secure_id: ID přílohy
+        content_type: Typ obsahu
+        created_at: Vytvořeno
+        updated_at: Aktualizováno
+      download:
+        recipient: Příjemce
+        downloaded_at: Staženo
+        remote_ip: Vzdálená IP
+        remote_host: Vzdálený hostitel
+        created_at: Vytvořeno
+        updated_at: Aktualizováno
+      filedrop:
+        name: Název
+        title: Titulek
+        description: Popis
+        blocked_extensions: Blokované přípony
+        permitted_extensions: Povolené typy souborů
+        expires_after: Platnost
+        max_filesize: Maximální velikost souboru
+        created_at: Vytvořeno
+        updated_at: Aktualizováno
+        api_key: Klíč API
+        cc: Kopie
+        authorization: Autorizace
+      message:
+        recipients: Příjemci
+        sender: Odesílatel
+        cc: Kopie
+        bcc: Skrytá kopie
+        message: Zpráva
+        subject: Předmět
+        deleted: Smazáno
+        authorization: Autorizace
+        created_at: Vytvořeno
+        updated_at: Aktualizováno
+        expires_at: Platnost do
+      share/log:
+        created_at: Datum
+      share/file:
+        checksum: Kontrolní součet (SHA256)
+      share/file/version:
+        whodunnit: Změnil(a)
+        created_at: Změněno
+      user:
+        name: Jméno
+        email: E-mailová adresa
+        quota: Kvóta
+        used: Využito
+        max: Max.
+        password: Heslo
+        ldap_authentication: Ověřování LDAP
+        api_key: Klíč API
+        level: Úroveň
+        filedrop: Filedrop
+    models:
+      configuration: Konfigurace
+      attachment: Příloha
+      filedrop: Filedrop
+      message: Zpráva
+      user: Uživatel
+      download: Stažení
+  admin:
+    groups:
+      form:
+        bcc_myself: Poslat kopii mně
+        can_change_bcc_myself: Povolit uživatelům této skupiny měnit nastavení posílání kopie sobě
+      index:
+        default_group_assignment: Výchozí přiřazení skupiny
+    users:
+      users:
+        email: E-mailová adresa
+        name: Jméno
+        group: Skupina
+        max: Max. velikost souboru
+        quota: Kvóta
+        strong_auth: Silné ověření
+        filedrop: Filedrop
+        last_login_at: Poslední přihlášení
+        last_login_ip: IP posledního přihlášení
+        created: Vytvořeno
+      form:
+        name_label: Jméno
+        email: E-mailová adresa
+        password: Heslo
+        password_confirmation: Potvrzení hesla
+        max_label: Maximální velikost souboru
+        group: Skupina
+        strong_auth: Silné ověření
+        strong_auth_username: Uživatelské jméno pro silné ověření
+        api_key: Klíč API
+        filedrop: Filedrop
+  attachments:
+    not_found: Příloha nenalezena
+  config:
+    settings: Nastavení
+    email: E-mail
+    language_preferences_from_your_browser: Jazykové předvolby prohlížeče
+    authentication: Ověřování
+    time_zone: Časové pásmo
+    current_time_zone: Aktuální časové pásmo
+    time_zone_from_browser: Časové pásmo zjištěné prohlížečem
+    time_zone_config_description: Pokud ponecháte časové pásmo na „Zjištěno automaticky“, použije se časové pásmo zjištěné vaším prohlížečem (všechny časy se zobrazí v tomto pásmu). Pokud prohlížeč časové pásmo zjistit nedokáže, použije se výchozí časové pásmo systému. Pokud prohlížeč nezjistí správné časové pásmo nebo chcete zobrazovat časy v jiném pásmu, můžete nastavit konkrétní časové pásmo.
+    time_zone_default: Výchozí časové pásmo systému
+    email_settings: Nastavení e-mailu
+    configuration: Konfigurace
+    local_domains: Místní doména
+    ldap_users: Uživatelé ověření přes LDAP
+    ldap_users_are_always_local: Uživatelé ověření přes LDAP jsou vždy místní
+    separated_by_comma: oddělené čárkami
+    default_max_file_size: Výchozí maximální velikost souboru
+    local_users: Místní uživatelé
+    external_users: Externí uživatelé
+    allow_registration: Povolit registraci
+    allow_registration_desc: Povolit registraci na přihlašovací stránce
+    external_user_account: Externí příjemci
+    external_user_account_desc: Externí příjemci si musí vytvořit účet
+    allow_users_to_change_expiration: Povolit uživatelům měnit platnost souborů
+    authorization: Oprávnění
+    authorization_description: Výchozí nastavení toho, kdo smí stahovat soubory.
+    file_expiration: Platnost
+    default_expire_files_after: Platnost souborů ve výchozím nastavení vyprší po
+    delete_downloaded_files_after: Smazat stažené soubory po
+    branding: Vlastní vzhled
+    company_name: Název společnosti
+    custom_stylesheet: Vlastní šablona stylů
+    custom_javascript: Vlastní JavaScript
+    logotype: Logo
+    leave_blank_for_default: ponechte prázdné pro výchozí hodnotu
+    email_configuration: Konfigurace e-mailu
+    email_sender_address: Adresa odesílatele
+    email_host: Základní URL e-mailů
+    email_footer: Zápatí e-mailu
+    email_relay_host: Server pro předávání e-mailů
+    email_relay_username: Uživatelské jméno pro předávání e-mailů
+    email_relay_password: Heslo pro předávání e-mailů
+    port: Port
+    unlicensed_install_some_settings: "Nelicencovaná instalace: nastavení vlastního vzhledu vidí pouze správci systému"
+    mail_relay_example: "Např.: mailrelay.domena.cz, mx.domena.cz:587"
+    ldap: LDAP
+    please_see_the: viz
+    for_more_information: pro více informací
+    virus_scan: Antivirová kontrola
+    virus_scan_description: Kontrolovat soubory na viry
+    blocked_file_extensions: Blokované přípony souborů
+    default_bcc_myself_label: Poslat kopii mně
+    default_bcc_myself: Ve výchozím nastavení posílat kopii mně
+    allow_users_to_change_require_login_label: Vyžadovat ověření
+    allow_users_to_change_require_login: Povolit uživatelům měnit „Vyžadovat ověření“
+    permitted_file_extensions_label: Povolené přípony souborů
+    delete: Smazat
+    ldap_description: "Zapněte ověřování uživatelů přes LDAP a nastavte základní parametry připojení k serveru LDAP. Pokud není zadán port, použije se výchozí port LDAP 389 (nebo port 636, pokud je zapnuto SSL). Poznámka: port 3268 se v Active Directory NEPOUŽÍVÁ k ověřování, pouze k vyhledávání v globálním adresáři. Použijte místo něj port 389/636."
+    ldap_authentication: Ověřování LDAP
+    basic_settings: Základní nastavení
+    server: Název serveru / IP adresa
+    username: Uživatelské jméno
+    password: Heslo
+    authentication_description: Tento uživatel bude použit pro připojení k serveru LDAP (ponechte prázdné pro anonymní připojení). Uživatel potřebuje oprávnění k vyhledávání ve stromu LDAP.
+    search_key: Klíč vyhledávání
+    search_key_description: Klíč vyhledávání a doména slouží k vyhledání uživatelů ve stromu LDAP. V tabulce níže je vidět, jak klíč vyhledávání a doména spolupracují při hledání uživatele.
+    search_key_description2: Pokud tedy klíč vyhledávání LDAP obsahuje e-mailovou adresu, doména musí zůstat prázdná. Pokud klíč vyhledávání LDAP obsahuje pouze uživatelské jméno, doména musí obsahovat doménu uživatelů.
+    search_key_defaults: "Pro Active Directory je dobrým výchozím bodem: sAMAccountName jako klíč vyhledávání LDAP a firma.cz (vaše doména) jako doména."
+    user_enters: Uživatel zadá
+    authorized_ldap_groups: Autorizované skupiny LDAP
+    available_groups: Dostupné skupiny
+    default_settings: Výchozí nastavení
+    setting: Nastavení
+    value: Hodnota
+    description: Popis
+    default_local_max_description: Toto je výchozí maximální velikost souboru pro nové místní uživatele. Lze ji změnit pro jednotlivé uživatele.
+    user_changeable: Může měnit uživatel?
+    non_local: Nemístní
+    remote: Vzdálený
+    new_external_recipient_is_nonlocal: Noví externí příjemci jsou
+    email_message_on_top_label: Zpráva nahoře
+    email_message_on_top: Zpráva je v e-mailu příjemcům umístěna nad seznamem souborů
+    use_either_permitted_or_blocked_extensions: Musíte zvolit buď povolené, nebo blokované přípony, ne obojí
+    invalid_password: Neplatné heslo
+    valid_password: Platné heslo
+    test_password_validation: Otestovat ověření hesla
+    custom_password_validation: Vlastní ověření hesla
+    custom_password_validation_description: "Tento regulární výraz se použije pro vlastní ověření hesel. Zadejte pouze regulární výraz bez oddělovačů (nezačínejte ani nekončete znakem '/'). Příklad: [a-zA-Z0-9]{7,} (hesla pak smí obsahovat pouze a-z, A-Z a 0-9, minimálně 7 znaků)"
+    filedrop: Filedrop
+    receive: Přijímat
+    api_settings: Nastavení API
+    enable_api_label: Zapnout API
+    enable_api_description: Zapnout API pro přístup přes doplňky a skripty
+    enable_api_group_config: Další nastavení API najdete v konfiguraci skupin.
+    api_client_size_override_label: Limit velikosti pro klienty API
+    api_client_size_override_description: Klienti API budou soubory větší než tato velikost odesílat přes zařízení
+    sso_secret_key: Tajný klíč SSO
+    generate_key: Vygenerovat nový klíč
+    sso_replace_confirm: Jste si jisti? Nahrazením tajného klíče SSO přestanou stávající integrace SSO fungovat.
+    virus_scan_skip_locals: Přeskočit antivirovou kontrolu u místních uživatelů
+    virus_scan_skip_locals_description: Nekontrolovat soubory místních uživatelů na viry
+    virus_scan_permit_unscanned: Povolit nezkontrolované soubory
+    virus_scan_permit_unscanned_description: Povolit stahování souborů, které ještě nebyly zkontrolovány na viry
+    userdrop: Uživatelský Filedrop
+    user_filedrop_with_random_key: Uživatelské Filedropy s náhodným klíčem
+    enable_userdrop: Zapnout uživatelské Filedropy
+    example: Příklad
+    user_filedrop_with_email: Uživatelské Filedropy s e-mailovými adresami
+    enable_userdrop_email: Zapnout uživatelské Filedropy s e-mailovou adresou
+    userdop_email_data_leakage: To by mohlo být zneužito ke zjišťování místních e-mailových adres zkoušením adres na URL Filedropu a sledováním, které vrací platnou odpověď.
+    userdrop_files_expire_after: Platnost vložených souborů vyprší po
+    userdrop_max_filesize: Maximální velikost souboru pro uživatelský Filedrop
+    bruteforce_label: Ochrana proti útokům hrubou silou
+    bruteforce_description_1: Blokovat IP adresu na
+    bruteforce_description_2: minut po
+    bruteforce_description_3: neúspěšných přihlášeních/registracích během
+    bruteforce_description_4: minut
+    bruteforce_whitelist_label: Seznam povolených pro ochranu proti hrubé síle
+    allowed_admin_networks_label: Sítě pro správu
+    allowed_admin_networks_description: Omezit přístup správce na tyto hostitele a sítě. Localhost (127.0.0.1, ::1) je vždy povolen
+    enable_strong_authentication: Ve výchozím nastavení zapnout silné ověření pro tyto typy uživatelů
+    authenticated_username: Ověřené uživatelské jméno
+    duo_hostname: Název hostitele Duo
+    duo_client_id: Integrační klíč Duo
+    duo_client_secret: Tajný klíč Duo
+    strong_authentication_test: Otestovat silné ověření
+    stronger_password: Zvolte prosím silnější heslo.
+    cannot_begin_or_end_with_blank: Heslo nesmí začínat ani končit mezerou.
+    at_least_one_invalid_domain: Alespoň jedna neplatná doména
+    at_least_one_invalid_email: Alespoň jedna neplatná e-mailová adresa
+    email_security_level: Úroveň zabezpečení doručování e-mailů
+    geoip: Vyhledávání GeoIP
+    geoip_description: Stahuje data o poloze z https://geoip.liquidfiles.com a zobrazuje mapy.
+    tooltip:
+      local_domains: Místní uživatel může posílat soubory komukoli. Nemístní uživatel může posílat soubory pouze místním uživatelům. Při prvním přihlášení uživatele nebo při vytvoření účtu se doména e-mailové adresy porovná s těmito doménami a určí se, zda je uživatel považován za místního.
+      ldap_users_are_always_local: Každý uživatel ověřený přes LDAP je automaticky považován za místního bez ohledu na doménu.
+      allow_registration: Povolí registraci na přihlašovací stránce. Podle seznamu místních domén se určí, zda je nový uživatel místní, nebo nemístní.
+      local_user_maxfile: Když se místní uživatel zaregistruje nebo se poprvé ověří vzdáleným ověřením, nastaví se mu tato maximální velikost souboru.
+      nonlocal_user_maxfile: Když se zaregistruje nemístní uživatel, nastaví se mu tato maximální velikost souboru.
+      delete_downloaded_files_after: Stažený soubor se uchovává po tuto dobu. Měla by být dost dlouhá na to, aby si příjemce mohl zvolit jiné umístění ke stažení nebo začít znovu, ale dost krátká, aby se odkaz nešířil dalším lidem.
+      file_expiration: Povolí uživatelům měnit dobu platnosti souborů. Pokud není zapnuto, všechny soubory dostanou výchozí dobu platnosti.
+      default_expire_files_after: Platnost souborů vyprší po této době.
+      blocked_file_extensions: Blokovat soubory s těmito příponami (nerozlišují se malá a velká písmena).
+      virus_scan: Kontrolovat všechny nahrané soubory antivirem ClamAV
+      require_authentication_permission: Pokud je zapnuto, uživatelé si mohou sami zvolit, zda je vyžadováno ověření
+      default_bcc_myself: Pokud je zapnuto, zprávy se ve výchozím nastavení posílají i samotnému uživateli
+      permitted_file_extensions: "Pokud zůstane prázdné, jsou povoleny všechny přípony. Pokud je zadána alespoň jedna přípona, jsou povoleny pouze zadané typy souborů. Příklad: png, gif, jpg, txt"
+      new_external_recipient_is_nonlocal: Když je zpráva odeslána novému příjemci, má být vytvořen jako nemístní uživatel (aby mohl odpovědět), nebo jako externí uživatel?
+      email_message_on_top: Pokud je zaškrtnuto, zpráva je v e-mailu příjemcům umístěna nad seznamem souborů. Pokud není, je seznam souborů umístěn nad zprávou.
+      email_sender: Tato e-mailová adresa bude použita jako odesílatel systémových e-mailů, například pro obnovení hesla. Aby nebyly tyto e-maily označeny jako spam, musí jít o skutečnou e-mailovou adresu.
+      email_host: Přílohy budou tuto URL používat jako základní URL. Obvykle jde o http://nazevhostitele.domena nebo https://nazevhostitele.domena, ale může to být i https://nazevhostitele.domena:4433, pokud při připojování uživatelů k zařízení LiquidFiles používáte na firewallu přesměrování portů.
+      email_footer: Tento podpis bude přidán ke všem odchozím e-mailům.
+      email_relay: Použít tento poštovní server pro předávání odchozích e-mailů.
+      email_relay_username: Účet používaný k přihlášení k serveru pro předávání e-mailů
+      email_relay_password: Heslo účtu používaného k přihlášení k serveru pro předávání e-mailů
+  date:
+    formats:
+      default: "%d.%m.%Y"
+      short: "%d.%m."
+      medium: "%d.%m.%Y"
+      long: "%d.%m.%Y"
+  time:
+    am: dop.
+    pm: odp.
+    formats:
+      default: "%d.%m.%Y %H:%M:%S %z"
+      short: "%d.%m. %H:%M"
+      medium: "%d.%m.%Y %H:%M"
+      long: "%d.%m.%Y %H:%M"
+  downloads:
+    download_id: ID stažení
+    index:
+      download_log_title: Stažení
+      download_log_description: Kdo co a kdy stáhl
+      paginator_entry_name: stažení
+    show:
+      no_map_for_reserved_address: Pro rezervované adresy nelze zobrazit mapu
+  filedrop:
+    filedrop: Filedrop
+    no_such_filedrop: Tento Filedrop neexistuje
+    invalid_filedrop_url: Neplatná URL Filedropu
+    invalid_filedrop_url_description: Na této URL není žádný Filedrop. Zkontrolujte URL a zkuste to znovu.
+    label: Filedropy
+    mb: MB
+    name: Název
+    name_description: Krátký název, který se používá i v URL (např. /filedrop/nazev)
+    title: Titulek
+    title_description: Titulek v horní části stránky
+    description: Popis
+    description_description: Popis pod titulkem
+    user: Přijímající uživatel
+    user_description: Příjemcem může být libovolný místní uživatel
+    cc: Kopie
+    cc_description: "(oddělené čárkami) Poslat kopii na tyto adresy"
+    expires_after: Platnost
+    expires_after_description: dní
+    max_filesize: Maximální velikost souboru
+    max_filesize_description: MB
+    reset_filedrop: Obnovit URL Filedropu
+    filedrop_reset_warning: Jste si jisti? Pokud URL Filedropu obnovíte, budete ji muset nahradit všude, kde jste ji zveřejnili.
+    permitted_extensions: Povolené přípony
+    permitted_extensions_description: Povoleny budou pouze tyto typy souborů
+    blocked_extensions: Blokované přípony
+    blocked_extensions_description: Tyto typy souborů budou blokovány
+    demo_license_warning_standard: Filedropy vyžadují pro produkční provoz licenci. Chcete-li funkci Filedrop zapnout, přejděte na licenci Pro.
+    max_one_during_demo: Během zkušební verze nebo s licencí Standard můžete nastavit nejvýše jeden Filedrop
+    filedrop_info: Filedrop umožňuje vašim zákazníkům posílat vám soubory bez ověření nebo předchozího nastavení. Každý Filedrop má pevnou URL, na kterou můžete odkazovat z webových stránek nebo v e-mailových podpisech. Když někdo vloží soubor do Filedropu, automaticky se odešle předem určenému uživateli.
+    authorization: Oprávnění
+    authorization_description: kdo smí stahovat soubory vložené do Filedropu
+    you_will_be_notified: Jakmile budou vaše soubory staženy, obdržíte potvrzení o stažení.
+    require_authentication: Tento Filedrop vyžaduje ověření. Chcete-li pokračovat, zadejte heslo.
+    authenticate: Ověřit
+    authentication_failed: Ověření se nezdařilo
+    require_validation: Tento Filedrop vyžaduje ověření nebo potvrzení vaší e-mailové adresy.
+  filelink:
+    filelink: FileLink
+    filelinks: FileLinky
+    filelink_title: FileLink
+    filelink_description: FileLink je odkaz na jeden soubor. Tento odkaz můžete poslat komukoli, aniž byste museli vytvářet zprávu nebo zadávat příjemce. Soubor si budou moci stáhnout pouze lidé, kterým jste náhodný odkaz poslali.
+    expired_or_nonexistent_title: Neplatný FileLink
+    expired_or_nonexistent: Platnost tohoto FileLinku vypršela nebo neexistuje. Kontaktujte odesílatele kvůli novému odkazu.
+    existing_filelinks: Stávající FileLinky
+    new_filelink: Nový FileLink
+    available_files: Dostupné soubory
+    filename: Název souboru
+    filesize: Velikost souboru
+    expires_at: Platnost do
+    link: Odkaz
+    checksum: Kontrolní součet
+    copy_link_to_clipboard: Kopírovat FileLink do schránky
+    expire_link_at: Platnost odkazu do
+    you_have_no_filelinks: Nemáte žádné FileLinky. Přidejte nový FileLink nebo jej vytvořte z dostupného souboru.
+    you_have_no_files_available: Nemáte žádné dříve odeslané soubory. Jakmile odešlete alespoň jeden soubor, můžete jej zde vybrat a vytvořit z něj FileLink.
+    create_link: Vytvořit odkaz
+    invalid_file: Neplatný soubor, FileLink nelze vytvořit
+    delete: Smazat
+    delete_link_warning: Opravdu chcete tento FileLink smazat?
+    could_not_delete_link: FileLink se nepodařilo smazat. Odkaz nenalezen!
+    filelink_deleted: FileLink smazán!
+    select_file: Vybrat soubor
+    send_download_receipts: Posílat potvrzení o stažení
+    disabled: FileLinky jsou vypnuty, kontaktujte prosím správce
+    unauthorized: Nemáte oprávnění používat FileLinky
+    require_authentication: Vyžadovat ověření
+    filelink_require_authentication: Tento FileLink vyžaduje ověření
+    filelink_url: URL FileLinku
+    expired: Platnost vypršela
+    filelink_expired: Platnost FileLinku vypršela
+    select_from_available_files: FileLink můžete vytvořit také z kteréhokoli z těchto stávajících souborů.
+    downloads: Stažení
+    authentication_failed: Ověření se nezdařilo
+    password_label_html: Heslo <small class="text-muted">(nepovinné)</small>
+    password_present_html: Pro tento FileLink je nastaveno heslo.<br>Můžete jej odebrat uložením prázdného hesla.
+    password_not_present: Heslo není nastaveno.
+    copy_to_clipboard: Kopírovat FileLink do schránky
+    add_file: Přidat soubor
+  ftpdrop:
+    create:
+      ftpdrop: FTPdrop
+  html_editor:
+    font:
+      bold: Tučné
+      italic: Kurzíva
+      underline: Podtržené
+      clear: Odebrat formátování
+      height: Výška řádku
+      name: Písmo
+      strikethrough: Přeškrtnuté
+      subscript: Dolní index
+      superscript: Horní index
+      size: Velikost písma
+    image:
+      image: Obrázek
+      insert: Vložit obrázek
+      resize_full: Plná velikost
+      resize_half: Poloviční velikost
+      resize_quarter: Čtvrtinová velikost
+      float_left: Zarovnat vlevo
+      float_right: Zarovnat vpravo
+      float_none: Bez zarovnání
+      shape_rounded: "Tvar: zaoblený"
+      shape_circle: "Tvar: kruh"
+      shape_thumbnail: "Tvar: miniatura"
+      shape_none: "Tvar: žádný"
+      url: URL obrázku
+      remove: Odebrat obrázek
+    link:
+      link: Odkaz
+      insert: Vložit odkaz
+      unlink: Odebrat odkaz
+      edit: Upravit
+      text_to_display: Zobrazený text
+      url: Na jakou URL má odkaz vést?
+      open_in_new_window: Otevřít v novém okně
+    table:
+      table: Tabulka
+    hr:
+      insert: Vložit vodorovnou čáru
+    style:
+      style: Styl
+      normal: Normální
+      blockquote: Citace
+      pre: Kód
+      h1: Nadpis 1
+      h2: Nadpis 2
+      h3: Nadpis 3
+      h4: Nadpis 4
+      h5: Nadpis 5
+      h6: Nadpis 6
+    lists:
+      unordered: Odrážkový seznam
+      ordered: Číslovaný seznam
+    options:
+      help: Nápověda
+      fullscreen: Celá obrazovka
+      codeview: Zobrazení kódu
+    paragraph:
+      paragraph: Odstavec
+      outdent: Zmenšit odsazení
+      indent: Zvětšit odsazení
+      left: Zarovnat vlevo
+      center: Zarovnat na střed
+      right: Zarovnat vpravo
+      justify: Zarovnat do bloku
+    color:
+      recent: Poslední barva
+      more: Další barvy
+      background: Barva pozadí
+      foreground: Barva textu
+      transparent: Průhledná
+      set_transparent: Nastavit průhlednost
+      reset: Obnovit
+      reset_to_default: Obnovit výchozí
+    shortcut:
+      shortcuts: Klávesové zkratky
+      close: Zavřít
+      text_formatting: Formátování textu
+      action: Akce
+      paragraph_formatting: Formátování odstavce
+      document_style: Styl dokumentu
+      extra_keys: Další klávesy
+    history:
+      undo: Zpět
+      redo: Znovu
+  invite:
+    invite_user: Pozvat uživatele
+    description: Můžete pozvat uživatele, aby s vámi sdíleli soubory. Po zadání jejich údajů obdrží e-mail s pokyny k dokončení registrace.
+    send_invite: Odeslat pozvánku
+    name_placeholder: Celé jméno
+    invitation_sent: Pozvánka odeslána
+    not_permitted_to_invite_users: Nemáte oprávnění zvát uživatele.
+    invalid_email: Neplatná e-mailová adresa
+  link:
+    show:
+      set_password: Nastavit heslo
+      download: Stáhnout
+      downloads_and_info: Všechna stažení a další informace
+    authenticate:
+      show:
+        title: Heslo FileLinku
+        authenticate: Ověřit
+        require_authentication: Chcete-li otevřít tento FileLink, musíte zadat požadované heslo.
+      create:
+        authentication_failed: Ověření se nezdařilo.
+    downloads:
+      index:
+        back_to_filelink: Zpět na FileLink
+    link_downloads:
+      latest_downloads: Poslední stažení (%{count} z celkem %{total})
+  menu:
+    shares: Share
+    messages: Zprávy
+    send_files: Napsat
+    users: Uživatelé
+    active_transfers: Aktivní přenosy
+    configuration: Konfigurace
+    system: Systém
+    message_list: Seznam zpráv
+    settings: Nastavení
+    admin: Správa
+    account: Účet
+    inbox: Doručené
+    sent_messages: Odeslané
+    downloads: Protokol stažení
+    filelink: FileLinky
+    secure_messages: Zabezpečené zprávy
+    support: Podpora
+  message:
+    message_sent: Zpráva odeslána
+    not_found: Zpráva nenalezena
+    message_not_found_header: Zpráva nenalezena!
+    message_not_found_description: Požádejte prosím odesílatele, aby vám zprávu poslal znovu.
+    previous_recipients: Předchozí příjemci
+    contacts: Kontakty
+    is_not_permitted: není povoleno
+    not_permitted_to_delete_messages: Nemáte oprávnění mazat zprávy
+    is_not_in_any_of_the_allowed_domains: nepatří do žádné z povolených domén
+    is_not_in_any_of_the_allowed_groups: nepatří do žádné z povolených skupin
+    attach_1_file: Musíte připojit alespoň jeden soubor
+    too_many_files: Příliš mnoho připojených souborů. K jedné zprávě můžete připojit nejvýše %{count} souborů.
+    attached_files: Připojené soubory
+    expired: Platnost zprávy vypršela
+    authorize:
+      show:
+        title: Přihlaste se prosím pro přístup k zabezpečené zprávě
+        authenticate_description_html: Chystáte se zobrazit zabezpečenou zprávu. Nejprve se musíte přihlásit. Chcete-li pokračovat, zadejte svou e-mailovou adresu nebo se přihlaste.<br>Pokud v tomto systému nemáte účet, zadejte svou e-mailovou adresu a my vám pošleme zabezpečený odkaz k jejímu ověření.
+        unauthenticated_html: <h4>Neplatné uživatelské jméno nebo heslo</h4><p>Zadejte své uživatelské jméno a heslo. Heslo můžete obnovit tlačítkem Obnovení hesla níže.</p>
+        unauthorized_to_view_check_email_html: <h4>Neautorizovaná e-mailová adresa</h4><p>Zkontrolujte, zda vám byla zabezpečená zpráva [<span class="font-monospace fw-bold">%{message_id}</span>] odeslána, a zadejte e-mailovou adresu přesně tak, jak byla zpráva odeslána.</p><p>Pokud například vaše e-mailová adresa může být jan.novak@firma.cz i jnovak@firma.cz, systém nemůže vědět, že jde o stejnou adresu. Pokud byla zabezpečená zpráva odeslána na jan.novak@firma.cz, musíte zde zadat právě tuto adresu.</p><p>Pokud si nejste jisti, kontaktujte odesílatele zabezpečené zprávy.</p>
+    errors:
+      not_authorized_to_view_message: "Nemáte oprávnění zobrazit zprávu s ID: %{message_id}. Zkontrolujte prosím, zda vám tato zpráva byla odeslána."
+      private_message_requires_authentication: Soukromé zprávy vyžadují ověření
+    attachments:
+      download_attachment_details_csv: Stáhnout podrobnosti o přílohách (CSV)
+      attachment:
+        fileinfo: Informace o souboru
+        file_size: Velikost souboru
+        content_type: Typ obsahu
+        checksum: Kontrolní součet
+        virus_status: Stav antiviru
+    compose:
+      options_permission:
+        authentication_required: Vyžadováno ověření
+        authentication_not_required: Ověření není vyžadováno
+        require_authentication_description: Musí se příjemci pro přístup k této zprávě ověřit?
+        access_restriction_html: Omezení přístupu<br><small class="text-muted">Kdo má k této zprávě přístup?</small>
+        recipients_only_html: Pouze<br>příjemci
+        recipients_plus_locals_html: Příjemci<br>+ místní uživatelé
+        recipients_plus_domains_html: Příjemci<br>+ domény
+        anyone_secret_link_html: Kdokoli<br>(tajný odkaz)
+    unavailable:
+      header: Zpráva není dostupná
+      description: Platnost této zprávy vypršela, byla smazána, neexistuje nebo již není dostupná. Požádejte prosím odesílatele, aby zprávu poslal znovu.
+    downloads:
+      index:
+        download_log_title: Protokol stažení
+        message_id: ID zprávy
+        paginator_entry_name: Stažení
+      download:
+        details: Podrobnosti
+      not_found:
+        title: Zpráva nebo stažení nenalezeno
+        description_html: Zprávu nebo stažení nelze najít, nebo nemáte oprávnění je zobrazit
+    temporary_user:
+      create:
+        invalid_temporary_user: Neplatné heslo. Zkontrolujte e-mail s dočasným heslem nebo si vyžádejte nové dočasné heslo.
+        temporary_user_expired: Platnost tohoto dočasného hesla vypršela. Na vaši e-mailovou adresu bylo odesláno nové dočasné heslo. Zkontrolujte prosím doručenou poštu a použijte nové dočasné heslo.
+        not_authorized_to_view_message: "Nemáte oprávnění zobrazit zprávu s ID: %{message_id}. Zkontrolujte prosím, zda vám tato zpráva byla odeslána."
+      show:
+        title: Zadejte prosím své dočasné heslo
+        description_html: "Chystáte se zobrazit zabezpečenou zprávu. Chcete-li ji otevřít, musíte zadat dočasné heslo.<br>Dočasné heslo je jedinečný náhodný řetězec, který vás identifikuje. Dočasné heslo vám bylo zasláno v samostatném e-mailu (předmět: Dočasné heslo)."
+        what_is_this: Co to je?
+        login: Přihlásit se
+        submit: Ověřit dočasné heslo
+        submit_email: Odeslat
+        if_you_have_account: "(pokud již máte účet)"
+        request_temporary_user_header: Vyžádat nové dočasné heslo
+        request_temporary_user_description_html: Pro přístup k této zprávě si můžete vyžádat nové dočasné heslo. Zadejte níže svou e-mailovou adresu a vyžádejte si nové dočasné heslo k této zabezpečené zprávě.
+        info_header: Informace o dočasném hesle
+        info_body_html: "<p>Dočasné heslo je jedinečná posloupnost číslic a písmen, například:</p><pre><code>3ynp-7FKa-pZS9</code></pre><p><em>Toto dočasné heslo je pouze příklad, abyste viděli, jak vypadá – nelze jej použít.</em></p><p>Ve schránce najdete <strong>dva e-maily</strong>: e-mail se zabezpečenou zprávou a e-mail s <strong>předmětem začínajícím slovy: Dočasné heslo</strong>. Ten obsahuje vaše jedinečné dočasné heslo pro tento systém.</p><p>Pokud jste e-mail s dočasným heslem neobdrželi, možná již v tomto systému máte účet. V takovém případě klikněte na „Přihlásit se“.</p><p>Pokud si myslíte, že jste měli dočasné heslo obdržet, ale nestalo se tak, klikněte na „Vyžádat dočasné heslo“ a získejte nové.</p>"
+        email_address: E-mailová adresa
+        email_not_permitted: Tato e-mailová adresa nemá oprávnění zobrazit tuto zabezpečenou zprávu.
+        email_not_permitted_description_html: <p>Zkontrolujte přijatý e-mail se zabezpečenou zprávou a zadejte e-mailovou adresu přesně tak, jak byla zpráva odeslána.</p><p>Pokud například vaše e-mailová adresa může být jan.novak@firma.cz i jnovak@firma.cz, systém nemůže vědět, že jde o stejnou adresu. Pokud byla zabezpečená zpráva odeslána na jan.novak@firma.cz, musíte zde zadat právě tuto adresu.</p><p>Pokud si nejste jisti, kontaktujte odesílatele zabezpečené zprávy.</p>
+        email_can_login: V tomto systému již máte účet
+        email_can_login_description_html: <p>Do tohoto systému se můžete přihlásit touto e-mailovou adresou a svým heslem.</p><p>Kliknutím na tlačítko Přihlásit se níže se přihlásíte svým stávajícím účtem.</p>
+        temporary_user_delivered_header: Dočasné heslo odesláno
+        temporary_user_delivered_description_html: <p>Na vaši e-mailovou adresu bylo odesláno dočasné heslo. Zkontrolujte doručenou poštu, zavřete toto okno a zadejte dočasné heslo.</p>
+    reply:
+      re: "Re:"
+      wrote: napsal(a)
+      show:
+        title: Odpovědět na zabezpečenou zprávu
+        from: Od
+        reply: Odpovědět
+        reply_all: Odpovědět všem
+      options:
+        options_description: Upozorňujeme, že všechny možnosti se přebírají z původní zprávy.
+    show:
+      back: Zpět
+      message_header: Záhlaví zprávy
+      reply: Odpovědět
+  messages:
+    sent:
+      skipped_file_not_found: Přeskočeno - soubor nenalezen
+      show:
+        sent_title: Odeslané
+        sent_description: Zprávy, které jste odeslali
+        paginator_entry_name: zprávy
+    attachments:
+      download_cmd:
+        unauthorized:
+          header: Neautorizováno
+          body: Nemáte oprávnění stáhnout tento soubor. Požádejte prosím odesílatele, aby vám soubor poslal znovu.
+          back: Zpět
+        exceeded:
+          header: Překročen limit stažení
+          body: Limit stažení tohoto souboru byl překročen. Požádejte prosím odesílatele, aby vám soubor poslal znovu.
+          back: Zpět
+    download_zip:
+      unauthorized:
+        header: Neautorizováno
+        body: Nemáte oprávnění stáhnout tento archiv. Požádejte prosím odesílatele, aby vám soubor poslal znovu.
+        back: Zpět
+      exceeded:
+        header: Překročen limit stažení
+        body: Limit stažení jednoho nebo více souborů v tomto archivu byl překročen. Požádejte prosím odesílatele, aby vám soubor poslal znovu.
+        back: Zpět
+    message:
+      reply: Odpovědět
+      reply_all: Odpovědět všem
+  models:
+    user:
+      no_need_to_create_local_user: Není nutné vytvářet místního uživatele
+      license_exceeded: Překročen limit licence
+  notifier:
+    activate_user_subject: "[%{hostname}] Aktivovat účet"
+    user_activation: Aktivace uživatele
+    please_visit_the_following_url_to_activate: Účet aktivujete kliknutím na následující odkaz
+    the_following_files_are_attached: K této zprávě jsou připojeny následující soubory
+    please_visit_the_following_url: Přílohy stáhnete kliknutím na tento odkaz
+    attachments_are_available: Přílohy jsou dostupné do
+    message_id: "ID zprávy: %{id}"
+    email_password_reset_subject: Obnovení hesla
+    download_receipt_subject: "Potvrzení o stažení [ID: %{message_id}]"
+    a_file_that_you_sent: Soubor, který jste odeslali, byl stažen. Uschovejte si prosím tento e-mail jako doklad o stažení.
+    recipient: Příjemce
+    filename: Název souboru
+    time_of_download: Čas stažení
+    downloaded_from: Staženo z
+    download_receipt: Potvrzení o stažení
+    user_created:
+      account_created: Účet vytvořen
+      subject: "[%{hostname}] Účet vytvořen"
+      message: "Čeká na vás zabezpečená příloha. Pro její stažení se musíte ověřit. Zaregistrujte se kliknutím na následující odkaz:"
+  outlook:
+    messages:
+      new:
+        attachments_header: Přílohy
+        attachments_hint: Soubory můžete připojit přetažením do oblasti níže nebo kliknutím na tlačítko Připojit soubory.
+        add_to_message: Přidat do zprávy
+      attachments:
+        attach_files: Připojit soubory
+        drop_files_here: Přetáhněte soubory sem...
+      options:
+        recipients_can_reply: Příjemci mohou odpovědět
+        send_copy_to_myself: Poslat kopii mně
+        private_message: Soukromá zpráva
+        private_message_required_auth_error: Při odesílání soukromé zprávy musíte použít režim „Vyžadováno ověření“.
+      options_authorization:
+        authentication_authorization_title_html: Ověření &amp; autorizace
+        authentication_select_title: Zvolit ověření
+        authentication_required: Vyžadováno ověření
+        authentication_not_required: Ověření není vyžadováno
+        authorization_select_title: Zvolit autorizaci
+        recipients_only: Pouze příjemci
+        recipients_locals: Příjemci + místní uživatelé
+        recipients_domains: Příjemci + domény
+        anyone: Kdokoli (tajný odkaz)
+      options_expiration:
+        message_expires: Platnost zprávy do
+        message_expires_after: Platnost zprávy
+  pagination:
+    first: "&laquo; První"
+    last: Poslední &raquo;
+    previous: "&lsaquo; Předchozí"
+    next: Další &rsaquo;
+    truncate: "&hellip;"
+  requests:
+    title: Žádost o soubory
+    file_request: Žádost o soubory
+    files_sent: Soubory odeslány, děkujeme!
+    request_file: Vyžádat soubor
+    file_requests: Žádosti o soubory
+    description: Žádostí o soubory můžete někoho požádat, aby vám poslal soubory. Po zadání údajů obdrží daná osoba e-mail s jedinečným odkazem, přes který vám může požadované soubory odeslat.
+    file_request_not_found: Žádost o soubory nenalezena
+    file_request_expired: Platnost žádosti o soubory vypršela
+    file_request_already_used: Žádost o soubory již byla použita
+    file_request_sent: Žádost o soubory odeslána
+    not_permited: Nemáte oprávnění používat funkci žádosti o soubory
+    multiuse: Vícenásobné použití - tento odkaz žádosti o soubory lze použít opakovaně
+    invalid_recipient: Neplatný příjemce, tato žádost o soubory byla odeslána někomu jinému
+    invalid_user: Toto není vaše žádost o soubory
+    index:
+      title: Žádosti o soubory
+      new_file_request: Nová žádost o soubory
+      multiuse: Vícenásobné použití
+      responded_to: Zodpovězeno
+      hide_expired: Skrýt prošlé a použité
+      show_expired: Zobrazit prošlé a použité
+    request:
+      resend: Odeslat znovu
+      are_you_sure_you_want_to_delete: Opravdu chcete tuto žádost o soubory smazat?
+    popup:
+      from: Od
+      to: Komu
+      subject: Předmět
+      message: Zpráva
+    resend:
+      request_resent: Žádost o soubory byla odeslána znovu
+    new:
+      request_expires: Platnost žádosti do
+  send:
+    send: Odeslat
+    sent: Odesláno
+    recipients: Komu
+    send_as: Odeslat jako
+    you_can_only_send_files_to_yourself: Soubory můžete posílat pouze sami sobě
+    subject: Předmět
+    subject_placeholder: Předmět
+    attachments: Přílohy
+    max_file_size: "Maximální velikost příloh: %{filesize} MB"
+    upload_queue: Fronta nahrávání
+    remove: Odebrat
+    cancel_all: Zrušit vše
+    cancel_all_uploads: Zrušit všechna nahrávání
+    message: Zpráva
+    message_placeholder: Zpráva
+    done_editing_please_send: Úpravy jsem dokončil(a), odešlete soubory po dokončení všech nahrávání
+    files_sent_successfully: Soubory byly úspěšně odeslány
+    you_need_at_least_one_recipient: Je potřeba alespoň jeden příjemce
+    you_need_at_least_one_attachment: Je potřeba alespoň jedna příloha
+    options: Možnosti
+    cc: Kopie
+    bcc: Skrytá kopie
+    bcc_message_description: Příjemci skryté kopie se ostatním příjemcům nezobrazí
+    add_cc: přidat kopii
+    add_bcc: přidat skrytou kopii
+    bcc_myself: Poslat kopii mně
+    require_login: Vyžadovat přihlášení ke stažení souborů
+    only_specified_recipients_can_download: Přílohy si mohou stáhnout pouze uvedení příjemci
+    anyone_can_download: Přílohy si může stáhnout kdokoli
+    expires_in: Přílohy lze stáhnout po dobu
+    expires_at: Platnost příloh do
+    send_options: Možnosti odeslání
+    to: Komu
+    from: Od
+    filename: Název souboru
+    filesize: Velikost souboru
+    downloaded_at: Staženo
+    message_sent: Zpráva odeslána
+    message_expires: Platnost zprávy do
+    message_expires_after: Platnost zprávy
+    message_expires_after_description: Výpočet probíhá pro každý soubor zvlášť. Pokud odešlete 2 soubory, jejichž platnost vyprší po 1 stažení, může si každý příjemce stáhnout každý soubor jednou.
+    downloads_per_recipient: Stažení na příjemce
+    total_downloads: Stažení celkem
+    file_not_downloaded: Žádné přílohy nebyly staženy
+    at_least_one_invalid_extension: Alespoň jedna příloha má neplatnou příponu
+    invalid_filetype: Neplatná přípona
+    blocked_extension: "Neplatná přípona. Nelze nahrát soubory s následujícími příponami: %{extensions}"
+    permitted_extensions: "Povolené přípony jsou: %{filetypes}"
+    already_selected: Tento soubor již byl vybrán
+    maximum_filesize_exceeded: Překročena maximální velikost souboru
+    contains_virus: "%{filename} obsahuje VIRUS: %{virus}"
+    limited_by_browser: Omezeno prohlížečem
+    limited_by_disk: Omezeno místem na disku
+    limited_by_system_quota: Omezeno systémovou kvótou
+    limited_by_group_quota: Omezeno kvótou skupiny
+    limited_by_quota: Omezeno kvótou
+    limited_per_message: Limit na zprávu
+    system_quota_exceeded: Překročena systémová kvóta
+    group_quota_exceeded: Překročena kvóta skupiny
+    quota_exceeded: Překročena kvóta
+    no_available_quota: Překročena kvóta, chcete-li pokračovat, smažte některé soubory
+    not_authorized_to_send: Nemáte oprávnění odesílat na %{email}
+    public_url: Veřejná URL
+    message_url: URL zprávy
+    authorization: Autorizace
+    insufficient_disk_space: Nedostatek místa na disku
+    active_transfers: Aktivní přenosy
+    view_log: Zobrazit protokol
+    previously_sent_attachments: Dříve odeslané přílohy
+    has_not_downloaded: "%{recipient} zatím nestáhl(a) žádný ze souborů"
+    authentication: Ověření
+    required: Vyžadováno
+    disabled: Vypnuto
+    require_authentication_tooltip_html: <li>Příjemce se musí pro stažení souboru přihlásit uživatelským jménem a heslem.</li> <li>Po stažení souboru obdržíte potvrzení.</li>
+    dont_require_authentication_tooltip_html: <li>Příjemce se pro stažení souboru nemusí přihlašovat.</li> <li>Po stažení souboru obdržíte potvrzení, ale ne informaci o tom, kdo jej stáhl (to nevíme).</li> <li>Potvrzení obdržíte pouze tehdy, když soubor stáhne první příjemce.</li>
+    authenticate_link_description: Před otevřením tohoto FileLinku se musíte přihlásit.
+    unauthorized: Nemáte oprávnění zobrazit tuto zprávu.
+    unauthenticated: Nesprávné heslo
+    incorrect_login_or_demo: Nesprávné heslo nebo dosažen limit licence
+    email_authorization_message: Děkujeme. Abychom ověřili, že jde o vaši e-mailovou adresu, poslali jsme vám e-mail s ověřovacím kódem. Zadejte ověřovací kód níže nebo klikněte na odkaz v e-mailu a přejděte ke zprávě.
+    email_authorization_link: Děkujeme. Abychom ověřili, že jde o vaši e-mailovou adresu, poslali jsme vám e-mail s ověřovacím kódem. Zadejte níže ověřovací kód z e-mailu nebo klikněte na odkaz v e-mailu a přejděte k FileLinku.
+    email_authorization_message_create_account: Děkujeme. Protože v tomto systému nemáte účet, poslali jsme vám e-mail s ověřovacím kódem, abychom ověřili, že jde o vaši e-mailovou adresu. Zadejte ověřovací kód níže nebo klikněte na odkaz v e-mailu a ověřte svou adresu. Poté budete vyzváni k vytvoření účtu a přesměrováni ke zprávě.
+    email_authorization_link_create_account: Děkujeme. Protože v tomto systému nemáte účet, poslali jsme vám e-mail s ověřovacím kódem, abychom ověřili, že jde o vaši e-mailovou adresu. Zadejte níže ověřovací kód z e-mailu nebo klikněte na odkaz v e-mailu a ověřte svou adresu. Poté budete vyzváni k vytvoření účtu a přesměrováni k FileLinku.
+    authorize: Autorizovat
+    authenticate: Přihlásit se
+    sending: Odesílání...
+    abort_transfer: Přerušit přenos
+    files_to_big: Soubor(y) příliš velký(é)
+    only_specified_recipients: Přístup mají pouze uvedení příjemci
+    only_specified_recipients_and_local_users: Přístup mají pouze uvedení příjemci a místní uživatelé
+    only_specified_recipients_and_domains: Přístup mají pouze uvedení příjemci a uživatelé z jejich domény
+    anyone_after_authentication: Přístup má kdokoli (s náhodným odkazem)
+    no_recipient_validation: Bez ověřování příjemců
+    anyone_can_access: Přístup má kdokoli
+    anyone: Kdokoli
+    no_authentication: Bez ověření
+    can_download: mohou stahovat
+    not_yet_scanned: probíhá antivirová kontrola, zkuste to prosím za chvíli znovu. Ve frontě %{queue}
+    was_infected: "byl infikován virem %{virus} a byl smazán"
+    deleted_or_expired: Smazáno nebo prošlé
+    im_done_editing: Odeslat automaticky po dokončení aktuálních nahrávání
+    download_all: Stáhnout vše
+    zipped_archive: Archiv ZIP
+    message_id: ID zprávy
+    overall_progress: Celkový průběh
+    abort: Přerušit
+    limitations: Omezení
+    max_size: Maximální velikost
+    add_files: Přidat soubory...
+    add_folder: Přidat složku...
+    no_attachment_added: Nebyla přidána žádná příloha
+    you_need_to_add_at_least_one_file: Musíte přidat alespoň jeden soubor.
+    private_message_or_attached_files: Musíte zapnout Soukromou zprávu nebo připojit alespoň jeden soubor.
+    no_runtime_found: Nebylo nalezeno běhové prostředí, soubory nelze odeslat
+    runtime_check_title: Nebylo nalezeno běhové prostředí
+    selected: vybráno
+    file_size_error: Chyba velikosti souboru
+    remaining: zbývá
+    attached_files: Připojené soubory
+    show_message: Zobrazit zprávu
+    can_be_max: může být nejvýše %{days} dní v budoucnosti
+    not_ready: Zatím není připraveno ke stažení
+    download_info: Informace o stažení
+    browser: Prohlížeč
+    platform: Platforma
+    operating_system: Operační systém
+    location: Umístění
+    download_details: Podrobnosti o stažení
+    download_information_not_found: Informace o stažení nebyly nalezeny.
+    add: Přidat
+    select_existing_files: Vybrat stávající soubory
+    add_existing_files: Přidat stávající soubory
+    add_existing_description: Tyto soubory již byly odeslány a můžete je odeslat znovu.
+    zip_disabled: ZIP vypnut
+    zip_disabled_description_exceeded: U alespoň jedné přílohy byl překročen maximální počet stažení.
+    spinner_info_html: <strong>Vaše zpráva je připravena k odeslání</strong>. Některé soubory se ještě zpracovávají na pozadí, ale nemusíte čekat. <strong>Až budete připraveni, klikněte na Odeslat!</strong>
+    sent_to_you: Odesláno vám
+    excluding_admins: Bez správců
+    downloads: Stažení
+    download_log: Protokol stažení
+    delete_attachments: Smazat přílohy
+    delete_message: Smazat zprávu
+    delete_attachments_warning: Opravdu chcete přílohy smazat?
+    delete_message_warning: Smazáním zprávy se smažou i připojené soubory a protokol stažení. Opravdu chcete zprávu smazat?
+    invalid_message: Neplatná zpráva
+    message_deleted: Zpráva smazána
+    attachments_deleted: Přílohy smazány
+    checksum: Kontrolní součet (SHA256)
+    not_permitted_to_send_messages: Nemáte oprávnění odesílat zprávy.
+    invalid_group_belonging: Odesílání není povoleno (neplatná skupina). Jste veden(a) jako externí uživatel, ale vaše e-mailová adresa patří do domény %{domain}, která je zároveň uvedena mezi omezenými doménami příjemců. To není externím uživatelům povoleno. Požádejte správce systému, aby vás přesunul do jiné skupiny.
+    expires_after_exceeded: Překročen počet stažení
+    expires_after_exceeded_for_zip: Překročen počet stažení u alespoň jednoho souboru v archivu ZIP
+    permission_description_title: Omezení přístupu
+    permission_description_only_specified_html: <ul> <li>Ke zprávě mají přístup a soubory si mohou stáhnout pouze uvedení příjemci.</li> <li>Přeposílání e-mailu nebo URL komukoli není povoleno.</li> <li>Příjemci se musí pro přístup ke zprávě a stažení souborů přihlásit.</li> <li>Při každém stažení každého souboru se odešle potvrzení o stažení s podrobnými informacemi.</li> </ul>
+    permission_description_only_specified_and_local_html: <ul> <li>Soubory si mohou stáhnout pouze uvedení příjemci a místní uživatelé.</li> <li>E-mail nebo URL lze přeposlat pouze místním uživatelům.</li> <li>Příjemci se musí pro stažení souborů přihlásit.</li> <li>Při každém stažení každého souboru se odešle potvrzení o stažení s podrobnými informacemi.</li> </ul>
+    permission_description_only_specified_and_domains_html: <ul> <li>Přístup mají pouze uvedení příjemci a uživatelé ze stejné e-mailové domény.</li> <li>Pokud odešlete na reditel@partner.cz, ke zprávě má přístup i sekretariat@partner.cz, ale ne zvedavec@konkurence.cz.</li> <li>Příjemci se musí pro stažení souborů přihlásit.</li> <li>Při každém stažení každého souboru se odešle potvrzení o stažení s podrobnými informacemi.</li> </ul>
+    permission_description_anyone_after_authentication_html: <ul> <li>Soubory si může stáhnout kdokoli, kdo má tajnou náhodnou URL.</li> <li>E-mail nebo URL lze přeposlat komukoli.</li> <li>Příjemci se musí pro stažení souborů přihlásit.</li> <li>Při každém stažení každého souboru se odešle potvrzení o stažení s podrobnými informacemi.</li> </ul>
+    permission_description_anyone_html: <ul> <li>Soubory si může stáhnout kdokoli, kdo má tajnou náhodnou URL.</li> <li>E-mail nebo URL lze přeposlat komukoli.</li> <li>Ke stažení souborů <strong>není</strong> nutné přihlášení.</li> <li>Při prvním stažení kýmkoli se odešle <strong>základní</strong> potvrzení o stažení (k tomu, abychom věděli, kdo co stáhl, je potřeba ověření).</li> </ul>
+    your_message_has_been_sent: Vaše zpráva byla odeslána
+    you_can_send_to_anyone: "(Tento odkaz můžete poslat komukoli)"
+    send_more_files: Odeslat další soubory
+    download_speed: Rychlost stahování
+    download_time: Doba stahování
+    at_least_one_invalid_email: Alespoň jedna neplatná e-mailová adresa
+    reply: Příjemce může odpovědět
+    private_message: Soukromá zpráva
+    private_message_description_html: U soukromé zprávy se text vaší zprávy neposílá příjemci e-mailem – zobrazí se až poté, co příjemce klikne na odkaz v e-mailu a ověří se. <ul> <li>Soukromou zprávu můžete odeslat i bez příloh.</li> <li>Jakmile si někdo vaši zprávu zobrazí, obdržíte potvrzení o přístupu.</li> <li>Soukromou zprávu nelze odeslat s oprávněním ke stažení „Kdokoli může stáhnout“.</li> </ul>
+    private_message_delivered_description: Zpráva byla odeslána jako soukromá zpráva. Text zprávy není v e-mailu obsažen a jakmile si zprávu zobrazí každý příjemce, obdržíte potvrzení o přístupu.
+    access_info: Informace o přístupu
+    access_details: Podrobnosti o přístupu
+    validation_code: Ověřovací kód
+    expired_token_inline: Platnost ověření e-mailem vypršela, zkuste to prosím znovu.
+    invalid_token: Neplatný nebo prošlý kód. Klikněte na odkaz v původním e-mailu a ověřte znovu svou e-mailovou adresu.
+    download_zip: Stáhnout ZIP
+    zip_ready_for_download: ZIP připraven ke stažení
+    processing_zip: Zpracování archivu ZIP
+    drop_file_here: Přetáhněte soubor sem
+    drop_files_here: Přetáhněte soubory sem
+    drop_files_and_folders_here: Přetáhněte soubory a složky sem
+    select_pool_files: Vybrat soubory z úložiště
+    add_pool_files: Přidat soubory z úložiště
+    invalid_validation_token: Toto není platný ověřovací kód.
+    not_the_validation_token: Toto je ID zprávy, ne ověřovací kód. Zadejte prosím ověřovací kód.
+    no_messages_in_inbox: Žádné zprávy v doručené poště.
+    filename_already_selected: K této zprávě již byl přidán soubor se stejným názvem
+    filesize_exceeded: Překročena maximální velikost zprávy
+    infected_with: Infikováno virem
+    not_permitted_to_download_content_blocked: "Stažení tohoto souboru není povoleno. Antivirová kontrola zjistila: %{virus}"
+    invalid_email_address: Neplatná e-mailová adresa
+    cant_create_folder: Nelze vytvořit složku
+    cant_check_folder: Nelze zkontrolovat složku
+    cant_restore_folder: Nelze obnovit složku
+    cant_check_chunks: Nelze zkontrolovat části
+    zip_not_include_all_files: Ne všechny soubory lze stáhnout – archiv ZIP bude obsahovat pouze stažitelné soubory.
+    paste_tip: Tip! Vložte pomocí Ctrl+Shift+V a odstraníte formátování.
+  session:
+    api:
+      authentication_error: Chyba ověření, zkuste to prosím znovu.
+      not_local_user: Neplatná e-mailová adresa. Tuto funkci mohou používat pouze místní uživatelé.
+      show:
+        login: Přihlásit se
+        login_label: E-mailová adresa
+        password: Heslo
+        sso_login: Přihlášení SSO
+        authentication_title: Přihlásit se
+        authentication_description: Chcete-li pokračovat, zadejte svou e-mailovou adresu nebo se přihlaste.
+      authenticated:
+        authentication_successful: Ověření proběhlo úspěšně
+    authenticate:
+      login: Chcete-li pokračovat, přihlaste se
+      description_html: Pro otevření této stránky se musíte přihlásit. Chcete-li pokračovat, zadejte svou e-mailovou adresu nebo se přihlaste.<br>Pokud v tomto systému nemáte účet, zadejte svou e-mailovou adresu a my vám e-mailem pošleme dočasné heslo.
+      unauthorized: Nemáte oprávnění zobrazit tuto zprávu. Zadejte svou e-mailovou adresu přesně tak, jak vám byla zpráva odeslána, nebo kontaktujte odesílatele zprávy.
+    email:
+      validate_email: Ověřte svou e-mailovou adresu
+      validate_email_description_html: "Na vaši e-mailovou adresu byl odeslán bezpečnostní kód: <strong>%{email}</strong>. Klikněte na odkaz nebo zadejte bezpečnostní kód sem, abyste ověřili svou e-mailovou adresu a mohli pokračovat."
+      session_expired: Relace vypršela, chcete-li pokračovat, zadejte znovu svou e-mailovou adresu
+      token_expired: Platnost ověřovacího odkazu v e-mailu vypršela, zkuste to prosím znovu.
+      already_authenticated: V tomto prohlížeči jste již přihlášeni.
+      resend_validation_email: Znovu odeslat ověřovací e-mail
+      verify: Ověřit
+      validate_email_sent: "Nový ověřovací e-mail byl odeslán v %{time}. Klikněte na odkaz v e-mailu nebo zadejte bezpečnostní kód níže a ověřte svou e-mailovou adresu."
+      invalid_temporary_user: Neplatný bezpečnostní kód. Zkontrolujte e-mail – do doručené pošty vám byl odeslán nový bezpečnostní kód.
+      create_account: Vytvořit účet
+      create_account_description: Vytvořte si v tomto systému účet, abyste se mohli přihlašovat e-mailovou adresou a heslem místo bezpečnostního kódu.
+      invalid_email: Neplatná e-mailová adresa
+    login_limit_exceeded:
+      delivered:
+        page_header: Překročen limit přihlášení
+        description: Pokusili jste se přihlásit příliš mnohokrát. Chcete-li pokračovat, musíte obnovit heslo.
+        email: Byl odeslán e-mail s odkazem pro obnovení hesla.
+      waiting:
+        page_header: Překročen limit přihlášení
+        description: "Pokusili jste se přihlásit příliš mnohokrát. Upozornění: musíte se přihlásit svým síťovým heslem. Pokud potřebujete toto heslo obnovit a nevíte jak, kontaktujte správce sítě. Po uplynutí čekací doby můžete stránku znovu načíst a limit tím obnovit."
+        expiration_time: Čekací doba
+        reload: Znovu načíst
+      show:
+        page_header: Překročen limit přihlášení
+        description: Pokusili jste se přihlásit příliš mnohokrát. Můžete obnovit limit přihlášení a přihlásit se znovu. Byl vám odeslán e-mail k obnovení limitu přihlášení.
+      reset:
+        login_limit_reset: Limit přihlášení obnoven
+    shared:
+      authentication_successful: Ověření proběhlo úspěšně
+    outlook:
+      edit:
+        authentication_title: Ověřit
+        authentication_description: Chcete-li pokračovat, přihlaste se
+        login: Přihlásit se
+        login_label: E-mailová adresa
+        password: Heslo
+        sso_login: Přihlášení SSO
+      show:
+        authentication_title: Ověřit
+        authentication_description: Chcete-li připojit zabezpečené soubory, přihlaste se.
+        authenticate: Ověřit
+    saml:
+      not_configured:
+        title: SAML není nakonfigurován
+        description: SAML není v tomto systému nakonfigurován. Pokud si myslíte, že jde o chybu, kontaktujte podporu, aby věc mohla prošetřit.
+        support_button: Kontaktovat podporu
+      api:
+        local:
+          title: Ověření SAML
+          description: Ověření SAML bylo spuštěno ve vašem výchozím prohlížeči – pokračujte v přihlášení tam. Pokud okno nemůžete najít nebo z nějakého důvodu nefunguje, můžete pokračovat kliknutím na tlačítko níže.
+          button_label: Přihlášení SSO
+      response:
+        api_error:
+          authentication_error: Ověření se nezdařilo
+          saml_authentication_error: Ověření SSO se nezdařilo
+          saml_authentication_error_description: Ověření SSO se nezdařilo. Pokud problém přetrvává, kontaktujte správce.
+        api_disabled:
+          api_disabled: Neautorizovaná skupina uživatelů
+          api_disabled_description: Váš účet nemá přístup k této funkci (API vypnuto). Kontaktujte správce a požádejte jej o přesunutí účtu do jiné skupiny.
+        api_response:
+          authentication_successful: Ověření proběhlo úspěšně
+        create:
+          could_not_create_account: Účet se nepodařilo vytvořit. Pro více informací kontaktujte správce.
+        show:
+          could_not_create_account: Účet se nepodařilo vytvořit. Pro více informací kontaktujte správce.
+    temporary_user:
+      validate_email: Ověřte svou e-mailovou adresu
+      validate_email_description_html: "Na vaši e-mailovou adresu bylo odesláno dočasné heslo: <strong>%{email}</strong>. Klikněte na odkaz nebo zadejte dočasné heslo sem, abyste ověřili svou e-mailovou adresu a mohli pokračovat."
+      session_expired: Relace vypršela, chcete-li pokračovat, zadejte znovu svou e-mailovou adresu
+      token_expired: Platnost ověřovacího odkazu v e-mailu vypršela, zkuste to prosím znovu.
+      already_authenticated: V tomto prohlížeči jste již přihlášeni.
+      resend_validation_email: Znovu odeslat ověřovací e-mail
+      verify: Ověřit
+      validate_email_sent: "Nový ověřovací e-mail byl odeslán v %{time}. Klikněte na odkaz v e-mailu nebo zadejte heslo níže a ověřte svou e-mailovou adresu."
+      invalid_temporary_user: Neplatné heslo. Zkontrolujte e-mail – dočasné heslo vám bylo znovu odesláno do doručené pošty.
+      temporary_user_expired: Platnost dočasného hesla vypršela. Zkontrolujte e-mail – do doručené pošty vám bylo odesláno nové dočasné heslo.
+      create_account: Vytvořit účet
+      create_account_description: Vytvořte si v tomto systému trvalý účet, abyste se mohli přihlašovat e-mailovou adresou a heslem místo dočasného uživatelského účtu.
+  shared:
+    show: Zobrazit
+    reify: Obnovit
+    download: Stáhnout
+    restore: Obnovit
+    delete: Smazat
+    trash: Koš
+    cancel: Zrušit
+    close: Zavřít
+    current: Aktuální
+    bootstrap_confirm_dialog:
+      confirm_action: Potvrdit akci
+    shares:
+      bootstrap_confirm_dialog:
+        confirm_action: Potvrdit akci
+      navigation:
+        files: Soubory
+        activity_log: Protokol aktivit
+      wrap_content:
+        activity_log: Protokol aktivit
+    error_messages:
+      prohibited_this_from_being_saved: zabránilo uložení %{target}
+  share:
+    share: Share
+    shares: Share
+    no_shares: Nejsou dostupné žádné Share
+    name: Název
+    folder_name: Název složky
+    share_not_found: Share nenalezen
+    folder_not_found: Složka nenalezena
+    file_not_found: Soubor nenalezen
+    no_read_access: Nemáte oprávnění k přístupu k tomuto Share
+    no_write_access: Nemáte oprávnění k zápisu do tohoto Share
+    not_authorized_to_view_logs: Nemáte oprávnění zobrazit protokoly
+    require_authentication: Tento Share vyžaduje ověření. Chcete-li pokračovat, zadejte heslo.
+    authenticate: Ověřit
+    authentication_failed: Ověření se nezdařilo
+  shares:
+    folders:
+      are_you_sure_you_want_to_delete: Opravdu chcete tuto složku smazat?
+      are_you_sure_you_want_to_trash: Opravdu chcete tuto složku trvale smazat?
+      folder_name_already_taken: Tento název složky je již použit!
+      folder_not_found: Složka nenalezena
+      could_not_create_folder: "Složku se nepodařilo vytvořit: %{error}"
+      zip_no_files: Nejsou žádné soubory k přidání do archivu ZIP
+      windows_path_warning:
+        title: Omezení délky cesty ve Windows
+        description_html: <strong>Uživatelé Windows:</strong> Windows omezuje cesty k souborům na 259 znaků. Při nahrávání složek z umístění s dlouhými cestami mohou být soubory hluboko ve struktuře složek bez upozornění vynechány, což může vést k neúplnému nahrání nebo duplicitním složkám.
+        workarounds_title: Doporučená řešení
+        workarounds_html: "<li><strong>Použijte virtuální jednotku:</strong> otevřete příkazový řádek a spusťte: <code>subst X: \"C:\\vase\\dlouha\\cesta\\ke\\slozce\"</code><br>Poté nahrávejte z virtuální jednotky <code>X:\\</code></li><li><strong>Přejděte blíže k souborům:</strong> před výběrem složky k nahrání přejděte do podsložky blíže k souborům</li><li><strong>Použijte kratší cestu:</strong> před nahráním zkopírujte soubory do kratšího umístění, například <code>C:\\uploads\\</code></li><li><strong>Nejprve složku zabalte:</strong> zkomprimujte složku do souboru ZIP a nahrajte místo ní soubor ZIP</li>"
+        advanced_title: "Pokročilé: zapnutí dlouhých cest ve Windows 10/11"
+        advanced_description_html: Od Windows 10 verze 1607 můžete zapnout podporu delších cest. <strong>Poznámka:</strong> vyžaduje to oprávnění správce a nemusí to fungovat ve všech prohlížečích. Výše uvedená řešení jsou spolehlivější.
+        registry_steps_title: Postup zapnutí dlouhých cest
+        registry_steps_html: "<li>Stiskněte <kbd>Win + R</kbd>, napište <code>regedit</code> a stiskněte Enter</li><li>Přejděte na: <code>HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\FileSystem</code></li><li>Najděte nebo vytvořte hodnotu DWORD s názvem <code>LongPathsEnabled</code> a nastavte ji na <code>1</code></li><li>Restartujte počítač, aby se změna projevila</li><li>Vyzkoušejte nahrávání znovu (podpora se může v jednotlivých prohlížečích lišit)</li>"
+        browser_disclaimer_html: "<strong>Důležité:</strong> i se zapnutým tímto nastavením registru se podpora dlouhých cest v jednotlivých prohlížečích liší. Chrome, Edge a Firefox mohou limit 259 znaků stále uplatňovat. Výše uvedená řešení jsou spolehlivější."
+      folder:
+        rename_folder: Přejmenovat složku
+        move_folder_description: Přesunout složku %{foldername} do složky vybrané níže
+        move_folder: Přesunout složku
+      action_bar:
+        download_as_zip: Stáhnout jako ZIP
+        download_as_zip_with_deleted: Stáhnout jako ZIP včetně smazaných souborů
+        toggle_deleted_view: Zobrazit/skrýt smazané soubory
+        filter: Filtr
+        upload_file: Nahrát soubory
+        upload_folder: Nahrát složku
+        create_folder: Vytvořit složku
+        windows_path_warning: Upozornění na délku cesty
+        upload_folder_unsupported: Nahrávání složek není podporováno
+        upload_folder_unsupported_description: Váš prohlížeč bohužel nahrávání složek nepodporuje. K nahrání struktury složek použijte desktopovou verzi Chrome nebo Safari.
+        showing_deleted: Zobrazeno smazaných %{number_of}
+        hiding_deleted: Skryto smazaných %{number_of}
+        actions: Akce
+        move_selected: Přesunout vybrané
+        trash_selected: Přesunout vybrané do koše
+        delete_selected: Smazat vybrané
+      action_bar_below:
+        send_notifications: Odeslat oznámení
+        sending_notifications: Odesílání oznámení
+        quota: Kvóta
+        used_of: využito z
+        available: k dispozici
+        quota_exceeded: Překročena kvóta
+      create_folder_modal:
+        create_folder: Vytvořit složku
+        create: Vytvořit
+      files:
+        are_you_sure_you_want_to_delete: Opravdu chcete tento soubor smazat?
+        are_you_sure_you_want_to_trash: Opravdu chcete tento soubor trvale smazat?
+        file_not_found: Soubor nenalezen
+        file:
+          rename_file: Přejmenovat soubor
+          move_file: Přesunout
+          move_file_description: Přesunout soubor %{filename} do složky vybrané níže
+        show:
+          prev: Předchozí
+          up: Nahoru
+          next: Další
+          last_updated: Naposledy aktualizováno
+          versions: Verze
+          show_all: Zobrazit vše
+          version_from: Verze z
+          next_version: Další verze
+          previous_version: Předchozí verze
+          current_version: Aktuální verze
+          pdf_preview_not_supported: Náhled souborů PDF není ve vašem prohlížeči podporován
+        available_chunks:
+          available: K dispozici jsou částečně nahrané následující soubory
+          resume_replace: Chcete pokračovat v nahrávání, nebo soubory nahradit?
+      quota:
+        quota: Kvóta
+        used_of: využito z
+        available: k dispozici
+        quota_exceeded: Překročena kvóta
+      move_file_folder_modal:
+        move_folder: Přesunout složku
+        move_file: Přesunout soubor
+        move: Přesunout
+      show:
+        select_all: Vybrat vše / zrušit výběr
+    logs:
+      action_bar:
+        activity_log: Protokol aktivit
+      message:
+        created: Vytvořeno
+        uploaded: Nahráno
+        downloaded: Staženo
+        reified: Obnoveno
+        removed: Odebráno
+        restored: Obnoveno
+        deleted: Smazáno
+        moved: Přesunuto
+        renamed: Přejmenováno
+        added: Přidáno
+        viewed: Zobrazeno
+        infected: Infikováno
+        trashed: Přesunuto do koše
+        deleted_user: "(Smazaný uživatel)"
+        share: Share
+        folder: Složka
+        file: Soubor
+        group: Skupina
+        user: Uživatel
+        read: Čtení
+        read/write: Čtení/zápis
+        av_scanner: Antivirus
+        version_from: Verze z
+        file_deleted: Soubor smazán
+        to: do
+        from: z
+        unknown: Neznámé
+        other: Jiné
+  share/log:
+    message:
+      you: Vy
+      share: Share
+      folder: složka
+      file: soubor
+      user: uživatel
+      version_from: verze z
+      read: čtení
+      read/write: čtení/zápis
+      created: vytvořil(a)
+      added: přidal(a)
+      uploaded: nahrál(a)
+      downloaded: stáhl(a)
+      updated: aktualizoval(a)
+      restored: obnovil(a)
+      reified: obnovil(a)
+      deleted: smazal(a)
+      removed: trvale smazal(a)
+      trashed: přesunul(a) do koše
+      renamed: přejmenoval(a)
+      viewed: zobrazil(a)
+      infected: infikováno
+      av_scanner: Antivirus
+      file_deleted: Soubor smazán
+  sms_auth:
+    login_failed: Přihlášení se nezdařilo
+    sms_error: Chyba konfigurace SMS, kontaktujte prosím správce systému
+    verify_token: Ověřit kód SMS
+    verify_token_description: "Zadejte prosím kód odeslaný na váš mobilní telefon:"
+    sms_login_failed: Ověření SMS se nezdařilo, byl odeslán nový kód SMS
+    sms_signup: Registrace dvoufázového ověření pomocí SMS
+    sms_signup_failed: Dvoufázové ověření pomocí SMS se nezdařilo
+    sms_signup_description: Chcete-li pokračovat, musíte se zaregistrovat k dvoufázovému ověření pomocí SMS. Chcete-li pokračovat, zadejte níže své telefonní číslo.
+    verify: Ověřit
+    resend: Odeslat kód znovu
+    code: Kód
+    token_resent: Kód SMS znovu odeslán v %{time}
+    send_token: Odeslat ověřovací kód
+    phone_number: Telefonní číslo
+    invalid_phone_number: Neplatné telefonní číslo, zkuste to prosím znovu.
+    change_phone_number: Změnit telefonní číslo
+    phone_number_help: Zadejte telefonní číslo s předvolbou země a bez úvodních nul (např. 420601234567). Na toto číslo bude odeslán ověřovací kód.
+    one-time-code: Jednorázový kód
+  strong_auth:
+    two_factor_authentication: Dvoufázové ověření
+    enable_2fa: Zapnout dvoufázové ověření
+    disable_2fa: Vypnout dvoufázové ověření
+    title: Zapnout dvoufázové ověření
+    enable_2fa_description: Chcete-li zvýšit zabezpečení svého účtu, můžete zapnout silné dvoufázové ověření.
+    require_description: Chcete-li používat tento systém, musíte si nastavit dvoufázové ověření.
+    disable_description: Chcete-li vypnout dvoufázové ověření, zadejte aktuální kód
+    two_factor_auth_disabled: Dvoufázové ověření vypnuto
+    step1: "Krok 1: Stáhněte si ověřovací aplikaci"
+    step1_description: Zapněte dvoufázové ověření, obvykle pomocí mobilní aplikace.
+    totp_apps_description_html: Mezi ověřovací aplikace patří například <a href="https://authy.com" target="_blank" rel="external nofollow noopener noreferrer">Authy</a> (více platforem) a Google Authenticator (iOS/Android). Další možnosti najdete na stránce <a href="https://docs.liquidfiles.com/authentication/totp.html#clients" target="_blank">TOTP Clients</a>.
+    step2: "Krok 2: Nastavte ověřovací aplikaci"
+    step2_description: Nastavte ověřovací aplikaci naskenováním QR kódu.
+    step2_alt: Nebo zadejte následující kód
+    step3: "Krok 3: Ověřte"
+    step3_description: Ověřte nastavení zadáním kódu vygenerovaného ověřovací aplikací.
+    failed_to_authenticate: Ověření se nezdařilo, zkuste to prosím znovu.
+    click_on_link: Případně můžete kliknutím na následující odkaz přidat konfiguraci do své aplikace pro dvoufázové ověření
+    configure: Nastavit dvoufázové ověření
+    success_saved: Hotovo, konfigurace dvoufázového ověření byla uložena
+    verify_token: Ověřit dvoufázové ověření
+    verify_token_description: Zadejte prosím kód dvoufázového ověření z mobilní aplikace.
+    verify: Ověřit
+    two_factor_login_failed: Dvoufázové ověření se nezdařilo
+    two_factor_validation_failed: Ověření dvoufázového ověření se nezdařilo
+    skip_2fa_for_two_weeks: Přeskočit v tomto prohlížeči dvoufázové ověření na dva týdny
+    one-time-code: Jednorázový kód
+  support:
+    email_subject: Prosím o pomoc s
+    email_body: Popište prosím svůj problém co nejpodrobněji. Děkujeme.
+    navbar_tooltip: Pokud potřebujete pomoc s přístupem k tomuto systému nebo jeho používáním, klikněte na tento odkaz a rádi vám pomůžeme.
+  user:
+    includes_at_least_one_invalid_email_address: obsahuje alespoň jednu neplatnou e-mailovou adresu
+    confirm:
+      invalid_session: Neplatná relace
+      already_validated: Vaše e-mailová adresa již byla ověřena
+      invalid_token: Neplatný kód. Zkuste to znovu nebo klikněte na Znovu odeslat ověřovací e-mail.
+      validation_email_sent: "Ověřovací e-mail odeslán v %{time}"
+      activated_successfully: Úspěšně aktivováno
+      validate_email_description: Zkontrolujte prosím e-mail a zadejte dočasné heslo, abyste ověřili svou e-mailovou adresu.
+    register:
+      already_registered: Tento účet je již zaregistrován, chcete-li pokračovat, přihlaste se
+      already_registered_not_validated: Váš účet je již zaregistrován, ale e-mailovou adresu je ještě potřeba ověřit. Poslali jsme vám e-mail s náhodným kódem. Zadejte kód níže nebo klikněte na odkaz v e-mailu a ověřte svůj účet.
+      show:
+        register: Zaregistrovat účet
+        description_html: <p>Zadejte své údaje a vytvořte si účet. S tímto účtem můžete bezpečně posílat velké soubory na adresu %{branding_name}.</p>
+    signup:
+      create:
+        need_password: Musíte zadat heslo
+        need_name: Musíte zadat jméno
+    create:
+      show:
+        cancel_and_remember: Zrušit a znovu se neptat
+        cancel_and_remember_title: Bude zapamatováno v aktuálním prohlížeči
+  validator:
+    required: Toto pole je povinné.
+    remote: Opravte prosím toto pole.
+    email: Zadejte prosím platnou e-mailovou adresu.
+    url: Zadejte prosím platnou URL.
+    date: Zadejte prosím platné datum.
+    dateISO: Zadejte prosím platné datum (ISO).
+    number: Zadejte prosím platné číslo.
+    digits: Zadejte prosím pouze číslice.
+    creditcard: Zadejte prosím platné číslo kreditní karty.
+    equalTo: Zadejte prosím znovu stejnou hodnotu.
+    accept: Zadejte prosím hodnotu s platnou příponou.
+    maxlength: Zadejte prosím nejvýše {0} znaků.
+    minlength: Zadejte prosím alespoň {0} znaků.
+    rangelength: Zadejte prosím hodnotu dlouhou {0} až {1} znaků.
+    range: Zadejte prosím hodnotu mezi {0} a {1}.
+    max: Zadejte prosím hodnotu menší nebo rovnou {0}.
+    min: Zadejte prosím hodnotu větší nebo rovnou {0}.
+    step: Zadejte prosím násobek {0}.
+    invalid_phone_number: Neplatné telefonní číslo
+  locale: Čeština

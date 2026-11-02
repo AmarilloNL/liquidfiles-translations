@@ -1,0 +1,1569 @@
+hr:
+  s: s
+  min: min
+  hours: Sati
+  days: Dani
+  weeks: Tjedni
+  months: Mjeseci
+  years: Godine
+  ago: prije
+  email: E-pošta
+  save: Spremi
+  delete: Izbriši
+  cancel: Odustani
+  remove: Ukloni
+  aborting: Prekidanje
+  aborted: Prekinuto
+  saved_successfully: Uspješno spremljeno
+  logout: Odjava
+  error: Pogreška
+  enabled: Omogućeno
+  disabled: Onemogućeno
+  disable: Onemogući
+  default: Zadano
+  submit: Pošalji
+  session_expired: Sesija je istekla
+  search: Pretraži
+  filter: Filtar
+  recipient: Primatelj
+  recipients: Primatelji
+  downloaded_by: Preuzeo
+  filename: Naziv datoteke
+  size: Veličina
+  downloaded: Preuzeto
+  host: Host
+  ip: IP adresa
+  action: Radnja
+  view_message: Prikaži poruku
+  view_message_popup: Prikaži poruku (skočni prozor)
+  download_info: Podaci o preuzimanju
+  message_id: ID poruke
+  filelink_id: ID FileLinka
+  sent_at: Poslano
+  id: ID
+  subject: Predmet
+  expires: Istječe
+  invalid_method: Nevažeća metoda
+  export_csv: Izvezi CSV
+  export_all: Izvezi sve
+  export_visible: Izvezi vidljive
+  temporarily_unavailable: Privremeno nedostupno
+  generic_search_error: Opća pogreška pretraživanja
+  sender: Pošiljatelj
+  search_temporary_disabled: Pretraživanje je privremeno onemogućeno
+  help: Pomoć
+  close: Zatvori
+  count: Broj
+  settings: Postavke računa
+  virus: Virus
+  virus_status: Status antivirusne provjere
+  infected: Zaraženo
+  clean: Čisto
+  not_scanned: Nije provjereno
+  not_yet_scanned: Još nije provjereno
+  csrf_error: "CSRF: otkriveni su nevažeći parametri. Za nastavak se ponovno prijavite."
+  could_not_be_saved: Spremanje nije uspjelo
+  label: Oznaka
+  updated: Ažurirano
+  add: Dodaj
+  system_info: Podaci o sustavu
+  location: Lokacija
+  accept: Prihvati
+  last_7_days: Zadnjih 7 dana
+  last_30_days: Zadnjih 30 dana
+  last_60_days: Zadnjih 60 dana
+  last_90_days: Zadnjih 90 dana
+  last_180_days: Zadnjih 180 dana
+  last_365_days: Zadnjih 365 dana
+  file: Datoteka
+  files: Datoteke
+  next: Sljedeće
+  previous: Prethodno
+  name: Ime
+  view: Prikaži
+  forget: Zaboravi
+  update: Ažuriraj
+  updated_at: Ažurirano
+  created_at: Stvoreno
+  download_link_expired: Poveznica za preuzimanje je istekla.
+  no_html5_upload_warning: Za učitavanje datoteka potreban je moderan preglednik kompatibilan s HTML5. Microsoft Edge, Chrome, Firefox i Safari odlično rade.
+  javascript_warning: Za slanje datoteka i korištenje većine funkcija potreban je JavaScript.
+  cookie_accept: Ova web-stranica koristi kolačiće. Prijavom ili klikom na „Prihvati” pristajete na korištenje kolačića.
+  i_agree: Slažem se
+  session_timeout: Sesija je istekla, ponovno se prijavite
+  loading: Učitavanje...
+  unsupported_browser_header: Nepodržani preglednik
+  unsupported_browser_description_html: Vaš preglednik nije podržan pa ova stranica vjerojatno neće raditi kako je predviđeno. Upotrijebite noviji preglednik.
+  not_logged_in_invalid_parameters: Niste prijavljeni, nevažeći parametri
+  toggle_dropdown: Prikaži/sakrij izbornik
+  rejected: Odbijeno
+  undetected: Nije otkriveno
+  invalid_link: Nevažeća poveznica, obratite se pošiljatelju
+  account_settings_tooltip: Postavke računa
+  logout_tooltip: Odjava
+  download_id: ID preuzimanja
+  remote_host: Udaljeni host
+  show: Prikaži
+  hide: Sakrij
+  password: Lozinka
+  download: Preuzmi
+  unauthorized: Neovlašteno
+  account:
+    login: Prijava
+    login_label: Adresa e-pošte
+    email: Adresa e-pošte
+    password: Lozinka
+    current_password: Trenutačna lozinka
+    please_enter_your_current_password: Unesite trenutačnu lozinku
+    sign_in: Prijava
+    remember_me: Zapamti me
+    not_administrator: Niste administrator
+    password_reset: Ponovno postavljanje lozinke
+    register: Registracija
+    register_description_html: Hvala! Za nastavak unesite svoje podatke i izradite račun.<br>Sljedeći put možete se prijaviti adresom e-pošte i lozinkom.
+    account_not_activated: Račun nije aktiviran. Aktivirajte račun prije prijave. Poslali smo vam e-poruku s nasumičnim kodom. Unesite kod u nastavku ili kliknite poveznicu u e-poruci da biste potvrdili račun.
+    incorrect_user_or_pw: Netočno korisničko ime ili lozinka
+    confirmation_email_sent: E-poruka za potvrdu je poslana
+    activated_successfully: Uspješno aktivirano
+    not_activated: Račun nije aktiviran
+    password_reset_email_sent: E-poruka za ponovno postavljanje lozinke je poslana
+    no_such_user: Korisnik ne postoji
+    no_such_email: Adresa e-pošte nije pronađena
+    not_logged_in: Niste prijavljeni. Za nastavak se prijavite.
+    saved_successfully: Uspješno spremljeno
+    unlicensed_install_some_settings: "Nelicencirana instalacija: opcije vizualnog identiteta vidljive su samo administratorima sustava"
+    incorrect_login_or_demo: Netočno korisničko ime ili lozinka ili je dosegnuto ograničenje licence
+    incorrect_login_or_ldap: Netočno korisničko ime ili lozinka ili pogreška LDAP poslužitelja
+    invalid_api_key: Nevažeći API ključ
+    cant_delete_last_sysadmin: Posljednji administrator sustava ne može se izbrisati
+    cant_change_last_sysadmin: Posljednji administrator sustava ne može se promijeniti
+    sso_login: SSO prijava
+    invalid_sso_response: Nevažeći SSO odgovor
+    automatic: Automatski otkriveno
+    network_access_blocked: Pristup ovom sustavu iz vaše mreže nije dopušten.
+    please_login: Prijavite se da biste otvorili ovu stranicu.
+    email_validation_session_timeout: Sesija je istekla, ponovno potvrdite adresu e-pošte.
+    signature: Potpis
+    not_authorized_for_action: Niste ovlašteni za ovu radnju
+    invalid_group: Nevažeća grupa. Obratite se administratoru koji može premjestiti vaš račun u grupu lokalnih korisnika
+    invalid_group_configuration: Nevažeća konfiguracija grupe. Obratite se administratoru koji vam može izraditi račun ili prilagoditi konfiguraciju grupe.
+    please_enter_email_to_email_password: Unesite adresu e-pošte za ponovno postavljanje lozinke. Na tu će adresu biti poslana e-poruka za potvrdu.
+    password_reset_successfully: Lozinka je uspješno ponovno postavljena
+    password_cant_be_empty: Lozinka ne smije biti prazna
+    password_complexity_title: Složenost lozinke
+    password_complexity_description_html: "<p>Vaša lozinka <strong>ne smije se temeljiti na riječi iz rječnika</strong> i mora ispunjavati najmanje 3 od sljedećih zahtjeva:</p><ul><li>Najmanje 8 znakova</li><li>Najmanje 11 znakova</li><li>Najmanje 15 znakova</li><li>Najmanje 1 malo i 1 veliko slovo</li><li>Najmanje 1 znamenka (0-9)</li><li>Najmanje jedan od sljedećih znakova: !,@,#,$,%,^,&amp;,*,?,_,~,-,(,)</li></ul>"
+    is_not_strong_enough: nije dovoljno jaka
+    your_password_has_expired: Vaša lozinka je istekla
+    please_select_a_different_password: Odaberite lozinku različitu od prethodne
+    change_password: Promijeni lozinku
+    account_not_found: Račun nije pronađen. Ponovno se prijavite.
+    user_required_to_use_saml: Lozinka se ne može ponovno postaviti, prijavite se putem SAML-a
+    sysadmin_ldap_error: Ovaj se račun provjerava putem LDAP-a i ne može se ovdje ponovno postaviti
+    login_limit_exceeded: Prekoračeno ograničenje prijava
+    a_confirmation_email_will_be_sent: Na ovu će adresu biti poslana e-poruka za potvrdu
+    name: Ime
+    password_confirm: Potvrda lozinke
+    save: Spremi
+    can_not_reset_password_please_check_with_your_administrator: Lozinka se ne može ponovno postaviti, obratite se administratoru
+    no_need_to_register_user: Registracija nije potrebna. Prijavite se postojećim računom.
+    registration_not_allowed: Registracija nije dopuštena
+    create_description: Izradite račun unosom svojeg imena i lozinke.
+    activated_successfully_please_login: Račun je uspješno aktiviran. Sada se možete prijaviti adresom e-pošte i lozinkom.
+    invalid_activation_url: Nevažeća poveznica za aktivaciju. Provjerite poveznicu i pokušajte ponovno.
+    already_logged_in: Već ste prijavljeni. Novi račun nije moguće registrirati.
+    bruteforce_message: Premašili ste broj neuspješnih pokušaja. Pokušajte ponovno za %{minutes} min.
+    admin_access_blocked: Administratorski pristup s vaše IP adrese nije dopušten.
+    account_created_successfully: Račun je uspješno izrađen
+    create_account: Izradi račun
+    create_account_description: Ažurirajte svoje podatke da biste izradili račun.
+    account_settings: Postavke računa
+    change_language: Promijeni jezik i vremensku zonu
+    filedrop_label: Filedrop (nasumično)
+    filedrop_email_label: Filedrop
+    verify_account: Provjera računa
+    invalid_sso_signature: Nevažeći SSO potpis ili prijava
+    user_not_found: Korisnik nije pronađen
+    could_not_create_account: Račun nije bilo moguće izraditi
+    two_factor_authentication_failed: Duo dvofaktorska autentifikacija nije uspjela
+    copy_to_clipboard: Kopiraj u međuspremnik
+    copy_url_to_clipboard: Kopiraj URL u međuspremnik
+    delete_user_warning: Jeste li sigurni da želite izbrisati ovog korisnika?
+    unauthorized_to_login: Niste ovlašteni za prijavu
+    first_time_message_title: Dobro došli u LiquidFiles
+    first_time_message: <p>Dobro došli u LiquidFiles – najjednostavniji način za sigurno slanje velikih datoteka.</p><p>Osnovne funkcije rade isto kao web-pošta.</p><p>Ova će se poruka prikazati samo jednom. Ako zapnete ili želite otkriti naprednije funkcije, kliknite gumb „Pomoć” u gornjem desnom kutu trake izbornika.</p>
+    first_time_message_button: Razumijem!
+    registration_failed_unknown_error: Registracija nije uspjela zbog nepoznate pogreške
+    session_timeout: Sesija je istekla
+    nothing_filled_in: Ispunite obrazac
+    last_used: Zadnje korišteno
+    strong_auth_required_before_password_reset: Za ponovno postavljanje lozinke ovog računa potrebna je jaka dvofaktorska autentifikacija.
+    unfriendly_registration_message: Ako se ovom adresom e-pošte možete registrirati u sustavu, primit ćete e-poruku. Ako je ne primite, upotrijebite poveznicu za podršku iznad.
+    unfriendly_password_reset_message: Ako se račun s ovom adresom e-pošte može ponovno postaviti, primit ćete e-poruku. Ako je ne primite, upotrijebite poveznicu za podršku iznad.
+    aliases:
+      aliases: Aliasi
+      aliases_description: Svojem računu možete dodati aliase pošiljatelja i primatelja. Alias pošiljatelja omogućuje vam slanje poruka u ime te adrese e-pošte. Alias primatelja omogućuje vam pregled poruka za tu adresu. Poruke za alias primatelja vidljive su i u vašem pretincu sigurnih poruka.
+      aliases_no_change_description: Alias pošiljatelja omogućuje vam slanje poruka u ime te adrese e-pošte. Alias primatelja omogućuje vam pregled poruka za tu adresu. Poruke za alias primatelja vidljive su i u vašem pretincu sigurnih poruka. Za dodavanje ili promjenu aliasa obratite se administratoru.
+      recipient_aliases: Aliasi primatelja
+      sender_aliases: Aliasi pošiljatelja
+      add_alias: Dodaj alias
+      remove: Ukloni
+      default_sender_alias: Zadani alias pošiljatelja
+      default_sender_alias_description: Zadani alias pošiljatelja.
+      are_you_sure: Jeste li sigurni da želite ukloniti ovaj alias?
+      no_emails: Nije dodan nijedan alias.
+      please_contact_an_administrator: Za upravljanje njima obratite se administratoru
+      auto_added_aliases: Automatski dodani aliasi
+      auto_added_aliases_description: Sljedeći su aliasi automatski dodani vašem profilu. Za upravljanje njima obratite se administratoru.
+    alias:
+      confirm:
+        show:
+          title: Hvala na potvrdi
+          alias_email: Adresa e-pošte aliasa
+          user: Korisnik
+          recipient_and_sender_confirmation: Gore navedeni korisnik sada može pregledavati sigurne poruke za ovu adresu e-pošte i slati sigurne poruke u njezino ime. Ako je ovo pogreška, kliknite poveznicu za podršku iznad.
+          only_recipient_confirmation: Gore navedeni korisnik sada može pregledavati sigurne poruke za ovu adresu e-pošte. Ako je ovo pogreška, kliknite poveznicu za podršku iznad.
+          only_sender_confirmation: Gore navedeni korisnik sada može slati sigurne poruke u ime ove adrese e-pošte. Ako je ovo pogreška, kliknite poveznicu za podršku iznad.
+    add_alias_modal:
+      title: Dodaj alias
+      description: Unesite adresu e-pošte kojoj želite pristup kao alias primatelja ili pošiljatelja. Na tu će adresu biti poslana e-poruka za potvrdu.
+      recipient_alias: Alias primatelja - želim čitati poruke poslane na ovu adresu e-pošte.
+      sender_alias: Alias pošiljatelja - želim slati poruke u ime ove adrese e-pošte.
+      invalid_email: Nevažeća adresa e-pošte
+      add_permission: Odaberite alias primatelja, alias pošiljatelja ili oboje.
+      send_request: Pošalji zahtjev
+      request_has_been_sent: Vaš je zahtjev poslan.
+    api:
+      api_key: API ključ
+      api_key_description: API ključ koriste dodaci poput dodatka za Outlook, a može se upotrebljavati i za prilagođene integracije. Potreban vam je samo ako vas administrator to zatraži.
+      api_key_reset_warning: Jeste li sigurni? Ako ponovno postavite API ključ, morat ćete stari ključ zamijeniti svugdje gdje ste ga koristili.
+      reset_api_key: Ponovno postavi API ključ
+    contacts:
+      contacts: Kontakti
+      contacts_description: Možete dodati koliko god kontakata želite. Svaki kontakt može imati više adresa e-pošte, tako da brzo i jednostavno možete slati većem broju primatelja odjednom.
+      add_contact: Dodaj kontakt
+      email_field_help: Popis adresa e-pošte odvojenih zarezima.
+      contact:
+        edit_label: Uredi oznaku
+        edit_email: Uredi adresu e-pošte
+        are_you_sure: Jeste li sigurni da želite izbrisati ovaj kontakt?
+    filedrops:
+      filedrops: Filedropovi
+      filedrops_description: Vi ste glavni primatelj ili primatelj kopije ovih Filedropova. Sve datoteke poslane putem bilo kojeg od njih bit će dostavljene vama.
+      name: Naziv
+      title: Naslov
+      recipient: Primatelj
+      expires_after: Istječe nakon
+      max_size: Maks. veličina datoteke
+      url: URL
+      main_recipient: Glavni primatelj
+      cc: Kopija
+    personal_filedrop:
+      personal_filedrop: Osobni Filedrop
+      personal_filedrop_description: Osobni Filedrop jednostavan je način primanja datoteka. Poveznicu možete poslati, objaviti na web-stranici ili dodati u potpis e-pošte. Čim vam netko nešto pošalje putem vašeg osobnog Filedropa, primit ćete obavijest.
+    previous_recipients:
+      previous_recipients: Prethodni primatelji
+      previous_recipients_description: Kada pošaljete sigurnu poruku, svaki se primatelj dodaje na ovaj popis prethodnih primatelja. Tako možete brzo ponovno slati istim primateljima. Primatelji kojima 180 dana niste ništa poslali automatski se uklanjaju s popisa.
+      are_you_sure: Jeste li sigurni da želite izbrisati ovog prethodnog primatelja?
+    pw_dictionary:
+      based_on_a_dictionary_word: temelji se na riječi iz rječnika
+      based_upon_your_password_entry: temelji se na unesenoj lozinki
+      derived_from_your_password_entry: izvedena je iz unesene lozinke
+      derivable_from_your_password_entry: može se izvesti iz unesene lozinke
+      way_too_short: je PREKRATKA
+      too_short: je prekratka
+      it_does_not_contain_enough_different_characters: ne sadrži dovoljno RAZLIČITIH znakova
+      all_whitespace: sastoji se samo od razmaka
+      too_simplistic_systematic: je prejednostavna/sustavna
+      it_looks_like_a_national_insurance_number: izgleda kao OIB
+      based_on_a_reversed_dictionary_word: temelji se na (obrnutoj) riječi iz rječnika
+    show:
+      basic_settings: Osnovne postavke
+      change_password: Promijeni lozinku
+      strong_auth: Dvofaktorska autentifikacija
+      aliases: Aliasi
+      previous_recipients: Prethodni primatelji
+      contacts: Kontakti
+      personal_filedrop: Osobni Filedrop
+      api: API
+      filedrops: Filedropovi
+    sms_disable:
+      disable_sms_otp: Onemogući dvofaktorsku autentifikaciju putem SMS-a
+      disable_sms_otp_description: Ako želite onemogućiti dvofaktorsku autentifikaciju putem SMS-a, kliknite gumb u nastavku. Za potvrdu zahtjeva bit će poslan SMS kod.
+      verify_token_description: "Za onemogućivanje dvofaktorske autentifikacije putem SMS-a unesite kod poslan na vaš mobitel:"
+      code: Kod
+      sms_token_failed: Nevažeći SMS kod, dvofaktorsku autentifikaciju putem SMS-a nije bilo moguće onemogućiti
+      sms_otp_has_been_disabled: Dvofaktorska autentifikacija putem SMS-a je onemogućena
+    sms_signup:
+      sms_signup_description: Sigurnost računa možete poboljšati omogućivanjem dvofaktorske autentifikacije. Za omogućivanje unesite svoj broj telefona u nastavku.
+      phone_number: Broj telefona
+    sms_enable:
+      signup_complete: Dvofaktorska autentifikacija putem SMS-a je omogućena
+    terms_of_service:
+      show:
+        title: Uvjeti korištenja
+        accept_terms_of_service: Prihvati uvjete korištenja
+        do_not_accept: Ne prihvaćam
+      create:
+        you_need_to_accept: Morate prihvatiti uvjete korištenja!
+  activerecord:
+    attributes:
+      attachment:
+        filename: Naziv datoteke
+        size: Veličina
+        secure_id: ID privitka
+        content_type: Vrsta sadržaja
+        created_at: Stvoreno
+        updated_at: Ažurirano
+      download:
+        recipient: Primatelj
+        downloaded_at: Preuzeto
+        remote_ip: Udaljeni IP
+        remote_host: Udaljeni host
+        created_at: Stvoreno
+        updated_at: Ažurirano
+      filedrop:
+        name: Naziv
+        title: Naslov
+        description: Opis
+        blocked_extensions: Blokirani nastavci
+        permitted_extensions: Dopuštene vrste datoteka
+        expires_after: Istječe nakon
+        max_filesize: Najveća veličina datoteke
+        created_at: Stvoreno
+        updated_at: Ažurirano
+        api_key: API ključ
+        cc: Kopija
+        authorization: Ovlaštenje
+      message:
+        recipients: Primatelji
+        sender: Pošiljatelj
+        cc: Kopija
+        bcc: Skrivena kopija
+        message: Poruka
+        subject: Predmet
+        deleted: Izbrisano
+        authorization: Ovlaštenje
+        created_at: Stvoreno
+        updated_at: Ažurirano
+        expires_at: Istječe
+      share/log:
+        created_at: Datum
+      share/file:
+        checksum: Kontrolni zbroj (SHA256)
+      share/file/version:
+        whodunnit: Promijenio
+        created_at: Promijenjeno
+      user:
+        name: Ime
+        email: Adresa e-pošte
+        quota: Kvota
+        used: Iskorišteno
+        max: Maks.
+        password: Lozinka
+        ldap_authentication: LDAP autentifikacija
+        api_key: API ključ
+        level: Razina
+        filedrop: Filedrop
+    models:
+      configuration: Konfiguracija
+      attachment: Privitak
+      filedrop: Filedrop
+      message: Poruka
+      user: Korisnik
+      download: Preuzimanje
+  admin:
+    groups:
+      form:
+        bcc_myself: Pošalji kopiju meni
+        can_change_bcc_myself: Dopusti korisnicima ove grupe da mijenjaju postavku slanja kopije sebi
+      index:
+        default_group_assignment: Zadana dodjela grupe
+    users:
+      users:
+        email: Adresa e-pošte
+        name: Ime
+        group: Grupa
+        max: Maks. veličina datoteke
+        quota: Kvota
+        strong_auth: Jaka autentifikacija
+        filedrop: Filedrop
+        last_login_at: Zadnja prijava
+        last_login_ip: IP zadnje prijave
+        created: Stvoreno
+      form:
+        name_label: Ime
+        email: Adresa e-pošte
+        password: Lozinka
+        password_confirmation: Potvrda lozinke
+        max_label: Najveća veličina datoteke
+        group: Grupa
+        strong_auth: Jaka autentifikacija
+        strong_auth_username: Korisničko ime za jaku autentifikaciju
+        api_key: API ključ
+        filedrop: Filedrop
+  attachments:
+    not_found: Privitak nije pronađen
+  config:
+    settings: Postavke
+    email: E-pošta
+    language_preferences_from_your_browser: Jezične postavke preglednika
+    authentication: Autentifikacija
+    time_zone: Vremenska zona
+    current_time_zone: Trenutačna vremenska zona
+    time_zone_from_browser: Vremenska zona koju je otkrio preglednik
+    time_zone_config_description: Ako vremensku zonu ostavite na „Automatski otkriveno”, upotrebljavat će se vremenska zona koju otkrije vaš preglednik (sva će se vremena prikazivati u toj zoni). Ako preglednik ne može otkriti vremensku zonu, upotrebljavat će se zadana vremenska zona sustava. Ako preglednik ne otkriva ispravnu vremensku zonu ili želite vidjeti vremena u drugoj zoni, možete postaviti određenu vremensku zonu.
+    time_zone_default: Zadana vremenska zona sustava
+    email_settings: Postavke e-pošte
+    configuration: Konfiguracija
+    local_domains: Lokalna domena
+    ldap_users: Korisnici provjereni putem LDAP-a
+    ldap_users_are_always_local: Korisnici provjereni putem LDAP-a uvijek su lokalni
+    separated_by_comma: odvojeno zarezima
+    default_max_file_size: Zadana najveća veličina datoteke
+    local_users: Lokalni korisnici
+    external_users: Vanjski korisnici
+    allow_registration: Dopusti registraciju
+    allow_registration_desc: Dopusti registraciju na stranici za prijavu
+    external_user_account: Vanjski primatelji
+    external_user_account_desc: Vanjski primatelji moraju izraditi račun
+    allow_users_to_change_expiration: Dopusti korisnicima da mijenjaju istek datoteka
+    authorization: Dopuštenje
+    authorization_description: Zadana postavka o tome tko smije preuzimati datoteke.
+    file_expiration: Istek
+    default_expire_files_after: Datoteke prema zadanim postavkama istječu nakon
+    delete_downloaded_files_after: Izbriši preuzete datoteke nakon
+    branding: Vizualni identitet
+    company_name: Naziv tvrtke
+    custom_stylesheet: Prilagođeni stilski list
+    custom_javascript: Prilagođeni JavaScript
+    logotype: Logotip
+    leave_blank_for_default: ostavite prazno za zadanu vrijednost
+    email_configuration: Konfiguracija e-pošte
+    email_sender_address: Adresa pošiljatelja
+    email_host: Osnovni URL e-poruka
+    email_footer: Podnožje e-poruke
+    email_relay_host: Poslužitelj za prosljeđivanje e-pošte
+    email_relay_username: Korisničko ime za prosljeđivanje e-pošte
+    email_relay_password: Lozinka za prosljeđivanje e-pošte
+    port: Priključak
+    unlicensed_install_some_settings: "Nelicencirana instalacija: postavke vizualnog identiteta vidljive su samo administratorima sustava"
+    mail_relay_example: "Npr.: mailrelay.domena.hr, mx.domena.hr:587"
+    ldap: LDAP
+    please_see_the: pogledajte
+    for_more_information: za više informacija
+    virus_scan: Antivirusna provjera
+    virus_scan_description: Provjeri datoteke na viruse
+    blocked_file_extensions: Blokirani nastavci datoteka
+    default_bcc_myself_label: Pošalji kopiju meni
+    default_bcc_myself: Prema zadanim postavkama pošalji kopiju meni
+    allow_users_to_change_require_login_label: Zahtijevaj autentifikaciju
+    allow_users_to_change_require_login: Dopusti korisnicima da mijenjaju „Zahtijevaj autentifikaciju”
+    permitted_file_extensions_label: Dopušteni nastavci datoteka
+    delete: Izbriši
+    ldap_description: "Omogućite LDAP autentifikaciju korisnika i postavite osnovne parametre za povezivanje s LDAP poslužiteljem. Ako priključak nije naveden, upotrebljavat će se zadani LDAP priključak 389 (ili priključak 636 ako je omogućen SSL). Napomena: priključak 3268 NE upotrebljava se za autentifikaciju u Active Directoryju, nego samo za pretraživanje globalnog adresara. Umjesto njega upotrijebite priključak 389/636."
+    ldap_authentication: LDAP autentifikacija
+    basic_settings: Osnovne postavke
+    server: Naziv poslužitelja / IP adresa
+    username: Korisničko ime
+    password: Lozinka
+    authentication_description: Ovaj će se korisnik upotrebljavati za povezivanje s LDAP poslužiteljem (ostavite prazno za anonimno povezivanje). Korisnik mora imati prava pretraživanja u LDAP stablu.
+    search_key: Ključ pretraživanja
+    search_key_description: Ključ pretraživanja i domena upotrebljavaju se za pronalaženje korisnika u LDAP stablu. U tablici u nastavku prikazano je kako ključ pretraživanja i domena zajedno pronalaze korisnika.
+    search_key_description2: Dakle, ako LDAP ključ pretraživanja sadrži adresu e-pošte, domena mora ostati prazna. Ako LDAP ključ pretraživanja sadrži samo korisničko ime, domena mora sadržavati domenu korisnika.
+    search_key_defaults: "Za Active Directory dobra je polazna točka: sAMAccountName kao LDAP ključ pretraživanja i tvrtka.hr (vaša domena) kao domena."
+    user_enters: Korisnik unosi
+    authorized_ldap_groups: Ovlaštene LDAP grupe
+    available_groups: Dostupne grupe
+    default_settings: Zadane postavke
+    setting: Postavka
+    value: Vrijednost
+    description: Opis
+    default_local_max_description: Ovo je zadana najveća veličina datoteke za nove lokalne korisnike. Može se promijeniti za pojedinačne korisnike.
+    user_changeable: Korisnik može promijeniti?
+    non_local: Nelokalni
+    remote: Udaljeni
+    new_external_recipient_is_nonlocal: Novi vanjski primatelji su
+    email_message_on_top_label: Poruka na vrhu
+    email_message_on_top: Poruka se u e-poruci primateljima postavlja iznad popisa datoteka
+    use_either_permitted_or_blocked_extensions: Morate odabrati dopuštene ili blokirane nastavke, ne oboje
+    invalid_password: Nevažeća lozinka
+    valid_password: Važeća lozinka
+    test_password_validation: Testiraj provjeru lozinke
+    custom_password_validation: Prilagođena provjera lozinke
+    custom_password_validation_description: "Ovaj će se regularni izraz upotrebljavati za prilagođenu provjeru lozinki. Unesite samo regularni izraz, bez graničnika (nemojte počinjati ni završavati znakom '/'). Primjer: [a-zA-Z0-9]{7,} (lozinke tada smiju sadržavati samo a-z, A-Z i 0-9, najmanje 7 znakova)"
+    filedrop: Filedrop
+    receive: Primanje
+    api_settings: API postavke
+    enable_api_label: Omogući API
+    enable_api_description: Omogući API za pristup putem dodataka i skripti
+    enable_api_group_config: Dodatne API postavke dostupne su u konfiguraciji grupa.
+    api_client_size_override_label: Prag veličine za API klijente
+    api_client_size_override_description: API klijenti slat će datoteke veće od ove veličine putem uređaja
+    sso_secret_key: Tajni SSO ključ
+    generate_key: Generiraj novi ključ
+    sso_replace_confirm: Jeste li sigurni? Zamjenom tajnog SSO ključa postojeće SSO integracije prestat će raditi.
+    virus_scan_skip_locals: Preskoči antivirusnu provjeru za lokalne korisnike
+    virus_scan_skip_locals_description: Ne provjeravaj datoteke lokalnih korisnika na viruse
+    virus_scan_permit_unscanned: Dopusti neprovjerene datoteke
+    virus_scan_permit_unscanned_description: Dopusti preuzimanje datoteka koje još nisu provjerene na viruse
+    userdrop: Korisnički Filedrop
+    user_filedrop_with_random_key: Korisnički Filedropovi s nasumičnim ključem
+    enable_userdrop: Omogući korisničke Filedropove
+    example: Primjer
+    user_filedrop_with_email: Korisnički Filedropovi s adresama e-pošte
+    enable_userdrop_email: Omogući korisničke Filedropove s adresom e-pošte
+    userdop_email_data_leakage: Ovo bi se moglo iskoristiti za otkrivanje lokalnih adresa e-pošte isprobavanjem adresa na URL-u Filedropa i promatranjem koje daju valjan odgovor.
+    userdrop_files_expire_after: Predane datoteke istječu nakon
+    userdrop_max_filesize: Najveća veličina datoteke za korisnički Filedrop
+    bruteforce_label: Zaštita od napada grubom silom
+    bruteforce_description_1: Blokiraj IP adresu na
+    bruteforce_description_2: minuta nakon
+    bruteforce_description_3: neuspješnih prijava/registracija unutar
+    bruteforce_description_4: minuta
+    bruteforce_whitelist_label: Popis dopuštenih za zaštitu od grube sile
+    allowed_admin_networks_label: Administratorske mreže
+    allowed_admin_networks_description: Ograniči administratorski pristup na ove hostove i mreže. Localhost (127.0.0.1, ::1) uvijek je dopušten
+    enable_strong_authentication: Prema zadanim postavkama omogući jaku autentifikaciju za ove vrste korisnika
+    authenticated_username: Provjereno korisničko ime
+    duo_hostname: Naziv Duo hosta
+    duo_client_id: Duo integracijski ključ
+    duo_client_secret: Tajni Duo ključ
+    strong_authentication_test: Testiraj jaku autentifikaciju
+    stronger_password: Odaberite jaču lozinku.
+    cannot_begin_or_end_with_blank: Lozinka ne smije počinjati ni završavati razmakom.
+    at_least_one_invalid_domain: Najmanje jedna nevažeća domena
+    at_least_one_invalid_email: Najmanje jedna nevažeća adresa e-pošte
+    email_security_level: Razina sigurnosti isporuke e-pošte
+    geoip: GeoIP pretraživanje
+    geoip_description: Preuzima podatke o lokaciji s https://geoip.liquidfiles.com i prikazuje karte.
+    tooltip:
+      local_domains: Lokalni korisnik može slati datoteke bilo kome. Nelokalni korisnik može slati datoteke samo lokalnim korisnicima. Pri prvoj prijavi korisnika ili izradi računa domena adrese e-pošte uspoređuje se s ovim domenama kako bi se utvrdilo smatra li se korisnik lokalnim.
+      ldap_users_are_always_local: Svaki korisnik koji se autentificira putem LDAP-a automatski se smatra lokalnim, bez obzira na domenu.
+      allow_registration: Omogućuje registraciju na stranici za prijavu. Na temelju popisa lokalnih domena određuje se je li novi korisnik lokalni ili nelokalni.
+      local_user_maxfile: Kada se lokalni korisnik registrira ili se prvi put autentificira udaljenom autentifikacijom, postavlja mu se ova najveća veličina datoteke.
+      nonlocal_user_maxfile: Kada se registrira nelokalni korisnik, postavlja mu se ova najveća veličina datoteke.
+      delete_downloaded_files_after: Preuzeta datoteka čuva se ovoliko dugo. Vrijeme treba biti dovoljno dugo da primatelj može odabrati drugo mjesto preuzimanja ili početi ispočetka, ali dovoljno kratko da se poveznica ne proširi na druge osobe.
+      file_expiration: Omogućuje korisnicima da mijenjaju vrijeme isteka datoteka. Ako to nije omogućeno, sve datoteke dobivaju zadano vrijeme isteka.
+      default_expire_files_after: Datoteke će isteći nakon ovog vremena.
+      blocked_file_extensions: Blokiraj datoteke s ovim nastavcima (ne razlikuju se velika i mala slova).
+      virus_scan: Provjeri sve učitane datoteke antivirusnim programom ClamAV
+      require_authentication_permission: Ako je omogućeno, korisnici sami mogu odabrati je li autentifikacija obavezna
+      default_bcc_myself: Ako je omogućeno, poruke se prema zadanim postavkama šalju i samom korisniku
+      permitted_file_extensions: "Ako je prazno, dopušteni su svi nastavci. Ako je unesen barem jedan nastavak, dopuštene su samo unesene vrste datoteka. Primjer: png, gif, jpg, txt"
+      new_external_recipient_is_nonlocal: Kada se poruka pošalje novom primatelju, treba li ga izraditi kao nelokalnog korisnika (kako bi mogao odgovoriti) ili kao vanjskog korisnika?
+      email_message_on_top: Ako je odabrano, poruka se u e-poruci primateljima postavlja iznad popisa datoteka. Ako nije, popis datoteka postavlja se iznad poruke.
+      email_sender: Ova će se adresa e-pošte upotrebljavati kao pošiljatelj e-poruka koje generira sustav, primjerice za ponovno postavljanje lozinke. Da te e-poruke ne bi bile označene kao neželjena pošta, mora biti riječ o stvarnoj adresi e-pošte.
+      email_host: Privici će ovaj URL upotrebljavati kao osnovni URL. Obično je to http://nazivhosta.domena ili https://nazivhosta.domena, ali može biti i https://nazivhosta.domena:4433 ako na vatrozidu upotrebljavate prosljeđivanje priključaka kada se korisnici povezuju s uređajem LiquidFiles.
+      email_footer: Ovaj će se potpis dodati svim odlaznim e-porukama.
+      email_relay: Upotrijebi ovaj poslužitelj pošte za prosljeđivanje odlazne e-pošte.
+      email_relay_username: Račun kojim se prijavljuje na poslužitelj za prosljeđivanje e-pošte
+      email_relay_password: Lozinka računa kojim se prijavljuje na poslužitelj za prosljeđivanje e-pošte
+  date:
+    formats:
+      default: "%d.%m.%Y."
+      short: "%d.%m."
+      medium: "%d.%m.%Y."
+      long: "%d.%m.%Y."
+  time:
+    am: prijepodne
+    pm: poslijepodne
+    formats:
+      default: "%d.%m.%Y. %H:%M:%S %z"
+      short: "%d.%m. %H:%M"
+      medium: "%d.%m.%Y. %H:%M"
+      long: "%d.%m.%Y. %H:%M"
+  downloads:
+    download_id: ID preuzimanja
+    index:
+      download_log_title: Preuzimanja
+      download_log_description: Tko je što i kada preuzeo
+      paginator_entry_name: preuzimanja
+    show:
+      no_map_for_reserved_address: Za rezervirane adrese nije moguće prikazati kartu
+  filedrop:
+    filedrop: Filedrop
+    no_such_filedrop: Ovaj Filedrop ne postoji
+    invalid_filedrop_url: Nevažeći URL Filedropa
+    invalid_filedrop_url_description: Na ovom URL-u nema Filedropa. Provjerite URL i pokušajte ponovno.
+    label: Filedropovi
+    mb: MB
+    name: Naziv
+    name_description: Kratki naziv koji se upotrebljava i u URL-u (npr. /filedrop/naziv)
+    title: Naslov
+    title_description: Naslov na vrhu stranice
+    description: Opis
+    description_description: Opis ispod naslova
+    user: Korisnik primatelj
+    user_description: Za primatelja se može postaviti bilo koji lokalni korisnik
+    cc: Kopija
+    cc_description: "(odvojeno zarezima) Pošalji kopiju na ove adrese"
+    expires_after: Istječe nakon
+    expires_after_description: dana
+    max_filesize: Najveća veličina datoteke
+    max_filesize_description: MB
+    reset_filedrop: Ponovno postavi URL Filedropa
+    filedrop_reset_warning: Jeste li sigurni? Ako ponovno postavite URL Filedropa, morat ćete ga zamijeniti svugdje gdje ste ga objavili.
+    permitted_extensions: Dopušteni nastavci
+    permitted_extensions_description: Bit će dopuštene samo ove vrste datoteka
+    blocked_extensions: Blokirani nastavci
+    blocked_extensions_description: Ove će se vrste datoteka blokirati
+    demo_license_warning_standard: Za upotrebu Filedropova u produkciji potrebna je licenca. Nadogradite na Pro licencu da biste omogućili funkciju Filedrop.
+    max_one_during_demo: Tijekom probnog razdoblja ili sa Standard licencom možete postaviti najviše jedan Filedrop
+    filedrop_info: Filedrop omogućuje vašim klijentima da vam šalju datoteke bez autentifikacije ili prethodnog postavljanja. Svaki Filedrop ima stalan URL na koji možete upućivati s web-stranica ili u potpisima e-pošte. Kada netko preda datoteku u Filedrop, ona se automatski šalje unaprijed određenom korisniku.
+    authorization: Dopuštenje
+    authorization_description: tko smije preuzimati datoteke predane u Filedrop
+    you_will_be_notified: Primit ćete potvrdu o preuzimanju kada vaše datoteke budu preuzete.
+    require_authentication: Ovaj Filedrop zahtijeva autentifikaciju. Za nastavak unesite lozinku.
+    authenticate: Autentificiraj
+    authentication_failed: Autentifikacija nije uspjela
+    require_validation: Ovaj Filedrop zahtijeva autentifikaciju ili potvrdu vaše adrese e-pošte.
+  filelink:
+    filelink: FileLink
+    filelinks: FileLinkovi
+    filelink_title: FileLink
+    filelink_description: FileLink je poveznica na jednu datoteku. Tu poveznicu možete poslati bilo kome bez izrade poruke ili navođenja primatelja. Datoteku će moći preuzeti samo osobe kojima ste poslali nasumičnu poveznicu.
+    expired_or_nonexistent_title: Nevažeći FileLink
+    expired_or_nonexistent: Ovaj FileLink je istekao ili ne postoji. Obratite se pošiljatelju za novu poveznicu.
+    existing_filelinks: Postojeći FileLinkovi
+    new_filelink: Novi FileLink
+    available_files: Dostupne datoteke
+    filename: Naziv datoteke
+    filesize: Veličina datoteke
+    expires_at: Istječe
+    link: Poveznica
+    checksum: Kontrolni zbroj
+    copy_link_to_clipboard: Kopiraj FileLink u međuspremnik
+    expire_link_at: Poveznica istječe
+    you_have_no_filelinks: Nemate FileLinkova. Dodajte novi FileLink ili ga izradite iz dostupne datoteke.
+    you_have_no_files_available: Nemate prethodno poslanih datoteka. Kada pošaljete barem jednu datoteku, ovdje je možete odabrati i iz nje izraditi FileLink.
+    create_link: Izradi poveznicu
+    invalid_file: Nevažeća datoteka, FileLink nije moguće izraditi
+    delete: Izbriši
+    delete_link_warning: Jeste li sigurni da želite izbrisati ovaj FileLink?
+    could_not_delete_link: FileLink nije bilo moguće izbrisati. Poveznica nije pronađena!
+    filelink_deleted: FileLink je izbrisan!
+    select_file: Odaberi datoteku
+    send_download_receipts: Šalji potvrde o preuzimanju
+    disabled: FileLinkovi su onemogućeni, obratite se administratoru
+    unauthorized: Niste ovlašteni za korištenje FileLinkova
+    require_authentication: Zahtijevaj autentifikaciju
+    filelink_require_authentication: Ovaj FileLink zahtijeva autentifikaciju
+    filelink_url: URL FileLinka
+    expired: Isteklo
+    filelink_expired: FileLink je istekao
+    select_from_available_files: FileLink možete izraditi i iz bilo koje od ovih postojećih datoteka.
+    downloads: Preuzimanja
+    authentication_failed: Autentifikacija nije uspjela
+    password_label_html: Lozinka <small class="text-muted">(neobavezno)</small>
+    password_present_html: Za ovaj FileLink postavljena je lozinka.<br>Možete je ukloniti spremanjem prazne lozinke.
+    password_not_present: Lozinka nije postavljena.
+    copy_to_clipboard: Kopiraj FileLink u međuspremnik
+    add_file: Dodaj datoteku
+  ftpdrop:
+    create:
+      ftpdrop: FTPdrop
+  html_editor:
+    font:
+      bold: Podebljano
+      italic: Kurziv
+      underline: Podcrtano
+      clear: Ukloni oblikovanje
+      height: Visina retka
+      name: Font
+      strikethrough: Precrtano
+      subscript: Indeks
+      superscript: Eksponent
+      size: Veličina fonta
+    image:
+      image: Slika
+      insert: Umetni sliku
+      resize_full: Puna veličina
+      resize_half: Pola veličine
+      resize_quarter: Četvrtina veličine
+      float_left: Poravnaj lijevo
+      float_right: Poravnaj desno
+      float_none: Bez poravnanja
+      shape_rounded: "Oblik: zaobljen"
+      shape_circle: "Oblik: krug"
+      shape_thumbnail: "Oblik: minijatura"
+      shape_none: "Oblik: bez"
+      url: URL slike
+      remove: Ukloni sliku
+    link:
+      link: Poveznica
+      insert: Umetni poveznicu
+      unlink: Ukloni poveznicu
+      edit: Uredi
+      text_to_display: Tekst za prikaz
+      url: Na koji URL treba voditi ova poveznica?
+      open_in_new_window: Otvori u novom prozoru
+    table:
+      table: Tablica
+    hr:
+      insert: Umetni vodoravnu crtu
+    style:
+      style: Stil
+      normal: Normalno
+      blockquote: Citat
+      pre: Kod
+      h1: Naslov 1
+      h2: Naslov 2
+      h3: Naslov 3
+      h4: Naslov 4
+      h5: Naslov 5
+      h6: Naslov 6
+    lists:
+      unordered: Popis s grafičkim oznakama
+      ordered: Numerirani popis
+    options:
+      help: Pomoć
+      fullscreen: Cijeli zaslon
+      codeview: Prikaz koda
+    paragraph:
+      paragraph: Odlomak
+      outdent: Smanji uvlaku
+      indent: Povećaj uvlaku
+      left: Poravnaj lijevo
+      center: Centriraj
+      right: Poravnaj desno
+      justify: Obostrano poravnaj
+    color:
+      recent: Nedavna boja
+      more: Više boja
+      background: Boja pozadine
+      foreground: Boja teksta
+      transparent: Prozirno
+      set_transparent: Postavi prozirnost
+      reset: Vrati
+      reset_to_default: Vrati na zadano
+    shortcut:
+      shortcuts: Tipkovnički prečaci
+      close: Zatvori
+      text_formatting: Oblikovanje teksta
+      action: Radnja
+      paragraph_formatting: Oblikovanje odlomka
+      document_style: Stil dokumenta
+      extra_keys: Dodatne tipke
+    history:
+      undo: Poništi
+      redo: Ponovi
+  invite:
+    invite_user: Pozovi korisnika
+    description: Korisnike možete pozvati da s vama dijele datoteke. Nakon što unesete njihove podatke, primit će e-poruku s uputama za dovršetak registracije.
+    send_invite: Pošalji pozivnicu
+    name_placeholder: Puno ime
+    invitation_sent: Pozivnica je poslana
+    not_permitted_to_invite_users: Niste ovlašteni pozivati korisnike.
+    invalid_email: Nevažeća adresa e-pošte
+  link:
+    show:
+      set_password: Postavi lozinku
+      download: Preuzmi
+      downloads_and_info: Sva preuzimanja i više informacija
+    authenticate:
+      show:
+        title: Lozinka FileLinka
+        authenticate: Autentificiraj
+        require_authentication: Za otvaranje ovog FileLinka morate unijeti potrebnu lozinku.
+      create:
+        authentication_failed: Autentifikacija nije uspjela.
+    downloads:
+      index:
+        back_to_filelink: Natrag na FileLink
+    link_downloads:
+      latest_downloads: Najnovija preuzimanja (%{count} od ukupno %{total})
+  menu:
+    shares: Share
+    messages: Poruke
+    send_files: Nova poruka
+    users: Korisnici
+    active_transfers: Aktivni prijenosi
+    configuration: Konfiguracija
+    system: Sustav
+    message_list: Popis poruka
+    settings: Postavke
+    admin: Administracija
+    account: Račun
+    inbox: Ulazni pretinac
+    sent_messages: Poslano
+    downloads: Zapisnik preuzimanja
+    filelink: FileLinkovi
+    secure_messages: Sigurne poruke
+    support: Podrška
+  message:
+    message_sent: Poruka je poslana
+    not_found: Poruka nije pronađena
+    message_not_found_header: Poruka nije pronađena!
+    message_not_found_description: Zamolite pošiljatelja da vam ponovno pošalje ovu poruku.
+    previous_recipients: Prethodni primatelji
+    contacts: Kontakti
+    is_not_permitted: nije dopušteno
+    not_permitted_to_delete_messages: Niste ovlašteni brisati poruke
+    is_not_in_any_of_the_allowed_domains: ne pripada nijednoj od dopuštenih domena
+    is_not_in_any_of_the_allowed_groups: ne pripada nijednoj od dopuštenih grupa
+    attach_1_file: Morate priložiti barem jednu datoteku
+    too_many_files: Priloženo je previše datoteka. Jednoj poruci možete priložiti najviše %{count} datoteka.
+    attached_files: Priložene datoteke
+    expired: Poruka je istekla
+    authorize:
+      show:
+        title: Prijavite se za pristup sigurnoj poruci
+        authenticate_description_html: Pregledat ćete sigurnu poruku. Najprije se morate prijaviti. Za nastavak unesite adresu e-pošte ili se prijavite.<br>Ako nemate račun u ovom sustavu, unesite adresu e-pošte i poslat ćemo vam sigurnu poveznicu za potvrdu adrese.
+        unauthenticated_html: <h4>Nevažeće korisničko ime ili lozinka</h4><p>Unesite korisničko ime i lozinku. Lozinku možete ponovno postaviti gumbom Ponovno postavljanje lozinke u nastavku.</p>
+        unauthorized_to_view_check_email_html: <h4>Neovlaštena adresa e-pošte</h4><p>Provjerite je li vam sigurna poruka [<span class="font-monospace fw-bold">%{message_id}</span>] poslana i unesite adresu e-pošte točno onako kako je poruka poslana.</p><p>Na primjer, ako vaša adresa e-pošte može biti i ivan.horvat@tvrtka.hr i ihorvat@tvrtka.hr, sustav ne može znati da je riječ o istoj adresi. Ako je sigurna poruka poslana na ivan.horvat@tvrtka.hr, ovdje morate unijeti upravo tu adresu.</p><p>Ako niste sigurni, obratite se pošiljatelju sigurne poruke.</p>
+    errors:
+      not_authorized_to_view_message: "Niste ovlašteni pregledati poruku s ID-om: %{message_id}. Provjerite je li vam ova poruka poslana."
+      private_message_requires_authentication: Privatne poruke zahtijevaju autentifikaciju
+    attachments:
+      download_attachment_details_csv: Preuzmi pojedinosti o privicima (CSV)
+      attachment:
+        fileinfo: Podaci o datoteci
+        file_size: Veličina datoteke
+        content_type: Vrsta sadržaja
+        checksum: Kontrolni zbroj
+        virus_status: Status antivirusne provjere
+    compose:
+      options_permission:
+        authentication_required: Potrebna autentifikacija
+        authentication_not_required: Autentifikacija nije potrebna
+        require_authentication_description: Moraju li se primatelji autentificirati za pristup ovoj poruci?
+        access_restriction_html: Ograničenje pristupa<br><small class="text-muted">Tko ima pristup ovoj poruci?</small>
+        recipients_only_html: Samo<br>primatelji
+        recipients_plus_locals_html: Primatelji<br>+ lokalni korisnici
+        recipients_plus_domains_html: Primatelji<br>+ domene
+        anyone_secret_link_html: Bilo tko<br>(tajna poveznica)
+    unavailable:
+      header: Poruka nije dostupna
+      description: Ova je poruka istekla, izbrisana je, ne postoji ili više nije dostupna. Zamolite pošiljatelja da ponovno pošalje poruku.
+    downloads:
+      index:
+        download_log_title: Zapisnik preuzimanja
+        message_id: ID poruke
+        paginator_entry_name: Preuzimanja
+      download:
+        details: Pojedinosti
+      not_found:
+        title: Poruka ili preuzimanje nisu pronađeni
+        description_html: Poruku ili preuzimanje nije moguće pronaći ili niste ovlašteni za pregled
+    temporary_user:
+      create:
+        invalid_temporary_user: Nevažeća lozinka. Provjerite e-poruku s privremenom lozinkom ili zatražite novu privremenu lozinku.
+        temporary_user_expired: Ova je privremena lozinka istekla. Na vašu adresu e-pošte poslana je nova privremena lozinka. Provjerite ulazni pretinac i upotrijebite novu privremenu lozinku.
+        not_authorized_to_view_message: "Niste ovlašteni pregledati poruku s ID-om: %{message_id}. Provjerite je li vam ova poruka poslana."
+      show:
+        title: Unesite privremenu lozinku
+        description_html: "Pregledat ćete sigurnu poruku. Za otvaranje morate unijeti privremenu lozinku.<br>Privremena lozinka jedinstveni je nasumični niz koji vas identificira. Privremena lozinka poslana vam je u zasebnoj e-poruci (predmet: Privremena lozinka)."
+        what_is_this: Što je ovo?
+        login: Prijava
+        submit: Provjeri privremenu lozinku
+        submit_email: Pošalji
+        if_you_have_account: "(ako već imate račun)"
+        request_temporary_user_header: Zatraži novu privremenu lozinku
+        request_temporary_user_description_html: Za pristup ovoj poruci možete zatražiti novu privremenu lozinku. U nastavku unesite adresu e-pošte da biste zatražili novu privremenu lozinku za ovu sigurnu poruku.
+        info_header: Podaci o privremenoj lozinci
+        info_body_html: "<p>Privremena lozinka jedinstveni je niz brojeva i slova, na primjer:</p><pre><code>3ynp-7FKa-pZS9</code></pre><p><em>Ova je privremena lozinka samo primjer kako biste vidjeli kako izgleda – ne može se upotrijebiti.</em></p><p>U ulaznom pretincu pronaći ćete <strong>dvije e-poruke</strong>: e-poruku sa sigurnom porukom i e-poruku s <strong>predmetom koji počinje s: Privremena lozinka</strong>. Potonja sadrži vašu jedinstvenu privremenu lozinku za ovaj sustav.</p><p>Ako niste primili e-poruku s privremenom lozinkom, možda već imate račun u ovom sustavu. U tom slučaju kliknite „Prijava”.</p><p>Ako smatrate da ste trebali primiti privremenu lozinku, a niste, kliknite „Zatraži privremenu lozinku” da biste dobili novu.</p>"
+        email_address: Adresa e-pošte
+        email_not_permitted: Ova adresa e-pošte nije ovlaštena za pregled ove sigurne poruke.
+        email_not_permitted_description_html: <p>Provjerite primljenu e-poruku sa sigurnom porukom i unesite adresu e-pošte točno onako kako je poruka poslana.</p><p>Na primjer, ako vaša adresa e-pošte može biti i ivan.horvat@tvrtka.hr i ihorvat@tvrtka.hr, sustav ne može znati da je riječ o istoj adresi. Ako je sigurna poruka poslana na ivan.horvat@tvrtka.hr, ovdje morate unijeti upravo tu adresu.</p><p>Ako niste sigurni, obratite se pošiljatelju sigurne poruke.</p>
+        email_can_login: Već imate račun u ovom sustavu
+        email_can_login_description_html: <p>U ovaj se sustav možete prijaviti ovom adresom e-pošte i svojom lozinkom.</p><p>Kliknite gumb Prijava u nastavku da biste se prijavili postojećim računom.</p>
+        temporary_user_delivered_header: Privremena lozinka je poslana
+        temporary_user_delivered_description_html: <p>Na vašu adresu e-pošte poslana je privremena lozinka. Provjerite ulazni pretinac, zatvorite ovaj prozor i unesite privremenu lozinku.</p>
+    reply:
+      re: "Odg:"
+      wrote: je napisao/la
+      show:
+        title: Odgovori na sigurnu poruku
+        from: Od
+        reply: Odgovori
+        reply_all: Odgovori svima
+      options:
+        options_description: Imajte na umu da se sve opcije preuzimaju iz izvorne poruke.
+    show:
+      back: Natrag
+      message_header: Zaglavlje poruke
+      reply: Odgovori
+  messages:
+    sent:
+      skipped_file_not_found: Preskočeno - datoteka nije pronađena
+      show:
+        sent_title: Poslano
+        sent_description: Poruke koje ste poslali
+        paginator_entry_name: poruke
+    attachments:
+      download_cmd:
+        unauthorized:
+          header: Neovlašteno
+          body: Niste ovlašteni preuzeti ovu datoteku. Zamolite pošiljatelja da vam ponovno pošalje datoteku.
+          back: Natrag
+        exceeded:
+          header: Prekoračeno ograničenje preuzimanja
+          body: Ograničenje preuzimanja ove datoteke je prekoračeno. Zamolite pošiljatelja da vam ponovno pošalje datoteku.
+          back: Natrag
+    download_zip:
+      unauthorized:
+        header: Neovlašteno
+        body: Niste ovlašteni preuzeti ovu arhivu. Zamolite pošiljatelja da vam ponovno pošalje datoteku.
+        back: Natrag
+      exceeded:
+        header: Prekoračeno ograničenje preuzimanja
+        body: Ograničenje preuzimanja jedne ili više datoteka u ovoj arhivi je prekoračeno. Zamolite pošiljatelja da vam ponovno pošalje datoteku.
+        back: Natrag
+    message:
+      reply: Odgovori
+      reply_all: Odgovori svima
+  models:
+    user:
+      no_need_to_create_local_user: Nije potrebno izraditi lokalnog korisnika
+      license_exceeded: Prekoračeno ograničenje licence
+  notifier:
+    activate_user_subject: "[%{hostname}] Aktivirajte račun"
+    user_activation: Aktivacija korisnika
+    please_visit_the_following_url_to_activate: Kliknite sljedeću poveznicu da biste aktivirali račun
+    the_following_files_are_attached: Ovoj su poruci priložene sljedeće datoteke
+    please_visit_the_following_url: Kliknite ovu poveznicu da biste preuzeli privitke
+    attachments_are_available: Privici su dostupni do
+    message_id: "ID poruke: %{id}"
+    email_password_reset_subject: Ponovno postavljanje lozinke
+    download_receipt_subject: "Potvrda o preuzimanju [ID: %{message_id}]"
+    a_file_that_you_sent: Datoteka koju ste poslali je preuzeta. Sačuvajte ovu e-poruku kao dokaz o preuzimanju.
+    recipient: Primatelj
+    filename: Naziv datoteke
+    time_of_download: Vrijeme preuzimanja
+    downloaded_from: Preuzeto s
+    download_receipt: Potvrda o preuzimanju
+    user_created:
+      account_created: Račun je izrađen
+      subject: "[%{hostname}] Račun je izrađen"
+      message: "Čeka vas siguran privitak. Za preuzimanje se morate autentificirati. Kliknite sljedeću poveznicu da biste se registrirali:"
+  outlook:
+    messages:
+      new:
+        attachments_header: Privici
+        attachments_hint: Datoteke možete priložiti tako da ih povučete u područje u nastavku ili kliknete gumb Priloži datoteke.
+        add_to_message: Dodaj u poruku
+      attachments:
+        attach_files: Priloži datoteke
+        drop_files_here: Ispustite datoteke ovdje...
+      options:
+        recipients_can_reply: Primatelji mogu odgovoriti
+        send_copy_to_myself: Pošalji kopiju meni
+        private_message: Privatna poruka
+        private_message_required_auth_error: Pri slanju privatne poruke morate upotrijebiti način „Potrebna autentifikacija”.
+      options_authorization:
+        authentication_authorization_title_html: Autentifikacija &amp; ovlaštenje
+        authentication_select_title: Odaberi autentifikaciju
+        authentication_required: Potrebna autentifikacija
+        authentication_not_required: Autentifikacija nije potrebna
+        authorization_select_title: Odaberi ovlaštenje
+        recipients_only: Samo primatelji
+        recipients_locals: Primatelji + lokalni korisnici
+        recipients_domains: Primatelji + domene
+        anyone: Bilo tko (tajna poveznica)
+      options_expiration:
+        message_expires: Poruka istječe
+        message_expires_after: Poruka istječe nakon
+  pagination:
+    first: "&laquo; Prva"
+    last: Posljednja &raquo;
+    previous: "&lsaquo; Prethodna"
+    next: Sljedeća &rsaquo;
+    truncate: "&hellip;"
+  requests:
+    title: Zahtjev za datoteke
+    file_request: Zahtjev za datoteke
+    files_sent: Datoteke su poslane, hvala!
+    request_file: Zatraži datoteku
+    file_requests: Zahtjevi za datoteke
+    description: Zahtjevom za datoteke možete nekoga zamoliti da vam pošalje datoteke. Nakon što unesete podatke, osoba će primiti e-poruku s jedinstvenom poveznicom putem koje vam može poslati tražene datoteke.
+    file_request_not_found: Zahtjev za datoteke nije pronađen
+    file_request_expired: Zahtjev za datoteke je istekao
+    file_request_already_used: Zahtjev za datoteke već je iskorišten
+    file_request_sent: Zahtjev za datoteke je poslan
+    not_permited: Niste ovlašteni koristiti funkciju zahtjeva za datoteke
+    multiuse: Višekratna upotreba - ova se poveznica zahtjeva za datoteke može upotrijebiti više puta
+    invalid_recipient: Nevažeći primatelj, ovaj je zahtjev za datoteke poslan nekom drugom
+    invalid_user: Ovo nije vaš zahtjev za datoteke
+    index:
+      title: Zahtjevi za datoteke
+      new_file_request: Novi zahtjev za datoteke
+      multiuse: Višekratna upotreba
+      responded_to: Odgovoreno
+      hide_expired: Sakrij istekle i iskorištene
+      show_expired: Prikaži istekle i iskorištene
+    request:
+      resend: Ponovno pošalji
+      are_you_sure_you_want_to_delete: Jeste li sigurni da želite izbrisati ovaj zahtjev za datoteke?
+    popup:
+      from: Od
+      to: Za
+      subject: Predmet
+      message: Poruka
+    resend:
+      request_resent: Zahtjev za datoteke je ponovno poslan
+    new:
+      request_expires: Zahtjev istječe
+  send:
+    send: Pošalji
+    sent: Poslano
+    recipients: Za
+    send_as: Pošalji kao
+    you_can_only_send_files_to_yourself: Datoteke možete slati samo sebi
+    subject: Predmet
+    subject_placeholder: Predmet
+    attachments: Privici
+    max_file_size: "Najveća veličina privitaka: %{filesize} MB"
+    upload_queue: Red čekanja za učitavanje
+    remove: Ukloni
+    cancel_all: Otkaži sve
+    cancel_all_uploads: Otkaži sva učitavanja
+    message: Poruka
+    message_placeholder: Poruka
+    done_editing_please_send: Završio/la sam uređivanje, pošalji datoteke kada sva učitavanja završe
+    files_sent_successfully: Datoteke su uspješno poslane
+    you_need_at_least_one_recipient: Potreban je barem jedan primatelj
+    you_need_at_least_one_attachment: Potreban je barem jedan privitak
+    options: Opcije
+    cc: Kopija
+    bcc: Skrivena kopija
+    bcc_message_description: Primatelji skrivene kopije neće biti prikazani ostalim primateljima
+    add_cc: dodaj kopiju
+    add_bcc: dodaj skrivenu kopiju
+    bcc_myself: Pošalji kopiju meni
+    require_login: Zahtijevaj prijavu za preuzimanje datoteka
+    only_specified_recipients_can_download: Privitke mogu preuzeti samo navedeni primatelji
+    anyone_can_download: Privitke može preuzeti bilo tko
+    expires_in: Privici se mogu preuzimati
+    expires_at: Privici istječu
+    send_options: Opcije slanja
+    to: Za
+    from: Od
+    filename: Naziv datoteke
+    filesize: Veličina datoteke
+    downloaded_at: Preuzeto
+    message_sent: Poruka je poslana
+    message_expires: Poruka istječe
+    message_expires_after: Poruka istječe nakon
+    message_expires_after_description: Izračun se radi po datoteci. Ako pošaljete 2 datoteke koje istječu nakon 1 preuzimanja, svaki primatelj moći će svaku datoteku preuzeti jednom.
+    downloads_per_recipient: Preuzimanja po primatelju
+    total_downloads: Ukupno preuzimanja
+    file_not_downloaded: Nijedan privitak nije preuzet
+    at_least_one_invalid_extension: Barem jedan privitak ima nevažeći nastavak
+    invalid_filetype: Nevažeći nastavak
+    blocked_extension: "Nevažeći nastavak. Ne možete učitati datoteke sa sljedećim nastavcima: %{extensions}"
+    permitted_extensions: "Dopušteni nastavci su: %{filetypes}"
+    already_selected: Ova je datoteka već odabrana
+    maximum_filesize_exceeded: Prekoračena je najveća veličina datoteke
+    contains_virus: "%{filename} sadrži VIRUS: %{virus}"
+    limited_by_browser: Ograničeno preglednikom
+    limited_by_disk: Ograničeno prostorom na disku
+    limited_by_system_quota: Ograničeno kvotom sustava
+    limited_by_group_quota: Ograničeno kvotom grupe
+    limited_by_quota: Ograničeno kvotom
+    limited_per_message: Ograničenje po poruci
+    system_quota_exceeded: Prekoračena kvota sustava
+    group_quota_exceeded: Prekoračena kvota grupe
+    quota_exceeded: Prekoračena kvota
+    no_available_quota: Prekoračena kvota, za nastavak izbrišite neke datoteke
+    not_authorized_to_send: Niste ovlašteni slati na %{email}
+    public_url: Javni URL
+    message_url: URL poruke
+    authorization: Ovlaštenje
+    insufficient_disk_space: Nedovoljno prostora na disku
+    active_transfers: Aktivni prijenosi
+    view_log: Prikaži zapisnik
+    previously_sent_attachments: Prethodno poslani privici
+    has_not_downloaded: "%{recipient} još nije preuzeo/la nijednu datoteku"
+    authentication: Autentifikacija
+    required: Obavezno
+    disabled: Onemogućeno
+    require_authentication_tooltip_html: <li>Primatelj se mora prijaviti korisničkim imenom i lozinkom da bi preuzeo datoteku.</li> <li>Primit ćete potvrdu kada datoteka bude preuzeta.</li>
+    dont_require_authentication_tooltip_html: <li>Od primatelja se neće tražiti prijava za preuzimanje datoteke.</li> <li>Primit ćete potvrdu kada datoteka bude preuzeta, ali ne i tko ju je preuzeo (to ne znamo).</li> <li>Potvrdu ćete primiti samo kada datoteku preuzme prvi primatelj.</li>
+    authenticate_link_description: Prije otvaranja ovog FileLinka morate se prijaviti.
+    unauthorized: Niste ovlašteni pregledati ovu poruku.
+    unauthenticated: Netočna lozinka
+    incorrect_login_or_demo: Netočna lozinka ili je dosegnuto ograničenje licence
+    email_authorization_message: Hvala. Kako bismo provjerili je li ovo vaša adresa e-pošte, poslali smo vam e-poruku s kodom za potvrdu. Unesite kod za potvrdu u nastavku ili kliknite poveznicu u e-poruci da biste otvorili poruku.
+    email_authorization_link: Hvala. Kako bismo provjerili je li ovo vaša adresa e-pošte, poslali smo vam e-poruku s kodom za potvrdu. U nastavku unesite kod za potvrdu iz e-poruke ili kliknite poveznicu u njoj da biste otvorili FileLink.
+    email_authorization_message_create_account: Hvala. Budući da nemate račun u ovom sustavu, poslali smo vam e-poruku s kodom za potvrdu kako bismo provjerili je li ovo vaša adresa e-pošte. Unesite kod za potvrdu u nastavku ili kliknite poveznicu u e-poruci da biste potvrdili adresu. Zatim će se od vas zatražiti da izradite račun, nakon čega ćete biti preusmjereni na poruku.
+    email_authorization_link_create_account: Hvala. Budući da nemate račun u ovom sustavu, poslali smo vam e-poruku s kodom za potvrdu kako bismo provjerili je li ovo vaša adresa e-pošte. U nastavku unesite kod za potvrdu iz e-poruke ili kliknite poveznicu u njoj da biste potvrdili adresu. Zatim će se od vas zatražiti da izradite račun, nakon čega ćete biti preusmjereni na FileLink.
+    authorize: Ovlasti
+    authenticate: Prijava
+    sending: Slanje...
+    abort_transfer: Prekini prijenos
+    files_to_big: Datoteka(e) prevelika(e)
+    only_specified_recipients: Pristup imaju samo navedeni primatelji
+    only_specified_recipients_and_local_users: Pristup imaju samo navedeni primatelji i lokalni korisnici
+    only_specified_recipients_and_domains: Pristup imaju samo navedeni primatelji i korisnici njihove domene
+    anyone_after_authentication: Pristup ima bilo tko (s nasumičnom poveznicom)
+    no_recipient_validation: Bez provjere primatelja
+    anyone_can_access: Pristup ima bilo tko
+    anyone: Bilo tko
+    no_authentication: Bez autentifikacije
+    can_download: mogu preuzimati
+    not_yet_scanned: provjerava se na viruse, pokušajte ponovno za nekoliko trenutaka. U redu čekanja %{queue}
+    was_infected: "bila je zaražena virusom %{virus} i izbrisana je"
+    deleted_or_expired: Izbrisano ili isteklo
+    im_done_editing: Automatski pošalji kada trenutačna učitavanja završe
+    download_all: Preuzmi sve
+    zipped_archive: ZIP arhiva
+    message_id: ID poruke
+    overall_progress: Ukupni napredak
+    abort: Prekini
+    limitations: Ograničenja
+    max_size: Najveća veličina
+    add_files: Dodaj datoteke...
+    add_folder: Dodaj mapu...
+    no_attachment_added: Nije dodan nijedan privitak
+    you_need_to_add_at_least_one_file: Morate dodati barem jednu datoteku.
+    private_message_or_attached_files: Morate omogućiti Privatnu poruku ili priložiti barem jednu datoteku.
+    no_runtime_found: Okruženje za izvršavanje nije pronađeno, datoteke nije moguće poslati
+    runtime_check_title: Okruženje za izvršavanje nije pronađeno
+    selected: odabrano
+    file_size_error: Pogreška veličine datoteke
+    remaining: preostalo
+    attached_files: Priložene datoteke
+    show_message: Prikaži poruku
+    can_be_max: može biti najviše %{days} dana u budućnosti
+    not_ready: Još nije spremno za preuzimanje
+    download_info: Podaci o preuzimanju
+    browser: Preglednik
+    platform: Platforma
+    operating_system: Operacijski sustav
+    location: Lokacija
+    download_details: Pojedinosti o preuzimanju
+    download_information_not_found: Podaci o preuzimanju nisu pronađeni.
+    add: Dodaj
+    select_existing_files: Odaberi postojeće datoteke
+    add_existing_files: Dodaj postojeće datoteke
+    add_existing_description: Ove su datoteke već poslane i možete ih ponovno poslati.
+    zip_disabled: ZIP onemogućen
+    zip_disabled_description_exceeded: Za barem jedan privitak prekoračen je najveći broj preuzimanja.
+    spinner_info_html: <strong>Vaša je poruka spremna za slanje</strong>. Neke se datoteke još obrađuju u pozadini, ali ne morate čekati. <strong>Kada budete spremni, kliknite Pošalji!</strong>
+    sent_to_you: Poslano vama
+    excluding_admins: Bez administratora
+    downloads: Preuzimanja
+    download_log: Zapisnik preuzimanja
+    delete_attachments: Izbriši privitke
+    delete_message: Izbriši poruku
+    delete_attachments_warning: Jeste li sigurni da želite izbrisati privitke?
+    delete_message_warning: Brisanjem poruke izbrisat će se i priložene datoteke i zapisnik preuzimanja. Jeste li sigurni da želite izbrisati poruku?
+    invalid_message: Nevažeća poruka
+    message_deleted: Poruka je izbrisana
+    attachments_deleted: Privici su izbrisani
+    checksum: Kontrolni zbroj (SHA256)
+    not_permitted_to_send_messages: Niste ovlašteni slati poruke.
+    invalid_group_belonging: Slanje nije dopušteno (nevažeća grupa). Navedeni ste kao vanjski korisnik, ali vaša adresa e-pošte pripada domeni %{domain}, koja je navedena i među ograničenim domenama primatelja. To nije dopušteno vanjskim korisnicima. Zamolite administratora sustava da vas premjesti u drugu grupu.
+    expires_after_exceeded: Prekoračen broj preuzimanja
+    expires_after_exceeded_for_zip: Prekoračen broj preuzimanja za barem jednu datoteku u ZIP arhivi
+    permission_description_title: Ograničenja pristupa
+    permission_description_only_specified_html: <ul> <li>Poruci mogu pristupiti i datoteke preuzeti samo navedeni primatelji.</li> <li>Prosljeđivanje e-poruke ili URL-a bilo kome nije dopušteno.</li> <li>Primatelji se moraju prijaviti za pristup poruci i preuzimanje datoteka.</li> <li>Pri svakom preuzimanju svake datoteke šalje se potvrda o preuzimanju s detaljnim podacima.</li> </ul>
+    permission_description_only_specified_and_local_html: <ul> <li>Datoteke mogu preuzeti samo navedeni primatelji i lokalni korisnici.</li> <li>E-poruka ili URL smiju se proslijediti samo lokalnim korisnicima.</li> <li>Primatelji se moraju prijaviti za preuzimanje datoteka.</li> <li>Pri svakom preuzimanju svake datoteke šalje se potvrda o preuzimanju s detaljnim podacima.</li> </ul>
+    permission_description_only_specified_and_domains_html: <ul> <li>Pristup imaju samo navedeni primatelji i korisnici iste domene e-pošte.</li> <li>Ako pošaljete na direktor@partner.hr, poruci može pristupiti i tajnistvo@partner.hr, ali ne i znatizeljnik@konkurent.hr.</li> <li>Primatelji se moraju prijaviti za preuzimanje datoteka.</li> <li>Pri svakom preuzimanju svake datoteke šalje se potvrda o preuzimanju s detaljnim podacima.</li> </ul>
+    permission_description_anyone_after_authentication_html: <ul> <li>Datoteke može preuzeti bilo tko tko ima tajni nasumični URL.</li> <li>E-poruka ili URL mogu se proslijediti bilo kome.</li> <li>Primatelji se moraju prijaviti za preuzimanje datoteka.</li> <li>Pri svakom preuzimanju svake datoteke šalje se potvrda o preuzimanju s detaljnim podacima.</li> </ul>
+    permission_description_anyone_html: <ul> <li>Datoteke može preuzeti bilo tko tko ima tajni nasumični URL.</li> <li>E-poruka ili URL mogu se proslijediti bilo kome.</li> <li>Za preuzimanje datoteka prijava <strong>nije</strong> potrebna.</li> <li>Pri prvom preuzimanju od strane bilo koga šalje se <strong>osnovna</strong> potvrda o preuzimanju (da bismo znali tko je što preuzeo, potrebna je autentifikacija).</li> </ul>
+    your_message_has_been_sent: Vaša je poruka poslana
+    you_can_send_to_anyone: "(Ovu poveznicu možete poslati bilo kome)"
+    send_more_files: Pošalji još datoteka
+    download_speed: Brzina preuzimanja
+    download_time: Vrijeme preuzimanja
+    at_least_one_invalid_email: Najmanje jedna nevažeća adresa e-pošte
+    reply: Primatelj može odgovoriti
+    private_message: Privatna poruka
+    private_message_description_html: Kod privatne poruke tekst vaše poruke ne šalje se primatelju e-poštom – vidljiv je tek kada primatelj klikne poveznicu u e-poruci i autentificira se. <ul> <li>Privatnu poruku možete poslati bez privitaka.</li> <li>Primit ćete potvrdu o pristupu kada netko pregleda vašu poruku.</li> <li>Privatnu poruku ne možete poslati s dopuštenjem preuzimanja „Bilo tko može preuzeti”.</li> </ul>
+    private_message_delivered_description: Poruka je poslana kao privatna poruka. Tekst poruke nije uključen u e-poruku, a primit ćete potvrdu o pristupu kada svaki primatelj pregleda poruku.
+    access_info: Podaci o pristupu
+    access_details: Pojedinosti o pristupu
+    validation_code: Kod za potvrdu
+    expired_token_inline: Autentifikacija e-poštom je istekla, pokušajte ponovno.
+    invalid_token: Nevažeći ili istekli kod. Kliknite poveznicu u izvornoj e-poruci da biste ponovno potvrdili adresu e-pošte.
+    download_zip: Preuzmi ZIP
+    zip_ready_for_download: ZIP je spreman za preuzimanje
+    processing_zip: Obrada ZIP arhive
+    drop_file_here: Ispustite datoteku ovdje
+    drop_files_here: Ispustite datoteke ovdje
+    drop_files_and_folders_here: Ispustite datoteke i mape ovdje
+    select_pool_files: Odaberi datoteke iz skupa
+    add_pool_files: Dodaj datoteke iz skupa
+    invalid_validation_token: Ovo nije valjan kod za potvrdu.
+    not_the_validation_token: To je ID poruke, a ne kod za potvrdu. Unesite kod za potvrdu.
+    no_messages_in_inbox: Nema poruka u ulaznom pretincu.
+    filename_already_selected: Ovoj je poruci već dodana datoteka s tim nazivom
+    filesize_exceeded: Prekoračena je najveća veličina poruke
+    infected_with: Zaraženo virusom
+    not_permitted_to_download_content_blocked: "Preuzimanje ove datoteke nije dopušteno. Antivirusna provjera otkrila je: %{virus}"
+    invalid_email_address: Nevažeća adresa e-pošte
+    cant_create_folder: Nije moguće izraditi mapu
+    cant_check_folder: Nije moguće provjeriti mapu
+    cant_restore_folder: Nije moguće vratiti mapu
+    cant_check_chunks: Nije moguće provjeriti dijelove
+    zip_not_include_all_files: Ne mogu se preuzeti sve datoteke – ZIP arhiva sadržavat će samo datoteke koje se mogu preuzeti.
+    paste_tip: Savjet! Zalijepite pomoću Ctrl+Shift+V da biste uklonili oblikovanje.
+  session:
+    api:
+      authentication_error: Pogreška autentifikacije, pokušajte ponovno.
+      not_local_user: Nevažeća adresa e-pošte. Ovu funkciju mogu koristiti samo lokalni korisnici.
+      show:
+        login: Prijava
+        login_label: Adresa e-pošte
+        password: Lozinka
+        sso_login: SSO prijava
+        authentication_title: Prijava
+        authentication_description: Za nastavak unesite adresu e-pošte ili se prijavite.
+      authenticated:
+        authentication_successful: Autentifikacija je uspjela
+    authenticate:
+      login: Za nastavak se prijavite
+      description_html: Za otvaranje ove stranice morate se prijaviti. Za nastavak unesite adresu e-pošte ili se prijavite.<br>Ako nemate račun u ovom sustavu, unesite adresu e-pošte i poslat ćemo vam privremenu lozinku e-poštom.
+      unauthorized: Niste ovlašteni pregledati ovu poruku. Unesite adresu e-pošte točno onako kako vam je poruka poslana ili se obratite pošiljatelju poruke.
+    email:
+      validate_email: Potvrdite adresu e-pošte
+      validate_email_description_html: "Na vašu adresu e-pošte poslan je sigurnosni kod: <strong>%{email}</strong>. Kliknite poveznicu ili ovdje unesite sigurnosni kod da biste potvrdili adresu e-pošte i nastavili."
+      session_expired: Sesija je istekla, za nastavak ponovno unesite adresu e-pošte
+      token_expired: Poveznica za autentifikaciju u e-poruci je istekla, pokušajte ponovno.
+      already_authenticated: U ovom ste pregledniku već prijavljeni.
+      resend_validation_email: Ponovno pošalji e-poruku za potvrdu
+      verify: Potvrdi
+      validate_email_sent: "Nova e-poruka za potvrdu poslana je u %{time}. Kliknite poveznicu u e-poruci ili u nastavku unesite sigurnosni kod da biste potvrdili adresu e-pošte."
+      invalid_temporary_user: Nevažeći sigurnosni kod. Provjerite e-poštu – u ulazni vam je pretinac poslan novi sigurnosni kod.
+      create_account: Izradi račun
+      create_account_description: Izradite račun u ovom sustavu kako biste se mogli prijavljivati adresom e-pošte i lozinkom umjesto sigurnosnim kodom.
+      invalid_email: Nevažeća adresa e-pošte
+    login_limit_exceeded:
+      delivered:
+        page_header: Prekoračeno ograničenje prijava
+        description: Previše ste se puta pokušali prijaviti. Za nastavak morate ponovno postaviti lozinku.
+        email: Poslana je e-poruka s poveznicom za ponovno postavljanje lozinke.
+      waiting:
+        page_header: Prekoračeno ograničenje prijava
+        description: "Previše ste se puta pokušali prijaviti. Napomena: morate se prijaviti mrežnom lozinkom. Ako tu lozinku trebate ponovno postaviti, a ne znate kako, obratite se mrežnom administratoru. Nakon isteka vremena čekanja možete ponovno učitati ovu stranicu da biste poništili ograničenje."
+        expiration_time: Vrijeme čekanja
+        reload: Ponovno učitaj
+      show:
+        page_header: Prekoračeno ograničenje prijava
+        description: Previše ste se puta pokušali prijaviti. Možete poništiti ograničenje prijava i ponovno se prijaviti. Poslana vam je e-poruka za poništavanje ograničenja.
+      reset:
+        login_limit_reset: Ograničenje prijava je poništeno
+    shared:
+      authentication_successful: Autentifikacija je uspjela
+    outlook:
+      edit:
+        authentication_title: Autentificiraj
+        authentication_description: Za nastavak se prijavite
+        login: Prijava
+        login_label: Adresa e-pošte
+        password: Lozinka
+        sso_login: SSO prijava
+      show:
+        authentication_title: Autentificiraj
+        authentication_description: Prijavite se da biste priložili sigurne datoteke.
+        authenticate: Autentificiraj
+    saml:
+      not_configured:
+        title: SAML nije konfiguriran
+        description: SAML nije konfiguriran u ovom sustavu. Ako smatrate da je riječ o pogrešci, obratite se podršci kako bi mogla istražiti problem.
+        support_button: Obratite se podršci
+      api:
+        local:
+          title: SAML autentifikacija
+          description: SAML autentifikacija otvorena je u vašem zadanom pregledniku – ondje nastavite s prijavom. Ako ne možete pronaći prozor ili iz bilo kojeg razloga ne radi, možete nastaviti klikom na gumb u nastavku.
+          button_label: SSO prijava
+      response:
+        api_error:
+          authentication_error: Autentifikacija nije uspjela
+          saml_authentication_error: SSO autentifikacija nije uspjela
+          saml_authentication_error_description: SSO autentifikacija nije uspjela. Ako se problem nastavi, obratite se administratoru.
+        api_disabled:
+          api_disabled: Neovlaštena grupa korisnika
+          api_disabled_description: Vaš račun nema pristup ovoj funkciji (API onemogućen). Obratite se administratoru i zamolite ga da vaš račun premjesti u drugu grupu.
+        api_response:
+          authentication_successful: Autentifikacija je uspjela
+        create:
+          could_not_create_account: Račun nije bilo moguće izraditi. Za više informacija obratite se administratoru.
+        show:
+          could_not_create_account: Račun nije bilo moguće izraditi. Za više informacija obratite se administratoru.
+    temporary_user:
+      validate_email: Potvrdite adresu e-pošte
+      validate_email_description_html: "Na vašu adresu e-pošte poslana je privremena lozinka: <strong>%{email}</strong>. Kliknite poveznicu ili ovdje unesite privremenu lozinku da biste potvrdili adresu e-pošte i nastavili."
+      session_expired: Sesija je istekla, za nastavak ponovno unesite adresu e-pošte
+      token_expired: Poveznica za autentifikaciju u e-poruci je istekla, pokušajte ponovno.
+      already_authenticated: U ovom ste pregledniku već prijavljeni.
+      resend_validation_email: Ponovno pošalji e-poruku za potvrdu
+      verify: Potvrdi
+      validate_email_sent: "Nova e-poruka za potvrdu poslana je u %{time}. Kliknite poveznicu u e-poruci ili u nastavku unesite lozinku da biste potvrdili adresu e-pošte."
+      invalid_temporary_user: Nevažeća lozinka. Provjerite e-poštu – privremena lozinka ponovno vam je poslana u ulazni pretinac.
+      temporary_user_expired: Privremena lozinka je istekla. Provjerite e-poštu – u ulazni vam je pretinac poslana nova privremena lozinka.
+      create_account: Izradi račun
+      create_account_description: Izradite trajni račun u ovom sustavu kako biste se mogli prijavljivati adresom e-pošte i lozinkom umjesto privremenim korisničkim računom.
+  shared:
+    show: Prikaži
+    reify: Vrati
+    download: Preuzmi
+    restore: Vrati
+    delete: Izbriši
+    trash: Smeće
+    cancel: Odustani
+    close: Zatvori
+    current: Trenutačno
+    bootstrap_confirm_dialog:
+      confirm_action: Potvrdi radnju
+    shares:
+      bootstrap_confirm_dialog:
+        confirm_action: Potvrdi radnju
+      navigation:
+        files: Datoteke
+        activity_log: Zapisnik aktivnosti
+      wrap_content:
+        activity_log: Zapisnik aktivnosti
+    error_messages:
+      prohibited_this_from_being_saved: spriječilo je spremanje %{target}
+  share:
+    share: Share
+    shares: Share
+    no_shares: Nema dostupnih Share
+    name: Naziv
+    folder_name: Naziv mape
+    share_not_found: Share nije pronađen
+    folder_not_found: Mapa nije pronađena
+    file_not_found: Datoteka nije pronađena
+    no_read_access: Niste ovlašteni za pristup ovom Shareu
+    no_write_access: Nemate pravo pisanja u ovaj Share
+    not_authorized_to_view_logs: Niste ovlašteni pregledavati zapisnike
+    require_authentication: Ovaj Share zahtijeva autentifikaciju. Za nastavak unesite lozinku.
+    authenticate: Autentificiraj
+    authentication_failed: Autentifikacija nije uspjela
+  shares:
+    folders:
+      are_you_sure_you_want_to_delete: Jeste li sigurni da želite izbrisati ovu mapu?
+      are_you_sure_you_want_to_trash: Jeste li sigurni da želite trajno izbrisati ovu mapu?
+      folder_name_already_taken: Ovaj je naziv mape već zauzet!
+      folder_not_found: Mapa nije pronađena
+      could_not_create_folder: "Mapu nije bilo moguće izraditi: %{error}"
+      zip_no_files: Nema datoteka za dodavanje u ZIP arhivu
+      windows_path_warning:
+        title: Ograničenje duljine putanje u sustavu Windows
+        description_html: <strong>Korisnici sustava Windows:</strong> Windows ograničava putanje datoteka na 259 znakova. Pri učitavanju mapa s lokacija s dugim putanjama datoteke duboko u strukturi mapa mogu biti izostavljene bez upozorenja, što može uzrokovati nepotpuna učitavanja ili duplicirane mape.
+        workarounds_title: Preporučena rješenja
+        workarounds_html: "<li><strong>Upotrijebite virtualni pogon:</strong> otvorite naredbeni redak i pokrenite: <code>subst X: \"C:\\vasa\\duga\\putanja\\do\\mape\"</code><br>Zatim učitavajte s virtualnog pogona <code>X:\\</code></li><li><strong>Približite se datotekama:</strong> prije odabira mape za učitavanje otvorite podmapu bliže datotekama</li><li><strong>Upotrijebite kraću putanju:</strong> prije učitavanja kopirajte datoteke na kraću lokaciju, primjerice <code>C:\\uploads\\</code></li><li><strong>Najprije sažmite mapu:</strong> sažmite mapu u ZIP datoteku i učitajte ZIP datoteku</li>"
+        advanced_title: "Napredno: omogućivanje dugih putanja u sustavu Windows 10/11"
+        advanced_description_html: Od verzije 1607 sustava Windows 10 možete omogućiti podršku za dulje putanje. <strong>Napomena:</strong> za to su potrebne administratorske ovlasti i možda neće raditi u svim preglednicima. Gornja rješenja su pouzdanija.
+        registry_steps_title: Koraci za omogućivanje dugih putanja
+        registry_steps_html: "<li>Pritisnite <kbd>Win + R</kbd>, upišite <code>regedit</code> i pritisnite Enter</li><li>Idite na: <code>HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\FileSystem</code></li><li>Pronađite ili izradite DWORD vrijednost naziva <code>LongPathsEnabled</code> i postavite je na <code>1</code></li><li>Ponovno pokrenite računalo da bi promjena stupila na snagu</li><li>Ponovno testirajte učitavanje (podrška se može razlikovati ovisno o pregledniku)</li>"
+        browser_disclaimer_html: "<strong>Važno:</strong> čak i uz omogućenu ovu postavku registra podrška za duge putanje razlikuje se ovisno o pregledniku. Chrome, Edge i Firefox i dalje mogu primjenjivati ograničenje od 259 znakova. Gornja rješenja su pouzdanija."
+      folder:
+        rename_folder: Preimenuj mapu
+        move_folder_description: Premjesti mapu %{foldername} u mapu odabranu u nastavku
+        move_folder: Premjesti mapu
+      action_bar:
+        download_as_zip: Preuzmi kao ZIP
+        download_as_zip_with_deleted: Preuzmi kao ZIP, uključujući izbrisane datoteke
+        toggle_deleted_view: Prikaži/sakrij izbrisane datoteke
+        filter: Filtar
+        upload_file: Učitaj datoteke
+        upload_folder: Učitaj mapu
+        create_folder: Izradi mapu
+        windows_path_warning: Upozorenje o duljini putanje
+        upload_folder_unsupported: Učitavanje mapa nije podržano
+        upload_folder_unsupported_description: Nažalost, vaš preglednik ne podržava učitavanje mapa. Za učitavanje strukture mapa upotrijebite verziju preglednika Chrome ili Safari za stolna računala.
+        showing_deleted: Prikazano izbrisanih %{number_of}
+        hiding_deleted: Skriveno izbrisanih %{number_of}
+        actions: Radnje
+        move_selected: Premjesti odabrano
+        trash_selected: Premjesti odabrano u smeće
+        delete_selected: Izbriši odabrano
+      action_bar_below:
+        send_notifications: Pošalji obavijesti
+        sending_notifications: Slanje obavijesti
+        quota: Kvota
+        used_of: iskorišteno od
+        available: dostupno
+        quota_exceeded: Prekoračena kvota
+      create_folder_modal:
+        create_folder: Izradi mapu
+        create: Izradi
+      files:
+        are_you_sure_you_want_to_delete: Jeste li sigurni da želite izbrisati ovu datoteku?
+        are_you_sure_you_want_to_trash: Jeste li sigurni da želite trajno izbrisati ovu datoteku?
+        file_not_found: Datoteka nije pronađena
+        file:
+          rename_file: Preimenuj datoteku
+          move_file: Premjesti
+          move_file_description: Premjesti datoteku %{filename} u mapu odabranu u nastavku
+        show:
+          prev: Prethodna
+          up: Gore
+          next: Sljedeća
+          last_updated: Zadnje ažurirano
+          versions: Verzije
+          show_all: Prikaži sve
+          version_from: Verzija od
+          next_version: Sljedeća verzija
+          previous_version: Prethodna verzija
+          current_version: Trenutačna verzija
+          pdf_preview_not_supported: Vaš preglednik ne podržava pretpregled PDF datoteka
+        available_chunks:
+          available: Dostupna su djelomična učitavanja sljedećih datoteka
+          resume_replace: Želite li nastaviti učitavanje ili zamijeniti datoteke?
+      quota:
+        quota: Kvota
+        used_of: iskorišteno od
+        available: dostupno
+        quota_exceeded: Prekoračena kvota
+      move_file_folder_modal:
+        move_folder: Premjesti mapu
+        move_file: Premjesti datoteku
+        move: Premjesti
+      show:
+        select_all: Odaberi sve / poništi odabir
+    logs:
+      action_bar:
+        activity_log: Zapisnik aktivnosti
+      message:
+        created: Stvoreno
+        uploaded: Učitano
+        downloaded: Preuzeto
+        reified: Vraćeno
+        removed: Uklonjeno
+        restored: Vraćeno
+        deleted: Izbrisano
+        moved: Premješteno
+        renamed: Preimenovano
+        added: Dodano
+        viewed: Pregledano
+        infected: Zaraženo
+        trashed: Premješteno u smeće
+        deleted_user: "(Izbrisani korisnik)"
+        share: Share
+        folder: Mapa
+        file: Datoteka
+        group: Grupa
+        user: Korisnik
+        read: Čitanje
+        read/write: Čitanje/pisanje
+        av_scanner: Antivirusni program
+        version_from: Verzija od
+        file_deleted: Datoteka izbrisana
+        to: u
+        from: iz
+        unknown: Nepoznato
+        other: Ostalo
+  share/log:
+    message:
+      you: Vi
+      share: Share
+      folder: mapa
+      file: datoteka
+      user: korisnik
+      version_from: verzija od
+      read: čitanje
+      read/write: čitanje/pisanje
+      created: je stvorio/la
+      added: je dodao/la
+      uploaded: je učitao/la
+      downloaded: je preuzeo/la
+      updated: je ažurirao/la
+      restored: je vratio/la
+      reified: je vratio/la
+      deleted: je izbrisao/la
+      removed: je trajno izbrisao/la
+      trashed: je premjestio/la u smeće
+      renamed: je preimenovao/la
+      viewed: je pregledao/la
+      infected: zaraženo
+      av_scanner: Antivirusni program
+      file_deleted: Datoteka izbrisana
+  sms_auth:
+    login_failed: Prijava nije uspjela
+    sms_error: Pogreška u konfiguraciji SMS-a, obratite se administratoru sustava
+    verify_token: Potvrdi SMS kod
+    verify_token_description: "Unesite kod poslan na vaš mobitel:"
+    sms_login_failed: Potvrda SMS-om nije uspjela, poslan je novi SMS kod
+    sms_signup: Prijava za dvofaktorsku autentifikaciju putem SMS-a
+    sms_signup_failed: Dvofaktorska autentifikacija putem SMS-a nije uspjela
+    sms_signup_description: Za nastavak se morate prijaviti za dvofaktorsku autentifikaciju putem SMS-a. Za nastavak unesite svoj broj telefona u nastavku.
+    verify: Potvrdi
+    resend: Ponovno pošalji kod
+    code: Kod
+    token_resent: SMS kod ponovno je poslan u %{time}
+    send_token: Pošalji kod za potvrdu
+    phone_number: Broj telefona
+    invalid_phone_number: Nevažeći broj telefona, pokušajte ponovno.
+    change_phone_number: Promijeni broj telefona
+    phone_number_help: Unesite broj telefona s pozivnim brojem države i bez početnih nula (npr. 385911234567). Na taj će broj biti poslan kod za potvrdu.
+    one-time-code: Jednokratni kod
+  strong_auth:
+    two_factor_authentication: Dvofaktorska autentifikacija
+    enable_2fa: Omogući dvofaktorsku autentifikaciju
+    disable_2fa: Onemogući dvofaktorsku autentifikaciju
+    title: Omogući dvofaktorsku autentifikaciju
+    enable_2fa_description: Za veću sigurnost računa možete omogućiti jaku dvofaktorsku autentifikaciju.
+    require_description: Za korištenje ovog sustava morate postaviti dvofaktorsku autentifikaciju.
+    disable_description: Za onemogućivanje dvofaktorske autentifikacije unesite trenutačni kod
+    two_factor_auth_disabled: Dvofaktorska autentifikacija onemogućena
+    step1: "1. korak: preuzmite aplikaciju za autentifikaciju"
+    step1_description: Omogućite dvofaktorsku autentifikaciju, obično pomoću mobilne aplikacije.
+    totp_apps_description_html: Aplikacije za autentifikaciju uključuju <a href="https://authy.com" target="_blank" rel="external nofollow noopener noreferrer">Authy</a> (više platformi) i Google Authenticator (iOS/Android). Više mogućnosti pronaći ćete na stranici <a href="https://docs.liquidfiles.com/authentication/totp.html#clients" target="_blank">TOTP Clients</a>.
+    step2: "2. korak: postavite aplikaciju za autentifikaciju"
+    step2_description: Postavite aplikaciju za autentifikaciju skeniranjem QR koda.
+    step2_alt: Ili unesite sljedeći kod
+    step3: "3. korak: potvrdite"
+    step3_description: Potvrdite postavku unosom koda koji generira aplikacija za autentifikaciju.
+    failed_to_authenticate: Autentifikacija nije uspjela, pokušajte ponovno.
+    click_on_link: Možete i kliknuti sljedeću poveznicu da biste konfiguraciju dodali u aplikaciju za dvofaktorsku autentifikaciju
+    configure: Postavi dvofaktorsku autentifikaciju
+    success_saved: Uspjeh, konfiguracija dvofaktorske autentifikacije je spremljena
+    verify_token: Potvrdi dvofaktorsku autentifikaciju
+    verify_token_description: Unesite kod dvofaktorske autentifikacije iz mobilne aplikacije.
+    verify: Potvrdi
+    two_factor_login_failed: Dvofaktorska autentifikacija nije uspjela
+    two_factor_validation_failed: Potvrda dvofaktorske autentifikacije nije uspjela
+    skip_2fa_for_two_weeks: Preskoči dvofaktorsku autentifikaciju u ovom pregledniku na dva tjedna
+    one-time-code: Jednokratni kod
+  support:
+    email_subject: Molim pomoć oko
+    email_body: Opišite svoj problem što detaljnije. Hvala.
+    navbar_tooltip: Ako vam je potrebna pomoć pri pristupu ovom sustavu ili njegovu korištenju, kliknite ovu poveznicu i rado ćemo vam pomoći.
+  user:
+    includes_at_least_one_invalid_email_address: sadrži najmanje jednu nevažeću adresu e-pošte
+    confirm:
+      invalid_session: Nevažeća sesija
+      already_validated: Vaša je adresa e-pošte već potvrđena
+      invalid_token: Nevažeći kod. Pokušajte ponovno ili kliknite Ponovno pošalji e-poruku za potvrdu.
+      validation_email_sent: "E-poruka za potvrdu poslana je u %{time}"
+      activated_successfully: Uspješno aktivirano
+      validate_email_description: Provjerite e-poštu i unesite privremenu lozinku da biste potvrdili adresu e-pošte.
+    register:
+      already_registered: Ovaj je račun već registriran, za nastavak se prijavite
+      already_registered_not_validated: Vaš je račun već registriran, ali adresu e-pošte još treba potvrditi. Poslali smo vam e-poruku s nasumičnim kodom. Unesite kod u nastavku ili kliknite poveznicu u e-poruci da biste potvrdili račun.
+      show:
+        register: Registriraj račun
+        description_html: <p>Unesite svoje podatke da biste izradili račun. Ovim računom možete sigurno slati velike datoteke na %{branding_name}.</p>
+    signup:
+      create:
+        need_password: Morate unijeti lozinku
+        need_name: Morate unijeti ime
+    create:
+      show:
+        cancel_and_remember: Odustani i ne pitaj ponovno
+        cancel_and_remember_title: To će se zapamtiti u trenutačnom pregledniku
+  validator:
+    required: Ovo je polje obavezno.
+    remote: Ispravite ovo polje.
+    email: Unesite valjanu adresu e-pošte.
+    url: Unesite valjan URL.
+    date: Unesite valjan datum.
+    dateISO: Unesite valjan datum (ISO).
+    number: Unesite valjan broj.
+    digits: Unesite samo znamenke.
+    creditcard: Unesite valjan broj kreditne kartice.
+    equalTo: Ponovno unesite istu vrijednost.
+    accept: Unesite vrijednost s valjanim nastavkom.
+    maxlength: Unesite najviše {0} znakova.
+    minlength: Unesite najmanje {0} znakova.
+    rangelength: Unesite vrijednost duljine od {0} do {1} znakova.
+    range: Unesite vrijednost između {0} i {1}.
+    max: Unesite vrijednost manju ili jednaku {0}.
+    min: Unesite vrijednost veću ili jednaku {0}.
+    step: Unesite višekratnik broja {0}.
+    invalid_phone_number: Nevažeći broj telefona
+  locale: Hrvatski

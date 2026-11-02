@@ -1,0 +1,1569 @@
+lt:
+  s: s
+  min: min
+  hours: Valandos
+  days: Dienos
+  weeks: Savaitės
+  months: Mėnesiai
+  years: Metai
+  ago: prieš
+  email: El. paštas
+  save: Išsaugoti
+  delete: Ištrinti
+  cancel: Atšaukti
+  remove: Pašalinti
+  aborting: Nutraukiama
+  aborted: Nutraukta
+  saved_successfully: Sėkmingai išsaugota
+  logout: Atsijungti
+  error: Klaida
+  enabled: Įjungta
+  disabled: Išjungta
+  disable: Išjungti
+  default: Numatytasis
+  submit: Pateikti
+  session_expired: Seansas baigėsi
+  search: Ieškoti
+  filter: Filtras
+  recipient: Gavėjas
+  recipients: Gavėjai
+  downloaded_by: Atsisiuntė
+  filename: Failo pavadinimas
+  size: Dydis
+  downloaded: Atsisiųsta
+  host: Serveris
+  ip: IP adresas
+  action: Veiksmas
+  view_message: Peržiūrėti pranešimą
+  view_message_popup: Peržiūrėti pranešimą (iššokančiajame lange)
+  download_info: Atsisiuntimo informacija
+  message_id: Pranešimo ID
+  filelink_id: FileLink ID
+  sent_at: Išsiųsta
+  id: ID
+  subject: Tema
+  expires: Galioja iki
+  invalid_method: Netinkamas metodas
+  export_csv: Eksportuoti CSV
+  export_all: Eksportuoti viską
+  export_visible: Eksportuoti matomus
+  temporarily_unavailable: Laikinai nepasiekiama
+  generic_search_error: Bendroji paieškos klaida
+  sender: Siuntėjas
+  search_temporary_disabled: Paieška laikinai išjungta
+  help: Pagalba
+  close: Uždaryti
+  count: Skaičius
+  settings: Paskyros nustatymai
+  virus: Virusas
+  virus_status: Virusų būsena
+  infected: Užkrėstas
+  clean: Švarus
+  not_scanned: Nenuskenuota
+  not_yet_scanned: Dar nenuskenuota
+  csrf_error: "CSRF: aptikti netinkami parametrai. Norėdami tęsti, prisijunkite iš naujo."
+  could_not_be_saved: Nepavyko išsaugoti
+  label: Žymė
+  updated: Atnaujinta
+  add: Pridėti
+  system_info: Sistemos informacija
+  location: Vieta
+  accept: Sutikti
+  last_7_days: Paskutinės 7 dienos
+  last_30_days: Paskutinės 30 dienų
+  last_60_days: Paskutinės 60 dienų
+  last_90_days: Paskutinės 90 dienų
+  last_180_days: Paskutinės 180 dienų
+  last_365_days: Paskutinės 365 dienos
+  file: Failas
+  files: Failai
+  next: Kitas
+  previous: Ankstesnis
+  name: Vardas
+  view: Peržiūrėti
+  forget: Pamiršti
+  update: Atnaujinti
+  updated_at: Atnaujinta
+  created_at: Sukurta
+  download_link_expired: Atsisiuntimo nuorodos galiojimas baigėsi.
+  no_html5_upload_warning: Failams įkelti reikia šiuolaikinės, su HTML5 suderinamos naršyklės. Microsoft Edge, Chrome, Firefox ir Safari puikiai tinka.
+  javascript_warning: Norint siųsti failus ir naudotis daugeliu funkcijų, reikia JavaScript.
+  cookie_accept: Ši svetainė naudoja slapukus. Prisijungdami arba spustelėdami „Sutikti“ sutinkate su slapukų naudojimu.
+  i_agree: Sutinku
+  session_timeout: Seansas baigėsi, prisijunkite iš naujo
+  loading: Įkeliama...
+  unsupported_browser_header: Nepalaikoma naršyklė
+  unsupported_browser_description_html: Jūsų naršyklė nepalaikoma, todėl ši svetainė greičiausiai neveiks taip, kaip tikėtasi. Naudokite naujesnę naršyklę.
+  not_logged_in_invalid_parameters: Neprisijungta, netinkami parametrai
+  toggle_dropdown: Rodyti / slėpti meniu
+  rejected: Atmesta
+  undetected: Neaptikta
+  invalid_link: Netinkama nuoroda, susisiekite su siuntėju
+  account_settings_tooltip: Paskyros nustatymai
+  logout_tooltip: Atsijungti
+  download_id: Atsisiuntimo ID
+  remote_host: Nuotolinis serveris
+  show: Rodyti
+  hide: Slėpti
+  password: Slaptažodis
+  download: Atsisiųsti
+  unauthorized: Neturite teisių
+  account:
+    login: Prisijungti
+    login_label: El. pašto adresas
+    email: El. pašto adresas
+    password: Slaptažodis
+    current_password: Dabartinis slaptažodis
+    please_enter_your_current_password: Įveskite dabartinį slaptažodį
+    sign_in: Prisijungti
+    remember_me: Prisiminti mane
+    not_administrator: Jūs nesate administratorius
+    password_reset: Slaptažodžio atkūrimas
+    register: Registruotis
+    register_description_html: Ačiū! Norėdami tęsti, įveskite savo duomenis ir sukurkite paskyrą.<br>Kitą kartą galėsite prisijungti el. pašto adresu ir slaptažodžiu.
+    account_not_activated: Paskyra neaktyvinta. Prieš prisijungdami aktyvinkite paskyrą. Jums išsiųstas el. laiškas su atsitiktiniu kodu. Įveskite kodą žemiau arba spustelėkite nuorodą laiške, kad patvirtintumėte paskyrą.
+    incorrect_user_or_pw: Neteisingas naudotojo vardas arba slaptažodis
+    confirmation_email_sent: Patvirtinimo laiškas išsiųstas
+    activated_successfully: Sėkmingai aktyvinta
+    not_activated: Paskyra neaktyvinta
+    password_reset_email_sent: Slaptažodžio atkūrimo laiškas išsiųstas
+    no_such_user: Tokio naudotojo nėra
+    no_such_email: El. pašto adresas nerastas
+    not_logged_in: Jūs neprisijungę. Norėdami tęsti, prisijunkite.
+    saved_successfully: Sėkmingai išsaugota
+    unlicensed_install_some_settings: "Nelicencijuotas diegimas: prekės ženklo parinktys matomos tik sistemos administratoriams"
+    incorrect_login_or_demo: Neteisingas naudotojo vardas arba slaptažodis, arba pasiekta licencijos riba
+    incorrect_login_or_ldap: Neteisingas naudotojo vardas arba slaptažodis, arba LDAP serverio klaida
+    invalid_api_key: Netinkamas API raktas
+    cant_delete_last_sysadmin: Negalima ištrinti paskutinio sistemos administratoriaus
+    cant_change_last_sysadmin: Negalima pakeisti paskutinio sistemos administratoriaus
+    sso_login: SSO prisijungimas
+    invalid_sso_response: Netinkamas SSO atsakymas
+    automatic: Nustatyta automatiškai
+    network_access_blocked: Prieiga prie šios sistemos iš jūsų tinklo neleidžiama.
+    please_login: Norėdami atidaryti šį puslapį, prisijunkite.
+    email_validation_session_timeout: Seansas baigėsi, dar kartą patvirtinkite el. pašto adresą.
+    signature: Parašas
+    not_authorized_for_action: Neturite teisės atlikti šio veiksmo
+    invalid_group: Netinkama grupė. Susisiekite su administratoriumi, kuris gali perkelti jūsų paskyrą į vietinių naudotojų grupę
+    invalid_group_configuration: Netinkama grupės konfigūracija. Susisiekite su administratoriumi, kuris gali sukurti jums paskyrą arba pakeisti grupės konfigūraciją.
+    please_enter_email_to_email_password: Įveskite el. pašto adresą, kad atkurtumėte slaptažodį. Šiuo adresu bus išsiųstas patvirtinimo laiškas.
+    password_reset_successfully: Slaptažodis sėkmingai atkurtas
+    password_cant_be_empty: Slaptažodis negali būti tuščias
+    password_complexity_title: Slaptažodžio sudėtingumas
+    password_complexity_description_html: "<p>Jūsų slaptažodis <strong>negali būti pagrįstas žodyno žodžiu</strong> ir turi atitikti bent 3 iš šių reikalavimų:</p><ul><li>Bent 8 simboliai</li><li>Bent 11 simbolių</li><li>Bent 15 simbolių</li><li>Bent 1 mažoji ir 1 didžioji raidė</li><li>Bent 1 skaitmuo (0-9)</li><li>Bent vienas iš šių simbolių: !,@,#,$,%,^,&amp;,*,?,_,~,-,(,)</li></ul>"
+    is_not_strong_enough: nėra pakankamai stiprus
+    your_password_has_expired: Jūsų slaptažodžio galiojimas baigėsi
+    please_select_a_different_password: Pasirinkite kitą slaptažodį nei ankstesnis
+    change_password: Keisti slaptažodį
+    account_not_found: Paskyra nerasta. Prisijunkite iš naujo.
+    user_required_to_use_saml: Slaptažodžio atkurti negalima, prisijunkite per SAML
+    sysadmin_ldap_error: Ši paskyra autentifikuojama per LDAP ir jos čia atkurti negalima
+    login_limit_exceeded: Viršytas prisijungimų limitas
+    a_confirmation_email_will_be_sent: Šiuo adresu bus išsiųstas patvirtinimo laiškas
+    name: Vardas
+    password_confirm: Patvirtinti slaptažodį
+    save: Išsaugoti
+    can_not_reset_password_please_check_with_your_administrator: Slaptažodžio atkurti negalima, kreipkitės į administratorių
+    no_need_to_register_user: Registruotis nereikia. Prisijunkite naudodami esamą paskyrą.
+    registration_not_allowed: Registracija neleidžiama
+    create_description: Sukurkite paskyrą įvesdami savo vardą ir slaptažodį.
+    activated_successfully_please_login: Paskyra sėkmingai aktyvinta. Dabar galite prisijungti el. pašto adresu ir slaptažodžiu.
+    invalid_activation_url: Netinkama aktyvinimo nuoroda. Patikrinkite nuorodą ir bandykite dar kartą.
+    already_logged_in: Jūs jau prisijungę. Užregistruoti naujos paskyros negalima.
+    bruteforce_message: Viršijote nesėkmingų bandymų skaičių. Bandykite dar kartą po %{minutes} min.
+    admin_access_blocked: Administratoriaus prieiga iš jūsų IP adreso neleidžiama.
+    account_created_successfully: Paskyra sėkmingai sukurta
+    create_account: Sukurti paskyrą
+    create_account_description: Atnaujinkite savo duomenis, kad sukurtumėte paskyrą.
+    account_settings: Paskyros nustatymai
+    change_language: Keisti kalbą ir laiko juostą
+    filedrop_label: Filedrop (atsitiktinis)
+    filedrop_email_label: Filedrop
+    verify_account: Tikrinama paskyra
+    invalid_sso_signature: Netinkamas SSO parašas arba prisijungimas
+    user_not_found: Naudotojas nerastas
+    could_not_create_account: Nepavyko sukurti paskyros
+    two_factor_authentication_failed: Duo dviejų veiksnių autentifikavimas nepavyko
+    copy_to_clipboard: Kopijuoti į mainų sritį
+    copy_url_to_clipboard: Kopijuoti URL į mainų sritį
+    delete_user_warning: Ar tikrai norite ištrinti šį naudotoją?
+    unauthorized_to_login: Neturite teisės prisijungti
+    first_time_message_title: Sveiki atvykę į LiquidFiles
+    first_time_message: <p>Sveiki atvykę į LiquidFiles – paprasčiausią būdą saugiai siųsti didelius failus.</p><p>Pagrindinės funkcijos veikia kaip žiniatinklio paštas.</p><p>Šis pranešimas bus parodytas tik vieną kartą. Jei kiltų sunkumų arba norėtumėte atrasti išplėstines funkcijas, spustelėkite mygtuką „Pagalba“ viršutiniame dešiniajame meniu juostos kampe.</p>
+    first_time_message_button: Supratau!
+    registration_failed_unknown_error: Registracija nepavyko dėl nežinomos klaidos
+    session_timeout: Seansas baigėsi
+    nothing_filled_in: Užpildykite formą
+    last_used: Paskutinį kartą naudota
+    strong_auth_required_before_password_reset: Norint atkurti šios paskyros slaptažodį, reikia stipraus dviejų veiksnių autentifikavimo.
+    unfriendly_registration_message: Jei šiuo el. pašto adresu galima užsiregistruoti sistemoje, gausite el. laišką. Jei negausite, naudokite aukščiau esančią pagalbos nuorodą.
+    unfriendly_password_reset_message: Jei paskyrą su šiuo el. pašto adresu galima atkurti, gausite el. laišką. Jei negausite, naudokite aukščiau esančią pagalbos nuorodą.
+    aliases:
+      aliases: Alternatyvieji vardai
+      aliases_description: Prie paskyros galite pridėti siuntėjo ir gavėjo alternatyviuosius vardus. Siuntėjo alternatyvusis vardas leidžia siųsti pranešimus to el. pašto adreso vardu. Gavėjo alternatyvusis vardas leidžia peržiūrėti tam el. pašto adresui skirtus pranešimus. Gavėjo alternatyviajam vardui skirti pranešimai matomi ir jūsų saugių pranešimų gautuosiuose.
+      aliases_no_change_description: Siuntėjo alternatyvusis vardas leidžia siųsti pranešimus to el. pašto adreso vardu. Gavėjo alternatyvusis vardas leidžia peržiūrėti tam el. pašto adresui skirtus pranešimus. Gavėjo alternatyviajam vardui skirti pranešimai matomi ir jūsų saugių pranešimų gautuosiuose. Norėdami pridėti arba pakeisti alternatyviuosius vardus, kreipkitės į administratorių.
+      recipient_aliases: Gavėjo alternatyvieji vardai
+      sender_aliases: Siuntėjo alternatyvieji vardai
+      add_alias: Pridėti alternatyvųjį vardą
+      remove: Pašalinti
+      default_sender_alias: Numatytasis siuntėjo alternatyvusis vardas
+      default_sender_alias_description: Numatytasis siuntėjo alternatyvusis vardas.
+      are_you_sure: Ar tikrai norite pašalinti šį alternatyvųjį vardą?
+      no_emails: Nepridėtas nė vienas alternatyvusis vardas.
+      please_contact_an_administrator: Norėdami juos tvarkyti, kreipkitės į administratorių
+      auto_added_aliases: Automatiškai pridėti alternatyvieji vardai
+      auto_added_aliases_description: Šie alternatyvieji vardai buvo automatiškai pridėti prie jūsų profilio. Norėdami juos tvarkyti, kreipkitės į administratorių.
+    alias:
+      confirm:
+        show:
+          title: Ačiū už patvirtinimą
+          alias_email: Alternatyviojo vardo el. pašto adresas
+          user: Naudotojas
+          recipient_and_sender_confirmation: Aukščiau nurodytas naudotojas dabar gali peržiūrėti šiam el. pašto adresui skirtus saugius pranešimus ir siųsti saugius pranešimus šio adreso vardu. Jei tai klaida, spustelėkite aukščiau esančią pagalbos nuorodą.
+          only_recipient_confirmation: Aukščiau nurodytas naudotojas dabar gali peržiūrėti šiam el. pašto adresui skirtus saugius pranešimus. Jei tai klaida, spustelėkite aukščiau esančią pagalbos nuorodą.
+          only_sender_confirmation: Aukščiau nurodytas naudotojas dabar gali siųsti saugius pranešimus šio el. pašto adreso vardu. Jei tai klaida, spustelėkite aukščiau esančią pagalbos nuorodą.
+    add_alias_modal:
+      title: Pridėti alternatyvųjį vardą
+      description: Įveskite el. pašto adresą, prie kurio norite gauti prieigą kaip gavėjo arba siuntėjo alternatyvusis vardas. Šiuo adresu bus išsiųstas patvirtinimo laiškas.
+      recipient_alias: Gavėjo alternatyvusis vardas - noriu skaityti šiuo el. pašto adresu siųstus pranešimus.
+      sender_alias: Siuntėjo alternatyvusis vardas - noriu siųsti pranešimus šio el. pašto adreso vardu.
+      invalid_email: Netinkamas el. pašto adresas
+      add_permission: Pasirinkite gavėjo alternatyvųjį vardą, siuntėjo alternatyvųjį vardą arba abu.
+      send_request: Siųsti užklausą
+      request_has_been_sent: Jūsų užklausa išsiųsta.
+    api:
+      api_key: API raktas
+      api_key_description: API raktą naudoja papildiniai, pavyzdžiui, Outlook papildinys, jį galima naudoti ir pasirinktinėms integracijoms. Jo reikia tik tada, jei to paprašo administratorius.
+      api_key_reset_warning: Ar tikrai? Jei atkursite API raktą, senąjį raktą turėsite pakeisti visur, kur jį naudojote.
+      reset_api_key: Atkurti API raktą
+    contacts:
+      contacts: Kontaktai
+      contacts_description: Galite pridėti tiek kontaktų, kiek norite. Kiekvienas kontaktas gali turėti kelis el. pašto adresus, todėl galite greitai ir paprastai siųsti keliems gavėjams vienu metu.
+      add_contact: Pridėti kontaktą
+      email_field_help: Kableliais atskirtų el. pašto adresų sąrašas.
+      contact:
+        edit_label: Redaguoti žymę
+        edit_email: Redaguoti el. pašto adresą
+        are_you_sure: Ar tikrai norite ištrinti šį kontaktą?
+    filedrops:
+      filedrops: Filedrop
+      filedrops_description: Esate šių Filedrop pagrindinis gavėjas arba kopijos gavėjas. Visi per juos išsiųsti failai bus pristatyti jums.
+      name: Pavadinimas
+      title: Antraštė
+      recipient: Gavėjas
+      expires_after: Galioja
+      max_size: Maks. failo dydis
+      url: URL
+      main_recipient: Pagrindinis gavėjas
+      cc: Kopija
+    personal_filedrop:
+      personal_filedrop: Asmeninis Filedrop
+      personal_filedrop_description: Asmeninis Filedrop – paprastas būdas gauti failus. Nuorodą galite išsiųsti, paskelbti svetainėje arba įtraukti į el. pašto parašą. Gausite pranešimą, kai tik kas nors ką nors atsiųs per jūsų asmeninį Filedrop.
+    previous_recipients:
+      previous_recipients: Ankstesni gavėjai
+      previous_recipients_description: Kai siunčiate saugų pranešimą, kiekvienas gavėjas pridedamas prie šio ankstesnių gavėjų sąrašo. Taip galite greitai vėl siųsti tiems patiems gavėjams. Gavėjai, kuriems per 180 dienų nieko nesiuntėte, automatiškai pašalinami iš sąrašo.
+      are_you_sure: Ar tikrai norite ištrinti šį ankstesnį gavėją?
+    pw_dictionary:
+      based_on_a_dictionary_word: pagrįstas žodyno žodžiu
+      based_upon_your_password_entry: pagrįstas įvestu slaptažodžiu
+      derived_from_your_password_entry: išvestas iš įvesto slaptažodžio
+      derivable_from_your_password_entry: gali būti išvestas iš įvesto slaptažodžio
+      way_too_short: yra PER trumpas
+      too_short: per trumpas
+      it_does_not_contain_enough_different_characters: neturi pakankamai SKIRTINGŲ simbolių
+      all_whitespace: sudarytas tik iš tarpų
+      too_simplistic_systematic: per paprastas / sistemingas
+      it_looks_like_a_national_insurance_number: atrodo kaip asmens kodas
+      based_on_a_reversed_dictionary_word: pagrįstas (apverstu) žodyno žodžiu
+    show:
+      basic_settings: Pagrindiniai nustatymai
+      change_password: Keisti slaptažodį
+      strong_auth: Dviejų veiksnių autentifikavimas
+      aliases: Alternatyvieji vardai
+      previous_recipients: Ankstesni gavėjai
+      contacts: Kontaktai
+      personal_filedrop: Asmeninis Filedrop
+      api: API
+      filedrops: Filedrop
+    sms_disable:
+      disable_sms_otp: Išjungti SMS dviejų veiksnių autentifikavimą
+      disable_sms_otp_description: Jei norite išjungti SMS dviejų veiksnių autentifikavimą, spustelėkite žemiau esantį mygtuką. Užklausai patvirtinti bus išsiųstas SMS kodas.
+      verify_token_description: "Norėdami išjungti SMS dviejų veiksnių autentifikavimą, įveskite į jūsų mobilųjį telefoną išsiųstą kodą:"
+      code: Kodas
+      sms_token_failed: Netinkamas SMS kodas, nepavyko išjungti SMS dviejų veiksnių autentifikavimo
+      sms_otp_has_been_disabled: SMS dviejų veiksnių autentifikavimas išjungtas
+    sms_signup:
+      sms_signup_description: Galite padidinti paskyros saugumą įjungę dviejų veiksnių autentifikavimą. Norėdami jį įjungti, žemiau įveskite savo telefono numerį.
+      phone_number: Telefono numeris
+    sms_enable:
+      signup_complete: SMS dviejų veiksnių autentifikavimas įjungtas
+    terms_of_service:
+      show:
+        title: Naudojimo sąlygos
+        accept_terms_of_service: Sutikti su naudojimo sąlygomis
+        do_not_accept: Nesutikti
+      create:
+        you_need_to_accept: Turite sutikti su naudojimo sąlygomis!
+  activerecord:
+    attributes:
+      attachment:
+        filename: Failo pavadinimas
+        size: Dydis
+        secure_id: Priedo ID
+        content_type: Turinio tipas
+        created_at: Sukurta
+        updated_at: Atnaujinta
+      download:
+        recipient: Gavėjas
+        downloaded_at: Atsisiųsta
+        remote_ip: Nuotolinis IP
+        remote_host: Nuotolinis serveris
+        created_at: Sukurta
+        updated_at: Atnaujinta
+      filedrop:
+        name: Pavadinimas
+        title: Antraštė
+        description: Aprašas
+        blocked_extensions: Užblokuoti plėtiniai
+        permitted_extensions: Leidžiami failų tipai
+        expires_after: Galioja
+        max_filesize: Didžiausias failo dydis
+        created_at: Sukurta
+        updated_at: Atnaujinta
+        api_key: API raktas
+        cc: Kopija
+        authorization: Įgaliojimas
+      message:
+        recipients: Gavėjai
+        sender: Siuntėjas
+        cc: Kopija
+        bcc: Slapta kopija
+        message: Pranešimas
+        subject: Tema
+        deleted: Ištrinta
+        authorization: Įgaliojimas
+        created_at: Sukurta
+        updated_at: Atnaujinta
+        expires_at: Galioja iki
+      share/log:
+        created_at: Data
+      share/file:
+        checksum: Kontrolinė suma (SHA256)
+      share/file/version:
+        whodunnit: Pakeitė
+        created_at: Pakeista
+      user:
+        name: Vardas
+        email: El. pašto adresas
+        quota: Kvota
+        used: Panaudota
+        max: Maks.
+        password: Slaptažodis
+        ldap_authentication: LDAP autentifikavimas
+        api_key: API raktas
+        level: Lygis
+        filedrop: Filedrop
+    models:
+      configuration: Konfigūracija
+      attachment: Priedas
+      filedrop: Filedrop
+      message: Pranešimas
+      user: Naudotojas
+      download: Atsisiuntimas
+  admin:
+    groups:
+      form:
+        bcc_myself: Siųsti kopiją man
+        can_change_bcc_myself: Leisti šios grupės naudotojams keisti kopijos siuntimo sau nustatymą
+      index:
+        default_group_assignment: Numatytasis grupės priskyrimas
+    users:
+      users:
+        email: El. pašto adresas
+        name: Vardas
+        group: Grupė
+        max: Maks. failo dydis
+        quota: Kvota
+        strong_auth: Stiprus autentifikavimas
+        filedrop: Filedrop
+        last_login_at: Paskutinis prisijungimas
+        last_login_ip: Paskutinio prisijungimo IP
+        created: Sukurta
+      form:
+        name_label: Vardas
+        email: El. pašto adresas
+        password: Slaptažodis
+        password_confirmation: Patvirtinti slaptažodį
+        max_label: Didžiausias failo dydis
+        group: Grupė
+        strong_auth: Stiprus autentifikavimas
+        strong_auth_username: Stipraus autentifikavimo naudotojo vardas
+        api_key: API raktas
+        filedrop: Filedrop
+  attachments:
+    not_found: Priedas nerastas
+  config:
+    settings: Nustatymai
+    email: El. paštas
+    language_preferences_from_your_browser: Naršyklės kalbos nuostatos
+    authentication: Autentifikavimas
+    time_zone: Laiko juosta
+    current_time_zone: Dabartinė laiko juosta
+    time_zone_from_browser: Naršyklės nustatyta laiko juosta
+    time_zone_config_description: Jei laiko juostą paliksite nustatytą į „Nustatyta automatiškai“, bus naudojama naršyklės nustatyta laiko juosta (visi laikai bus rodomi šioje laiko juostoje). Jei naršyklė negali nustatyti laiko juostos, bus naudojama numatytoji sistemos laiko juosta. Jei naršyklė nustato neteisingą laiko juostą arba norite matyti laiką kitoje laiko juostoje, galite nustatyti konkrečią laiko juostą.
+    time_zone_default: Numatytoji sistemos laiko juosta
+    email_settings: El. pašto nustatymai
+    configuration: Konfigūracija
+    local_domains: Vietinis domenas
+    ldap_users: Per LDAP autentifikuoti naudotojai
+    ldap_users_are_always_local: Per LDAP autentifikuoti naudotojai visada yra vietiniai
+    separated_by_comma: atskirti kableliais
+    default_max_file_size: Numatytasis didžiausias failo dydis
+    local_users: Vietiniai naudotojai
+    external_users: Išoriniai naudotojai
+    allow_registration: Leisti registruotis
+    allow_registration_desc: Leisti registruotis prisijungimo puslapyje
+    external_user_account: Išoriniai gavėjai
+    external_user_account_desc: Išoriniai gavėjai turi susikurti paskyrą
+    allow_users_to_change_expiration: Leisti naudotojams keisti failų galiojimą
+    authorization: Leidimas
+    authorization_description: Numatytasis nustatymas, kas gali atsisiųsti failus.
+    file_expiration: Galiojimas
+    default_expire_files_after: Pagal numatytuosius nustatymus failai nustoja galioti po
+    delete_downloaded_files_after: Ištrinti atsisiųstus failus po
+    branding: Prekės ženklas
+    company_name: Įmonės pavadinimas
+    custom_stylesheet: Pasirinktinis stilių failas
+    custom_javascript: Pasirinktinis JavaScript
+    logotype: Logotipas
+    leave_blank_for_default: palikite tuščią numatytajai reikšmei
+    email_configuration: El. pašto konfigūracija
+    email_sender_address: Siuntėjo adresas
+    email_host: El. laiškų bazinis URL
+    email_footer: El. laiško poraštė
+    email_relay_host: El. pašto persiuntimo serveris
+    email_relay_username: El. pašto persiuntimo naudotojo vardas
+    email_relay_password: El. pašto persiuntimo slaptažodis
+    port: Prievadas
+    unlicensed_install_some_settings: "Nelicencijuotas diegimas: prekės ženklo nustatymai matomi tik sistemos administratoriams"
+    mail_relay_example: "Pvz.: mailrelay.domenas.lt, mx.domenas.lt:587"
+    ldap: LDAP
+    please_see_the: žr.
+    for_more_information: daugiau informacijos
+    virus_scan: Virusų tikrinimas
+    virus_scan_description: Tikrinti failus dėl virusų
+    blocked_file_extensions: Užblokuoti failų plėtiniai
+    default_bcc_myself_label: Siųsti kopiją man
+    default_bcc_myself: Pagal numatytuosius nustatymus siųsti kopiją man
+    allow_users_to_change_require_login_label: Reikalauti autentifikavimo
+    allow_users_to_change_require_login: Leisti naudotojams keisti nustatymą „Reikalauti autentifikavimo“
+    permitted_file_extensions_label: Leidžiami failų plėtiniai
+    delete: Ištrinti
+    ldap_description: "Įjunkite naudotojų LDAP autentifikavimą ir nustatykite pagrindinius ryšio su LDAP serveriu parametrus. Jei prievadas nenurodytas, bus naudojamas numatytasis LDAP prievadas 389 (arba 636, jei įjungtas SSL). Atkreipkite dėmesį: prievadas 3268 Active Directory NENAUDOJAMAS autentifikavimui, tik visuotinės adresų knygos paieškai. Vietoj jo naudokite prievadą 389/636."
+    ldap_authentication: LDAP autentifikavimas
+    basic_settings: Pagrindiniai nustatymai
+    server: Serverio pavadinimas / IP adresas
+    username: Naudotojo vardas
+    password: Slaptažodis
+    authentication_description: Šis naudotojas bus naudojamas jungiantis prie LDAP serverio (palikite tuščią anoniminiam susiejimui). Naudotojas turi turėti paieškos teises LDAP medyje.
+    search_key: Paieškos raktas
+    search_key_description: Paieškos raktas ir domenas naudojami naudotojams rasti LDAP medyje. Žemiau esančioje lentelėje parodyta, kaip paieškos raktas ir domenas kartu padeda rasti naudotoją.
+    search_key_description2: Taigi, jei LDAP paieškos rakte yra el. pašto adresas, domenas turi likti tuščias. Jei LDAP paieškos rakte yra tik naudotojo vardas, domene turi būti nurodytas naudotojų domenas.
+    search_key_defaults: "Active Directory atveju geras atspirties taškas yra: sAMAccountName kaip LDAP paieškos raktas ir imone.lt (jūsų domenas) kaip domenas."
+    user_enters: Naudotojas įveda
+    authorized_ldap_groups: Įgaliotos LDAP grupės
+    available_groups: Galimos grupės
+    default_settings: Numatytieji nustatymai
+    setting: Nustatymas
+    value: Reikšmė
+    description: Aprašas
+    default_local_max_description: Tai numatytasis didžiausias failo dydis naujiems vietiniams naudotojams. Jį galima keisti kiekvienam naudotojui atskirai.
+    user_changeable: Naudotojas gali keisti?
+    non_local: Nevietinis
+    remote: Nuotolinis
+    new_external_recipient_is_nonlocal: Nauji išoriniai gavėjai yra
+    email_message_on_top_label: Pranešimas viršuje
+    email_message_on_top: Pranešimas gavėjams siunčiamame el. laiške pateikiamas virš failų sąrašo
+    use_either_permitted_or_blocked_extensions: Turite pasirinkti leidžiamus arba užblokuotus plėtinius, bet ne abu
+    invalid_password: Netinkamas slaptažodis
+    valid_password: Tinkamas slaptažodis
+    test_password_validation: Tikrinti slaptažodžio patvirtinimą
+    custom_password_validation: Pasirinktinis slaptažodžio patvirtinimas
+    custom_password_validation_description: "Ši reguliarioji išraiška bus naudojama pasirinktiniam slaptažodžių patvirtinimui. Įveskite tik reguliariąją išraišką, be skirtukų (nepradėkite ir nebaikite simboliu '/'). Pavyzdys: [a-zA-Z0-9]{7,} (slaptažodžiuose galės būti tik a-z, A-Z ir 0-9, ne mažiau kaip 7 simboliai)"
+    filedrop: Filedrop
+    receive: Gauti
+    api_settings: API nustatymai
+    enable_api_label: Įjungti API
+    enable_api_description: Įjungti API, kad būtų galima prieiga per papildinius ir scenarijus
+    enable_api_group_config: Daugiau API nustatymų rasite grupių konfigūracijoje.
+    api_client_size_override_label: API klientų dydžio riba
+    api_client_size_override_description: API klientai didesnius nei šis dydis failus siųs per įrenginį
+    sso_secret_key: SSO slaptasis raktas
+    generate_key: Generuoti naują raktą
+    sso_replace_confirm: Ar tikrai? Pakeitus SSO slaptąjį raktą, esamos SSO integracijos nustos veikti.
+    virus_scan_skip_locals: Praleisti virusų tikrinimą vietiniams naudotojams
+    virus_scan_skip_locals_description: Netikrinti vietinių naudotojų failų dėl virusų
+    virus_scan_permit_unscanned: Leisti nepatikrintus failus
+    virus_scan_permit_unscanned_description: Leisti atsisiųsti failus, kurie dar nepatikrinti dėl virusų
+    userdrop: Naudotojo Filedrop
+    user_filedrop_with_random_key: Naudotojų Filedrop su atsitiktiniu raktu
+    enable_userdrop: Įjungti naudotojų Filedrop
+    example: Pavyzdys
+    user_filedrop_with_email: Naudotojų Filedrop su el. pašto adresais
+    enable_userdrop_email: Įjungti naudotojų Filedrop su el. pašto adresu
+    userdop_email_data_leakage: Tai galėtų būti panaudota vietiniams el. pašto adresams išsiaiškinti, bandant adresus Filedrop URL ir žiūrint, kurie grąžina tinkamą atsakymą.
+    userdrop_files_expire_after: Pateikti failai nustoja galioti po
+    userdrop_max_filesize: Naudotojo Filedrop didžiausias failo dydis
+    bruteforce_label: Apsauga nuo slaptažodžių spėjimo atakų
+    bruteforce_description_1: Blokuoti IP adresą
+    bruteforce_description_2: minutėms po
+    bruteforce_description_3: nesėkmingų prisijungimų / registracijų per
+    bruteforce_description_4: minučių
+    bruteforce_whitelist_label: Apsaugos nuo atakų baltasis sąrašas
+    allowed_admin_networks_label: Administravimo tinklai
+    allowed_admin_networks_description: Apriboti administratoriaus prieigą šiais serveriais ir tinklais. Localhost (127.0.0.1, ::1) visada leidžiamas
+    enable_strong_authentication: Pagal numatytuosius nustatymus įjungti stiprų autentifikavimą šių tipų naudotojams
+    authenticated_username: Autentifikuotas naudotojo vardas
+    duo_hostname: Duo serverio pavadinimas
+    duo_client_id: Duo integracijos raktas
+    duo_client_secret: Duo slaptasis raktas
+    strong_authentication_test: Tikrinti stiprų autentifikavimą
+    stronger_password: Pasirinkite stipresnį slaptažodį.
+    cannot_begin_or_end_with_blank: Slaptažodis negali prasidėti ar baigtis tarpu.
+    at_least_one_invalid_domain: Bent vienas netinkamas domenas
+    at_least_one_invalid_email: Bent vienas netinkamas el. pašto adresas
+    email_security_level: El. laiškų pristatymo saugumo lygis
+    geoip: GeoIP paieška
+    geoip_description: Atsisiunčia vietos duomenis iš https://geoip.liquidfiles.com ir rodo žemėlapius.
+    tooltip:
+      local_domains: Vietinis naudotojas gali siųsti failus bet kam. Nevietinis naudotojas gali siųsti failus tik vietiniams naudotojams. Pirmą kartą naudotojui prisijungus arba sukūrus paskyrą, el. pašto adreso domenas lyginamas su šiais domenais, kad būtų nustatyta, ar naudotojas laikomas vietiniu.
+      ldap_users_are_always_local: Bet kuris per LDAP autentifikuotas naudotojas automatiškai laikomas vietiniu, nepriklausomai nuo domeno.
+      allow_registration: Leidžia registruotis prisijungimo puslapyje. Pagal vietinių domenų sąrašą nustatoma, ar naujas naudotojas yra vietinis, ar nevietinis.
+      local_user_maxfile: Kai vietinis naudotojas užsiregistruoja arba pirmą kartą autentifikuojamas nuotoliniu būdu, jam nustatomas šis didžiausias failo dydis.
+      nonlocal_user_maxfile: Kai nevietinis naudotojas užsiregistruoja, jam nustatomas šis didžiausias failo dydis.
+      delete_downloaded_files_after: Atsisiųstas failas saugomas tiek laiko. Laikas turi būti pakankamai ilgas, kad gavėjas galėtų pasirinkti kitą atsisiuntimo vietą arba pradėti iš naujo, bet pakankamai trumpas, kad nuoroda nebūtų išplatinta kitiems.
+      file_expiration: Leidžia naudotojams keisti failų galiojimo laiką. Jei tai neįjungta, visiems failams nustatomas numatytasis galiojimo laikas.
+      default_expire_files_after: Failai nustos galioti po šio laiko.
+      blocked_file_extensions: Blokuoti failus su šiais plėtiniais (didžiosios ir mažosios raidės neskiriamos).
+      virus_scan: Tikrinti visus įkeltus failus ClamAV antivirusine programa
+      require_authentication_permission: Jei įjungta, naudotojai gali patys pasirinkti, ar reikalauti autentifikavimo
+      default_bcc_myself: Jei įjungta, pranešimai pagal numatytuosius nustatymus siunčiami ir pačiam naudotojui
+      permitted_file_extensions: "Jei laukas tuščias, leidžiami visi plėtiniai. Jei įvestas bent vienas plėtinys, leidžiami tik įvesti failų tipai. Pavyzdys: png, gif, jpg, txt"
+      new_external_recipient_is_nonlocal: Kai pranešimas siunčiamas naujam gavėjui, ar jis turi būti sukurtas kaip nevietinis naudotojas (kad galėtų atsakyti), ar kaip išorinis naudotojas?
+      email_message_on_top: Jei pažymėta, pranešimas gavėjams siunčiamame el. laiške pateikiamas virš failų sąrašo. Jei nepažymėta, failų sąrašas pateikiamas virš pranešimo.
+      email_sender: Šis el. pašto adresas bus naudojamas kaip sistemos generuojamų laiškų, pavyzdžiui, slaptažodžio atkūrimo, siuntėjas. Kad šie laiškai nebūtų pažymėti kaip šlamštas, tai turi būti tikras el. pašto adresas.
+      email_host: Priedai naudos šį URL kaip bazinį URL. Paprastai tai yra http://serveris.domenas arba https://serveris.domenas, bet gali būti ir https://serveris.domenas:4433, jei ugniasienėje naudojate prievadų peradresavimą naudotojams jungiantis prie LiquidFiles įrenginio.
+      email_footer: Šis parašas bus pridėtas prie visų siunčiamų el. laiškų.
+      email_relay: Naudoti šį pašto serverį siunčiamiems el. laiškams persiųsti.
+      email_relay_username: Paskyra, kuria jungiamasi prie el. pašto persiuntimo serverio
+      email_relay_password: Paskyros, kuria jungiamasi prie el. pašto persiuntimo serverio, slaptažodis
+  date:
+    formats:
+      default: "%Y-%m-%d"
+      short: "%m-%d"
+      medium: "%Y-%m-%d"
+      long: "%Y-%m-%d"
+  time:
+    am: priešpiet
+    pm: popiet
+    formats:
+      default: "%Y-%m-%d %H:%M:%S %z"
+      short: "%m-%d %H:%M"
+      medium: "%Y-%m-%d %H:%M"
+      long: "%Y-%m-%d %H:%M"
+  downloads:
+    download_id: Atsisiuntimo ID
+    index:
+      download_log_title: Atsisiuntimai
+      download_log_description: Kas, ką ir kada atsisiuntė
+      paginator_entry_name: atsisiuntimai
+    show:
+      no_map_for_reserved_address: Rezervuotiems adresams žemėlapio parodyti negalima
+  filedrop:
+    filedrop: Filedrop
+    no_such_filedrop: Tokio Filedrop nėra
+    invalid_filedrop_url: Netinkamas Filedrop URL
+    invalid_filedrop_url_description: Šiuo URL nėra jokio Filedrop. Patikrinkite URL ir bandykite dar kartą.
+    label: Filedrop
+    mb: MB
+    name: Pavadinimas
+    name_description: Trumpas pavadinimas, naudojamas ir URL (pvz., /filedrop/pavadinimas)
+    title: Antraštė
+    title_description: Antraštė puslapio viršuje
+    description: Aprašas
+    description_description: Aprašas po antrašte
+    user: Gaunantis naudotojas
+    user_description: Gavėju galima nustatyti bet kurį vietinį naudotoją
+    cc: Kopija
+    cc_description: "(atskirti kableliais) Siųsti kopiją šiais adresais"
+    expires_after: Galioja
+    expires_after_description: dienas
+    max_filesize: Didžiausias failo dydis
+    max_filesize_description: MB
+    reset_filedrop: Atkurti Filedrop URL
+    filedrop_reset_warning: Ar tikrai? Jei atkursite Filedrop URL, jį turėsite pakeisti visur, kur jį paskelbėte.
+    permitted_extensions: Leidžiami plėtiniai
+    permitted_extensions_description: Bus leidžiami tik šie failų tipai
+    blocked_extensions: Užblokuoti plėtiniai
+    blocked_extensions_description: Šie failų tipai bus blokuojami
+    demo_license_warning_standard: Filedrop naudojimui gamyboje reikia licencijos. Atnaujinkite į Pro licenciją, kad įjungtumėte Filedrop funkciją.
+    max_one_during_demo: Demonstracinės versijos metu arba su Standard licencija galite sukonfigūruoti ne daugiau kaip vieną Filedrop
+    filedrop_info: Filedrop leidžia jūsų klientams siųsti jums failus be autentifikavimo ar išankstinės sąrankos. Kiekvienas Filedrop turi nuolatinį URL, į kurį galima nukreipti iš tinklalapių arba el. pašto parašų. Kai kas nors įkelia failą į Filedrop, jis automatiškai išsiunčiamas iš anksto nustatytam naudotojui.
+    authorization: Leidimas
+    authorization_description: kas gali atsisiųsti į Filedrop įkeltus failus
+    you_will_be_notified: Gausite atsisiuntimo patvirtinimą, kai jūsų failai bus atsisiųsti.
+    require_authentication: Šiam Filedrop reikia autentifikavimo. Norėdami tęsti, įveskite slaptažodį.
+    authenticate: Autentifikuotis
+    authentication_failed: Autentifikavimas nepavyko
+    require_validation: Šiam Filedrop reikia autentifikavimo arba jūsų el. pašto adreso patvirtinimo.
+  filelink:
+    filelink: FileLink
+    filelinks: FileLink
+    filelink_title: FileLink
+    filelink_description: FileLink – tai nuoroda į vieną failą. Šią nuorodą galite išsiųsti bet kam, nekurdami pranešimo ir nenurodydami gavėjų. Failą atsisiųsti galės tik tie, kuriems išsiuntėte atsitiktinę nuorodą.
+    expired_or_nonexistent_title: Netinkama FileLink
+    expired_or_nonexistent: Šios FileLink galiojimas baigėsi arba ji neegzistuoja. Norėdami gauti naują nuorodą, susisiekite su siuntėju.
+    existing_filelinks: Esamos FileLink
+    new_filelink: Nauja FileLink
+    available_files: Galimi failai
+    filename: Failo pavadinimas
+    filesize: Failo dydis
+    expires_at: Galioja iki
+    link: Nuoroda
+    checksum: Kontrolinė suma
+    copy_link_to_clipboard: Kopijuoti FileLink į mainų sritį
+    expire_link_at: Nuoroda galioja iki
+    you_have_no_filelinks: Neturite FileLink. Pridėkite naują FileLink arba sukurkite ją iš galimo failo.
+    you_have_no_files_available: Neturite anksčiau išsiųstų failų. Kai išsiųsite bent vieną failą, galėsite jį čia pasirinkti ir sukurti FileLink.
+    create_link: Sukurti nuorodą
+    invalid_file: Netinkamas failas, negalima sukurti FileLink
+    delete: Ištrinti
+    delete_link_warning: Ar tikrai norite ištrinti šią FileLink?
+    could_not_delete_link: Nepavyko ištrinti FileLink. Nuoroda nerasta!
+    filelink_deleted: FileLink ištrinta!
+    select_file: Pasirinkti failą
+    send_download_receipts: Siųsti atsisiuntimo patvirtinimus
+    disabled: FileLink išjungtos, kreipkitės į administratorių
+    unauthorized: Neturite teisės naudoti FileLink
+    require_authentication: Reikalauti autentifikavimo
+    filelink_require_authentication: Šiai FileLink reikia autentifikavimo
+    filelink_url: FileLink URL
+    expired: Nebegalioja
+    filelink_expired: FileLink nebegalioja
+    select_from_available_files: FileLink taip pat galite sukurti iš bet kurio iš šių esamų failų.
+    downloads: Atsisiuntimai
+    authentication_failed: Autentifikavimas nepavyko
+    password_label_html: Slaptažodis <small class="text-muted">(neprivalomas)</small>
+    password_present_html: Šiai FileLink nustatytas slaptažodis.<br>Jį galite pašalinti išsaugoję tuščią slaptažodį.
+    password_not_present: Slaptažodis nenustatytas.
+    copy_to_clipboard: Kopijuoti FileLink į mainų sritį
+    add_file: Pridėti failą
+  ftpdrop:
+    create:
+      ftpdrop: FTPdrop
+  html_editor:
+    font:
+      bold: Paryškintasis
+      italic: Kursyvas
+      underline: Pabraukimas
+      clear: Pašalinti formatavimą
+      height: Eilučių aukštis
+      name: Šriftas
+      strikethrough: Perbraukimas
+      subscript: Apatinis indeksas
+      superscript: Viršutinis indeksas
+      size: Šrifto dydis
+    image:
+      image: Paveikslėlis
+      insert: Įterpti paveikslėlį
+      resize_full: Visas dydis
+      resize_half: Pusė dydžio
+      resize_quarter: Ketvirtis dydžio
+      float_left: Lygiuoti kairėje
+      float_right: Lygiuoti dešinėje
+      float_none: Be lygiavimo
+      shape_rounded: "Forma: suapvalinta"
+      shape_circle: "Forma: apskritimas"
+      shape_thumbnail: "Forma: miniatiūra"
+      shape_none: "Forma: nėra"
+      url: Paveikslėlio URL
+      remove: Pašalinti paveikslėlį
+    link:
+      link: Nuoroda
+      insert: Įterpti nuorodą
+      unlink: Pašalinti nuorodą
+      edit: Redaguoti
+      text_to_display: Rodomas tekstas
+      url: Į kokį URL turi vesti ši nuoroda?
+      open_in_new_window: Atidaryti naujame lange
+    table:
+      table: Lentelė
+    hr:
+      insert: Įterpti horizontalią liniją
+    style:
+      style: Stilius
+      normal: Įprastas
+      blockquote: Citata
+      pre: Kodas
+      h1: Antraštė 1
+      h2: Antraštė 2
+      h3: Antraštė 3
+      h4: Antraštė 4
+      h5: Antraštė 5
+      h6: Antraštė 6
+    lists:
+      unordered: Sąrašas su ženkleliais
+      ordered: Numeruotas sąrašas
+    options:
+      help: Pagalba
+      fullscreen: Visas ekranas
+      codeview: Kodo rodinys
+    paragraph:
+      paragraph: Pastraipa
+      outdent: Mažinti įtrauką
+      indent: Didinti įtrauką
+      left: Lygiuoti kairėje
+      center: Centruoti
+      right: Lygiuoti dešinėje
+      justify: Lygiuoti abiejose pusėse
+    color:
+      recent: Paskutinė spalva
+      more: Daugiau spalvų
+      background: Fono spalva
+      foreground: Teksto spalva
+      transparent: Permatoma
+      set_transparent: Padaryti permatomą
+      reset: Atkurti
+      reset_to_default: Atkurti numatytuosius
+    shortcut:
+      shortcuts: Spartieji klavišai
+      close: Uždaryti
+      text_formatting: Teksto formatavimas
+      action: Veiksmas
+      paragraph_formatting: Pastraipos formatavimas
+      document_style: Dokumento stilius
+      extra_keys: Papildomi klavišai
+    history:
+      undo: Anuliuoti
+      redo: Grąžinti
+  invite:
+    invite_user: Pakviesti naudotoją
+    description: Galite pakviesti naudotojus dalytis su jumis failais. Įvedus jų duomenis, jie gaus el. laišką su instrukcijomis, kaip užbaigti registraciją.
+    send_invite: Siųsti kvietimą
+    name_placeholder: Vardas ir pavardė
+    invitation_sent: Kvietimas išsiųstas
+    not_permitted_to_invite_users: Neturite teisės kviesti naudotojų.
+    invalid_email: Netinkamas el. pašto adresas
+  link:
+    show:
+      set_password: Nustatyti slaptažodį
+      download: Atsisiųsti
+      downloads_and_info: Visi atsisiuntimai ir daugiau informacijos
+    authenticate:
+      show:
+        title: FileLink slaptažodis
+        authenticate: Autentifikuotis
+        require_authentication: Norėdami atidaryti šią FileLink, turite įvesti reikiamą slaptažodį.
+      create:
+        authentication_failed: Autentifikavimas nepavyko.
+    downloads:
+      index:
+        back_to_filelink: Atgal į FileLink
+    link_downloads:
+      latest_downloads: Paskutiniai atsisiuntimai (%{count} iš %{total})
+  menu:
+    shares: Share
+    messages: Pranešimai
+    send_files: Rašyti
+    users: Naudotojai
+    active_transfers: Aktyvūs perdavimai
+    configuration: Konfigūracija
+    system: Sistema
+    message_list: Pranešimų sąrašas
+    settings: Nustatymai
+    admin: Administravimas
+    account: Paskyra
+    inbox: Gautieji
+    sent_messages: Išsiųsti
+    downloads: Atsisiuntimų žurnalas
+    filelink: FileLink
+    secure_messages: Saugūs pranešimai
+    support: Pagalba
+  message:
+    message_sent: Pranešimas išsiųstas
+    not_found: Pranešimas nerastas
+    message_not_found_header: Pranešimas nerastas!
+    message_not_found_description: Paprašykite siuntėjo išsiųsti šį pranešimą dar kartą.
+    previous_recipients: Ankstesni gavėjai
+    contacts: Kontaktai
+    is_not_permitted: neleidžiamas
+    not_permitted_to_delete_messages: Neturite teisės trinti pranešimų
+    is_not_in_any_of_the_allowed_domains: nepriklauso nė vienam leidžiamam domenui
+    is_not_in_any_of_the_allowed_groups: nepriklauso nė vienai leidžiamai grupei
+    attach_1_file: Turite pridėti bent vieną failą
+    too_many_files: Pridėta per daug failų. Prie vieno pranešimo galite pridėti ne daugiau kaip %{count} failų.
+    attached_files: Pridėti failai
+    expired: Pranešimo galiojimas baigėsi
+    authorize:
+      show:
+        title: Prisijunkite, kad atidarytumėte saugų pranešimą
+        authenticate_description_html: Ketinate peržiūrėti saugų pranešimą. Pirmiausia turite prisijungti. Norėdami tęsti, įveskite el. pašto adresą arba prisijunkite.<br>Jei šioje sistemoje neturite paskyros, įveskite el. pašto adresą ir mes atsiųsime saugią nuorodą adresui patvirtinti.
+        unauthenticated_html: <h4>Neteisingas naudotojo vardas arba slaptažodis</h4><p>Įveskite naudotojo vardą ir slaptažodį. Slaptažodį galite atkurti žemiau esančiu mygtuku Slaptažodžio atkūrimas.</p>
+        unauthorized_to_view_check_email_html: <h4>Neįgaliotas el. pašto adresas</h4><p>Patikrinkite, ar saugus pranešimas [<span class="font-monospace fw-bold">%{message_id}</span>] buvo išsiųstas jums, ir įveskite el. pašto adresą tiksliai taip, kaip pranešimas buvo išsiųstas.</p><p>Pavyzdžiui, jei jūsų el. pašto adresas gali būti ir jonas.jonaitis@imone.lt, ir jjonaitis@imone.lt, sistema negali žinoti, kad tai tas pats adresas. Jei saugus pranešimas buvo išsiųstas adresu jonas.jonaitis@imone.lt, čia turite įvesti būtent šį adresą.</p><p>Jei abejojate, susisiekite su saugaus pranešimo siuntėju.</p>
+    errors:
+      not_authorized_to_view_message: "Neturite teisės peržiūrėti pranešimo, kurio ID: %{message_id}. Patikrinkite, ar šis pranešimas buvo išsiųstas jums."
+      private_message_requires_authentication: Privatiems pranešimams reikia autentifikavimo
+    attachments:
+      download_attachment_details_csv: Atsisiųsti priedų informaciją (CSV)
+      attachment:
+        fileinfo: Failo informacija
+        file_size: Failo dydis
+        content_type: Turinio tipas
+        checksum: Kontrolinė suma
+        virus_status: Virusų būsena
+    compose:
+      options_permission:
+        authentication_required: Reikia autentifikavimo
+        authentication_not_required: Autentifikavimo nereikia
+        require_authentication_description: Ar gavėjai turi autentifikuotis, kad galėtų atidaryti šį pranešimą?
+        access_restriction_html: Prieigos apribojimas<br><small class="text-muted">Kas gali atidaryti šį pranešimą?</small>
+        recipients_only_html: Tik<br>gavėjai
+        recipients_plus_locals_html: Gavėjai<br>+ vietiniai naudotojai
+        recipients_plus_domains_html: Gavėjai<br>+ domenai
+        anyone_secret_link_html: Bet kas<br>(slapta nuoroda)
+    unavailable:
+      header: Pranešimas nepasiekiamas
+      description: Šio pranešimo galiojimas baigėsi, jis ištrintas, neegzistuoja arba nebėra pasiekiamas. Paprašykite siuntėjo išsiųsti pranešimą dar kartą.
+    downloads:
+      index:
+        download_log_title: Atsisiuntimų žurnalas
+        message_id: Pranešimo ID
+        paginator_entry_name: Atsisiuntimai
+      download:
+        details: Išsami informacija
+      not_found:
+        title: Pranešimas arba atsisiuntimas nerastas
+        description_html: Pranešimas arba atsisiuntimas nerastas, arba neturite teisės jo peržiūrėti
+    temporary_user:
+      create:
+        invalid_temporary_user: Netinkamas slaptažodis. Patikrinkite el. laišką su laikinuoju slaptažodžiu arba paprašykite naujo laikinojo slaptažodžio.
+        temporary_user_expired: Šio laikinojo slaptažodžio galiojimas baigėsi. Naujas laikinasis slaptažodis išsiųstas jūsų el. pašto adresu. Patikrinkite gautuosius ir naudokite naująjį laikinąjį slaptažodį.
+        not_authorized_to_view_message: "Neturite teisės peržiūrėti pranešimo, kurio ID: %{message_id}. Patikrinkite, ar šis pranešimas buvo išsiųstas jums."
+      show:
+        title: Įveskite laikinąjį slaptažodį
+        description_html: "Ketinate peržiūrėti saugų pranešimą. Norėdami jį atidaryti, turite įvesti laikinąjį slaptažodį.<br>Laikinasis slaptažodis – tai unikali atsitiktinė simbolių eilutė, kuri jus identifikuoja. Laikinasis slaptažodis jums buvo išsiųstas atskiru el. laišku (tema: Laikinasis slaptažodis)."
+        what_is_this: Kas tai?
+        login: Prisijungti
+        submit: Tikrinti laikinąjį slaptažodį
+        submit_email: Pateikti
+        if_you_have_account: "(jei jau turite paskyrą)"
+        request_temporary_user_header: Prašyti naujo laikinojo slaptažodžio
+        request_temporary_user_description_html: Galite paprašyti naujo laikinojo slaptažodžio šiam pranešimui atidaryti. Žemiau įveskite el. pašto adresą, kad paprašytumėte naujo laikinojo slaptažodžio šiam saugiam pranešimui.
+        info_header: Informacija apie laikinąjį slaptažodį
+        info_body_html: "<p>Laikinasis slaptažodis – tai unikali skaitmenų ir raidžių seka, pavyzdžiui:</p><pre><code>3ynp-7FKa-pZS9</code></pre><p><em>Šis laikinasis slaptažodis yra tik pavyzdys, kad matytumėte, kaip jis atrodo, – jo naudoti negalima.</em></p><p>Gautuosiuose rasite <strong>du el. laiškus</strong>: laišką su saugiu pranešimu ir laišką, kurio <strong>tema prasideda žodžiais: Laikinasis slaptažodis</strong>. Pastarajame yra jūsų unikalus laikinasis slaptažodis šiai sistemai.</p><p>Jei negavote el. laiško su laikinuoju slaptažodžiu, galbūt šioje sistemoje jau turite paskyrą. Tokiu atveju spustelėkite „Prisijungti“.</p><p>Jei manote, kad turėjote gauti laikinąjį slaptažodį, bet jo negavote, spustelėkite „Prašyti laikinojo slaptažodžio“, kad gautumėte naują.</p>"
+        email_address: El. pašto adresas
+        email_not_permitted: Šis el. pašto adresas neturi teisės peržiūrėti šio saugaus pranešimo.
+        email_not_permitted_description_html: <p>Patikrinkite gautą saugaus pranešimo el. laišką ir įveskite el. pašto adresą tiksliai taip, kaip pranešimas buvo išsiųstas.</p><p>Pavyzdžiui, jei jūsų el. pašto adresas gali būti ir jonas.jonaitis@imone.lt, ir jjonaitis@imone.lt, sistema negali žinoti, kad tai tas pats adresas. Jei saugus pranešimas buvo išsiųstas adresu jonas.jonaitis@imone.lt, čia turite įvesti būtent šį adresą.</p><p>Jei abejojate, susisiekite su saugaus pranešimo siuntėju.</p>
+        email_can_login: Šioje sistemoje jau turite paskyrą
+        email_can_login_description_html: <p>Į šią sistemą galite prisijungti šiuo el. pašto adresu ir savo slaptažodžiu.</p><p>Spustelėkite žemiau esantį mygtuką Prisijungti, kad prisijungtumėte esama paskyra.</p>
+        temporary_user_delivered_header: Laikinasis slaptažodis išsiųstas
+        temporary_user_delivered_description_html: <p>Laikinasis slaptažodis išsiųstas jūsų el. pašto adresu. Patikrinkite gautuosius, uždarykite šį langą ir įveskite laikinąjį slaptažodį.</p>
+    reply:
+      re: "Re:"
+      wrote: rašė
+      show:
+        title: Atsakyti į saugų pranešimą
+        from: Nuo
+        reply: Atsakyti
+        reply_all: Atsakyti visiems
+      options:
+        options_description: Atkreipkite dėmesį, kad visos parinktys perimamos iš pradinio pranešimo.
+    show:
+      back: Atgal
+      message_header: Pranešimo antraštė
+      reply: Atsakyti
+  messages:
+    sent:
+      skipped_file_not_found: Praleista - failas nerastas
+      show:
+        sent_title: Išsiųsti
+        sent_description: Jūsų išsiųsti pranešimai
+        paginator_entry_name: pranešimai
+    attachments:
+      download_cmd:
+        unauthorized:
+          header: Neturite teisių
+          body: Neturite teisės atsisiųsti šio failo. Paprašykite siuntėjo išsiųsti failą dar kartą.
+          back: Grįžti
+        exceeded:
+          header: Viršytas atsisiuntimų limitas
+          body: Šio failo atsisiuntimų limitas viršytas. Paprašykite siuntėjo išsiųsti failą dar kartą.
+          back: Grįžti
+    download_zip:
+      unauthorized:
+        header: Neturite teisių
+        body: Neturite teisės atsisiųsti šio archyvo. Paprašykite siuntėjo išsiųsti failą dar kartą.
+        back: Grįžti
+      exceeded:
+        header: Viršytas atsisiuntimų limitas
+        body: Vieno ar kelių šio archyvo failų atsisiuntimų limitas viršytas. Paprašykite siuntėjo išsiųsti failą dar kartą.
+        back: Grįžti
+    message:
+      reply: Atsakyti
+      reply_all: Atsakyti visiems
+  models:
+    user:
+      no_need_to_create_local_user: Vietinio naudotojo kurti nereikia
+      license_exceeded: Viršyta licencijos riba
+  notifier:
+    activate_user_subject: "[%{hostname}] Aktyvinti paskyrą"
+    user_activation: Naudotojo aktyvinimas
+    please_visit_the_following_url_to_activate: Norėdami aktyvinti paskyrą, spustelėkite šią nuorodą
+    the_following_files_are_attached: Prie šio pranešimo pridėti šie failai
+    please_visit_the_following_url: Norėdami atsisiųsti priedus, spustelėkite šią nuorodą
+    attachments_are_available: Priedai pasiekiami iki
+    message_id: "Pranešimo ID: %{id}"
+    email_password_reset_subject: Slaptažodžio atkūrimas
+    download_receipt_subject: "Atsisiuntimo patvirtinimas [ID: %{message_id}]"
+    a_file_that_you_sent: Jūsų išsiųstas failas buvo atsisiųstas. Išsaugokite šį laišką kaip atsisiuntimo įrodymą.
+    recipient: Gavėjas
+    filename: Failo pavadinimas
+    time_of_download: Atsisiuntimo laikas
+    downloaded_from: Atsisiųsta iš
+    download_receipt: Atsisiuntimo patvirtinimas
+    user_created:
+      account_created: Paskyra sukurta
+      subject: "[%{hostname}] Paskyra sukurta"
+      message: "Jūsų laukia saugus priedas. Norėdami jį atsisiųsti, turite autentifikuotis. Norėdami užsiregistruoti, spustelėkite šią nuorodą:"
+  outlook:
+    messages:
+      new:
+        attachments_header: Priedai
+        attachments_hint: Failus galite pridėti nuvilkdami juos į žemiau esančią sritį arba spustelėdami mygtuką Pridėti failus.
+        add_to_message: Pridėti prie pranešimo
+      attachments:
+        attach_files: Pridėti failus
+        drop_files_here: Nuvilkite failus čia...
+      options:
+        recipients_can_reply: Gavėjai gali atsakyti
+        send_copy_to_myself: Siųsti kopiją man
+        private_message: Privatus pranešimas
+        private_message_required_auth_error: Siunčiant privatų pranešimą reikia naudoti režimą „Reikia autentifikavimo“.
+      options_authorization:
+        authentication_authorization_title_html: Autentifikavimas &amp; įgaliojimas
+        authentication_select_title: Pasirinkti autentifikavimą
+        authentication_required: Reikia autentifikavimo
+        authentication_not_required: Autentifikavimo nereikia
+        authorization_select_title: Pasirinkti įgaliojimą
+        recipients_only: Tik gavėjai
+        recipients_locals: Gavėjai + vietiniai naudotojai
+        recipients_domains: Gavėjai + domenai
+        anyone: Bet kas (slapta nuoroda)
+      options_expiration:
+        message_expires: Pranešimas galioja iki
+        message_expires_after: Pranešimas galioja
+  pagination:
+    first: "&laquo; Pirmas"
+    last: Paskutinis &raquo;
+    previous: "&lsaquo; Ankstesnis"
+    next: Kitas &rsaquo;
+    truncate: "&hellip;"
+  requests:
+    title: Failų užklausa
+    file_request: Failų užklausa
+    files_sent: Failai išsiųsti, ačiū!
+    request_file: Prašyti failo
+    file_requests: Failų užklausos
+    description: Failų užklausa leidžia paprašyti ko nors atsiųsti jums failus. Įvedus duomenis, asmuo gaus el. laišką su unikalia nuoroda, per kurią galės atsiųsti jums prašomus failus.
+    file_request_not_found: Failų užklausa nerasta
+    file_request_expired: Failų užklausos galiojimas baigėsi
+    file_request_already_used: Failų užklausa jau panaudota
+    file_request_sent: Failų užklausa išsiųsta
+    not_permited: Neturite teisės naudoti failų užklausos funkcijos
+    multiuse: Daugkartinis naudojimas - šią failų užklausos nuorodą galima naudoti kelis kartus
+    invalid_recipient: Netinkamas gavėjas, ši failų užklausa buvo išsiųsta kitam asmeniui
+    invalid_user: Tai ne jūsų failų užklausa
+    index:
+      title: Failų užklausos
+      new_file_request: Nauja failų užklausa
+      multiuse: Daugkartinis naudojimas
+      responded_to: Atsakyta
+      hide_expired: Slėpti nebegaliojančias ir panaudotas
+      show_expired: Rodyti nebegaliojančias ir panaudotas
+    request:
+      resend: Siųsti dar kartą
+      are_you_sure_you_want_to_delete: Ar tikrai norite ištrinti šią failų užklausą?
+    popup:
+      from: Nuo
+      to: Kam
+      subject: Tema
+      message: Pranešimas
+    resend:
+      request_resent: Failų užklausa išsiųsta dar kartą
+    new:
+      request_expires: Užklausa galioja iki
+  send:
+    send: Siųsti
+    sent: Išsiųsta
+    recipients: Kam
+    send_as: Siųsti kaip
+    you_can_only_send_files_to_yourself: Failus galite siųsti tik sau
+    subject: Tema
+    subject_placeholder: Tema
+    attachments: Priedai
+    max_file_size: "Didžiausias priedų dydis: %{filesize} MB"
+    upload_queue: Įkėlimo eilė
+    remove: Pašalinti
+    cancel_all: Atšaukti viską
+    cancel_all_uploads: Atšaukti visus įkėlimus
+    message: Pranešimas
+    message_placeholder: Pranešimas
+    done_editing_please_send: Baigiau redaguoti, siųskite failus, kai bus baigti visi įkėlimai
+    files_sent_successfully: Failai sėkmingai išsiųsti
+    you_need_at_least_one_recipient: Reikia bent vieno gavėjo
+    you_need_at_least_one_attachment: Reikia bent vieno priedo
+    options: Parinktys
+    cc: Kopija
+    bcc: Slapta kopija
+    bcc_message_description: Slaptos kopijos gavėjai nebus rodomi kitiems gavėjams
+    add_cc: pridėti kopiją
+    add_bcc: pridėti slaptą kopiją
+    bcc_myself: Siųsti kopiją man
+    require_login: Reikalauti prisijungimo failams atsisiųsti
+    only_specified_recipients_can_download: Priedus gali atsisiųsti tik nurodyti gavėjai
+    anyone_can_download: Priedus gali atsisiųsti bet kas
+    expires_in: Priedus galima atsisiųsti
+    expires_at: Priedai galioja iki
+    send_options: Siuntimo parinktys
+    to: Kam
+    from: Nuo
+    filename: Failo pavadinimas
+    filesize: Failo dydis
+    downloaded_at: Atsisiųsta
+    message_sent: Pranešimas išsiųstas
+    message_expires: Pranešimas galioja iki
+    message_expires_after: Pranešimas galioja
+    message_expires_after_description: Skaičiuojama kiekvienam failui atskirai. Jei išsiųsite 2 failus, kurie nustoja galioti po 1 atsisiuntimo, kiekvienas gavėjas galės atsisiųsti kiekvieną failą vieną kartą.
+    downloads_per_recipient: Atsisiuntimai vienam gavėjui
+    total_downloads: Iš viso atsisiuntimų
+    file_not_downloaded: Nė vienas priedas neatsisiųstas
+    at_least_one_invalid_extension: Bent vienas priedas turi netinkamą plėtinį
+    invalid_filetype: Netinkamas plėtinys
+    blocked_extension: "Netinkamas plėtinys. Negalite įkelti failų su šiais plėtiniais: %{extensions}"
+    permitted_extensions: "Leidžiami plėtiniai: %{filetypes}"
+    already_selected: Šis failas jau pasirinktas
+    maximum_filesize_exceeded: Viršytas didžiausias failo dydis
+    contains_virus: "%{filename} yra VIRUSAS: %{virus}"
+    limited_by_browser: Ribojama naršyklės
+    limited_by_disk: Ribojama disko vietos
+    limited_by_system_quota: Ribojama sistemos kvotos
+    limited_by_group_quota: Ribojama grupės kvotos
+    limited_by_quota: Ribojama kvotos
+    limited_per_message: Riba vienam pranešimui
+    system_quota_exceeded: Viršyta sistemos kvota
+    group_quota_exceeded: Viršyta grupės kvota
+    quota_exceeded: Viršyta kvota
+    no_available_quota: Viršyta kvota, norėdami tęsti, ištrinkite kelis failus
+    not_authorized_to_send: Neturite teisės siųsti adresu %{email}
+    public_url: Viešas URL
+    message_url: Pranešimo URL
+    authorization: Įgaliojimas
+    insufficient_disk_space: Nepakanka vietos diske
+    active_transfers: Aktyvūs perdavimai
+    view_log: Peržiūrėti žurnalą
+    previously_sent_attachments: Anksčiau išsiųsti priedai
+    has_not_downloaded: "%{recipient} neatsisiuntė nė vieno failo"
+    authentication: Autentifikavimas
+    required: Privalomas
+    disabled: Išjungtas
+    require_authentication_tooltip_html: <li>Gavėjas turi prisijungti naudotojo vardu ir slaptažodžiu, kad atsisiųstų failą.</li> <li>Gausite patvirtinimą, kai failas bus atsisiųstas.</li>
+    dont_require_authentication_tooltip_html: <li>Gavėjo nebus prašoma prisijungti, kad atsisiųstų failą.</li> <li>Gausite patvirtinimą, kai failas bus atsisiųstas, bet ne tai, kas jį atsisiuntė (mes to nežinome).</li> <li>Patvirtinimą gausite tik tada, kai failą atsisiųs pirmasis gavėjas.</li>
+    authenticate_link_description: Prieš atidarydami šią FileLink, turite prisijungti.
+    unauthorized: Neturite teisės peržiūrėti šio pranešimo.
+    unauthenticated: Neteisingas slaptažodis
+    incorrect_login_or_demo: Neteisingas slaptažodis arba pasiekta licencijos riba
+    email_authorization_message: Ačiū. Kad patvirtintume, jog tai jūsų el. pašto adresas, išsiuntėme el. laišką su patvirtinimo kodu. Įveskite patvirtinimo kodą žemiau arba spustelėkite nuorodą laiške, kad pereitumėte prie pranešimo.
+    email_authorization_link: Ačiū. Kad patvirtintume, jog tai jūsų el. pašto adresas, išsiuntėme el. laišką su patvirtinimo kodu. Įveskite laiške gautą patvirtinimo kodą žemiau arba spustelėkite nuorodą laiške, kad pereitumėte prie FileLink.
+    email_authorization_message_create_account: Ačiū. Kadangi šioje sistemoje neturite paskyros, išsiuntėme el. laišką su patvirtinimo kodu, kad patvirtintume, jog tai jūsų el. pašto adresas. Įveskite patvirtinimo kodą žemiau arba spustelėkite nuorodą laiške, kad patvirtintumėte adresą. Tada būsite paprašyti sukurti paskyrą ir nukreipti prie pranešimo.
+    email_authorization_link_create_account: Ačiū. Kadangi šioje sistemoje neturite paskyros, išsiuntėme el. laišką su patvirtinimo kodu, kad patvirtintume, jog tai jūsų el. pašto adresas. Įveskite laiške gautą patvirtinimo kodą žemiau arba spustelėkite nuorodą laiške, kad patvirtintumėte adresą. Tada būsite paprašyti sukurti paskyrą ir nukreipti prie FileLink.
+    authorize: Įgalioti
+    authenticate: Prisijungti
+    sending: Siunčiama...
+    abort_transfer: Nutraukti perdavimą
+    files_to_big: Failas (-ai) per didelis (-i)
+    only_specified_recipients: Prieigą turi tik nurodyti gavėjai
+    only_specified_recipients_and_local_users: Prieigą turi tik nurodyti gavėjai ir vietiniai naudotojai
+    only_specified_recipients_and_domains: Prieigą turi tik nurodyti gavėjai ir jų domeno naudotojai
+    anyone_after_authentication: Prieigą turi bet kas (turintis atsitiktinę nuorodą)
+    no_recipient_validation: Be gavėjų tikrinimo
+    anyone_can_access: Prieigą turi bet kas
+    anyone: Bet kas
+    no_authentication: Be autentifikavimo
+    can_download: gali atsisiųsti
+    not_yet_scanned: tikrinamas dėl virusų, bandykite dar kartą po kurio laiko. Eilėje %{queue}
+    was_infected: "buvo užkrėstas virusu %{virus} ir ištrintas"
+    deleted_or_expired: Ištrinta arba nebegalioja
+    im_done_editing: Siųsti automatiškai, kai bus baigti dabartiniai įkėlimai
+    download_all: Atsisiųsti viską
+    zipped_archive: ZIP archyvas
+    message_id: Pranešimo ID
+    overall_progress: Bendra eiga
+    abort: Nutraukti
+    limitations: Apribojimai
+    max_size: Didžiausias dydis
+    add_files: Pridėti failus...
+    add_folder: Pridėti aplanką...
+    no_attachment_added: Priedas nepridėtas
+    you_need_to_add_at_least_one_file: Turite pridėti bent vieną failą.
+    private_message_or_attached_files: Turite įjungti Privatų pranešimą arba pridėti bent vieną failą.
+    no_runtime_found: Vykdymo aplinka nerasta, failų išsiųsti negalima
+    runtime_check_title: Vykdymo aplinka nerasta
+    selected: pasirinkta
+    file_size_error: Failo dydžio klaida
+    remaining: liko
+    attached_files: Pridėti failai
+    show_message: Rodyti pranešimą
+    can_be_max: gali būti ne daugiau kaip %{days} d. į ateitį
+    not_ready: Dar neparengta atsisiųsti
+    download_info: Atsisiuntimo informacija
+    browser: Naršyklė
+    platform: Platforma
+    operating_system: Operacinė sistema
+    location: Vieta
+    download_details: Atsisiuntimo informacija
+    download_information_not_found: Atsisiuntimo informacija nerasta.
+    add: Pridėti
+    select_existing_files: Pasirinkti esamus failus
+    add_existing_files: Pridėti esamus failus
+    add_existing_description: Šie failai jau buvo išsiųsti ir galite juos išsiųsti dar kartą.
+    zip_disabled: ZIP išjungtas
+    zip_disabled_description_exceeded: Bent vieno priedo didžiausias atsisiuntimų skaičius viršytas.
+    spinner_info_html: <strong>Jūsų pranešimas paruoštas siųsti</strong>. Kai kurie failai dar apdorojami fone, bet jums nereikia laukti. <strong>Kai būsite pasiruošę, spustelėkite Siųsti!</strong>
+    sent_to_you: Išsiųsta jums
+    excluding_admins: Išskyrus administratorius
+    downloads: Atsisiuntimai
+    download_log: Atsisiuntimų žurnalas
+    delete_attachments: Ištrinti priedus
+    delete_message: Ištrinti pranešimą
+    delete_attachments_warning: Ar tikrai norite ištrinti priedus?
+    delete_message_warning: Ištrynus pranešimą, bus ištrinti ir pridėti failai bei atsisiuntimų žurnalas. Ar tikrai norite ištrinti pranešimą?
+    invalid_message: Netinkamas pranešimas
+    message_deleted: Pranešimas ištrintas
+    attachments_deleted: Priedai ištrinti
+    checksum: Kontrolinė suma (SHA256)
+    not_permitted_to_send_messages: Neturite teisės siųsti pranešimų.
+    invalid_group_belonging: Siųsti neleidžiama (netinkama grupė). Esate užregistruotas kaip išorinis naudotojas, bet jūsų el. pašto adresas priklauso domenui %{domain}, kuris taip pat yra ribotų gavėjų domenų sąraše. Išoriniams naudotojams tai neleidžiama. Norėdami tęsti, paprašykite sistemos administratoriaus perkelti jus į kitą grupę.
+    expires_after_exceeded: Viršytas atsisiuntimų skaičius
+    expires_after_exceeded_for_zip: Viršytas atsisiuntimų skaičius bent vienam ZIP archyvo failui
+    permission_description_title: Prieigos apribojimai
+    permission_description_only_specified_html: <ul> <li>Pranešimą atidaryti ir failus atsisiųsti gali tik nurodyti gavėjai.</li> <li>El. laiško ar URL persiųsti niekam neleidžiama.</li> <li>Gavėjai turi prisijungti, kad atidarytų pranešimą ir atsisiųstų failus.</li> <li>Kiekvieną kartą naudotojui atsisiuntus failą, išsiunčiamas atsisiuntimo patvirtinimas su išsamia informacija.</li> </ul>
+    permission_description_only_specified_and_local_html: <ul> <li>Failus atsisiųsti gali tik nurodyti gavėjai ir vietiniai naudotojai.</li> <li>El. laišką ar URL galima persiųsti tik vietiniams naudotojams.</li> <li>Gavėjai turi prisijungti, kad atsisiųstų failus.</li> <li>Kiekvieną kartą naudotojui atsisiuntus failą, išsiunčiamas atsisiuntimo patvirtinimas su išsamia informacija.</li> </ul>
+    permission_description_only_specified_and_domains_html: <ul> <li>Prieigą turi tik nurodyti gavėjai ir to paties el. pašto domeno naudotojai.</li> <li>Jei siunčiate adresu vadovas@partneris.lt, pranešimą atidaryti gali ir sekretore@partneris.lt, bet ne smalsuolis@konkurentas.lt.</li> <li>Gavėjai turi prisijungti, kad atsisiųstų failus.</li> <li>Kiekvieną kartą naudotojui atsisiuntus failą, išsiunčiamas atsisiuntimo patvirtinimas su išsamia informacija.</li> </ul>
+    permission_description_anyone_after_authentication_html: <ul> <li>Failus atsisiųsti gali bet kas, turintis slaptą atsitiktinį URL.</li> <li>El. laišką ar URL galima persiųsti bet kam.</li> <li>Gavėjai turi prisijungti, kad atsisiųstų failus.</li> <li>Kiekvieną kartą naudotojui atsisiuntus failą, išsiunčiamas atsisiuntimo patvirtinimas su išsamia informacija.</li> </ul>
+    permission_description_anyone_html: <ul> <li>Failus atsisiųsti gali bet kas, turintis slaptą atsitiktinį URL.</li> <li>El. laišką ar URL galima persiųsti bet kam.</li> <li>Failams atsisiųsti prisijungti <strong>nereikia</strong>.</li> <li>Kai kas nors pirmą kartą atsisiunčia failus, išsiunčiamas <strong>paprastas</strong> atsisiuntimo patvirtinimas (norint žinoti, kas ką atsisiuntė, reikia autentifikavimo).</li> </ul>
+    your_message_has_been_sent: Jūsų pranešimas išsiųstas
+    you_can_send_to_anyone: "(Šią nuorodą galite išsiųsti bet kam)"
+    send_more_files: Siųsti daugiau failų
+    download_speed: Atsisiuntimo greitis
+    download_time: Atsisiuntimo laikas
+    at_least_one_invalid_email: Bent vienas netinkamas el. pašto adresas
+    reply: Gavėjas gali atsakyti
+    private_message: Privatus pranešimas
+    private_message_description_html: Siunčiant privatų pranešimą, pranešimo tekstas gavėjui el. laišku nesiunčiamas – jis matomas tik tada, kai gavėjas spustelėja nuorodą laiške ir autentifikuojasi. <ul> <li>Privatų pranešimą galite siųsti be priedų.</li> <li>Gausite prieigos patvirtinimą, kai kas nors peržiūrės jūsų pranešimą.</li> <li>Negalite siųsti privataus pranešimo su atsisiuntimo leidimu „Bet kas gali atsisiųsti“.</li> </ul>
+    private_message_delivered_description: Pranešimas išsiųstas kaip privatus pranešimas. Pranešimo tekstas į el. laišką neįtrauktas, o jūs gausite prieigos patvirtinimą, kai kiekvienas gavėjas peržiūrės pranešimą.
+    access_info: Prieigos informacija
+    access_details: Prieigos duomenys
+    validation_code: Patvirtinimo kodas
+    expired_token_inline: El. pašto autentifikavimo galiojimas baigėsi, bandykite dar kartą.
+    invalid_token: Netinkamas arba nebegaliojantis kodas. Spustelėkite nuorodą pradiniame el. laiške, kad dar kartą patvirtintumėte el. pašto adresą.
+    download_zip: Atsisiųsti ZIP
+    zip_ready_for_download: ZIP paruoštas atsisiųsti
+    processing_zip: Apdorojamas ZIP archyvas
+    drop_file_here: Nuvilkite failą čia
+    drop_files_here: Nuvilkite failus čia
+    drop_files_and_folders_here: Nuvilkite failus ir aplankus čia
+    select_pool_files: Pasirinkti saugyklos failus
+    add_pool_files: Pridėti saugyklos failus
+    invalid_validation_token: Tai nėra tinkamas patvirtinimo kodas.
+    not_the_validation_token: Tai pranešimo ID, o ne patvirtinimo kodas. Įveskite patvirtinimo kodą.
+    no_messages_in_inbox: Gautuosiuose pranešimų nėra.
+    filename_already_selected: Prie šio pranešimo jau pridėtas tokio pavadinimo failas
+    filesize_exceeded: Viršytas didžiausias pranešimo dydis
+    infected_with: Užkrėstas virusu
+    not_permitted_to_download_content_blocked: "Šio failo atsisiųsti neleidžiama. Antivirusinė programa aptiko: %{virus}"
+    invalid_email_address: Netinkamas el. pašto adresas
+    cant_create_folder: Nepavyksta sukurti aplanko
+    cant_check_folder: Nepavyksta patikrinti aplanko
+    cant_restore_folder: Nepavyksta atkurti aplanko
+    cant_check_chunks: Nepavyksta patikrinti dalių
+    zip_not_include_all_files: Ne visus failus galima atsisiųsti – ZIP archyve bus tik atsisiunčiami failai.
+    paste_tip: Patarimas! Įklijuokite naudodami Ctrl+Shift+V, kad pašalintumėte formatavimą.
+  session:
+    api:
+      authentication_error: Autentifikavimo klaida, bandykite dar kartą.
+      not_local_user: Netinkamas el. pašto adresas. Šia funkcija gali naudotis tik vietiniai naudotojai.
+      show:
+        login: Prisijungti
+        login_label: El. pašto adresas
+        password: Slaptažodis
+        sso_login: SSO prisijungimas
+        authentication_title: Prisijungti
+        authentication_description: Norėdami tęsti, įveskite el. pašto adresą arba prisijunkite.
+      authenticated:
+        authentication_successful: Autentifikavimas sėkmingas
+    authenticate:
+      login: Prisijunkite, kad tęstumėte
+      description_html: Norėdami atidaryti šį puslapį, turite prisijungti. Norėdami tęsti, įveskite el. pašto adresą arba prisijunkite.<br>Jei šioje sistemoje neturite paskyros, įveskite el. pašto adresą ir mes atsiųsime jums laikinąjį slaptažodį el. paštu.
+      unauthorized: Neturite teisės peržiūrėti šio pranešimo. Įveskite el. pašto adresą tiksliai taip, kaip pranešimas jums buvo išsiųstas, arba susisiekite su pranešimo siuntėju.
+    email:
+      validate_email: Patvirtinkite el. pašto adresą
+      validate_email_description_html: "Jūsų el. pašto adresu išsiųstas saugos kodas: <strong>%{email}</strong>. Spustelėkite nuorodą arba įveskite saugos kodą čia, kad patvirtintumėte el. pašto adresą ir tęstumėte."
+      session_expired: Seansas baigėsi, norėdami tęsti, dar kartą įveskite el. pašto adresą
+      token_expired: El. laiške esančios autentifikavimo nuorodos galiojimas baigėsi, bandykite dar kartą.
+      already_authenticated: Šioje naršyklėje jau esate prisijungę.
+      resend_validation_email: Dar kartą siųsti patvirtinimo laišką
+      verify: Patvirtinti
+      validate_email_sent: "Naujas patvirtinimo laiškas išsiųstas %{time}. Spustelėkite nuorodą laiške arba įveskite saugos kodą žemiau, kad patvirtintumėte el. pašto adresą."
+      invalid_temporary_user: Netinkamas saugos kodas. Patikrinkite el. paštą – į gautuosius išsiųstas naujas saugos kodas.
+      create_account: Sukurti paskyrą
+      create_account_description: Sukurkite paskyrą šioje sistemoje, kad galėtumėte prisijungti el. pašto adresu ir slaptažodžiu, o ne saugos kodu.
+      invalid_email: Netinkamas el. pašto adresas
+    login_limit_exceeded:
+      delivered:
+        page_header: Viršytas prisijungimų limitas
+        description: Per daug kartų bandėte prisijungti. Norėdami tęsti, turite atkurti slaptažodį.
+        email: Išsiųstas el. laiškas su slaptažodžio atkūrimo nuoroda.
+      waiting:
+        page_header: Viršytas prisijungimų limitas
+        description: "Per daug kartų bandėte prisijungti. Atkreipkite dėmesį: turite prisijungti tinklo slaptažodžiu. Jei reikia atkurti šį slaptažodį ir nežinote, kaip tai padaryti, kreipkitės į tinklo administratorių. Pasibaigus laukimo laikui, galite iš naujo įkelti šį puslapį, kad atkurtumėte limitą."
+        expiration_time: Laukimo laikas
+        reload: Įkelti iš naujo
+      show:
+        page_header: Viršytas prisijungimų limitas
+        description: Per daug kartų bandėte prisijungti. Galite atkurti prisijungimų limitą ir prisijungti dar kartą. Jums išsiųstas el. laiškas limitui atkurti.
+      reset:
+        login_limit_reset: Prisijungimų limitas atkurtas
+    shared:
+      authentication_successful: Autentifikavimas sėkmingas
+    outlook:
+      edit:
+        authentication_title: Autentifikuotis
+        authentication_description: Prisijunkite, kad tęstumėte
+        login: Prisijungti
+        login_label: El. pašto adresas
+        password: Slaptažodis
+        sso_login: SSO prisijungimas
+      show:
+        authentication_title: Autentifikuotis
+        authentication_description: Prisijunkite, kad galėtumėte pridėti saugius failus.
+        authenticate: Autentifikuotis
+    saml:
+      not_configured:
+        title: SAML nesukonfigūruotas
+        description: Šioje sistemoje SAML nesukonfigūruotas. Jei manote, kad tai klaida, susisiekite su pagalbos tarnyba, kad ji galėtų tai ištirti.
+        support_button: Susisiekti su pagalba
+      api:
+        local:
+          title: SAML autentifikavimas
+          description: SAML autentifikavimas atidarytas jūsų numatytojoje naršyklėje – tęskite prisijungimą ten. Jei nerandate lango arba jis dėl kokių nors priežasčių neveikia, galite tęsti spustelėję žemiau esantį mygtuką.
+          button_label: SSO prisijungimas
+      response:
+        api_error:
+          authentication_error: Autentifikavimas nepavyko
+          saml_authentication_error: SSO autentifikavimas nepavyko
+          saml_authentication_error_description: SSO autentifikavimas nepavyko. Jei problema kartojasi, kreipkitės į administratorių.
+        api_disabled:
+          api_disabled: Neįgaliota naudotojų grupė
+          api_disabled_description: Jūsų paskyra neturi prieigos prie šios funkcijos (API išjungta). Kreipkitės į administratorių ir paprašykite perkelti jūsų paskyrą į kitą grupę.
+        api_response:
+          authentication_successful: Autentifikavimas sėkmingas
+        create:
+          could_not_create_account: Nepavyko sukurti paskyros. Norėdami gauti daugiau informacijos, kreipkitės į administratorių.
+        show:
+          could_not_create_account: Nepavyko sukurti paskyros. Norėdami gauti daugiau informacijos, kreipkitės į administratorių.
+    temporary_user:
+      validate_email: Patvirtinkite el. pašto adresą
+      validate_email_description_html: "Jūsų el. pašto adresu išsiųstas laikinasis slaptažodis: <strong>%{email}</strong>. Spustelėkite nuorodą arba įveskite laikinąjį slaptažodį čia, kad patvirtintumėte el. pašto adresą ir tęstumėte."
+      session_expired: Seansas baigėsi, norėdami tęsti, dar kartą įveskite el. pašto adresą
+      token_expired: El. laiške esančios autentifikavimo nuorodos galiojimas baigėsi, bandykite dar kartą.
+      already_authenticated: Šioje naršyklėje jau esate prisijungę.
+      resend_validation_email: Dar kartą siųsti patvirtinimo laišką
+      verify: Patvirtinti
+      validate_email_sent: "Naujas patvirtinimo laiškas išsiųstas %{time}. Spustelėkite nuorodą laiške arba įveskite slaptažodį žemiau, kad patvirtintumėte el. pašto adresą."
+      invalid_temporary_user: Netinkamas slaptažodis. Patikrinkite el. paštą – laikinasis slaptažodis dar kartą išsiųstas į gautuosius.
+      temporary_user_expired: Laikinojo slaptažodžio galiojimas baigėsi. Patikrinkite el. paštą – į gautuosius išsiųstas naujas laikinasis slaptažodis.
+      create_account: Sukurti paskyrą
+      create_account_description: Sukurkite nuolatinę paskyrą šioje sistemoje, kad galėtumėte prisijungti el. pašto adresu ir slaptažodžiu, o ne laikinąja naudotojo paskyra.
+  shared:
+    show: Rodyti
+    reify: Atkurti
+    download: Atsisiųsti
+    restore: Atkurti
+    delete: Ištrinti
+    trash: Šiukšlinė
+    cancel: Atšaukti
+    close: Uždaryti
+    current: Dabartinis
+    bootstrap_confirm_dialog:
+      confirm_action: Patvirtinti veiksmą
+    shares:
+      bootstrap_confirm_dialog:
+        confirm_action: Patvirtinti veiksmą
+      navigation:
+        files: Failai
+        activity_log: Veiklos žurnalas
+      wrap_content:
+        activity_log: Veiklos žurnalas
+    error_messages:
+      prohibited_this_from_being_saved: neleido išsaugoti %{target}
+  share:
+    share: Share
+    shares: Share
+    no_shares: Nėra galimų Share
+    name: Pavadinimas
+    folder_name: Aplanko pavadinimas
+    share_not_found: Share nerastas
+    folder_not_found: Aplankas nerastas
+    file_not_found: Failas nerastas
+    no_read_access: Neturite teisės atidaryti šio Share
+    no_write_access: Neturite rašymo teisės šiame Share
+    not_authorized_to_view_logs: Neturite teisės peržiūrėti žurnalų
+    require_authentication: Šiam Share reikia autentifikavimo. Norėdami tęsti, įveskite slaptažodį.
+    authenticate: Autentifikuotis
+    authentication_failed: Autentifikavimas nepavyko
+  shares:
+    folders:
+      are_you_sure_you_want_to_delete: Ar tikrai norite ištrinti šį aplanką?
+      are_you_sure_you_want_to_trash: Ar tikrai norite visam laikui ištrinti šį aplanką?
+      folder_name_already_taken: Toks aplanko pavadinimas jau naudojamas!
+      folder_not_found: Aplankas nerastas
+      could_not_create_folder: "Nepavyko sukurti aplanko: %{error}"
+      zip_no_files: Nėra failų, kuriuos būtų galima įtraukti į ZIP archyvą
+      windows_path_warning:
+        title: Windows kelio ilgio apribojimas
+        description_html: <strong>Windows naudotojams:</strong> Windows riboja failų kelius iki 259 simbolių. Įkeliant aplankus iš vietų su ilgais keliais, giliai aplankų struktūroje esantys failai gali būti nepastebimai praleisti, todėl įkėlimai gali būti nepilni arba atsirasti aplankų dublikatų.
+        workarounds_title: Rekomenduojami sprendimai
+        workarounds_html: "<li><strong>Naudokite virtualųjį diską:</strong> atidarykite komandų eilutę ir paleiskite: <code>subst X: \"C:\\jusu\\ilgas\\kelias\\iki\\aplanko\"</code><br>Tada įkelkite iš virtualiojo disko <code>X:\\</code></li><li><strong>Pereikite arčiau failų:</strong> prieš pasirinkdami įkeliamą aplanką, pereikite į poaplankį arčiau failų</li><li><strong>Naudokite trumpesnį kelią:</strong> prieš įkeldami nukopijuokite failus į trumpesnę vietą, pavyzdžiui, <code>C:\\uploads\\</code></li><li><strong>Pirmiausia suglaudinkite aplanką:</strong> suglaudinkite aplanką į ZIP failą ir įkelkite ZIP failą</li>"
+        advanced_title: "Išplėstinis: ilgų kelių įjungimas Windows 10/11"
+        advanced_description_html: Nuo Windows 10 versijos 1607 galite įjungti ilgesnių kelių palaikymą. <strong>Pastaba:</strong> tam reikia administratoriaus teisių ir tai gali veikti ne visose naršyklėse. Aukščiau pateikti sprendimai yra patikimesni.
+        registry_steps_title: Ilgų kelių įjungimo veiksmai
+        registry_steps_html: "<li>Paspauskite <kbd>Win + R</kbd>, įveskite <code>regedit</code> ir paspauskite Enter</li><li>Eikite į: <code>HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\FileSystem</code></li><li>Raskite arba sukurkite DWORD reikšmę pavadinimu <code>LongPathsEnabled</code> ir nustatykite ją į <code>1</code></li><li>Iš naujo paleiskite kompiuterį, kad pakeitimas įsigaliotų</li><li>Dar kartą išbandykite įkėlimą (palaikymas įvairiose naršyklėse gali skirtis)</li>"
+        browser_disclaimer_html: "<strong>Svarbu:</strong> net įjungus šį registro nustatymą, ilgų kelių palaikymas įvairiose naršyklėse skiriasi. Chrome, Edge ir Firefox vis tiek gali taikyti 259 simbolių ribą. Aukščiau pateikti sprendimai yra patikimesni."
+      folder:
+        rename_folder: Pervadinti aplanką
+        move_folder_description: Perkelti aplanką %{foldername} į žemiau pasirinktą aplanką
+        move_folder: Perkelti aplanką
+      action_bar:
+        download_as_zip: Atsisiųsti kaip ZIP
+        download_as_zip_with_deleted: Atsisiųsti kaip ZIP, įskaitant ištrintus failus
+        toggle_deleted_view: Rodyti / slėpti ištrintus failus
+        filter: Filtras
+        upload_file: Įkelti failus
+        upload_folder: Įkelti aplanką
+        create_folder: Sukurti aplanką
+        windows_path_warning: Įspėjimas dėl kelio ilgio
+        upload_folder_unsupported: Aplanko įkėlimas nepalaikomas
+        upload_folder_unsupported_description: Deja, jūsų naršyklė nepalaiko aplankų įkėlimo. Norėdami įkelti aplankų struktūrą, naudokite stalinio kompiuterio Chrome arba Safari versiją.
+        showing_deleted: Rodoma ištrintų %{number_of}
+        hiding_deleted: Paslėpta ištrintų %{number_of}
+        actions: Veiksmai
+        move_selected: Perkelti pasirinktus
+        trash_selected: Perkelti pasirinktus į šiukšlinę
+        delete_selected: Ištrinti pasirinktus
+      action_bar_below:
+        send_notifications: Siųsti pranešimus
+        sending_notifications: Siunčiami pranešimai
+        quota: Kvota
+        used_of: panaudota iš
+        available: laisva
+        quota_exceeded: Viršyta kvota
+      create_folder_modal:
+        create_folder: Sukurti aplanką
+        create: Sukurti
+      files:
+        are_you_sure_you_want_to_delete: Ar tikrai norite ištrinti šį failą?
+        are_you_sure_you_want_to_trash: Ar tikrai norite visam laikui ištrinti šį failą?
+        file_not_found: Failas nerastas
+        file:
+          rename_file: Pervadinti failą
+          move_file: Perkelti
+          move_file_description: Perkelti failą %{filename} į žemiau pasirinktą aplanką
+        show:
+          prev: Ankstesnis
+          up: Aukštyn
+          next: Kitas
+          last_updated: Paskutinį kartą atnaujinta
+          versions: Versijos
+          show_all: Rodyti viską
+          version_from: Versija nuo
+          next_version: Kita versija
+          previous_version: Ankstesnė versija
+          current_version: Dabartinė versija
+          pdf_preview_not_supported: Jūsų naršyklė nepalaiko PDF failų peržiūros
+        available_chunks:
+          available: Yra dalinių šių failų įkėlimų
+          resume_replace: Ar norite tęsti įkėlimą, ar pakeisti failus?
+      quota:
+        quota: Kvota
+        used_of: panaudota iš
+        available: laisva
+        quota_exceeded: Viršyta kvota
+      move_file_folder_modal:
+        move_folder: Perkelti aplanką
+        move_file: Perkelti failą
+        move: Perkelti
+      show:
+        select_all: Pasirinkti viską / atšaukti pasirinkimą
+    logs:
+      action_bar:
+        activity_log: Veiklos žurnalas
+      message:
+        created: Sukurta
+        uploaded: Įkelta
+        downloaded: Atsisiųsta
+        reified: Atkurta
+        removed: Pašalinta
+        restored: Atkurta
+        deleted: Ištrinta
+        moved: Perkelta
+        renamed: Pervadinta
+        added: Pridėta
+        viewed: Peržiūrėta
+        infected: Užkrėsta
+        trashed: Perkelta į šiukšlinę
+        deleted_user: "(Ištrintas naudotojas)"
+        share: Share
+        folder: Aplankas
+        file: Failas
+        group: Grupė
+        user: Naudotojas
+        read: Skaitymas
+        read/write: Skaitymas / rašymas
+        av_scanner: Antivirusinė programa
+        version_from: Versija nuo
+        file_deleted: Failas ištrintas
+        to: į
+        from: iš
+        unknown: Nežinoma
+        other: Kita
+  share/log:
+    message:
+      you: Jūs
+      share: Share
+      folder: aplankas
+      file: failas
+      user: naudotojas
+      version_from: versija nuo
+      read: skaitymas
+      read/write: skaitymas / rašymas
+      created: sukūrė
+      added: pridėjo
+      uploaded: įkėlė
+      downloaded: atsisiuntė
+      updated: atnaujino
+      restored: atkūrė
+      reified: atkūrė
+      deleted: ištrynė
+      removed: visam laikui ištrynė
+      trashed: perkėlė į šiukšlinę
+      renamed: pervadino
+      viewed: peržiūrėjo
+      infected: užkrėsta
+      av_scanner: Antivirusinė programa
+      file_deleted: Failas ištrintas
+  sms_auth:
+    login_failed: Prisijungti nepavyko
+    sms_error: SMS konfigūracijos klaida, kreipkitės į sistemos administratorių
+    verify_token: Patvirtinti SMS kodą
+    verify_token_description: "Įveskite į jūsų mobilųjį telefoną išsiųstą kodą:"
+    sms_login_failed: SMS patvirtinimas nepavyko, išsiųstas naujas SMS kodas
+    sms_signup: Registracija SMS dviejų veiksnių autentifikavimui
+    sms_signup_failed: SMS dviejų veiksnių autentifikavimas nepavyko
+    sms_signup_description: Norėdami tęsti, turite užsiregistruoti SMS dviejų veiksnių autentifikavimui. Norėdami tęsti, žemiau įveskite savo telefono numerį.
+    verify: Patvirtinti
+    resend: Siųsti kodą dar kartą
+    code: Kodas
+    token_resent: SMS kodas dar kartą išsiųstas %{time}
+    send_token: Siųsti patvirtinimo kodą
+    phone_number: Telefono numeris
+    invalid_phone_number: Netinkamas telefono numeris, bandykite dar kartą.
+    change_phone_number: Keisti telefono numerį
+    phone_number_help: Įveskite telefono numerį su šalies kodu ir be pradinių nulių (pvz., 37061234567). Šiuo numeriu bus išsiųstas patvirtinimo kodas.
+    one-time-code: Vienkartinis kodas
+  strong_auth:
+    two_factor_authentication: Dviejų veiksnių autentifikavimas
+    enable_2fa: Įjungti dviejų veiksnių autentifikavimą
+    disable_2fa: Išjungti dviejų veiksnių autentifikavimą
+    title: Įjungti dviejų veiksnių autentifikavimą
+    enable_2fa_description: Galite įjungti stiprų dviejų veiksnių autentifikavimą, kad padidintumėte paskyros saugumą.
+    require_description: Norėdami naudotis šia sistema, turite nustatyti dviejų veiksnių autentifikavimą.
+    disable_description: Norėdami išjungti dviejų veiksnių autentifikavimą, įveskite dabartinį kodą
+    two_factor_auth_disabled: Dviejų veiksnių autentifikavimas išjungtas
+    step1: "1 veiksmas: atsisiųskite autentifikavimo programėlę"
+    step1_description: Įjunkite dviejų veiksnių autentifikavimą, paprastai naudodami mobiliąją programėlę.
+    totp_apps_description_html: Autentifikavimo programėlės yra, pavyzdžiui, <a href="https://authy.com" target="_blank" rel="external nofollow noopener noreferrer">Authy</a> (kelios platformos) ir Google Authenticator (iOS/Android). Daugiau galimybių rasite <a href="https://docs.liquidfiles.com/authentication/totp.html#clients" target="_blank">TOTP Clients</a>.
+    step2: "2 veiksmas: sukonfigūruokite autentifikavimo programėlę"
+    step2_description: Sukonfigūruokite autentifikavimo programėlę nuskenuodami QR kodą.
+    step2_alt: Arba įveskite šį kodą
+    step3: "3 veiksmas: patvirtinkite"
+    step3_description: Patvirtinkite konfigūraciją įvesdami autentifikavimo programėlės sugeneruotą kodą.
+    failed_to_authenticate: Autentifikavimas nepavyko, bandykite dar kartą.
+    click_on_link: Taip pat galite spustelėti šią nuorodą, kad pridėtumėte konfigūraciją prie dviejų veiksnių autentifikavimo programėlės
+    configure: Konfigūruoti dviejų veiksnių autentifikavimą
+    success_saved: Pavyko, dviejų veiksnių autentifikavimo konfigūracija išsaugota
+    verify_token: Patvirtinti dviejų veiksnių autentifikavimą
+    verify_token_description: Įveskite dviejų veiksnių autentifikavimo kodą iš mobiliosios programėlės.
+    verify: Patvirtinti
+    two_factor_login_failed: Dviejų veiksnių autentifikavimas nepavyko
+    two_factor_validation_failed: Dviejų veiksnių autentifikavimo patvirtinimas nepavyko
+    skip_2fa_for_two_weeks: Praleisti dviejų veiksnių autentifikavimą šioje naršyklėje dvi savaites
+    one-time-code: Vienkartinis kodas
+  support:
+    email_subject: Prašau padėti dėl
+    email_body: Kuo išsamiau aprašykite savo problemą. Ačiū.
+    navbar_tooltip: Jei jums reikia pagalbos jungiantis prie šios sistemos ar ja naudojantis, spustelėkite šią nuorodą ir mes mielai padėsime.
+  user:
+    includes_at_least_one_invalid_email_address: yra bent vienas netinkamas el. pašto adresas
+    confirm:
+      invalid_session: Netinkamas seansas
+      already_validated: Jūsų el. pašto adresas jau patvirtintas
+      invalid_token: Netinkamas kodas. Bandykite dar kartą arba spustelėkite Dar kartą siųsti patvirtinimo laišką.
+      validation_email_sent: "Patvirtinimo laiškas išsiųstas %{time}"
+      activated_successfully: Sėkmingai aktyvinta
+      validate_email_description: Patikrinkite el. paštą ir įveskite laikinąjį slaptažodį, kad patvirtintumėte el. pašto adresą.
+    register:
+      already_registered: Ši paskyra jau užregistruota, norėdami tęsti, prisijunkite
+      already_registered_not_validated: Jūsų paskyra jau užregistruota, bet el. pašto adresą dar reikia patvirtinti. Jums išsiųstas el. laiškas su atsitiktiniu kodu. Įveskite kodą žemiau arba spustelėkite nuorodą laiške, kad patvirtintumėte paskyrą.
+      show:
+        register: Užregistruoti paskyrą
+        description_html: <p>Įveskite savo duomenis, kad sukurtumėte paskyrą. Naudodami šią paskyrą galite saugiai siųsti didelius failus adresatui %{branding_name}.</p>
+    signup:
+      create:
+        need_password: Turite įvesti slaptažodį
+        need_name: Turite įvesti vardą
+    create:
+      show:
+        cancel_and_remember: Atšaukti ir daugiau neklausti
+        cancel_and_remember_title: Tai bus įsiminta dabartinėje naršyklėje
+  validator:
+    required: Šis laukas privalomas.
+    remote: Pataisykite šį lauką.
+    email: Įveskite tinkamą el. pašto adresą.
+    url: Įveskite tinkamą URL.
+    date: Įveskite tinkamą datą.
+    dateISO: Įveskite tinkamą datą (ISO).
+    number: Įveskite tinkamą skaičių.
+    digits: Įveskite tik skaitmenis.
+    creditcard: Įveskite tinkamą kredito kortelės numerį.
+    equalTo: Dar kartą įveskite tą pačią reikšmę.
+    accept: Įveskite reikšmę su tinkamu plėtiniu.
+    maxlength: Įveskite ne daugiau kaip {0} simbolių.
+    minlength: Įveskite bent {0} simbolių.
+    rangelength: Įveskite reikšmę nuo {0} iki {1} simbolių.
+    range: Įveskite reikšmę nuo {0} iki {1}.
+    max: Įveskite reikšmę, mažesnę arba lygią {0}.
+    min: Įveskite reikšmę, didesnę arba lygią {0}.
+    step: Įveskite skaičiaus {0} kartotinį.
+    invalid_phone_number: Netinkamas telefono numeris
+  locale: Lietuvių

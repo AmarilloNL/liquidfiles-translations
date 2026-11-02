@@ -1,0 +1,1569 @@
+fi:
+  s: s
+  min: min
+  hours: Tuntia
+  days: Päivää
+  weeks: Viikkoa
+  months: Kuukautta
+  years: Vuotta
+  ago: sitten
+  email: Sähköposti
+  save: Tallenna
+  delete: Poista
+  cancel: Peruuta
+  remove: Poista
+  aborting: Keskeytetään
+  aborted: Keskeytetty
+  saved_successfully: Tallennettu
+  logout: Kirjaudu ulos
+  error: Virhe
+  enabled: Käytössä
+  disabled: Pois käytöstä
+  disable: Poista käytöstä
+  default: Oletus
+  submit: Lähetä
+  session_expired: Istunto on vanhentunut
+  search: Hae
+  filter: Suodata
+  recipient: Vastaanottaja
+  recipients: Vastaanottajat
+  downloaded_by: Lataaja
+  filename: Tiedostonimi
+  size: Koko
+  downloaded: Ladattu
+  host: Isäntä
+  ip: IP-osoite
+  action: Toiminto
+  view_message: Näytä viesti
+  view_message_popup: Näytä viesti (ponnahdusikkuna)
+  download_info: Lataustiedot
+  message_id: Viestin tunnus
+  filelink_id: FileLink-tunnus
+  sent_at: Lähetetty
+  id: Tunnus
+  subject: Aihe
+  expires: Vanhenee
+  invalid_method: Virheellinen menetelmä
+  export_csv: Vie CSV
+  export_all: Vie kaikki
+  export_visible: Vie näkyvät
+  temporarily_unavailable: Tilapäisesti poissa käytöstä
+  generic_search_error: Yleinen hakuvirhe
+  sender: Lähettäjä
+  search_temporary_disabled: Haku tilapäisesti poissa käytöstä
+  help: Ohje
+  close: Sulje
+  count: Määrä
+  settings: Tilin asetukset
+  virus: Virus
+  virus_status: Virustila
+  infected: Saastunut
+  clean: Puhdas
+  not_scanned: Ei tarkistettu
+  not_yet_scanned: Ei vielä tarkistettu
+  csrf_error: "CSRF: virheellisiä parametreja havaittu. Kirjaudu uudelleen sisään jatkaaksesi."
+  could_not_be_saved: Tallennus epäonnistui
+  label: Nimike
+  updated: Päivitetty
+  add: Lisää
+  system_info: Järjestelmätiedot
+  location: Sijainti
+  accept: Hyväksy
+  last_7_days: Viimeiset 7 päivää
+  last_30_days: Viimeiset 30 päivää
+  last_60_days: Viimeiset 60 päivää
+  last_90_days: Viimeiset 90 päivää
+  last_180_days: Viimeiset 180 päivää
+  last_365_days: Viimeiset 365 päivää
+  file: Tiedosto
+  files: Tiedostot
+  next: Seuraava
+  previous: Edellinen
+  name: Nimi
+  view: Näytä
+  forget: Unohda
+  update: Päivitä
+  updated_at: Päivitetty
+  created_at: Luotu
+  download_link_expired: Latauslinkki on vanhentunut.
+  no_html5_upload_warning: Tiedostojen lataaminen palveluun edellyttää nykyaikaista, HTML5-yhteensopivaa selainta. Microsoft Edge, Chrome, Firefox ja Safari toimivat kaikki hyvin.
+  javascript_warning: JavaScript vaaditaan tiedostojen lähettämiseen ja useimpien toimintojen käyttämiseen.
+  cookie_accept: Tämä sivusto käyttää evästeitä. Kirjautumalla sisään tai napsauttamalla ”Hyväksy” hyväksyt evästeiden käytön.
+  i_agree: Hyväksyn
+  session_timeout: Istunto vanhentui, kirjaudu uudelleen sisään
+  loading: Ladataan...
+  unsupported_browser_header: Selainta ei tueta
+  unsupported_browser_description_html: Selaintasi ei tueta, joten sivusto ei todennäköisesti toimi odotetulla tavalla. Käytä tällä sivustolla uudempaa selainta.
+  not_logged_in_invalid_parameters: Et ole kirjautunut sisään, virheelliset parametrit
+  toggle_dropdown: Näytä/piilota valikko
+  rejected: Hylätty
+  undetected: Ei havaittu
+  invalid_link: Virheellinen linkki, ota yhteyttä lähettäjään
+  account_settings_tooltip: Tilin asetukset
+  logout_tooltip: Kirjaudu ulos
+  download_id: Lataustunnus
+  remote_host: Etäisäntä
+  show: Näytä
+  hide: Piilota
+  password: Salasana
+  download: Lataa
+  unauthorized: Ei käyttöoikeutta
+  account:
+    login: Kirjaudu sisään
+    login_label: Sähköpostiosoite
+    email: Sähköpostiosoite
+    password: Salasana
+    current_password: Nykyinen salasana
+    please_enter_your_current_password: Anna nykyinen salasanasi
+    sign_in: Kirjaudu sisään
+    remember_me: Muista minut
+    not_administrator: Et ole järjestelmänvalvoja
+    password_reset: Salasanan palautus
+    register: Rekisteröidy
+    register_description_html: Kiitos! Jatka antamalla tietosi ja luomalla tili.<br>Seuraavalla kerralla voit kirjautua sisään sähköpostiosoitteellasi ja salasanallasi.
+    account_not_activated: Tiliä ei ole aktivoitu. Aktivoi tili ennen sisäänkirjautumista. Sinulle on lähetetty sähköposti, jossa on satunnainen koodi. Anna koodi alle tai vahvista tilisi napsauttamalla sähköpostissa olevaa linkkiä.
+    incorrect_user_or_pw: Virheellinen käyttäjätunnus tai salasana
+    confirmation_email_sent: Vahvistusviesti lähetetty
+    activated_successfully: Aktivoitu
+    not_activated: Tiliä ei ole aktivoitu
+    password_reset_email_sent: Salasanan palautusviesti lähetetty
+    no_such_user: Käyttäjää ei ole olemassa
+    no_such_email: Sähköpostiosoitetta ei löytynyt
+    not_logged_in: Et ole kirjautunut sisään. Kirjaudu sisään jatkaaksesi.
+    saved_successfully: Tallennettu
+    unlicensed_install_some_settings: "Lisensoimaton asennus: brändäysvaihtoehdot näkyvät vain järjestelmänvalvojille"
+    incorrect_login_or_demo: Virheellinen käyttäjätunnus tai salasana, tai lisenssiraja on saavutettu
+    incorrect_login_or_ldap: Virheellinen käyttäjätunnus tai salasana, tai LDAP-palvelimen virhe
+    invalid_api_key: Virheellinen API-avain
+    cant_delete_last_sysadmin: Viimeistä järjestelmänvalvojaa ei voi poistaa
+    cant_change_last_sysadmin: Viimeistä järjestelmänvalvojaa ei voi muuttaa
+    sso_login: SSO-kirjautuminen
+    invalid_sso_response: Virheellinen SSO-vastaus
+    automatic: Tunnistettu automaattisesti
+    network_access_blocked: Järjestelmän käyttö verkostasi ei ole sallittua.
+    please_login: Kirjaudu sisään avataksesi tämän sivun.
+    email_validation_session_timeout: Istunto vanhentui, vahvista sähköpostiosoitteesi uudelleen.
+    signature: Allekirjoitus
+    not_authorized_for_action: Sinulla ei ole oikeutta suorittaa tätä toimintoa
+    invalid_group: Virheellinen ryhmä. Ota yhteyttä järjestelmänvalvojaan, joka voi siirtää tilisi paikallisten käyttäjien ryhmään
+    invalid_group_configuration: Virheellinen ryhmämääritys. Ota yhteyttä järjestelmänvalvojaan, joka voi luoda sinulle tilin tai muuttaa ryhmämääritystä.
+    please_enter_email_to_email_password: Anna sähköpostiosoitteesi salasanan palauttamista varten. Osoitteeseen lähetetään vahvistusviesti.
+    password_reset_successfully: Salasana palautettu
+    password_cant_be_empty: Salasana ei voi olla tyhjä
+    password_complexity_title: Salasanan monimutkaisuus
+    password_complexity_description_html: "<p>Salasanasi <strong>ei saa perustua sanakirjan sanaan</strong>, ja sen on täytettävä vähintään 3 seuraavista vaatimuksista:</p><ul><li>Vähintään 8 merkkiä</li><li>Vähintään 11 merkkiä</li><li>Vähintään 15 merkkiä</li><li>Vähintään 1 pieni ja 1 iso kirjain</li><li>Vähintään 1 numero (0-9)</li><li>Vähintään yksi seuraavista merkeistä: !,@,#,$,%,^,&amp;,*,?,_,~,-,(,)</li></ul>"
+    is_not_strong_enough: ei ole riittävän vahva
+    your_password_has_expired: Salasanasi on vanhentunut
+    please_select_a_different_password: Valitse eri salasana kuin aiemmin
+    change_password: Vaihda salasana
+    account_not_found: Tiliä ei löytynyt. Kirjaudu uudelleen sisään.
+    user_required_to_use_saml: Salasanaa ei voi palauttaa, kirjaudu sisään SAML:n kautta
+    sysadmin_ldap_error: Tämä tili todennetaan LDAP:n kautta, eikä sitä voi palauttaa täällä
+    login_limit_exceeded: Kirjautumisraja ylitetty
+    a_confirmation_email_will_be_sent: Osoitteeseen lähetetään vahvistusviesti
+    name: Nimi
+    password_confirm: Vahvista salasana
+    save: Tallenna
+    can_not_reset_password_please_check_with_your_administrator: Salasanaa ei voi palauttaa, ota yhteyttä järjestelmänvalvojaan
+    no_need_to_register_user: Sinun ei tarvitse rekisteröityä. Kirjaudu sisään nykyisellä tililläsi.
+    registration_not_allowed: Rekisteröityminen ei ole sallittua
+    create_description: Luo tili antamalla nimesi ja salasana.
+    activated_successfully_please_login: Tili aktivoitu. Voit nyt kirjautua sisään sähköpostiosoitteellasi ja salasanallasi.
+    invalid_activation_url: Virheellinen aktivointilinkki. Tarkista linkki ja yritä uudelleen.
+    already_logged_in: Olet jo kirjautunut sisään. Uutta tiliä ei voi rekisteröidä.
+    bruteforce_message: Epäonnistuneiden yritysten määrä on ylitetty. Yritä uudelleen %{minutes} minuutin kuluttua.
+    admin_access_blocked: Järjestelmänvalvojan käyttö ei ole sallittua IP-osoitteestasi.
+    account_created_successfully: Tili luotu
+    create_account: Luo tili
+    create_account_description: Päivitä tietosi luodaksesi tilin.
+    account_settings: Tilin asetukset
+    change_language: Vaihda kieli ja aikavyöhyke
+    filedrop_label: Filedrop (satunnainen)
+    filedrop_email_label: Filedrop
+    verify_account: Tiliä vahvistetaan
+    invalid_sso_signature: Virheellinen SSO-allekirjoitus tai -kirjautuminen
+    user_not_found: Käyttäjää ei löytynyt
+    could_not_create_account: Tilin luominen epäonnistui
+    two_factor_authentication_failed: Duo-kaksivaiheinen tunnistautuminen epäonnistui
+    copy_to_clipboard: Kopioi leikepöydälle
+    copy_url_to_clipboard: Kopioi URL leikepöydälle
+    delete_user_warning: Haluatko varmasti poistaa tämän käyttäjän?
+    unauthorized_to_login: Ei oikeutta kirjautua sisään
+    first_time_message_title: Tervetuloa LiquidFilesiin
+    first_time_message: <p>Tervetuloa LiquidFilesiin – helpoin tapa lähettää suuria tiedostoja turvallisesti.</p><p>Perustoiminnot toimivat aivan kuten verkkosähköposti.</p><p>Tämä viesti näytetään vain kerran. Jos jäät jumiin tai haluat tutustua edistyneempiin toimintoihin, napsauta valikkorivin oikeassa yläkulmassa olevaa ”Ohje”-painiketta.</p>
+    first_time_message_button: Selvä!
+    registration_failed_unknown_error: Rekisteröinti epäonnistui tuntemattoman virheen vuoksi
+    session_timeout: Istunto vanhentui
+    nothing_filled_in: Täytä lomake
+    last_used: Viimeksi käytetty
+    strong_auth_required_before_password_reset: Tämän tilin salasanan palauttaminen edellyttää vahvaa kaksivaiheista tunnistautumista.
+    unfriendly_registration_message: Jos voit rekisteröityä järjestelmään tällä sähköpostiosoitteella, saat sähköpostiviestin. Jos et saa viestiä, käytä yllä olevaa tukilinkkiä.
+    unfriendly_password_reset_message: Jos tämän sähköpostiosoitteen tili voidaan palauttaa, saat sähköpostiviestin. Jos et saa viestiä, käytä yllä olevaa tukilinkkiä.
+    aliases:
+      aliases: Aliakset
+      aliases_description: Voit lisätä tiliisi lähettäjä- ja vastaanottaja-aliaksia. Lähettäjäaliaksen avulla voit lähettää viestejä kyseisen sähköpostiosoitteen nimissä. Vastaanottaja-aliaksen avulla voit nähdä kyseiseen osoitteeseen lähetetyt viestit. Vastaanottaja-aliaksen viestit näkyvät myös suojattujen viestien saapuneissa.
+      aliases_no_change_description: Lähettäjäaliaksen avulla voit lähettää viestejä kyseisen sähköpostiosoitteen nimissä. Vastaanottaja-aliaksen avulla voit nähdä kyseiseen osoitteeseen lähetetyt viestit. Vastaanottaja-aliaksen viestit näkyvät myös suojattujen viestien saapuneissa. Ota yhteyttä järjestelmänvalvojaan aliasten lisäämiseksi tai muuttamiseksi.
+      recipient_aliases: Vastaanottaja-aliakset
+      sender_aliases: Lähettäjäaliakset
+      add_alias: Lisää alias
+      remove: Poista
+      default_sender_alias: Oletuslähettäjäalias
+      default_sender_alias_description: Oletusarvoinen lähettäjäalias.
+      are_you_sure: Haluatko varmasti poistaa tämän aliaksen?
+      no_emails: Aliaksia ei ole lisätty.
+      please_contact_an_administrator: Ota yhteyttä järjestelmänvalvojaan näiden hallitsemiseksi
+      auto_added_aliases: Automaattisesti lisätyt aliakset
+      auto_added_aliases_description: Seuraavat aliakset on lisätty profiiliisi automaattisesti. Ota yhteyttä järjestelmänvalvojaan näiden hallitsemiseksi.
+    alias:
+      confirm:
+        show:
+          title: Kiitos vahvistuksesta
+          alias_email: Aliaksen sähköpostiosoite
+          user: Käyttäjä
+          recipient_and_sender_confirmation: Yllä mainittu käyttäjä voi nyt nähdä tähän sähköpostiosoitteeseen lähetetyt suojatut viestit ja lähettää suojattuja viestejä sen nimissä. Jos tämä on virhe, napsauta yllä olevaa tukilinkkiä.
+          only_recipient_confirmation: Yllä mainittu käyttäjä voi nyt nähdä tähän sähköpostiosoitteeseen lähetetyt suojatut viestit. Jos tämä on virhe, napsauta yllä olevaa tukilinkkiä.
+          only_sender_confirmation: Yllä mainittu käyttäjä voi nyt lähettää suojattuja viestejä tämän sähköpostiosoitteen nimissä. Jos tämä on virhe, napsauta yllä olevaa tukilinkkiä.
+    add_alias_modal:
+      title: Lisää alias
+      description: Anna sähköpostiosoite, johon haluat käyttöoikeuden vastaanottaja- tai lähettäjäaliaksena. Osoitteeseen lähetetään vahvistusviesti.
+      recipient_alias: Vastaanottaja-alias - haluan lukea tähän sähköpostiosoitteeseen lähetettyjä viestejä.
+      sender_alias: Lähettäjäalias - haluan lähettää viestejä tämän sähköpostiosoitteen nimissä.
+      invalid_email: Virheellinen sähköpostiosoite
+      add_permission: Valitse vastaanottaja-alias, lähettäjäalias tai molemmat.
+      send_request: Lähetä pyyntö
+      request_has_been_sent: Pyyntösi on lähetetty.
+    api:
+      api_key: API-avain
+      api_key_description: API-avainta käyttävät laajennukset, kuten Outlook-laajennus, ja sitä voi käyttää omissa integraatioissa. Tarvitset sitä vain, jos järjestelmänvalvoja pyytää.
+      api_key_reset_warning: Oletko varma? Jos palautat API-avaimen, sinun on vaihdettava vanha avain kaikkialle, missä olet käyttänyt sitä.
+      reset_api_key: Palauta API-avain
+    contacts:
+      contacts: Yhteystiedot
+      contacts_description: Voit lisätä niin monta yhteystietoa kuin haluat. Jokaisella yhteystiedolla voi olla useita sähköpostiosoitteita, joten voit lähettää nopeasti ja helposti useille vastaanottajille kerralla.
+      add_contact: Lisää yhteystieto
+      email_field_help: Pilkuilla erotettu luettelo sähköpostiosoitteista.
+      contact:
+        edit_label: Muokkaa nimikettä
+        edit_email: Muokkaa sähköpostiosoitetta
+        are_you_sure: Haluatko varmasti poistaa tämän yhteystiedon?
+    filedrops:
+      filedrops: Filedropit
+      filedrops_description: Olet näiden Filedropien pää- tai kopiovastaanottaja. Kaikki minkä tahansa niistä kautta lähetetyt tiedostot toimitetaan sinulle.
+      name: Nimi
+      title: Otsikko
+      recipient: Vastaanottaja
+      expires_after: Vanhenee
+      max_size: Tiedoston enimmäiskoko
+      url: URL
+      main_recipient: Päävastaanottaja
+      cc: Kopio
+    personal_filedrop:
+      personal_filedrop: Henkilökohtainen Filedrop
+      personal_filedrop_description: Henkilökohtainen Filedrop on helppo tapa vastaanottaa tiedostoja. Voit lähettää linkin, julkaista sen verkkosivustolla tai lisätä sen sähköpostiallekirjoitukseesi. Saat ilmoituksen heti, kun joku on lähettänyt jotain henkilökohtaisen Filedropisi kautta.
+    previous_recipients:
+      previous_recipients: Aiemmat vastaanottajat
+      previous_recipients_description: Kun lähetät suojatun viestin, jokainen vastaanottaja lisätään tähän aiempien vastaanottajien luetteloon. Näin voit lähettää nopeasti uudelleen samoille vastaanottajille. Vastaanottajat, joille et ole lähettänyt mitään 180 päivään, poistetaan luettelosta automaattisesti.
+      are_you_sure: Haluatko varmasti poistaa tämän aiemman vastaanottajan?
+    pw_dictionary:
+      based_on_a_dictionary_word: perustuu sanakirjan sanaan
+      based_upon_your_password_entry: perustuu antamaasi salasanaan
+      derived_from_your_password_entry: on johdettu antamastasi salasanasta
+      derivable_from_your_password_entry: voidaan päätellä antamastasi salasanasta
+      way_too_short: on AIVAN liian lyhyt
+      too_short: on liian lyhyt
+      it_does_not_contain_enough_different_characters: ei sisällä tarpeeksi ERILAISIA merkkejä
+      all_whitespace: sisältää vain välilyöntejä
+      too_simplistic_systematic: on liian yksinkertainen/järjestelmällinen
+      it_looks_like_a_national_insurance_number: näyttää henkilötunnukselta
+      based_on_a_reversed_dictionary_word: perustuu (käännettyyn) sanakirjan sanaan
+    show:
+      basic_settings: Perusasetukset
+      change_password: Vaihda salasana
+      strong_auth: Kaksivaiheinen tunnistautuminen
+      aliases: Aliakset
+      previous_recipients: Aiemmat vastaanottajat
+      contacts: Yhteystiedot
+      personal_filedrop: Henkilökohtainen Filedrop
+      api: API
+      filedrops: Filedropit
+    sms_disable:
+      disable_sms_otp: Poista tekstiviestillä tehtävä kaksivaiheinen tunnistautuminen käytöstä
+      disable_sms_otp_description: Jos haluat poistaa tekstiviestillä tehtävän kaksivaiheisen tunnistautumisen käytöstä, napsauta alla olevaa painiketta. Pyynnön vahvistamiseksi lähetetään tekstiviestikoodi.
+      verify_token_description: "Poista tekstiviestillä tehtävä kaksivaiheinen tunnistautuminen käytöstä antamalla matkapuhelimeesi lähetetty koodi:"
+      code: Koodi
+      sms_token_failed: Virheellinen tekstiviestikoodi, kaksivaiheisen tunnistautumisen poistaminen käytöstä epäonnistui
+      sms_otp_has_been_disabled: Tekstiviestillä tehtävä kaksivaiheinen tunnistautuminen on poistettu käytöstä
+    sms_signup:
+      sms_signup_description: Voit parantaa tilisi turvallisuutta ottamalla kaksivaiheisen tunnistautumisen käyttöön. Ota se käyttöön antamalla puhelinnumerosi alle.
+      phone_number: Puhelinnumero
+    sms_enable:
+      signup_complete: Tekstiviestillä tehtävä kaksivaiheinen tunnistautuminen on otettu käyttöön
+    terms_of_service:
+      show:
+        title: Käyttöehdot
+        accept_terms_of_service: Hyväksy käyttöehdot
+        do_not_accept: En hyväksy
+      create:
+        you_need_to_accept: Sinun on hyväksyttävä käyttöehdot!
+  activerecord:
+    attributes:
+      attachment:
+        filename: Tiedostonimi
+        size: Koko
+        secure_id: Liitteen tunnus
+        content_type: Sisältötyyppi
+        created_at: Luotu
+        updated_at: Päivitetty
+      download:
+        recipient: Vastaanottaja
+        downloaded_at: Ladattu
+        remote_ip: Etä-IP
+        remote_host: Etäisäntä
+        created_at: Luotu
+        updated_at: Päivitetty
+      filedrop:
+        name: Nimi
+        title: Otsikko
+        description: Kuvaus
+        blocked_extensions: Estetyt tiedostopäätteet
+        permitted_extensions: Sallitut tiedostotyypit
+        expires_after: Vanhenee
+        max_filesize: Tiedoston enimmäiskoko
+        created_at: Luotu
+        updated_at: Päivitetty
+        api_key: API-avain
+        cc: Kopio
+        authorization: Valtuutus
+      message:
+        recipients: Vastaanottajat
+        sender: Lähettäjä
+        cc: Kopio
+        bcc: Piilokopio
+        message: Viesti
+        subject: Aihe
+        deleted: Poistettu
+        authorization: Valtuutus
+        created_at: Luotu
+        updated_at: Päivitetty
+        expires_at: Vanhenee
+      share/log:
+        created_at: Päivämäärä
+      share/file:
+        checksum: Tarkistussumma (SHA256)
+      share/file/version:
+        whodunnit: Muuttaja
+        created_at: Muutettu
+      user:
+        name: Nimi
+        email: Sähköpostiosoite
+        quota: Kiintiö
+        used: Käytetty
+        max: Enint.
+        password: Salasana
+        ldap_authentication: LDAP-todennus
+        api_key: API-avain
+        level: Taso
+        filedrop: Filedrop
+    models:
+      configuration: Määritys
+      attachment: Liite
+      filedrop: Filedrop
+      message: Viesti
+      user: Käyttäjä
+      download: Lataus
+  admin:
+    groups:
+      form:
+        bcc_myself: Lähetä kopio itselleni
+        can_change_bcc_myself: Salli tämän ryhmän käyttäjien muuttaa asetusta kopion lähettämisestä itselleen
+      index:
+        default_group_assignment: Oletusryhmä
+    users:
+      users:
+        email: Sähköpostiosoite
+        name: Nimi
+        group: Ryhmä
+        max: Tiedoston enimmäiskoko
+        quota: Kiintiö
+        strong_auth: Vahva todennus
+        filedrop: Filedrop
+        last_login_at: Viimeisin kirjautuminen
+        last_login_ip: Viimeisimmän kirjautumisen IP
+        created: Luotu
+      form:
+        name_label: Nimi
+        email: Sähköpostiosoite
+        password: Salasana
+        password_confirmation: Vahvista salasana
+        max_label: Tiedoston enimmäiskoko
+        group: Ryhmä
+        strong_auth: Vahva todennus
+        strong_auth_username: Vahvan todennuksen käyttäjätunnus
+        api_key: API-avain
+        filedrop: Filedrop
+  attachments:
+    not_found: Liitettä ei löytynyt
+  config:
+    settings: Asetukset
+    email: Sähköposti
+    language_preferences_from_your_browser: Selaimesi kieliasetukset
+    authentication: Todennus
+    time_zone: Aikavyöhyke
+    current_time_zone: Nykyinen aikavyöhyke
+    time_zone_from_browser: Selaimesi tunnistama aikavyöhyke
+    time_zone_config_description: Jos jätät aikavyöhykkeeksi ”Tunnistettu automaattisesti”, käytetään selaimesi tunnistamaa aikavyöhykettä (kaikki ajat näytetään silloin kyseisellä aikavyöhykkeellä). Jos selain ei pysty tunnistamaan aikavyöhykettä, käytetään järjestelmän oletusaikavyöhykettä. Jos selaimesi ei tunnista oikeaa aikavyöhykettä tai haluat nähdä ajat toisella aikavyöhykkeellä, voit asettaa tietyn aikavyöhykkeen.
+    time_zone_default: Järjestelmän oletusaikavyöhyke
+    email_settings: Sähköpostiasetukset
+    configuration: Määritys
+    local_domains: Paikallinen toimialue
+    ldap_users: LDAP-todennetut käyttäjät
+    ldap_users_are_always_local: LDAP-todennetut käyttäjät ovat aina paikallisia
+    separated_by_comma: pilkuilla erotettuina
+    default_max_file_size: Tiedoston oletusenimmäiskoko
+    local_users: Paikalliset käyttäjät
+    external_users: Ulkoiset käyttäjät
+    allow_registration: Salli rekisteröityminen
+    allow_registration_desc: Salli rekisteröityminen kirjautumissivulla
+    external_user_account: Ulkoiset vastaanottajat
+    external_user_account_desc: Ulkoisten vastaanottajien on luotava tili
+    allow_users_to_change_expiration: Salli käyttäjien muuttaa tiedostojen vanhenemista
+    authorization: Käyttöoikeus
+    authorization_description: Oletusasetus sille, kuka saa ladata tiedostoja.
+    file_expiration: Vanheneminen
+    default_expire_files_after: Tiedostot vanhenevat oletuksena
+    delete_downloaded_files_after: Poista ladatut tiedostot
+    branding: Brändäys
+    company_name: Yrityksen nimi
+    custom_stylesheet: Mukautettu tyylisivu
+    custom_javascript: Mukautettu JavaScript
+    logotype: Logo
+    leave_blank_for_default: jätä tyhjäksi oletusarvoa varten
+    email_configuration: Sähköpostimääritys
+    email_sender_address: Lähettäjän osoite
+    email_host: Sähköpostien perus-URL
+    email_footer: Sähköpostin alatunniste
+    email_relay_host: Sähköpostin välityspalvelin
+    email_relay_username: Välityspalvelimen käyttäjätunnus
+    email_relay_password: Välityspalvelimen salasana
+    port: Portti
+    unlicensed_install_some_settings: "Lisensoimaton asennus: brändäysasetukset näkyvät vain järjestelmänvalvojille"
+    mail_relay_example: "Esim.: mailrelay.toimialue.fi, mx.toimialue.fi:587"
+    ldap: LDAP
+    please_see_the: katso
+    for_more_information: saadaksesi lisätietoja
+    virus_scan: Virustarkistus
+    virus_scan_description: Tarkista tiedostot virusten varalta
+    blocked_file_extensions: Estetyt tiedostopäätteet
+    default_bcc_myself_label: Lähetä kopio itselleni
+    default_bcc_myself: Lähetä oletuksena kopio itselleni
+    allow_users_to_change_require_login_label: Vaadi todennus
+    allow_users_to_change_require_login: Salli käyttäjien muuttaa asetusta ”Vaadi todennus”
+    permitted_file_extensions_label: Sallitut tiedostopäätteet
+    delete: Poista
+    ldap_description: "Ota käyttäjien LDAP-todennus käyttöön ja määritä LDAP-palvelinyhteyden perusparametrit. Jos porttia ei anneta, käytetään LDAP:n oletusporttia 389 (tai porttia 636, jos SSL on käytössä). Huomaa: porttia 3268 EI käytetä Active Directoryssä todennukseen, vaan ainoastaan yleisen osoitekirjan hakuihin. Käytä sen sijaan porttia 389/636."
+    ldap_authentication: LDAP-todennus
+    basic_settings: Perusasetukset
+    server: Palvelimen nimi / IP-osoite
+    username: Käyttäjätunnus
+    password: Salasana
+    authentication_description: Tätä käyttäjää käytetään yhdistettäessä LDAP-palvelimeen (jätä tyhjäksi anonyymiä sidontaa varten). Käyttäjällä on oltava hakuoikeudet LDAP-puussa.
+    search_key: Hakuavain
+    search_key_description: Hakuavainta ja toimialuetta käytetään käyttäjien etsimiseen LDAP-puusta. Alla olevasta taulukosta näet, miten hakuavain ja toimialue toimivat yhdessä käyttäjän löytämiseksi.
+    search_key_description2: Jos LDAP-hakuavain siis sisältää sähköpostiosoitteen, toimialueen on oltava tyhjä. Jos LDAP-hakuavain sisältää vain käyttäjätunnuksen, toimialueen on sisällettävä käyttäjien toimialue.
+    search_key_defaults: "Active Directoryssä hyvä lähtökohta on: sAMAccountName LDAP-hakuavaimena ja yritys.fi (oma toimialueesi) toimialueena."
+    user_enters: Käyttäjä syöttää
+    authorized_ldap_groups: Valtuutetut LDAP-ryhmät
+    available_groups: Käytettävissä olevat ryhmät
+    default_settings: Oletusasetukset
+    setting: Asetus
+    value: Arvo
+    description: Kuvaus
+    default_local_max_description: Tämä on uusien paikallisten käyttäjien tiedoston oletusenimmäiskoko. Sitä voi muuttaa käyttäjäkohtaisesti.
+    user_changeable: Käyttäjä voi muuttaa?
+    non_local: Ei-paikallinen
+    remote: Etä
+    new_external_recipient_is_nonlocal: Uudet ulkoiset vastaanottajat ovat
+    email_message_on_top_label: Viesti ylimpänä
+    email_message_on_top: Viesti sijoitetaan vastaanottajille lähetettävässä sähköpostissa tiedostoluettelon yläpuolelle
+    use_either_permitted_or_blocked_extensions: Valitse joko sallitut tai estetyt tiedostopäätteet, ei molempia
+    invalid_password: Virheellinen salasana
+    valid_password: Kelvollinen salasana
+    test_password_validation: Testaa salasanan tarkistus
+    custom_password_validation: Mukautettu salasanan tarkistus
+    custom_password_validation_description: "Tätä säännöllistä lauseketta käytetään mukautetussa salasanan tarkistuksessa. Kirjoita vain säännöllinen lauseke ilman erottimia (älä aloita tai lopeta merkillä '/'). Esimerkki: [a-zA-Z0-9]{7,} (salasanat saavat silloin sisältää vain merkkejä a-z, A-Z ja 0-9, vähintään 7 merkkiä)"
+    filedrop: Filedrop
+    receive: Vastaanota
+    api_settings: API-asetukset
+    enable_api_label: Ota API käyttöön
+    enable_api_description: Ota API käyttöön, jotta laajennukset ja komentosarjat voivat käyttää järjestelmää
+    enable_api_group_config: Lisää API-asetuksia on ryhmämäärityksissä.
+    api_client_size_override_label: API-asiakkaiden kokoraja
+    api_client_size_override_description: API-asiakkaat lähettävät tätä suuremmat tiedostot laitteen kautta
+    sso_secret_key: SSO-salainen avain
+    generate_key: Luo uusi avain
+    sso_replace_confirm: Oletko varma? Jos korvaat SSO-salaisen avaimen, nykyiset SSO-integraatiot lakkaavat toimimasta.
+    virus_scan_skip_locals: Ohita virustarkistus paikallisilta käyttäjiltä
+    virus_scan_skip_locals_description: Älä tarkista paikallisten käyttäjien tiedostoja virusten varalta
+    virus_scan_permit_unscanned: Salli tarkistamattomat tiedostot
+    virus_scan_permit_unscanned_description: Salli niiden tiedostojen lataaminen, joita ei ole vielä tarkistettu
+    userdrop: Käyttäjän Filedrop
+    user_filedrop_with_random_key: Käyttäjien Filedropit satunnaisella avaimella
+    enable_userdrop: Ota käyttäjien Filedropit käyttöön
+    example: Esimerkki
+    user_filedrop_with_email: Käyttäjien Filedropit sähköpostiosoitteilla
+    enable_userdrop_email: Ota käyttäjien Filedropit sähköpostiosoitteella käyttöön
+    userdop_email_data_leakage: Tämän avulla voitaisiin selvittää paikallisia sähköpostiosoitteita kokeilemalla osoitteita Filedrop-URL:ssä ja katsomalla, mitkä antavat kelvollisen vastauksen.
+    userdrop_files_expire_after: Jätetyt tiedostot vanhenevat
+    userdrop_max_filesize: Käyttäjän Filedropin tiedoston enimmäiskoko
+    bruteforce_label: Suojaus väsytyshyökkäyksiä vastaan
+    bruteforce_description_1: Estä IP-osoite
+    bruteforce_description_2: minuutiksi, kun
+    bruteforce_description_3: kirjautumista/rekisteröintiä on epäonnistunut
+    bruteforce_description_4: minuutin aikana
+    bruteforce_whitelist_label: Väsytyshyökkäyssuojauksen sallittujen luettelo
+    allowed_admin_networks_label: Hallintaverkot
+    allowed_admin_networks_description: Rajoita järjestelmänvalvojan käyttö näihin isäntiin ja verkkoihin. Localhost (127.0.0.1, ::1) on aina sallittu
+    enable_strong_authentication: Ota vahva todennus oletuksena käyttöön näille käyttäjätyypeille
+    authenticated_username: Todennettu käyttäjätunnus
+    duo_hostname: Duo-isäntänimi
+    duo_client_id: Duo-integraatioavain
+    duo_client_secret: Duo-salainen avain
+    strong_authentication_test: Testaa vahva todennus
+    stronger_password: Valitse vahvempi salasana.
+    cannot_begin_or_end_with_blank: Salasana ei voi alkaa eikä päättyä välilyöntiin.
+    at_least_one_invalid_domain: Vähintään yksi virheellinen toimialue
+    at_least_one_invalid_email: Vähintään yksi virheellinen sähköpostiosoite
+    email_security_level: Sähköpostin toimituksen suojaustaso
+    geoip: GeoIP-haku
+    geoip_description: Lataa sijaintitietoja osoitteesta https://geoip.liquidfiles.com ja näyttää karttoja.
+    tooltip:
+      local_domains: Paikallinen käyttäjä voi lähettää tiedostoja kenelle tahansa. Ei-paikallinen käyttäjä voi lähettää tiedostoja vain paikallisille käyttäjille. Kun käyttäjä kirjautuu ensimmäisen kerran tai tili luodaan, sähköpostiosoitteen toimialuetta verrataan näihin toimialueisiin sen selvittämiseksi, katsotaanko käyttäjä paikalliseksi.
+      ldap_users_are_always_local: Jokainen LDAP:n kautta todennettu käyttäjä katsotaan automaattisesti paikalliseksi toimialueesta riippumatta.
+      allow_registration: Sallii rekisteröitymisen kirjautumissivulla. Paikallisten toimialueiden luettelo määrittää, onko uusi käyttäjä paikallinen vai ei-paikallinen.
+      local_user_maxfile: Kun paikallinen käyttäjä rekisteröityy tai todennetaan ensimmäistä kertaa etätodennuksella, hänelle asetetaan tämä tiedoston enimmäiskoko.
+      nonlocal_user_maxfile: Kun ei-paikallinen käyttäjä rekisteröityy, hänelle asetetaan tämä tiedoston enimmäiskoko.
+      delete_downloaded_files_after: Ladattu tiedosto säilytetään näin kauan. Ajan on oltava riittävän pitkä, jotta vastaanottaja voi valita toisen latauspaikan tai aloittaa alusta, mutta riittävän lyhyt, jotta linkki ei leviä muille.
+      file_expiration: Sallii käyttäjien muuttaa tiedostojen vanhenemisaikaa. Jos tätä ei ole otettu käyttöön, kaikille tiedostoille asetetaan oletusvanhenemisaika.
+      default_expire_files_after: Tiedostot vanhenevat tämän ajan kuluttua.
+      blocked_file_extensions: Estä tiedostot, joilla on nämä tiedostopäätteet (kirjainkoolla ei ole merkitystä).
+      virus_scan: Tarkista kaikki ladatut tiedostot virusten varalta ClamAV-virustorjunnalla
+      require_authentication_permission: Kun tämä on käytössä, käyttäjät voivat itse valita, vaaditaanko todennus
+      default_bcc_myself: Kun tämä on käytössä, viestit lähetetään oletuksena myös käyttäjälle itselleen
+      permitted_file_extensions: "Jos kenttä on tyhjä, kaikki tiedostopäätteet ovat sallittuja. Jos vähintään yksi tiedostopääte on annettu, vain annetut tiedostotyypit ovat sallittuja. Esimerkki: png, gif, jpg, txt"
+      new_external_recipient_is_nonlocal: Kun viesti lähetetään uudelle vastaanottajalle, luodaanko vastaanottaja ei-paikallisena käyttäjänä (jotta hän voi vastata) vai ulkoisena käyttäjänä?
+      email_message_on_top: Kun tämä on valittu, viesti sijoitetaan vastaanottajille lähetettävässä sähköpostissa tiedostoluettelon yläpuolelle. Muussa tapauksessa tiedostoluettelo sijoitetaan viestin yläpuolelle.
+      email_sender: Tätä sähköpostiosoitetta käytetään järjestelmän luomien sähköpostien, kuten salasanan palautusten, lähettäjänä. Jotta viestejä ei merkittäisi roskapostiksi, osoitteen on oltava todellinen sähköpostiosoite.
+      email_host: Liitteet käyttävät tätä URL-osoitetta perus-URL:nä. Yleensä se on http://isantanimi.toimialue tai https://isantanimi.toimialue, mutta se voi olla https://isantanimi.toimialue:4433, jos käytät palomuurissa porttiohjausta, kun käyttäjät yhdistävät LiquidFiles-laitteeseen.
+      email_footer: Tämä allekirjoitus lisätään kaikkiin lähteviin sähköposteihin.
+      email_relay: Käytä tätä sähköpostipalvelinta lähtevän sähköpostin välittämiseen.
+      email_relay_username: Tili, jolla kirjaudutaan sähköpostin välityspalvelimeen
+      email_relay_password: Salasana tilille, jolla kirjaudutaan sähköpostin välityspalvelimeen
+  date:
+    formats:
+      default: "%d.%m.%Y"
+      short: "%d.%m."
+      medium: "%d.%m.%Y"
+      long: "%d.%m.%Y"
+  time:
+    am: ap.
+    pm: ip.
+    formats:
+      default: "%d.%m.%Y %H:%M:%S %z"
+      short: "%d.%m. %H:%M"
+      medium: "%d.%m.%Y %H:%M"
+      long: "%d.%m.%Y %H:%M"
+  downloads:
+    download_id: Lataustunnus
+    index:
+      download_log_title: Lataukset
+      download_log_description: Kuka latasi mitä ja milloin
+      paginator_entry_name: latausta
+    show:
+      no_map_for_reserved_address: Varatuille osoitteille ei voi näyttää karttaa
+  filedrop:
+    filedrop: Filedrop
+    no_such_filedrop: Tätä Filedropia ei ole olemassa
+    invalid_filedrop_url: Virheellinen Filedrop-URL
+    invalid_filedrop_url_description: Tässä osoitteessa ei ole Filedropia. Tarkista URL ja yritä uudelleen.
+    label: Filedropit
+    mb: Mt
+    name: Nimi
+    name_description: Lyhyt nimi, jota käytetään myös URL-osoitteessa (esim. /filedrop/nimi)
+    title: Otsikko
+    title_description: Sivun yläosassa näkyvä otsikko
+    description: Kuvaus
+    description_description: Otsikon alla näkyvä kuvaus
+    user: Vastaanottava käyttäjä
+    user_description: Kuka tahansa paikallinen käyttäjä voidaan asettaa vastaanottajaksi
+    cc: Kopio
+    cc_description: "(pilkuilla erotettuina) Lähetä kopio näihin osoitteisiin"
+    expires_after: Vanhenee
+    expires_after_description: päivän kuluttua
+    max_filesize: Tiedoston enimmäiskoko
+    max_filesize_description: Mt
+    reset_filedrop: Palauta Filedrop-URL
+    filedrop_reset_warning: Oletko varma? Jos palautat Filedrop-URL:n, sinun on vaihdettava se kaikkialle, missä olet julkaissut sen.
+    permitted_extensions: Sallitut tiedostopäätteet
+    permitted_extensions_description: Vain nämä tiedostotyypit sallitaan
+    blocked_extensions: Estetyt tiedostopäätteet
+    blocked_extensions_description: Nämä tiedostotyypit estetään
+    demo_license_warning_standard: Filedropien tuotantokäyttö edellyttää lisenssiä. Päivitä Pro-lisenssiin ottaaksesi Filedrop-toiminnon käyttöön.
+    max_one_during_demo: Kokeilun aikana tai Standard-lisenssillä voit määrittää enintään yhden Filedropin
+    filedrop_info: Filedropin avulla asiakkaasi voivat lähettää sinulle tiedostoja ilman todennusta tai ennakkovalmisteluja. Jokaisella Filedropilla on pysyvä URL-osoite, johon voi linkittää verkkosivuilta tai sähköpostiallekirjoituksista. Kun joku jättää tiedoston Filedropiin, se lähetetään automaattisesti ennalta määritetylle käyttäjälle.
+    authorization: Käyttöoikeus
+    authorization_description: kuka saa ladata Filedropiin jätetyt tiedostot
+    you_will_be_notified: Saat latauskuittauksen, kun tiedostosi on ladattu.
+    require_authentication: Tämä Filedrop vaatii todennuksen. Jatka antamalla salasana.
+    authenticate: Todenna
+    authentication_failed: Todennus epäonnistui
+    require_validation: Tämä Filedrop vaatii todennuksen tai sähköpostiosoitteesi vahvistamisen.
+  filelink:
+    filelink: FileLink
+    filelinks: FileLinkit
+    filelink_title: FileLink
+    filelink_description: FileLink on linkki yksittäiseen tiedostoon. Voit lähettää linkin kenelle tahansa luomatta viestiä tai määrittämättä vastaanottajia. Vain ne henkilöt, joille olet lähettänyt satunnaisen linkin, voivat ladata tiedoston.
+    expired_or_nonexistent_title: Virheellinen FileLink
+    expired_or_nonexistent: Tämä FileLink on vanhentunut tai sitä ei ole olemassa. Pyydä lähettäjältä uusi linkki.
+    existing_filelinks: Olemassa olevat FileLinkit
+    new_filelink: Uusi FileLink
+    available_files: Käytettävissä olevat tiedostot
+    filename: Tiedostonimi
+    filesize: Tiedoston koko
+    expires_at: Vanhenee
+    link: Linkki
+    checksum: Tarkistussumma
+    copy_link_to_clipboard: Kopioi FileLink leikepöydälle
+    expire_link_at: Linkki vanhenee
+    you_have_no_filelinks: Sinulla ei ole FileLinkejä. Lisää uusi FileLink tai luo se käytettävissä olevasta tiedostosta.
+    you_have_no_files_available: Sinulla ei ole aiemmin lähetettyjä tiedostoja. Kun olet lähettänyt vähintään yhden tiedoston, voit valita sen tässä luodaksesi siitä FileLinkin.
+    create_link: Luo linkki
+    invalid_file: Virheellinen tiedosto, FileLinkiä ei voi luoda
+    delete: Poista
+    delete_link_warning: Haluatko varmasti poistaa tämän FileLinkin?
+    could_not_delete_link: FileLinkin poistaminen epäonnistui. Linkkiä ei löytynyt!
+    filelink_deleted: FileLink poistettu!
+    select_file: Valitse tiedosto
+    send_download_receipts: Lähetä latauskuittaukset
+    disabled: FileLinkit eivät ole käytössä, ota yhteyttä järjestelmänvalvojaan
+    unauthorized: Sinulla ei ole oikeutta käyttää FileLinkejä
+    require_authentication: Vaadi todennus
+    filelink_require_authentication: Tämä FileLink edellyttää todennusta
+    filelink_url: FileLink-URL
+    expired: Vanhentunut
+    filelink_expired: FileLink vanhentunut
+    select_from_available_files: Voit myös luoda FileLinkin mistä tahansa näistä olemassa olevista tiedostoista.
+    downloads: Lataukset
+    authentication_failed: Todennus epäonnistui
+    password_label_html: Salasana <small class="text-muted">(valinnainen)</small>
+    password_present_html: Tälle FileLinkille on asetettu salasana.<br>Voit poistaa sen tallentamalla tyhjän salasanan.
+    password_not_present: Salasanaa ei ole asetettu.
+    copy_to_clipboard: Kopioi FileLink leikepöydälle
+    add_file: Lisää tiedosto
+  ftpdrop:
+    create:
+      ftpdrop: FTPdrop
+  html_editor:
+    font:
+      bold: Lihavointi
+      italic: Kursivointi
+      underline: Alleviivaus
+      clear: Poista muotoilu
+      height: Riviväli
+      name: Fontti
+      strikethrough: Yliviivaus
+      subscript: Alaindeksi
+      superscript: Yläindeksi
+      size: Fonttikoko
+    image:
+      image: Kuva
+      insert: Lisää kuva
+      resize_full: Täysi koko
+      resize_half: Puolikas koko
+      resize_quarter: Neljännes koosta
+      float_left: Tasaa vasemmalle
+      float_right: Tasaa oikealle
+      float_none: Ei tasausta
+      shape_rounded: "Muoto: pyöristetty"
+      shape_circle: "Muoto: ympyrä"
+      shape_thumbnail: "Muoto: pikkukuva"
+      shape_none: "Muoto: ei mitään"
+      url: Kuvan URL
+      remove: Poista kuva
+    link:
+      link: Linkki
+      insert: Lisää linkki
+      unlink: Poista linkki
+      edit: Muokkaa
+      text_to_display: Näytettävä teksti
+      url: Mihin URL-osoitteeseen linkin pitäisi viedä?
+      open_in_new_window: Avaa uudessa ikkunassa
+    table:
+      table: Taulukko
+    hr:
+      insert: Lisää vaakaviiva
+    style:
+      style: Tyyli
+      normal: Normaali
+      blockquote: Lainaus
+      pre: Koodi
+      h1: Otsikko 1
+      h2: Otsikko 2
+      h3: Otsikko 3
+      h4: Otsikko 4
+      h5: Otsikko 5
+      h6: Otsikko 6
+    lists:
+      unordered: Luettelomerkit
+      ordered: Numeroitu luettelo
+    options:
+      help: Ohje
+      fullscreen: Koko näyttö
+      codeview: Koodinäkymä
+    paragraph:
+      paragraph: Kappale
+      outdent: Pienennä sisennystä
+      indent: Suurenna sisennystä
+      left: Tasaa vasemmalle
+      center: Keskitä
+      right: Tasaa oikealle
+      justify: Tasaa molemmat reunat
+    color:
+      recent: Viimeisin väri
+      more: Lisää värejä
+      background: Taustaväri
+      foreground: Tekstin väri
+      transparent: Läpinäkyvä
+      set_transparent: Aseta läpinäkyväksi
+      reset: Palauta
+      reset_to_default: Palauta oletus
+    shortcut:
+      shortcuts: Pikanäppäimet
+      close: Sulje
+      text_formatting: Tekstin muotoilu
+      action: Toiminto
+      paragraph_formatting: Kappaleen muotoilu
+      document_style: Asiakirjan tyyli
+      extra_keys: Lisänäppäimet
+    history:
+      undo: Kumoa
+      redo: Tee uudelleen
+  invite:
+    invite_user: Kutsu käyttäjä
+    description: Voit kutsua käyttäjiä jakamaan tiedostoja kanssasi. Kun olet antanut heidän tietonsa, he saavat sähköpostin, jossa on ohjeet rekisteröinnin viimeistelyyn.
+    send_invite: Lähetä kutsu
+    name_placeholder: Koko nimi
+    invitation_sent: Kutsu lähetetty
+    not_permitted_to_invite_users: Sinulla ei ole oikeutta kutsua käyttäjiä.
+    invalid_email: Virheellinen sähköpostiosoite
+  link:
+    show:
+      set_password: Aseta salasana
+      download: Lataa
+      downloads_and_info: Kaikki lataukset ja lisätietoja
+    authenticate:
+      show:
+        title: FileLinkin salasana
+        authenticate: Todenna
+        require_authentication: Avataksesi tämän FileLinkin sinun on annettava vaadittu salasana.
+      create:
+        authentication_failed: Todennus epäonnistui.
+    downloads:
+      index:
+        back_to_filelink: Takaisin FileLinkiin
+    link_downloads:
+      latest_downloads: Viimeisimmät lataukset (%{count}/%{total})
+  menu:
+    shares: Sharet
+    messages: Viestit
+    send_files: Kirjoita
+    users: Käyttäjät
+    active_transfers: Aktiiviset siirrot
+    configuration: Määritys
+    system: Järjestelmä
+    message_list: Viestiluettelo
+    settings: Asetukset
+    admin: Hallinta
+    account: Tili
+    inbox: Saapuneet
+    sent_messages: Lähetetyt
+    downloads: Latausloki
+    filelink: FileLinkit
+    secure_messages: Suojatut viestit
+    support: Tuki
+  message:
+    message_sent: Viesti lähetetty
+    not_found: Viestiä ei löytynyt
+    message_not_found_header: Viestiä ei löytynyt!
+    message_not_found_description: Pyydä lähettäjää lähettämään viesti uudelleen.
+    previous_recipients: Aiemmat vastaanottajat
+    contacts: Yhteystiedot
+    is_not_permitted: ei ole sallittu
+    not_permitted_to_delete_messages: Sinulla ei ole oikeutta poistaa viestejä
+    is_not_in_any_of_the_allowed_domains: ei kuulu mihinkään sallituista toimialueista
+    is_not_in_any_of_the_allowed_groups: ei kuulu mihinkään sallituista ryhmistä
+    attach_1_file: Sinun on liitettävä vähintään yksi tiedosto
+    too_many_files: Liian monta liitettä. Voit liittää yhteen viestiin enintään %{count} tiedostoa.
+    attached_files: Liitetyt tiedostot
+    expired: Viesti on vanhentunut
+    authorize:
+      show:
+        title: Kirjaudu sisään avataksesi suojatun viestin
+        authenticate_description_html: Olet avaamassa suojattua viestiä. Sinun on ensin kirjauduttava sisään. Anna sähköpostiosoitteesi tai kirjaudu sisään jatkaaksesi.<br>Jos sinulla ei ole tiliä järjestelmässä, anna sähköpostiosoitteesi, niin lähetämme sinulle suojatun linkin osoitteen vahvistamista varten.
+        unauthenticated_html: <h4>Virheellinen käyttäjätunnus tai salasana</h4><p>Anna käyttäjätunnuksesi ja salasanasi. Voit palauttaa salasanasi alla olevalla Salasanan palautus -painikkeella.</p>
+        unauthorized_to_view_check_email_html: <h4>Luvaton sähköpostiosoite</h4><p>Tarkista, että suojattu viesti [<span class="font-monospace fw-bold">%{message_id}</span>] on lähetetty sinulle, ja anna sähköpostiosoite täsmälleen siinä muodossa kuin viesti lähetettiin.</p><p>Jos sähköpostiosoitteesi voi olla esimerkiksi sekä matti.virtanen@yritys.fi että mvirtanen@yritys.fi, järjestelmä ei voi tietää, että ne ovat sama osoite. Jos suojattu viesti lähetettiin osoitteeseen matti.virtanen@yritys.fi, sinun on annettava tässä juuri se osoite.</p><p>Jos olet epävarma, ota yhteyttä suojatun viestin lähettäjään.</p>
+    errors:
+      not_authorized_to_view_message: "Sinulla ei ole oikeutta tarkastella viestiä, jonka tunnus on: %{message_id}. Tarkista, että viesti on lähetetty sinulle."
+      private_message_requires_authentication: Yksityiset viestit edellyttävät todennusta
+    attachments:
+      download_attachment_details_csv: Lataa liitteiden tiedot (CSV)
+      attachment:
+        fileinfo: Tiedoston tiedot
+        file_size: Tiedoston koko
+        content_type: Sisältötyyppi
+        checksum: Tarkistussumma
+        virus_status: Virustila
+    compose:
+      options_permission:
+        authentication_required: Todennus vaaditaan
+        authentication_not_required: Todennusta ei vaadita
+        require_authentication_description: Täytyykö vastaanottajien todentautua avatakseen tämän viestin?
+        access_restriction_html: Käytön rajoitus<br><small class="text-muted">Kuka voi avata tämän viestin?</small>
+        recipients_only_html: Vain<br>vastaanottajat
+        recipients_plus_locals_html: Vastaanottajat<br>+ paikalliset käyttäjät
+        recipients_plus_domains_html: Vastaanottajat<br>+ toimialueet
+        anyone_secret_link_html: Kuka tahansa<br>(salainen linkki)
+    unavailable:
+      header: Viesti ei ole saatavilla
+      description: Viesti on vanhentunut, poistettu, sitä ei ole olemassa tai se ei ole enää saatavilla. Pyydä lähettäjää lähettämään viesti uudelleen.
+    downloads:
+      index:
+        download_log_title: Latausloki
+        message_id: Viestin tunnus
+        paginator_entry_name: Lataukset
+      download:
+        details: Tiedot
+      not_found:
+        title: Viestiä tai latausta ei löytynyt
+        description_html: Viestiä tai latausta ei löytynyt, tai sinulla ei ole oikeutta tarkastella sitä
+    temporary_user:
+      create:
+        invalid_temporary_user: Virheellinen salasana. Tarkista sähköposti, jossa on tilapäinen salasanasi, tai pyydä uusi tilapäinen salasana.
+        temporary_user_expired: Tämä tilapäinen salasana on vanhentunut. Uusi tilapäinen salasana on lähetetty sähköpostiosoitteeseesi. Tarkista saapuneet viestit ja käytä uutta tilapäistä salasanaa.
+        not_authorized_to_view_message: "Sinulla ei ole oikeutta tarkastella viestiä, jonka tunnus on: %{message_id}. Tarkista, että viesti on lähetetty sinulle."
+      show:
+        title: Anna tilapäinen salasanasi
+        description_html: "Olet avaamassa suojattua viestiä. Avataksesi viestin sinun on annettava tilapäinen salasanasi.<br>Tilapäinen salasana on yksilöllinen, satunnainen merkkijono, joka tunnistaa sinut. Tilapäinen salasana on lähetetty sinulle erillisessä sähköpostissa (aihe: Tilapäinen salasana)."
+        what_is_this: Mikä tämä on?
+        login: Kirjaudu sisään
+        submit: Tarkista tilapäinen salasana
+        submit_email: Lähetä
+        if_you_have_account: "(jos sinulla on jo tili)"
+        request_temporary_user_header: Pyydä uusi tilapäinen salasana
+        request_temporary_user_description_html: Voit pyytää uuden tilapäisen salasanan tämän viestin avaamiseksi. Anna sähköpostiosoitteesi alle pyytääksesi uuden tilapäisen salasanan tätä suojattua viestiä varten.
+        info_header: Tietoja tilapäisestä salasanasta
+        info_body_html: "<p>Tilapäinen salasana on yksilöllinen numeroiden ja kirjainten sarja, esimerkiksi:</p><pre><code>3ynp-7FKa-pZS9</code></pre><p><em>Tämä tilapäinen salasana on vain esimerkki, jotta näet, miltä se näyttää – sitä ei voi käyttää.</em></p><p>Saapuneista löydät <strong>kaksi sähköpostia</strong>: suojatun viestin sisältävän viestin ja viestin, jonka <strong>aihe alkaa sanoilla: Tilapäinen salasana</strong>. Jälkimmäisessä on yksilöllinen tilapäinen salasanasi tähän järjestelmään.</p><p>Jos et ole saanut sähköpostia, jossa on tilapäinen salasana, sinulla saattaa jo olla tili järjestelmässä. Napsauta tällöin ”Kirjaudu sisään”.</p><p>Jos uskot, että sinun olisi pitänyt saada tilapäinen salasana mutta et ole saanut sitä, napsauta ”Pyydä tilapäinen salasana” saadaksesi uuden.</p>"
+        email_address: Sähköpostiosoite
+        email_not_permitted: Tällä sähköpostiosoitteella ei ole oikeutta tarkastella tätä suojattua viestiä.
+        email_not_permitted_description_html: <p>Tarkista saamasi suojatun viestin sähköposti ja anna sähköpostiosoite täsmälleen siinä muodossa kuin viesti lähetettiin.</p><p>Jos sähköpostiosoitteesi voi olla esimerkiksi sekä matti.virtanen@yritys.fi että mvirtanen@yritys.fi, järjestelmä ei voi tietää, että ne ovat sama osoite. Jos suojattu viesti lähetettiin osoitteeseen matti.virtanen@yritys.fi, sinun on annettava tässä juuri se osoite.</p><p>Jos olet epävarma, ota yhteyttä suojatun viestin lähettäjään.</p>
+        email_can_login: Sinulla on jo tili järjestelmässä
+        email_can_login_description_html: <p>Voit kirjautua järjestelmään tällä sähköpostiosoitteella ja salasanallasi.</p><p>Napsauta alla olevaa Kirjaudu sisään -painiketta kirjautuaksesi nykyisellä tililläsi.</p>
+        temporary_user_delivered_header: Tilapäinen salasana lähetetty
+        temporary_user_delivered_description_html: <p>Tilapäinen salasana on lähetetty sähköpostiosoitteeseesi. Tarkista saapuneet viestit, sulje tämä ikkuna ja anna tilapäinen salasana.</p>
+    reply:
+      re: "Vs:"
+      wrote: kirjoitti
+      show:
+        title: Vastaa suojattuun viestiin
+        from: Lähettäjä
+        reply: Vastaa
+        reply_all: Vastaa kaikille
+      options:
+        options_description: Huomaa, että kaikki asetukset periytyvät alkuperäisestä viestistä.
+    show:
+      back: Takaisin
+      message_header: Viestin otsake
+      reply: Vastaa
+  messages:
+    sent:
+      skipped_file_not_found: Ohitettu - tiedostoa ei löytynyt
+      show:
+        sent_title: Lähetetyt
+        sent_description: Lähettämäsi viestit
+        paginator_entry_name: viestiä
+    attachments:
+      download_cmd:
+        unauthorized:
+          header: Ei käyttöoikeutta
+          body: Sinulla ei ole oikeutta ladata tätä tiedostoa. Pyydä lähettäjää lähettämään tiedosto sinulle uudelleen.
+          back: Takaisin
+        exceeded:
+          header: Latausraja ylitetty
+          body: Tämän tiedoston latausraja on ylitetty. Pyydä lähettäjää lähettämään tiedosto sinulle uudelleen.
+          back: Takaisin
+    download_zip:
+      unauthorized:
+        header: Ei käyttöoikeutta
+        body: Sinulla ei ole oikeutta ladata tätä arkistoa. Pyydä lähettäjää lähettämään tiedosto sinulle uudelleen.
+        back: Takaisin
+      exceeded:
+        header: Latausraja ylitetty
+        body: Latausraja on ylitetty yhden tai useamman tämän arkiston tiedoston osalta. Pyydä lähettäjää lähettämään tiedosto sinulle uudelleen.
+        back: Takaisin
+    message:
+      reply: Vastaa
+      reply_all: Vastaa kaikille
+  models:
+    user:
+      no_need_to_create_local_user: Paikallista käyttäjää ei tarvitse luoda
+      license_exceeded: Lisenssiraja ylitetty
+  notifier:
+    activate_user_subject: "[%{hostname}] Aktivoi tili"
+    user_activation: Käyttäjän aktivointi
+    please_visit_the_following_url_to_activate: Aktivoi tilisi napsauttamalla seuraavaa linkkiä
+    the_following_files_are_attached: Tähän viestiin on liitetty seuraavat tiedostot
+    please_visit_the_following_url: Lataa liitteet napsauttamalla tätä linkkiä
+    attachments_are_available: Liitteet ovat saatavilla
+    message_id: "Viestin tunnus: %{id}"
+    email_password_reset_subject: Salasanan palautus
+    download_receipt_subject: "Latauskuittaus [ID: %{message_id}]"
+    a_file_that_you_sent: Lähettämäsi tiedosto on ladattu. Säilytä tämä viesti latauksen todisteena.
+    recipient: Vastaanottaja
+    filename: Tiedostonimi
+    time_of_download: Latausaika
+    downloaded_from: Ladattu osoitteesta
+    download_receipt: Latauskuittaus
+    user_created:
+      account_created: Tili luotu
+      subject: "[%{hostname}] Tili luotu"
+      message: "Sinulle on suojattu liite odottamassa. Sinun on todentauduttava ladataksesi sen. Rekisteröidy napsauttamalla seuraavaa linkkiä:"
+  outlook:
+    messages:
+      new:
+        attachments_header: Liitteet
+        attachments_hint: Voit liittää tiedostoja vetämällä ne alla olevaan osioon tai napsauttamalla Liitä tiedostot -painiketta.
+        add_to_message: Lisää viestiin
+      attachments:
+        attach_files: Liitä tiedostot
+        drop_files_here: Pudota tiedostot tähän...
+      options:
+        recipients_can_reply: Vastaanottajat voivat vastata
+        send_copy_to_myself: Lähetä kopio itselleni
+        private_message: Yksityinen viesti
+        private_message_required_auth_error: Kun lähetät yksityisen viestin, sinun on käytettävä tilaa ”Todennus vaaditaan”.
+      options_authorization:
+        authentication_authorization_title_html: Todennus &amp; valtuutus
+        authentication_select_title: Valitse todennus
+        authentication_required: Todennus vaaditaan
+        authentication_not_required: Todennusta ei vaadita
+        authorization_select_title: Valitse valtuutus
+        recipients_only: Vain vastaanottajat
+        recipients_locals: Vastaanottajat + paikalliset käyttäjät
+        recipients_domains: Vastaanottajat + toimialueet
+        anyone: Kuka tahansa (salainen linkki)
+      options_expiration:
+        message_expires: Viesti vanhenee
+        message_expires_after: Viesti vanhenee
+  pagination:
+    first: "&laquo; Ensimmäinen"
+    last: Viimeinen &raquo;
+    previous: "&lsaquo; Edellinen"
+    next: Seuraava &rsaquo;
+    truncate: "&hellip;"
+  requests:
+    title: Tiedostopyyntö
+    file_request: Tiedostopyyntö
+    files_sent: Tiedostot lähetetty, kiitos!
+    request_file: Pyydä tiedostoa
+    file_requests: Tiedostopyynnöt
+    description: Tiedostopyynnöllä voit pyytää jotakuta lähettämään sinulle tiedostoja. Kun olet antanut tiedot, henkilö saa sähköpostin, jossa on yksilöllinen linkki pyydettyjen tiedostojen lähettämistä varten.
+    file_request_not_found: Tiedostopyyntöä ei löytynyt
+    file_request_expired: Tiedostopyyntö on vanhentunut
+    file_request_already_used: Tiedostopyyntö on jo käytetty
+    file_request_sent: Tiedostopyyntö lähetetty
+    not_permited: Sinulla ei ole oikeutta käyttää tiedostopyyntötoimintoa
+    multiuse: Monikäyttöinen - tätä tiedostopyynnön linkkiä voi käyttää useita kertoja
+    invalid_recipient: Virheellinen vastaanottaja, tämä tiedostopyyntö lähetettiin jollekulle muulle
+    invalid_user: Tämä ei ole sinun tiedostopyyntösi
+    index:
+      title: Tiedostopyynnöt
+      new_file_request: Uusi tiedostopyyntö
+      multiuse: Monikäyttöinen
+      responded_to: Vastattu
+      hide_expired: Piilota vanhentuneet ja käytetyt
+      show_expired: Näytä vanhentuneet ja käytetyt
+    request:
+      resend: Lähetä uudelleen
+      are_you_sure_you_want_to_delete: Haluatko varmasti poistaa tämän tiedostopyynnön?
+    popup:
+      from: Lähettäjä
+      to: Vastaanottaja
+      subject: Aihe
+      message: Viesti
+    resend:
+      request_resent: Tiedostopyyntö lähetettiin uudelleen
+    new:
+      request_expires: Pyyntö vanhenee
+  send:
+    send: Lähetä
+    sent: Lähetetty
+    recipients: Vastaanottaja
+    send_as: Lähetä nimellä
+    you_can_only_send_files_to_yourself: Voit lähettää tiedostoja vain itsellesi
+    subject: Aihe
+    subject_placeholder: Aihe
+    attachments: Liitteet
+    max_file_size: "Liitteiden enimmäiskoko: %{filesize} Mt"
+    upload_queue: Latausjono
+    remove: Poista
+    cancel_all: Peruuta kaikki
+    cancel_all_uploads: Peruuta kaikki lataukset
+    message: Viesti
+    message_placeholder: Viesti
+    done_editing_please_send: Olen valmis, lähetä tiedostot, kun kaikki lataukset ovat valmiit
+    files_sent_successfully: Tiedostot lähetetty
+    you_need_at_least_one_recipient: Tarvitaan vähintään yksi vastaanottaja
+    you_need_at_least_one_attachment: Tarvitaan vähintään yksi liite
+    options: Asetukset
+    cc: Kopio
+    bcc: Piilokopio
+    bcc_message_description: Piilokopion vastaanottajia ei näytetä muille vastaanottajille
+    add_cc: lisää kopio
+    add_bcc: lisää piilokopio
+    bcc_myself: Lähetä kopio itselleni
+    require_login: Vaadi kirjautuminen tiedostojen lataamiseen
+    only_specified_recipients_can_download: Vain määritetyt vastaanottajat voivat ladata liitteet
+    anyone_can_download: Kuka tahansa voi ladata liitteet
+    expires_in: Liitteet ovat ladattavissa
+    expires_at: Liitteet vanhenevat
+    send_options: Lähetysasetukset
+    to: Vastaanottaja
+    from: Lähettäjä
+    filename: Tiedostonimi
+    filesize: Tiedoston koko
+    downloaded_at: Ladattu
+    message_sent: Viesti lähetetty
+    message_expires: Viesti vanhenee
+    message_expires_after: Viesti vanhenee
+    message_expires_after_description: Laskenta tehdään tiedostokohtaisesti. Jos lähetät 2 tiedostoa, jotka vanhenevat 1 latauksen jälkeen, jokainen vastaanottaja voi ladata kunkin tiedoston kerran.
+    downloads_per_recipient: Lataukset vastaanottajaa kohden
+    total_downloads: Lataukset yhteensä
+    file_not_downloaded: Liitteitä ei ole ladattu
+    at_least_one_invalid_extension: Vähintään yhdellä liitteellä on virheellinen tiedostopääte
+    invalid_filetype: Virheellinen tiedostopääte
+    blocked_extension: "Virheellinen tiedostopääte. Et voi ladata tiedostoja, joilla on seuraavat tiedostopäätteet: %{extensions}"
+    permitted_extensions: "Sallitut tiedostopäätteet: %{filetypes}"
+    already_selected: Tämä tiedosto on jo valittu
+    maximum_filesize_exceeded: Tiedoston enimmäiskoko ylitetty
+    contains_virus: "%{filename} sisältää VIRUKSEN: %{virus}"
+    limited_by_browser: Selaimen rajoittama
+    limited_by_disk: Levytilan rajoittama
+    limited_by_system_quota: Järjestelmäkiintiön rajoittama
+    limited_by_group_quota: Ryhmäkiintiön rajoittama
+    limited_by_quota: Kiintiön rajoittama
+    limited_per_message: Viestikohtainen raja
+    system_quota_exceeded: Järjestelmäkiintiö ylitetty
+    group_quota_exceeded: Ryhmäkiintiö ylitetty
+    quota_exceeded: Kiintiö ylitetty
+    no_available_quota: Kiintiö ylitetty, poista tiedostoja jatkaaksesi
+    not_authorized_to_send: Sinulla ei ole oikeutta lähettää osoitteeseen %{email}
+    public_url: Julkinen URL
+    message_url: Viestin URL
+    authorization: Valtuutus
+    insufficient_disk_space: Levytilaa ei ole riittävästi
+    active_transfers: Aktiiviset siirrot
+    view_log: Näytä loki
+    previously_sent_attachments: Aiemmin lähetetyt liitteet
+    has_not_downloaded: "%{recipient} ei ole ladannut yhtään tiedostoa"
+    authentication: Todennus
+    required: Pakollinen
+    disabled: Pois käytöstä
+    require_authentication_tooltip_html: <li>Vastaanottajan on kirjauduttava sisään käyttäjätunnuksella ja salasanalla ladatakseen tiedoston.</li> <li>Saat vahvistuksen, kun tiedosto ladataan.</li>
+    dont_require_authentication_tooltip_html: <li>Vastaanottajan ei tarvitse kirjautua sisään ladatakseen tiedoston.</li> <li>Saat vahvistuksen, kun tiedosto on ladattu, mutta et tietoa siitä, kuka sen latasi (sitä emme tiedä).</li> <li>Saat vahvistuksen vain, kun ensimmäinen vastaanottaja lataa tiedoston.</li>
+    authenticate_link_description: Sinun on kirjauduttava sisään ennen tämän FileLinkin avaamista.
+    unauthorized: Sinulla ei ole oikeutta tarkastella tätä viestiä.
+    unauthenticated: Väärä salasana
+    incorrect_login_or_demo: Väärä salasana tai lisenssiraja saavutettu
+    email_authorization_message: Kiitos. Sähköpostiosoitteesi vahvistamiseksi on lähetetty sähköposti, jossa on vahvistuskoodi. Anna vahvistuskoodi alle tai siirry viestiin napsauttamalla sähköpostissa olevaa linkkiä.
+    email_authorization_link: Kiitos. Sähköpostiosoitteesi vahvistamiseksi on lähetetty sähköposti, jossa on vahvistuskoodi. Anna sähköpostin vahvistuskoodi alle tai siirry FileLinkiin napsauttamalla sähköpostissa olevaa linkkiä.
+    email_authorization_message_create_account: Kiitos. Koska sinulla ei ole tiliä järjestelmässä, sähköpostiosoitteesi vahvistamiseksi on lähetetty sähköposti, jossa on vahvistuskoodi. Anna vahvistuskoodi alle tai vahvista osoitteesi napsauttamalla sähköpostissa olevaa linkkiä. Sen jälkeen sinua pyydetään luomaan tili, minkä jälkeen siirryt viestiin.
+    email_authorization_link_create_account: Kiitos. Koska sinulla ei ole tiliä järjestelmässä, sähköpostiosoitteesi vahvistamiseksi on lähetetty sähköposti, jossa on vahvistuskoodi. Anna sähköpostin vahvistuskoodi alle tai vahvista osoitteesi napsauttamalla sähköpostissa olevaa linkkiä. Sen jälkeen sinua pyydetään luomaan tili, minkä jälkeen siirryt FileLinkiin.
+    authorize: Valtuuta
+    authenticate: Kirjaudu sisään
+    sending: Lähetetään...
+    abort_transfer: Keskeytä siirto
+    files_to_big: Tiedosto(t) liian suuri(a)
+    only_specified_recipients: Vain määritetyillä vastaanottajilla on pääsy
+    only_specified_recipients_and_local_users: Vain määritetyillä vastaanottajilla ja paikallisilla käyttäjillä on pääsy
+    only_specified_recipients_and_domains: Vain määritetyillä vastaanottajilla ja heidän toimialueensa käyttäjillä on pääsy
+    anyone_after_authentication: Kenellä tahansa (jolla on satunnainen linkki) on pääsy
+    no_recipient_validation: Ei vastaanottajien tarkistusta
+    anyone_can_access: Kenellä tahansa on pääsy
+    anyone: Kuka tahansa
+    no_authentication: Ei todennusta
+    can_download: voivat ladata
+    not_yet_scanned: tarkistetaan parhaillaan virusten varalta, yritä hetken kuluttua uudelleen. %{queue} jonossa
+    was_infected: "oli saastunut viruksella %{virus} ja on poistettu"
+    deleted_or_expired: Poistettu tai vanhentunut
+    im_done_editing: Lähetä automaattisesti, kun käynnissä olevat lataukset ovat valmiit
+    download_all: Lataa kaikki
+    zipped_archive: ZIP-arkisto
+    message_id: Viestin tunnus
+    overall_progress: Kokonaisedistyminen
+    abort: Keskeytä
+    limitations: Rajoitukset
+    max_size: Enimmäiskoko
+    add_files: Lisää tiedostoja...
+    add_folder: Lisää kansio...
+    no_attachment_added: Liitettä ei lisätty
+    you_need_to_add_at_least_one_file: Sinun on lisättävä vähintään yksi tiedosto.
+    private_message_or_attached_files: Ota käyttöön Yksityinen viesti tai liitä vähintään yksi tiedosto.
+    no_runtime_found: Suoritusympäristöä ei löytynyt, tiedostoja ei voi lähettää
+    runtime_check_title: Suoritusympäristöä ei löytynyt
+    selected: valittu
+    file_size_error: Tiedoston kokovirhe
+    remaining: jäljellä
+    attached_files: Liitetyt tiedostot
+    show_message: Näytä viesti
+    can_be_max: voi olla enintään %{days} päivän päässä tulevaisuudessa
+    not_ready: Ei vielä valmis ladattavaksi
+    download_info: Lataustiedot
+    browser: Selain
+    platform: Alusta
+    operating_system: Käyttöjärjestelmä
+    location: Sijainti
+    download_details: Lataustiedot
+    download_information_not_found: Lataustietoja ei löytynyt.
+    add: Lisää
+    select_existing_files: Valitse olemassa olevia tiedostoja
+    add_existing_files: Lisää olemassa olevia tiedostoja
+    add_existing_description: Nämä tiedostot on jo lähetetty, ja voit lähettää ne uudelleen.
+    zip_disabled: ZIP pois käytöstä
+    zip_disabled_description_exceeded: Latausten enimmäismäärä on ylitetty vähintään yhden liitteen osalta.
+    spinner_info_html: <strong>Viestisi on valmis lähetettäväksi</strong>. Joitakin tiedostoja käsitellään vielä taustalla, mutta sinun ei tarvitse odottaa. <strong>Napsauta Lähetä, kun olet valmis!</strong>
+    sent_to_you: Lähetetty sinulle
+    excluding_admins: Järjestelmänvalvojia lukuun ottamatta
+    downloads: Lataukset
+    download_log: Latausloki
+    delete_attachments: Poista liitteet
+    delete_message: Poista viesti
+    delete_attachments_warning: Haluatko varmasti poistaa liitteet?
+    delete_message_warning: Viestin poistaminen poistaa myös liitetyt tiedostot ja latauslokin. Haluatko varmasti poistaa viestin?
+    invalid_message: Virheellinen viesti
+    message_deleted: Viesti poistettu
+    attachments_deleted: Liitteet poistettu
+    checksum: Tarkistussumma (SHA256)
+    not_permitted_to_send_messages: Sinulla ei ole oikeutta lähettää viestejä.
+    invalid_group_belonging: Lähettäminen ei ole sallittua (virheellinen ryhmä). Olet ulkoinen käyttäjä, mutta sähköpostiosoitteesi kuuluu toimialueeseen %{domain}, joka on myös rajoitettujen vastaanottajatoimialueiden luettelossa. Tämä ei ole sallittua ulkoisille käyttäjille. Pyydä järjestelmänvalvojaa siirtämään sinut toiseen ryhmään jatkaaksesi.
+    expires_after_exceeded: Latausten määrä ylitetty
+    expires_after_exceeded_for_zip: Latausten määrä ylitetty vähintään yhden ZIP-arkiston tiedoston osalta
+    permission_description_title: Käyttörajoitukset
+    permission_description_only_specified_html: <ul> <li>Vain määritetyt vastaanottajat voivat avata viestin ja ladata tiedostot.</li> <li>Sähköpostin tai URL-osoitteen välittäminen kenellekään ei ole sallittua.</li> <li>Vastaanottajien on kirjauduttava sisään avatakseen viestin ja ladatakseen tiedostot.</li> <li>Latauskuittaus yksityiskohtaisine tietoineen lähetetään aina, kun käyttäjä lataa tiedoston.</li> </ul>
+    permission_description_only_specified_and_local_html: <ul> <li>Vain määritetyt vastaanottajat ja paikalliset käyttäjät voivat ladata tiedostot.</li> <li>Sähköpostin tai URL-osoitteen saa välittää vain paikallisille käyttäjille.</li> <li>Vastaanottajien on kirjauduttava sisään ladatakseen tiedostot.</li> <li>Latauskuittaus yksityiskohtaisine tietoineen lähetetään aina, kun käyttäjä lataa tiedoston.</li> </ul>
+    permission_description_only_specified_and_domains_html: <ul> <li>Vain määritetyillä vastaanottajilla ja saman sähköpostitoimialueen käyttäjillä on pääsy.</li> <li>Jos lähetät osoitteeseen johtaja@kumppani.fi, myös sihteeri@kumppani.fi voi avata viestin, mutta utelias@kilpailija.fi ei.</li> <li>Vastaanottajien on kirjauduttava sisään ladatakseen tiedostot.</li> <li>Latauskuittaus yksityiskohtaisine tietoineen lähetetään aina, kun käyttäjä lataa tiedoston.</li> </ul>
+    permission_description_anyone_after_authentication_html: <ul> <li>Kuka tahansa, jolla on salainen, satunnainen URL-osoite, voi ladata tiedostot.</li> <li>Sähköpostin tai URL-osoitteen voi välittää kenelle tahansa.</li> <li>Vastaanottajien on kirjauduttava sisään ladatakseen tiedostot.</li> <li>Latauskuittaus yksityiskohtaisine tietoineen lähetetään aina, kun käyttäjä lataa tiedoston.</li> </ul>
+    permission_description_anyone_html: <ul> <li>Kuka tahansa, jolla on salainen, satunnainen URL-osoite, voi ladata tiedostot.</li> <li>Sähköpostin tai URL-osoitteen voi välittää kenelle tahansa.</li> <li>Kirjautumista <strong>ei</strong> vaadita tiedostojen lataamiseen.</li> <li><strong>Yksinkertainen</strong> latauskuittaus lähetetään, kun joku lataa tiedostot ensimmäisen kerran (todennus vaaditaan, jotta tiedetään, kuka latasi mitä).</li> </ul>
+    your_message_has_been_sent: Viestisi on lähetetty
+    you_can_send_to_anyone: "(Voit lähettää tämän linkin kenelle tahansa)"
+    send_more_files: Lähetä lisää tiedostoja
+    download_speed: Latausnopeus
+    download_time: Latausaika
+    at_least_one_invalid_email: Vähintään yksi virheellinen sähköpostiosoite
+    reply: Vastaanottaja voi vastata
+    private_message: Yksityinen viesti
+    private_message_description_html: Yksityisessä viestissä viestin tekstiä ei lähetetä vastaanottajalle sähköpostissa – se näkyy vasta, kun vastaanottaja napsauttaa sähköpostissa olevaa linkkiä ja todentautuu. <ul> <li>Voit lähettää yksityisen viestin ilman liitteitä.</li> <li>Saat käyttövahvistuksen, kun joku on lukenut viestisi.</li> <li>Et voi lähettää yksityistä viestiä latausoikeudella ”Kuka tahansa voi ladata”.</li> </ul>
+    private_message_delivered_description: Viesti lähetettiin yksityisenä viestinä. Viestin tekstiä ei ole sähköpostissa, ja saat käyttövahvistuksen, kun jokainen vastaanottaja on lukenut viestin.
+    access_info: Käyttötiedot
+    access_details: Käytön tiedot
+    validation_code: Vahvistuskoodi
+    expired_token_inline: Sähköpostitodennus vanhentui, yritä uudelleen.
+    invalid_token: Virheellinen tai vanhentunut koodi. Vahvista sähköpostiosoitteesi uudelleen napsauttamalla alkuperäisessä sähköpostissa olevaa linkkiä.
+    download_zip: Lataa ZIP
+    zip_ready_for_download: ZIP valmis ladattavaksi
+    processing_zip: ZIP-arkistoa käsitellään
+    drop_file_here: Pudota tiedosto tähän
+    drop_files_here: Pudota tiedostot tähän
+    drop_files_and_folders_here: Pudota tiedostot ja kansiot tähän
+    select_pool_files: Valitse poolitiedostoja
+    add_pool_files: Lisää poolitiedostoja
+    invalid_validation_token: Tämä ei ole kelvollinen vahvistuskoodi.
+    not_the_validation_token: Tämä on viestin tunnus, ei vahvistuskoodi. Anna vahvistuskoodi.
+    no_messages_in_inbox: Saapuneissa ei ole viestejä.
+    filename_already_selected: Tähän viestiin on jo lisätty samanniminen tiedosto
+    filesize_exceeded: Viestin enimmäiskoko ylitetty
+    infected_with: Saastunut viruksella
+    not_permitted_to_download_content_blocked: "Tiedoston lataaminen ei ole sallittua. Virustarkistus havaitsi: %{virus}"
+    invalid_email_address: Virheellinen sähköpostiosoite
+    cant_create_folder: Kansiota ei voi luoda
+    cant_check_folder: Kansiota ei voi tarkistaa
+    cant_restore_folder: Kansiota ei voi palauttaa
+    cant_check_chunks: Osia ei voi tarkistaa
+    zip_not_include_all_files: Kaikkia tiedostoja ei voi ladata – ZIP-arkisto sisältää vain ladattavissa olevat tiedostot.
+    paste_tip: Vinkki! Liitä Ctrl+Vaihto+V-näppäinyhdistelmällä poistaaksesi muotoilun.
+  session:
+    api:
+      authentication_error: Todennusvirhe, yritä uudelleen.
+      not_local_user: Virheellinen sähköpostiosoite. Vain paikalliset käyttäjät voivat käyttää tätä toimintoa.
+      show:
+        login: Kirjaudu sisään
+        login_label: Sähköpostiosoite
+        password: Salasana
+        sso_login: SSO-kirjautuminen
+        authentication_title: Kirjaudu sisään
+        authentication_description: Anna sähköpostiosoitteesi tai kirjaudu sisään jatkaaksesi.
+      authenticated:
+        authentication_successful: Todennus onnistui
+    authenticate:
+      login: Kirjaudu sisään jatkaaksesi
+      description_html: Sinun on kirjauduttava sisään avataksesi tämän sivun. Anna sähköpostiosoitteesi tai kirjaudu sisään jatkaaksesi.<br>Jos sinulla ei ole tiliä järjestelmässä, anna sähköpostiosoitteesi, niin lähetämme sinulle tilapäisen salasanan sähköpostitse.
+      unauthorized: Sinulla ei ole oikeutta tarkastella tätä viestiä. Anna sähköpostiosoitteesi täsmälleen siinä muodossa kuin viesti lähetettiin sinulle, tai ota yhteyttä viestin lähettäjään.
+    email:
+      validate_email: Vahvista sähköpostiosoitteesi
+      validate_email_description_html: "Sähköpostiosoitteeseesi on lähetetty suojauskoodi: <strong>%{email}</strong>. Napsauta linkkiä tai anna suojauskoodi tähän vahvistaaksesi sähköpostiosoitteesi ja jatkaaksesi."
+      session_expired: Istunto vanhentui, anna sähköpostiosoitteesi uudelleen jatkaaksesi
+      token_expired: Sähköpostin todennuslinkki on vanhentunut, yritä uudelleen.
+      already_authenticated: Olet jo kirjautunut sisään tässä selaimessa.
+      resend_validation_email: Lähetä vahvistusviesti uudelleen
+      verify: Vahvista
+      validate_email_sent: "Uusi vahvistusviesti lähetettiin klo %{time}. Napsauta sähköpostissa olevaa linkkiä tai anna suojauskoodi alle vahvistaaksesi sähköpostiosoitteesi."
+      invalid_temporary_user: Virheellinen suojauskoodi. Tarkista sähköpostisi – uusi suojauskoodi on lähetetty saapuneisiin.
+      create_account: Luo tili
+      create_account_description: Luo järjestelmään tili, jotta voit kirjautua sisään sähköpostiosoitteellasi ja salasanallasi suojauskoodin sijaan.
+      invalid_email: Virheellinen sähköpostiosoite
+    login_limit_exceeded:
+      delivered:
+        page_header: Kirjautumisraja ylitetty
+        description: Olet yrittänyt kirjautua sisään liian monta kertaa. Jatkaaksesi sinun on palautettava salasanasi.
+        email: Sähköposti, jossa on linkki salasanasi palauttamiseen, on lähetetty.
+      waiting:
+        page_header: Kirjautumisraja ylitetty
+        description: "Olet yrittänyt kirjautua sisään liian monta kertaa. Huomaa: sinun on kirjauduttava sisään verkkosalasanallasi. Jos sinun on palautettava tämä salasana etkä tiedä miten, ota yhteyttä verkon ylläpitäjään. Odotusajan jälkeen voit ladata tämän sivun uudelleen rajan nollaamiseksi."
+        expiration_time: Odotusaika
+        reload: Lataa uudelleen
+      show:
+        page_header: Kirjautumisraja ylitetty
+        description: Olet yrittänyt kirjautua sisään liian monta kertaa. Voit nollata kirjautumisrajan ja kirjautua uudelleen sisään. Sinulle on lähetetty sähköposti kirjautumisrajan nollaamiseksi.
+      reset:
+        login_limit_reset: Kirjautumisraja nollattu
+    shared:
+      authentication_successful: Todennus onnistui
+    outlook:
+      edit:
+        authentication_title: Todenna
+        authentication_description: Kirjaudu sisään jatkaaksesi
+        login: Kirjaudu sisään
+        login_label: Sähköpostiosoite
+        password: Salasana
+        sso_login: SSO-kirjautuminen
+      show:
+        authentication_title: Todenna
+        authentication_description: Kirjaudu sisään liittääksesi suojattuja tiedostoja.
+        authenticate: Todenna
+    saml:
+      not_configured:
+        title: SAML:ää ei ole määritetty
+        description: SAML:ää ei ole määritetty tähän järjestelmään. Jos uskot tämän olevan virhe, ota yhteyttä tukeen, jotta asia voidaan selvittää.
+        support_button: Ota yhteyttä tukeen
+      api:
+        local:
+          title: SAML-todennus
+          description: SAML-todennus avautui oletusselaimeesi – jatka kirjautumista siellä. Jos et löydä ikkunaa tai se ei jostain syystä toimi, voit jatkaa napsauttamalla alla olevaa painiketta.
+          button_label: SSO-kirjautuminen
+      response:
+        api_error:
+          authentication_error: Todennus epäonnistui
+          saml_authentication_error: SSO-todennus epäonnistui
+          saml_authentication_error_description: SSO-todennus epäonnistui. Ota yhteyttä järjestelmänvalvojaan, jos ongelma jatkuu.
+        api_disabled:
+          api_disabled: Luvaton käyttäjäryhmä
+          api_disabled_description: Tililläsi ei ole oikeutta käyttää tätä toimintoa (API pois käytöstä). Pyydä järjestelmänvalvojaa siirtämään tilisi toiseen ryhmään.
+        api_response:
+          authentication_successful: Todennus onnistui
+        create:
+          could_not_create_account: Tilin luominen epäonnistui. Ota yhteyttä järjestelmänvalvojaan saadaksesi lisätietoja.
+        show:
+          could_not_create_account: Tilin luominen epäonnistui. Ota yhteyttä järjestelmänvalvojaan saadaksesi lisätietoja.
+    temporary_user:
+      validate_email: Vahvista sähköpostiosoitteesi
+      validate_email_description_html: "Sähköpostiosoitteeseesi on lähetetty tilapäinen salasana: <strong>%{email}</strong>. Napsauta linkkiä tai anna tilapäinen salasana tähän vahvistaaksesi sähköpostiosoitteesi ja jatkaaksesi."
+      session_expired: Istunto vanhentui, anna sähköpostiosoitteesi uudelleen jatkaaksesi
+      token_expired: Sähköpostin todennuslinkki on vanhentunut, yritä uudelleen.
+      already_authenticated: Olet jo kirjautunut sisään tässä selaimessa.
+      resend_validation_email: Lähetä vahvistusviesti uudelleen
+      verify: Vahvista
+      validate_email_sent: "Uusi vahvistusviesti lähetettiin klo %{time}. Napsauta sähköpostissa olevaa linkkiä tai anna salasana alle vahvistaaksesi sähköpostiosoitteesi."
+      invalid_temporary_user: Virheellinen salasana. Tarkista sähköpostisi – tilapäinen salasana on lähetetty uudelleen saapuneisiin.
+      temporary_user_expired: Tilapäinen salasana on vanhentunut. Tarkista sähköpostisi – uusi tilapäinen salasana on lähetetty saapuneisiin.
+      create_account: Luo tili
+      create_account_description: Luo järjestelmään pysyvä tili, jotta voit kirjautua sisään sähköpostiosoitteellasi ja salasanallasi tilapäisen käyttäjätilin sijaan.
+  shared:
+    show: Näytä
+    reify: Palauta
+    download: Lataa
+    restore: Palauta
+    delete: Poista
+    trash: Roskakori
+    cancel: Peruuta
+    close: Sulje
+    current: Nykyinen
+    bootstrap_confirm_dialog:
+      confirm_action: Vahvista toiminto
+    shares:
+      bootstrap_confirm_dialog:
+        confirm_action: Vahvista toiminto
+      navigation:
+        files: Tiedostot
+        activity_log: Toimintaloki
+      wrap_content:
+        activity_log: Toimintaloki
+    error_messages:
+      prohibited_this_from_being_saved: esti kohteen %{target} tallentamisen
+  share:
+    share: Share
+    shares: Sharet
+    no_shares: Shareja ei ole saatavilla
+    name: Nimi
+    folder_name: Kansion nimi
+    share_not_found: Sharea ei löytynyt
+    folder_not_found: Kansiota ei löytynyt
+    file_not_found: Tiedostoa ei löytynyt
+    no_read_access: Ei oikeutta avata tätä Sharea
+    no_write_access: Ei kirjoitusoikeutta tähän Shareen
+    not_authorized_to_view_logs: Ei oikeutta tarkastella lokeja
+    require_authentication: Tämä Share vaatii todennuksen. Jatka antamalla salasana.
+    authenticate: Todenna
+    authentication_failed: Todennus epäonnistui
+  shares:
+    folders:
+      are_you_sure_you_want_to_delete: Haluatko varmasti poistaa tämän kansion?
+      are_you_sure_you_want_to_trash: Haluatko varmasti poistaa tämän kansion pysyvästi?
+      folder_name_already_taken: Kansion nimi on jo käytössä!
+      folder_not_found: Kansiota ei löytynyt
+      could_not_create_folder: "Kansion luominen epäonnistui: %{error}"
+      zip_no_files: ZIP-arkistoon ei ole lisättäviä tiedostoja
+      windows_path_warning:
+        title: Windowsin polun pituusrajoitus
+        description_html: <strong>Windows-käyttäjät:</strong> Windows rajoittaa tiedostopolut 259 merkkiin. Kun lataat kansioita sijainneista, joiden polut ovat pitkiä, syvällä kansiorakenteessa olevat tiedostot saatetaan jättää pois huomaamatta, mikä voi johtaa keskeneräisiin latauksiin tai kansioiden kaksoiskappaleisiin.
+        workarounds_title: Suositellut ratkaisut
+        workarounds_html: "<li><strong>Käytä virtuaaliasemaa:</strong> avaa komentokehote ja suorita: <code>subst X: \"C:\\pitka\\polku\\kansioon\"</code><br>Lataa sen jälkeen virtuaaliasemalta <code>X:\\</code></li><li><strong>Siirry lähemmäs tiedostoja:</strong> selaa tiedostoja lähempänä olevaan alikansioon ennen ladattavan kansion valitsemista</li><li><strong>Käytä lyhyempää polkua:</strong> kopioi tiedostot lyhyempään sijaintiin, kuten <code>C:\\uploads\\</code>, ennen lataamista</li><li><strong>Pakkaa kansio ensin:</strong> pakkaa kansio ZIP-tiedostoksi ja lataa ZIP-tiedosto sen sijaan</li>"
+        advanced_title: "Edistynyt: ota pitkät polut käyttöön Windows 10/11:ssä"
+        advanced_description_html: Windows 10:n versiosta 1607 alkaen voit ottaa pidempien polkujen tuen käyttöön. <strong>Huomaa:</strong> tämä edellyttää järjestelmänvalvojan oikeuksia, eikä se välttämättä toimi kaikissa selaimissa. Yllä olevat ratkaisut ovat luotettavampia.
+        registry_steps_title: Pitkien polkujen käyttöönoton vaiheet
+        registry_steps_html: "<li>Paina <kbd>Win + R</kbd>, kirjoita <code>regedit</code> ja paina Enter</li><li>Siirry kohtaan: <code>HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\FileSystem</code></li><li>Etsi tai luo DWORD-arvo nimeltä <code>LongPathsEnabled</code> ja aseta sen arvoksi <code>1</code></li><li>Käynnistä tietokone uudelleen, jotta muutos tulee voimaan</li><li>Kokeile latausta uudelleen (tuki voi vaihdella selaimittain)</li>"
+        browser_disclaimer_html: "<strong>Tärkeää:</strong> vaikka tämä rekisteriasetus olisi käytössä, pitkien polkujen tuki vaihtelee selaimittain. Chrome, Edge ja Firefox saattavat edelleen soveltaa 259 merkin rajaa. Yllä olevat ratkaisut ovat luotettavampia."
+      folder:
+        rename_folder: Nimeä kansio uudelleen
+        move_folder_description: Siirrä kansio %{foldername} alla valittuun kansioon
+        move_folder: Siirrä kansio
+      action_bar:
+        download_as_zip: Lataa ZIP-tiedostona
+        download_as_zip_with_deleted: Lataa ZIP-tiedostona poistetut tiedostot mukaan lukien
+        toggle_deleted_view: Näytä/piilota poistetut tiedostot
+        filter: Suodata
+        upload_file: Lataa tiedostoja palveluun
+        upload_folder: Lataa kansio palveluun
+        create_folder: Luo kansio
+        windows_path_warning: Polun pituusvaroitus
+        upload_folder_unsupported: Kansioiden lataamista ei tueta
+        upload_folder_unsupported_description: Valitettavasti selaimesi ei tue kansioiden lataamista. Käytä Chromen tai Safarin työpöytäversiota kansiorakenteen lataamiseen.
+        showing_deleted: Näytetään %{number_of} poistettua
+        hiding_deleted: Piilotetaan %{number_of} poistettua
+        actions: Toiminnot
+        move_selected: Siirrä valitut
+        trash_selected: Siirrä valitut roskakoriin
+        delete_selected: Poista valitut
+      action_bar_below:
+        send_notifications: Lähetä ilmoitukset
+        sending_notifications: Lähetetään ilmoituksia
+        quota: Kiintiö
+        used_of: käytetty /
+        available: käytettävissä
+        quota_exceeded: Kiintiö ylitetty
+      create_folder_modal:
+        create_folder: Luo kansio
+        create: Luo
+      files:
+        are_you_sure_you_want_to_delete: Haluatko varmasti poistaa tämän tiedoston?
+        are_you_sure_you_want_to_trash: Haluatko varmasti poistaa tämän tiedoston pysyvästi?
+        file_not_found: Tiedostoa ei löytynyt
+        file:
+          rename_file: Nimeä tiedosto uudelleen
+          move_file: Siirrä
+          move_file_description: Siirrä tiedosto %{filename} alla valittuun kansioon
+        show:
+          prev: Edellinen
+          up: Ylös
+          next: Seuraava
+          last_updated: Viimeksi päivitetty
+          versions: Versiot
+          show_all: Näytä kaikki
+          version_from: Versio ajalta
+          next_version: Seuraava versio
+          previous_version: Edellinen versio
+          current_version: Nykyinen versio
+          pdf_preview_not_supported: Selaimesi ei tue PDF-tiedostojen esikatselua
+        available_chunks:
+          available: Seuraavista tiedostoista on saatavilla keskeneräisiä latauksia
+          resume_replace: Haluatko jatkaa latausta vai korvata tiedostot?
+      quota:
+        quota: Kiintiö
+        used_of: käytetty /
+        available: käytettävissä
+        quota_exceeded: Kiintiö ylitetty
+      move_file_folder_modal:
+        move_folder: Siirrä kansio
+        move_file: Siirrä tiedosto
+        move: Siirrä
+      show:
+        select_all: Valitse kaikki / poista valinnat
+    logs:
+      action_bar:
+        activity_log: Toimintaloki
+      message:
+        created: Luotu
+        uploaded: Ladattu palveluun
+        downloaded: Ladattu
+        reified: Palautettu
+        removed: Poistettu
+        restored: Palautettu
+        deleted: Poistettu
+        moved: Siirretty
+        renamed: Nimetty uudelleen
+        added: Lisätty
+        viewed: Katsottu
+        infected: Saastunut
+        trashed: Siirretty roskakoriin
+        deleted_user: "(Poistettu käyttäjä)"
+        share: Share
+        folder: Kansio
+        file: Tiedosto
+        group: Ryhmä
+        user: Käyttäjä
+        read: Luku
+        read/write: Luku/kirjoitus
+        av_scanner: Virustorjunta
+        version_from: Versio ajalta
+        file_deleted: Tiedosto poistettu
+        to: kohteeseen
+        from: kohteesta
+        unknown: Tuntematon
+        other: Muu
+  share/log:
+    message:
+      you: Sinä
+      share: Share
+      folder: kansio
+      file: tiedosto
+      user: käyttäjä
+      version_from: versio ajalta
+      read: luku
+      read/write: luku/kirjoitus
+      created: loi
+      added: lisäsi
+      uploaded: latasi palveluun
+      downloaded: latasi
+      updated: päivitti
+      restored: palautti
+      reified: palautti
+      deleted: poisti
+      removed: poisti pysyvästi
+      trashed: siirsi roskakoriin
+      renamed: nimesi uudelleen
+      viewed: katsoi
+      infected: saastunut
+      av_scanner: Virustorjunta
+      file_deleted: Tiedosto poistettu
+  sms_auth:
+    login_failed: Kirjautuminen epäonnistui
+    sms_error: Virhe tekstiviestimäärityksessä, ota yhteyttä järjestelmänvalvojaan
+    verify_token: Vahvista tekstiviestikoodi
+    verify_token_description: "Anna matkapuhelimeesi lähetetty koodi:"
+    sms_login_failed: Tekstiviestivahvistus epäonnistui, uusi tekstiviestikoodi on lähetetty
+    sms_signup: Rekisteröityminen tekstiviestillä tehtävään kaksivaiheiseen tunnistautumiseen
+    sms_signup_failed: Tekstiviestillä tehtävä kaksivaiheinen tunnistautuminen epäonnistui
+    sms_signup_description: Jatkaaksesi sinun on rekisteröidyttävä tekstiviestillä tehtävään kaksivaiheiseen tunnistautumiseen. Anna puhelinnumerosi alle jatkaaksesi.
+    verify: Vahvista
+    resend: Lähetä koodi uudelleen
+    code: Koodi
+    token_resent: Tekstiviestikoodi lähetetty uudelleen klo %{time}
+    send_token: Lähetä vahvistuskoodi
+    phone_number: Puhelinnumero
+    invalid_phone_number: Virheellinen puhelinnumero, yritä uudelleen.
+    change_phone_number: Vaihda puhelinnumero
+    phone_number_help: Anna puhelinnumerosi maatunnuksen kanssa ja ilman alkunollaa (esim. 358401234567). Tähän numeroon lähetetään vahvistuskoodi.
+    one-time-code: Kertakäyttökoodi
+  strong_auth:
+    two_factor_authentication: Kaksivaiheinen tunnistautuminen
+    enable_2fa: Ota kaksivaiheinen tunnistautuminen käyttöön
+    disable_2fa: Poista kaksivaiheinen tunnistautuminen käytöstä
+    title: Ota kaksivaiheinen tunnistautuminen käyttöön
+    enable_2fa_description: Voit ottaa vahvan kaksivaiheisen tunnistautumisen käyttöön parantaaksesi tilisi turvallisuutta.
+    require_description: Tämän järjestelmän käyttäminen edellyttää kaksivaiheisen tunnistautumisen määrittämistä.
+    disable_description: Anna nykyinen koodi poistaaksesi kaksivaiheisen tunnistautumisen käytöstä
+    two_factor_auth_disabled: Kaksivaiheinen tunnistautuminen poistettu käytöstä
+    step1: "Vaihe 1: lataa todennussovellus"
+    step1_description: Ota kaksivaiheinen tunnistautuminen käyttöön, yleensä mobiilisovelluksella.
+    totp_apps_description_html: Todennussovelluksia ovat esimerkiksi <a href="https://authy.com" target="_blank" rel="external nofollow noopener noreferrer">Authy</a> (useita alustoja) ja Google Authenticator (iOS/Android). Lisää vaihtoehtoja on sivulla <a href="https://docs.liquidfiles.com/authentication/totp.html#clients" target="_blank">TOTP Clients</a>.
+    step2: "Vaihe 2: määritä todennussovellus"
+    step2_description: Määritä todennussovellus skannaamalla QR-koodi.
+    step2_alt: Tai anna seuraava koodi
+    step3: "Vaihe 3: vahvista"
+    step3_description: Vahvista määritys antamalla todennussovelluksen luoma koodi.
+    failed_to_authenticate: Todennus epäonnistui, yritä uudelleen.
+    click_on_link: Voit myös lisätä määrityksen kaksivaiheisen tunnistautumisen sovellukseesi napsauttamalla seuraavaa linkkiä
+    configure: Määritä kaksivaiheinen tunnistautuminen
+    success_saved: Valmis, kaksivaiheisen tunnistautumisen määritys on tallennettu
+    verify_token: Vahvista kaksivaiheinen tunnistautuminen
+    verify_token_description: Anna mobiilisovelluksesi kaksivaiheisen tunnistautumisen koodi.
+    verify: Vahvista
+    two_factor_login_failed: Kaksivaiheinen tunnistautuminen epäonnistui
+    two_factor_validation_failed: Kaksivaiheisen tunnistautumisen vahvistus epäonnistui
+    skip_2fa_for_two_weeks: Ohita kaksivaiheinen tunnistautuminen tässä selaimessa kahden viikon ajan
+    one-time-code: Kertakäyttökoodi
+  support:
+    email_subject: Tarvitsen apua seuraavassa asiassa
+    email_body: Kuvaile ongelmasi mahdollisimman yksityiskohtaisesti. Kiitos.
+    navbar_tooltip: Jos tarvitset apua tämän järjestelmän käyttämisessä, napsauta tätä linkkiä, niin autamme mielellämme.
+  user:
+    includes_at_least_one_invalid_email_address: sisältää vähintään yhden virheellisen sähköpostiosoitteen
+    confirm:
+      invalid_session: Virheellinen istunto
+      already_validated: Sähköpostiosoitteesi on jo vahvistettu
+      invalid_token: Virheellinen koodi. Yritä uudelleen tai napsauta Lähetä vahvistusviesti uudelleen.
+      validation_email_sent: "Vahvistusviesti lähetetty klo %{time}"
+      activated_successfully: Aktivoitu
+      validate_email_description: Tarkista sähköpostisi ja anna tilapäinen salasana vahvistaaksesi sähköpostiosoitteesi.
+    register:
+      already_registered: Tämä tili on jo rekisteröity, kirjaudu sisään jatkaaksesi
+      already_registered_not_validated: Tilisi on jo rekisteröity, mutta sähköpostiosoitteesi on vielä vahvistettava. Sinulle on lähetetty sähköposti, jossa on satunnainen koodi. Anna koodi alle tai vahvista tilisi napsauttamalla sähköpostissa olevaa linkkiä.
+      show:
+        register: Rekisteröi tili
+        description_html: <p>Anna tietosi luodaksesi tilin. Tilin avulla voit lähettää suuria tiedostoja turvallisesti vastaanottajalle %{branding_name}.</p>
+    signup:
+      create:
+        need_password: Sinun on annettava salasana
+        need_name: Sinun on annettava nimi
+    create:
+      show:
+        cancel_and_remember: Peruuta äläkä kysy uudelleen
+        cancel_and_remember_title: Valinta muistetaan nykyisessä selaimessasi
+  validator:
+    required: Tämä kenttä on pakollinen.
+    remote: Korjaa tämä kenttä.
+    email: Anna kelvollinen sähköpostiosoite.
+    url: Anna kelvollinen URL-osoite.
+    date: Anna kelvollinen päivämäärä.
+    dateISO: Anna kelvollinen päivämäärä (ISO).
+    number: Anna kelvollinen numero.
+    digits: Anna vain numeroita.
+    creditcard: Anna kelvollinen luottokortin numero.
+    equalTo: Anna sama arvo uudelleen.
+    accept: Anna arvo, jolla on kelvollinen tiedostopääte.
+    maxlength: Anna enintään {0} merkkiä.
+    minlength: Anna vähintään {0} merkkiä.
+    rangelength: Anna arvo, jonka pituus on {0}–{1} merkkiä.
+    range: Anna arvo väliltä {0}–{1}.
+    max: Anna arvo, joka on pienempi tai yhtä suuri kuin {0}.
+    min: Anna arvo, joka on suurempi tai yhtä suuri kuin {0}.
+    step: Anna luvun {0} monikerta.
+    invalid_phone_number: Virheellinen puhelinnumero
+  locale: Suomi

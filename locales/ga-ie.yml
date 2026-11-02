@@ -1,0 +1,1569 @@
+ga:
+  s: s
+  min: nóim.
+  hours: Uaireanta
+  days: Laethanta
+  weeks: Seachtainí
+  months: Míonna
+  years: Blianta
+  ago: ó shin
+  email: Ríomhphost
+  save: Sábháil
+  delete: Scrios
+  cancel: Cealaigh
+  remove: Bain
+  aborting: Á thobscor
+  aborted: Tobscortha
+  saved_successfully: Sábháladh go rathúil
+  logout: Logáil amach
+  error: Earráid
+  enabled: Cumasaithe
+  disabled: Díchumasaithe
+  disable: Díchumasaigh
+  default: Réamhshocrú
+  submit: Seol isteach
+  session_expired: Tá an seisiún imithe in éag
+  search: Cuardaigh
+  filter: Scag
+  recipient: Faighteoir
+  recipients: Faighteoirí
+  downloaded_by: Íoslódáilte ag
+  filename: Ainm comhaid
+  size: Méid
+  downloaded: Íoslódáilte
+  host: Óstríomhaire
+  ip: Seoladh IP
+  action: Gníomh
+  view_message: Féach ar an teachtaireacht
+  view_message_popup: Féach ar an teachtaireacht (fuinneog aníos)
+  download_info: Faisnéis íoslódála
+  message_id: Aitheantas teachtaireachta
+  filelink_id: Aitheantas FileLink
+  sent_at: Seolta
+  id: Aitheantas
+  subject: Ábhar
+  expires: Éagann
+  invalid_method: Modh neamhbhailí
+  export_csv: Easpórtáil CSV
+  export_all: Easpórtáil gach rud
+  export_visible: Easpórtáil a bhfuil le feiceáil
+  temporarily_unavailable: Níl sé ar fáil faoi láthair
+  generic_search_error: Earráid ghinearálta chuardaigh
+  sender: Seoltóir
+  search_temporary_disabled: Tá an cuardach díchumasaithe go sealadach
+  help: Cabhair
+  close: Dún
+  count: Líon
+  settings: Socruithe cuntais
+  virus: Víreas
+  virus_status: Stádas frithvíris
+  infected: Ionfhabhtaithe
+  clean: Glan
+  not_scanned: Gan scanadh
+  not_yet_scanned: Gan scanadh fós
+  csrf_error: "CSRF: braitheadh paraiméadair neamhbhailí. Logáil isteach arís le leanúint ar aghaidh."
+  could_not_be_saved: Níorbh fhéidir é a shábháil
+  label: Lipéad
+  updated: Nuashonraithe
+  add: Cuir leis
+  system_info: Faisnéis an chórais
+  location: Suíomh
+  accept: Glac leis
+  last_7_days: Na 7 lá deiridh
+  last_30_days: Na 30 lá deiridh
+  last_60_days: Na 60 lá deiridh
+  last_90_days: Na 90 lá deiridh
+  last_180_days: Na 180 lá deiridh
+  last_365_days: Na 365 lá deiridh
+  file: Comhad
+  files: Comhaid
+  next: Ar aghaidh
+  previous: Siar
+  name: Ainm
+  view: Amharc
+  forget: Déan dearmad
+  update: Nuashonraigh
+  updated_at: Nuashonraithe ar
+  created_at: Cruthaithe ar
+  download_link_expired: Tá an nasc íoslódála imithe in éag.
+  no_html5_upload_warning: Chun comhaid a uaslódáil, teastaíonn brabhsálaí nua-aimseartha atá comhoiriúnach le HTML5. Oibríonn Microsoft Edge, Chrome, Firefox agus Safari go léir go breá.
+  javascript_warning: Teastaíonn JavaScript chun comhaid a uaslódáil agus chun formhór na bhfeidhmeanna a úsáid.
+  cookie_accept: Úsáideann an suíomh seo fianáin. Trí logáil isteach nó trí chliceáil ar “Glac leis”, glacann tú le húsáid fianán.
+  i_agree: Aontaím
+  session_timeout: Tá an seisiún imithe in éag, logáil isteach arís
+  loading: Á lódáil...
+  unsupported_browser_header: Brabhsálaí nach dtacaítear leis
+  unsupported_browser_description_html: Ní thacaítear le do bhrabhsálaí agus is dócha nach n-oibreoidh an suíomh mar a bhítear ag súil. Bain úsáid as brabhsálaí níos nuaí.
+  not_logged_in_invalid_parameters: Níl tú logáilte isteach, paraiméadair neamhbhailí
+  toggle_dropdown: Taispeáin/folaigh an roghchlár
+  rejected: Diúltaithe
+  undetected: Gan bhrath
+  invalid_link: Nasc neamhbhailí, déan teagmháil leis an seoltóir
+  account_settings_tooltip: Socruithe cuntais
+  logout_tooltip: Logáil amach
+  download_id: Aitheantas íoslódála
+  remote_host: Óstríomhaire cianda
+  show: Taispeáin
+  hide: Folaigh
+  password: Pasfhocal
+  download: Íoslódáil
+  unauthorized: Gan údarú
+  account:
+    login: Logáil isteach
+    login_label: Seoladh ríomhphoist
+    email: Seoladh ríomhphoist
+    password: Pasfhocal
+    current_password: Pasfhocal reatha
+    please_enter_your_current_password: Cuir isteach do phasfhocal reatha
+    sign_in: Logáil isteach
+    remember_me: Cuimhnigh orm
+    not_administrator: Ní riarthóir thú
+    password_reset: Athshocraigh an pasfhocal
+    register: Cláraigh
+    register_description_html: Go raibh maith agat! Le leanúint ar aghaidh, cuir isteach do shonraí agus cruthaigh cuntas.<br>An chéad uair eile is féidir leat logáil isteach le do sheoladh ríomhphoist agus do phasfhocal.
+    account_not_activated: Níl an cuntas gníomhachtaithe. Gníomhachtaigh é sula logálann tú isteach. Sheolamar ríomhphost chugat le cód randamach. Cuir isteach an cód thíos nó cliceáil ar an nasc sa ríomhphost chun do chuntas a dheimhniú.
+    incorrect_user_or_pw: Ainm úsáideora nó pasfhocal mícheart
+    confirmation_email_sent: Seoladh an ríomhphost deimhnithe
+    activated_successfully: Gníomhachtaíodh go rathúil
+    not_activated: Níl an cuntas gníomhachtaithe
+    password_reset_email_sent: Seoladh an ríomhphost athshocraithe pasfhocail
+    no_such_user: Níl an t-úsáideoir sin ann
+    no_such_email: Níor aimsíodh an seoladh ríomhphoist
+    not_logged_in: Níl tú logáilte isteach. Logáil isteach le leanúint ar aghaidh.
+    saved_successfully: Sábháladh go rathúil
+    unlicensed_install_some_settings: "Suiteáil gan cheadúnas: níl na roghanna brandála le feiceáil ach ag riarthóirí córais"
+    incorrect_login_or_demo: Ainm úsáideora nó pasfhocal mícheart, nó tá teorainn an cheadúnais bainte amach
+    incorrect_login_or_ldap: Ainm úsáideora nó pasfhocal mícheart, nó earráid ar fhreastalaí LDAP
+    invalid_api_key: Eochair API neamhbhailí
+    cant_delete_last_sysadmin: Ní féidir an riarthóir córais deireanach a scriosadh
+    cant_change_last_sysadmin: Ní féidir an riarthóir córais deireanach a athrú
+    sso_login: Logáil isteach SSO
+    invalid_sso_response: Freagra SSO neamhbhailí
+    automatic: Brath uathoibríoch
+    network_access_blocked: Ní cheadaítear rochtain ar an gcóras seo ó do líonra.
+    please_login: Logáil isteach chun an leathanach seo a oscailt.
+    email_validation_session_timeout: Tá an seisiún imithe in éag, deimhnigh do sheoladh ríomhphoist arís.
+    signature: Síniú
+    not_authorized_for_action: Níl údarú agat don ghníomh seo
+    invalid_group: Grúpa neamhbhailí. Déan teagmháil le riarthóir ar féidir leis do chuntas a bhogadh chuig grúpa úsáideoirí áitiúla
+    invalid_group_configuration: Cumraíocht ghrúpa neamhbhailí. Déan teagmháil le riarthóir ar féidir leis cuntas a chruthú duit nó cumraíocht an ghrúpa a choigeartú.
+    please_enter_email_to_email_password: Cuir isteach do sheoladh ríomhphoist chun do phasfhocal a athshocrú. Seolfar ríomhphost deimhnithe chuig an seoladh seo.
+    password_reset_successfully: Athshocraíodh an pasfhocal go rathúil
+    password_cant_be_empty: Ní féidir leis an bpasfhocal a bheith folamh
+    password_complexity_title: Castacht an phasfhocail
+    password_complexity_description_html: "<p><strong>Ní féidir</strong> le do phasfhocal a bheith bunaithe ar fhocal foclóra agus caithfidh sé 3 cinn ar a laghad de na riachtanais seo a leanas a chomhlíonadh:</p><ul><li>8 gcarachtar ar a laghad</li><li>11 charachtar ar a laghad</li><li>15 charachtar ar a laghad</li><li>1 litir bheag agus 1 cheannlitir ar a laghad</li><li>1 digit ar a laghad (0-9)</li><li>Ceann amháin ar a laghad de na carachtair seo: !,@,#,$,%,^,&amp;,*,?,_,~,-,(,)</li></ul>"
+    is_not_strong_enough: níl sé láidir go leor
+    your_password_has_expired: Tá do phasfhocal imithe in éag
+    please_select_a_different_password: Roghnaigh pasfhocal atá difriúil ón gceann roimhe
+    change_password: Athraigh an pasfhocal
+    account_not_found: Níor aimsíodh an cuntas. Logáil isteach arís.
+    user_required_to_use_saml: Ní féidir an pasfhocal a athshocrú, logáil isteach trí SAML
+    sysadmin_ldap_error: Rialaítear an cuntas seo trí LDAP agus ní féidir é a athshocrú anseo
+    login_limit_exceeded: Sáraíodh an teorainn logála isteach
+    a_confirmation_email_will_be_sent: Seolfar ríomhphost deimhnithe chuig an seoladh seo
+    name: Ainm
+    password_confirm: Deimhnigh an pasfhocal
+    save: Sábháil
+    can_not_reset_password_please_check_with_your_administrator: Ní féidir an pasfhocal a athshocrú, déan teagmháil le do riarthóir
+    no_need_to_register_user: Ní gá duit clárú. Logáil isteach le do chuntas reatha.
+    registration_not_allowed: Ní cheadaítear clárú
+    create_description: Cruthaigh do chuntas trí d'ainm agus pasfhocal a chur isteach.
+    activated_successfully_please_login: Gníomhachtaíodh an cuntas go rathúil. Is féidir leat logáil isteach anois le do sheoladh ríomhphoist agus do phasfhocal.
+    invalid_activation_url: Nasc gníomhachtaithe neamhbhailí. Seiceáil an nasc agus bain triail eile as.
+    already_logged_in: Tá tú logáilte isteach cheana. Ní féidir cuntas nua a chlárú.
+    bruteforce_message: Sháraigh tú líon na n-iarrachtaí teipthe. Bain triail eile as i gceann %{minutes} nóiméad.
+    admin_access_blocked: Ní cheadaítear rochtain riarthóra ó do sheoladh IP.
+    account_created_successfully: Cruthaíodh an cuntas go rathúil
+    create_account: Cruthaigh cuntas
+    create_account_description: Nuashonraigh do shonraí chun do chuntas a chruthú.
+    account_settings: Socruithe cuntais
+    change_language: Athraigh an teanga agus an crios ama
+    filedrop_label: Filedrop (randamach)
+    filedrop_email_label: Filedrop
+    verify_account: Fíoraigh an cuntas
+    invalid_sso_signature: Síniú nó logáil isteach SSO neamhbhailí
+    user_not_found: Níor aimsíodh an t-úsáideoir
+    could_not_create_account: Níorbh fhéidir an cuntas a chruthú
+    two_factor_authentication_failed: Theip ar fhíordheimhniú dhá fhachtóir Duo
+    copy_to_clipboard: Cóipeáil chuig an ngearrthaisce
+    copy_url_to_clipboard: Cóipeáil an URL chuig an ngearrthaisce
+    delete_user_warning: An bhfuil tú cinnte gur mian leat an t-úsáideoir seo a scriosadh?
+    unauthorized_to_login: Níl údarú agat logáil isteach
+    first_time_message_title: Fáilte go LiquidFiles
+    first_time_message: <p>Fáilte go LiquidFiles, an bealach is éasca le comhaid mhóra a sheoladh go slán.</p><p>Oibríonn na bunfheidhmeanna díreach cosúil le córas ríomhphoist gréasáin.</p><p>Ní thaispeánfar an teachtaireacht seo ach uair amháin. Má théann tú i bhfostú nó más mian leat ardfheidhmeanna a fhiosrú, cliceáil ar an gcnaipe “Cabhair” ar barr ar dheis sa bharra roghchláir.</p>
+    first_time_message_button: Tuigim!
+    registration_failed_unknown_error: Theip ar an gclárú de bharr earráide anaithnid
+    session_timeout: Tá an seisiún imithe in éag
+    nothing_filled_in: Líon isteach an fhoirm
+    last_used: Úsáidte go deireanach
+    strong_auth_required_before_password_reset: Teastaíonn fíordheimhniú láidir dhá fhachtóir sular féidir pasfhocal an chuntais seo a athshocrú.
+    unfriendly_registration_message: Más féidir leat clárú sa chóras leis an seoladh ríomhphoist seo, gheobhaidh tú ríomhphost. Mura bhfaigheann tú é, bain úsáid as an nasc tacaíochta thuas.
+    unfriendly_password_reset_message: Más féidir an cuntas leis an seoladh ríomhphoist seo a athshocrú, gheobhaidh tú ríomhphost. Mura bhfaigheann tú é, bain úsáid as an nasc tacaíochta thuas.
+    aliases:
+      aliases: Ailiasanna
+      aliases_description: Is féidir leat ailiasanna seoltóra agus faighteora a chur le do chuntas. Ligeann ailias seoltóra duit teachtaireachtaí a sheoladh thar ceann an tseolta ríomhphoist sin. Ligeann ailias faighteora duit na teachtaireachtaí don seoladh sin a fheiceáil. Taispeántar teachtaireachtaí chuig ailias faighteora i do bhosca isteach teachtaireachtaí slána freisin.
+      aliases_no_change_description: Ligeann ailias seoltóra duit teachtaireachtaí a sheoladh thar ceann an tseolta ríomhphoist sin. Ligeann ailias faighteora duit na teachtaireachtaí don seoladh sin a fheiceáil. Taispeántar teachtaireachtaí chuig ailias faighteora i do bhosca isteach teachtaireachtaí slána freisin. Déan teagmháil le riarthóir chun ailiasanna a chur leis nó a athrú.
+      recipient_aliases: Ailiasanna faighteora
+      sender_aliases: Ailiasanna seoltóra
+      add_alias: Cuir ailias leis
+      remove: Bain
+      default_sender_alias: Ailias seoltóra réamhshocraithe
+      default_sender_alias_description: An t-ailias seoltóra réamhshocraithe.
+      are_you_sure: An bhfuil tú cinnte gur mian leat an t-ailias seo a bhaint?
+      no_emails: Níor cuireadh aon ailias leis.
+      please_contact_an_administrator: Déan teagmháil le riarthóir chun iad a bhainistiú
+      auto_added_aliases: Ailiasanna a cuireadh leis go huathoibríoch
+      auto_added_aliases_description: Cuireadh na hailiasanna seo a leanas le do phróifíl go huathoibríoch. Déan teagmháil le riarthóir chun iad a bhainistiú.
+    alias:
+      confirm:
+        show:
+          title: Go raibh maith agat as an deimhniú
+          alias_email: Seoladh ríomhphoist an ailias
+          user: Úsáideoir
+          recipient_and_sender_confirmation: Is féidir leis an úsáideoir thuas teachtaireachtaí slána don seoladh ríomhphoist seo a fheiceáil anois agus teachtaireachtaí slána a sheoladh thar a cheann. Más botún é seo, cliceáil ar an nasc tacaíochta thuas.
+          only_recipient_confirmation: Is féidir leis an úsáideoir thuas teachtaireachtaí slána don seoladh ríomhphoist seo a fheiceáil anois. Más botún é seo, cliceáil ar an nasc tacaíochta thuas.
+          only_sender_confirmation: Is féidir leis an úsáideoir thuas teachtaireachtaí slána a sheoladh anois thar ceann an tseolta ríomhphoist seo. Más botún é seo, cliceáil ar an nasc tacaíochta thuas.
+    add_alias_modal:
+      title: Cuir ailias leis
+      description: Cuir isteach an seoladh ríomhphoist ar mian leat rochtain air mar ailias faighteora nó seoltóra. Seolfar ríomhphost deimhnithe chuig an seoladh seo.
+      recipient_alias: Ailias faighteora - is mian liom na teachtaireachtaí a sheoltar chuig an seoladh ríomhphoist seo a léamh.
+      sender_alias: Ailias seoltóra - is mian liom teachtaireachtaí a sheoladh thar ceann an tseolta ríomhphoist seo.
+      invalid_email: Seoladh ríomhphoist neamhbhailí
+      add_permission: Roghnaigh ailias faighteora, ailias seoltóra, nó an dá cheann.
+      send_request: Seol an t-iarratas
+      request_has_been_sent: Seoladh d'iarratas.
+    api:
+      api_key: Eochair API
+      api_key_description: Úsáideann breiseáin ar nós an bhreiseáin Outlook an eochair API, agus is féidir í a úsáid le haghaidh comhtháthuithe saincheaptha. Níl sí ag teastáil uait ach amháin má iarrann riarthóir ort í.
+      api_key_reset_warning: An bhfuil tú cinnte? Má athshocraíonn tú an eochair API, beidh ort an seaneochair a athsholáthar i ngach áit ar úsáid tú í.
+      reset_api_key: Athshocraigh an eochair API
+    contacts:
+      contacts: Teagmhálaithe
+      contacts_description: Is féidir leat an oiread teagmhálaithe agus is mian leat a chur leis. Is féidir go leor seoltaí ríomhphoist a bheith ag gach teagmhálaí, ionas gur féidir leat seoladh chuig go leor faighteoirí ag an am céanna go tapa agus go héasca.
+      add_contact: Cuir teagmhálaí leis
+      email_field_help: Liosta de sheoltaí ríomhphoist scartha le camóga.
+      contact:
+        edit_label: Cuir an lipéad in eagar
+        edit_email: Cuir an seoladh ríomhphoist in eagar
+        are_you_sure: An bhfuil tú cinnte gur mian leat an teagmhálaí seo a scriosadh?
+    filedrops:
+      filedrops: Filedrop
+      filedrops_description: Is tusa príomhfhaighteoir nó faighteoir cóipe na Filedrop seo. Seachadfar chugat aon chomhad a sheoltar trí cheann ar bith acu.
+      name: Ainm
+      title: Teideal
+      recipient: Faighteoir
+      expires_after: Éagann tar éis
+      max_size: Uasmhéid comhaid
+      url: URL
+      main_recipient: Príomhfhaighteoir
+      cc: Cc
+    personal_filedrop:
+      personal_filedrop: Filedrop pearsanta
+      personal_filedrop_description: Is bealach simplí é Filedrop pearsanta chun comhaid a fháil. Is féidir leat an nasc a sheoladh, é a fhoilsiú ar shuíomh gréasáin nó é a chur le síniú do ríomhphoist. Cuirfear in iúl duit chomh luath agus a sheolann duine éigin rud éigin chugat trí do Filedrop pearsanta.
+    previous_recipients:
+      previous_recipients: Faighteoirí roimhe seo
+      previous_recipients_description: Nuair a sheolann tú teachtaireacht shlán, cuirtear gach faighteoir leis an liosta seo d'fhaighteoirí roimhe seo. Ar an mbealach seo is féidir leat seoladh chuig na faighteoirí céanna arís go tapa. Baintear den liosta go huathoibríoch faighteoirí nár sheol tú aon rud chucu le 180 lá.
+      are_you_sure: An bhfuil tú cinnte gur mian leat an faighteoir seo a scriosadh?
+    pw_dictionary:
+      based_on_a_dictionary_word: tá sé bunaithe ar fhocal foclóra
+      based_upon_your_password_entry: tá sé bunaithe ar an bpasfhocal a chuir tú isteach
+      derived_from_your_password_entry: tá sé díorthaithe ón bpasfhocal a chuir tú isteach
+      derivable_from_your_password_entry: is féidir é a dhíorthú ón bpasfhocal a chuir tú isteach
+      way_too_short: tá sé RÓGHEARR ar fad
+      too_short: tá sé róghearr
+      it_does_not_contain_enough_different_characters: níl go leor carachtar DIFRIÚIL ann
+      all_whitespace: níl ann ach spásanna
+      too_simplistic_systematic: tá sé róshimplí/córasach
+      it_looks_like_a_national_insurance_number: tá sé cosúil le huimhir PSP
+      based_on_a_reversed_dictionary_word: tá sé bunaithe ar fhocal foclóra (droim ar ais)
+    show:
+      basic_settings: Bunsocruithe
+      change_password: Athraigh an pasfhocal
+      strong_auth: Fíordheimhniú dhá fhachtóir
+      aliases: Ailiasanna
+      previous_recipients: Faighteoirí roimhe seo
+      contacts: Teagmhálaithe
+      personal_filedrop: Filedrop pearsanta
+      api: API
+      filedrops: Filedrop
+    sms_disable:
+      disable_sms_otp: Díchumasaigh fíordheimhniú dhá fhachtóir trí SMS
+      disable_sms_otp_description: Más mian leat fíordheimhniú dhá fhachtóir trí SMS a dhíchumasú, cliceáil ar an gcnaipe thíos. Seolfar cód SMS chun an t-iarratas a dheimhniú.
+      verify_token_description: "Chun fíordheimhniú dhá fhachtóir trí SMS a dhíchumasú, cuir isteach an cód a seoladh chuig d'fhón póca:"
+      code: Cód
+      sms_token_failed: Cód SMS neamhbhailí, níorbh fhéidir fíordheimhniú dhá fhachtóir trí SMS a dhíchumasú
+      sms_otp_has_been_disabled: Díchumasaíodh fíordheimhniú dhá fhachtóir trí SMS
+    sms_signup:
+      sms_signup_description: Is féidir leat slándáil do chuntais a fheabhsú trí fhíordheimhniú dhá fhachtóir a chumasú. Cuir isteach d'uimhir theileafóin thíos chun é a chumasú.
+      phone_number: Uimhir theileafóin
+    sms_enable:
+      signup_complete: Cumasaíodh fíordheimhniú dhá fhachtóir trí SMS
+    terms_of_service:
+      show:
+        title: Téarmaí seirbhíse
+        accept_terms_of_service: Glac leis na téarmaí seirbhíse
+        do_not_accept: Ní ghlacaim leo
+      create:
+        you_need_to_accept: Caithfidh tú glacadh leis na téarmaí seirbhíse!
+  activerecord:
+    attributes:
+      attachment:
+        filename: Ainm comhaid
+        size: Méid
+        secure_id: Aitheantas ceangaltáin
+        content_type: Cineál ábhair
+        created_at: Cruthaithe ar
+        updated_at: Nuashonraithe ar
+      download:
+        recipient: Faighteoir
+        downloaded_at: Íoslódáilte ar
+        remote_ip: IP cianda
+        remote_host: Óstríomhaire cianda
+        created_at: Cruthaithe ar
+        updated_at: Nuashonraithe ar
+      filedrop:
+        name: Ainm
+        title: Teideal
+        description: Cur síos
+        blocked_extensions: Iarmhíreanna blocáilte
+        permitted_extensions: Cineálacha comhaid ceadaithe
+        expires_after: Éagann tar éis
+        max_filesize: Uasmhéid comhaid
+        created_at: Cruthaithe ar
+        updated_at: Nuashonraithe ar
+        api_key: Eochair API
+        cc: Cc
+        authorization: Údarú
+      message:
+        recipients: Faighteoirí
+        sender: Seoltóir
+        cc: Cc
+        bcc: Bcc
+        message: Teachtaireacht
+        subject: Ábhar
+        deleted: Scriosta
+        authorization: Údarú
+        created_at: Cruthaithe ar
+        updated_at: Nuashonraithe ar
+        expires_at: Éagann ar
+      share/log:
+        created_at: Dáta
+      share/file:
+        checksum: Suim sheiceála (SHA256)
+      share/file/version:
+        whodunnit: Athraithe ag
+        created_at: Athraithe ar
+      user:
+        name: Ainm
+        email: Seoladh ríomhphoist
+        quota: Cuóta
+        used: In úsáid
+        max: Uas.
+        password: Pasfhocal
+        ldap_authentication: Fíordheimhniú LDAP
+        api_key: Eochair API
+        level: Leibhéal
+        filedrop: Filedrop
+    models:
+      configuration: Cumraíocht
+      attachment: Ceangaltán
+      filedrop: Filedrop
+      message: Teachtaireacht
+      user: Úsáideoir
+      download: Íoslódáil
+  admin:
+    groups:
+      form:
+        bcc_myself: Seol cóip chugam féin
+        can_change_bcc_myself: Is féidir le húsáideoirí an ghrúpa seo an socrú “Seol cóip chugam féin” a athrú
+      index:
+        default_group_assignment: Sannadh grúpa réamhshocraithe
+    users:
+      users:
+        email: Seoladh ríomhphoist
+        name: Ainm
+        group: Grúpa
+        max: Uasmhéid comhaid
+        quota: Cuóta
+        strong_auth: Fíordheimhniú láidir
+        filedrop: Filedrop
+        last_login_at: Logáil isteach dheireanach
+        last_login_ip: IP na logála isteach deireanaí
+        created: Cruthaithe
+      form:
+        name_label: Ainm
+        email: Seoladh ríomhphoist
+        password: Pasfhocal
+        password_confirmation: Deimhnigh an pasfhocal
+        max_label: Uasmhéid comhaid
+        group: Grúpa
+        strong_auth: Fíordheimhniú láidir
+        strong_auth_username: Ainm úsáideora d'fhíordheimhniú láidir
+        api_key: Eochair API
+        filedrop: Filedrop
+  attachments:
+    not_found: Níor aimsíodh an ceangaltán
+  config:
+    settings: Socruithe
+    email: Ríomhphost
+    language_preferences_from_your_browser: Roghanna teanga ón mbrabhsálaí
+    authentication: Fíordheimhniú
+    time_zone: Crios ama
+    current_time_zone: Crios ama reatha
+    time_zone_from_browser: Crios ama a bhraith an brabhsálaí
+    time_zone_config_description: Má fhágann tú an crios ama ar “Brath uathoibríoch”, úsáidfear an crios ama a bhraitheann do bhrabhsálaí (taispeánfar gach am sa chrios ama sin). Mura féidir leis an mbrabhsálaí an crios ama a bhrath, úsáidfear crios ama réamhshocraithe an chórais. Mura mbraitheann an brabhsálaí an crios ama ceart nó más mian leat amanna a fheiceáil i gcrios ama eile, is féidir leat crios ama ar leith a shocrú.
+    time_zone_default: Crios ama réamhshocraithe an chórais
+    email_settings: Socruithe ríomhphoist
+    configuration: Cumraíocht
+    local_domains: Fearann áitiúil
+    ldap_users: Úsáideoirí fíordheimhnithe trí LDAP
+    ldap_users_are_always_local: Bíonn úsáideoirí fíordheimhnithe trí LDAP áitiúil i gcónaí
+    separated_by_comma: scartha le camóga
+    default_max_file_size: Uasmhéid comhaid réamhshocraithe
+    local_users: Úsáideoirí áitiúla
+    external_users: Úsáideoirí seachtracha
+    allow_registration: Ceadaigh clárú
+    allow_registration_desc: Ceadaigh clárú ón leathanach logála isteach
+    external_user_account: Faighteoirí seachtracha
+    external_user_account_desc: Caithfidh faighteoirí seachtracha cuntas a chruthú
+    allow_users_to_change_expiration: Is féidir le húsáideoirí dáta éaga na gcomhad a athrú
+    authorization: Cead
+    authorization_description: Socrú réamhshocraithe maidir le cé atá in ann comhaid a íoslódáil.
+    file_expiration: Éag
+    default_expire_files_after: Éagann comhaid de réir réamhshocraithe tar éis
+    delete_downloaded_files_after: Scrios comhaid íoslódáilte tar éis
+    branding: Brandáil
+    company_name: Ainm na cuideachta
+    custom_stylesheet: Stílbhileog shaincheaptha
+    custom_javascript: JavaScript saincheaptha
+    logotype: Lógó
+    leave_blank_for_default: fág bán don luach réamhshocraithe
+    email_configuration: Cumraíocht ríomhphoist
+    email_sender_address: Seoladh an tseoltóra
+    email_host: Bun-URL na ríomhphost
+    email_footer: Buntásc ríomhphoist
+    email_relay_host: Freastalaí athsheachadta ríomhphoist
+    email_relay_username: Ainm úsáideora an athsheachadta ríomhphoist
+    email_relay_password: Pasfhocal an athsheachadta ríomhphoist
+    port: Port
+    unlicensed_install_some_settings: "Suiteáil gan cheadúnas: níl na socruithe brandála le feiceáil ach ag riarthóirí córais"
+    mail_relay_example: "M.sh.: mailrelay.fearann.ie, mx.fearann.ie:587"
+    ldap: LDAP
+    please_see_the: féach ar an
+    for_more_information: le haghaidh tuilleadh faisnéise
+    virus_scan: Scanadh víreas
+    virus_scan_description: Scan comhaid le haghaidh víreas
+    blocked_file_extensions: Iarmhíreanna comhaid blocáilte
+    default_bcc_myself_label: Seol cóip chugam féin
+    default_bcc_myself: Seol cóip chugam féin de réir réamhshocraithe
+    allow_users_to_change_require_login_label: Éiligh fíordheimhniú
+    allow_users_to_change_require_login: Is féidir le húsáideoirí “Éiligh fíordheimhniú” a athrú
+    permitted_file_extensions_label: Iarmhíreanna comhaid ceadaithe
+    delete: Scrios
+    ldap_description: "Cumasaigh fíordheimhniú úsáideoirí trí LDAP agus socraigh roinnt bunpharaiméadar chun ceangal le freastalaí LDAP. Mura socraítear port, úsáidfear port réamhshocraithe LDAP 389 (nó port 636 má tá SSL cumasaithe). Tabhair faoi deara: NÍ úsáidtear port 3268 le haghaidh fíordheimhnithe in Active Directory, ach amháin le haghaidh cuardaigh sa chatalóg dhomhanda. Bain úsáid as port 389/636 ina ionad."
+    ldap_authentication: Fíordheimhniú LDAP
+    basic_settings: Bunsocruithe
+    server: Ainm freastalaí / seoladh IP
+    username: Ainm úsáideora
+    password: Pasfhocal
+    authentication_description: Úsáidfear an t-úsáideoir seo chun ceangal le freastalaí LDAP (fág bán le haghaidh ceangail gan ainm). Teastaíonn cearta cuardaigh sa chrann LDAP ón úsáideoir.
+    search_key: Eochair chuardaigh
+    search_key_description: Úsáidtear an eochair chuardaigh agus an fearann chun úsáideoirí a aimsiú sa chrann LDAP. Taispeánann an tábla thíos conas a oibríonn an eochair chuardaigh agus an fearann le chéile chun úsáideoir a aimsiú.
+    search_key_description2: Mar sin, má tá an seoladh ríomhphoist san eochair chuardaigh LDAP, ba chóir an fearann a fhágáil bán. Mura bhfuil ach an t-ainm úsáideora san eochair chuardaigh LDAP, ba chóir fearann na n-úsáideoirí a chur san fhearann.
+    search_key_defaults: "I gcás Active Directory, is maith an pointe tosaigh é seo: sAMAccountName mar eochair chuardaigh LDAP agus comhlacht.ie (d'fhearann) mar fhearann."
+    user_enters: Cuireann an t-úsáideoir isteach
+    authorized_ldap_groups: Grúpaí LDAP údaraithe
+    available_groups: Grúpaí atá ar fáil
+    default_settings: Socruithe réamhshocraithe
+    setting: Socrú
+    value: Luach
+    description: Cur síos
+    default_local_max_description: Is é seo an t-uasmhéid comhaid réamhshocraithe d'úsáideoirí áitiúla nua. Is féidir é a athrú do gach úsáideoir ar leith.
+    user_changeable: Is féidir leis an úsáideoir é a athrú?
+    non_local: Neamháitiúil
+    remote: Cianda
+    new_external_recipient_is_nonlocal: Is iad faighteoirí seachtracha nua
+    email_message_on_top_label: Teachtaireacht ag an mbarr
+    email_message_on_top: Taispeántar an teachtaireacht os cionn liosta na gcomhad sa ríomhphost chuig faighteoirí
+    use_either_permitted_or_blocked_extensions: Caithfidh tú iarmhíreanna ceadaithe nó iarmhíreanna blocáilte a roghnú, ní an dá cheann
+    invalid_password: Pasfhocal neamhbhailí
+    valid_password: Pasfhocal bailí
+    test_password_validation: Tástáil bailíochtú pasfhocail
+    custom_password_validation: Bailíochtú pasfhocail saincheaptha
+    custom_password_validation_description: "Úsáidfear an slonn ionadaíochta seo le haghaidh bailíochtú saincheaptha pasfhocal. Ná clóscríobh ach an slonn ionadaíochta, gan teorantóirí (ná tosaigh agus ná críochnaigh le '/'). Sampla: [a-zA-Z0-9]{7,} (ní bheidh ach a-z, A-Z agus 0-9 ceadaithe i bpasfhocail, 7 gcarachtar ar a laghad)"
+    filedrop: Filedrop
+    receive: Faigh
+    api_settings: Socruithe API
+    enable_api_label: Cumasaigh API
+    enable_api_description: Cumasaigh an API le haghaidh rochtana trí bhreiseáin agus scripteanna
+    enable_api_group_config: Tá tuilleadh socruithe API ar fáil i gcumraíocht na ngrúpaí.
+    api_client_size_override_label: Teorainn mhéide do chliaint API
+    api_client_size_override_description: Seolfaidh cliaint API comhaid níos mó ná an méid seo tríd an bhfearas
+    sso_secret_key: Eochair rúnda SSO
+    generate_key: Gin eochair nua
+    sso_replace_confirm: An bhfuil tú cinnte? Má athsholáthraíonn tú an eochair rúnda SSO, stopfaidh comhtháthuithe SSO atá ann cheana ag obair.
+    virus_scan_skip_locals: Ná scan úsáideoirí áitiúla le haghaidh víreas
+    virus_scan_skip_locals_description: Ná scan comhaid úsáideoirí áitiúla le haghaidh víreas
+    virus_scan_permit_unscanned: Ceadaigh comhaid gan scanadh
+    virus_scan_permit_unscanned_description: Ceadaigh comhaid nach bhfuil scanta le haghaidh víreas fós a íoslódáil
+    userdrop: Filedrop úsáideora
+    user_filedrop_with_random_key: Filedrop úsáideoirí le heochair randamach
+    enable_userdrop: Cumasaigh Filedrop úsáideoirí
+    example: Sampla
+    user_filedrop_with_email: Filedrop úsáideoirí le seoltaí ríomhphoist
+    enable_userdrop_email: Cumasaigh Filedrop úsáideoirí le seoladh ríomhphoist
+    userdop_email_data_leakage: D'fhéadfaí é seo a úsáid chun seoltaí ríomhphoist áitiúla a aimsiú, trí sheoltaí a thriail in URL an Filedrop agus a sheiceáil cé acu a thugann freagra bailí.
+    userdrop_files_expire_after: Éagann comhaid a taisceadh tar éis
+    userdrop_max_filesize: Uasmhéid comhaid do Filedrop úsáideora
+    bruteforce_label: Cosaint ar ionsaithe brúfhórsa
+    bruteforce_description_1: Blocáil an seoladh IP ar feadh
+    bruteforce_description_2: nóiméad tar éis
+    bruteforce_description_3: logáil isteach/clárú teipthe laistigh de
+    bruteforce_description_4: nóiméad
+    bruteforce_whitelist_label: Liosta ceadaithe don chosaint ar ionsaithe brúfhórsa
+    allowed_admin_networks_label: Líonraí riaracháin
+    allowed_admin_networks_description: Teorannaigh rochtain riarthóra do na hóstríomhairí agus na líonraí seo. Ceadaítear localhost (127.0.0.1, ::1) i gcónaí
+    enable_strong_authentication: Cumasaigh fíordheimhniú láidir de réir réamhshocraithe do na cineálacha úsáideora seo
+    authenticated_username: Ainm úsáideora fíordheimhnithe
+    duo_hostname: Ainm óstríomhaire Duo
+    duo_client_id: Eochair chomhtháthaithe Duo
+    duo_client_secret: Eochair rúnda Duo
+    strong_authentication_test: Tástáil fíordheimhnithe láidir
+    stronger_password: Roghnaigh pasfhocal níos láidre.
+    cannot_begin_or_end_with_blank: Ní féidir leis an bpasfhocal tosú ná críochnú le spás.
+    at_least_one_invalid_domain: Fearann neamhbhailí amháin ar a laghad
+    at_least_one_invalid_email: Seoladh ríomhphoist neamhbhailí amháin ar a laghad
+    email_security_level: Leibhéal slándála seachadta ríomhphoist
+    geoip: Cuardach GeoIP
+    geoip_description: Faigheann sé sonraí geoshuímh ó https://geoip.liquidfiles.com agus taispeánann sé léarscáileanna.
+    tooltip:
+      local_domains: Is féidir le húsáideoir áitiúil comhaid a sheoladh chuig duine ar bith. Ní féidir le húsáideoir neamháitiúil comhaid a sheoladh ach chuig úsáideoirí áitiúla. An chéad uair a logálann úsáideoir isteach nó nuair a chruthaítear an cuntas, cuirtear fearann an tseolta ríomhphoist i gcomparáid leis na fearainn seo chun a chinneadh an meastar gur úsáideoir áitiúil é.
+      ldap_users_are_always_local: Meastar go huathoibríoch gur úsáideoir áitiúil é gach úsáideoir a fhíordheimhnítear trí LDAP, beag beann ar an bhfearann.
+      allow_registration: Ceadaíonn sé clárú ón leathanach logála isteach. Cinntear ar bhonn liosta na bhfearann áitiúil an úsáideoir áitiúil nó neamháitiúil é úsáideoir nua.
+      local_user_maxfile: Nuair a chláraíonn úsáideoir áitiúil nó nuair a fhíordheimhnítear é den chéad uair trí chianfhíordheimhniú, sanntar an t-uasmhéid comhaid seo dó.
+      nonlocal_user_maxfile: Nuair a chláraíonn úsáideoir neamháitiúil, sanntar an t-uasmhéid comhaid seo dó.
+      delete_downloaded_files_after: Coinnítear comhad íoslódáilte ar feadh na tréimhse seo. Ba chóir go mbeadh sí fada go leor le go mbeidh an faighteoir in ann suíomh íoslódála eile a roghnú nó tosú as an nua, ach gearr go leor nach scaipfear an nasc ar thuilleadh daoine.
+      file_expiration: Ligeann sé d'úsáideoirí am éaga na gcomhad a athrú. Mura bhfuil sé cumasaithe, faigheann gach comhad an t-am éaga réamhshocraithe.
+      default_expire_files_after: Éagfaidh comhaid tar éis na tréimhse seo.
+      blocked_file_extensions: Blocáil comhaid leis na hiarmhíreanna seo (gan aird ar chás na litreacha).
+      virus_scan: Scan gach comhad a uaslódáiltear le haghaidh víreas leis an gclár frithvíris ClamAV
+      require_authentication_permission: Nuair atá sé cumasaithe, is féidir le húsáideoirí féin a roghnú an bhfuil fíordheimhniú ag teastáil
+      default_bcc_myself: Nuair atá sé cumasaithe, seoltar teachtaireachtaí chuig an úsáideoir féin freisin de réir réamhshocraithe
+      permitted_file_extensions: "Má fhágtar bán é, ceadaítear gach iarmhír. Má chuirtear iarmhír amháin ar a laghad isteach, ní cheadaítear ach na cineálacha comhaid a cuireadh isteach. Sampla: png, gif, jpg, txt"
+      new_external_recipient_is_nonlocal: Nuair a sheoltar teachtaireacht chuig faighteoir nua, ar cheart é a chruthú mar úsáideoir neamháitiúil (ionas gur féidir leis freagra a thabhairt) nó mar úsáideoir seachtrach?
+      email_message_on_top: Nuair atá sé roghnaithe, taispeántar an teachtaireacht os cionn liosta na gcomhad sa ríomhphost chuig faighteoirí. Nuair nach bhfuil, taispeántar liosta na gcomhad os cionn na teachtaireachta.
+      email_sender: Úsáidfear an seoladh ríomhphoist seo mar sheoltóir do ríomhphoist a ghineann an córas, ar nós athshocrú pasfhocail. Le nach marcálfar na ríomhphoist seo mar thurscar, ba chóir gur fíorsheoladh ríomhphoist é.
+      email_host: Úsáidfidh ceangaltáin an URL seo mar bhun-URL. De ghnáth is é http://ainm-ostriomhaire.fearann nó https://ainm-ostriomhaire.fearann é, ach d'fhéadfadh sé a bheith https://ainm-ostriomhaire.fearann:4433 freisin má úsáideann tú cur ar aghaidh port ar an mballa dóiteáin nuair a cheanglaíonn úsáideoirí leis an bhfearas LiquidFiles.
+      email_footer: Cuirfear an síniú seo le gach ríomhphost amach.
+      email_relay: Úsáid an freastalaí ríomhphoist seo chun ríomhphoist amach a athsheachadadh.
+      email_relay_username: Cuntas a úsáidtear chun logáil isteach ar an bhfreastalaí athsheachadta ríomhphoist
+      email_relay_password: Pasfhocal an chuntais a úsáidtear chun logáil isteach ar an bhfreastalaí athsheachadta ríomhphoist
+  date:
+    formats:
+      default: "%d/%m/%Y"
+      short: "%d/%m"
+      medium: "%d/%m/%Y"
+      long: "%d/%m/%Y"
+  time:
+    am: r.n.
+    pm: i.n.
+    formats:
+      default: "%d/%m/%Y %H:%M:%S %z"
+      short: "%d/%m %H:%M"
+      medium: "%d/%m/%Y %H:%M"
+      long: "%d/%m/%Y %H:%M"
+  downloads:
+    download_id: Aitheantas íoslódála
+    index:
+      download_log_title: Íoslódálacha
+      download_log_description: Cé a d'íoslódáil cad agus cathain
+      paginator_entry_name: íoslódálacha
+    show:
+      no_map_for_reserved_address: Ní féidir léarscáil a thaispeáint do sheoltaí curtha in áirithe
+  filedrop:
+    filedrop: Filedrop
+    no_such_filedrop: Níl an Filedrop seo ann
+    invalid_filedrop_url: URL Filedrop neamhbhailí
+    invalid_filedrop_url_description: Níl aon Filedrop ag an URL seo. Seiceáil an URL agus bain triail eile as.
+    label: Filedrop
+    mb: MB
+    name: Ainm
+    name_description: Ainm gearr a úsáidtear san URL freisin (m.sh. /filedrop/ainm)
+    title: Teideal
+    title_description: An teideal ag barr an leathanaigh
+    description: Cur síos
+    description_description: An cur síos faoin teideal
+    user: Úsáideoir faighte
+    user_description: Is féidir aon úsáideoir áitiúil a shocrú mar fhaighteoir
+    cc: Cc
+    cc_description: "(scartha le camóga) Seol cóip chuig na seoltaí seo"
+    expires_after: Éagann tar éis
+    expires_after_description: lá
+    max_filesize: Uasmhéid comhaid
+    max_filesize_description: MB
+    reset_filedrop: Athshocraigh URL an Filedrop
+    filedrop_reset_warning: An bhfuil tú cinnte? Má athshocraíonn tú URL an Filedrop, beidh ort é a athsholáthar i ngach áit ar fhoilsigh tú é.
+    permitted_extensions: Iarmhíreanna ceadaithe
+    permitted_extensions_description: Ní cheadófar ach na cineálacha comhaid seo
+    blocked_extensions: Iarmhíreanna blocáilte
+    blocked_extensions_description: Blocálfar na cineálacha comhaid seo
+    demo_license_warning_standard: Teastaíonn ceadúnas chun Filedrop a úsáid i dtáirgeadh. Uasghrádaigh go ceadúnas Pro chun an ghné Filedrop a chumasú.
+    max_one_during_demo: Le linn an taispeántais nó le ceadúnas Standard ní féidir leat ach Filedrop amháin a chumrú
+    filedrop_info: Ligeann Filedrop do do chustaiméirí comhaid a sheoladh chugat gan fíordheimhniú ná socrú roimh ré. Tá URL seasta ag gach Filedrop ar féidir leat nascadh leis ó leathanaigh ghréasáin nó ó shínithe ríomhphoist. Nuair a thaisceann duine comhad sa Filedrop, seoltar é go huathoibríoch chuig úsáideoir réamhshainithe.
+    authorization: Cead
+    authorization_description: cé atá in ann na comhaid a taisceadh sa Filedrop a íoslódáil
+    you_will_be_notified: Gheobhaidh tú admháil íoslódála nuair a íoslódáiltear do chomhaid.
+    require_authentication: Teastaíonn fíordheimhniú don Filedrop seo. Cuir isteach an pasfhocal le leanúint ar aghaidh.
+    authenticate: Fíordheimhnigh
+    authentication_failed: Theip ar an bhfíordheimhniú
+    require_validation: Teastaíonn fíordheimhniú nó deimhniú do sheolta ríomhphoist don Filedrop seo.
+  filelink:
+    filelink: FileLink
+    filelinks: FileLink
+    filelink_title: FileLink
+    filelink_description: Is nasc chuig comhad aonair é FileLink. Is féidir leat an nasc seo a sheoladh chuig duine ar bith gan teachtaireacht a chruthú ná faighteoirí a shocrú. Ní bheidh ach daoine a fuair an nasc randamach in ann an comhad a íoslódáil.
+    expired_or_nonexistent_title: FileLink neamhbhailí
+    expired_or_nonexistent: Tá an FileLink seo imithe in éag nó níl sé ann. Déan teagmháil leis an seoltóir le haghaidh naisc nua.
+    existing_filelinks: FileLink atá ann cheana
+    new_filelink: FileLink nua
+    available_files: Comhaid atá ar fáil
+    filename: Ainm comhaid
+    filesize: Méid comhaid
+    expires_at: Éagann
+    link: Nasc
+    checksum: Suim sheiceála
+    copy_link_to_clipboard: Cóipeáil an FileLink chuig an ngearrthaisce
+    expire_link_at: Éagann an nasc ar
+    you_have_no_filelinks: Níl aon FileLink agat. Cuir FileLink nua leis nó cruthaigh ceann ó chomhad atá ar fáil.
+    you_have_no_files_available: Níl aon chomhaid seolta roimhe seo agat. Chomh luath agus a sheolann tú comhad amháin ar a laghad, is féidir leat é a roghnú anseo chun FileLink a chruthú.
+    create_link: Cruthaigh nasc
+    invalid_file: Comhad neamhbhailí, ní féidir FileLink a chruthú
+    delete: Scrios
+    delete_link_warning: An bhfuil tú cinnte gur mian leat an FileLink seo a scriosadh?
+    could_not_delete_link: Níorbh fhéidir an FileLink a scriosadh. Níor aimsíodh an nasc!
+    filelink_deleted: Scriosadh an FileLink!
+    select_file: Roghnaigh comhad
+    send_download_receipts: Seol admhálacha íoslódála
+    disabled: Tá FileLink díchumasaithe, déan teagmháil le riarthóir
+    unauthorized: Níl údarú agat FileLink a úsáid
+    require_authentication: Éiligh fíordheimhniú
+    filelink_require_authentication: Teastaíonn fíordheimhniú don FileLink seo
+    filelink_url: URL an FileLink
+    expired: Imithe in éag
+    filelink_expired: Tá an FileLink imithe in éag
+    select_from_available_files: Is féidir leat FileLink a chruthú freisin ó aon cheann de na comhaid seo atá ann cheana.
+    downloads: Íoslódálacha
+    authentication_failed: Theip ar an bhfíordheimhniú
+    password_label_html: Pasfhocal <small class="text-muted">(roghnach)</small>
+    password_present_html: Tá pasfhocal socraithe don FileLink seo.<br>Is féidir leat é a bhaint trí phasfhocal folamh a shábháil.
+    password_not_present: Níl aon phasfhocal socraithe.
+    copy_to_clipboard: Cóipeáil an FileLink chuig an ngearrthaisce
+    add_file: Cuir comhad leis
+  ftpdrop:
+    create:
+      ftpdrop: FTPdrop
+  html_editor:
+    font:
+      bold: Trom
+      italic: Iodálach
+      underline: Líne faoi
+      clear: Bain an formáidiú
+      height: Airde líne
+      name: Cló
+      strikethrough: Líne tríd
+      subscript: Foscript
+      superscript: Forscript
+      size: Méid an chló
+    image:
+      image: Íomhá
+      insert: Ionsáigh íomhá
+      resize_full: Lánmhéid
+      resize_half: Leathmhéid
+      resize_quarter: Ceathrú den mhéid
+      float_left: Ailínigh ar chlé
+      float_right: Ailínigh ar dheis
+      float_none: Gan ailíniú
+      shape_rounded: "Cruth: cruinnithe"
+      shape_circle: "Cruth: ciorcal"
+      shape_thumbnail: "Cruth: mionsamhail"
+      shape_none: "Cruth: dada"
+      url: URL na híomhá
+      remove: Bain an íomhá
+    link:
+      link: Nasc
+      insert: Ionsáigh nasc
+      unlink: Bain an nasc
+      edit: Cuir in eagar
+      text_to_display: Téacs le taispeáint
+      url: Cén URL ar cheart don nasc seo dul chuige?
+      open_in_new_window: Oscail i bhfuinneog nua
+    table:
+      table: Tábla
+    hr:
+      insert: Ionsáigh líne chothrománach
+    style:
+      style: Stíl
+      normal: Gnáth
+      blockquote: Athfhriotal
+      pre: Cód
+      h1: Ceannteideal 1
+      h2: Ceannteideal 2
+      h3: Ceannteideal 3
+      h4: Ceannteideal 4
+      h5: Ceannteideal 5
+      h6: Ceannteideal 6
+    lists:
+      unordered: Liosta urchar
+      ordered: Liosta uimhrithe
+    options:
+      help: Cabhair
+      fullscreen: Lánscáileán
+      codeview: Amharc cóid
+    paragraph:
+      paragraph: Alt
+      outdent: Laghdaigh an eang
+      indent: Méadaigh an eang
+      left: Ailínigh ar chlé
+      center: Ailínigh sa lár
+      right: Ailínigh ar dheis
+      justify: Comhfhadaigh
+    color:
+      recent: Dath le déanaí
+      more: Tuilleadh dathanna
+      background: Dath an chúlra
+      foreground: Dath an téacs
+      transparent: Trédhearcach
+      set_transparent: Socraigh mar thrédhearcach
+      reset: Athshocraigh
+      reset_to_default: Athshocraigh go dtí an réamhshocrú
+    shortcut:
+      shortcuts: Aicearraí méarchláir
+      close: Dún
+      text_formatting: Formáidiú téacs
+      action: Gníomh
+      paragraph_formatting: Formáidiú ailt
+      document_style: Stíl cáipéise
+      extra_keys: Eochracha breise
+    history:
+      undo: Cuir ar ceal
+      redo: Athdhéan
+  invite:
+    invite_user: Tabhair cuireadh d'úsáideoir
+    description: Is féidir leat cuireadh a thabhairt d'úsáideoirí comhaid a roinnt leat. Chomh luath agus a chuireann tú a sonraí isteach, gheobhaidh siad ríomhphost le treoracha chun an clárú a chríochnú.
+    send_invite: Seol cuireadh
+    name_placeholder: Ainm iomlán
+    invitation_sent: Seoladh an cuireadh
+    not_permitted_to_invite_users: Níl cead agat cuireadh a thabhairt d'úsáideoirí.
+    invalid_email: Seoladh ríomhphoist neamhbhailí
+  link:
+    show:
+      set_password: Socraigh pasfhocal
+      download: Íoslódáil
+      downloads_and_info: Gach íoslódáil agus tuilleadh faisnéise
+    authenticate:
+      show:
+        title: Pasfhocal FileLink
+        authenticate: Fíordheimhnigh
+        require_authentication: Chun an FileLink seo a oscailt, caithfidh tú an pasfhocal riachtanach a chur isteach.
+      create:
+        authentication_failed: Theip ar an bhfíordheimhniú.
+    downloads:
+      index:
+        back_to_filelink: Ar ais chuig an FileLink
+    link_downloads:
+      latest_downloads: Na híoslódálacha is déanaí (%{count} as %{total} san iomlán)
+  menu:
+    shares: Share
+    messages: Teachtaireachtaí
+    send_files: Scríobh
+    users: Úsáideoirí
+    active_transfers: Aistrithe gníomhacha
+    configuration: Cumraíocht
+    system: Córas
+    message_list: Liosta teachtaireachtaí
+    settings: Socruithe
+    admin: Riarachán
+    account: Cuntas
+    inbox: Bosca isteach
+    sent_messages: Míreanna seolta
+    downloads: Logchomhad íoslódálacha
+    filelink: FileLink
+    secure_messages: Teachtaireachtaí slána
+    support: Tacaíocht
+  message:
+    message_sent: Seoladh an teachtaireacht
+    not_found: Níor aimsíodh an teachtaireacht
+    message_not_found_header: Níor aimsíodh an teachtaireacht!
+    message_not_found_description: Iarr ar an seoltóir an teachtaireacht seo a sheoladh arís.
+    previous_recipients: Faighteoirí roimhe seo
+    contacts: Teagmhálaithe
+    is_not_permitted: níl sé ceadaithe
+    not_permitted_to_delete_messages: Níl cead agat teachtaireachtaí a scriosadh
+    is_not_in_any_of_the_allowed_domains: níl sé in aon cheann de na fearainn cheadaithe
+    is_not_in_any_of_the_allowed_groups: níl sé in aon cheann de na grúpaí ceadaithe
+    attach_1_file: Caithfidh tú comhad amháin ar a laghad a cheangal
+    too_many_files: Cheangail tú an iomarca comhad. Is féidir leat suas le %{count} comhad a cheangal le teachtaireacht.
+    attached_files: Comhaid cheangailte
+    expired: Tá an teachtaireacht imithe in éag
+    authorize:
+      show:
+        title: Logáil isteach chun an teachtaireacht shlán a oscailt
+        authenticate_description_html: Tá tú ar tí teachtaireacht shlán a fheiceáil. Caithfidh tú logáil isteach ar dtús. Cuir isteach do sheoladh ríomhphoist nó logáil isteach le leanúint ar aghaidh.<br>Mura bhfuil cuntas agat ar an gcóras seo, cuir isteach do sheoladh ríomhphoist agus seolfaimid nasc slán chugat chun é a dheimhniú.
+        unauthenticated_html: <h4>Ainm úsáideora nó pasfhocal neamhbhailí</h4><p>Cuir isteach d'ainm úsáideora agus do phasfhocal. Is féidir leat do phasfhocal a athshocrú leis an gcnaipe Athshocraigh an pasfhocal thíos.</p>
+        unauthorized_to_view_check_email_html: <h4>Seoladh ríomhphoist gan údarú</h4><p>Seiceáil gur seoladh an teachtaireacht shlán [<span class="font-monospace fw-bold">%{message_id}</span>] chugat agus cuir isteach an seoladh ríomhphoist díreach mar a seoladh an teachtaireacht.</p><p>Mar shampla, más féidir le do sheoladh a bheith sean.omurchu@comhlacht.ie agus somurchu@comhlacht.ie araon, níl a fhios ag an gcóras gurb é an seoladh céanna é. Má seoladh an teachtaireacht shlán chuig sean.omurchu@comhlacht.ie, is é sin an seoladh ba chóir duit a chur isteach anseo.</p><p>Mura bhfuil tú cinnte, déan teagmháil le seoltóir na teachtaireachta sláine.</p>
+    errors:
+      not_authorized_to_view_message: "Níl údarú agat an teachtaireacht leis an aitheantas seo a fheiceáil: %{message_id}. Seiceáil gur seoladh an teachtaireacht seo chugat."
+      private_message_requires_authentication: Teastaíonn fíordheimhniú do theachtaireachtaí príobháideacha
+    attachments:
+      download_attachment_details_csv: Íoslódáil sonraí na gceangaltán (CSV)
+      attachment:
+        fileinfo: Faisnéis comhaid
+        file_size: Méid comhaid
+        content_type: Cineál ábhair
+        checksum: Suim sheiceála
+        virus_status: Stádas frithvíris
+    compose:
+      options_permission:
+        authentication_required: Fíordheimhniú ag teastáil
+        authentication_not_required: Níl fíordheimhniú ag teastáil
+        require_authentication_description: An gcaithfidh faighteoirí fíordheimhniú chun an teachtaireacht seo a oscailt?
+        access_restriction_html: Srian rochtana<br><small class="text-muted">Cé a bhfuil rochtain aige ar an teachtaireacht seo?</small>
+        recipients_only_html: Faighteoirí<br>amháin
+        recipients_plus_locals_html: Faighteoirí<br>+ úsáideoirí áitiúla
+        recipients_plus_domains_html: Faighteoirí<br>+ fearainn
+        anyone_secret_link_html: Duine ar bith<br>(nasc rúnda)
+    unavailable:
+      header: Níl an teachtaireacht ar fáil
+      description: Tá an teachtaireacht seo imithe in éag, scriosta, níl sí ann nó níl sí ar fáil a thuilleadh. Iarr ar an seoltóir an teachtaireacht a sheoladh arís.
+    downloads:
+      index:
+        download_log_title: Logchomhad íoslódálacha
+        message_id: Aitheantas teachtaireachta
+        paginator_entry_name: Íoslódálacha
+      download:
+        details: Sonraí
+      not_found:
+        title: Níor aimsíodh an teachtaireacht ná an íoslódáil
+        description_html: Níorbh fhéidir an teachtaireacht ná an íoslódáil a aimsiú, nó níl cead agat iad a fheiceáil
+    temporary_user:
+      create:
+        invalid_temporary_user: Pasfhocal neamhbhailí. Seiceáil an ríomhphost le do phasfhocal sealadach nó iarr pasfhocal sealadach nua.
+        temporary_user_expired: Tá an pasfhocal sealadach seo imithe in éag. Seoladh pasfhocal sealadach nua chuig do sheoladh ríomhphoist. Seiceáil do bhosca isteach agus bain úsáid as an bpasfhocal sealadach nua.
+        not_authorized_to_view_message: "Níl údarú agat an teachtaireacht leis an aitheantas seo a fheiceáil: %{message_id}. Seiceáil gur seoladh an teachtaireacht seo chugat."
+      show:
+        title: Cuir isteach do phasfhocal sealadach
+        description_html: "Tá tú ar tí teachtaireacht shlán a fheiceáil. Chun í a oscailt, caithfidh tú do phasfhocal sealadach a chur isteach.<br>Is teaghrán randamach uathúil é an pasfhocal sealadach a shainaithníonn thú. Seoladh an pasfhocal sealadach chugat i ríomhphost ar leith (ábhar: Pasfhocal sealadach)."
+        what_is_this: Cad é seo?
+        login: Logáil isteach
+        submit: Fíoraigh an pasfhocal sealadach
+        submit_email: Seol isteach
+        if_you_have_account: "(má tá cuntas agat cheana)"
+        request_temporary_user_header: Iarr pasfhocal sealadach nua
+        request_temporary_user_description_html: Is féidir leat pasfhocal sealadach nua a iarraidh chun an teachtaireacht seo a oscailt. Cuir isteach do sheoladh ríomhphoist thíos chun pasfhocal sealadach nua a iarraidh don teachtaireacht shlán seo.
+        info_header: Faisnéis faoin bpasfhocal sealadach
+        info_body_html: "<p>Is sraith uathúil uimhreacha agus litreacha é an pasfhocal sealadach, mar shampla:</p><pre><code>3ynp-7FKa-pZS9</code></pre><p><em>Níl sa phasfhocal sealadach seo ach sampla le go bhfeicfidh tú cén chuma atá air – ní féidir é a úsáid.</em></p><p>I do bhosca isteach gheobhaidh tú <strong>dhá ríomhphost</strong>: ceann leis an teachtaireacht shlán agus ceann le <strong>hábhar a thosaíonn le: Pasfhocal sealadach</strong>. Tá do phasfhocal sealadach uathúil don chóras seo sa dara ceann.</p><p>Mura bhfuair tú ríomhphost le pasfhocal sealadach, b'fhéidir go bhfuil cuntas agat ar an gcóras seo cheana. Sa chás sin, cliceáil ar “Logáil isteach”.</p><p>Má cheapann tú gur cheart go bhfaighfeá pasfhocal sealadach ach nach bhfuair, cliceáil ar “Iarr pasfhocal sealadach” chun ceann nua a fháil.</p>"
+        email_address: Seoladh ríomhphoist
+        email_not_permitted: Níl cead ag an seoladh ríomhphoist seo an teachtaireacht shlán seo a fheiceáil.
+        email_not_permitted_description_html: <p>Seiceáil an ríomhphost leis an teachtaireacht shlán a fuair tú agus cuir isteach an seoladh ríomhphoist díreach mar a seoladh an teachtaireacht.</p><p>Mar shampla, más féidir le do sheoladh a bheith sean.omurchu@comhlacht.ie agus somurchu@comhlacht.ie araon, níl a fhios ag an gcóras gurb é an seoladh céanna é. Má seoladh an teachtaireacht shlán chuig sean.omurchu@comhlacht.ie, is é sin an seoladh ba chóir duit a chur isteach anseo.</p><p>Mura bhfuil tú cinnte, déan teagmháil le seoltóir na teachtaireachta sláine.</p>
+        email_can_login: Tá cuntas agat ar an gcóras seo cheana
+        email_can_login_description_html: <p>Is féidir leat logáil isteach ar an gcóras seo leis an seoladh ríomhphoist seo agus do phasfhocal.</p><p>Cliceáil ar an gcnaipe Logáil isteach thíos chun logáil isteach le do chuntas reatha.</p>
+        temporary_user_delivered_header: Seoladh an pasfhocal sealadach
+        temporary_user_delivered_description_html: <p>Seoladh pasfhocal sealadach chuig do sheoladh ríomhphoist. Seiceáil do bhosca isteach, dún an fhuinneog seo agus cuir isteach an pasfhocal sealadach.</p>
+    reply:
+      re: "Freagra:"
+      wrote: a scríobh
+      show:
+        title: Freagair teachtaireacht shlán
+        from: Ó
+        reply: Freagair
+        reply_all: Freagair cách
+      options:
+        options_description: Tabhair faoi deara go dtógtar na roghanna go léir ón teachtaireacht bhunaidh.
+    show:
+      back: Ar ais
+      message_header: Ceanntásc na teachtaireachta
+      reply: Freagair
+  messages:
+    sent:
+      skipped_file_not_found: Scipeáilte - níor aimsíodh an comhad
+      show:
+        sent_title: Míreanna seolta
+        sent_description: Teachtaireachtaí a sheol tú
+        paginator_entry_name: teachtaireachtaí
+    attachments:
+      download_cmd:
+        unauthorized:
+          header: Gan údarú
+          body: Níl údarú agat an comhad seo a íoslódáil. Iarr ar an seoltóir é a sheoladh chugat arís.
+          back: Ar ais
+        exceeded:
+          header: Sáraíodh an teorainn íoslódála
+          body: Sáraíodh an teorainn íoslódála don chomhad seo. Iarr ar an seoltóir é a sheoladh chugat arís.
+          back: Ar ais
+    download_zip:
+      unauthorized:
+        header: Gan údarú
+        body: Níl údarú agat an chartlann seo a íoslódáil. Iarr ar an seoltóir an comhad a sheoladh chugat arís.
+        back: Ar ais
+      exceeded:
+        header: Sáraíodh an teorainn íoslódála
+        body: Sáraíodh an teorainn íoslódála do chomhad amháin nó níos mó sa chartlann seo. Iarr ar an seoltóir an comhad a sheoladh chugat arís.
+        back: Ar ais
+    message:
+      reply: Freagair
+      reply_all: Freagair cách
+  models:
+    user:
+      no_need_to_create_local_user: Ní gá úsáideoir áitiúil a chruthú
+      license_exceeded: Sáraíodh teorainn an cheadúnais
+  notifier:
+    activate_user_subject: "[%{hostname}] Gníomhachtú cuntais"
+    user_activation: Gníomhachtú úsáideora
+    please_visit_the_following_url_to_activate: Cliceáil ar an nasc thíos chun do chuntas a ghníomhachtú
+    the_following_files_are_attached: Tá na comhaid seo a leanas ceangailte leis an teachtaireacht seo
+    please_visit_the_following_url: Cliceáil ar an nasc seo chun na ceangaltáin a íoslódáil
+    attachments_are_available: Beidh na ceangaltáin ar fáil go dtí
+    message_id: "Aitheantas teachtaireachta: %{id}"
+    email_password_reset_subject: Athshocrú pasfhocail
+    download_receipt_subject: "Admháil íoslódála [ID: %{message_id}]"
+    a_file_that_you_sent: Íoslódáladh comhad a sheol tú. Coinnigh an ríomhphost seo mar chruthúnas ar an íoslódáil.
+    recipient: Faighteoir
+    filename: Ainm comhaid
+    time_of_download: Am íoslódála
+    downloaded_from: Íoslódáilte ó
+    download_receipt: Admháil íoslódála
+    user_created:
+      account_created: Cruthaíodh an cuntas
+      subject: "[%{hostname}] Cruthaíodh an cuntas"
+      message: "Tá ceangaltán slán ag fanacht leat. Chun é a fháil, caithfidh tú fíordheimhniú. Cliceáil ar an nasc thíos chun clárú:"
+  outlook:
+    messages:
+      new:
+        attachments_header: Ceangaltáin
+        attachments_hint: Is féidir leat comhaid a cheangal trí iad a tharraingt go dtí an chuid thíos nó trí chliceáil ar an gcnaipe Ceangail comhaid.
+        add_to_message: Cuir leis an teachtaireacht
+      attachments:
+        attach_files: Ceangail comhaid
+        drop_files_here: Scaoil comhaid anseo...
+      options:
+        recipients_can_reply: Is féidir le faighteoirí freagra a thabhairt
+        send_copy_to_myself: Seol cóip chugam féin
+        private_message: Teachtaireacht phríobháideach
+        private_message_required_auth_error: Nuair a sheolann tú teachtaireacht phríobháideach, caithfidh tú an mód “Fíordheimhniú ag teastáil” a úsáid.
+      options_authorization:
+        authentication_authorization_title_html: Fíordheimhniú &amp; údarú
+        authentication_select_title: Roghnaigh fíordheimhniú
+        authentication_required: Fíordheimhniú ag teastáil
+        authentication_not_required: Níl fíordheimhniú ag teastáil
+        authorization_select_title: Roghnaigh údarú
+        recipients_only: Faighteoirí amháin
+        recipients_locals: Faighteoirí + úsáideoirí áitiúla
+        recipients_domains: Faighteoirí + fearainn
+        anyone: Duine ar bith (nasc rúnda)
+      options_expiration:
+        message_expires: Éag na teachtaireachta
+        message_expires_after: Éagann an teachtaireacht tar éis
+  pagination:
+    first: "&laquo; An chéad cheann"
+    last: An ceann deireanach &raquo;
+    previous: "&lsaquo; Roimhe"
+    next: Ar aghaidh &rsaquo;
+    truncate: "&hellip;"
+  requests:
+    title: Iarratas ar chomhaid
+    file_request: Iarratas ar chomhaid
+    files_sent: Seoladh na comhaid, go raibh maith agat!
+    request_file: Iarr comhad
+    file_requests: Iarratais ar chomhaid
+    description: Le hiarratas ar chomhaid is féidir leat iarraidh ar dhuine comhaid a sheoladh chugat. Chomh luath agus a chuireann tú na sonraí isteach, gheobhaidh an duine ríomhphost le nasc uathúil trínar féidir leis na comhaid iarrtha a sheoladh chugat.
+    file_request_not_found: Níor aimsíodh an t-iarratas ar chomhaid
+    file_request_expired: Tá an t-iarratas ar chomhaid imithe in éag
+    file_request_already_used: Úsáideadh an t-iarratas ar chomhaid cheana
+    file_request_sent: Seoladh an t-iarratas ar chomhaid
+    not_permited: Níl cead agat an ghné iarratais ar chomhaid a úsáid
+    multiuse: Ilúsáid - is féidir an nasc iarratais seo a úsáid arís agus arís eile
+    invalid_recipient: Faighteoir neamhbhailí, seoladh an t-iarratas ar chomhaid seo chuig duine eile
+    invalid_user: Ní leatsa an t-iarratas ar chomhaid seo
+    index:
+      title: Iarratais ar chomhaid
+      new_file_request: Iarratas nua ar chomhaid
+      multiuse: Ilúsáid
+      responded_to: Freagartha
+      hide_expired: Folaigh iarratais imithe in éag agus úsáidte
+      show_expired: Taispeáin iarratais imithe in éag agus úsáidte
+    request:
+      resend: Seol arís
+      are_you_sure_you_want_to_delete: An bhfuil tú cinnte gur mian leat an t-iarratas ar chomhaid seo a scriosadh?
+    popup:
+      from: Ó
+      to: Chuig
+      subject: Ábhar
+      message: Teachtaireacht
+    resend:
+      request_resent: Seoladh an t-iarratas ar chomhaid arís
+    new:
+      request_expires: Éag an iarratais
+  send:
+    send: Seol
+    sent: Seolta
+    recipients: Chuig
+    send_as: Seol mar
+    you_can_only_send_files_to_yourself: Ní féidir leat comhaid a sheoladh ach chugat féin
+    subject: Ábhar
+    subject_placeholder: Ábhar
+    attachments: Ceangaltáin
+    max_file_size: "Uasmhéid ceangaltán: %{filesize} MB"
+    upload_queue: Scuaine uaslódála
+    remove: Bain
+    cancel_all: Cealaigh gach rud
+    cancel_all_uploads: Cealaigh gach uaslódáil
+    message: Teachtaireacht
+    message_placeholder: Teachtaireacht
+    done_editing_please_send: Tá an eagarthóireacht críochnaithe, seol na comhaid nuair a bheidh gach uaslódáil críochnaithe
+    files_sent_successfully: Seoladh na comhaid go rathúil
+    you_need_at_least_one_recipient: Teastaíonn faighteoir amháin ar a laghad
+    you_need_at_least_one_attachment: Teastaíonn ceangaltán amháin ar a laghad
+    options: Roghanna
+    cc: Cc
+    bcc: Bcc
+    bcc_message_description: Ní bheidh faighteoirí Bcc le feiceáil ag na faighteoirí eile
+    add_cc: cuir Cc leis
+    add_bcc: cuir Bcc leis
+    bcc_myself: Seol cóip chugam féin
+    require_login: Éiligh logáil isteach chun comhaid a íoslódáil
+    only_specified_recipients_can_download: Ní féidir ach leis na faighteoirí sonraithe na ceangaltáin a íoslódáil
+    anyone_can_download: Is féidir le duine ar bith na ceangaltáin a íoslódáil
+    expires_in: Is féidir na ceangaltáin a íoslódáil ar feadh
+    expires_at: Éagann na ceangaltáin ar
+    send_options: Roghanna seolta
+    to: Chuig
+    from: Ó
+    filename: Ainm comhaid
+    filesize: Méid comhaid
+    downloaded_at: Íoslódáilte ar
+    message_sent: Seoladh an teachtaireacht
+    message_expires: Éag na teachtaireachta
+    message_expires_after: Éagann an teachtaireacht tar éis
+    message_expires_after_description: Ríomhtar é seo in aghaidh an chomhaid. Má sheolann tú 2 chomhad a éagann tar éis 1 íoslódáil, beidh gach faighteoir in ann gach comhad a íoslódáil uair amháin.
+    downloads_per_recipient: Íoslódálacha in aghaidh an fhaighteora
+    total_downloads: Íoslódálacha san iomlán
+    file_not_downloaded: Níor íoslódáladh aon cheangaltán
+    at_least_one_invalid_extension: Tá iarmhír neamhbhailí ar cheann amháin ar a laghad de na ceangaltáin
+    invalid_filetype: Iarmhír neamhbhailí
+    blocked_extension: "Iarmhír neamhbhailí. Ní féidir leat comhaid a sheoladh leis na hiarmhíreanna seo: %{extensions}"
+    permitted_extensions: "Is iad na hiarmhíreanna ceadaithe: %{filetypes}"
+    already_selected: Roghnaíodh an comhad seo cheana
+    maximum_filesize_exceeded: Sáraíodh an t-uasmhéid comhaid
+    contains_virus: "Tá VÍREAS i %{filename}: %{virus}"
+    limited_by_browser: Teoranta ag an mbrabhsálaí
+    limited_by_disk: Teoranta ag spás diosca
+    limited_by_system_quota: Teoranta ag cuóta an chórais
+    limited_by_group_quota: Teoranta ag cuóta an ghrúpa
+    limited_by_quota: Teoranta ag an gcuóta
+    limited_per_message: Teorainn in aghaidh na teachtaireachta
+    system_quota_exceeded: Sáraíodh cuóta an chórais
+    group_quota_exceeded: Sáraíodh cuóta an ghrúpa
+    quota_exceeded: Sáraíodh an cuóta
+    no_available_quota: Sáraíodh an cuóta, scrios roinnt comhad le leanúint ar aghaidh
+    not_authorized_to_send: Níl údarú agat seoladh chuig %{email}
+    public_url: URL poiblí
+    message_url: URL na teachtaireachta
+    authorization: Údarú
+    insufficient_disk_space: Níl go leor spáis diosca ann
+    active_transfers: Aistrithe gníomhacha
+    view_log: Féach ar an logchomhad
+    previously_sent_attachments: Ceangaltáin a seoladh roimhe seo
+    has_not_downloaded: Níor íoslódáil %{recipient} aon chomhad
+    authentication: Fíordheimhniú
+    required: Riachtanach
+    disabled: Díchumasaithe
+    require_authentication_tooltip_html: <li>Caithfidh an faighteoir logáil isteach le hainm úsáideora agus pasfhocal chun an comhad a íoslódáil.</li> <li>Gheobhaidh tú admháil nuair a íoslódáiltear an comhad.</li>
+    dont_require_authentication_tooltip_html: <li>Ní iarrfar ar an bhfaighteoir logáil isteach chun an comhad a íoslódáil.</li> <li>Gheobhaidh tú admháil nuair a íoslódáiltear an comhad, ach ní bheidh a fhios agat cé a d'íoslódáil é.</li> <li>Ní bhfaighidh tú admháil ach nuair a íoslódálann an chéad fhaighteoir an comhad.</li>
+    authenticate_link_description: Caithfidh tú logáil isteach sula n-osclaíonn tú an FileLink seo.
+    unauthorized: Níl údarú agat an teachtaireacht seo a fheiceáil.
+    unauthenticated: Pasfhocal mícheart
+    incorrect_login_or_demo: Pasfhocal mícheart, nó tá teorainn an cheadúnais bainte amach
+    email_authorization_message: Go raibh maith agat. Chun a fhíorú gurb é seo do sheoladh ríomhphoist, sheolamar ríomhphost chugat le cód bailíochtaithe. Cuir isteach an cód bailíochtaithe thíos nó cliceáil ar an nasc sa ríomhphost chun dul chuig an teachtaireacht.
+    email_authorization_link: Go raibh maith agat. Chun a fhíorú gurb é seo do sheoladh ríomhphoist, sheolamar ríomhphost chugat le cód bailíochtaithe. Cuir isteach an cód bailíochtaithe ón ríomhphost thíos nó cliceáil ar an nasc sa ríomhphost chun dul chuig an FileLink.
+    email_authorization_message_create_account: Go raibh maith agat. Ós rud é nach bhfuil cuntas agat ar an gcóras seo, sheolamar ríomhphost chugat le cód bailíochtaithe chun a fhíorú gurb é seo do sheoladh ríomhphoist. Cuir isteach an cód bailíochtaithe thíos nó cliceáil ar an nasc sa ríomhphost chun do sheoladh a dheimhniú. Ansin iarrfar ort cuntas a chruthú agus tabharfar chuig an teachtaireacht thú.
+    email_authorization_link_create_account: Go raibh maith agat. Ós rud é nach bhfuil cuntas agat ar an gcóras seo, sheolamar ríomhphost chugat le cód bailíochtaithe chun a fhíorú gurb é seo do sheoladh ríomhphoist. Cuir isteach an cód bailíochtaithe ón ríomhphost thíos nó cliceáil ar an nasc sa ríomhphost chun do sheoladh a dheimhniú. Ansin iarrfar ort cuntas a chruthú agus tabharfar chuig an FileLink thú.
+    authorize: Údaraigh
+    authenticate: Logáil isteach
+    sending: Á sheoladh...
+    abort_transfer: Tobscoir an t-aistriú
+    files_to_big: Comhad/comhaid rómhór
+    only_specified_recipients: Níl rochtain ach ag na faighteoirí sonraithe
+    only_specified_recipients_and_local_users: Níl rochtain ach ag na faighteoirí sonraithe agus ag úsáideoirí áitiúla
+    only_specified_recipients_and_domains: Níl rochtain ach ag na faighteoirí sonraithe agus ag úsáideoirí óna bhfearann
+    anyone_after_authentication: Tá rochtain ag duine ar bith (a bhfuil an nasc randamach aige)
+    no_recipient_validation: Gan bailíochtú faighteoirí
+    anyone_can_access: Tá rochtain ag duine ar bith
+    anyone: Duine ar bith
+    no_authentication: Gan fíordheimhniú
+    can_download: is féidir leo íoslódáil
+    not_yet_scanned: á scanadh le haghaidh víreas, bain triail eile as ar ball. %{queue} sa scuaine
+    was_infected: "bhí sé ionfhabhtaithe leis an víreas %{virus} agus scriosadh é"
+    deleted_or_expired: Scriosta nó imithe in éag
+    im_done_editing: Seol go huathoibríoch nuair a bheidh na huaslódálacha reatha críochnaithe
+    download_all: Íoslódáil gach rud
+    zipped_archive: Cartlann ZIP
+    message_id: Aitheantas teachtaireachta
+    overall_progress: Dul chun cinn iomlán
+    abort: Tobscoir
+    limitations: Teorainneacha
+    max_size: Uasmhéid
+    add_files: Cuir comhaid leis...
+    add_folder: Cuir fillteán leis...
+    no_attachment_added: Níor cuireadh aon cheangaltán leis
+    you_need_to_add_at_least_one_file: Caithfidh tú comhad amháin ar a laghad a chur leis.
+    private_message_or_attached_files: Caithfidh tú Teachtaireacht phríobháideach a chumasú nó comhad amháin ar a laghad a cheangal.
+    no_runtime_found: Níor aimsíodh aon timpeallacht rite, ní féidir comhaid a uaslódáil
+    runtime_check_title: Níor aimsíodh aon timpeallacht rite
+    selected: roghnaithe
+    file_size_error: Earráid i méid an chomhaid
+    remaining: fágtha
+    attached_files: Comhaid cheangailte
+    show_message: Taispeáin an teachtaireacht
+    can_be_max: is féidir leis a bheith suas le %{days} lá sa todhchaí
+    not_ready: Níl sé réidh le híoslódáil fós
+    download_info: Faisnéis íoslódála
+    browser: Brabhsálaí
+    platform: Ardán
+    operating_system: Córas oibriúcháin
+    location: Suíomh
+    download_details: Sonraí íoslódála
+    download_information_not_found: Níorbh fhéidir an fhaisnéis íoslódála a aimsiú.
+    add: Cuir leis
+    select_existing_files: Roghnaigh comhaid atá ann cheana
+    add_existing_files: Cuir comhaid atá ann cheana leis
+    add_existing_description: Seoladh na comhaid seo cheana agus is féidir leat iad a sheoladh arís.
+    zip_disabled: Tá ZIP díchumasaithe
+    zip_disabled_description_exceeded: Sáraíodh an líon uasta íoslódálacha do cheangaltán amháin ar a laghad.
+    spinner_info_html: <strong>Tá do theachtaireacht réidh le seoladh</strong>. Tá roinnt comhad fós á bpróiseáil sa chúlra, ach ní gá duit fanacht. <strong>Brúigh Seol nuair a bheidh tú réidh!</strong>
+    sent_to_you: Seolta chugat
+    excluding_admins: Gan riarthóirí a áireamh
+    downloads: Íoslódálacha
+    download_log: Logchomhad íoslódálacha
+    delete_attachments: Scrios na ceangaltáin
+    delete_message: Scrios an teachtaireacht
+    delete_attachments_warning: An bhfuil tú cinnte gur mian leat na ceangaltáin a scriosadh?
+    delete_message_warning: Má scriosann tú an teachtaireacht, scriosfar na comhaid cheangailte agus an logchomhad íoslódálacha freisin. An bhfuil tú cinnte gur mian leat an teachtaireacht a scriosadh?
+    invalid_message: Teachtaireacht neamhbhailí
+    message_deleted: Scriosadh an teachtaireacht
+    attachments_deleted: Scriosadh na ceangaltáin
+    checksum: Suim sheiceála (SHA256)
+    not_permitted_to_send_messages: Níl cead agat teachtaireachtaí a sheoladh.
+    invalid_group_belonging: Ní cheadaítear seoladh (grúpa neamhbhailí). Tá tú cláraithe mar úsáideoir seachtrach, ach baineann do sheoladh ríomhphoist leis an bhfearann %{domain}, atá ar liosta na bhfearann faighteoirí srianta freisin. Ní cheadaítear é seo d'úsáideoirí seachtracha. Iarr ar riarthóir an chórais thú a bhogadh chuig grúpa eile le leanúint ar aghaidh.
+    expires_after_exceeded: Sáraíodh líon na n-íoslódálacha
+    expires_after_exceeded_for_zip: Sáraíodh líon na n-íoslódálacha do chomhad amháin ar a laghad sa chartlann ZIP
+    permission_description_title: Srianta rochtana
+    permission_description_only_specified_html: <ul> <li>Níl rochtain ar an teachtaireacht ach ag na faighteoirí sonraithe agus is féidir leo na comhaid a íoslódáil.</li> <li>Ní cheadaítear an ríomhphost ná an URL a chur ar aghaidh chuig duine ar bith.</li> <li>Caithfidh faighteoirí logáil isteach chun an teachtaireacht a oscailt agus na comhaid a íoslódáil.</li> <li>Seoltar admháil íoslódála le faisnéis mhionsonraithe le gach íoslódáil de gach comhad.</li> </ul>
+    permission_description_only_specified_and_local_html: <ul> <li>Ní féidir ach leis na faighteoirí sonraithe agus le húsáideoirí áitiúla na comhaid a íoslódáil.</li> <li>Ní féidir an ríomhphost ná an URL a chur ar aghaidh ach chuig úsáideoirí áitiúla.</li> <li>Caithfidh faighteoirí logáil isteach chun na comhaid a íoslódáil.</li> <li>Seoltar admháil íoslódála le faisnéis mhionsonraithe le gach íoslódáil de gach comhad.</li> </ul>
+    permission_description_only_specified_and_domains_html: <ul> <li>Níl rochtain ach ag na faighteoirí sonraithe agus ag úsáideoirí ón bhfearann ríomhphoist céanna.</li> <li>Má sheolann tú chuig stiurthoir@comhpairti.ie, tá rochtain ar an teachtaireacht ag runai@comhpairti.ie freisin, ach níl ag fiosrach@iomaitheoir.ie.</li> <li>Caithfidh faighteoirí logáil isteach chun na comhaid a íoslódáil.</li> <li>Seoltar admháil íoslódála le faisnéis mhionsonraithe le gach íoslódáil de gach comhad.</li> </ul>
+    permission_description_anyone_after_authentication_html: <ul> <li>Is féidir le duine ar bith a bhfuil an URL rúnda randamach aige na comhaid a íoslódáil.</li> <li>Is féidir an ríomhphost nó an URL a chur ar aghaidh chuig duine ar bith.</li> <li>Caithfidh faighteoirí logáil isteach chun na comhaid a íoslódáil.</li> <li>Seoltar admháil íoslódála le faisnéis mhionsonraithe le gach íoslódáil de gach comhad.</li> </ul>
+    permission_description_anyone_html: <ul> <li>Is féidir le duine ar bith a bhfuil an URL rúnda randamach aige na comhaid a íoslódáil.</li> <li>Is féidir an ríomhphost nó an URL a chur ar aghaidh chuig duine ar bith.</li> <li><strong>Ní</strong> theastaíonn logáil isteach chun na comhaid a íoslódáil.</li> <li>Seoltar admháil íoslódála <strong>bhunúsach</strong> ag an gcéad íoslódáil ag duine ar bith (teastaíonn fíordheimhniú le go mbeidh a fhios cé a d'íoslódáil cad).</li> </ul>
+    your_message_has_been_sent: Seoladh do theachtaireacht
+    you_can_send_to_anyone: "(Is féidir leat an nasc seo a sheoladh chuig duine ar bith)"
+    send_more_files: Seol tuilleadh comhad
+    download_speed: Luas íoslódála
+    download_time: Am íoslódála
+    at_least_one_invalid_email: Seoladh ríomhphoist neamhbhailí amháin ar a laghad
+    reply: Is féidir leis an bhfaighteoir freagra a thabhairt
+    private_message: Teachtaireacht phríobháideach
+    private_message_description_html: I dteachtaireacht phríobháideach, ní sheoltar téacs do theachtaireachta chuig an bhfaighteoir trí ríomhphost – ní bhíonn sé le feiceáil ach nuair a chliceálann an faighteoir ar an nasc sa ríomhphost agus nuair a fhíordheimhníonn sé. <ul> <li>Is féidir leat teachtaireacht phríobháideach a sheoladh gan cheangaltáin.</li> <li>Gheobhaidh tú admháil rochtana nuair a fheiceann duine éigin do theachtaireacht.</li> <li>Ní féidir leat teachtaireacht phríobháideach a sheoladh leis an gcead íoslódála “Is féidir le duine ar bith íoslódáil”.</li> </ul>
+    private_message_delivered_description: Seoladh an teachtaireacht mar theachtaireacht phríobháideach. Níl téacs na teachtaireachta sa ríomhphost agus gheobhaidh tú admháil rochtana nuair a fheiceann gach faighteoir an teachtaireacht.
+    access_info: Faisnéis rochtana
+    access_details: Sonraí rochtana
+    validation_code: Cód bailíochtaithe
+    expired_token_inline: Tá an fíordheimhniú ríomhphoist imithe in éag, bain triail eile as.
+    invalid_token: Cód neamhbhailí nó imithe in éag. Cliceáil ar an nasc sa ríomhphost bunaidh chun do sheoladh ríomhphoist a dheimhniú arís.
+    download_zip: Íoslódáil ZIP
+    zip_ready_for_download: Tá an ZIP réidh le híoslódáil
+    processing_zip: Comhad ZIP á phróiseáil
+    drop_file_here: Scaoil an comhad anseo
+    drop_files_here: Scaoil comhaid anseo
+    drop_files_and_folders_here: Scaoil comhaid agus fillteáin anseo
+    select_pool_files: Roghnaigh comhaid ón stór
+    add_pool_files: Cuir comhaid ón stór leis
+    invalid_validation_token: Ní cód bailíochtaithe bailí é seo.
+    not_the_validation_token: Is é seo aitheantas na teachtaireachta, ní an cód bailíochtaithe. Cuir isteach an cód bailíochtaithe.
+    no_messages_in_inbox: Níl aon teachtaireachtaí sa bhosca isteach.
+    filename_already_selected: Cuireadh comhad leis an ainm seo leis an teachtaireacht seo cheana
+    filesize_exceeded: Sáraíodh uasmhéid na teachtaireachta
+    infected_with: Ionfhabhtaithe le víreas
+    not_permitted_to_download_content_blocked: "Ní cheadaítear an comhad seo a íoslódáil. Bhraith an scanadh víreas: %{virus}"
+    invalid_email_address: Seoladh ríomhphoist neamhbhailí
+    cant_create_folder: Ní féidir an fillteán a chruthú
+    cant_check_folder: Ní féidir an fillteán a sheiceáil
+    cant_restore_folder: Ní féidir an fillteán a athchóiriú
+    cant_check_chunks: Ní féidir na codanna a sheiceáil
+    zip_not_include_all_files: Ní féidir gach comhad a íoslódáil – ní bheidh sa ZIP ach na comhaid is féidir a íoslódáil.
+    paste_tip: Leid! Greamaigh le Ctrl+Shift+V chun an formáidiú a bhaint.
+  session:
+    api:
+      authentication_error: Earráid fíordheimhnithe, bain triail eile as.
+      not_local_user: Seoladh ríomhphoist neamhbhailí. Ní féidir ach le húsáideoirí áitiúla an fheidhm seo a úsáid.
+      show:
+        login: Logáil isteach
+        login_label: Seoladh ríomhphoist
+        password: Pasfhocal
+        sso_login: Logáil isteach SSO
+        authentication_title: Logáil isteach
+        authentication_description: Cuir isteach do sheoladh ríomhphoist nó logáil isteach le leanúint ar aghaidh.
+      authenticated:
+        authentication_successful: D'éirigh leis an bhfíordheimhniú
+    authenticate:
+      login: Logáil isteach le leanúint ar aghaidh
+      description_html: Caithfidh tú logáil isteach chun an leathanach seo a oscailt. Cuir isteach do sheoladh ríomhphoist nó logáil isteach le leanúint ar aghaidh.<br>Mura bhfuil cuntas agat ar an gcóras seo, cuir isteach do sheoladh ríomhphoist agus seolfaimid pasfhocal sealadach chugat trí ríomhphost.
+      unauthorized: Níl údarú agat an teachtaireacht seo a fheiceáil. Cuir isteach do sheoladh ríomhphoist díreach mar a seoladh an teachtaireacht chugat, nó déan teagmháil leis an seoltóir.
+    email:
+      validate_email: Deimhnigh do sheoladh ríomhphoist
+      validate_email_description_html: "Seoladh cód slándála chuig do sheoladh ríomhphoist: <strong>%{email}</strong>. Cliceáil ar an nasc nó cuir isteach an cód slándála anseo chun do sheoladh a dheimhniú agus leanúint ar aghaidh."
+      session_expired: Tá an seisiún imithe in éag, cuir isteach do sheoladh ríomhphoist arís le leanúint ar aghaidh
+      token_expired: Tá an nasc fíordheimhnithe sa ríomhphost imithe in éag, bain triail eile as.
+      already_authenticated: Tá tú logáilte isteach sa bhrabhsálaí seo cheana.
+      resend_validation_email: Seol an ríomhphost bailíochtaithe arís
+      verify: Fíoraigh
+      validate_email_sent: "Seoladh ríomhphost bailíochtaithe nua ag: %{time}. Cliceáil ar an nasc sa ríomhphost nó cuir isteach an cód slándála thíos chun do sheoladh ríomhphoist a dheimhniú."
+      invalid_temporary_user: Cód slándála neamhbhailí. Seiceáil do ríomhphost – seoladh cód slándála nua chuig do bhosca isteach.
+      create_account: Cruthaigh cuntas
+      create_account_description: Cruthaigh cuntas ar an gcóras seo ionas gur féidir leat logáil isteach le do sheoladh ríomhphoist agus do phasfhocal in ionad cód slándála.
+      invalid_email: Seoladh ríomhphoist neamhbhailí
+    login_limit_exceeded:
+      delivered:
+        page_header: Sáraíodh an teorainn logála isteach
+        description: Rinne tú iarracht logáil isteach an iomarca uaireanta. Le leanúint ar aghaidh, caithfidh tú do phasfhocal a athshocrú.
+        email: Seoladh ríomhphost le nasc chun do phasfhocal a athshocrú.
+      waiting:
+        page_header: Sáraíodh an teorainn logála isteach
+        description: "Rinne tú iarracht logáil isteach an iomarca uaireanta. Tabhair faoi deara: caithfidh tú logáil isteach le do phasfhocal líonra. Má theastaíonn uait é a athshocrú agus mura bhfuil a fhios agat conas, déan teagmháil le riarthóir líonra. Nuair a bheidh an t-am feithimh thart, is féidir leat an leathanach seo a athlódáil chun an teorainn a athshocrú."
+        expiration_time: Am feithimh
+        reload: Athlódáil
+      show:
+        page_header: Sáraíodh an teorainn logála isteach
+        description: Rinne tú iarracht logáil isteach an iomarca uaireanta. Is féidir leat an teorainn logála isteach a athshocrú agus logáil isteach arís. Seoladh ríomhphost chugat chun an teorainn a athshocrú.
+      reset:
+        login_limit_reset: Athshocraíodh an teorainn logála isteach
+    shared:
+      authentication_successful: D'éirigh leis an bhfíordheimhniú
+    outlook:
+      edit:
+        authentication_title: Fíordheimhniú
+        authentication_description: Logáil isteach le leanúint ar aghaidh
+        login: Logáil isteach
+        login_label: Seoladh ríomhphoist
+        password: Pasfhocal
+        sso_login: Logáil isteach SSO
+      show:
+        authentication_title: Fíordheimhniú
+        authentication_description: Logáil isteach chun comhaid shlána a cheangal.
+        authenticate: Fíordheimhnigh
+    saml:
+      not_configured:
+        title: Níl SAML cumraithe
+        description: Níl SAML cumraithe ar an gcóras seo. Má cheapann tú gur earráid é seo, déan teagmháil leis an tacaíocht chun é a fhiosrú.
+        support_button: Déan teagmháil leis an tacaíocht
+      api:
+        local:
+          title: Fíordheimhniú SAML
+          description: Cuireadh tús le fíordheimhniú SAML i do bhrabhsálaí réamhshocraithe – lean ar aghaidh leis an logáil isteach ansin. Mura n-aimsíonn tú an fhuinneog nó mura n-oibríonn sé ar chúis ar bith, is féidir leat leanúint ar aghaidh trí chliceáil ar an gcnaipe thíos.
+          button_label: Logáil isteach SSO
+      response:
+        api_error:
+          authentication_error: Theip ar an bhfíordheimhniú
+          saml_authentication_error: Theip ar fhíordheimhniú SSO
+          saml_authentication_error_description: Theip ar fhíordheimhniú SSO. Déan teagmháil leis an riarthóir má leanann an fhadhb.
+        api_disabled:
+          api_disabled: Grúpa úsáideoirí gan údarú
+          api_disabled_description: Níl rochtain ag do chuntas ar an bhfeidhm seo (API díchumasaithe). Déan teagmháil le riarthóir agus iarr air do chuntas a bhogadh chuig grúpa eile.
+        api_response:
+          authentication_successful: D'éirigh leis an bhfíordheimhniú
+        create:
+          could_not_create_account: Níorbh fhéidir an cuntas a chruthú. Déan teagmháil le riarthóir le haghaidh tuilleadh faisnéise.
+        show:
+          could_not_create_account: Níorbh fhéidir an cuntas a chruthú. Déan teagmháil le riarthóir le haghaidh tuilleadh faisnéise.
+    temporary_user:
+      validate_email: Deimhnigh do sheoladh ríomhphoist
+      validate_email_description_html: "Seoladh pasfhocal sealadach chuig do sheoladh ríomhphoist: <strong>%{email}</strong>. Cliceáil ar an nasc nó cuir isteach an pasfhocal sealadach anseo chun do sheoladh a dheimhniú agus leanúint ar aghaidh."
+      session_expired: Tá an seisiún imithe in éag, cuir isteach do sheoladh ríomhphoist arís le leanúint ar aghaidh
+      token_expired: Tá an nasc fíordheimhnithe sa ríomhphost imithe in éag, bain triail eile as.
+      already_authenticated: Tá tú logáilte isteach sa bhrabhsálaí seo cheana.
+      resend_validation_email: Seol an ríomhphost bailíochtaithe arís
+      verify: Fíoraigh
+      validate_email_sent: "Seoladh ríomhphost bailíochtaithe nua ag: %{time}. Cliceáil ar an nasc sa ríomhphost nó cuir isteach an pasfhocal thíos chun do sheoladh ríomhphoist a dheimhniú."
+      invalid_temporary_user: Pasfhocal neamhbhailí. Seiceáil do ríomhphost – seoladh an pasfhocal sealadach chuig do bhosca isteach arís.
+      temporary_user_expired: Tá an pasfhocal sealadach imithe in éag. Seiceáil do ríomhphost – seoladh pasfhocal sealadach nua chuig do bhosca isteach.
+      create_account: Cruthaigh cuntas
+      create_account_description: Cruthaigh cuntas buan ar an gcóras seo ionas gur féidir leat logáil isteach le do sheoladh ríomhphoist agus do phasfhocal in ionad cuntas úsáideora sealadach.
+  shared:
+    show: Taispeáin
+    reify: Athchóirigh
+    download: Íoslódáil
+    restore: Athchóirigh
+    delete: Scrios
+    trash: Bosca bruscair
+    cancel: Cealaigh
+    close: Dún
+    current: Reatha
+    bootstrap_confirm_dialog:
+      confirm_action: Deimhnigh an gníomh
+    shares:
+      bootstrap_confirm_dialog:
+        confirm_action: Deimhnigh an gníomh
+      navigation:
+        files: Comhaid
+        activity_log: Logchomhad gníomhaíochta
+      wrap_content:
+        activity_log: Logchomhad gníomhaíochta
+    error_messages:
+      prohibited_this_from_being_saved: chuir sé cosc ar %{target} a shábháil
+  share:
+    share: Share
+    shares: Share
+    no_shares: Níl aon Share ar fáil
+    name: Ainm
+    folder_name: Ainm an fhillteáin
+    share_not_found: Níor aimsíodh an Share
+    folder_not_found: Níor aimsíodh an fillteán
+    file_not_found: Níor aimsíodh an comhad
+    no_read_access: Níl údarú agat rochtain a fháil ar an Share seo
+    no_write_access: Níl cead scríofa agat sa Share seo
+    not_authorized_to_view_logs: Níl údarú agat logchomhaid a fheiceáil
+    require_authentication: Teastaíonn fíordheimhniú don Share seo. Cuir isteach an pasfhocal le leanúint ar aghaidh.
+    authenticate: Fíordheimhnigh
+    authentication_failed: Theip ar an bhfíordheimhniú
+  shares:
+    folders:
+      are_you_sure_you_want_to_delete: An bhfuil tú cinnte gur mian leat an fillteán seo a scriosadh?
+      are_you_sure_you_want_to_trash: An bhfuil tú cinnte gur mian leat an fillteán seo a scriosadh go buan?
+      folder_name_already_taken: Tá an t-ainm fillteáin seo in úsáid cheana!
+      folder_not_found: Níor aimsíodh an fillteán
+      could_not_create_folder: "Níorbh fhéidir an fillteán a chruthú: %{error}"
+      zip_no_files: Níl aon chomhaid le cur leis an ZIP
+      windows_path_warning:
+        title: Teorainn ar fhad cosáin in Windows
+        description_html: <strong>Úsáideoirí Windows:</strong> teorannaíonn Windows cosáin chomhaid go 259 carachtar. Nuair a uaslódáiltear fillteáin ó áiteanna le cosáin fhada, d'fhéadfaí comhaid atá domhain i struchtúr na bhfillteán a scipeáil gan rabhadh, rud a d'fhágfadh uaslódálacha neamhiomlána nó fillteáin dhúblacha.
+        workarounds_title: Réitigh mholta
+        workarounds_html: "<li><strong>Úsáid tiomántán fíorúil:</strong> oscail an Pras Ordaithe agus rith: <code>subst X: \"C:\\cosan\\fada\\chuig\\fillteain\"</code><br>Ansin uaslódáil ón tiomántán fíorúil <code>X:\\</code></li><li><strong>Téigh níos gaire do na comhaid:</strong> oscail fofhillteán níos gaire do do chomhaid sula roghnaíonn tú an fillteán uaslódála</li><li><strong>Úsáid cosán níos giorra:</strong> cóipeáil do chomhaid chuig áit níos giorra, ar nós <code>C:\\uploads\\</code>, roimh an uaslódáil</li><li><strong>Comhbhrúigh an fillteán ar dtús:</strong> comhbhrúigh an fillteán ina chomhad ZIP agus uaslódáil an comhad ZIP ina ionad</li>"
+        advanced_title: "Ardleibhéal: cumasaigh cosáin fhada in Windows 10/11"
+        advanced_description_html: Ó Windows 10 leagan 1607 ar aghaidh, is féidir leat tacaíocht do chosáin níos faide a chumasú. <strong>Tabhair faoi deara:</strong> teastaíonn cearta riarthóra agus b'fhéidir nach n-oibreoidh sé i ngach brabhsálaí. Tá na réitigh thuas níos iontaofa.
+        registry_steps_title: Céimeanna chun cosáin fhada a chumasú
+        registry_steps_html: "<li>Brúigh <kbd>Win + R</kbd>, clóscríobh <code>regedit</code> agus brúigh Enter</li><li>Téigh go: <code>HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\FileSystem</code></li><li>Aimsigh nó cruthaigh luach DWORD darb ainm <code>LongPathsEnabled</code> agus socraigh é go <code>1</code></li><li>Atosaigh an ríomhaire chun an t-athrú a chur i bhfeidhm</li><li>Bain triail as an uaslódáil arís (d'fhéadfadh an tacaíocht a bheith éagsúil ó bhrabhsálaí go brabhsálaí)</li>"
+        browser_disclaimer_html: "<strong>Tábhachtach:</strong> fiú leis an socrú clárlainne seo cumasaithe, bíonn tacaíocht do chosáin fhada éagsúil ó bhrabhsálaí go brabhsálaí. D'fhéadfadh Chrome, Edge agus Firefox an teorainn 259 carachtar a chur i bhfeidhm fós. Tá na réitigh thuas níos iontaofa."
+      folder:
+        rename_folder: Athainmnigh an fillteán
+        move_folder_description: Bog an fillteán %{foldername} chuig an bhfillteán atá roghnaithe thíos
+        move_folder: Bog an fillteán
+      action_bar:
+        download_as_zip: Íoslódáil mar ZIP
+        download_as_zip_with_deleted: Íoslódáil mar ZIP, comhaid scriosta san áireamh
+        toggle_deleted_view: Taispeáin/folaigh comhaid scriosta
+        filter: Scag
+        upload_file: Uaslódáil comhaid
+        upload_folder: Uaslódáil fillteán
+        create_folder: Cruthaigh fillteán
+        windows_path_warning: Rabhadh faoi fhad cosáin
+        upload_folder_unsupported: Ní thacaítear le huaslódáil fillteán
+        upload_folder_unsupported_description: Faraor, ní thacaíonn do bhrabhsálaí le huaslódáil fillteán. Bain úsáid as leagan deisce Chrome nó Safari chun struchtúr fillteán a uaslódáil.
+        showing_deleted: Ag taispeáint %{number_of} scriosta
+        hiding_deleted: Ag folú %{number_of} scriosta
+        actions: Gníomhartha
+        move_selected: Bog na míreanna roghnaithe
+        trash_selected: Cuir na míreanna roghnaithe sa bhosca bruscair
+        delete_selected: Scrios na míreanna roghnaithe
+      action_bar_below:
+        send_notifications: Seol fógraí
+        sending_notifications: Fógraí á seoladh
+        quota: Cuóta
+        used_of: in úsáid as
+        available: ar fáil
+        quota_exceeded: Sáraíodh an cuóta
+      create_folder_modal:
+        create_folder: Cruthaigh fillteán
+        create: Cruthaigh
+      files:
+        are_you_sure_you_want_to_delete: An bhfuil tú cinnte gur mian leat an comhad seo a scriosadh?
+        are_you_sure_you_want_to_trash: An bhfuil tú cinnte gur mian leat an comhad seo a scriosadh go buan?
+        file_not_found: Níor aimsíodh an comhad
+        file:
+          rename_file: Athainmnigh an comhad
+          move_file: Bog
+          move_file_description: Bog an comhad %{filename} chuig an bhfillteán atá roghnaithe thíos
+        show:
+          prev: Roimhe
+          up: Suas
+          next: Ar aghaidh
+          last_updated: Nuashonraithe go deireanach
+          versions: Leaganacha
+          show_all: Taispeáin gach ceann
+          version_from: Leagan ó
+          next_version: An chéad leagan eile
+          previous_version: An leagan roimhe
+          current_version: An leagan reatha
+          pdf_preview_not_supported: Ní thacaíonn do bhrabhsálaí le réamhamharc ar chomhaid PDF
+        available_chunks:
+          available: Tá uaslódálacha páirteacha de na comhaid seo a leanas ar fáil
+          resume_replace: Ar mhaith leat leanúint leis an uaslódáil nó na comhaid a athsholáthar?
+      quota:
+        quota: Cuóta
+        used_of: in úsáid as
+        available: ar fáil
+        quota_exceeded: Sáraíodh an cuóta
+      move_file_folder_modal:
+        move_folder: Bog an fillteán
+        move_file: Bog an comhad
+        move: Bog
+      show:
+        select_all: Roghnaigh/díroghnaigh gach rud
+    logs:
+      action_bar:
+        activity_log: Logchomhad gníomhaíochta
+      message:
+        created: Cruthaithe
+        uploaded: Uaslódáilte
+        downloaded: Íoslódáilte
+        reified: Athchóirithe
+        removed: Bainte
+        restored: Athchóirithe
+        deleted: Scriosta
+        moved: Bogtha
+        renamed: Athainmnithe
+        added: Curtha leis
+        viewed: Feicthe
+        infected: Ionfhabhtaithe
+        trashed: Curtha sa bhosca bruscair
+        deleted_user: "(Úsáideoir scriosta)"
+        share: Share
+        folder: Fillteán
+        file: Comhad
+        group: Grúpa
+        user: Úsáideoir
+        read: Léamh
+        read/write: Léamh/scríobh
+        av_scanner: Scanóir frithvíris
+        version_from: Leagan ó
+        file_deleted: Scriosadh an comhad
+        to: chuig
+        from: ó
+        unknown: Anaithnid
+        other: Eile
+  share/log:
+    message:
+      you: Tusa
+      share: Share
+      folder: fillteán
+      file: comhad
+      user: úsáideoir
+      version_from: leagan ó
+      read: léamh
+      read/write: léamh/scríobh
+      created: chruthaigh
+      added: chuir leis
+      uploaded: d'uaslódáil
+      downloaded: d'íoslódáil
+      updated: nuashonraigh
+      restored: d'athchóirigh
+      reified: d'athchóirigh
+      deleted: scrios
+      removed: scrios go buan
+      trashed: chuir sa bhosca bruscair
+      renamed: d'athainmnigh
+      viewed: d'fhéach ar
+      infected: ionfhabhtaithe
+      av_scanner: Scanóir frithvíris
+      file_deleted: Scriosadh an comhad
+  sms_auth:
+    login_failed: Theip ar an logáil isteach
+    sms_error: Earráid i gcumraíocht SMS, déan teagmháil le riarthóir an chórais
+    verify_token: Fíoraigh an cód SMS
+    verify_token_description: "Cuir isteach an cód a seoladh chuig d'fhón póca:"
+    sms_login_failed: Theip ar bhailíochtú SMS, seoladh cód SMS nua
+    sms_signup: Cláraigh le haghaidh fíordheimhnithe dhá fhachtóir trí SMS
+    sms_signup_failed: Theip ar fhíordheimhniú dhá fhachtóir trí SMS
+    sms_signup_description: Le leanúint ar aghaidh, caithfidh tú clárú le haghaidh fíordheimhnithe dhá fhachtóir trí SMS. Cuir isteach d'uimhir theileafóin thíos le leanúint ar aghaidh.
+    verify: Fíoraigh
+    resend: Seol an cód arís
+    code: Cód
+    token_resent: Seoladh an cód SMS arís ag %{time}
+    send_token: Seol cód fíoraithe
+    phone_number: Uimhir theileafóin
+    invalid_phone_number: Uimhir theileafóin neamhbhailí, bain triail eile as.
+    change_phone_number: Athraigh an uimhir theileafóin
+    phone_number_help: Cuir isteach d'uimhir theileafóin leis an gcód tíre agus gan nialais tosaigh (m.sh. 353861234567). Seolfar cód fíoraithe chuig an uimhir seo.
+    one-time-code: Cód aonuaire
+  strong_auth:
+    two_factor_authentication: Fíordheimhniú dhá fhachtóir
+    enable_2fa: Cumasaigh fíordheimhniú dhá fhachtóir
+    disable_2fa: Díchumasaigh fíordheimhniú dhá fhachtóir
+    title: Cumasaigh fíordheimhniú dhá fhachtóir
+    enable_2fa_description: Is féidir leat fíordheimhniú láidir dhá fhachtóir a chumasú chun slándáil do chuntais a mhéadú.
+    require_description: Chun an córas seo a úsáid, caithfidh tú fíordheimhniú dhá fhachtóir a shocrú.
+    disable_description: Cuir isteach an cód reatha chun fíordheimhniú dhá fhachtóir a dhíchumasú
+    two_factor_auth_disabled: Díchumasaíodh fíordheimhniú dhá fhachtóir
+    step1: "Céim 1: faigh an aip fíordheimhnithe"
+    step1_description: Cumasaigh fíordheimhniú dhá fhachtóir, de ghnáth le haip mhóibíleach.
+    totp_apps_description_html: I measc na n-aipeanna fíordheimhnithe tá <a href="https://authy.com" target="_blank" rel="external nofollow noopener noreferrer">Authy</a> (ilardáin) agus Google Authenticator (iOS/Android). Féach ar <a href="https://docs.liquidfiles.com/authentication/totp.html#clients" target="_blank">TOTP Clients</a> le haghaidh tuilleadh roghanna.
+    step2: "Céim 2: socraigh an aip fíordheimhnithe"
+    step2_description: Socraigh an aip fíordheimhnithe tríd an gcód QR a scanadh.
+    step2_alt: Nó cuir isteach an cód thíos
+    step3: "Céim 3: fíoraigh"
+    step3_description: Fíoraigh an socrú tríd an gcód a ghineann an aip fíordheimhnithe a chur isteach.
+    failed_to_authenticate: Theip ar an bhfíordheimhniú, bain triail eile as.
+    click_on_link: Mar mhalairt air sin, cliceáil ar an nasc thíos chun an chumraíocht a chur leis an aip fíordheimhnithe dhá fhachtóir
+    configure: Socraigh fíordheimhniú dhá fhachtóir
+    success_saved: D'éirigh leis, sábháladh cumraíocht an fhíordheimhnithe dhá fhachtóir
+    verify_token: Fíoraigh fíordheimhniú dhá fhachtóir
+    verify_token_description: Cuir isteach an cód fíordheimhnithe dhá fhachtóir ón aip mhóibíleach.
+    verify: Fíoraigh
+    two_factor_login_failed: Theip ar fhíordheimhniú dhá fhachtóir
+    two_factor_validation_failed: Theip ar bhailíochtú an fhíordheimhnithe dhá fhachtóir
+    skip_2fa_for_two_weeks: Scipeáil fíordheimhniú dhá fhachtóir sa bhrabhsálaí seo ar feadh coicíse
+    one-time-code: Cód aonuaire
+  support:
+    email_subject: Tá cabhair uaim le
+    email_body: Déan cur síos ar d'fhadhb chomh mionsonraithe agus is féidir. Go raibh maith agat.
+    navbar_tooltip: Má theastaíonn cabhair uait chun rochtain a fháil ar an gcóras seo nó chun é a úsáid, cliceáil ar an nasc seo agus beimid sásta cabhrú leat.
+  user:
+    includes_at_least_one_invalid_email_address: tá seoladh ríomhphoist neamhbhailí amháin ar a laghad ann
+    confirm:
+      invalid_session: Seisiún neamhbhailí
+      already_validated: Deimhníodh do sheoladh ríomhphoist cheana
+      invalid_token: Cód neamhbhailí. Bain triail eile as nó cliceáil ar Seol an ríomhphost bailíochtaithe arís.
+      validation_email_sent: "Seoladh an ríomhphost bailíochtaithe ag: %{time}"
+      activated_successfully: Gníomhachtaíodh go rathúil
+      validate_email_description: Seiceáil do ríomhphost agus cuir isteach an pasfhocal sealadach chun do sheoladh ríomhphoist a dheimhniú.
+    register:
+      already_registered: Tá an cuntas seo cláraithe cheana, logáil isteach le leanúint ar aghaidh
+      already_registered_not_validated: Tá do chuntas cláraithe cheana, ach caithfear do sheoladh ríomhphoist a dheimhniú fós. Sheolamar ríomhphost chugat le cód randamach. Cuir isteach an cód thíos nó cliceáil ar an nasc sa ríomhphost chun do chuntas a dheimhniú.
+      show:
+        register: Cláraigh cuntas
+        description_html: <p>Cuir isteach do shonraí chun cuntas a chruthú. Leis an gcuntas seo is féidir leat comhaid mhóra a sheoladh go slán ar %{branding_name}.</p>
+    signup:
+      create:
+        need_password: Caithfidh tú pasfhocal a chur isteach
+        need_name: Caithfidh tú ainm a chur isteach
+    create:
+      show:
+        cancel_and_remember: Cealaigh agus ná fiafraigh díom arís
+        cancel_and_remember_title: Cuimhneofar air seo sa bhrabhsálaí reatha
+  validator:
+    required: Tá an réimse seo riachtanach.
+    remote: Ceartaigh an réimse seo.
+    email: Cuir isteach seoladh ríomhphoist bailí.
+    url: Cuir isteach URL bailí.
+    date: Cuir isteach dáta bailí.
+    dateISO: Cuir isteach dáta bailí (ISO).
+    number: Cuir isteach uimhir bhailí.
+    digits: Ná cuir isteach ach digití.
+    creditcard: Cuir isteach uimhir chárta creidmheasa bhailí.
+    equalTo: Cuir isteach an luach céanna arís.
+    accept: Cuir isteach luach le hiarmhír bhailí.
+    maxlength: Ná cuir isteach níos mó ná {0} carachtar.
+    minlength: Cuir isteach {0} carachtar ar a laghad.
+    rangelength: Cuir isteach luach idir {0} agus {1} carachtar ar fhad.
+    range: Cuir isteach luach idir {0} agus {1}.
+    max: Cuir isteach luach atá níos lú ná nó cothrom le {0}.
+    min: Cuir isteach luach atá níos mó ná nó cothrom le {0}.
+    step: Cuir isteach iolraí de {0}.
+    invalid_phone_number: Uimhir theileafóin neamhbhailí
+  locale: Gaeilge

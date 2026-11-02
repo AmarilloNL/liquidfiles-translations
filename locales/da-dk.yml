@@ -1,0 +1,1569 @@
+da:
+  s: s
+  min: min
+  hours: Timer
+  days: Dage
+  weeks: Uger
+  months: Måneder
+  years: År
+  ago: siden
+  email: E-mail
+  save: Gem
+  delete: Slet
+  cancel: Annuller
+  remove: Fjern
+  aborting: Afbryder
+  aborted: Afbrudt
+  saved_successfully: Gemt
+  logout: Log ud
+  error: Fejl
+  enabled: Aktiveret
+  disabled: Deaktiveret
+  disable: Deaktiver
+  default: Standard
+  submit: Send
+  session_expired: Sessionen er udløbet
+  search: Søg
+  filter: Filter
+  recipient: Modtager
+  recipients: Modtagere
+  downloaded_by: Downloadet af
+  filename: Filnavn
+  size: Størrelse
+  downloaded: Downloadet
+  host: Vært
+  ip: IP-adresse
+  action: Handling
+  view_message: Vis besked
+  view_message_popup: Vis besked (pop op)
+  download_info: Downloadoplysninger
+  message_id: Besked-id
+  filelink_id: FileLink-id
+  sent_at: Sendt
+  id: Id
+  subject: Emne
+  expires: Udløber
+  invalid_method: Ugyldig metode
+  export_csv: Eksportér CSV
+  export_all: Eksportér alle
+  export_visible: Eksportér synlige
+  temporarily_unavailable: Midlertidigt utilgængelig
+  generic_search_error: Generel søgefejl
+  sender: Afsender
+  search_temporary_disabled: Søgning midlertidigt deaktiveret
+  help: Hjælp
+  close: Luk
+  count: Antal
+  settings: Kontoindstillinger
+  virus: Virus
+  virus_status: Virusstatus
+  infected: Inficeret
+  clean: Ren
+  not_scanned: Ikke scannet
+  not_yet_scanned: Endnu ikke scannet
+  csrf_error: "CSRF: Der er registreret ugyldige parametre. Log ind igen for at fortsætte."
+  could_not_be_saved: Kunne ikke gemmes
+  label: Etiket
+  updated: Opdateret
+  add: Tilføj
+  system_info: Systemoplysninger
+  location: Placering
+  accept: Accepter
+  last_7_days: Seneste 7 dage
+  last_30_days: Seneste 30 dage
+  last_60_days: Seneste 60 dage
+  last_90_days: Seneste 90 dage
+  last_180_days: Seneste 180 dage
+  last_365_days: Seneste 365 dage
+  file: Fil
+  files: Filer
+  next: Næste
+  previous: Forrige
+  name: Navn
+  view: Vis
+  forget: Glem
+  update: Opdater
+  updated_at: Opdateret
+  created_at: Oprettet
+  download_link_expired: Downloadlinket er udløbet.
+  no_html5_upload_warning: Upload af filer kræver en moderne browser med HTML5-understøttelse. Microsoft Edge, Chrome, Firefox og Safari fungerer alle fint.
+  javascript_warning: JavaScript er påkrævet for at sende filer og bruge de fleste funktioner.
+  cookie_accept: Dette websted bruger cookies. Ved at logge ind eller klikke på "Accepter" accepterer du brugen af cookies.
+  i_agree: Jeg accepterer
+  session_timeout: Sessionen er udløbet, log ind igen
+  loading: Indlæser...
+  unsupported_browser_header: Browseren understøttes ikke
+  unsupported_browser_description_html: Din browser understøttes ikke, og webstedet vil sandsynligvis ikke fungere som forventet. Brug en nyere browser til dette websted.
+  not_logged_in_invalid_parameters: Ikke logget ind, ugyldige parametre
+  toggle_dropdown: Vis/skjul menu
+  rejected: Afvist
+  undetected: Ikke registreret
+  invalid_link: Ugyldigt link, kontakt afsenderen
+  account_settings_tooltip: Kontoindstillinger
+  logout_tooltip: Log ud
+  download_id: Download-id
+  remote_host: Fjernvært
+  show: Vis
+  hide: Skjul
+  password: Adgangskode
+  download: Download
+  unauthorized: Ikke autoriseret
+  account:
+    login: Log ind
+    login_label: E-mailadresse
+    email: E-mailadresse
+    password: Adgangskode
+    current_password: Nuværende adgangskode
+    please_enter_your_current_password: Indtast din nuværende adgangskode
+    sign_in: Log ind
+    remember_me: Husk mig
+    not_administrator: Du er ikke administrator
+    password_reset: Nulstil adgangskode
+    register: Registrer
+    register_description_html: Tak! For at fortsætte skal du indtaste dine oplysninger og oprette en konto.<br>Næste gang kan du logge ind med din e-mailadresse og adgangskode.
+    account_not_activated: Kontoen er ikke aktiveret. Aktivér kontoen, før du logger ind. Der er sendt en e-mail med en tilfældig kode til dig. Indtast koden nedenfor, eller klik på linket i e-mailen for at bekræfte din konto.
+    incorrect_user_or_pw: Forkert brugernavn eller adgangskode
+    confirmation_email_sent: Bekræftelsesmail sendt
+    activated_successfully: Aktiveret
+    not_activated: Kontoen er ikke aktiveret
+    password_reset_email_sent: E-mail til nulstilling af adgangskode sendt
+    no_such_user: Brugeren findes ikke
+    no_such_email: E-mailadressen blev ikke fundet
+    not_logged_in: Du er ikke logget ind. Log ind for at fortsætte.
+    saved_successfully: Gemt
+    unlicensed_install_some_settings: "Installation uden licens: brandingindstillinger er kun synlige for systemadministratorer"
+    incorrect_login_or_demo: Forkert brugernavn eller adgangskode, eller licensgrænsen er nået
+    incorrect_login_or_ldap: Forkert brugernavn eller adgangskode, eller fejl på LDAP-serveren
+    invalid_api_key: Ugyldig API-nøgle
+    cant_delete_last_sysadmin: Den sidste systemadministrator kan ikke slettes
+    cant_change_last_sysadmin: Den sidste systemadministrator kan ikke ændres
+    sso_login: SSO-login
+    invalid_sso_response: Ugyldigt SSO-svar
+    automatic: Registreret automatisk
+    network_access_blocked: Adgang til systemet fra dit netværk er ikke tilladt.
+    please_login: Log ind for at åbne denne side.
+    email_validation_session_timeout: Sessionen er udløbet, bekræft din e-mailadresse igen.
+    signature: Signatur
+    not_authorized_for_action: Du har ikke tilladelse til at udføre denne handling
+    invalid_group: Ugyldig gruppe. Kontakt en administrator, der kan flytte din konto til en gruppe for lokale brugere
+    invalid_group_configuration: Ugyldig gruppekonfiguration. Kontakt en administrator, der kan oprette en konto til dig eller ændre gruppekonfigurationen.
+    please_enter_email_to_email_password: Indtast din e-mailadresse for at nulstille adgangskoden. Der sendes en bekræftelsesmail til denne adresse.
+    password_reset_successfully: Adgangskoden er nulstillet
+    password_cant_be_empty: Adgangskoden må ikke være tom
+    password_complexity_title: Adgangskodekompleksitet
+    password_complexity_description_html: "<p>Din adgangskode <strong>må ikke være baseret på et ord fra ordbogen</strong> og skal opfylde mindst 3 af følgende krav:</p><ul><li>Mindst 8 tegn</li><li>Mindst 11 tegn</li><li>Mindst 15 tegn</li><li>Mindst 1 lille og 1 stort bogstav</li><li>Mindst 1 ciffer (0-9)</li><li>Mindst ét af følgende tegn: !,@,#,$,%,^,&amp;,*,?,_,~,-,(,)</li></ul>"
+    is_not_strong_enough: er ikke stærk nok
+    your_password_has_expired: Din adgangskode er udløbet
+    please_select_a_different_password: Vælg en anden adgangskode end din tidligere
+    change_password: Skift adgangskode
+    account_not_found: Kontoen blev ikke fundet. Log ind igen.
+    user_required_to_use_saml: Adgangskoden kan ikke nulstilles, log ind via SAML
+    sysadmin_ldap_error: Denne konto godkendes via LDAP og kan ikke nulstilles her
+    login_limit_exceeded: Grænsen for login er overskredet
+    a_confirmation_email_will_be_sent: Der sendes en bekræftelsesmail til denne adresse
+    name: Navn
+    password_confirm: Bekræft adgangskode
+    save: Gem
+    can_not_reset_password_please_check_with_your_administrator: Adgangskoden kan ikke nulstilles, kontakt din administrator
+    no_need_to_register_user: Du behøver ikke at registrere dig. Log ind med din eksisterende konto.
+    registration_not_allowed: Registrering er ikke tilladt
+    create_description: Opret din konto ved at indtaste dit navn og en adgangskode.
+    activated_successfully_please_login: Kontoen er aktiveret. Du kan nu logge ind med din e-mailadresse og adgangskode.
+    invalid_activation_url: Ugyldigt aktiveringslink. Kontrollér linket, og prøv igen.
+    already_logged_in: Du er allerede logget ind. Der kan ikke registreres en ny konto.
+    bruteforce_message: Du har overskredet antallet af mislykkede forsøg. Prøv igen om %{minutes} minutter.
+    admin_access_blocked: Administratoradgang er ikke tilladt fra din IP-adresse.
+    account_created_successfully: Kontoen er oprettet
+    create_account: Opret konto
+    create_account_description: Opdater dine oplysninger for at oprette din konto.
+    account_settings: Kontoindstillinger
+    change_language: Skift sprog og tidszone
+    filedrop_label: Filedrop (tilfældig)
+    filedrop_email_label: Filedrop
+    verify_account: Bekræfter kontoen
+    invalid_sso_signature: Ugyldig SSO-signatur eller login
+    user_not_found: Brugeren blev ikke fundet
+    could_not_create_account: Kontoen kunne ikke oprettes
+    two_factor_authentication_failed: Duo-totrinsgodkendelse mislykkedes
+    copy_to_clipboard: Kopiér til udklipsholder
+    copy_url_to_clipboard: Kopiér URL til udklipsholder
+    delete_user_warning: Er du sikker på, at du vil slette denne bruger?
+    unauthorized_to_login: Ikke autoriseret til at logge ind
+    first_time_message_title: Velkommen til LiquidFiles
+    first_time_message: <p>Velkommen til LiquidFiles – den nemmeste måde at sende store filer sikkert på.</p><p>De grundlæggende funktioner fungerer ligesom webmail.</p><p>Denne besked vises kun én gang. Hvis du går i stå eller vil opdage flere avancerede funktioner, skal du klikke på knappen "Hjælp" øverst til højre i menulinjen.</p>
+    first_time_message_button: Forstået!
+    registration_failed_unknown_error: Registreringen mislykkedes på grund af en ukendt fejl
+    session_timeout: Sessionen er udløbet
+    nothing_filled_in: Udfyld formularen
+    last_used: Senest brugt
+    strong_auth_required_before_password_reset: Stærk totrinsgodkendelse er påkrævet, før adgangskoden til denne konto kan nulstilles.
+    unfriendly_registration_message: Hvis du kan registrere dig på systemet med denne e-mailadresse, modtager du en e-mail. Hvis ikke, skal du bruge supportlinket ovenfor.
+    unfriendly_password_reset_message: Hvis kontoen med denne e-mailadresse kan nulstilles, modtager du en e-mail. Hvis ikke, skal du bruge supportlinket ovenfor.
+    aliases:
+      aliases: Aliasser
+      aliases_description: Du kan tilføje afsender- og modtageraliasser til din konto. Med et afsenderalias kan du sende beskeder som den pågældende e-mailadresse. Med et modtageralias kan du se beskeder til den pågældende e-mailadresse. Beskeder til et modtageralias vises også i din indbakke for sikre beskeder.
+      aliases_no_change_description: Med et afsenderalias kan du sende beskeder som den pågældende e-mailadresse. Med et modtageralias kan du se beskeder til den pågældende e-mailadresse. Beskeder til et modtageralias vises også i din indbakke for sikre beskeder. Kontakt en administrator for at tilføje eller ændre aliasser.
+      recipient_aliases: Modtageraliasser
+      sender_aliases: Afsenderaliasser
+      add_alias: Tilføj alias
+      remove: Fjern
+      default_sender_alias: Standardafsenderalias
+      default_sender_alias_description: Standardaliasset for afsender.
+      are_you_sure: Er du sikker på, at du vil fjerne dette alias?
+      no_emails: Der er ikke tilføjet nogen aliasser.
+      please_contact_an_administrator: Kontakt en administrator for at administrere disse
+      auto_added_aliases: Automatisk tilføjede aliasser
+      auto_added_aliases_description: Følgende aliasser er automatisk tilføjet til din profil. Kontakt en administrator for at administrere disse.
+    alias:
+      confirm:
+        show:
+          title: Tak for din bekræftelse
+          alias_email: Aliassets e-mailadresse
+          user: Bruger
+          recipient_and_sender_confirmation: Brugeren ovenfor kan nu se sikre beskeder til denne e-mailadresse og sende sikre beskeder som denne e-mailadresse. Klik på supportlinket ovenfor, hvis dette er en fejl.
+          only_recipient_confirmation: Brugeren ovenfor kan nu se sikre beskeder til denne e-mailadresse. Klik på supportlinket ovenfor, hvis dette er en fejl.
+          only_sender_confirmation: Brugeren ovenfor kan nu sende sikre beskeder som denne e-mailadresse. Klik på supportlinket ovenfor, hvis dette er en fejl.
+    add_alias_modal:
+      title: Tilføj alias
+      description: Indtast den e-mailadresse, du vil have adgang til som modtager- eller afsenderalias. Der sendes en e-mail til adressen til bekræftelse.
+      recipient_alias: Modtageralias - jeg vil læse beskeder, der sendes til denne e-mailadresse.
+      sender_alias: Afsenderalias - jeg vil sende beskeder som denne e-mailadresse.
+      invalid_email: Ugyldig e-mailadresse
+      add_permission: Vælg modtageralias, afsenderalias eller begge.
+      send_request: Send anmodning
+      request_has_been_sent: Din anmodning er sendt.
+    api:
+      api_key: API-nøgle
+      api_key_description: API-nøglen bruges af plugins som Outlook-pluginnet og kan bruges til egne integrationer. Du har kun brug for den, hvis en administrator beder dig om det.
+      api_key_reset_warning: Er du sikker? Hvis du nulstiller API-nøglen, skal du udskifte den gamle nøgle alle steder, hvor du har brugt den.
+      reset_api_key: Nulstil API-nøgle
+    contacts:
+      contacts: Kontakter
+      contacts_description: Du kan tilføje så mange kontakter, du vil. Hver kontakt kan have flere e-mailadresser, så du hurtigt og nemt kan sende til flere modtagere på én gang.
+      add_contact: Tilføj kontakt
+      email_field_help: Kommasepareret liste over e-mailadresser.
+      contact:
+        edit_label: Rediger etiket
+        edit_email: Rediger e-mailadresse
+        are_you_sure: Er du sikker på, at du vil slette denne kontakt?
+    filedrops:
+      filedrops: Filedrops
+      filedrops_description: Du er hovedmodtager eller cc-modtager af disse Filedrops. Alle filer, der sendes via en af dem, leveres til dig.
+      name: Navn
+      title: Titel
+      recipient: Modtager
+      expires_after: Udløber efter
+      max_size: Maks. filstørrelse
+      url: URL
+      main_recipient: Hovedmodtager
+      cc: Cc
+    personal_filedrop:
+      personal_filedrop: Personlig Filedrop
+      personal_filedrop_description: Din personlige Filedrop er en nem måde at modtage filer på. Du kan sende linket, lægge det på et websted eller tilføje det til din e-mailsignatur. Du får en meddelelse, så snart nogen har sendt noget via din personlige Filedrop.
+    previous_recipients:
+      previous_recipients: Tidligere modtagere
+      previous_recipients_description: Når du sender en sikker besked, tilføjes hver modtager til denne liste over tidligere modtagere. Så kan du hurtigt sende til de samme modtagere igen. Modtagere, du ikke har sendt noget til i 180 dage, fjernes automatisk fra listen.
+      are_you_sure: Er du sikker på, at du vil slette denne tidligere modtager?
+    pw_dictionary:
+      based_on_a_dictionary_word: er baseret på et ord fra ordbogen
+      based_upon_your_password_entry: er baseret på den indtastede adgangskode
+      derived_from_your_password_entry: er afledt af den indtastede adgangskode
+      derivable_from_your_password_entry: kan afledes af den indtastede adgangskode
+      way_too_short: er ALT for kort
+      too_short: er for kort
+      it_does_not_contain_enough_different_characters: indeholder ikke nok FORSKELLIGE tegn
+      all_whitespace: består kun af mellemrum
+      too_simplistic_systematic: er for enkel/systematisk
+      it_looks_like_a_national_insurance_number: ligner et CPR-nummer
+      based_on_a_reversed_dictionary_word: er baseret på et (omvendt) ord fra ordbogen
+    show:
+      basic_settings: Grundlæggende indstillinger
+      change_password: Skift adgangskode
+      strong_auth: Totrinsgodkendelse
+      aliases: Aliasser
+      previous_recipients: Tidligere modtagere
+      contacts: Kontakter
+      personal_filedrop: Personlig Filedrop
+      api: API
+      filedrops: Filedrops
+    sms_disable:
+      disable_sms_otp: Deaktiver totrinsgodkendelse via sms
+      disable_sms_otp_description: Hvis du vil deaktivere totrinsgodkendelse via sms, skal du klikke på knappen nedenfor. Der sendes en sms-kode for at bekræfte anmodningen.
+      verify_token_description: "Indtast koden, der er sendt til din mobiltelefon, for at deaktivere totrinsgodkendelse via sms:"
+      code: Kode
+      sms_token_failed: Ugyldig sms-kode, totrinsgodkendelse via sms kunne ikke deaktiveres
+      sms_otp_has_been_disabled: Totrinsgodkendelse via sms er deaktiveret
+    sms_signup:
+      sms_signup_description: Du kan forbedre sikkerheden på din konto ved at aktivere totrinsgodkendelse. Indtast dit telefonnummer nedenfor for at aktivere den.
+      phone_number: Telefonnummer
+    sms_enable:
+      signup_complete: Totrinsgodkendelse via sms er aktiveret
+    terms_of_service:
+      show:
+        title: Vilkår for brug
+        accept_terms_of_service: Accepter vilkårene for brug
+        do_not_accept: Accepter ikke
+      create:
+        you_need_to_accept: Du skal acceptere vilkårene for brug!
+  activerecord:
+    attributes:
+      attachment:
+        filename: Filnavn
+        size: Størrelse
+        secure_id: Vedhæftnings-id
+        content_type: Indholdstype
+        created_at: Oprettet
+        updated_at: Opdateret
+      download:
+        recipient: Modtager
+        downloaded_at: Downloadet
+        remote_ip: Fjern-IP
+        remote_host: Fjernvært
+        created_at: Oprettet
+        updated_at: Opdateret
+      filedrop:
+        name: Navn
+        title: Titel
+        description: Beskrivelse
+        blocked_extensions: Blokerede filtypenavne
+        permitted_extensions: Tilladte filtyper
+        expires_after: Udløber efter
+        max_filesize: Maks. filstørrelse
+        created_at: Oprettet
+        updated_at: Opdateret
+        api_key: API-nøgle
+        cc: Cc
+        authorization: Autorisation
+      message:
+        recipients: Modtagere
+        sender: Afsender
+        cc: Cc
+        bcc: Bcc
+        message: Besked
+        subject: Emne
+        deleted: Slettet
+        authorization: Autorisation
+        created_at: Oprettet
+        updated_at: Opdateret
+        expires_at: Udløber
+      share/log:
+        created_at: Dato
+      share/file:
+        checksum: Kontrolsum (SHA256)
+      share/file/version:
+        whodunnit: Ændret af
+        created_at: Ændret
+      user:
+        name: Navn
+        email: E-mailadresse
+        quota: Kvote
+        used: Brugt
+        max: Maks.
+        password: Adgangskode
+        ldap_authentication: LDAP-godkendelse
+        api_key: API-nøgle
+        level: Niveau
+        filedrop: Filedrop
+    models:
+      configuration: Konfiguration
+      attachment: Vedhæftet fil
+      filedrop: Filedrop
+      message: Besked
+      user: Bruger
+      download: Download
+  admin:
+    groups:
+      form:
+        bcc_myself: Send en kopi til mig selv
+        can_change_bcc_myself: Lad brugere i denne gruppe ændre indstillingen for at sende en kopi til sig selv
+      index:
+        default_group_assignment: Standardgruppetildeling
+    users:
+      users:
+        email: E-mailadresse
+        name: Navn
+        group: Gruppe
+        max: Maks. filstørrelse
+        quota: Kvote
+        strong_auth: Stærk godkendelse
+        filedrop: Filedrop
+        last_login_at: Seneste login
+        last_login_ip: IP ved seneste login
+        created: Oprettet
+      form:
+        name_label: Navn
+        email: E-mailadresse
+        password: Adgangskode
+        password_confirmation: Bekræft adgangskode
+        max_label: Maks. filstørrelse
+        group: Gruppe
+        strong_auth: Stærk godkendelse
+        strong_auth_username: Brugernavn til stærk godkendelse
+        api_key: API-nøgle
+        filedrop: Filedrop
+  attachments:
+    not_found: Den vedhæftede fil blev ikke fundet
+  config:
+    settings: Indstillinger
+    email: E-mail
+    language_preferences_from_your_browser: Sprogindstillinger fra din browser
+    authentication: Godkendelse
+    time_zone: Tidszone
+    current_time_zone: Aktuel tidszone
+    time_zone_from_browser: Tidszone registreret af din browser
+    time_zone_config_description: Hvis du lader tidszonen stå på "Registreret automatisk", bruges den tidszone, din browser registrerer (alle tidspunkter vises så i den tidszone). Hvis browseren ikke kan registrere tidszonen, bruges systemets standardtidszone. Hvis din browser ikke registrerer den korrekte tidszone, eller du vil se tidspunkter i en anden tidszone, kan du angive en bestemt tidszone.
+    time_zone_default: Systemets standardtidszone
+    email_settings: E-mailindstillinger
+    configuration: Konfiguration
+    local_domains: Lokalt domæne
+    ldap_users: LDAP-godkendte brugere
+    ldap_users_are_always_local: LDAP-godkendte brugere er altid lokale
+    separated_by_comma: kommasepareret
+    default_max_file_size: Standard for maks. filstørrelse
+    local_users: Lokale brugere
+    external_users: Eksterne brugere
+    allow_registration: Tillad registrering
+    allow_registration_desc: Tillad registrering på loginsiden
+    external_user_account: Eksterne modtagere
+    external_user_account_desc: Eksterne modtagere skal oprette en konto
+    allow_users_to_change_expiration: Lad brugere ændre filers udløb
+    authorization: Tilladelse
+    authorization_description: Standardindstilling for, hvem der må downloade filer.
+    file_expiration: Udløb
+    default_expire_files_after: Filer udløber som standard efter
+    delete_downloaded_files_after: Slet downloadede filer efter
+    branding: Branding
+    company_name: Firmanavn
+    custom_stylesheet: Brugerdefineret typografiark
+    custom_javascript: Brugerdefineret JavaScript
+    logotype: Logo
+    leave_blank_for_default: lad være tom for standardværdi
+    email_configuration: E-mailkonfiguration
+    email_sender_address: Afsenderadresse
+    email_host: Basis-URL for e-mails
+    email_footer: Sidefod i e-mails
+    email_relay_host: E-mailrelæ
+    email_relay_username: Brugernavn til e-mailrelæ
+    email_relay_password: Adgangskode til e-mailrelæ
+    port: Port
+    unlicensed_install_some_settings: "Installation uden licens: brandingindstillinger er kun synlige for systemadministratorer"
+    mail_relay_example: "F.eks.: mailrelay.domaene.dk, mx.domaene.dk:587"
+    ldap: LDAP
+    please_see_the: se
+    for_more_information: for at få flere oplysninger
+    virus_scan: Virusscanning
+    virus_scan_description: Scan filer for virus
+    blocked_file_extensions: Blokerede filtypenavne
+    default_bcc_myself_label: Send kopi til mig selv
+    default_bcc_myself: Send som standard en kopi til mig selv
+    allow_users_to_change_require_login_label: Kræv godkendelse
+    allow_users_to_change_require_login: Lad brugere ændre "Kræv godkendelse"
+    permitted_file_extensions_label: Tilladte filtypenavne
+    delete: Slet
+    ldap_description: "Aktivér LDAP-godkendelse af brugere, og angiv nogle grundlæggende parametre for forbindelsen til LDAP-serveren. Hvis der ikke angives en port, bruges standardporten 389 for LDAP (eller port 636, hvis SSL er aktiveret). Bemærk: Port 3268 bruges IKKE til godkendelse i Active Directory, men kun til opslag i den globale adressebog. Brug i stedet port 389/636."
+    ldap_authentication: LDAP-godkendelse
+    basic_settings: Grundlæggende indstillinger
+    server: Servernavn / IP-adresse
+    username: Brugernavn
+    password: Adgangskode
+    authentication_description: Denne bruger bruges til at oprette forbindelse til LDAP-serveren (lad være tom for anonym binding). Brugeren skal have søgerettigheder i LDAP-træet.
+    search_key: Søgenøgle
+    search_key_description: Søgenøglen og domænet bruges til at finde brugere i LDAP-træet. Se tabellen nedenfor for, hvordan søgenøgle og domæne arbejder sammen om at finde en bruger.
+    search_key_description2: Hvis LDAP-søgenøglen indeholder e-mailadressen, skal domænet altså være tomt. Hvis LDAP-søgenøglen kun indeholder brugernavnet, skal domænet indeholde brugernes domæne.
+    search_key_defaults: "For Active Directory er et godt udgangspunkt: sAMAccountName som LDAP-søgenøgle og firma.dk (dit domæne) som domæne."
+    user_enters: Brugeren indtaster
+    authorized_ldap_groups: Autoriserede LDAP-grupper
+    available_groups: Tilgængelige grupper
+    default_settings: Standardindstillinger
+    setting: Indstilling
+    value: Værdi
+    description: Beskrivelse
+    default_local_max_description: Dette er standardværdien for maks. filstørrelse for nye lokale brugere. Den kan ændres for den enkelte bruger.
+    user_changeable: Kan ændres af brugeren?
+    non_local: Ikke-lokal
+    remote: Fjern
+    new_external_recipient_is_nonlocal: Nye eksterne modtagere er
+    email_message_on_top_label: Besked øverst
+    email_message_on_top: Beskeden placeres over fillisten i e-mailen til modtagerne
+    use_either_permitted_or_blocked_extensions: Du skal vælge enten tilladte eller blokerede filtypenavne, ikke begge
+    invalid_password: Ugyldig adgangskode
+    valid_password: Gyldig adgangskode
+    test_password_validation: Test adgangskodevalidering
+    custom_password_validation: Brugerdefineret adgangskodevalidering
+    custom_password_validation_description: "Dette regulære udtryk bruges til brugerdefineret validering af adgangskoder. Skriv kun det regulære udtryk uden afgrænsere (start og slut ikke med '/'). Eksempel: [a-zA-Z0-9]{7,} (adgangskoder må så kun indeholde a-z, A-Z og 0-9, mindst 7 tegn)"
+    filedrop: Filedrop
+    receive: Modtag
+    api_settings: API-indstillinger
+    enable_api_label: Aktivér API
+    enable_api_description: Aktivér API for at tillade adgang via plugins og scripts
+    enable_api_group_config: Flere API-indstillinger findes i gruppekonfigurationen.
+    api_client_size_override_label: Størrelsesgrænse for API-klienter
+    api_client_size_override_description: API-klienter sender filer, der er større end denne størrelse, via appliancen
+    sso_secret_key: Hemmelig SSO-nøgle
+    generate_key: Generér ny nøgle
+    sso_replace_confirm: Er du sikker? Hvis du udskifter den hemmelige SSO-nøgle, holder eksisterende SSO-integrationer op med at fungere.
+    virus_scan_skip_locals: Spring virusscanning over for lokale brugere
+    virus_scan_skip_locals_description: Scan ikke lokale brugeres filer for virus
+    virus_scan_permit_unscanned: Tillad ikke-scannede filer
+    virus_scan_permit_unscanned_description: Tillad download af filer, der endnu ikke er virusscannet
+    userdrop: Bruger-Filedrop
+    user_filedrop_with_random_key: Bruger-Filedrops med tilfældig nøgle
+    enable_userdrop: Aktivér bruger-Filedrops
+    example: Eksempel
+    user_filedrop_with_email: Bruger-Filedrops med e-mailadresser
+    enable_userdrop_email: Aktivér bruger-Filedrops med e-mailadresse
+    userdop_email_data_leakage: Dette kan bruges til at finde lokale e-mailadresser ved at afprøve adresser på Filedrop-URL'en og se, hvilke der giver et gyldigt svar.
+    userdrop_files_expire_after: Afleverede filer udløber efter
+    userdrop_max_filesize: Maks. filstørrelse for bruger-Filedrop
+    bruteforce_label: Beskyttelse mod brute force
+    bruteforce_description_1: Bloker IP-adressen i
+    bruteforce_description_2: minutter efter
+    bruteforce_description_3: mislykkede logins/registreringer inden for
+    bruteforce_description_4: minutter
+    bruteforce_whitelist_label: Brute force-hvidliste
+    allowed_admin_networks_label: Administratornetværk
+    allowed_admin_networks_description: Begræns administratoradgang til disse værter og netværk. Localhost (127.0.0.1, ::1) er altid tilladt
+    enable_strong_authentication: Aktivér stærk godkendelse som standard for disse brugertyper
+    authenticated_username: Godkendt brugernavn
+    duo_hostname: Duo-værtsnavn
+    duo_client_id: Duo-integrationsnøgle
+    duo_client_secret: Hemmelig Duo-nøgle
+    strong_authentication_test: Test stærk godkendelse
+    stronger_password: Vælg en stærkere adgangskode.
+    cannot_begin_or_end_with_blank: Adgangskoden må ikke starte eller slutte med et mellemrum.
+    at_least_one_invalid_domain: Mindst ét ugyldigt domæne
+    at_least_one_invalid_email: Mindst én ugyldig e-mailadresse
+    email_security_level: Sikkerhedsniveau for e-maillevering
+    geoip: GeoIP-opslag
+    geoip_description: Downloader placeringsdata fra https://geoip.liquidfiles.com og viser kort.
+    tooltip:
+      local_domains: En lokal bruger kan sende filer til alle. En ikke-lokal bruger kan kun sende filer til lokale brugere. Første gang en bruger logger ind, eller når kontoen oprettes, sammenlignes e-mailadressens domæne med disse domæner for at afgøre, om brugeren betragtes som lokal.
+      ldap_users_are_always_local: Alle brugere, der godkendes via LDAP, betragtes automatisk som lokale uanset domæne.
+      allow_registration: Tillader registrering på loginsiden. Listen over lokale domæner afgør, om en ny bruger er lokal eller ikke-lokal.
+      local_user_maxfile: Når en lokal bruger registrerer sig eller godkendes via fjerngodkendelse for første gang, tildeles denne maks. filstørrelse.
+      nonlocal_user_maxfile: Når en ikke-lokal bruger registrerer sig, tildeles denne maks. filstørrelse.
+      delete_downloaded_files_after: En downloadet fil gemmes så længe. Perioden skal være lang nok til, at modtageren kan vælge en anden downloadplacering eller starte forfra, men kort nok til, at linket ikke bliver delt med flere.
+      file_expiration: Lader brugere ændre filers udløbstid. Hvis dette ikke er aktiveret, får alle filer standardudløbstiden.
+      default_expire_files_after: Filer udløber efter denne periode.
+      blocked_file_extensions: Bloker filer med disse filtypenavne (der skelnes ikke mellem store og små bogstaver).
+      virus_scan: Scan alle uploadede filer for virus med virusscanneren ClamAV
+      require_authentication_permission: Når dette er aktiveret, kan brugere selv vælge, om godkendelse skal være påkrævet
+      default_bcc_myself: Når dette er aktiveret, sendes beskeder som standard også til brugeren selv
+      permitted_file_extensions: "Hvis feltet er tomt, er alle filtypenavne tilladt. Hvis der angives mindst ét filtypenavn, er kun de angivne filtyper tilladt. Eksempel: png, gif, jpg, txt"
+      new_external_recipient_is_nonlocal: Når der sendes en besked til en ny modtager, skal modtageren så oprettes som ikke-lokal bruger (så vedkommende kan svare) eller som ekstern bruger?
+      email_message_on_top: Når dette er markeret, placeres beskeden over fillisten i e-mailen til modtagerne. Ellers placeres fillisten over beskeden.
+      email_sender: Denne e-mailadresse bruges som afsender af systemgenererede e-mails som f.eks. nulstilling af adgangskoder. For at undgå, at disse e-mails markeres som spam, skal det være en rigtig e-mailadresse.
+      email_host: Vedhæftede filer bruger denne URL som basis-URL. Normalt er det http://vaertsnavn.domaene eller https://vaertsnavn.domaene, men det kan være https://vaertsnavn.domaene:4433, hvis du bruger portvideresendelse i din firewall, når brugere forbinder til LiquidFiles-appliancen.
+      email_footer: Denne signatur tilføjes til alle udgående e-mails.
+      email_relay: Brug denne mailserver som relæ for udgående e-mails.
+      email_relay_username: Konto, der bruges til at logge ind på e-mailrelæet
+      email_relay_password: Adgangskode til den konto, der bruges til at logge ind på e-mailrelæet
+  date:
+    formats:
+      default: "%d.%m.%Y"
+      short: "%d.%m"
+      medium: "%d.%m.%Y"
+      long: "%d.%m.%Y"
+  time:
+    am: AM
+    pm: PM
+    formats:
+      default: "%d.%m.%Y %H:%M:%S %z"
+      short: "%d.%m %H:%M"
+      medium: "%d.%m.%Y %H:%M"
+      long: "%d.%m.%Y %H:%M"
+  downloads:
+    download_id: Download-id
+    index:
+      download_log_title: Downloads
+      download_log_description: Hvem downloadede hvad og hvornår
+      paginator_entry_name: downloads
+    show:
+      no_map_for_reserved_address: Der kan ikke vises kort for reserverede adresser
+  filedrop:
+    filedrop: Filedrop
+    no_such_filedrop: Denne Filedrop findes ikke
+    invalid_filedrop_url: Ugyldig Filedrop-URL
+    invalid_filedrop_url_description: Der er ingen Filedrop på denne URL. Kontrollér URL'en, og prøv igen.
+    label: Filedrops
+    mb: MB
+    name: Navn
+    name_description: Kort navn, der også bruges i URL'en (f.eks. /filedrop/navn)
+    title: Titel
+    title_description: Titlen øverst på siden
+    description: Beskrivelse
+    description_description: Beskrivelse under titlen
+    user: Modtagende bruger
+    user_description: Enhver lokal bruger kan angives som modtager
+    cc: Cc
+    cc_description: "(kommasepareret) Send en kopi til disse adresser"
+    expires_after: Udløber efter
+    expires_after_description: dage
+    max_filesize: Maks. filstørrelse
+    max_filesize_description: MB
+    reset_filedrop: Nulstil Filedrop-URL
+    filedrop_reset_warning: Er du sikker? Hvis du nulstiller Filedrop-URL'en, skal du udskifte den alle steder, hvor du har offentliggjort den.
+    permitted_extensions: Tilladte filtypenavne
+    permitted_extensions_description: Kun disse filtyper tillades
+    blocked_extensions: Blokerede filtypenavne
+    blocked_extensions_description: Disse filtyper blokeres
+    demo_license_warning_standard: Filedrops kræver en licens i produktion. Opgrader til en Pro-licens for at aktivere Filedrop-funktionen.
+    max_one_during_demo: Under demoen eller med en Standard-licens kan du højst konfigurere én Filedrop
+    filedrop_info: Med en Filedrop kan dine kunder sende filer til dig uden godkendelse eller forudgående opsætning. Hver Filedrop har en fast URL, som du kan linke til fra websider eller i e-mailsignaturer. Når nogen afleverer en fil i Filedrop, sendes den automatisk til en foruddefineret bruger.
+    authorization: Tilladelse
+    authorization_description: hvem der må downloade filer, der er afleveret i Filedrop
+    you_will_be_notified: Du modtager en downloadkvittering, når dine filer er blevet downloadet.
+    require_authentication: Denne Filedrop kræver godkendelse. Indtast adgangskoden for at fortsætte.
+    authenticate: Godkend
+    authentication_failed: Godkendelsen mislykkedes
+    require_validation: Denne Filedrop kræver godkendelse eller bekræftelse af din e-mailadresse.
+  filelink:
+    filelink: FileLink
+    filelinks: FileLinks
+    filelink_title: FileLink
+    filelink_description: Et FileLink er et link til en enkelt fil. Du kan sende linket til hvem som helst uden at oprette en besked eller angive modtagere. Kun de personer, du har sendt det tilfældige link til, kan downloade filen.
+    expired_or_nonexistent_title: Ugyldigt FileLink
+    expired_or_nonexistent: Dette FileLink er udløbet eller findes ikke. Kontakt afsenderen for at få et nyt link.
+    existing_filelinks: Eksisterende FileLinks
+    new_filelink: Nyt FileLink
+    available_files: Tilgængelige filer
+    filename: Filnavn
+    filesize: Filstørrelse
+    expires_at: Udløber
+    link: Link
+    checksum: Kontrolsum
+    copy_link_to_clipboard: Kopiér FileLink til udklipsholder
+    expire_link_at: Linket udløber
+    you_have_no_filelinks: Du har ingen FileLinks. Tilføj et nyt FileLink, eller opret et ud fra en tilgængelig fil.
+    you_have_no_files_available: Du har ingen tidligere sendte filer. Når du har sendt mindst én fil, kan du vælge den her for at oprette et FileLink.
+    create_link: Opret link
+    invalid_file: Ugyldig fil, der kan ikke oprettes et FileLink
+    delete: Slet
+    delete_link_warning: Er du sikker på, at du vil slette dette FileLink?
+    could_not_delete_link: FileLinket kunne ikke slettes. Linket blev ikke fundet!
+    filelink_deleted: FileLink slettet!
+    select_file: Vælg fil
+    send_download_receipts: Send downloadkvitteringer
+    disabled: FileLinks er deaktiveret, kontakt en administrator
+    unauthorized: Du har ikke tilladelse til at bruge FileLinks
+    require_authentication: Kræv godkendelse
+    filelink_require_authentication: Dette FileLink kræver, at du godkender dig
+    filelink_url: FileLink-URL
+    expired: Udløbet
+    filelink_expired: FileLink udløbet
+    select_from_available_files: Du kan også oprette et FileLink ud fra en af disse eksisterende filer.
+    downloads: Downloads
+    authentication_failed: Godkendelsen mislykkedes
+    password_label_html: Adgangskode <small class="text-muted">(valgfri)</small>
+    password_present_html: Der er angivet en adgangskode for dette FileLink.<br>Du kan fjerne den ved at gemme en tom adgangskode.
+    password_not_present: Der er ikke angivet en adgangskode.
+    copy_to_clipboard: Kopiér FileLink til udklipsholder
+    add_file: Tilføj fil
+  ftpdrop:
+    create:
+      ftpdrop: FTPdrop
+  html_editor:
+    font:
+      bold: Fed
+      italic: Kursiv
+      underline: Understreget
+      clear: Fjern formatering
+      height: Linjehøjde
+      name: Skrifttype
+      strikethrough: Gennemstreget
+      subscript: Sænket skrift
+      superscript: Hævet skrift
+      size: Skriftstørrelse
+    image:
+      image: Billede
+      insert: Indsæt billede
+      resize_full: Fuld størrelse
+      resize_half: Halv størrelse
+      resize_quarter: Kvart størrelse
+      float_left: Venstrejuster
+      float_right: Højrejuster
+      float_none: Ingen justering
+      shape_rounded: "Form: afrundet"
+      shape_circle: "Form: cirkel"
+      shape_thumbnail: "Form: miniature"
+      shape_none: "Form: ingen"
+      url: Billed-URL
+      remove: Fjern billede
+    link:
+      link: Link
+      insert: Indsæt link
+      unlink: Fjern link
+      edit: Rediger
+      text_to_display: Tekst, der skal vises
+      url: Hvilken URL skal linket pege på?
+      open_in_new_window: Åbn i nyt vindue
+    table:
+      table: Tabel
+    hr:
+      insert: Indsæt vandret linje
+    style:
+      style: Typografi
+      normal: Normal
+      blockquote: Citat
+      pre: Kode
+      h1: Overskrift 1
+      h2: Overskrift 2
+      h3: Overskrift 3
+      h4: Overskrift 4
+      h5: Overskrift 5
+      h6: Overskrift 6
+    lists:
+      unordered: Punktopstilling
+      ordered: Nummereret liste
+    options:
+      help: Hjælp
+      fullscreen: Fuld skærm
+      codeview: Kodevisning
+    paragraph:
+      paragraph: Afsnit
+      outdent: Formindsk indrykning
+      indent: Forøg indrykning
+      left: Venstrejuster
+      center: Centrer
+      right: Højrejuster
+      justify: Lige margener
+    color:
+      recent: Seneste farve
+      more: Flere farver
+      background: Baggrundsfarve
+      foreground: Tekstfarve
+      transparent: Gennemsigtig
+      set_transparent: Gør gennemsigtig
+      reset: Nulstil
+      reset_to_default: Nulstil til standard
+    shortcut:
+      shortcuts: Tastaturgenveje
+      close: Luk
+      text_formatting: Tekstformatering
+      action: Handling
+      paragraph_formatting: Afsnitsformatering
+      document_style: Dokumenttypografi
+      extra_keys: Ekstra taster
+    history:
+      undo: Fortryd
+      redo: Annuller fortryd
+  invite:
+    invite_user: Inviter bruger
+    description: Du kan invitere brugere til at dele filer med dig. Når du har indtastet deres oplysninger, modtager de en e-mail med vejledning i, hvordan de fuldfører registreringen.
+    send_invite: Send invitation
+    name_placeholder: Fulde navn
+    invitation_sent: Invitation sendt
+    not_permitted_to_invite_users: Du har ikke tilladelse til at invitere brugere.
+    invalid_email: Ugyldig e-mailadresse
+  link:
+    show:
+      set_password: Angiv adgangskode
+      download: Download
+      downloads_and_info: Alle downloads og flere oplysninger
+    authenticate:
+      show:
+        title: FileLink-adgangskode
+        authenticate: Godkend
+        require_authentication: For at åbne dette FileLink skal du indtaste den påkrævede adgangskode.
+      create:
+        authentication_failed: Godkendelsen mislykkedes.
+    downloads:
+      index:
+        back_to_filelink: Tilbage til FileLink
+    link_downloads:
+      latest_downloads: Seneste downloads (%{count} af i alt %{total})
+  menu:
+    shares: Shares
+    messages: Beskeder
+    send_files: Skriv
+    users: Brugere
+    active_transfers: Aktive overførsler
+    configuration: Konfiguration
+    system: System
+    message_list: Beskedliste
+    settings: Indstillinger
+    admin: Administration
+    account: Konto
+    inbox: Indbakke
+    sent_messages: Sendt
+    downloads: Downloadlog
+    filelink: FileLinks
+    secure_messages: Sikre beskeder
+    support: Support
+  message:
+    message_sent: Beskeden er sendt
+    not_found: Beskeden blev ikke fundet
+    message_not_found_header: Beskeden blev ikke fundet!
+    message_not_found_description: Bed afsenderen om at sende beskeden igen.
+    previous_recipients: Tidligere modtagere
+    contacts: Kontakter
+    is_not_permitted: er ikke tilladt
+    not_permitted_to_delete_messages: Du har ikke tilladelse til at slette beskeder
+    is_not_in_any_of_the_allowed_domains: hører ikke til nogen af de tilladte domæner
+    is_not_in_any_of_the_allowed_groups: hører ikke til nogen af de tilladte grupper
+    attach_1_file: Du skal vedhæfte mindst én fil
+    too_many_files: For mange vedhæftede filer. Du kan højst vedhæfte %{count} filer til en besked.
+    attached_files: Vedhæftede filer
+    expired: Beskeden er udløbet
+    authorize:
+      show:
+        title: Log ind for at åbne den sikre besked
+        authenticate_description_html: Du er ved at åbne en sikker besked. Du skal først logge ind. Indtast din e-mailadresse, eller log ind for at fortsætte.<br>Hvis du ikke har en konto på systemet, skal du indtaste din e-mailadresse, så sender vi et sikkert link til bekræftelse af din e-mailadresse.
+        unauthenticated_html: <h4>Ugyldigt brugernavn eller adgangskode</h4><p>Indtast dit brugernavn og din adgangskode. Du kan nulstille din adgangskode med knappen Nulstil adgangskode nedenfor.</p>
+        unauthorized_to_view_check_email_html: <h4>Uautoriseret e-mailadresse</h4><p>Kontrollér, at den sikre besked [<span class="font-monospace fw-bold">%{message_id}</span>] er sendt til dig, og indtast e-mailadressen præcis, som den blev brugt ved afsendelsen.</p><p>Hvis din e-mailadresse f.eks. både kan være jens.hansen@firma.dk og jhansen@firma.dk, kan systemet ikke vide, at det er den samme adresse. Hvis den sikre besked blev sendt til jens.hansen@firma.dk, er det den adresse, du skal indtaste her.</p><p>Hvis du er i tvivl, skal du kontakte afsenderen af den sikre besked.</p>
+    errors:
+      not_authorized_to_view_message: "Du har ikke tilladelse til at se besked-id: %{message_id}. Kontrollér, at beskeden er sendt til dig."
+      private_message_requires_authentication: Private beskeder kræver godkendelse
+    attachments:
+      download_attachment_details_csv: Download oplysninger om vedhæftede filer (CSV)
+      attachment:
+        fileinfo: Filoplysninger
+        file_size: Filstørrelse
+        content_type: Indholdstype
+        checksum: Kontrolsum
+        virus_status: Virusstatus
+    compose:
+      options_permission:
+        authentication_required: Godkendelse påkrævet
+        authentication_not_required: Godkendelse ikke påkrævet
+        require_authentication_description: Skal modtagerne godkende sig for at åbne denne besked?
+        access_restriction_html: Adgangsbegrænsning<br><small class="text-muted">Hvem har adgang til denne besked?</small>
+        recipients_only_html: Kun<br>modtagere
+        recipients_plus_locals_html: Modtagere<br>+ lokale brugere
+        recipients_plus_domains_html: Modtagere<br>+ domæner
+        anyone_secret_link_html: Alle<br>(hemmeligt link)
+    unavailable:
+      header: Beskeden er ikke tilgængelig
+      description: Beskeden er udløbet, slettet, findes ikke eller er ikke længere tilgængelig. Bed afsenderen om at sende den igen.
+    downloads:
+      index:
+        download_log_title: Downloadlog
+        message_id: Besked-id
+        paginator_entry_name: Downloads
+      download:
+        details: Detaljer
+      not_found:
+        title: Beskeden eller downloadet blev ikke fundet
+        description_html: Beskeden eller downloadet blev ikke fundet, eller du har ikke tilladelse til at se det
+    temporary_user:
+      create:
+        invalid_temporary_user: Ugyldig adgangskode. Kontrollér e-mailen med din midlertidige adgangskode, eller anmod om en ny midlertidig adgangskode.
+        temporary_user_expired: Denne midlertidige adgangskode er udløbet. Der er sendt en ny midlertidig adgangskode til din e-mailadresse. Tjek din indbakke, og brug den nye midlertidige adgangskode.
+        not_authorized_to_view_message: "Du har ikke tilladelse til at se besked-id: %{message_id}. Kontrollér, at beskeden er sendt til dig."
+      show:
+        title: Indtast din midlertidige adgangskode
+        description_html: "Du er ved at åbne en sikker besked. For at åbne den skal du indtaste din midlertidige adgangskode.<br>En midlertidig adgangskode er en unik, tilfældig tegnstreng, der identificerer dig. Du har modtaget den midlertidige adgangskode i en separat e-mail (emne: Midlertidig adgangskode)."
+        what_is_this: Hvad er dette?
+        login: Log ind
+        submit: Bekræft midlertidig adgangskode
+        submit_email: Send
+        if_you_have_account: "(hvis du allerede har en konto)"
+        request_temporary_user_header: Anmod om ny midlertidig adgangskode
+        request_temporary_user_description_html: Du kan anmode om en ny midlertidig adgangskode for at åbne beskeden. Indtast din e-mailadresse nedenfor for at anmode om en ny midlertidig adgangskode til denne sikre besked.
+        info_header: Oplysninger om midlertidig adgangskode
+        info_body_html: "<p>En midlertidig adgangskode er en unik række af tal og bogstaver, f.eks.:</p><pre><code>3ynp-7FKa-pZS9</code></pre><p><em>Denne midlertidige adgangskode er kun et eksempel, så du kan se, hvordan den ser ud – den kan ikke bruges.</em></p><p>I din indbakke finder du <strong>to e-mails</strong>: en med den sikre besked og en med et <strong>emne, der begynder med: Midlertidig adgangskode</strong>. Den sidste indeholder din unikke midlertidige adgangskode til systemet.</p><p>Hvis du ikke har modtaget en e-mail med en midlertidig adgangskode, kan det skyldes, at du allerede har en konto på systemet. Klik i så fald på \"Log ind\".</p><p>Hvis du mener, at du burde have modtaget en midlertidig adgangskode, men ikke har, skal du klikke på \"Anmod om midlertidig adgangskode\" for at få en ny.</p>"
+        email_address: E-mailadresse
+        email_not_permitted: Denne e-mailadresse har ikke tilladelse til at se den sikre besked.
+        email_not_permitted_description_html: <p>Kontrollér den e-mail med den sikre besked, du har modtaget, og indtast e-mailadressen præcis, som den blev brugt ved afsendelsen.</p><p>Hvis din e-mailadresse f.eks. både kan være jens.hansen@firma.dk og jhansen@firma.dk, kan systemet ikke vide, at det er den samme adresse. Hvis den sikre besked blev sendt til jens.hansen@firma.dk, er det den adresse, du skal indtaste her.</p><p>Hvis du er i tvivl, skal du kontakte afsenderen af den sikre besked.</p>
+        email_can_login: Du har allerede en konto på systemet
+        email_can_login_description_html: <p>Du kan logge ind på systemet med denne e-mailadresse og din adgangskode.</p><p>Klik på knappen Log ind nedenfor for at logge ind med din eksisterende konto.</p>
+        temporary_user_delivered_header: Midlertidig adgangskode sendt
+        temporary_user_delivered_description_html: <p>Der er sendt en midlertidig adgangskode til din e-mailadresse. Tjek din indbakke, luk dette vindue, og indtast den midlertidige adgangskode.</p>
+    reply:
+      re: "Sv:"
+      wrote: skrev
+      show:
+        title: Besvar sikker besked
+        from: Fra
+        reply: Svar
+        reply_all: Svar alle
+      options:
+        options_description: Bemærk, at alle indstillinger arves fra den oprindelige besked.
+    show:
+      back: Tilbage
+      message_header: Beskedhoved
+      reply: Svar
+  messages:
+    sent:
+      skipped_file_not_found: Sprunget over - filen blev ikke fundet
+      show:
+        sent_title: Sendt
+        sent_description: Beskeder, du har sendt
+        paginator_entry_name: beskeder
+    attachments:
+      download_cmd:
+        unauthorized:
+          header: Ikke autoriseret
+          body: Du har ikke tilladelse til at downloade filen. Bed afsenderen om at sende filen til dig igen.
+          back: Tilbage
+        exceeded:
+          header: Downloadgrænsen er overskredet
+          body: Downloadgrænsen for filen er overskredet. Bed afsenderen om at sende filen til dig igen.
+          back: Tilbage
+    download_zip:
+      unauthorized:
+        header: Ikke autoriseret
+        body: Du har ikke tilladelse til at downloade arkivet. Bed afsenderen om at sende filen til dig igen.
+        back: Tilbage
+      exceeded:
+        header: Downloadgrænsen er overskredet
+        body: Downloadgrænsen for en eller flere filer i arkivet er overskredet. Bed afsenderen om at sende filen til dig igen.
+        back: Tilbage
+    message:
+      reply: Svar
+      reply_all: Svar alle
+  models:
+    user:
+      no_need_to_create_local_user: Det er ikke nødvendigt at oprette en lokal bruger
+      license_exceeded: Licensgrænsen er overskredet
+  notifier:
+    activate_user_subject: "[%{hostname}] Aktivér konto"
+    user_activation: Brugeraktivering
+    please_visit_the_following_url_to_activate: Klik på følgende link for at aktivere din konto
+    the_following_files_are_attached: Følgende filer er vedhæftet beskeden
+    please_visit_the_following_url: Klik på dette link for at downloade de vedhæftede filer
+    attachments_are_available: De vedhæftede filer er tilgængelige indtil
+    message_id: "Besked-id: %{id}"
+    email_password_reset_subject: Nulstilling af adgangskode
+    download_receipt_subject: "Downloadkvittering [ID: %{message_id}]"
+    a_file_that_you_sent: En fil, du har sendt, er blevet downloadet. Gem denne e-mail som dokumentation for downloadet.
+    recipient: Modtager
+    filename: Filnavn
+    time_of_download: Tidspunkt for download
+    downloaded_from: Downloadet fra
+    download_receipt: Downloadkvittering
+    user_created:
+      account_created: Kontoen er oprettet
+      subject: "[%{hostname}] Kontoen er oprettet"
+      message: "Der venter en sikker vedhæftet fil til dig. Du skal godkende dig for at downloade den. Klik på følgende link for at registrere dig:"
+  outlook:
+    messages:
+      new:
+        attachments_header: Vedhæftede filer
+        attachments_hint: Du kan vedhæfte filer ved at trække dem til området nedenfor eller ved at klikke på knappen Vedhæft filer.
+        add_to_message: Føj til besked
+      attachments:
+        attach_files: Vedhæft filer
+        drop_files_here: Slip filer her...
+      options:
+        recipients_can_reply: Modtagerne kan svare
+        send_copy_to_myself: Send en kopi til mig selv
+        private_message: Privat besked
+        private_message_required_auth_error: Når du sender en privat besked, skal du bruge tilstanden "Godkendelse påkrævet".
+      options_authorization:
+        authentication_authorization_title_html: Godkendelse &amp; autorisation
+        authentication_select_title: Vælg godkendelse
+        authentication_required: Godkendelse påkrævet
+        authentication_not_required: Godkendelse ikke påkrævet
+        authorization_select_title: Vælg autorisation
+        recipients_only: Kun modtagere
+        recipients_locals: Modtagere + lokale brugere
+        recipients_domains: Modtagere + domæner
+        anyone: Alle (hemmeligt link)
+      options_expiration:
+        message_expires: Beskeden udløber
+        message_expires_after: Beskeden udløber efter
+  pagination:
+    first: "&laquo; Første"
+    last: Sidste &raquo;
+    previous: "&lsaquo; Forrige"
+    next: Næste &rsaquo;
+    truncate: "&hellip;"
+  requests:
+    title: Filanmodning
+    file_request: Filanmodning
+    files_sent: Filerne er sendt, tak!
+    request_file: Anmod om fil
+    file_requests: Filanmodninger
+    description: Med en filanmodning kan du bede nogen om at sende filer til dig. Når du har indtastet oplysningerne, modtager personen en e-mail med et unikt link, der kan bruges til at sende de ønskede filer til dig.
+    file_request_not_found: Filanmodningen blev ikke fundet
+    file_request_expired: Filanmodningen er udløbet
+    file_request_already_used: Filanmodningen er allerede brugt
+    file_request_sent: Filanmodningen er sendt
+    not_permited: Du har ikke tilladelse til at bruge funktionen til filanmodninger
+    multiuse: Flergangsbrug - linket til filanmodningen kan bruges flere gange
+    invalid_recipient: Ugyldig modtager, denne filanmodning blev sendt til en anden
+    invalid_user: Dette er ikke din filanmodning
+    index:
+      title: Filanmodninger
+      new_file_request: Ny filanmodning
+      multiuse: Flergangsbrug
+      responded_to: Besvaret
+      hide_expired: Skjul udløbne og brugte
+      show_expired: Vis udløbne og brugte
+    request:
+      resend: Send igen
+      are_you_sure_you_want_to_delete: Er du sikker på, at du vil slette denne filanmodning?
+    popup:
+      from: Fra
+      to: Til
+      subject: Emne
+      message: Besked
+    resend:
+      request_resent: Filanmodningen er sendt igen
+    new:
+      request_expires: Anmodningen udløber
+  send:
+    send: Send
+    sent: Sendt
+    recipients: Til
+    send_as: Send som
+    you_can_only_send_files_to_yourself: Du kan kun sende filer til dig selv
+    subject: Emne
+    subject_placeholder: Emne
+    attachments: Vedhæftede filer
+    max_file_size: "Maks. størrelse for vedhæftede filer: %{filesize} MB"
+    upload_queue: Uploadkø
+    remove: Fjern
+    cancel_all: Annuller alle
+    cancel_all_uploads: Annuller alle uploads
+    message: Besked
+    message_placeholder: Besked
+    done_editing_please_send: Jeg er færdig med at redigere, send filerne, når alle uploads er fuldført
+    files_sent_successfully: Filerne er sendt
+    you_need_at_least_one_recipient: Du skal angive mindst én modtager
+    you_need_at_least_one_attachment: Du skal tilføje mindst én vedhæftet fil
+    options: Indstillinger
+    cc: Cc
+    bcc: Bcc
+    bcc_message_description: Bcc-modtagere vises ikke for de andre modtagere
+    add_cc: tilføj cc
+    add_bcc: tilføj bcc
+    bcc_myself: Send en kopi til mig selv
+    require_login: Kræv login for at downloade filer
+    only_specified_recipients_can_download: Kun angivne modtagere kan downloade de vedhæftede filer
+    anyone_can_download: Alle kan downloade de vedhæftede filer
+    expires_in: De vedhæftede filer kan downloades i
+    expires_at: De vedhæftede filer udløber
+    send_options: Afsendelsesindstillinger
+    to: Til
+    from: Fra
+    filename: Filnavn
+    filesize: Filstørrelse
+    downloaded_at: Downloadet
+    message_sent: Beskeden er sendt
+    message_expires: Beskeden udløber
+    message_expires_after: Beskeden udløber efter
+    message_expires_after_description: Beregningen sker pr. fil. Hvis du sender 2 filer, der udløber efter 1 download, kan hver modtager downloade hver fil én gang.
+    downloads_per_recipient: Downloads pr. modtager
+    total_downloads: Downloads i alt
+    file_not_downloaded: Der er ikke downloadet nogen vedhæftede filer
+    at_least_one_invalid_extension: Mindst én af de vedhæftede filer har et ugyldigt filtypenavn
+    invalid_filetype: Ugyldigt filtypenavn
+    blocked_extension: "Ugyldigt filtypenavn. Du kan ikke uploade filer med følgende filtypenavne: %{extensions}"
+    permitted_extensions: "Tilladte filtypenavne er: %{filetypes}"
+    already_selected: Filen er allerede valgt
+    maximum_filesize_exceeded: Maks. filstørrelse er overskredet
+    contains_virus: "%{filename} indeholder VIRUS: %{virus}"
+    limited_by_browser: Begrænset af browseren
+    limited_by_disk: Begrænset af diskpladsen
+    limited_by_system_quota: Begrænset af systemkvoten
+    limited_by_group_quota: Begrænset af gruppekvoten
+    limited_by_quota: Begrænset af kvoten
+    limited_per_message: Grænse pr. besked
+    system_quota_exceeded: Systemkvoten er overskredet
+    group_quota_exceeded: Gruppekvoten er overskredet
+    quota_exceeded: Kvoten er overskredet
+    no_available_quota: Kvoten er overskredet, slet nogle filer for at fortsætte
+    not_authorized_to_send: Du har ikke tilladelse til at sende til %{email}
+    public_url: Offentlig URL
+    message_url: Besked-URL
+    authorization: Autorisation
+    insufficient_disk_space: Utilstrækkelig diskplads
+    active_transfers: Aktive overførsler
+    view_log: Vis log
+    previously_sent_attachments: Tidligere sendte vedhæftede filer
+    has_not_downloaded: "%{recipient} har ikke downloadet nogen af filerne"
+    authentication: Godkendelse
+    required: Påkrævet
+    disabled: Deaktiveret
+    require_authentication_tooltip_html: <li>Modtageren skal logge ind med brugernavn og adgangskode for at downloade filen.</li> <li>Du får en bekræftelse, når filen downloades.</li>
+    dont_require_authentication_tooltip_html: <li>Modtageren skal ikke logge ind for at downloade filen.</li> <li>Du får en bekræftelse, når filen er downloadet, men ikke hvem der downloadede den (det ved vi ikke).</li> <li>Du får kun en bekræftelse, når den første modtager downloader filen.</li>
+    authenticate_link_description: Du skal logge ind, før du kan åbne dette FileLink.
+    unauthorized: Du har ikke tilladelse til at se beskeden.
+    unauthenticated: Forkert adgangskode
+    incorrect_login_or_demo: Forkert adgangskode, eller licensgrænsen er nået
+    email_authorization_message: Tak. For at bekræfte, at dette er din e-mailadresse, er der sendt en e-mail med en bekræftelseskode. Indtast bekræftelseskoden nedenfor, eller klik på linket i e-mailen for at komme til beskeden.
+    email_authorization_link: Tak. For at bekræfte, at dette er din e-mailadresse, er der sendt en e-mail med en bekræftelseskode. Indtast bekræftelseskoden fra e-mailen nedenfor, eller klik på linket i e-mailen for at komme til FileLinket.
+    email_authorization_message_create_account: Tak. Da du ikke har en konto på systemet, er der sendt en e-mail med en bekræftelseskode for at bekræfte, at dette er din e-mailadresse. Indtast bekræftelseskoden nedenfor, eller klik på linket i e-mailen for at bekræfte din adresse. Derefter bliver du bedt om at oprette en konto og føres så til beskeden.
+    email_authorization_link_create_account: Tak. Da du ikke har en konto på systemet, er der sendt en e-mail med en bekræftelseskode for at bekræfte, at dette er din e-mailadresse. Indtast bekræftelseskoden fra e-mailen nedenfor, eller klik på linket i e-mailen for at bekræfte din adresse. Derefter bliver du bedt om at oprette en konto og føres så til FileLinket.
+    authorize: Autoriser
+    authenticate: Log ind
+    sending: Sender...
+    abort_transfer: Afbryd overførsel
+    files_to_big: Fil(er) for store
+    only_specified_recipients: Kun angivne modtagere har adgang
+    only_specified_recipients_and_local_users: Kun angivne modtagere og lokale brugere har adgang
+    only_specified_recipients_and_domains: Kun angivne modtagere og brugere i deres domæne har adgang
+    anyone_after_authentication: Alle (med det tilfældige link) har adgang
+    no_recipient_validation: Ingen bekræftelse af modtagere
+    anyone_can_access: Alle har adgang
+    anyone: Alle
+    no_authentication: Ingen godkendelse
+    can_download: kan downloade
+    not_yet_scanned: bliver scannet for virus, prøv igen om lidt. %{queue} i kø
+    was_infected: "var inficeret med virusset %{virus} og er blevet slettet"
+    deleted_or_expired: Slettet eller udløbet
+    im_done_editing: Send automatisk, når de igangværende uploads er fuldført
+    download_all: Download alle
+    zipped_archive: ZIP-arkiv
+    message_id: Besked-id
+    overall_progress: Samlet fremskridt
+    abort: Afbryd
+    limitations: Begrænsninger
+    max_size: Maks. størrelse
+    add_files: Tilføj filer...
+    add_folder: Tilføj mappe...
+    no_attachment_added: Der er ikke tilføjet nogen vedhæftet fil
+    you_need_to_add_at_least_one_file: Du skal tilføje mindst én fil.
+    private_message_or_attached_files: Du skal enten aktivere Privat besked eller vedhæfte mindst én fil.
+    no_runtime_found: Der blev ikke fundet noget kørselsmiljø, filerne kan ikke sendes
+    runtime_check_title: Der blev ikke fundet noget kørselsmiljø
+    selected: valgt
+    file_size_error: Fejl i filstørrelse
+    remaining: tilbage
+    attached_files: Vedhæftede filer
+    show_message: Vis besked
+    can_be_max: kan højst være %{days} dage ude i fremtiden
+    not_ready: Endnu ikke klar til download
+    download_info: Downloadoplysninger
+    browser: Browser
+    platform: Platform
+    operating_system: Operativsystem
+    location: Placering
+    download_details: Downloaddetaljer
+    download_information_not_found: Downloadoplysningerne blev ikke fundet.
+    add: Tilføj
+    select_existing_files: Vælg eksisterende filer
+    add_existing_files: Tilføj eksisterende filer
+    add_existing_description: Disse filer er allerede sendt, og du kan sende dem igen.
+    zip_disabled: ZIP deaktiveret
+    zip_disabled_description_exceeded: Det maksimale antal downloads er overskredet for mindst én vedhæftet fil.
+    spinner_info_html: <strong>Din besked er klar til at blive sendt</strong>. Nogle filer behandles stadig i baggrunden, men du behøver ikke at vente. <strong>Klik på Send, når du er klar!</strong>
+    sent_to_you: Sendt til dig
+    excluding_admins: Uden administratorer
+    downloads: Downloads
+    download_log: Downloadlog
+    delete_attachments: Slet vedhæftede filer
+    delete_message: Slet besked
+    delete_attachments_warning: Er du sikker på, at du vil slette de vedhæftede filer?
+    delete_message_warning: Hvis du sletter beskeden, slettes også de vedhæftede filer og downloadloggen. Er du sikker på, at du vil slette beskeden?
+    invalid_message: Ugyldig besked
+    message_deleted: Beskeden er slettet
+    attachments_deleted: De vedhæftede filer er slettet
+    checksum: Kontrolsum (SHA256)
+    not_permitted_to_send_messages: Du har ikke tilladelse til at sende beskeder.
+    invalid_group_belonging: Afsendelse er ikke tilladt (ugyldig gruppe). Du er registreret som ekstern bruger, men din e-mailadresse tilhører domænet %{domain}, som også er angivet som et af de begrænsede modtagerdomæner. Det er ikke tilladt for eksterne brugere. Bed systemadministratoren om at flytte dig til en anden gruppe for at fortsætte.
+    expires_after_exceeded: Antallet af downloads er overskredet
+    expires_after_exceeded_for_zip: Antallet af downloads er overskredet for mindst én fil i ZIP-arkivet
+    permission_description_title: Adgangsbegrænsninger
+    permission_description_only_specified_html: <ul> <li>Kun angivne modtagere kan åbne beskeden og downloade filerne.</li> <li>Det er ikke tilladt at videresende e-mailen eller URL'en til nogen.</li> <li>Modtagerne skal logge ind for at åbne beskeden og downloade filerne.</li> <li>Der sendes en downloadkvittering med detaljerede oplysninger, hver gang en bruger downloader en fil.</li> </ul>
+    permission_description_only_specified_and_local_html: <ul> <li>Kun angivne modtagere og lokale brugere kan downloade filerne.</li> <li>E-mailen eller URL'en må kun videresendes til lokale brugere.</li> <li>Modtagerne skal logge ind for at downloade filerne.</li> <li>Der sendes en downloadkvittering med detaljerede oplysninger, hver gang en bruger downloader en fil.</li> </ul>
+    permission_description_only_specified_and_domains_html: <ul> <li>Kun angivne modtagere og brugere i samme e-maildomæne har adgang.</li> <li>Hvis du sender til direktor@partner.dk, kan sekretaer@partner.dk også åbne beskeden, men ikke nysgerrig@konkurrent.dk.</li> <li>Modtagerne skal logge ind for at downloade filerne.</li> <li>Der sendes en downloadkvittering med detaljerede oplysninger, hver gang en bruger downloader en fil.</li> </ul>
+    permission_description_anyone_after_authentication_html: <ul> <li>Alle, der har den hemmelige, tilfældige URL, kan downloade filerne.</li> <li>E-mailen eller URL'en kan videresendes til hvem som helst.</li> <li>Modtagerne skal logge ind for at downloade filerne.</li> <li>Der sendes en downloadkvittering med detaljerede oplysninger, hver gang en bruger downloader en fil.</li> </ul>
+    permission_description_anyone_html: <ul> <li>Alle, der har den hemmelige, tilfældige URL, kan downloade filerne.</li> <li>E-mailen eller URL'en kan videresendes til hvem som helst.</li> <li>Login er <strong>ikke</strong> påkrævet for at downloade filerne.</li> <li>Der sendes en <strong>simpel</strong> downloadkvittering ved første download af en hvilken som helst person (godkendelse er påkrævet for at vide, hvem der downloadede hvad).</li> </ul>
+    your_message_has_been_sent: Din besked er sendt
+    you_can_send_to_anyone: "(Du kan sende dette link til hvem som helst)"
+    send_more_files: Send flere filer
+    download_speed: Downloadhastighed
+    download_time: Downloadtid
+    at_least_one_invalid_email: Mindst én ugyldig e-mailadresse
+    reply: Modtageren kan svare
+    private_message: Privat besked
+    private_message_description_html: Ved en privat besked sendes beskedteksten ikke med i e-mailen til modtageren – den vises først, når modtageren klikker på linket i e-mailen og godkender sig. <ul> <li>Du kan sende en privat besked uden vedhæftede filer.</li> <li>Du får en adgangsbekræftelse, når nogen har læst din besked.</li> <li>Du kan ikke sende en privat besked med downloadtilladelsen "Alle kan downloade".</li> </ul>
+    private_message_delivered_description: Beskeden er sendt som en privat besked. Beskedteksten er ikke med i e-mailen, og du får en adgangsbekræftelse, når hver modtager har læst beskeden.
+    access_info: Adgangsoplysninger
+    access_details: Adgangsdetaljer
+    validation_code: Bekræftelseskode
+    expired_token_inline: E-mailgodkendelsen er udløbet, prøv igen.
+    invalid_token: Ugyldig eller udløbet kode. Klik på linket i den oprindelige e-mail for at bekræfte din e-mailadresse igen.
+    download_zip: Download ZIP
+    zip_ready_for_download: ZIP klar til download
+    processing_zip: Behandler ZIP-arkiv
+    drop_file_here: Slip filen her
+    drop_files_here: Slip filer her
+    drop_files_and_folders_here: Slip filer og mapper her
+    select_pool_files: Vælg poolfiler
+    add_pool_files: Tilføj poolfiler
+    invalid_validation_token: Dette er ikke en gyldig bekræftelseskode.
+    not_the_validation_token: Det er besked-id'et, ikke bekræftelseskoden. Indtast bekræftelseskoden.
+    no_messages_in_inbox: Ingen beskeder i indbakken.
+    filename_already_selected: Der er allerede føjet en fil med dette navn til beskeden
+    filesize_exceeded: Maks. beskedstørrelse er overskredet
+    infected_with: Inficeret med virus
+    not_permitted_to_download_content_blocked: "Det er ikke tilladt at downloade filen. Virusscanningen fandt: %{virus}"
+    invalid_email_address: Ugyldig e-mailadresse
+    cant_create_folder: Mappen kan ikke oprettes
+    cant_check_folder: Mappen kan ikke kontrolleres
+    cant_restore_folder: Mappen kan ikke gendannes
+    cant_check_chunks: Delene kan ikke kontrolleres
+    zip_not_include_all_files: Ikke alle filer kan downloades – ZIP-arkivet indeholder kun de filer, der kan downloades.
+    paste_tip: Tip! Indsæt med Ctrl+Skift+V for at fjerne formateringen.
+  session:
+    api:
+      authentication_error: Godkendelsesfejl, prøv igen.
+      not_local_user: Ugyldig e-mailadresse. Kun lokale brugere kan bruge denne funktion.
+      show:
+        login: Log ind
+        login_label: E-mailadresse
+        password: Adgangskode
+        sso_login: SSO-login
+        authentication_title: Log ind
+        authentication_description: Indtast din e-mailadresse, eller log ind for at fortsætte.
+      authenticated:
+        authentication_successful: Godkendelsen lykkedes
+    authenticate:
+      login: Log ind for at fortsætte
+      description_html: Du skal logge ind for at åbne denne side. Indtast din e-mailadresse, eller log ind for at fortsætte.<br>Hvis du ikke har en konto på systemet, skal du indtaste din e-mailadresse, så sender vi en midlertidig adgangskode til dig via e-mail.
+      unauthorized: Du har ikke tilladelse til at se beskeden. Indtast din e-mailadresse præcis, som beskeden blev sendt til dig, eller kontakt afsenderen.
+    email:
+      validate_email: Bekræft din e-mailadresse
+      validate_email_description_html: "Der er sendt en sikkerhedskode til din e-mailadresse: <strong>%{email}</strong>. Klik på linket, eller indtast sikkerhedskoden her for at bekræfte din e-mailadresse og fortsætte."
+      session_expired: Sessionen er udløbet, indtast din e-mailadresse igen for at fortsætte
+      token_expired: Godkendelseslinket i e-mailen er udløbet, prøv igen.
+      already_authenticated: Du er allerede logget ind i denne browser.
+      resend_validation_email: Send bekræftelsesmail igen
+      verify: Bekræft
+      validate_email_sent: "Der er sendt en ny bekræftelsesmail kl. %{time}. Klik på linket i e-mailen, eller indtast sikkerhedskoden nedenfor for at bekræfte din e-mailadresse."
+      invalid_temporary_user: Ugyldig sikkerhedskode. Tjek din e-mail – der er sendt en ny sikkerhedskode til din indbakke.
+      create_account: Opret konto
+      create_account_description: Opret en konto på systemet, så du kan logge ind med din e-mailadresse og adgangskode i stedet for med en sikkerhedskode.
+      invalid_email: Ugyldig e-mailadresse
+    login_limit_exceeded:
+      delivered:
+        page_header: Grænsen for login er overskredet
+        description: Du har forsøgt at logge ind for mange gange. For at fortsætte skal du nulstille din adgangskode.
+        email: Der er sendt en e-mail med et link til nulstilling af din adgangskode.
+      waiting:
+        page_header: Grænsen for login er overskredet
+        description: "Du har forsøgt at logge ind for mange gange. Bemærk: Du skal logge ind med din netværksadgangskode. Hvis du skal nulstille denne adgangskode og ikke ved hvordan, skal du kontakte en netværksadministrator. Når ventetiden er gået, kan du genindlæse siden for at nulstille grænsen."
+        expiration_time: Ventetid
+        reload: Genindlæs
+      show:
+        page_header: Grænsen for login er overskredet
+        description: Du har forsøgt at logge ind for mange gange. Du kan nulstille grænsen for login og logge ind igen. Der er sendt en e-mail til dig til nulstilling af grænsen.
+      reset:
+        login_limit_reset: Grænsen for login er nulstillet
+    shared:
+      authentication_successful: Godkendelsen lykkedes
+    outlook:
+      edit:
+        authentication_title: Godkend
+        authentication_description: Log ind for at fortsætte
+        login: Log ind
+        login_label: E-mailadresse
+        password: Adgangskode
+        sso_login: SSO-login
+      show:
+        authentication_title: Godkend
+        authentication_description: Log ind for at vedhæfte sikre filer.
+        authenticate: Godkend
+    saml:
+      not_configured:
+        title: SAML er ikke konfigureret
+        description: SAML er ikke konfigureret på systemet. Hvis du mener, at dette er en fejl, skal du kontakte support, så de kan undersøge sagen.
+        support_button: Kontakt support
+      api:
+        local:
+          title: SAML-godkendelse
+          description: SAML-godkendelsen er åbnet i din standardbrowser – fortsæt med at logge ind der. Hvis du ikke kan finde vinduet, eller det af en eller anden grund ikke virker, kan du fortsætte ved at klikke på knappen nedenfor.
+          button_label: SSO-login
+      response:
+        api_error:
+          authentication_error: Godkendelsen mislykkedes
+          saml_authentication_error: SSO-godkendelsen mislykkedes
+          saml_authentication_error_description: SSO-godkendelsen mislykkedes. Kontakt administratoren, hvis problemet fortsætter.
+        api_disabled:
+          api_disabled: Uautoriseret brugergruppe
+          api_disabled_description: Din konto har ikke adgang til denne funktion (API deaktiveret). Kontakt en administrator, og bed vedkommende om at flytte din konto til en anden gruppe.
+        api_response:
+          authentication_successful: Godkendelsen lykkedes
+        create:
+          could_not_create_account: Kontoen kunne ikke oprettes. Kontakt en administrator for at få flere oplysninger.
+        show:
+          could_not_create_account: Kontoen kunne ikke oprettes. Kontakt en administrator for at få flere oplysninger.
+    temporary_user:
+      validate_email: Bekræft din e-mailadresse
+      validate_email_description_html: "Der er sendt en midlertidig adgangskode til din e-mailadresse: <strong>%{email}</strong>. Klik på linket, eller indtast den midlertidige adgangskode her for at bekræfte din e-mailadresse og fortsætte."
+      session_expired: Sessionen er udløbet, indtast din e-mailadresse igen for at fortsætte
+      token_expired: Godkendelseslinket i e-mailen er udløbet, prøv igen.
+      already_authenticated: Du er allerede logget ind i denne browser.
+      resend_validation_email: Send bekræftelsesmail igen
+      verify: Bekræft
+      validate_email_sent: "Der er sendt en ny bekræftelsesmail kl. %{time}. Klik på linket i e-mailen, eller indtast adgangskoden nedenfor for at bekræfte din e-mailadresse."
+      invalid_temporary_user: Ugyldig adgangskode. Tjek din e-mail – den midlertidige adgangskode er sendt til din indbakke igen.
+      temporary_user_expired: Den midlertidige adgangskode er udløbet. Tjek din e-mail – der er sendt en ny midlertidig adgangskode til din indbakke.
+      create_account: Opret konto
+      create_account_description: Opret en permanent konto på systemet, så du kan logge ind med din e-mailadresse og adgangskode i stedet for med en midlertidig brugerkonto.
+  shared:
+    show: Vis
+    reify: Gendan
+    download: Download
+    restore: Gendan
+    delete: Slet
+    trash: Papirkurv
+    cancel: Annuller
+    close: Luk
+    current: Aktuel
+    bootstrap_confirm_dialog:
+      confirm_action: Bekræft handling
+    shares:
+      bootstrap_confirm_dialog:
+        confirm_action: Bekræft handling
+      navigation:
+        files: Filer
+        activity_log: Aktivitetslog
+      wrap_content:
+        activity_log: Aktivitetslog
+    error_messages:
+      prohibited_this_from_being_saved: forhindrede, at %{target} blev gemt
+  share:
+    share: Share
+    shares: Shares
+    no_shares: Ingen tilgængelige Shares
+    name: Navn
+    folder_name: Mappenavn
+    share_not_found: Share blev ikke fundet
+    folder_not_found: Mappen blev ikke fundet
+    file_not_found: Filen blev ikke fundet
+    no_read_access: Ikke autoriseret til at åbne denne Share
+    no_write_access: Ingen skriveadgang til denne Share
+    not_authorized_to_view_logs: Ikke autoriseret til at se logfiler
+    require_authentication: Denne Share kræver godkendelse. Indtast adgangskoden for at fortsætte.
+    authenticate: Godkend
+    authentication_failed: Godkendelsen mislykkedes
+  shares:
+    folders:
+      are_you_sure_you_want_to_delete: Er du sikker på, at du vil slette denne mappe?
+      are_you_sure_you_want_to_trash: Er du sikker på, at du vil slette denne mappe permanent?
+      folder_name_already_taken: Mappenavnet er allerede i brug!
+      folder_not_found: Mappen blev ikke fundet
+      could_not_create_folder: "Mappen kunne ikke oprettes: %{error}"
+      zip_no_files: Der er ingen filer at føje til ZIP-arkivet
+      windows_path_warning:
+        title: Begrænsning af stilængde i Windows
+        description_html: <strong>Windows-brugere:</strong> Windows begrænser filstier til 259 tegn. Når du uploader mapper fra placeringer med lange stier, kan filer dybt nede i mappestrukturen blive udeladt uden varsel, hvilket kan give ufuldstændige uploads eller dublerede mapper.
+        workarounds_title: Anbefalede løsninger
+        workarounds_html: "<li><strong>Brug et virtuelt drev:</strong> Åbn kommandoprompten, og kør: <code>subst X: \"C:\\din\\lange\\sti\\til\\mappen\"</code><br>Upload derefter fra det virtuelle drev <code>X:\\</code></li><li><strong>Gå tættere på filerne:</strong> Gå til en undermappe tættere på dine filer, før du vælger den mappe, der skal uploades</li><li><strong>Brug en kortere sti:</strong> Kopiér dine filer til en kortere placering som <code>C:\\uploads\\</code>, før du uploader</li><li><strong>Zip mappen først:</strong> Komprimer mappen til en ZIP-fil, og upload i stedet ZIP-filen</li>"
+        advanced_title: "Avanceret: Aktivér lange stier i Windows 10/11"
+        advanced_description_html: Fra og med Windows 10 version 1607 kan du aktivere understøttelse af længere stier. <strong>Bemærk:</strong> Det kræver administratorrettigheder og virker muligvis ikke i alle browsere. Løsningerne ovenfor er mere pålidelige.
+        registry_steps_title: Trin til aktivering af lange stier
+        registry_steps_html: "<li>Tryk på <kbd>Win + R</kbd>, skriv <code>regedit</code>, og tryk på Enter</li><li>Gå til: <code>HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\FileSystem</code></li><li>Find eller opret en DWORD-værdi med navnet <code>LongPathsEnabled</code>, og sæt den til <code>1</code></li><li>Genstart computeren, så ændringen træder i kraft</li><li>Test uploadet igen (understøttelsen kan variere fra browser til browser)</li>"
+        browser_disclaimer_html: "<strong>Vigtigt:</strong> Selv med denne registreringsindstilling aktiveret varierer understøttelsen af lange stier fra browser til browser. Chrome, Edge og Firefox kan stadig håndhæve grænsen på 259 tegn. Løsningerne ovenfor er mere pålidelige."
+      folder:
+        rename_folder: Omdøb mappe
+        move_folder_description: Flyt mappen %{foldername} til den mappe, der er valgt nedenfor
+        move_folder: Flyt mappe
+      action_bar:
+        download_as_zip: Download som ZIP
+        download_as_zip_with_deleted: Download som ZIP, inklusive slettede filer
+        toggle_deleted_view: Vis/skjul slettede filer
+        filter: Filter
+        upload_file: Upload filer
+        upload_folder: Upload mappe
+        create_folder: Opret mappe
+        windows_path_warning: Advarsel om stilængde
+        upload_folder_unsupported: Upload af mapper understøttes ikke
+        upload_folder_unsupported_description: Desværre understøtter din browser ikke upload af mapper. Brug desktopversionen af Chrome eller Safari til at uploade en mappestruktur.
+        showing_deleted: Viser %{number_of} slettede
+        hiding_deleted: Skjuler %{number_of} slettede
+        actions: Handlinger
+        move_selected: Flyt valgte
+        trash_selected: Flyt valgte til papirkurven
+        delete_selected: Slet valgte
+      action_bar_below:
+        send_notifications: Send meddelelser
+        sending_notifications: Sender meddelelser
+        quota: Kvote
+        used_of: brugt af
+        available: tilgængelig
+        quota_exceeded: Kvoten er overskredet
+      create_folder_modal:
+        create_folder: Opret mappe
+        create: Opret
+      files:
+        are_you_sure_you_want_to_delete: Er du sikker på, at du vil slette denne fil?
+        are_you_sure_you_want_to_trash: Er du sikker på, at du vil slette denne fil permanent?
+        file_not_found: Filen blev ikke fundet
+        file:
+          rename_file: Omdøb fil
+          move_file: Flyt
+          move_file_description: Flyt filen %{filename} til den mappe, der er valgt nedenfor
+        show:
+          prev: Forrige
+          up: Op
+          next: Næste
+          last_updated: Senest opdateret
+          versions: Versioner
+          show_all: Vis alle
+          version_from: Version fra
+          next_version: Næste version
+          previous_version: Forrige version
+          current_version: Aktuel version
+          pdf_preview_not_supported: Visning af PDF-filer understøttes ikke i din browser
+        available_chunks:
+          available: Der findes delvise uploads af følgende filer
+          resume_replace: Vil du genoptage uploadet eller erstatte filerne?
+      quota:
+        quota: Kvote
+        used_of: brugt af
+        available: tilgængelig
+        quota_exceeded: Kvoten er overskredet
+      move_file_folder_modal:
+        move_folder: Flyt mappe
+        move_file: Flyt fil
+        move: Flyt
+      show:
+        select_all: Vælg/fravælg alle
+    logs:
+      action_bar:
+        activity_log: Aktivitetslog
+      message:
+        created: Oprettet
+        uploaded: Uploadet
+        downloaded: Downloadet
+        reified: Gendannet
+        removed: Fjernet
+        restored: Gendannet
+        deleted: Slettet
+        moved: Flyttet
+        renamed: Omdøbt
+        added: Tilføjet
+        viewed: Vist
+        infected: Inficeret
+        trashed: Flyttet til papirkurven
+        deleted_user: "(Slettet bruger)"
+        share: Share
+        folder: Mappe
+        file: Fil
+        group: Gruppe
+        user: Bruger
+        read: Læse
+        read/write: Læse/skrive
+        av_scanner: Virusscanner
+        version_from: Version fra
+        file_deleted: Filen er slettet
+        to: til
+        from: fra
+        unknown: Ukendt
+        other: Andet
+  share/log:
+    message:
+      you: Du
+      share: Share
+      folder: mappe
+      file: fil
+      user: bruger
+      version_from: version fra
+      read: læse
+      read/write: læse/skrive
+      created: oprettede
+      added: tilføjede
+      uploaded: uploadede
+      downloaded: downloadede
+      updated: opdaterede
+      restored: gendannede
+      reified: gendannede
+      deleted: slettede
+      removed: slettede permanent
+      trashed: flyttede til papirkurven
+      renamed: omdøbte
+      viewed: viste
+      infected: inficeret
+      av_scanner: Virusscanner
+      file_deleted: Filen er slettet
+  sms_auth:
+    login_failed: Login mislykkedes
+    sms_error: Fejl i sms-konfigurationen, kontakt systemadministratoren
+    verify_token: Bekræft sms-kode
+    verify_token_description: "Indtast koden, der er sendt til din mobiltelefon:"
+    sms_login_failed: Sms-bekræftelsen mislykkedes, der er sendt en ny sms-kode
+    sms_signup: Tilmelding til totrinsgodkendelse via sms
+    sms_signup_failed: Totrinsgodkendelse via sms mislykkedes
+    sms_signup_description: For at fortsætte skal du tilmelde dig totrinsgodkendelse via sms. Indtast dit telefonnummer nedenfor for at fortsætte.
+    verify: Bekræft
+    resend: Send kode igen
+    code: Kode
+    token_resent: Sms-kode sendt igen kl. %{time}
+    send_token: Send bekræftelseskode
+    phone_number: Telefonnummer
+    invalid_phone_number: Ugyldigt telefonnummer, prøv igen.
+    change_phone_number: Skift telefonnummer
+    phone_number_help: Indtast dit telefonnummer med landekode og uden foranstillede nuller (f.eks. 4520123456). Der sendes en bekræftelseskode til dette nummer.
+    one-time-code: Engangskode
+  strong_auth:
+    two_factor_authentication: Totrinsgodkendelse
+    enable_2fa: Aktivér totrinsgodkendelse
+    disable_2fa: Deaktiver totrinsgodkendelse
+    title: Aktivér totrinsgodkendelse
+    enable_2fa_description: Du kan aktivere stærk totrinsgodkendelse for at øge sikkerheden på din konto.
+    require_description: For at bruge systemet skal du konfigurere totrinsgodkendelse.
+    disable_description: Indtast den aktuelle kode for at deaktivere totrinsgodkendelse
+    two_factor_auth_disabled: Totrinsgodkendelse deaktiveret
+    step1: "Trin 1: Download godkendelsesappen"
+    step1_description: Aktivér totrinsgodkendelse, typisk med en mobilapp.
+    totp_apps_description_html: Eksempler på godkendelsesapps er <a href="https://authy.com" target="_blank" rel="external nofollow noopener noreferrer">Authy</a> (flere platforme) og Google Authenticator (iOS/Android). Se <a href="https://docs.liquidfiles.com/authentication/totp.html#clients" target="_blank">TOTP Clients</a> for flere muligheder.
+    step2: "Trin 2: Konfigurer godkendelsesappen"
+    step2_description: Konfigurer din godkendelsesapp ved at scanne QR-koden.
+    step2_alt: Eller indtast følgende kode
+    step3: "Trin 3: Bekræft"
+    step3_description: Bekræft din konfiguration ved at indtaste den kode, som godkendelsesappen genererer.
+    failed_to_authenticate: Godkendelsen mislykkedes, prøv igen.
+    click_on_link: Du kan også klikke på følgende link for at føje konfigurationen til din app til totrinsgodkendelse
+    configure: Konfigurer totrinsgodkendelse
+    success_saved: Udført, konfigurationen af totrinsgodkendelse er gemt
+    verify_token: Bekræft totrinsgodkendelse
+    verify_token_description: Indtast koden til totrinsgodkendelse fra din mobilapp.
+    verify: Bekræft
+    two_factor_login_failed: Totrinsgodkendelse mislykkedes
+    two_factor_validation_failed: Bekræftelse af totrinsgodkendelse mislykkedes
+    skip_2fa_for_two_weeks: Spring totrinsgodkendelse over i denne browser i to uger
+    one-time-code: Engangskode
+  support:
+    email_subject: Jeg har brug for hjælp til
+    email_body: Beskriv dit problem så detaljeret som muligt. Tak.
+    navbar_tooltip: Hvis du har brug for hjælp til at få adgang til eller bruge systemet, skal du klikke på dette link, så hjælper vi dig gerne.
+  user:
+    includes_at_least_one_invalid_email_address: indeholder mindst én ugyldig e-mailadresse
+    confirm:
+      invalid_session: Ugyldig session
+      already_validated: Din e-mailadresse er allerede bekræftet
+      invalid_token: Ugyldig kode. Prøv igen, eller klik på Send bekræftelsesmail igen.
+      validation_email_sent: "Bekræftelsesmail sendt kl. %{time}"
+      activated_successfully: Aktiveret
+      validate_email_description: Tjek din e-mail, og indtast den midlertidige adgangskode for at bekræfte din e-mailadresse.
+    register:
+      already_registered: Kontoen er allerede registreret, log ind for at fortsætte
+      already_registered_not_validated: Din konto er allerede registreret, men din e-mailadresse skal bekræftes. Der er sendt en e-mail med en tilfældig kode til dig. Indtast koden nedenfor, eller klik på linket i e-mailen for at bekræfte din konto.
+      show:
+        register: Registrer en konto
+        description_html: <p>Indtast dine oplysninger for at oprette en konto. Med kontoen kan du sende store filer sikkert til %{branding_name}.</p>
+    signup:
+      create:
+        need_password: Du skal indtaste en adgangskode
+        need_name: Du skal indtaste et navn
+    create:
+      show:
+        cancel_and_remember: Annuller, og spørg ikke igen
+        cancel_and_remember_title: Dette huskes i din nuværende browser
+  validator:
+    required: Feltet er obligatorisk.
+    remote: Ret dette felt.
+    email: Indtast en gyldig e-mailadresse.
+    url: Indtast en gyldig URL.
+    date: Indtast en gyldig dato.
+    dateISO: Indtast en gyldig dato (ISO).
+    number: Indtast et gyldigt tal.
+    digits: Indtast kun cifre.
+    creditcard: Indtast et gyldigt kreditkortnummer.
+    equalTo: Indtast den samme værdi igen.
+    accept: Indtast en værdi med et gyldigt filtypenavn.
+    maxlength: Indtast højst {0} tegn.
+    minlength: Indtast mindst {0} tegn.
+    rangelength: Indtast en værdi på mellem {0} og {1} tegn.
+    range: Indtast en værdi mellem {0} og {1}.
+    max: Indtast en værdi, der er mindre end eller lig med {0}.
+    min: Indtast en værdi, der er større end eller lig med {0}.
+    step: Indtast et multiplum af {0}.
+    invalid_phone_number: Ugyldigt telefonnummer
+  locale: Dansk

@@ -1,0 +1,1569 @@
+sl:
+  s: s
+  min: min
+  hours: Ure
+  days: Dnevi
+  weeks: Tedni
+  months: Meseci
+  years: Leta
+  ago: nazaj
+  email: E-pošta
+  save: Shrani
+  delete: Izbriši
+  cancel: Prekliči
+  remove: Odstrani
+  aborting: Prekinjanje
+  aborted: Prekinjeno
+  saved_successfully: Uspešno shranjeno
+  logout: Odjava
+  error: Napaka
+  enabled: Omogočeno
+  disabled: Onemogočeno
+  disable: Onemogoči
+  default: Privzeto
+  submit: Pošlji
+  session_expired: Seja je potekla
+  search: Iskanje
+  filter: Filter
+  recipient: Prejemnik
+  recipients: Prejemniki
+  downloaded_by: Prenesel
+  filename: Ime datoteke
+  size: Velikost
+  downloaded: Preneseno
+  host: Gostitelj
+  ip: Naslov IP
+  action: Dejanje
+  view_message: Prikaži sporočilo
+  view_message_popup: Prikaži sporočilo (pojavno okno)
+  download_info: Podatki o prenosu
+  message_id: ID sporočila
+  filelink_id: ID FileLinka
+  sent_at: Poslano
+  id: ID
+  subject: Zadeva
+  expires: Poteče
+  invalid_method: Neveljavna metoda
+  export_csv: Izvozi CSV
+  export_all: Izvozi vse
+  export_visible: Izvozi vidne
+  temporarily_unavailable: Začasno nedosegljivo
+  generic_search_error: Splošna napaka iskanja
+  sender: Pošiljatelj
+  search_temporary_disabled: Iskanje je začasno onemogočeno
+  help: Pomoč
+  close: Zapri
+  count: Število
+  settings: Nastavitve računa
+  virus: Virus
+  virus_status: Stanje protivirusnega pregleda
+  infected: Okuženo
+  clean: Čisto
+  not_scanned: Ni pregledano
+  not_yet_scanned: Še ni pregledano
+  csrf_error: "CSRF: zaznani neveljavni parametri. Za nadaljevanje se znova prijavite."
+  could_not_be_saved: Shranjevanje ni uspelo
+  label: Oznaka
+  updated: Posodobljeno
+  add: Dodaj
+  system_info: Podatki o sistemu
+  location: Lokacija
+  accept: Sprejmi
+  last_7_days: Zadnjih 7 dni
+  last_30_days: Zadnjih 30 dni
+  last_60_days: Zadnjih 60 dni
+  last_90_days: Zadnjih 90 dni
+  last_180_days: Zadnjih 180 dni
+  last_365_days: Zadnjih 365 dni
+  file: Datoteka
+  files: Datoteke
+  next: Naprej
+  previous: Nazaj
+  name: Ime
+  view: Prikaži
+  forget: Pozabi
+  update: Posodobi
+  updated_at: Posodobljeno
+  created_at: Ustvarjeno
+  download_link_expired: Povezava za prenos je potekla.
+  no_html5_upload_warning: Za nalaganje datotek potrebujete sodoben brskalnik, združljiv s HTML5. Microsoft Edge, Chrome, Firefox in Safari delujejo odlično.
+  javascript_warning: Za pošiljanje datotek in uporabo večine funkcij je potreben JavaScript.
+  cookie_accept: To spletno mesto uporablja piškotke. S prijavo ali klikom na »Sprejmi« se strinjate z uporabo piškotkov.
+  i_agree: Strinjam se
+  session_timeout: Seja je potekla, znova se prijavite
+  loading: Nalaganje ...
+  unsupported_browser_header: Nepodprt brskalnik
+  unsupported_browser_description_html: Vaš brskalnik ni podprt, zato to spletno mesto verjetno ne bo delovalo po pričakovanjih. Uporabite novejši brskalnik.
+  not_logged_in_invalid_parameters: Niste prijavljeni, neveljavni parametri
+  toggle_dropdown: Prikaži/skrij meni
+  rejected: Zavrnjeno
+  undetected: Ni zaznano
+  invalid_link: Neveljavna povezava, obrnite se na pošiljatelja
+  account_settings_tooltip: Nastavitve računa
+  logout_tooltip: Odjava
+  download_id: ID prenosa
+  remote_host: Oddaljeni gostitelj
+  show: Prikaži
+  hide: Skrij
+  password: Geslo
+  download: Prenesi
+  unauthorized: Nepooblaščeno
+  account:
+    login: Prijava
+    login_label: E-poštni naslov
+    email: E-poštni naslov
+    password: Geslo
+    current_password: Trenutno geslo
+    please_enter_your_current_password: Vnesite trenutno geslo
+    sign_in: Prijava
+    remember_me: Zapomni si me
+    not_administrator: Niste skrbnik
+    password_reset: Ponastavitev gesla
+    register: Registracija
+    register_description_html: Hvala! Za nadaljevanje vnesite svoje podatke in ustvarite račun.<br>Naslednjič se lahko prijavite z e-poštnim naslovom in geslom.
+    account_not_activated: Račun ni aktiviran. Pred prijavo aktivirajte račun. Poslali smo vam e-poštno sporočilo z naključno kodo. Vnesite kodo spodaj ali kliknite povezavo v e-poštnem sporočilu, da potrdite račun.
+    incorrect_user_or_pw: Napačno uporabniško ime ali geslo
+    confirmation_email_sent: Potrditveno sporočilo poslano
+    activated_successfully: Uspešno aktivirano
+    not_activated: Račun ni aktiviran
+    password_reset_email_sent: Sporočilo za ponastavitev gesla poslano
+    no_such_user: Uporabnik ne obstaja
+    no_such_email: E-poštnega naslova ni mogoče najti
+    not_logged_in: Niste prijavljeni. Za nadaljevanje se prijavite.
+    saved_successfully: Uspešno shranjeno
+    unlicensed_install_some_settings: "Nelicencirana namestitev: možnosti blagovne znamke vidijo samo sistemski skrbniki"
+    incorrect_login_or_demo: Napačno uporabniško ime ali geslo ali pa je dosežena omejitev licence
+    incorrect_login_or_ldap: Napačno uporabniško ime ali geslo ali napaka strežnika LDAP
+    invalid_api_key: Neveljaven ključ API
+    cant_delete_last_sysadmin: Zadnjega sistemskega skrbnika ni mogoče izbrisati
+    cant_change_last_sysadmin: Zadnjega sistemskega skrbnika ni mogoče spremeniti
+    sso_login: Prijava SSO
+    invalid_sso_response: Neveljaven odgovor SSO
+    automatic: Samodejno zaznano
+    network_access_blocked: Dostop do tega sistema iz vašega omrežja ni dovoljen.
+    please_login: Za odpiranje te strani se prijavite.
+    email_validation_session_timeout: Seja je potekla, znova potrdite svoj e-poštni naslov.
+    signature: Podpis
+    not_authorized_for_action: Za to dejanje nimate dovoljenja
+    invalid_group: Neveljavna skupina. Obrnite se na skrbnika, ki lahko vaš račun premakne v skupino lokalnih uporabnikov
+    invalid_group_configuration: Neveljavna konfiguracija skupine. Obrnite se na skrbnika, ki vam lahko ustvari račun ali prilagodi konfiguracijo skupine.
+    please_enter_email_to_email_password: Za ponastavitev gesla vnesite svoj e-poštni naslov. Na ta naslov bo poslano potrditveno sporočilo.
+    password_reset_successfully: Geslo je bilo uspešno ponastavljeno
+    password_cant_be_empty: Geslo ne sme biti prazno
+    password_complexity_title: Zapletenost gesla
+    password_complexity_description_html: "<p>Vaše geslo <strong>ne sme temeljiti na slovarski besedi</strong> in mora izpolnjevati vsaj 3 od naslednjih zahtev:</p><ul><li>Vsaj 8 znakov</li><li>Vsaj 11 znakov</li><li>Vsaj 15 znakov</li><li>Vsaj 1 mala in 1 velika črka</li><li>Vsaj 1 števka (0-9)</li><li>Vsaj eden od naslednjih znakov: !,@,#,$,%,^,&amp;,*,?,_,~,-,(,)</li></ul>"
+    is_not_strong_enough: ni dovolj močno
+    your_password_has_expired: Vaše geslo je poteklo
+    please_select_a_different_password: Izberite geslo, ki se razlikuje od prejšnjega
+    change_password: Spremeni geslo
+    account_not_found: Računa ni mogoče najti. Znova se prijavite.
+    user_required_to_use_saml: Gesla ni mogoče ponastaviti, prijavite se prek SAML
+    sysadmin_ldap_error: Ta račun se preverja prek LDAP in ga tukaj ni mogoče ponastaviti
+    login_limit_exceeded: Presežena omejitev prijav
+    a_confirmation_email_will_be_sent: Na ta naslov bo poslano potrditveno sporočilo
+    name: Ime
+    password_confirm: Potrditev gesla
+    save: Shrani
+    can_not_reset_password_please_check_with_your_administrator: Gesla ni mogoče ponastaviti, obrnite se na skrbnika
+    no_need_to_register_user: Registracija ni potrebna. Prijavite se z obstoječim računom.
+    registration_not_allowed: Registracija ni dovoljena
+    create_description: Ustvarite račun tako, da vnesete svoje ime in geslo.
+    activated_successfully_please_login: Račun je bil uspešno aktiviran. Zdaj se lahko prijavite z e-poštnim naslovom in geslom.
+    invalid_activation_url: Neveljavna povezava za aktivacijo. Preverite povezavo in poskusite znova.
+    already_logged_in: Že ste prijavljeni. Novega računa ni mogoče registrirati.
+    bruteforce_message: Presegli ste število neuspešnih poskusov. Poskusite znova čez %{minutes} min.
+    admin_access_blocked: Skrbniški dostop z vašega naslova IP ni dovoljen.
+    account_created_successfully: Račun je bil uspešno ustvarjen
+    create_account: Ustvari račun
+    create_account_description: Za ustvarjanje računa posodobite svoje podatke.
+    account_settings: Nastavitve računa
+    change_language: Spremeni jezik in časovni pas
+    filedrop_label: Filedrop (naključno)
+    filedrop_email_label: Filedrop
+    verify_account: Preverjanje računa
+    invalid_sso_signature: Neveljaven podpis ali prijava SSO
+    user_not_found: Uporabnika ni mogoče najti
+    could_not_create_account: Računa ni bilo mogoče ustvariti
+    two_factor_authentication_failed: Dvostopenjsko preverjanje Duo ni uspelo
+    copy_to_clipboard: Kopiraj v odložišče
+    copy_url_to_clipboard: Kopiraj URL v odložišče
+    delete_user_warning: Ali res želite izbrisati tega uporabnika?
+    unauthorized_to_login: Nimate dovoljenja za prijavo
+    first_time_message_title: Dobrodošli v LiquidFiles
+    first_time_message: <p>Dobrodošli v LiquidFiles – najpreprostejšem načinu za varno pošiljanje velikih datotek.</p><p>Osnovne funkcije delujejo enako kot spletna pošta.</p><p>To sporočilo bo prikazano samo enkrat. Če se kje zataknete ali želite odkriti naprednejše funkcije, kliknite gumb »Pomoč« v zgornjem desnem kotu menijske vrstice.</p>
+    first_time_message_button: Razumem!
+    registration_failed_unknown_error: Registracija ni uspela zaradi neznane napake
+    session_timeout: Seja je potekla
+    nothing_filled_in: Izpolnite obrazec
+    last_used: Nazadnje uporabljeno
+    strong_auth_required_before_password_reset: Za ponastavitev gesla tega računa je potrebno močno dvostopenjsko preverjanje.
+    unfriendly_registration_message: Če se s tem e-poštnim naslovom lahko registrirate v sistemu, boste prejeli e-poštno sporočilo. Če ga ne prejmete, uporabite povezavo do podpore zgoraj.
+    unfriendly_password_reset_message: Če je račun s tem e-poštnim naslovom mogoče ponastaviti, boste prejeli e-poštno sporočilo. Če ga ne prejmete, uporabite povezavo do podpore zgoraj.
+    aliases:
+      aliases: Vzdevki
+      aliases_description: Računu lahko dodate vzdevke pošiljatelja in prejemnika. Vzdevek pošiljatelja vam omogoča pošiljanje sporočil v imenu tega e-poštnega naslova. Vzdevek prejemnika vam omogoča ogled sporočil za ta naslov. Sporočila za vzdevek prejemnika so vidna tudi v vašem nabiralniku varnih sporočil.
+      aliases_no_change_description: Vzdevek pošiljatelja vam omogoča pošiljanje sporočil v imenu tega e-poštnega naslova. Vzdevek prejemnika vam omogoča ogled sporočil za ta naslov. Sporočila za vzdevek prejemnika so vidna tudi v vašem nabiralniku varnih sporočil. Za dodajanje ali spreminjanje vzdevkov se obrnite na skrbnika.
+      recipient_aliases: Vzdevki prejemnika
+      sender_aliases: Vzdevki pošiljatelja
+      add_alias: Dodaj vzdevek
+      remove: Odstrani
+      default_sender_alias: Privzeti vzdevek pošiljatelja
+      default_sender_alias_description: Privzeti vzdevek pošiljatelja.
+      are_you_sure: Ali res želite odstraniti ta vzdevek?
+      no_emails: Dodan ni noben vzdevek.
+      please_contact_an_administrator: Za upravljanje se obrnite na skrbnika
+      auto_added_aliases: Samodejno dodani vzdevki
+      auto_added_aliases_description: Naslednji vzdevki so bili samodejno dodani vašemu profilu. Za upravljanje se obrnite na skrbnika.
+    alias:
+      confirm:
+        show:
+          title: Hvala za potrditev
+          alias_email: E-poštni naslov vzdevka
+          user: Uporabnik
+          recipient_and_sender_confirmation: Zgornji uporabnik lahko zdaj vidi varna sporočila za ta e-poštni naslov in pošilja varna sporočila v njegovem imenu. Če je to napaka, kliknite povezavo do podpore zgoraj.
+          only_recipient_confirmation: Zgornji uporabnik lahko zdaj vidi varna sporočila za ta e-poštni naslov. Če je to napaka, kliknite povezavo do podpore zgoraj.
+          only_sender_confirmation: Zgornji uporabnik lahko zdaj pošilja varna sporočila v imenu tega e-poštnega naslova. Če je to napaka, kliknite povezavo do podpore zgoraj.
+    add_alias_modal:
+      title: Dodaj vzdevek
+      description: Vnesite e-poštni naslov, do katerega želite dostop kot vzdevek prejemnika ali pošiljatelja. Na ta naslov bo za potrditev poslano e-poštno sporočilo.
+      recipient_alias: Vzdevek prejemnika - želim brati sporočila, poslana na ta e-poštni naslov.
+      sender_alias: Vzdevek pošiljatelja - želim pošiljati sporočila v imenu tega e-poštnega naslova.
+      invalid_email: Neveljaven e-poštni naslov
+      add_permission: Izberite vzdevek prejemnika, vzdevek pošiljatelja ali oboje.
+      send_request: Pošlji zahtevo
+      request_has_been_sent: Vaša zahteva je bila poslana.
+    api:
+      api_key: Ključ API
+      api_key_description: Ključ API uporabljajo vtičniki, kot je vtičnik za Outlook, uporabiti pa ga je mogoče tudi za lastne integracije. Potrebujete ga samo, če vas skrbnik prosi zanj.
+      api_key_reset_warning: Ste prepričani? Če ponastavite ključ API, boste morali stari ključ zamenjati povsod, kjer ste ga uporabljali.
+      reset_api_key: Ponastavi ključ API
+    contacts:
+      contacts: Stiki
+      contacts_description: Dodate lahko poljubno število stikov. Vsak stik ima lahko več e-poštnih naslovov, tako da lahko hitro in preprosto pošiljate več prejemnikom hkrati.
+      add_contact: Dodaj stik
+      email_field_help: Seznam e-poštnih naslovov, ločenih z vejicami.
+      contact:
+        edit_label: Uredi oznako
+        edit_email: Uredi e-poštni naslov
+        are_you_sure: Ali res želite izbrisati ta stik?
+    filedrops:
+      filedrops: Filedropi
+      filedrops_description: Ste glavni prejemnik ali prejemnik kopije teh Filedropov. Vse datoteke, poslane prek katerega koli od njih, bodo dostavljene vam.
+      name: Ime
+      title: Naslov
+      recipient: Prejemnik
+      expires_after: Poteče po
+      max_size: Najv. velikost datoteke
+      url: URL
+      main_recipient: Glavni prejemnik
+      cc: Kp
+    personal_filedrop:
+      personal_filedrop: Osebni Filedrop
+      personal_filedrop_description: Osebni Filedrop je preprost način za prejemanje datotek. Povezavo lahko pošljete, objavite na spletnem mestu ali vključite v e-poštni podpis. Ko vam kdo kaj pošlje prek vašega osebnega Filedropa, boste takoj prejeli obvestilo.
+    previous_recipients:
+      previous_recipients: Prejšnji prejemniki
+      previous_recipients_description: Ko pošljete varno sporočilo, se vsak prejemnik doda na ta seznam prejšnjih prejemnikov. Tako lahko hitro znova pošljete istim prejemnikom. Prejemniki, ki jim 180 dni niste ničesar poslali, se s seznama samodejno odstranijo.
+      are_you_sure: Ali res želite izbrisati tega prejšnjega prejemnika?
+    pw_dictionary:
+      based_on_a_dictionary_word: temelji na slovarski besedi
+      based_upon_your_password_entry: temelji na vnesenem geslu
+      derived_from_your_password_entry: je izpeljano iz vnesenega gesla
+      derivable_from_your_password_entry: ga je mogoče izpeljati iz vnesenega gesla
+      way_too_short: je MNOGO prekratko
+      too_short: je prekratko
+      it_does_not_contain_enough_different_characters: ne vsebuje dovolj RAZLIČNIH znakov
+      all_whitespace: vsebuje samo presledke
+      too_simplistic_systematic: je preveč preprosto/sistematično
+      it_looks_like_a_national_insurance_number: je videti kot EMŠO
+      based_on_a_reversed_dictionary_word: temelji na (obrnjeni) slovarski besedi
+    show:
+      basic_settings: Osnovne nastavitve
+      change_password: Spremeni geslo
+      strong_auth: Dvostopenjsko preverjanje
+      aliases: Vzdevki
+      previous_recipients: Prejšnji prejemniki
+      contacts: Stiki
+      personal_filedrop: Osebni Filedrop
+      api: API
+      filedrops: Filedropi
+    sms_disable:
+      disable_sms_otp: Onemogoči dvostopenjsko preverjanje prek SMS
+      disable_sms_otp_description: Če želite onemogočiti dvostopenjsko preverjanje prek SMS, kliknite spodnji gumb. Za potrditev zahteve bo poslana koda SMS.
+      verify_token_description: "Za onemogočenje dvostopenjskega preverjanja prek SMS vnesite kodo, poslano na vaš mobilni telefon:"
+      code: Koda
+      sms_token_failed: Neveljavna koda SMS, dvostopenjskega preverjanja prek SMS ni bilo mogoče onemogočiti
+      sms_otp_has_been_disabled: Dvostopenjsko preverjanje prek SMS je onemogočeno
+    sms_signup:
+      sms_signup_description: Varnost računa lahko izboljšate tako, da omogočite dvostopenjsko preverjanje. Za omogočenje spodaj vnesite svojo telefonsko številko.
+      phone_number: Telefonska številka
+    sms_enable:
+      signup_complete: Dvostopenjsko preverjanje prek SMS je omogočeno
+    terms_of_service:
+      show:
+        title: Pogoji uporabe
+        accept_terms_of_service: Sprejmi pogoje uporabe
+        do_not_accept: Ne sprejmem
+      create:
+        you_need_to_accept: Sprejeti morate pogoje uporabe!
+  activerecord:
+    attributes:
+      attachment:
+        filename: Ime datoteke
+        size: Velikost
+        secure_id: ID priloge
+        content_type: Vrsta vsebine
+        created_at: Ustvarjeno
+        updated_at: Posodobljeno
+      download:
+        recipient: Prejemnik
+        downloaded_at: Preneseno
+        remote_ip: Oddaljeni IP
+        remote_host: Oddaljeni gostitelj
+        created_at: Ustvarjeno
+        updated_at: Posodobljeno
+      filedrop:
+        name: Ime
+        title: Naslov
+        description: Opis
+        blocked_extensions: Blokirane pripone
+        permitted_extensions: Dovoljene vrste datotek
+        expires_after: Poteče po
+        max_filesize: Največja velikost datoteke
+        created_at: Ustvarjeno
+        updated_at: Posodobljeno
+        api_key: Ključ API
+        cc: Kp
+        authorization: Pooblastilo
+      message:
+        recipients: Prejemniki
+        sender: Pošiljatelj
+        cc: Kp
+        bcc: Skp
+        message: Sporočilo
+        subject: Zadeva
+        deleted: Izbrisano
+        authorization: Pooblastilo
+        created_at: Ustvarjeno
+        updated_at: Posodobljeno
+        expires_at: Poteče
+      share/log:
+        created_at: Datum
+      share/file:
+        checksum: Kontrolna vsota (SHA256)
+      share/file/version:
+        whodunnit: Spremenil
+        created_at: Spremenjeno
+      user:
+        name: Ime
+        email: E-poštni naslov
+        quota: Kvota
+        used: Porabljeno
+        max: Najv.
+        password: Geslo
+        ldap_authentication: Preverjanje LDAP
+        api_key: Ključ API
+        level: Raven
+        filedrop: Filedrop
+    models:
+      configuration: Konfiguracija
+      attachment: Priloga
+      filedrop: Filedrop
+      message: Sporočilo
+      user: Uporabnik
+      download: Prenos
+  admin:
+    groups:
+      form:
+        bcc_myself: Pošlji kopijo meni
+        can_change_bcc_myself: Uporabnikom te skupine dovoli spreminjanje nastavitve pošiljanja kopije sebi
+      index:
+        default_group_assignment: Privzeta dodelitev skupine
+    users:
+      users:
+        email: E-poštni naslov
+        name: Ime
+        group: Skupina
+        max: Najv. velikost datoteke
+        quota: Kvota
+        strong_auth: Močno preverjanje
+        filedrop: Filedrop
+        last_login_at: Zadnja prijava
+        last_login_ip: IP zadnje prijave
+        created: Ustvarjeno
+      form:
+        name_label: Ime
+        email: E-poštni naslov
+        password: Geslo
+        password_confirmation: Potrditev gesla
+        max_label: Največja velikost datoteke
+        group: Skupina
+        strong_auth: Močno preverjanje
+        strong_auth_username: Uporabniško ime za močno preverjanje
+        api_key: Ključ API
+        filedrop: Filedrop
+  attachments:
+    not_found: Priloge ni mogoče najti
+  config:
+    settings: Nastavitve
+    email: E-pošta
+    language_preferences_from_your_browser: Jezikovne nastavitve brskalnika
+    authentication: Preverjanje pristnosti
+    time_zone: Časovni pas
+    current_time_zone: Trenutni časovni pas
+    time_zone_from_browser: Časovni pas, ki ga je zaznal brskalnik
+    time_zone_config_description: Če časovni pas pustite na »Samodejno zaznano«, bo uporabljen časovni pas, ki ga zazna brskalnik (vsi časi bodo prikazani v tem pasu). Če brskalnik časovnega pasu ne more zaznati, bo uporabljen privzeti časovni pas sistema. Če brskalnik ne zazna pravilnega časovnega pasu ali želite čase videti v drugem pasu, lahko nastavite določen časovni pas.
+    time_zone_default: Privzeti časovni pas sistema
+    email_settings: Nastavitve e-pošte
+    configuration: Konfiguracija
+    local_domains: Lokalna domena
+    ldap_users: Uporabniki, preverjeni prek LDAP
+    ldap_users_are_always_local: Uporabniki, preverjeni prek LDAP, so vedno lokalni
+    separated_by_comma: ločeno z vejicami
+    default_max_file_size: Privzeta največja velikost datoteke
+    local_users: Lokalni uporabniki
+    external_users: Zunanji uporabniki
+    allow_registration: Dovoli registracijo
+    allow_registration_desc: Dovoli registracijo na strani za prijavo
+    external_user_account: Zunanji prejemniki
+    external_user_account_desc: Zunanji prejemniki morajo ustvariti račun
+    allow_users_to_change_expiration: Uporabnikom dovoli spreminjanje poteka datotek
+    authorization: Dovoljenje
+    authorization_description: Privzeta nastavitev, kdo lahko prenaša datoteke.
+    file_expiration: Potek
+    default_expire_files_after: Datoteke privzeto potečejo po
+    delete_downloaded_files_after: Izbriši prenesene datoteke po
+    branding: Blagovna znamka
+    company_name: Ime podjetja
+    custom_stylesheet: Lastna slogovna predloga
+    custom_javascript: Lasten JavaScript
+    logotype: Logotip
+    leave_blank_for_default: pustite prazno za privzeto vrednost
+    email_configuration: Konfiguracija e-pošte
+    email_sender_address: Naslov pošiljatelja
+    email_host: Osnovni URL e-poštnih sporočil
+    email_footer: Noga e-poštnih sporočil
+    email_relay_host: Posredovalni poštni strežnik
+    email_relay_username: Uporabniško ime posredovalnega strežnika
+    email_relay_password: Geslo posredovalnega strežnika
+    port: Vrata
+    unlicensed_install_some_settings: "Nelicencirana namestitev: nastavitve blagovne znamke vidijo samo sistemski skrbniki"
+    mail_relay_example: "Npr.: mailrelay.domena.si, mx.domena.si:587"
+    ldap: LDAP
+    please_see_the: glejte
+    for_more_information: za več informacij
+    virus_scan: Protivirusni pregled
+    virus_scan_description: Preglej datoteke za viruse
+    blocked_file_extensions: Blokirane pripone datotek
+    default_bcc_myself_label: Pošlji kopijo meni
+    default_bcc_myself: Privzeto pošlji kopijo meni
+    allow_users_to_change_require_login_label: Zahtevaj preverjanje pristnosti
+    allow_users_to_change_require_login: Uporabnikom dovoli spreminjanje »Zahtevaj preverjanje pristnosti«
+    permitted_file_extensions_label: Dovoljene pripone datotek
+    delete: Izbriši
+    ldap_description: "Omogočite preverjanje pristnosti uporabnikov prek LDAP in nastavite osnovne parametre povezave s strežnikom LDAP. Če vrata niso navedena, bodo uporabljena privzeta vrata LDAP 389 (ali 636, če je omogočen SSL). Opomba: vrata 3268 se v Active Directory NE uporabljajo za preverjanje pristnosti, temveč samo za iskanje v globalnem imeniku. Namesto njih uporabite vrata 389/636."
+    ldap_authentication: Preverjanje LDAP
+    basic_settings: Osnovne nastavitve
+    server: Ime strežnika / naslov IP
+    username: Uporabniško ime
+    password: Geslo
+    authentication_description: Ta uporabnik bo uporabljen za povezovanje s strežnikom LDAP (pustite prazno za anonimno povezavo). Uporabnik potrebuje pravice za iskanje v drevesu LDAP.
+    search_key: Iskalni ključ
+    search_key_description: Iskalni ključ in domena se uporabljata za iskanje uporabnikov v drevesu LDAP. Spodnja tabela prikazuje, kako iskalni ključ in domena skupaj najdeta uporabnika.
+    search_key_description2: Če torej iskalni ključ LDAP vsebuje e-poštni naslov, mora domena ostati prazna. Če iskalni ključ LDAP vsebuje samo uporabniško ime, mora domena vsebovati domeno uporabnikov.
+    search_key_defaults: "Za Active Directory je dobro izhodišče: sAMAccountName kot iskalni ključ LDAP in podjetje.si (vaša domena) kot domena."
+    user_enters: Uporabnik vnese
+    authorized_ldap_groups: Pooblaščene skupine LDAP
+    available_groups: Razpoložljive skupine
+    default_settings: Privzete nastavitve
+    setting: Nastavitev
+    value: Vrednost
+    description: Opis
+    default_local_max_description: To je privzeta največja velikost datoteke za nove lokalne uporabnike. Za posamezne uporabnike jo je mogoče spremeniti.
+    user_changeable: Lahko spremeni uporabnik?
+    non_local: Nelokalni
+    remote: Oddaljeni
+    new_external_recipient_is_nonlocal: Novi zunanji prejemniki so
+    email_message_on_top_label: Sporočilo na vrhu
+    email_message_on_top: Sporočilo je v e-poštnem sporočilu prejemnikom postavljeno nad seznam datotek
+    use_either_permitted_or_blocked_extensions: Izbrati morate dovoljene ali blokirane pripone, ne obojih
+    invalid_password: Neveljavno geslo
+    valid_password: Veljavno geslo
+    test_password_validation: Preizkusi preverjanje gesla
+    custom_password_validation: Lastno preverjanje gesla
+    custom_password_validation_description: "Ta regularni izraz bo uporabljen za lastno preverjanje gesel. Vnesite samo regularni izraz, brez ločil (ne začnite in ne končajte z '/'). Primer: [a-zA-Z0-9]{7,} (gesla lahko potem vsebujejo samo a-z, A-Z in 0-9, najmanj 7 znakov)"
+    filedrop: Filedrop
+    receive: Prejemanje
+    api_settings: Nastavitve API
+    enable_api_label: Omogoči API
+    enable_api_description: Omogoči API za dostop prek vtičnikov in skriptov
+    enable_api_group_config: Dodatne nastavitve API so na voljo v konfiguraciji skupin.
+    api_client_size_override_label: Prag velikosti za odjemalce API
+    api_client_size_override_description: Odjemalci API bodo datoteke, večje od te velikosti, pošiljali prek naprave
+    sso_secret_key: Skrivni ključ SSO
+    generate_key: Ustvari nov ključ
+    sso_replace_confirm: Ste prepričani? Z zamenjavo skrivnega ključa SSO obstoječe integracije SSO ne bodo več delovale.
+    virus_scan_skip_locals: Preskoči protivirusni pregled za lokalne uporabnike
+    virus_scan_skip_locals_description: Ne preglej datotek lokalnih uporabnikov za viruse
+    virus_scan_permit_unscanned: Dovoli nepregledane datoteke
+    virus_scan_permit_unscanned_description: Dovoli prenos datotek, ki še niso bile pregledane za viruse
+    userdrop: Uporabniški Filedrop
+    user_filedrop_with_random_key: Uporabniški Filedropi z naključnim ključem
+    enable_userdrop: Omogoči uporabniške Filedrope
+    example: Primer
+    user_filedrop_with_email: Uporabniški Filedropi z e-poštnimi naslovi
+    enable_userdrop_email: Omogoči uporabniške Filedrope z e-poštnim naslovom
+    userdop_email_data_leakage: To bi lahko izkoristili za odkrivanje lokalnih e-poštnih naslovov s preizkušanjem naslovov na URL-ju Filedropa in opazovanjem, kateri vrnejo veljaven odgovor.
+    userdrop_files_expire_after: Oddane datoteke potečejo po
+    userdrop_max_filesize: Največja velikost datoteke za uporabniški Filedrop
+    bruteforce_label: Zaščita pred napadi s surovo silo
+    bruteforce_description_1: Blokiraj naslov IP za
+    bruteforce_description_2: minut po
+    bruteforce_description_3: neuspešnih prijavah/registracijah v
+    bruteforce_description_4: minutah
+    bruteforce_whitelist_label: Seznam dovoljenih za zaščito pred surovo silo
+    allowed_admin_networks_label: Skrbniška omrežja
+    allowed_admin_networks_description: Omeji skrbniški dostop na te gostitelje in omrežja. Localhost (127.0.0.1, ::1) je vedno dovoljen
+    enable_strong_authentication: Za te vrste uporabnikov privzeto omogoči močno preverjanje
+    authenticated_username: Preverjeno uporabniško ime
+    duo_hostname: Ime gostitelja Duo
+    duo_client_id: Integracijski ključ Duo
+    duo_client_secret: Skrivni ključ Duo
+    strong_authentication_test: Preizkusi močno preverjanje
+    stronger_password: Izberite močnejše geslo.
+    cannot_begin_or_end_with_blank: Geslo se ne sme začeti ali končati s presledkom.
+    at_least_one_invalid_domain: Vsaj ena neveljavna domena
+    at_least_one_invalid_email: Vsaj en neveljaven e-poštni naslov
+    email_security_level: Raven varnosti dostave e-pošte
+    geoip: Iskanje GeoIP
+    geoip_description: Prenese podatke o lokaciji s https://geoip.liquidfiles.com in prikaže zemljevide.
+    tooltip:
+      local_domains: Lokalni uporabnik lahko pošilja datoteke komur koli. Nelokalni uporabnik lahko pošilja datoteke samo lokalnim uporabnikom. Ob prvi prijavi uporabnika ali ob ustvarjanju računa se domena e-poštnega naslova primerja s temi domenami, da se ugotovi, ali uporabnik velja za lokalnega.
+      ldap_users_are_always_local: Vsak uporabnik, ki je preverjen prek LDAP, samodejno velja za lokalnega, ne glede na domeno.
+      allow_registration: Omogoči registracijo na strani za prijavo. Na podlagi seznama lokalnih domen se določi, ali je nov uporabnik lokalni ali nelokalni.
+      local_user_maxfile: Ko se lokalni uporabnik registrira ali se prvič preveri z oddaljenim preverjanjem, se mu nastavi ta največja velikost datoteke.
+      nonlocal_user_maxfile: Ko se registrira nelokalni uporabnik, se mu nastavi ta največja velikost datoteke.
+      delete_downloaded_files_after: Prenesena datoteka se hrani toliko časa. Čas mora biti dovolj dolg, da lahko prejemnik izbere drugo mesto za prenos ali začne znova, a dovolj kratek, da se povezava ne razširi do drugih ljudi.
+      file_expiration: Uporabnikom omogoči spreminjanje časa poteka datotek. Če to ni omogočeno, vse datoteke dobijo privzeti čas poteka.
+      default_expire_files_after: Datoteke bodo potekle po tem času.
+      blocked_file_extensions: Blokiraj datoteke s temi priponami (velike in male črke niso pomembne).
+      virus_scan: Preglej vse naložene datoteke s protivirusnim programom ClamAV
+      require_authentication_permission: Če je omogočeno, lahko uporabniki sami izberejo, ali je preverjanje pristnosti obvezno
+      default_bcc_myself: Če je omogočeno, se sporočila privzeto pošljejo tudi uporabniku samemu
+      permitted_file_extensions: "Če je prazno, so dovoljene vse pripone. Če je vnesena vsaj ena pripona, so dovoljene samo vnesene vrste datotek. Primer: png, gif, jpg, txt"
+      new_external_recipient_is_nonlocal: Ko se sporočilo pošlje novemu prejemniku, ali naj bo ustvarjen kot nelokalni uporabnik (da lahko odgovori) ali kot zunanji uporabnik?
+      email_message_on_top: Če je izbrano, je sporočilo v e-poštnem sporočilu prejemnikom postavljeno nad seznam datotek. Če ni, je seznam datotek postavljen nad sporočilo.
+      email_sender: Ta e-poštni naslov bo uporabljen kot pošiljatelj sistemskih e-poštnih sporočil, na primer za ponastavitev gesla. Da ta sporočila ne bi bila označena kot neželena pošta, mora biti to resničen e-poštni naslov.
+      email_host: Priloge bodo ta URL uporabljale kot osnovni URL. Običajno je to http://imegostitelja.domena ali https://imegostitelja.domena, lahko pa tudi https://imegostitelja.domena:4433, če pri povezovanju uporabnikov z napravo LiquidFiles na požarnem zidu uporabljate posredovanje vrat.
+      email_footer: Ta podpis bo dodan vsem odhodnim e-poštnim sporočilom.
+      email_relay: Ta poštni strežnik uporabi za posredovanje odhodne e-pošte.
+      email_relay_username: Račun, ki se uporablja za prijavo v posredovalni poštni strežnik
+      email_relay_password: Geslo računa, ki se uporablja za prijavo v posredovalni poštni strežnik
+  date:
+    formats:
+      default: "%d.%m.%Y"
+      short: "%d.%m."
+      medium: "%d.%m.%Y"
+      long: "%d.%m.%Y"
+  time:
+    am: dop.
+    pm: pop.
+    formats:
+      default: "%d.%m.%Y %H:%M:%S %z"
+      short: "%d.%m. %H:%M"
+      medium: "%d.%m.%Y %H:%M"
+      long: "%d.%m.%Y %H:%M"
+  downloads:
+    download_id: ID prenosa
+    index:
+      download_log_title: Prenosi
+      download_log_description: Kdo je kaj in kdaj prenesel
+      paginator_entry_name: prenosi
+    show:
+      no_map_for_reserved_address: Za rezervirane naslove zemljevida ni mogoče prikazati
+  filedrop:
+    filedrop: Filedrop
+    no_such_filedrop: Ta Filedrop ne obstaja
+    invalid_filedrop_url: Neveljaven URL Filedropa
+    invalid_filedrop_url_description: Na tem URL-ju ni Filedropa. Preverite URL in poskusite znova.
+    label: Filedropi
+    mb: MB
+    name: Ime
+    name_description: Kratko ime, ki se uporablja tudi v URL-ju (npr. /filedrop/ime)
+    title: Naslov
+    title_description: Naslov na vrhu strani
+    description: Opis
+    description_description: Opis pod naslovom
+    user: Uporabnik prejemnik
+    user_description: Za prejemnika je mogoče nastaviti katerega koli lokalnega uporabnika
+    cc: Kp
+    cc_description: "(ločeno z vejicami) Pošlji kopijo na te naslove"
+    expires_after: Poteče po
+    expires_after_description: dneh
+    max_filesize: Največja velikost datoteke
+    max_filesize_description: MB
+    reset_filedrop: Ponastavi URL Filedropa
+    filedrop_reset_warning: Ste prepričani? Če ponastavite URL Filedropa, ga boste morali zamenjati povsod, kjer ste ga objavili.
+    permitted_extensions: Dovoljene pripone
+    permitted_extensions_description: Dovoljene bodo samo te vrste datotek
+    blocked_extensions: Blokirane pripone
+    blocked_extensions_description: Te vrste datotek bodo blokirane
+    demo_license_warning_standard: Filedropi za produkcijsko uporabo zahtevajo licenco. Za omogočenje funkcije Filedrop nadgradite na licenco Pro.
+    max_one_during_demo: Med preizkusom ali z licenco Standard lahko nastavite največ en Filedrop
+    filedrop_info: Filedrop vašim strankam omogoča, da vam pošiljajo datoteke brez preverjanja pristnosti ali predhodne nastavitve. Vsak Filedrop ima stalen URL, na katerega lahko povežete s spletnih strani ali v e-poštnih podpisih. Ko nekdo odda datoteko v Filedrop, se samodejno pošlje vnaprej določenemu uporabniku.
+    authorization: Dovoljenje
+    authorization_description: kdo lahko prenaša datoteke, oddane v Filedrop
+    you_will_be_notified: Ko bodo vaše datoteke prenesene, boste prejeli potrdilo o prenosu.
+    require_authentication: Ta Filedrop zahteva preverjanje pristnosti. Za nadaljevanje vnesite geslo.
+    authenticate: Preveri pristnost
+    authentication_failed: Preverjanje pristnosti ni uspelo
+    require_validation: Ta Filedrop zahteva preverjanje pristnosti ali potrditev vašega e-poštnega naslova.
+  filelink:
+    filelink: FileLink
+    filelinks: FileLinki
+    filelink_title: FileLink
+    filelink_description: FileLink je povezava do posamezne datoteke. To povezavo lahko pošljete komur koli, ne da bi ustvarili sporočilo ali določili prejemnike. Datoteko bodo lahko prenesli samo ljudje, ki ste jim poslali naključno povezavo.
+    expired_or_nonexistent_title: Neveljaven FileLink
+    expired_or_nonexistent: Ta FileLink je potekel ali ne obstaja. Za novo povezavo se obrnite na pošiljatelja.
+    existing_filelinks: Obstoječi FileLinki
+    new_filelink: Nov FileLink
+    available_files: Razpoložljive datoteke
+    filename: Ime datoteke
+    filesize: Velikost datoteke
+    expires_at: Poteče
+    link: Povezava
+    checksum: Kontrolna vsota
+    copy_link_to_clipboard: Kopiraj FileLink v odložišče
+    expire_link_at: Povezava poteče
+    you_have_no_filelinks: Nimate FileLinkov. Dodajte nov FileLink ali ga ustvarite iz razpoložljive datoteke.
+    you_have_no_files_available: Nimate prej poslanih datotek. Ko pošljete vsaj eno datoteko, jo lahko tukaj izberete in iz nje ustvarite FileLink.
+    create_link: Ustvari povezavo
+    invalid_file: Neveljavna datoteka, FileLinka ni mogoče ustvariti
+    delete: Izbriši
+    delete_link_warning: Ali res želite izbrisati ta FileLink?
+    could_not_delete_link: FileLinka ni bilo mogoče izbrisati. Povezave ni mogoče najti!
+    filelink_deleted: FileLink izbrisan!
+    select_file: Izberi datoteko
+    send_download_receipts: Pošiljaj potrdila o prenosu
+    disabled: FileLinki so onemogočeni, obrnite se na skrbnika
+    unauthorized: Nimate dovoljenja za uporabo FileLinkov
+    require_authentication: Zahtevaj preverjanje pristnosti
+    filelink_require_authentication: Ta FileLink zahteva preverjanje pristnosti
+    filelink_url: URL FileLinka
+    expired: Poteklo
+    filelink_expired: FileLink je potekel
+    select_from_available_files: FileLink lahko ustvarite tudi iz katere koli od teh obstoječih datotek.
+    downloads: Prenosi
+    authentication_failed: Preverjanje pristnosti ni uspelo
+    password_label_html: Geslo <small class="text-muted">(neobvezno)</small>
+    password_present_html: Za ta FileLink je nastavljeno geslo.<br>Odstranite ga lahko tako, da shranite prazno geslo.
+    password_not_present: Geslo ni nastavljeno.
+    copy_to_clipboard: Kopiraj FileLink v odložišče
+    add_file: Dodaj datoteko
+  ftpdrop:
+    create:
+      ftpdrop: FTPdrop
+  html_editor:
+    font:
+      bold: Krepko
+      italic: Ležeče
+      underline: Podčrtano
+      clear: Odstrani oblikovanje
+      height: Višina vrstice
+      name: Pisava
+      strikethrough: Prečrtano
+      subscript: Podpisano
+      superscript: Nadpisano
+      size: Velikost pisave
+    image:
+      image: Slika
+      insert: Vstavi sliko
+      resize_full: Polna velikost
+      resize_half: Polovična velikost
+      resize_quarter: Četrtinska velikost
+      float_left: Poravnaj levo
+      float_right: Poravnaj desno
+      float_none: Brez poravnave
+      shape_rounded: "Oblika: zaobljena"
+      shape_circle: "Oblika: krog"
+      shape_thumbnail: "Oblika: sličica"
+      shape_none: "Oblika: brez"
+      url: URL slike
+      remove: Odstrani sliko
+    link:
+      link: Povezava
+      insert: Vstavi povezavo
+      unlink: Odstrani povezavo
+      edit: Uredi
+      text_to_display: Prikazano besedilo
+      url: Na kateri URL naj vodi ta povezava?
+      open_in_new_window: Odpri v novem oknu
+    table:
+      table: Tabela
+    hr:
+      insert: Vstavi vodoravno črto
+    style:
+      style: Slog
+      normal: Navadno
+      blockquote: Citat
+      pre: Koda
+      h1: Naslov 1
+      h2: Naslov 2
+      h3: Naslov 3
+      h4: Naslov 4
+      h5: Naslov 5
+      h6: Naslov 6
+    lists:
+      unordered: Označeni seznam
+      ordered: Oštevilčeni seznam
+    options:
+      help: Pomoč
+      fullscreen: Celozaslonski način
+      codeview: Pogled kode
+    paragraph:
+      paragraph: Odstavek
+      outdent: Zmanjšaj zamik
+      indent: Povečaj zamik
+      left: Poravnaj levo
+      center: Poravnaj na sredino
+      right: Poravnaj desno
+      justify: Poravnaj obojestransko
+    color:
+      recent: Zadnja barva
+      more: Več barv
+      background: Barva ozadja
+      foreground: Barva besedila
+      transparent: Prosojno
+      set_transparent: Nastavi prosojnost
+      reset: Ponastavi
+      reset_to_default: Ponastavi na privzeto
+    shortcut:
+      shortcuts: Bližnjice na tipkovnici
+      close: Zapri
+      text_formatting: Oblikovanje besedila
+      action: Dejanje
+      paragraph_formatting: Oblikovanje odstavka
+      document_style: Slog dokumenta
+      extra_keys: Dodatne tipke
+    history:
+      undo: Razveljavi
+      redo: Uveljavi
+  invite:
+    invite_user: Povabi uporabnika
+    description: Uporabnike lahko povabite, da z vami delijo datoteke. Ko vnesete njihove podatke, bodo prejeli e-poštno sporočilo z navodili za dokončanje registracije.
+    send_invite: Pošlji povabilo
+    name_placeholder: Polno ime
+    invitation_sent: Povabilo poslano
+    not_permitted_to_invite_users: Nimate dovoljenja za vabljenje uporabnikov.
+    invalid_email: Neveljaven e-poštni naslov
+  link:
+    show:
+      set_password: Nastavi geslo
+      download: Prenesi
+      downloads_and_info: Vsi prenosi in več informacij
+    authenticate:
+      show:
+        title: Geslo FileLinka
+        authenticate: Preveri pristnost
+        require_authentication: Za odpiranje tega FileLinka morate vnesti zahtevano geslo.
+      create:
+        authentication_failed: Preverjanje pristnosti ni uspelo.
+    downloads:
+      index:
+        back_to_filelink: Nazaj na FileLink
+    link_downloads:
+      latest_downloads: Zadnji prenosi (%{count} od skupno %{total})
+  menu:
+    shares: Share
+    messages: Sporočila
+    send_files: Novo sporočilo
+    users: Uporabniki
+    active_transfers: Aktivni prenosi
+    configuration: Konfiguracija
+    system: Sistem
+    message_list: Seznam sporočil
+    settings: Nastavitve
+    admin: Skrbništvo
+    account: Račun
+    inbox: Prejeto
+    sent_messages: Poslano
+    downloads: Dnevnik prenosov
+    filelink: FileLinki
+    secure_messages: Varna sporočila
+    support: Podpora
+  message:
+    message_sent: Sporočilo poslano
+    not_found: Sporočila ni mogoče najti
+    message_not_found_header: Sporočila ni mogoče najti!
+    message_not_found_description: Prosite pošiljatelja, naj vam sporočilo pošlje znova.
+    previous_recipients: Prejšnji prejemniki
+    contacts: Stiki
+    is_not_permitted: ni dovoljeno
+    not_permitted_to_delete_messages: Nimate dovoljenja za brisanje sporočil
+    is_not_in_any_of_the_allowed_domains: ne spada v nobeno od dovoljenih domen
+    is_not_in_any_of_the_allowed_groups: ne spada v nobeno od dovoljenih skupin
+    attach_1_file: Priložiti morate vsaj eno datoteko
+    too_many_files: Priloženih je preveč datotek. Enemu sporočilu lahko priložite največ %{count} datotek.
+    attached_files: Priložene datoteke
+    expired: Sporočilo je poteklo
+    authorize:
+      show:
+        title: Prijavite se za dostop do varnega sporočila
+        authenticate_description_html: Ogledali si boste varno sporočilo. Najprej se morate prijaviti. Za nadaljevanje vnesite svoj e-poštni naslov ali se prijavite.<br>Če v tem sistemu nimate računa, vnesite svoj e-poštni naslov in poslali vam bomo varno povezavo za njegovo potrditev.
+        unauthenticated_html: <h4>Neveljavno uporabniško ime ali geslo</h4><p>Vnesite uporabniško ime in geslo. Geslo lahko ponastavite z gumbom Ponastavitev gesla spodaj.</p>
+        unauthorized_to_view_check_email_html: <h4>Nepooblaščen e-poštni naslov</h4><p>Preverite, ali vam je bilo varno sporočilo [<span class="font-monospace fw-bold">%{message_id}</span>] poslano, in vnesite e-poštni naslov natanko tako, kot je bilo sporočilo poslano.</p><p>Če je na primer vaš e-poštni naslov lahko janez.novak@podjetje.si ali jnovak@podjetje.si, sistem ne more vedeti, da gre za isti naslov. Če je bilo varno sporočilo poslano na janez.novak@podjetje.si, morate tukaj vnesti prav ta naslov.</p><p>Če niste prepričani, se obrnite na pošiljatelja varnega sporočila.</p>
+    errors:
+      not_authorized_to_view_message: "Nimate dovoljenja za ogled sporočila z ID-jem: %{message_id}. Preverite, ali vam je bilo to sporočilo poslano."
+      private_message_requires_authentication: Zasebna sporočila zahtevajo preverjanje pristnosti
+    attachments:
+      download_attachment_details_csv: Prenesi podrobnosti prilog (CSV)
+      attachment:
+        fileinfo: Podatki o datoteki
+        file_size: Velikost datoteke
+        content_type: Vrsta vsebine
+        checksum: Kontrolna vsota
+        virus_status: Stanje protivirusnega pregleda
+    compose:
+      options_permission:
+        authentication_required: Zahtevano preverjanje pristnosti
+        authentication_not_required: Preverjanje pristnosti ni zahtevano
+        require_authentication_description: Ali morajo prejemniki za dostop do tega sporočila preveriti pristnost?
+        access_restriction_html: Omejitev dostopa<br><small class="text-muted">Kdo ima dostop do tega sporočila?</small>
+        recipients_only_html: Samo<br>prejemniki
+        recipients_plus_locals_html: Prejemniki<br>+ lokalni uporabniki
+        recipients_plus_domains_html: Prejemniki<br>+ domene
+        anyone_secret_link_html: Kdor koli<br>(skrivna povezava)
+    unavailable:
+      header: Sporočilo ni na voljo
+      description: To sporočilo je poteklo, bilo izbrisano, ne obstaja ali ni več na voljo. Prosite pošiljatelja, naj sporočilo pošlje znova.
+    downloads:
+      index:
+        download_log_title: Dnevnik prenosov
+        message_id: ID sporočila
+        paginator_entry_name: Prenosi
+      download:
+        details: Podrobnosti
+      not_found:
+        title: Sporočila ali prenosa ni mogoče najti
+        description_html: Sporočila ali prenosa ni mogoče najti ali pa nimate dovoljenja za ogled
+    temporary_user:
+      create:
+        invalid_temporary_user: Neveljavno geslo. Preverite e-poštno sporočilo z začasnim geslom ali zahtevajte novo začasno geslo.
+        temporary_user_expired: To začasno geslo je poteklo. Na vaš e-poštni naslov je bilo poslano novo začasno geslo. Preverite nabiralnik in uporabite novo začasno geslo.
+        not_authorized_to_view_message: "Nimate dovoljenja za ogled sporočila z ID-jem: %{message_id}. Preverite, ali vam je bilo to sporočilo poslano."
+      show:
+        title: Vnesite začasno geslo
+        description_html: "Ogledali si boste varno sporočilo. Za odpiranje morate vnesti začasno geslo.<br>Začasno geslo je edinstven naključen niz, ki vas identificira. Začasno geslo vam je bilo poslano v ločenem e-poštnem sporočilu (zadeva: Začasno geslo)."
+        what_is_this: Kaj je to?
+        login: Prijava
+        submit: Preveri začasno geslo
+        submit_email: Pošlji
+        if_you_have_account: "(če že imate račun)"
+        request_temporary_user_header: Zahtevaj novo začasno geslo
+        request_temporary_user_description_html: Za dostop do tega sporočila lahko zahtevate novo začasno geslo. Spodaj vnesite svoj e-poštni naslov in zahtevajte novo začasno geslo za to varno sporočilo.
+        info_header: Podatki o začasnem geslu
+        info_body_html: "<p>Začasno geslo je edinstven niz številk in črk, na primer:</p><pre><code>3ynp-7FKa-pZS9</code></pre><p><em>To začasno geslo je samo primer, da vidite, kako je videti – ni ga mogoče uporabiti.</em></p><p>V nabiralniku boste našli <strong>dve e-poštni sporočili</strong>: sporočilo z varnim sporočilom in sporočilo z <strong>zadevo, ki se začne z: Začasno geslo</strong>. Slednje vsebuje vaše edinstveno začasno geslo za ta sistem.</p><p>Če niste prejeli e-poštnega sporočila z začasnim geslom, morda že imate račun v tem sistemu. V tem primeru kliknite »Prijava«.</p><p>Če menite, da bi morali prejeti začasno geslo, a ga niste, kliknite »Zahtevaj začasno geslo«, da prejmete novo.</p>"
+        email_address: E-poštni naslov
+        email_not_permitted: Ta e-poštni naslov nima dovoljenja za ogled tega varnega sporočila.
+        email_not_permitted_description_html: <p>Preverite prejeto e-poštno sporočilo z varnim sporočilom in vnesite e-poštni naslov natanko tako, kot je bilo sporočilo poslano.</p><p>Če je na primer vaš e-poštni naslov lahko janez.novak@podjetje.si ali jnovak@podjetje.si, sistem ne more vedeti, da gre za isti naslov. Če je bilo varno sporočilo poslano na janez.novak@podjetje.si, morate tukaj vnesti prav ta naslov.</p><p>Če niste prepričani, se obrnite na pošiljatelja varnega sporočila.</p>
+        email_can_login: V tem sistemu že imate račun
+        email_can_login_description_html: <p>V ta sistem se lahko prijavite s tem e-poštnim naslovom in svojim geslom.</p><p>Kliknite gumb Prijava spodaj, da se prijavite z obstoječim računom.</p>
+        temporary_user_delivered_header: Začasno geslo poslano
+        temporary_user_delivered_description_html: <p>Na vaš e-poštni naslov je bilo poslano začasno geslo. Preverite nabiralnik, zaprite to okno in vnesite začasno geslo.</p>
+    reply:
+      re: "Re:"
+      wrote: je napisal(a)
+      show:
+        title: Odgovori na varno sporočilo
+        from: Od
+        reply: Odgovori
+        reply_all: Odgovori vsem
+      options:
+        options_description: Upoštevajte, da se vse možnosti prevzamejo iz izvirnega sporočila.
+    show:
+      back: Nazaj
+      message_header: Glava sporočila
+      reply: Odgovori
+  messages:
+    sent:
+      skipped_file_not_found: Preskočeno - datoteke ni mogoče najti
+      show:
+        sent_title: Poslano
+        sent_description: Sporočila, ki ste jih poslali
+        paginator_entry_name: sporočila
+    attachments:
+      download_cmd:
+        unauthorized:
+          header: Nepooblaščeno
+          body: Nimate dovoljenja za prenos te datoteke. Prosite pošiljatelja, naj vam datoteko pošlje znova.
+          back: Nazaj
+        exceeded:
+          header: Presežena omejitev prenosov
+          body: Omejitev prenosov te datoteke je bila presežena. Prosite pošiljatelja, naj vam datoteko pošlje znova.
+          back: Nazaj
+    download_zip:
+      unauthorized:
+        header: Nepooblaščeno
+        body: Nimate dovoljenja za prenos tega arhiva. Prosite pošiljatelja, naj vam datoteko pošlje znova.
+        back: Nazaj
+      exceeded:
+        header: Presežena omejitev prenosov
+        body: Omejitev prenosov ene ali več datotek v tem arhivu je bila presežena. Prosite pošiljatelja, naj vam datoteko pošlje znova.
+        back: Nazaj
+    message:
+      reply: Odgovori
+      reply_all: Odgovori vsem
+  models:
+    user:
+      no_need_to_create_local_user: Lokalnega uporabnika ni treba ustvariti
+      license_exceeded: Presežena omejitev licence
+  notifier:
+    activate_user_subject: "[%{hostname}] Aktivirajte račun"
+    user_activation: Aktivacija uporabnika
+    please_visit_the_following_url_to_activate: Za aktivacijo računa kliknite naslednjo povezavo
+    the_following_files_are_attached: Temu sporočilu so priložene naslednje datoteke
+    please_visit_the_following_url: Za prenos prilog kliknite to povezavo
+    attachments_are_available: Priloge so na voljo do
+    message_id: "ID sporočila: %{id}"
+    email_password_reset_subject: Ponastavitev gesla
+    download_receipt_subject: "Potrdilo o prenosu [ID: %{message_id}]"
+    a_file_that_you_sent: Datoteka, ki ste jo poslali, je bila prenesena. To sporočilo shranite kot dokazilo o prenosu.
+    recipient: Prejemnik
+    filename: Ime datoteke
+    time_of_download: Čas prenosa
+    downloaded_from: Preneseno z
+    download_receipt: Potrdilo o prenosu
+    user_created:
+      account_created: Račun ustvarjen
+      subject: "[%{hostname}] Račun ustvarjen"
+      message: "Čaka vas varna priloga. Za prenos morate preveriti pristnost. Za registracijo kliknite naslednjo povezavo:"
+  outlook:
+    messages:
+      new:
+        attachments_header: Priloge
+        attachments_hint: Datoteke lahko priložite tako, da jih povlečete v spodnje območje ali kliknete gumb Priloži datoteke.
+        add_to_message: Dodaj v sporočilo
+      attachments:
+        attach_files: Priloži datoteke
+        drop_files_here: Spustite datoteke sem ...
+      options:
+        recipients_can_reply: Prejemniki lahko odgovorijo
+        send_copy_to_myself: Pošlji kopijo meni
+        private_message: Zasebno sporočilo
+        private_message_required_auth_error: Pri pošiljanju zasebnega sporočila morate uporabiti način »Zahtevano preverjanje pristnosti«.
+      options_authorization:
+        authentication_authorization_title_html: Preverjanje pristnosti &amp; pooblastilo
+        authentication_select_title: Izberi preverjanje pristnosti
+        authentication_required: Zahtevano preverjanje pristnosti
+        authentication_not_required: Preverjanje pristnosti ni zahtevano
+        authorization_select_title: Izberi pooblastilo
+        recipients_only: Samo prejemniki
+        recipients_locals: Prejemniki + lokalni uporabniki
+        recipients_domains: Prejemniki + domene
+        anyone: Kdor koli (skrivna povezava)
+      options_expiration:
+        message_expires: Sporočilo poteče
+        message_expires_after: Sporočilo poteče po
+  pagination:
+    first: "&laquo; Prva"
+    last: Zadnja &raquo;
+    previous: "&lsaquo; Prejšnja"
+    next: Naslednja &rsaquo;
+    truncate: "&hellip;"
+  requests:
+    title: Zahteva za datoteke
+    file_request: Zahteva za datoteke
+    files_sent: Datoteke poslane, hvala!
+    request_file: Zahtevaj datoteko
+    file_requests: Zahteve za datoteke
+    description: Z zahtevo za datoteke lahko nekoga prosite, naj vam pošlje datoteke. Ko vnesete podatke, bo oseba prejela e-poštno sporočilo z edinstveno povezavo, prek katere vam lahko pošlje zahtevane datoteke.
+    file_request_not_found: Zahteve za datoteke ni mogoče najti
+    file_request_expired: Zahteva za datoteke je potekla
+    file_request_already_used: Zahteva za datoteke je že bila uporabljena
+    file_request_sent: Zahteva za datoteke poslana
+    not_permited: Nimate dovoljenja za uporabo funkcije zahteve za datoteke
+    multiuse: Večkratna uporaba - to povezavo zahteve za datoteke je mogoče uporabiti večkrat
+    invalid_recipient: Neveljaven prejemnik, ta zahteva za datoteke je bila poslana nekomu drugemu
+    invalid_user: To ni vaša zahteva za datoteke
+    index:
+      title: Zahteve za datoteke
+      new_file_request: Nova zahteva za datoteke
+      multiuse: Večkratna uporaba
+      responded_to: Odgovorjeno
+      hide_expired: Skrij potekle in uporabljene
+      show_expired: Prikaži potekle in uporabljene
+    request:
+      resend: Pošlji znova
+      are_you_sure_you_want_to_delete: Ali res želite izbrisati to zahtevo za datoteke?
+    popup:
+      from: Od
+      to: Za
+      subject: Zadeva
+      message: Sporočilo
+    resend:
+      request_resent: Zahteva za datoteke je bila znova poslana
+    new:
+      request_expires: Zahteva poteče
+  send:
+    send: Pošlji
+    sent: Poslano
+    recipients: Za
+    send_as: Pošlji kot
+    you_can_only_send_files_to_yourself: Datoteke lahko pošiljate samo sebi
+    subject: Zadeva
+    subject_placeholder: Zadeva
+    attachments: Priloge
+    max_file_size: "Največja velikost prilog: %{filesize} MB"
+    upload_queue: Čakalna vrsta nalaganja
+    remove: Odstrani
+    cancel_all: Prekliči vse
+    cancel_all_uploads: Prekliči vsa nalaganja
+    message: Sporočilo
+    message_placeholder: Sporočilo
+    done_editing_please_send: Urejanje sem končal(a), pošlji datoteke, ko bodo vsa nalaganja končana
+    files_sent_successfully: Datoteke uspešno poslane
+    you_need_at_least_one_recipient: Potreben je vsaj en prejemnik
+    you_need_at_least_one_attachment: Potrebna je vsaj ena priloga
+    options: Možnosti
+    cc: Kp
+    bcc: Skp
+    bcc_message_description: Prejemniki skrite kopije ne bodo prikazani drugim prejemnikom
+    add_cc: dodaj kopijo
+    add_bcc: dodaj skrito kopijo
+    bcc_myself: Pošlji kopijo meni
+    require_login: Zahtevaj prijavo za prenos datotek
+    only_specified_recipients_can_download: Priloge lahko prenesejo samo navedeni prejemniki
+    anyone_can_download: Priloge lahko prenese kdor koli
+    expires_in: Priloge je mogoče prenašati
+    expires_at: Priloge potečejo
+    send_options: Možnosti pošiljanja
+    to: Za
+    from: Od
+    filename: Ime datoteke
+    filesize: Velikost datoteke
+    downloaded_at: Preneseno
+    message_sent: Sporočilo poslano
+    message_expires: Sporočilo poteče
+    message_expires_after: Sporočilo poteče po
+    message_expires_after_description: Izračun poteka za vsako datoteko posebej. Če pošljete 2 datoteki, ki potečeta po 1 prenosu, lahko vsak prejemnik vsako datoteko prenese enkrat.
+    downloads_per_recipient: Prenosi na prejemnika
+    total_downloads: Prenosi skupaj
+    file_not_downloaded: Nobena priloga ni bila prenesena
+    at_least_one_invalid_extension: Vsaj ena priloga ima neveljavno pripono
+    invalid_filetype: Neveljavna pripona
+    blocked_extension: "Neveljavna pripona. Ne morete naložiti datotek z naslednjimi priponami: %{extensions}"
+    permitted_extensions: "Dovoljene pripone so: %{filetypes}"
+    already_selected: Ta datoteka je že izbrana
+    maximum_filesize_exceeded: Presežena največja velikost datoteke
+    contains_virus: "%{filename} vsebuje VIRUS: %{virus}"
+    limited_by_browser: Omejeno z brskalnikom
+    limited_by_disk: Omejeno s prostorom na disku
+    limited_by_system_quota: Omejeno s sistemsko kvoto
+    limited_by_group_quota: Omejeno s kvoto skupine
+    limited_by_quota: Omejeno s kvoto
+    limited_per_message: Omejitev na sporočilo
+    system_quota_exceeded: Presežena sistemska kvota
+    group_quota_exceeded: Presežena kvota skupine
+    quota_exceeded: Presežena kvota
+    no_available_quota: Presežena kvota, za nadaljevanje izbrišite nekaj datotek
+    not_authorized_to_send: Nimate dovoljenja za pošiljanje na %{email}
+    public_url: Javni URL
+    message_url: URL sporočila
+    authorization: Pooblastilo
+    insufficient_disk_space: Premalo prostora na disku
+    active_transfers: Aktivni prenosi
+    view_log: Prikaži dnevnik
+    previously_sent_attachments: Prej poslane priloge
+    has_not_downloaded: "%{recipient} še ni prenesel(-la) nobene datoteke"
+    authentication: Preverjanje pristnosti
+    required: Zahtevano
+    disabled: Onemogočeno
+    require_authentication_tooltip_html: <li>Prejemnik se mora za prenos datoteke prijaviti z uporabniškim imenom in geslom.</li> <li>Ko bo datoteka prenesena, boste prejeli potrdilo.</li>
+    dont_require_authentication_tooltip_html: <li>Prejemniku za prenos datoteke ne bo treba prijaviti.</li> <li>Ko bo datoteka prenesena, boste prejeli potrdilo, ne pa tudi, kdo jo je prenesel (tega ne vemo).</li> <li>Potrdilo boste prejeli samo, ko bo datoteko prenesel prvi prejemnik.</li>
+    authenticate_link_description: Pred odpiranjem tega FileLinka se morate prijaviti.
+    unauthorized: Nimate dovoljenja za ogled tega sporočila.
+    unauthenticated: Napačno geslo
+    incorrect_login_or_demo: Napačno geslo ali dosežena omejitev licence
+    email_authorization_message: Hvala. Da preverimo, ali je to vaš e-poštni naslov, smo vam poslali e-poštno sporočilo s potrditveno kodo. Vnesite potrditveno kodo spodaj ali kliknite povezavo v e-poštnem sporočilu, da odprete sporočilo.
+    email_authorization_link: Hvala. Da preverimo, ali je to vaš e-poštni naslov, smo vam poslali e-poštno sporočilo s potrditveno kodo. Spodaj vnesite potrditveno kodo iz e-poštnega sporočila ali kliknite povezavo v njem, da odprete FileLink.
+    email_authorization_message_create_account: Hvala. Ker v tem sistemu nimate računa, smo vam poslali e-poštno sporočilo s potrditveno kodo, da preverimo, ali je to vaš e-poštni naslov. Vnesite potrditveno kodo spodaj ali kliknite povezavo v e-poštnem sporočilu, da potrdite naslov. Nato boste pozvani, da ustvarite račun, in preusmerjeni na sporočilo.
+    email_authorization_link_create_account: Hvala. Ker v tem sistemu nimate računa, smo vam poslali e-poštno sporočilo s potrditveno kodo, da preverimo, ali je to vaš e-poštni naslov. Spodaj vnesite potrditveno kodo iz e-poštnega sporočila ali kliknite povezavo v njem, da potrdite naslov. Nato boste pozvani, da ustvarite račun, in preusmerjeni na FileLink.
+    authorize: Pooblasti
+    authenticate: Prijava
+    sending: Pošiljanje ...
+    abort_transfer: Prekini prenos
+    files_to_big: Datoteka(-e) je prevelika(-e)
+    only_specified_recipients: Dostop imajo samo navedeni prejemniki
+    only_specified_recipients_and_local_users: Dostop imajo samo navedeni prejemniki in lokalni uporabniki
+    only_specified_recipients_and_domains: Dostop imajo samo navedeni prejemniki in uporabniki njihove domene
+    anyone_after_authentication: Dostop ima kdor koli (z naključno povezavo)
+    no_recipient_validation: Brez preverjanja prejemnikov
+    anyone_can_access: Dostop ima kdor koli
+    anyone: Kdor koli
+    no_authentication: Brez preverjanja pristnosti
+    can_download: lahko prenašajo
+    not_yet_scanned: se pregleduje za viruse, poskusite znova čez nekaj časa. V čakalni vrsti %{queue}
+    was_infected: "je bila okužena z virusom %{virus} in je bila izbrisana"
+    deleted_or_expired: Izbrisano ali poteklo
+    im_done_editing: Samodejno pošlji, ko bodo trenutna nalaganja končana
+    download_all: Prenesi vse
+    zipped_archive: Arhiv ZIP
+    message_id: ID sporočila
+    overall_progress: Skupni napredek
+    abort: Prekini
+    limitations: Omejitve
+    max_size: Največja velikost
+    add_files: Dodaj datoteke ...
+    add_folder: Dodaj mapo ...
+    no_attachment_added: Dodana ni nobena priloga
+    you_need_to_add_at_least_one_file: Dodati morate vsaj eno datoteko.
+    private_message_or_attached_files: Omogočiti morate Zasebno sporočilo ali priložiti vsaj eno datoteko.
+    no_runtime_found: Izvajalnega okolja ni mogoče najti, datotek ni mogoče poslati
+    runtime_check_title: Izvajalnega okolja ni mogoče najti
+    selected: izbrano
+    file_size_error: Napaka velikosti datoteke
+    remaining: preostalo
+    attached_files: Priložene datoteke
+    show_message: Prikaži sporočilo
+    can_be_max: je lahko največ %{days} dni v prihodnosti
+    not_ready: Še ni pripravljeno za prenos
+    download_info: Podatki o prenosu
+    browser: Brskalnik
+    platform: Platforma
+    operating_system: Operacijski sistem
+    location: Lokacija
+    download_details: Podrobnosti prenosa
+    download_information_not_found: Podatkov o prenosu ni mogoče najti.
+    add: Dodaj
+    select_existing_files: Izberi obstoječe datoteke
+    add_existing_files: Dodaj obstoječe datoteke
+    add_existing_description: Te datoteke so že bile poslane in jih lahko pošljete znova.
+    zip_disabled: ZIP onemogočen
+    zip_disabled_description_exceeded: Za vsaj eno prilogo je bilo preseženo največje število prenosov.
+    spinner_info_html: <strong>Vaše sporočilo je pripravljeno za pošiljanje</strong>. Nekatere datoteke se še obdelujejo v ozadju, vendar vam ni treba čakati. <strong>Ko boste pripravljeni, kliknite Pošlji!</strong>
+    sent_to_you: Poslano vam
+    excluding_admins: Brez skrbnikov
+    downloads: Prenosi
+    download_log: Dnevnik prenosov
+    delete_attachments: Izbriši priloge
+    delete_message: Izbriši sporočilo
+    delete_attachments_warning: Ali res želite izbrisati priloge?
+    delete_message_warning: Z brisanjem sporočila se izbrišejo tudi priložene datoteke in dnevnik prenosov. Ali res želite izbrisati sporočilo?
+    invalid_message: Neveljavno sporočilo
+    message_deleted: Sporočilo izbrisano
+    attachments_deleted: Priloge izbrisane
+    checksum: Kontrolna vsota (SHA256)
+    not_permitted_to_send_messages: Nimate dovoljenja za pošiljanje sporočil.
+    invalid_group_belonging: Pošiljanje ni dovoljeno (neveljavna skupina). Navedeni ste kot zunanji uporabnik, vendar vaš e-poštni naslov spada v domeno %{domain}, ki je navedena tudi med omejenimi domenami prejemnikov. To za zunanje uporabnike ni dovoljeno. Prosite sistemskega skrbnika, naj vas premakne v drugo skupino.
+    expires_after_exceeded: Preseženo število prenosov
+    expires_after_exceeded_for_zip: Preseženo število prenosov za vsaj eno datoteko v arhivu ZIP
+    permission_description_title: Omejitve dostopa
+    permission_description_only_specified_html: <ul> <li>Do sporočila lahko dostopajo in datoteke prenesejo samo navedeni prejemniki.</li> <li>Posredovanje e-poštnega sporočila ali URL-ja komur koli ni dovoljeno.</li> <li>Prejemniki se morajo za dostop do sporočila in prenos datotek prijaviti.</li> <li>Ob vsakem prenosu vsake datoteke se pošlje potrdilo o prenosu s podrobnimi podatki.</li> </ul>
+    permission_description_only_specified_and_local_html: <ul> <li>Datoteke lahko prenesejo samo navedeni prejemniki in lokalni uporabniki.</li> <li>E-poštno sporočilo ali URL je dovoljeno posredovati samo lokalnim uporabnikom.</li> <li>Prejemniki se morajo za prenos datotek prijaviti.</li> <li>Ob vsakem prenosu vsake datoteke se pošlje potrdilo o prenosu s podrobnimi podatki.</li> </ul>
+    permission_description_only_specified_and_domains_html: <ul> <li>Dostop imajo samo navedeni prejemniki in uporabniki iz iste e-poštne domene.</li> <li>Če pošljete na direktor@partner.si, ima do sporočila dostop tudi tajnistvo@partner.si, ne pa radoveznez@konkurent.si.</li> <li>Prejemniki se morajo za prenos datotek prijaviti.</li> <li>Ob vsakem prenosu vsake datoteke se pošlje potrdilo o prenosu s podrobnimi podatki.</li> </ul>
+    permission_description_anyone_after_authentication_html: <ul> <li>Datoteke lahko prenese kdor koli, ki ima skrivni naključni URL.</li> <li>E-poštno sporočilo ali URL je mogoče posredovati komur koli.</li> <li>Prejemniki se morajo za prenos datotek prijaviti.</li> <li>Ob vsakem prenosu vsake datoteke se pošlje potrdilo o prenosu s podrobnimi podatki.</li> </ul>
+    permission_description_anyone_html: <ul> <li>Datoteke lahko prenese kdor koli, ki ima skrivni naključni URL.</li> <li>E-poštno sporočilo ali URL je mogoče posredovati komur koli.</li> <li>Za prenos datotek prijava <strong>ni</strong> potrebna.</li> <li>Ob prvem prenosu s strani kogar koli se pošlje <strong>osnovno</strong> potrdilo o prenosu (da vemo, kdo je kaj prenesel, je potrebno preverjanje pristnosti).</li> </ul>
+    your_message_has_been_sent: Vaše sporočilo je bilo poslano
+    you_can_send_to_anyone: "(To povezavo lahko pošljete komur koli)"
+    send_more_files: Pošlji več datotek
+    download_speed: Hitrost prenosa
+    download_time: Čas prenosa
+    at_least_one_invalid_email: Vsaj en neveljaven e-poštni naslov
+    reply: Prejemnik lahko odgovori
+    private_message: Zasebno sporočilo
+    private_message_description_html: Pri zasebnem sporočilu se besedilo vašega sporočila ne pošlje prejemniku po e-pošti – prikaže se šele, ko prejemnik klikne povezavo v e-poštnem sporočilu in preveri pristnost. <ul> <li>Zasebno sporočilo lahko pošljete brez prilog.</li> <li>Ko si nekdo ogleda vaše sporočilo, boste prejeli potrdilo o dostopu.</li> <li>Zasebnega sporočila ni mogoče poslati z dovoljenjem za prenos »Kdor koli lahko prenese«.</li> </ul>
+    private_message_delivered_description: Sporočilo je bilo poslano kot zasebno sporočilo. Besedilo sporočila ni vključeno v e-poštno sporočilo, potrdilo o dostopu pa boste prejeli, ko si sporočilo ogleda vsak prejemnik.
+    access_info: Podatki o dostopu
+    access_details: Podrobnosti dostopa
+    validation_code: Potrditvena koda
+    expired_token_inline: Preverjanje pristnosti prek e-pošte je poteklo, poskusite znova.
+    invalid_token: Neveljavna ali potekla koda. Kliknite povezavo v izvirnem e-poštnem sporočilu, da znova potrdite svoj e-poštni naslov.
+    download_zip: Prenesi ZIP
+    zip_ready_for_download: ZIP je pripravljen za prenos
+    processing_zip: Obdelava arhiva ZIP
+    drop_file_here: Spustite datoteko sem
+    drop_files_here: Spustite datoteke sem
+    drop_files_and_folders_here: Spustite datoteke in mape sem
+    select_pool_files: Izberi datoteke iz zbirke
+    add_pool_files: Dodaj datoteke iz zbirke
+    invalid_validation_token: To ni veljavna potrditvena koda.
+    not_the_validation_token: To je ID sporočila, ne potrditvena koda. Vnesite potrditveno kodo.
+    no_messages_in_inbox: V nabiralniku ni sporočil.
+    filename_already_selected: Temu sporočilu je že dodana datoteka s tem imenom
+    filesize_exceeded: Presežena največja velikost sporočila
+    infected_with: Okuženo z virusom
+    not_permitted_to_download_content_blocked: "Prenos te datoteke ni dovoljen. Protivirusni pregled je zaznal: %{virus}"
+    invalid_email_address: Neveljaven e-poštni naslov
+    cant_create_folder: Mape ni mogoče ustvariti
+    cant_check_folder: Mape ni mogoče preveriti
+    cant_restore_folder: Mape ni mogoče obnoviti
+    cant_check_chunks: Delov ni mogoče preveriti
+    zip_not_include_all_files: Vseh datotek ni mogoče prenesti – arhiv ZIP bo vseboval samo datoteke, ki jih je mogoče prenesti.
+    paste_tip: Nasvet! Prilepite s Ctrl+Shift+V, da odstranite oblikovanje.
+  session:
+    api:
+      authentication_error: Napaka pri preverjanju pristnosti, poskusite znova.
+      not_local_user: Neveljaven e-poštni naslov. To funkcijo lahko uporabljajo samo lokalni uporabniki.
+      show:
+        login: Prijava
+        login_label: E-poštni naslov
+        password: Geslo
+        sso_login: Prijava SSO
+        authentication_title: Prijava
+        authentication_description: Za nadaljevanje vnesite svoj e-poštni naslov ali se prijavite.
+      authenticated:
+        authentication_successful: Preverjanje pristnosti uspešno
+    authenticate:
+      login: Za nadaljevanje se prijavite
+      description_html: Za odpiranje te strani se morate prijaviti. Za nadaljevanje vnesite svoj e-poštni naslov ali se prijavite.<br>Če v tem sistemu nimate računa, vnesite svoj e-poštni naslov in po e-pošti vam bomo poslali začasno geslo.
+      unauthorized: Nimate dovoljenja za ogled tega sporočila. Vnesite svoj e-poštni naslov natanko tako, kot vam je bilo sporočilo poslano, ali se obrnite na pošiljatelja.
+    email:
+      validate_email: Potrdite e-poštni naslov
+      validate_email_description_html: "Na vaš e-poštni naslov je bila poslana varnostna koda: <strong>%{email}</strong>. Kliknite povezavo ali tukaj vnesite varnostno kodo, da potrdite e-poštni naslov in nadaljujete."
+      session_expired: Seja je potekla, za nadaljevanje znova vnesite e-poštni naslov
+      token_expired: Povezava za preverjanje v e-poštnem sporočilu je potekla, poskusite znova.
+      already_authenticated: V tem brskalniku ste že prijavljeni.
+      resend_validation_email: Znova pošlji potrditveno sporočilo
+      verify: Preveri
+      validate_email_sent: "Novo potrditveno sporočilo je bilo poslano ob %{time}. Kliknite povezavo v e-poštnem sporočilu ali spodaj vnesite varnostno kodo, da potrdite e-poštni naslov."
+      invalid_temporary_user: Neveljavna varnostna koda. Preverite e-pošto – v nabiralnik vam je bila poslana nova varnostna koda.
+      create_account: Ustvari račun
+      create_account_description: Ustvarite račun v tem sistemu, da se boste lahko prijavljali z e-poštnim naslovom in geslom namesto z varnostno kodo.
+      invalid_email: Neveljaven e-poštni naslov
+    login_limit_exceeded:
+      delivered:
+        page_header: Presežena omejitev prijav
+        description: Prevečkrat ste se poskusili prijaviti. Za nadaljevanje morate ponastaviti geslo.
+        email: Poslano je bilo e-poštno sporočilo s povezavo za ponastavitev gesla.
+      waiting:
+        page_header: Presežena omejitev prijav
+        description: "Prevečkrat ste se poskusili prijaviti. Opomba: prijaviti se morate z omrežnim geslom. Če morate to geslo ponastaviti in ne veste kako, se obrnite na omrežnega skrbnika. Po izteku čakalnega časa lahko stran znova naložite, da ponastavite omejitev."
+        expiration_time: Čakalni čas
+        reload: Znova naloži
+      show:
+        page_header: Presežena omejitev prijav
+        description: Prevečkrat ste se poskusili prijaviti. Omejitev prijav lahko ponastavite in se znova prijavite. Poslali smo vam e-poštno sporočilo za ponastavitev omejitve.
+      reset:
+        login_limit_reset: Omejitev prijav ponastavljena
+    shared:
+      authentication_successful: Preverjanje pristnosti uspešno
+    outlook:
+      edit:
+        authentication_title: Preveri pristnost
+        authentication_description: Za nadaljevanje se prijavite
+        login: Prijava
+        login_label: E-poštni naslov
+        password: Geslo
+        sso_login: Prijava SSO
+      show:
+        authentication_title: Preveri pristnost
+        authentication_description: Za prilaganje varnih datotek se prijavite.
+        authenticate: Preveri pristnost
+    saml:
+      not_configured:
+        title: SAML ni konfiguriran
+        description: SAML v tem sistemu ni konfiguriran. Če menite, da gre za napako, se obrnite na podporo, da zadevo razišče.
+        support_button: Obrnite se na podporo
+      api:
+        local:
+          title: Preverjanje pristnosti SAML
+          description: Preverjanje pristnosti SAML se je odprlo v vašem privzetem brskalniku – tam nadaljujte s prijavo. Če okna ne najdete ali iz kakršnega koli razloga ne deluje, lahko nadaljujete s klikom na spodnji gumb.
+          button_label: Prijava SSO
+      response:
+        api_error:
+          authentication_error: Preverjanje pristnosti ni uspelo
+          saml_authentication_error: Preverjanje pristnosti SSO ni uspelo
+          saml_authentication_error_description: Preverjanje pristnosti SSO ni uspelo. Če se težava ponavlja, se obrnite na skrbnika.
+        api_disabled:
+          api_disabled: Nepooblaščena skupina uporabnikov
+          api_disabled_description: Vaš račun nima dostopa do te funkcije (API onemogočen). Obrnite se na skrbnika in ga prosite, naj vaš račun premakne v drugo skupino.
+        api_response:
+          authentication_successful: Preverjanje pristnosti uspešno
+        create:
+          could_not_create_account: Računa ni bilo mogoče ustvariti. Za več informacij se obrnite na skrbnika.
+        show:
+          could_not_create_account: Računa ni bilo mogoče ustvariti. Za več informacij se obrnite na skrbnika.
+    temporary_user:
+      validate_email: Potrdite e-poštni naslov
+      validate_email_description_html: "Na vaš e-poštni naslov je bilo poslano začasno geslo: <strong>%{email}</strong>. Kliknite povezavo ali tukaj vnesite začasno geslo, da potrdite e-poštni naslov in nadaljujete."
+      session_expired: Seja je potekla, za nadaljevanje znova vnesite e-poštni naslov
+      token_expired: Povezava za preverjanje v e-poštnem sporočilu je potekla, poskusite znova.
+      already_authenticated: V tem brskalniku ste že prijavljeni.
+      resend_validation_email: Znova pošlji potrditveno sporočilo
+      verify: Preveri
+      validate_email_sent: "Novo potrditveno sporočilo je bilo poslano ob %{time}. Kliknite povezavo v e-poštnem sporočilu ali spodaj vnesite geslo, da potrdite e-poštni naslov."
+      invalid_temporary_user: Neveljavno geslo. Preverite e-pošto – začasno geslo vam je bilo znova poslano v nabiralnik.
+      temporary_user_expired: Začasno geslo je poteklo. Preverite e-pošto – v nabiralnik vam je bilo poslano novo začasno geslo.
+      create_account: Ustvari račun
+      create_account_description: Ustvarite stalni račun v tem sistemu, da se boste lahko prijavljali z e-poštnim naslovom in geslom namesto z začasnim uporabniškim računom.
+  shared:
+    show: Prikaži
+    reify: Obnovi
+    download: Prenesi
+    restore: Obnovi
+    delete: Izbriši
+    trash: Koš
+    cancel: Prekliči
+    close: Zapri
+    current: Trenutno
+    bootstrap_confirm_dialog:
+      confirm_action: Potrdi dejanje
+    shares:
+      bootstrap_confirm_dialog:
+        confirm_action: Potrdi dejanje
+      navigation:
+        files: Datoteke
+        activity_log: Dnevnik dejavnosti
+      wrap_content:
+        activity_log: Dnevnik dejavnosti
+    error_messages:
+      prohibited_this_from_being_saved: je preprečilo shranjevanje %{target}
+  share:
+    share: Share
+    shares: Share
+    no_shares: Na voljo ni nobenega Share
+    name: Ime
+    folder_name: Ime mape
+    share_not_found: Share ni mogoče najti
+    folder_not_found: Mape ni mogoče najti
+    file_not_found: Datoteke ni mogoče najti
+    no_read_access: Nimate dovoljenja za dostop do tega Share
+    no_write_access: Nimate dovoljenja za pisanje v ta Share
+    not_authorized_to_view_logs: Nimate dovoljenja za ogled dnevnikov
+    require_authentication: Ta Share zahteva preverjanje pristnosti. Za nadaljevanje vnesite geslo.
+    authenticate: Preveri pristnost
+    authentication_failed: Preverjanje pristnosti ni uspelo
+  shares:
+    folders:
+      are_you_sure_you_want_to_delete: Ali res želite izbrisati to mapo?
+      are_you_sure_you_want_to_trash: Ali res želite trajno izbrisati to mapo?
+      folder_name_already_taken: To ime mape je že zasedeno!
+      folder_not_found: Mape ni mogoče najti
+      could_not_create_folder: "Mape ni bilo mogoče ustvariti: %{error}"
+      zip_no_files: Ni datotek za dodajanje v arhiv ZIP
+      windows_path_warning:
+        title: Omejitev dolžine poti v sistemu Windows
+        description_html: <strong>Uporabniki sistema Windows:</strong> Windows omejuje poti datotek na 259 znakov. Pri nalaganju map z mest z dolgimi potmi so lahko datoteke globoko v strukturi map brez opozorila izpuščene, kar lahko povzroči nepopolna nalaganja ali podvojene mape.
+        workarounds_title: Priporočene rešitve
+        workarounds_html: "<li><strong>Uporabite navidezni pogon:</strong> odprite ukazni poziv in zaženite: <code>subst X: \"C:\\vasa\\dolga\\pot\\do\\mape\"</code><br>Nato nalagajte z navideznega pogona <code>X:\\</code></li><li><strong>Pomaknite se bliže datotekam:</strong> preden izberete mapo za nalaganje, se pomaknite v podmapo bliže datotekam</li><li><strong>Uporabite krajšo pot:</strong> pred nalaganjem kopirajte datoteke na krajše mesto, na primer <code>C:\\uploads\\</code></li><li><strong>Najprej stisnite mapo:</strong> stisnite mapo v datoteko ZIP in naložite datoteko ZIP</li>"
+        advanced_title: "Napredno: omogočanje dolgih poti v sistemu Windows 10/11"
+        advanced_description_html: Od različice 1607 sistema Windows 10 lahko omogočite podporo za daljše poti. <strong>Opomba:</strong> za to potrebujete skrbniške pravice, morda pa ne bo delovalo v vseh brskalnikih. Zgornje rešitve so zanesljivejše.
+        registry_steps_title: Koraki za omogočanje dolgih poti
+        registry_steps_html: "<li>Pritisnite <kbd>Win + R</kbd>, vnesite <code>regedit</code> in pritisnite Enter</li><li>Pojdite na: <code>HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\FileSystem</code></li><li>Poiščite ali ustvarite vrednost DWORD z imenom <code>LongPathsEnabled</code> in jo nastavite na <code>1</code></li><li>Znova zaženite računalnik, da sprememba začne veljati</li><li>Znova preizkusite nalaganje (podpora se lahko razlikuje glede na brskalnik)</li>"
+        browser_disclaimer_html: "<strong>Pomembno:</strong> tudi ko je ta nastavitev registra omogočena, se podpora za dolge poti razlikuje glede na brskalnik. Chrome, Edge in Firefox lahko še vedno uveljavljajo omejitev 259 znakov. Zgornje rešitve so zanesljivejše."
+      folder:
+        rename_folder: Preimenuj mapo
+        move_folder_description: Premakni mapo %{foldername} v spodaj izbrano mapo
+        move_folder: Premakni mapo
+      action_bar:
+        download_as_zip: Prenesi kot ZIP
+        download_as_zip_with_deleted: Prenesi kot ZIP, vključno z izbrisanimi datotekami
+        toggle_deleted_view: Prikaži/skrij izbrisane datoteke
+        filter: Filter
+        upload_file: Naloži datoteke
+        upload_folder: Naloži mapo
+        create_folder: Ustvari mapo
+        windows_path_warning: Opozorilo o dolžini poti
+        upload_folder_unsupported: Nalaganje map ni podprto
+        upload_folder_unsupported_description: Vaš brskalnik žal ne podpira nalaganja map. Za nalaganje strukture map uporabite namizno različico brskalnika Chrome ali Safari.
+        showing_deleted: Prikazanih izbrisanih %{number_of}
+        hiding_deleted: Skritih izbrisanih %{number_of}
+        actions: Dejanja
+        move_selected: Premakni izbrane
+        trash_selected: Premakni izbrane v koš
+        delete_selected: Izbriši izbrane
+      action_bar_below:
+        send_notifications: Pošlji obvestila
+        sending_notifications: Pošiljanje obvestil
+        quota: Kvota
+        used_of: porabljeno od
+        available: na voljo
+        quota_exceeded: Presežena kvota
+      create_folder_modal:
+        create_folder: Ustvari mapo
+        create: Ustvari
+      files:
+        are_you_sure_you_want_to_delete: Ali res želite izbrisati to datoteko?
+        are_you_sure_you_want_to_trash: Ali res želite trajno izbrisati to datoteko?
+        file_not_found: Datoteke ni mogoče najti
+        file:
+          rename_file: Preimenuj datoteko
+          move_file: Premakni
+          move_file_description: Premakni datoteko %{filename} v spodaj izbrano mapo
+        show:
+          prev: Prejšnja
+          up: Gor
+          next: Naslednja
+          last_updated: Nazadnje posodobljeno
+          versions: Različice
+          show_all: Prikaži vse
+          version_from: Različica z dne
+          next_version: Naslednja različica
+          previous_version: Prejšnja različica
+          current_version: Trenutna različica
+          pdf_preview_not_supported: Vaš brskalnik ne podpira predogleda datotek PDF
+        available_chunks:
+          available: Na voljo so delno naložene naslednje datoteke
+          resume_replace: Ali želite nadaljevati nalaganje ali zamenjati datoteke?
+      quota:
+        quota: Kvota
+        used_of: porabljeno od
+        available: na voljo
+        quota_exceeded: Presežena kvota
+      move_file_folder_modal:
+        move_folder: Premakni mapo
+        move_file: Premakni datoteko
+        move: Premakni
+      show:
+        select_all: Izberi vse / počisti izbiro
+    logs:
+      action_bar:
+        activity_log: Dnevnik dejavnosti
+      message:
+        created: Ustvarjeno
+        uploaded: Naloženo
+        downloaded: Preneseno
+        reified: Obnovljeno
+        removed: Odstranjeno
+        restored: Obnovljeno
+        deleted: Izbrisano
+        moved: Premaknjeno
+        renamed: Preimenovano
+        added: Dodano
+        viewed: Ogledano
+        infected: Okuženo
+        trashed: Premaknjeno v koš
+        deleted_user: "(Izbrisan uporabnik)"
+        share: Share
+        folder: Mapa
+        file: Datoteka
+        group: Skupina
+        user: Uporabnik
+        read: Branje
+        read/write: Branje/pisanje
+        av_scanner: Protivirusni program
+        version_from: Različica z dne
+        file_deleted: Datoteka izbrisana
+        to: v
+        from: iz
+        unknown: Neznano
+        other: Drugo
+  share/log:
+    message:
+      you: Vi
+      share: Share
+      folder: mapa
+      file: datoteka
+      user: uporabnik
+      version_from: različica z dne
+      read: branje
+      read/write: branje/pisanje
+      created: je ustvaril(a)
+      added: je dodal(a)
+      uploaded: je naložil(a)
+      downloaded: je prenesel(-la)
+      updated: je posodobil(a)
+      restored: je obnovil(a)
+      reified: je obnovil(a)
+      deleted: je izbrisal(a)
+      removed: je trajno izbrisal(a)
+      trashed: je premaknil(a) v koš
+      renamed: je preimenoval(a)
+      viewed: si je ogledal(a)
+      infected: okuženo
+      av_scanner: Protivirusni program
+      file_deleted: Datoteka izbrisana
+  sms_auth:
+    login_failed: Prijava ni uspela
+    sms_error: Napaka v konfiguraciji SMS, obrnite se na sistemskega skrbnika
+    verify_token: Preveri kodo SMS
+    verify_token_description: "Vnesite kodo, poslano na vaš mobilni telefon:"
+    sms_login_failed: Preverjanje SMS ni uspelo, poslana je bila nova koda SMS
+    sms_signup: Registracija za dvostopenjsko preverjanje prek SMS
+    sms_signup_failed: Dvostopenjsko preverjanje prek SMS ni uspelo
+    sms_signup_description: Za nadaljevanje se morate registrirati za dvostopenjsko preverjanje prek SMS. Za nadaljevanje spodaj vnesite svojo telefonsko številko.
+    verify: Preveri
+    resend: Znova pošlji kodo
+    code: Koda
+    token_resent: Koda SMS znova poslana ob %{time}
+    send_token: Pošlji potrditveno kodo
+    phone_number: Telefonska številka
+    invalid_phone_number: Neveljavna telefonska številka, poskusite znova.
+    change_phone_number: Spremeni telefonsko številko
+    phone_number_help: Vnesite telefonsko številko s kodo države in brez začetnih ničel (npr. 38631123456). Na to številko bo poslana potrditvena koda.
+    one-time-code: Enkratna koda
+  strong_auth:
+    two_factor_authentication: Dvostopenjsko preverjanje
+    enable_2fa: Omogoči dvostopenjsko preverjanje
+    disable_2fa: Onemogoči dvostopenjsko preverjanje
+    title: Omogoči dvostopenjsko preverjanje
+    enable_2fa_description: Za večjo varnost računa lahko omogočite močno dvostopenjsko preverjanje.
+    require_description: Za uporabo tega sistema morate nastaviti dvostopenjsko preverjanje.
+    disable_description: Za onemogočenje dvostopenjskega preverjanja vnesite trenutno kodo
+    two_factor_auth_disabled: Dvostopenjsko preverjanje onemogočeno
+    step1: "1. korak: prenesite aplikacijo za preverjanje"
+    step1_description: Omogočite dvostopenjsko preverjanje, običajno z mobilno aplikacijo.
+    totp_apps_description_html: Med aplikacije za preverjanje spadata na primer <a href="https://authy.com" target="_blank" rel="external nofollow noopener noreferrer">Authy</a> (več platform) in Google Authenticator (iOS/Android). Več možnosti najdete na strani <a href="https://docs.liquidfiles.com/authentication/totp.html#clients" target="_blank">TOTP Clients</a>.
+    step2: "2. korak: nastavite aplikacijo za preverjanje"
+    step2_description: Aplikacijo za preverjanje nastavite tako, da optično preberete kodo QR.
+    step2_alt: Ali vnesite naslednjo kodo
+    step3: "3. korak: preverite"
+    step3_description: Preverite nastavitev tako, da vnesete kodo, ki jo ustvari aplikacija za preverjanje.
+    failed_to_authenticate: Preverjanje pristnosti ni uspelo, poskusite znova.
+    click_on_link: Lahko pa kliknete naslednjo povezavo, da konfiguracijo dodate v aplikacijo za dvostopenjsko preverjanje
+    configure: Nastavi dvostopenjsko preverjanje
+    success_saved: Uspešno, konfiguracija dvostopenjskega preverjanja je shranjena
+    verify_token: Preveri dvostopenjsko preverjanje
+    verify_token_description: Vnesite kodo dvostopenjskega preverjanja iz mobilne aplikacije.
+    verify: Preveri
+    two_factor_login_failed: Dvostopenjsko preverjanje ni uspelo
+    two_factor_validation_failed: Potrditev dvostopenjskega preverjanja ni uspela
+    skip_2fa_for_two_weeks: V tem brskalniku za dva tedna preskoči dvostopenjsko preverjanje
+    one-time-code: Enkratna koda
+  support:
+    email_subject: Prosim za pomoč pri
+    email_body: Čim podrobneje opišite svojo težavo. Hvala.
+    navbar_tooltip: Če potrebujete pomoč pri dostopu do tega sistema ali njegovi uporabi, kliknite to povezavo in z veseljem vam bomo pomagali.
+  user:
+    includes_at_least_one_invalid_email_address: vsebuje vsaj en neveljaven e-poštni naslov
+    confirm:
+      invalid_session: Neveljavna seja
+      already_validated: Vaš e-poštni naslov je že potrjen
+      invalid_token: Neveljavna koda. Poskusite znova ali kliknite Znova pošlji potrditveno sporočilo.
+      validation_email_sent: "Potrditveno sporočilo poslano ob %{time}"
+      activated_successfully: Uspešno aktivirano
+      validate_email_description: Preverite e-pošto in vnesite začasno geslo, da potrdite svoj e-poštni naslov.
+    register:
+      already_registered: Ta račun je že registriran, za nadaljevanje se prijavite
+      already_registered_not_validated: Vaš račun je že registriran, vendar je e-poštni naslov treba še potrditi. Poslali smo vam e-poštno sporočilo z naključno kodo. Vnesite kodo spodaj ali kliknite povezavo v e-poštnem sporočilu, da potrdite račun.
+      show:
+        register: Registriraj račun
+        description_html: <p>Vnesite svoje podatke, da ustvarite račun. S tem računom lahko varno pošiljate velike datoteke na %{branding_name}.</p>
+    signup:
+      create:
+        need_password: Vnesti morate geslo
+        need_name: Vnesti morate ime
+    create:
+      show:
+        cancel_and_remember: Prekliči in ne sprašuj več
+        cancel_and_remember_title: To si bo zapomnil trenutni brskalnik
+  validator:
+    required: To polje je obvezno.
+    remote: Popravite to polje.
+    email: Vnesite veljaven e-poštni naslov.
+    url: Vnesite veljaven URL.
+    date: Vnesite veljaven datum.
+    dateISO: Vnesite veljaven datum (ISO).
+    number: Vnesite veljavno število.
+    digits: Vnesite samo števke.
+    creditcard: Vnesite veljavno številko kreditne kartice.
+    equalTo: Znova vnesite isto vrednost.
+    accept: Vnesite vrednost z veljavno pripono.
+    maxlength: Vnesite največ {0} znakov.
+    minlength: Vnesite vsaj {0} znakov.
+    rangelength: Vnesite vrednost, dolgo od {0} do {1} znakov.
+    range: Vnesite vrednost med {0} in {1}.
+    max: Vnesite vrednost, manjšo ali enako {0}.
+    min: Vnesite vrednost, večjo ali enako {0}.
+    step: Vnesite večkratnik števila {0}.
+    invalid_phone_number: Neveljavna telefonska številka
+  locale: Slovenščina

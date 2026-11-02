@@ -1,0 +1,1569 @@
+ar:
+  s: ث
+  min: د
+  hours: ساعات
+  days: أيام
+  weeks: أسابيع
+  months: أشهر
+  years: سنوات
+  ago: مضت
+  email: البريد الإلكتروني
+  save: حفظ
+  delete: حذف
+  cancel: إلغاء
+  remove: إزالة
+  aborting: جارٍ الإيقاف
+  aborted: تم الإيقاف
+  saved_successfully: تم الحفظ بنجاح
+  logout: تسجيل الخروج
+  error: خطأ
+  enabled: مُفعّل
+  disabled: معطّل
+  disable: تعطيل
+  default: افتراضي
+  submit: إرسال
+  session_expired: انتهت صلاحية الجلسة
+  search: بحث
+  filter: تصفية
+  recipient: المستلم
+  recipients: المستلمون
+  downloaded_by: تم التنزيل بواسطة
+  filename: اسم الملف
+  size: الحجم
+  downloaded: تم التنزيل
+  host: المضيف
+  ip: عنوان IP
+  action: الإجراء
+  view_message: عرض الرسالة
+  view_message_popup: عرض الرسالة (في نافذة منبثقة)
+  download_info: معلومات التنزيل
+  message_id: معرّف الرسالة
+  filelink_id: معرّف FileLink
+  sent_at: تاريخ الإرسال
+  id: المعرّف
+  subject: الموضوع
+  expires: تنتهي الصلاحية
+  invalid_method: طريقة غير صالحة
+  export_csv: تصدير بتنسيق CSV
+  export_all: تصدير الكل
+  export_visible: تصدير المعروض
+  temporarily_unavailable: غير متاح مؤقتًا
+  generic_search_error: خطأ عام في البحث
+  sender: المرسل
+  search_temporary_disabled: البحث معطّل مؤقتًا
+  help: تعليمات
+  close: إغلاق
+  count: العدد
+  settings: إعدادات الحساب
+  virus: فيروس
+  virus_status: حالة فحص الفيروسات
+  infected: مصاب
+  clean: سليم
+  not_scanned: لم يتم فحصه
+  not_yet_scanned: لم يتم فحصه بعد
+  csrf_error: "CSRF: تم اكتشاف معلمات غير صالحة. يُرجى تسجيل الدخول مرة أخرى للمتابعة."
+  could_not_be_saved: تعذّر الحفظ
+  label: التسمية
+  updated: تم التحديث
+  add: إضافة
+  system_info: معلومات النظام
+  location: الموقع
+  accept: قبول
+  last_7_days: آخر 7 أيام
+  last_30_days: آخر 30 يومًا
+  last_60_days: آخر 60 يومًا
+  last_90_days: آخر 90 يومًا
+  last_180_days: آخر 180 يومًا
+  last_365_days: آخر 365 يومًا
+  file: ملف
+  files: الملفات
+  next: التالي
+  previous: السابق
+  name: الاسم
+  view: عرض
+  forget: نسيان
+  update: تحديث
+  updated_at: تاريخ التحديث
+  created_at: تاريخ الإنشاء
+  download_link_expired: انتهت صلاحية رابط التنزيل.
+  no_html5_upload_warning: يتطلب تحميل الملفات متصفحًا حديثًا متوافقًا مع HTML5. تعمل متصفحات Microsoft Edge وChrome وFirefox وSafari جميعها بشكل ممتاز.
+  javascript_warning: يلزم JavaScript لتحميل الملفات واستخدام معظم الوظائف.
+  cookie_accept: يستخدم هذا الموقع ملفات تعريف الارتباط. بتسجيل الدخول أو النقر على «قبول»، فإنك توافق على استخدام ملفات تعريف الارتباط.
+  i_agree: أوافق
+  session_timeout: انتهت صلاحية الجلسة، يُرجى تسجيل الدخول مرة أخرى
+  loading: جارٍ التحميل...
+  unsupported_browser_header: متصفح غير مدعوم
+  unsupported_browser_description_html: متصفحك غير مدعوم، ومن المرجح ألا يعمل الموقع كما هو متوقع. يُرجى استخدام متصفح أحدث.
+  not_logged_in_invalid_parameters: لم يتم تسجيل الدخول، معلمات غير صالحة
+  toggle_dropdown: إظهار/إخفاء القائمة
+  rejected: مرفوض
+  undetected: لم يُكتشف
+  invalid_link: رابط غير صالح، يُرجى التواصل مع المرسل
+  account_settings_tooltip: إعدادات الحساب
+  logout_tooltip: تسجيل الخروج
+  download_id: معرّف التنزيل
+  remote_host: المضيف البعيد
+  show: إظهار
+  hide: إخفاء
+  password: كلمة المرور
+  download: تنزيل
+  unauthorized: غير مصرّح
+  account:
+    login: تسجيل الدخول
+    login_label: عنوان البريد الإلكتروني
+    email: عنوان البريد الإلكتروني
+    password: كلمة المرور
+    current_password: كلمة المرور الحالية
+    please_enter_your_current_password: يُرجى إدخال كلمة المرور الحالية
+    sign_in: تسجيل الدخول
+    remember_me: تذكّرني
+    not_administrator: لست مسؤولاً
+    password_reset: إعادة تعيين كلمة المرور
+    register: التسجيل
+    register_description_html: شكرًا لك! للمتابعة، يُرجى إدخال بياناتك وإنشاء حساب.<br>في المرة القادمة يمكنك تسجيل الدخول باستخدام عنوان بريدك الإلكتروني وكلمة المرور.
+    account_not_activated: الحساب غير مُفعّل. يُرجى تفعيل حسابك قبل تسجيل الدخول. لقد أرسلنا إليك رسالة بريد إلكتروني تحتوي على رمز عشوائي. أدخل الرمز أدناه أو انقر على الرابط في الرسالة لتأكيد حسابك.
+    incorrect_user_or_pw: اسم المستخدم أو كلمة المرور غير صحيحة
+    confirmation_email_sent: تم إرسال رسالة التأكيد
+    activated_successfully: تم التفعيل بنجاح
+    not_activated: الحساب غير مُفعّل
+    password_reset_email_sent: تم إرسال رسالة إعادة تعيين كلمة المرور
+    no_such_user: هذا المستخدم غير موجود
+    no_such_email: لم يتم العثور على عنوان البريد الإلكتروني
+    not_logged_in: لم تسجّل الدخول. يُرجى تسجيل الدخول للمتابعة.
+    saved_successfully: تم الحفظ بنجاح
+    unlicensed_install_some_settings: "تثبيت غير مرخّص: خيارات العلامة التجارية مرئية لمسؤولي النظام فقط"
+    incorrect_login_or_demo: اسم المستخدم أو كلمة المرور غير صحيحة، أو تم بلوغ حد الترخيص
+    incorrect_login_or_ldap: اسم المستخدم أو كلمة المرور غير صحيحة، أو حدث خطأ في خادم LDAP
+    invalid_api_key: مفتاح API غير صالح
+    cant_delete_last_sysadmin: لا يمكن حذف آخر مسؤول نظام
+    cant_change_last_sysadmin: لا يمكن تغيير آخر مسؤول نظام
+    sso_login: تسجيل الدخول الموحّد (SSO)
+    invalid_sso_response: استجابة SSO غير صالحة
+    automatic: اكتشاف تلقائي
+    network_access_blocked: غير مسموح بالوصول إلى هذا النظام من شبكتك.
+    please_login: يُرجى تسجيل الدخول لفتح هذه الصفحة.
+    email_validation_session_timeout: انتهت صلاحية الجلسة، يُرجى تأكيد عنوان بريدك الإلكتروني مرة أخرى.
+    signature: التوقيع
+    not_authorized_for_action: غير مصرّح لك بتنفيذ هذا الإجراء
+    invalid_group: مجموعة غير صالحة. يُرجى التواصل مع مسؤول يمكنه نقل حسابك إلى مجموعة مستخدمين محليين
+    invalid_group_configuration: إعدادات مجموعة غير صالحة. يُرجى التواصل مع مسؤول يمكنه إنشاء حساب لك أو تعديل إعدادات المجموعة.
+    please_enter_email_to_email_password: يُرجى إدخال عنوان بريدك الإلكتروني لإعادة تعيين كلمة المرور. سيتم إرسال رسالة تأكيد إلى هذا العنوان.
+    password_reset_successfully: تمت إعادة تعيين كلمة المرور بنجاح
+    password_cant_be_empty: لا يمكن أن تكون كلمة المرور فارغة
+    password_complexity_title: تعقيد كلمة المرور
+    password_complexity_description_html: "<p><strong>لا يجوز أن تعتمد</strong> كلمة المرور على كلمة من القاموس، ويجب أن تستوفي 3 على الأقل من المتطلبات التالية:</p><ul><li>8 أحرف على الأقل</li><li>11 حرفًا على الأقل</li><li>15 حرفًا على الأقل</li><li>حرف صغير واحد وحرف كبير واحد على الأقل</li><li>رقم واحد على الأقل (0-9)</li><li>واحد على الأقل من الرموز التالية: !,@,#,$,%,^,&amp;,*,?,_,~,-,(,)</li></ul>"
+    is_not_strong_enough: ليست قوية بما يكفي
+    your_password_has_expired: انتهت صلاحية كلمة المرور
+    please_select_a_different_password: يُرجى اختيار كلمة مرور مختلفة عن السابقة
+    change_password: تغيير كلمة المرور
+    account_not_found: لم يتم العثور على الحساب. يُرجى تسجيل الدخول مرة أخرى.
+    user_required_to_use_saml: لا يمكن إعادة تعيين كلمة المرور، يُرجى تسجيل الدخول عبر SAML
+    sysadmin_ldap_error: تتم إدارة هذا الحساب عبر LDAP ولا يمكن إعادة تعيينه من هنا
+    login_limit_exceeded: تم تجاوز حد محاولات تسجيل الدخول
+    a_confirmation_email_will_be_sent: سيتم إرسال رسالة تأكيد إلى هذا العنوان
+    name: الاسم
+    password_confirm: تأكيد كلمة المرور
+    save: حفظ
+    can_not_reset_password_please_check_with_your_administrator: لا يمكن إعادة تعيين كلمة المرور، يُرجى التواصل مع المسؤول
+    no_need_to_register_user: لا حاجة إلى التسجيل. يُرجى تسجيل الدخول باستخدام حسابك الحالي.
+    registration_not_allowed: التسجيل غير مسموح به
+    create_description: أنشئ حسابك بإدخال اسمك وكلمة مرور.
+    activated_successfully_please_login: تم تفعيل الحساب بنجاح. يمكنك الآن تسجيل الدخول باستخدام عنوان بريدك الإلكتروني وكلمة المرور.
+    invalid_activation_url: رابط تفعيل غير صالح. يُرجى التحقق من الرابط والمحاولة مرة أخرى.
+    already_logged_in: أنت مسجّل الدخول بالفعل. لا يمكن تسجيل حساب جديد.
+    bruteforce_message: لقد تجاوزت عدد المحاولات الفاشلة. يُرجى المحاولة مرة أخرى بعد %{minutes} دقيقة.
+    admin_access_blocked: غير مسموح بوصول المسؤول من عنوان IP الخاص بك.
+    account_created_successfully: تم إنشاء الحساب بنجاح
+    create_account: إنشاء حساب
+    create_account_description: حدّث بياناتك لإنشاء حسابك.
+    account_settings: إعدادات الحساب
+    change_language: تغيير اللغة والمنطقة الزمنية
+    filedrop_label: Filedrop (عشوائي)
+    filedrop_email_label: Filedrop
+    verify_account: التحقق من الحساب
+    invalid_sso_signature: توقيع SSO أو تسجيل دخول غير صالح
+    user_not_found: لم يتم العثور على المستخدم
+    could_not_create_account: تعذّر إنشاء الحساب
+    two_factor_authentication_failed: فشلت المصادقة الثنائية عبر Duo
+    copy_to_clipboard: نسخ إلى الحافظة
+    copy_url_to_clipboard: نسخ عنوان URL إلى الحافظة
+    delete_user_warning: هل أنت متأكد من رغبتك في حذف هذا المستخدم؟
+    unauthorized_to_login: غير مصرّح لك بتسجيل الدخول
+    first_time_message_title: مرحبًا بك في LiquidFiles
+    first_time_message: <p>مرحبًا بك في LiquidFiles، أسهل طريقة لإرسال الملفات الكبيرة بأمان.</p><p>تعمل الوظائف الأساسية تمامًا مثل نظام بريد إلكتروني على الويب.</p><p>ستظهر هذه الرسالة مرة واحدة فقط. إذا واجهتك صعوبة أو أردت اكتشاف وظائف أكثر تقدمًا، فانقر على زر «تعليمات» في أعلى شريط القوائم.</p>
+    first_time_message_button: فهمت!
+    registration_failed_unknown_error: فشل التسجيل بسبب خطأ غير معروف
+    session_timeout: انتهت صلاحية الجلسة
+    nothing_filled_in: يُرجى تعبئة النموذج
+    last_used: آخر استخدام
+    strong_auth_required_before_password_reset: تلزم مصادقة ثنائية قوية قبل إعادة تعيين كلمة مرور هذا الحساب.
+    unfriendly_registration_message: إذا كان بإمكانك التسجيل في النظام بعنوان البريد الإلكتروني هذا، فستتلقى رسالة بريد إلكتروني. إذا لم تتلقَّها، فيُرجى استخدام رابط الدعم أعلاه.
+    unfriendly_password_reset_message: إذا كان بالإمكان إعادة تعيين الحساب المرتبط بعنوان البريد الإلكتروني هذا، فستتلقى رسالة بريد إلكتروني. إذا لم تتلقَّها، فيُرجى استخدام رابط الدعم أعلاه.
+    aliases:
+      aliases: الأسماء المستعارة
+      aliases_description: يمكنك إضافة أسماء مستعارة للمرسل والمستلم إلى حسابك. يتيح لك الاسم المستعار للمرسل إرسال الرسائل نيابةً عن عنوان البريد الإلكتروني هذا. ويتيح لك الاسم المستعار للمستلم عرض الرسائل الموجّهة إلى ذلك العنوان. تظهر الرسائل الموجّهة إلى اسم مستعار للمستلم أيضًا في صندوق وارد الرسائل الآمنة.
+      aliases_no_change_description: يتيح لك الاسم المستعار للمرسل إرسال الرسائل نيابةً عن عنوان البريد الإلكتروني هذا. ويتيح لك الاسم المستعار للمستلم عرض الرسائل الموجّهة إلى ذلك العنوان. تظهر الرسائل الموجّهة إلى اسم مستعار للمستلم أيضًا في صندوق وارد الرسائل الآمنة. لإضافة أسماء مستعارة أو تغييرها، يُرجى التواصل مع مسؤول.
+      recipient_aliases: الأسماء المستعارة للمستلم
+      sender_aliases: الأسماء المستعارة للمرسل
+      add_alias: إضافة اسم مستعار
+      remove: إزالة
+      default_sender_alias: الاسم المستعار الافتراضي للمرسل
+      default_sender_alias_description: الاسم المستعار الذي يُستخدم افتراضيًا للمرسل.
+      are_you_sure: هل أنت متأكد من رغبتك في إزالة هذا الاسم المستعار؟
+      no_emails: لم تتم إضافة أي اسم مستعار.
+      please_contact_an_administrator: يُرجى التواصل مع مسؤول لإدارتها
+      auto_added_aliases: أسماء مستعارة مضافة تلقائيًا
+      auto_added_aliases_description: تمت إضافة الأسماء المستعارة التالية إلى ملفك الشخصي تلقائيًا. يُرجى التواصل مع مسؤول لإدارتها.
+    alias:
+      confirm:
+        show:
+          title: شكرًا لك على التأكيد
+          alias_email: عنوان البريد الإلكتروني للاسم المستعار
+          user: المستخدم
+          recipient_and_sender_confirmation: يمكن للمستخدم المذكور أعلاه الآن عرض الرسائل الآمنة الموجّهة إلى عنوان البريد الإلكتروني هذا وإرسال رسائل آمنة نيابةً عنه. إذا كان هذا خطأً، فانقر على رابط الدعم أعلاه.
+          only_recipient_confirmation: يمكن للمستخدم المذكور أعلاه الآن عرض الرسائل الآمنة الموجّهة إلى عنوان البريد الإلكتروني هذا. إذا كان هذا خطأً، فانقر على رابط الدعم أعلاه.
+          only_sender_confirmation: يمكن للمستخدم المذكور أعلاه الآن إرسال رسائل آمنة نيابةً عن عنوان البريد الإلكتروني هذا. إذا كان هذا خطأً، فانقر على رابط الدعم أعلاه.
+    add_alias_modal:
+      title: إضافة اسم مستعار
+      description: أدخل عنوان البريد الإلكتروني الذي تريد الوصول إليه كاسم مستعار للمستلم أو المرسل. سيتم إرسال رسالة تأكيد إلى هذا العنوان.
+      recipient_alias: اسم مستعار للمستلم - أريد قراءة الرسائل المرسلة إلى عنوان البريد الإلكتروني هذا.
+      sender_alias: اسم مستعار للمرسل - أريد إرسال رسائل نيابةً عن عنوان البريد الإلكتروني هذا.
+      invalid_email: عنوان بريد إلكتروني غير صالح
+      add_permission: اختر اسمًا مستعارًا للمستلم أو للمرسل أو كليهما.
+      send_request: إرسال الطلب
+      request_has_been_sent: تم إرسال طلبك.
+    api:
+      api_key: مفتاح API
+      api_key_description: يُستخدم مفتاح API من قِبل الإضافات مثل إضافة Outlook، ويمكن استخدامه في عمليات التكامل المخصصة. لن تحتاج إليه إلا إذا طلبه منك أحد المسؤولين.
+      api_key_reset_warning: هل أنت متأكد؟ إذا أعدت تعيين مفتاح API، فسيتعيّن عليك استبدال المفتاح القديم في كل مكان استخدمته فيه.
+      reset_api_key: إعادة تعيين مفتاح API
+    contacts:
+      contacts: جهات الاتصال
+      contacts_description: يمكنك إضافة أي عدد تريده من جهات الاتصال. يمكن أن يكون لكل جهة اتصال عدة عناوين بريد إلكتروني، لتتمكن من الإرسال إلى عدة مستلمين دفعة واحدة بسرعة وسهولة.
+      add_contact: إضافة جهة اتصال
+      email_field_help: قائمة بعناوين البريد الإلكتروني مفصولة بفواصل.
+      contact:
+        edit_label: تعديل التسمية
+        edit_email: تعديل عنوان البريد الإلكتروني
+        are_you_sure: هل أنت متأكد من رغبتك في حذف جهة الاتصال هذه؟
+    filedrops:
+      filedrops: Filedrop
+      filedrops_description: أنت المستلم الرئيسي أو مستلم النسخة لهذه الـ Filedrop. أي ملف يُرسل عبر أيٍّ منها سيُسلَّم إليك.
+      name: الاسم
+      title: العنوان
+      recipient: المستلم
+      expires_after: تنتهي الصلاحية بعد
+      max_size: الحد الأقصى لحجم الملف
+      url: عنوان URL
+      main_recipient: المستلم الرئيسي
+      cc: نسخة
+    personal_filedrop:
+      personal_filedrop: Filedrop الشخصي
+      personal_filedrop_description: Filedrop الشخصي طريقة بسيطة لتلقي الملفات. يمكنك إرسال الرابط أو نشره على موقع ويب أو إضافته إلى توقيع بريدك الإلكتروني. ستتلقى إشعارًا بمجرد أن يرسل إليك شخص ما شيئًا عبر Filedrop الشخصي.
+    previous_recipients:
+      previous_recipients: المستلمون السابقون
+      previous_recipients_description: عند إرسال رسالة آمنة، يُضاف كل مستلم إلى قائمة المستلمين السابقين هذه. بهذه الطريقة يمكنك الإرسال إلى المستلمين أنفسهم مرة أخرى بسرعة. يُزال تلقائيًا من القائمة المستلمون الذين لم ترسل إليهم شيئًا لمدة 180 يومًا.
+      are_you_sure: هل أنت متأكد من رغبتك في حذف هذا المستلم السابق؟
+    pw_dictionary:
+      based_on_a_dictionary_word: تعتمد على كلمة من القاموس
+      based_upon_your_password_entry: تعتمد على كلمة المرور التي أدخلتها
+      derived_from_your_password_entry: مشتقة من كلمة المرور التي أدخلتها
+      derivable_from_your_password_entry: يمكن اشتقاقها من كلمة المرور التي أدخلتها
+      way_too_short: قصيرة جدًا جدًا
+      too_short: قصيرة جدًا
+      it_does_not_contain_enough_different_characters: لا تحتوي على عدد كافٍ من الأحرف المختلفة
+      all_whitespace: تتكون من مسافات فقط
+      too_simplistic_systematic: بسيطة/منهجية جدًا
+      it_looks_like_a_national_insurance_number: تشبه رقم الهوية الوطنية
+      based_on_a_reversed_dictionary_word: تعتمد على كلمة من القاموس (معكوسة)
+    show:
+      basic_settings: الإعدادات الأساسية
+      change_password: تغيير كلمة المرور
+      strong_auth: المصادقة الثنائية
+      aliases: الأسماء المستعارة
+      previous_recipients: المستلمون السابقون
+      contacts: جهات الاتصال
+      personal_filedrop: Filedrop الشخصي
+      api: API
+      filedrops: Filedrop
+    sms_disable:
+      disable_sms_otp: تعطيل المصادقة الثنائية عبر الرسائل النصية
+      disable_sms_otp_description: إذا كنت تريد تعطيل المصادقة الثنائية عبر الرسائل النصية، فانقر على الزر أدناه. سيتم إرسال رمز عبر رسالة نصية لتأكيد الطلب.
+      verify_token_description: "لتعطيل المصادقة الثنائية عبر الرسائل النصية، أدخل الرمز المرسل إلى هاتفك المحمول:"
+      code: الرمز
+      sms_token_failed: رمز الرسالة النصية غير صالح، تعذّر تعطيل المصادقة الثنائية عبر الرسائل النصية
+      sms_otp_has_been_disabled: تم تعطيل المصادقة الثنائية عبر الرسائل النصية
+    sms_signup:
+      sms_signup_description: يمكنك تحسين أمان حسابك بتفعيل المصادقة الثنائية. أدخل رقم هاتفك أدناه لتفعيلها.
+      phone_number: رقم الهاتف
+    sms_enable:
+      signup_complete: تم تفعيل المصادقة الثنائية عبر الرسائل النصية
+    terms_of_service:
+      show:
+        title: شروط الخدمة
+        accept_terms_of_service: قبول شروط الخدمة
+        do_not_accept: لا أوافق
+      create:
+        you_need_to_accept: يجب عليك قبول شروط الخدمة!
+  activerecord:
+    attributes:
+      attachment:
+        filename: اسم الملف
+        size: الحجم
+        secure_id: معرّف المرفق
+        content_type: نوع المحتوى
+        created_at: تاريخ الإنشاء
+        updated_at: تاريخ التحديث
+      download:
+        recipient: المستلم
+        downloaded_at: تاريخ التنزيل
+        remote_ip: عنوان IP البعيد
+        remote_host: المضيف البعيد
+        created_at: تاريخ الإنشاء
+        updated_at: تاريخ التحديث
+      filedrop:
+        name: الاسم
+        title: العنوان
+        description: الوصف
+        blocked_extensions: الامتدادات المحظورة
+        permitted_extensions: أنواع الملفات المسموح بها
+        expires_after: تنتهي الصلاحية بعد
+        max_filesize: الحد الأقصى لحجم الملف
+        created_at: تاريخ الإنشاء
+        updated_at: تاريخ التحديث
+        api_key: مفتاح API
+        cc: نسخة
+        authorization: التخويل
+      message:
+        recipients: المستلمون
+        sender: المرسل
+        cc: نسخة
+        bcc: نسخة مخفية
+        message: الرسالة
+        subject: الموضوع
+        deleted: محذوفة
+        authorization: التخويل
+        created_at: تاريخ الإنشاء
+        updated_at: تاريخ التحديث
+        expires_at: تاريخ انتهاء الصلاحية
+      share/log:
+        created_at: التاريخ
+      share/file:
+        checksum: المجموع الاختباري (SHA256)
+      share/file/version:
+        whodunnit: عُدّل بواسطة
+        created_at: تاريخ التعديل
+      user:
+        name: الاسم
+        email: عنوان البريد الإلكتروني
+        quota: الحصة
+        used: المستخدم
+        max: الحد الأقصى
+        password: كلمة المرور
+        ldap_authentication: مصادقة LDAP
+        api_key: مفتاح API
+        level: المستوى
+        filedrop: Filedrop
+    models:
+      configuration: الإعدادات
+      attachment: مرفق
+      filedrop: Filedrop
+      message: رسالة
+      user: مستخدم
+      download: تنزيل
+  admin:
+    groups:
+      form:
+        bcc_myself: إرسال نسخة إليّ
+        can_change_bcc_myself: يمكن لمستخدمي هذه المجموعة تغيير إعداد «إرسال نسخة إليّ»
+      index:
+        default_group_assignment: تعيين المجموعة الافتراضي
+    users:
+      users:
+        email: عنوان البريد الإلكتروني
+        name: الاسم
+        group: المجموعة
+        max: الحد الأقصى لحجم الملف
+        quota: الحصة
+        strong_auth: المصادقة القوية
+        filedrop: Filedrop
+        last_login_at: آخر تسجيل دخول
+        last_login_ip: عنوان IP لآخر تسجيل دخول
+        created: تاريخ الإنشاء
+      form:
+        name_label: الاسم
+        email: عنوان البريد الإلكتروني
+        password: كلمة المرور
+        password_confirmation: تأكيد كلمة المرور
+        max_label: الحد الأقصى لحجم الملف
+        group: المجموعة
+        strong_auth: المصادقة القوية
+        strong_auth_username: اسم المستخدم للمصادقة القوية
+        api_key: مفتاح API
+        filedrop: Filedrop
+  attachments:
+    not_found: لم يتم العثور على المرفق
+  config:
+    settings: الإعدادات
+    email: البريد الإلكتروني
+    language_preferences_from_your_browser: تفضيلات اللغة في متصفحك
+    authentication: المصادقة
+    time_zone: المنطقة الزمنية
+    current_time_zone: المنطقة الزمنية الحالية
+    time_zone_from_browser: المنطقة الزمنية التي اكتشفها المتصفح
+    time_zone_config_description: إذا تركت المنطقة الزمنية على «اكتشاف تلقائي»، فسيتم استخدام المنطقة الزمنية التي يكتشفها متصفحك (وستُعرض جميع الأوقات وفقها). إذا تعذّر على المتصفح اكتشاف المنطقة الزمنية، فسيتم استخدام المنطقة الزمنية الافتراضية للنظام. إذا لم يكتشف المتصفح المنطقة الزمنية الصحيحة أو أردت عرض الأوقات بمنطقة زمنية أخرى، يمكنك تعيين منطقة زمنية محددة.
+    time_zone_default: المنطقة الزمنية الافتراضية للنظام
+    email_settings: إعدادات البريد الإلكتروني
+    configuration: الإعدادات
+    local_domains: النطاق المحلي
+    ldap_users: المستخدمون الذين تتم مصادقتهم عبر LDAP
+    ldap_users_are_always_local: المستخدمون الذين تتم مصادقتهم عبر LDAP محليون دائمًا
+    separated_by_comma: مفصولة بفواصل
+    default_max_file_size: الحد الأقصى الافتراضي لحجم الملف
+    local_users: المستخدمون المحليون
+    external_users: المستخدمون الخارجيون
+    allow_registration: السماح بالتسجيل
+    allow_registration_desc: السماح بالتسجيل من صفحة تسجيل الدخول
+    external_user_account: المستلمون الخارجيون
+    external_user_account_desc: يجب على المستلمين الخارجيين إنشاء حساب
+    allow_users_to_change_expiration: يمكن للمستخدمين تغيير مدة صلاحية الملفات
+    authorization: الإذن
+    authorization_description: الإعداد الافتراضي لمن يمكنه تنزيل الملفات.
+    file_expiration: انتهاء الصلاحية
+    default_expire_files_after: تنتهي صلاحية الملفات افتراضيًا بعد
+    delete_downloaded_files_after: حذف الملفات التي تم تنزيلها بعد
+    branding: العلامة التجارية
+    company_name: اسم الشركة
+    custom_stylesheet: ورقة أنماط مخصصة
+    custom_javascript: JavaScript مخصص
+    logotype: الشعار
+    leave_blank_for_default: اتركه فارغًا لاستخدام القيمة الافتراضية
+    email_configuration: إعدادات البريد الإلكتروني
+    email_sender_address: عنوان المرسل
+    email_host: عنوان URL الأساسي للرسائل
+    email_footer: تذييل البريد الإلكتروني
+    email_relay_host: خادم ترحيل البريد
+    email_relay_username: اسم مستخدم ترحيل البريد
+    email_relay_password: كلمة مرور ترحيل البريد
+    port: المنفذ
+    unlicensed_install_some_settings: "تثبيت غير مرخّص: إعدادات العلامة التجارية مرئية لمسؤولي النظام فقط"
+    mail_relay_example: "مثال: mailrelay.alnetaq.com.sa، mx.alnetaq.com.sa:587"
+    ldap: LDAP
+    please_see_the: يُرجى مراجعة
+    for_more_information: لمزيد من المعلومات
+    virus_scan: فحص الفيروسات
+    virus_scan_description: فحص الملفات بحثًا عن الفيروسات
+    blocked_file_extensions: امتدادات الملفات المحظورة
+    default_bcc_myself_label: إرسال نسخة إليّ
+    default_bcc_myself: إرسال نسخة إليّ افتراضيًا
+    allow_users_to_change_require_login_label: طلب المصادقة
+    allow_users_to_change_require_login: يمكن للمستخدمين تغيير إعداد «طلب المصادقة»
+    permitted_file_extensions_label: امتدادات الملفات المسموح بها
+    delete: حذف
+    ldap_description: "فعّل مصادقة المستخدمين عبر LDAP وعيّن بعض المعلمات الأساسية للاتصال بخادم LDAP. إذا لم يُحدَّد منفذ، فسيُستخدم منفذ LDAP الافتراضي 389 (أو المنفذ 636 إذا كان SSL مُفعّلاً). ملاحظة: المنفذ 3268 لا يُستخدم للمصادقة في Active Directory، بل لعمليات البحث في الكتالوج العام فقط. يُرجى استخدام المنفذ 389/636 بدلاً منه."
+    ldap_authentication: مصادقة LDAP
+    basic_settings: الإعدادات الأساسية
+    server: اسم الخادم / عنوان IP
+    username: اسم المستخدم
+    password: كلمة المرور
+    authentication_description: يُستخدم هذا المستخدم للاتصال بخادم LDAP (اتركه فارغًا للاتصال المجهول). يحتاج المستخدم إلى صلاحيات البحث في شجرة LDAP.
+    search_key: مفتاح البحث
+    search_key_description: يُستخدم مفتاح البحث والنطاق للعثور على المستخدمين في شجرة LDAP. يوضح الجدول أدناه كيف يعمل مفتاح البحث والنطاق معًا للعثور على مستخدم.
+    search_key_description2: لذا، إذا كان مفتاح بحث LDAP يحتوي على عنوان البريد الإلكتروني، فيجب ترك النطاق فارغًا. وإذا كان مفتاح بحث LDAP يحتوي على اسم المستخدم فقط، فيجب أن يحتوي النطاق على نطاق المستخدمين.
+    search_key_defaults: "بالنسبة إلى Active Directory، نقطة بداية جيدة هي: sAMAccountName كمفتاح بحث LDAP وsharika.com.sa (نطاقك) كنطاق."
+    user_enters: ما يدخله المستخدم
+    authorized_ldap_groups: مجموعات LDAP المصرّح بها
+    available_groups: المجموعات المتاحة
+    default_settings: الإعدادات الافتراضية
+    setting: الإعداد
+    value: القيمة
+    description: الوصف
+    default_local_max_description: هذا هو الحد الأقصى الافتراضي لحجم الملف للمستخدمين المحليين الجدد. ويمكن تغييره لكل مستخدم على حدة.
+    user_changeable: هل يمكن للمستخدم تغييره؟
+    non_local: غير محلي
+    remote: بعيد
+    new_external_recipient_is_nonlocal: المستلمون الخارجيون الجدد هم
+    email_message_on_top_label: الرسالة في الأعلى
+    email_message_on_top: تُعرض الرسالة فوق قائمة الملفات في البريد الإلكتروني المرسل إلى المستلمين
+    use_either_permitted_or_blocked_extensions: يجب اختيار الامتدادات المسموح بها أو المحظورة، وليس كليهما
+    invalid_password: كلمة مرور غير صالحة
+    valid_password: كلمة مرور صالحة
+    test_password_validation: اختبار التحقق من كلمة المرور
+    custom_password_validation: تحقق مخصص من كلمة المرور
+    custom_password_validation_description: "يُستخدم هذا التعبير النمطي للتحقق المخصص من كلمات المرور. اكتب التعبير النمطي فقط، دون محددات (لا تبدأ ولا تنتهِ بالرمز '/'). مثال: [a-zA-Z0-9]{7,} (لن تحتوي كلمات المرور إلا على a-z وA-Z و0-9، بحد أدنى 7 أحرف)"
+    filedrop: Filedrop
+    receive: الاستلام
+    api_settings: إعدادات API
+    enable_api_label: تفعيل API
+    enable_api_description: تفعيل API للوصول عبر الإضافات والبرامج النصية
+    enable_api_group_config: تتوفر إعدادات API إضافية في إعدادات المجموعات.
+    api_client_size_override_label: حد الحجم لعملاء API
+    api_client_size_override_description: سيرسل عملاء API الملفات التي تتجاوز هذا الحجم عبر الجهاز
+    sso_secret_key: المفتاح السري لـ SSO
+    generate_key: إنشاء مفتاح جديد
+    sso_replace_confirm: هل أنت متأكد؟ سيؤدي استبدال المفتاح السري لـ SSO إلى توقف عمليات تكامل SSO الحالية عن العمل.
+    virus_scan_skip_locals: تخطي فحص الفيروسات للمستخدمين المحليين
+    virus_scan_skip_locals_description: عدم فحص ملفات المستخدمين المحليين بحثًا عن الفيروسات
+    virus_scan_permit_unscanned: السماح بالملفات غير المفحوصة
+    virus_scan_permit_unscanned_description: السماح بتنزيل الملفات التي لم تُفحص بحثًا عن الفيروسات بعد
+    userdrop: Filedrop المستخدم
+    user_filedrop_with_random_key: Filedrop المستخدمين بمفتاح عشوائي
+    enable_userdrop: تفعيل Filedrop المستخدمين
+    example: مثال
+    user_filedrop_with_email: Filedrop المستخدمين بعناوين البريد الإلكتروني
+    enable_userdrop_email: تفعيل Filedrop المستخدمين بعنوان البريد الإلكتروني
+    userdop_email_data_leakage: يمكن استخدام ذلك لاكتشاف عناوين البريد الإلكتروني المحلية، عبر تجربة عناوين في عنوان URL الخاص بـ Filedrop والتحقق من أيها يعطي استجابة صالحة.
+    userdrop_files_expire_after: تنتهي صلاحية الملفات المودعة بعد
+    userdrop_max_filesize: الحد الأقصى لحجم الملف لـ Filedrop المستخدم
+    bruteforce_label: الحماية من هجمات القوة الغاشمة
+    bruteforce_description_1: حظر عنوان IP لمدة
+    bruteforce_description_2: دقيقة بعد
+    bruteforce_description_3: محاولات تسجيل دخول/تسجيل فاشلة خلال
+    bruteforce_description_4: دقيقة
+    bruteforce_whitelist_label: قائمة السماح للحماية من هجمات القوة الغاشمة
+    allowed_admin_networks_label: شبكات الإدارة
+    allowed_admin_networks_description: تقييد وصول المسؤول إلى هذه المضيفات والشبكات. يُسمح دائمًا بـ localhost (127.0.0.1، ::1)
+    enable_strong_authentication: تفعيل المصادقة القوية افتراضيًا لأنواع المستخدمين هذه
+    authenticated_username: اسم المستخدم المُصادَق عليه
+    duo_hostname: اسم مضيف Duo
+    duo_client_id: مفتاح تكامل Duo
+    duo_client_secret: المفتاح السري لـ Duo
+    strong_authentication_test: اختبار المصادقة القوية
+    stronger_password: يُرجى اختيار كلمة مرور أقوى.
+    cannot_begin_or_end_with_blank: لا يمكن أن تبدأ كلمة المرور أو تنتهي بمسافة.
+    at_least_one_invalid_domain: نطاق واحد غير صالح على الأقل
+    at_least_one_invalid_email: عنوان بريد إلكتروني واحد غير صالح على الأقل
+    email_security_level: مستوى أمان تسليم البريد الإلكتروني
+    geoip: البحث عن الموقع الجغرافي (GeoIP)
+    geoip_description: يجلب بيانات الموقع الجغرافي من https://geoip.liquidfiles.com ويعرض الخرائط.
+    tooltip:
+      local_domains: يمكن للمستخدم المحلي إرسال الملفات إلى أي شخص. ولا يمكن للمستخدم غير المحلي إرسال الملفات إلا إلى المستخدمين المحليين. عند تسجيل دخول المستخدم لأول مرة أو عند إنشاء الحساب، تتم مقارنة نطاق عنوان البريد الإلكتروني بهذه النطاقات لتحديد ما إذا كان المستخدم يُعدّ محليًا.
+      ldap_users_are_always_local: يُعدّ كل مستخدم تتم مصادقته عبر LDAP مستخدمًا محليًا تلقائيًا، بغض النظر عن النطاق.
+      allow_registration: يسمح بالتسجيل من صفحة تسجيل الدخول. ويُحدَّد بناءً على قائمة النطاقات المحلية ما إذا كان المستخدم الجديد محليًا أم غير محلي.
+      local_user_maxfile: عندما يسجّل مستخدم محلي أو تتم مصادقته لأول مرة عبر المصادقة البعيدة، يُعيَّن له هذا الحد الأقصى لحجم الملف.
+      nonlocal_user_maxfile: عندما يسجّل مستخدم غير محلي، يُعيَّن له هذا الحد الأقصى لحجم الملف.
+      delete_downloaded_files_after: يُحتفظ بالملف الذي تم تنزيله طوال هذه المدة. يجب أن تكون طويلة بما يكفي ليتمكن المستلم من اختيار موقع تنزيل آخر أو البدء من جديد، وقصيرة بما يكفي حتى لا ينتشر الرابط إلى مزيد من الأشخاص.
+      file_expiration: يسمح للمستخدمين بتغيير وقت انتهاء صلاحية الملفات. إذا لم يكن مُفعّلاً، تحصل جميع الملفات على وقت انتهاء الصلاحية الافتراضي.
+      default_expire_files_after: تنتهي صلاحية الملفات بعد هذه المدة.
+      blocked_file_extensions: حظر الملفات ذات هذه الامتدادات (دون التمييز بين الأحرف الكبيرة والصغيرة).
+      virus_scan: فحص جميع الملفات المحمّلة بحثًا عن الفيروسات باستخدام برنامج مكافحة الفيروسات ClamAV
+      require_authentication_permission: عند التفعيل، يمكن للمستخدمين أن يختاروا بأنفسهم ما إذا كانت المصادقة مطلوبة
+      default_bcc_myself: عند التفعيل، تُرسل الرسائل افتراضيًا أيضًا إلى المستخدم نفسه
+      permitted_file_extensions: "إذا تُرك فارغًا، فجميع الامتدادات مسموح بها. وإذا أُدخل امتداد واحد على الأقل، فلن يُسمح إلا بأنواع الملفات المُدخلة. مثال: png، gif، jpg، txt"
+      new_external_recipient_is_nonlocal: عند إرسال رسالة إلى مستلم جديد، هل يجب إنشاؤه كمستخدم غير محلي (ليتمكن من الرد) أم كمستخدم خارجي؟
+      email_message_on_top: عند التحديد، تُعرض الرسالة فوق قائمة الملفات في البريد الإلكتروني المرسل إلى المستلمين. وعند عدم التحديد، تُعرض قائمة الملفات فوق الرسالة.
+      email_sender: يُستخدم عنوان البريد الإلكتروني هذا كمرسل للرسائل التي ينشئها النظام، مثل إعادة تعيين كلمة المرور. لتجنب تصنيف هذه الرسائل كرسائل غير مرغوب فيها، يجب أن يكون عنوان بريد إلكتروني حقيقيًا.
+      email_host: ستستخدم المرفقات عنوان URL هذا كعنوان أساسي. عادةً يكون http://ism-almudeef.alnetaq أو https://ism-almudeef.alnetaq، لكنه قد يكون أيضًا https://ism-almudeef.alnetaq:4433 إذا كنت تستخدم إعادة توجيه المنافذ في جدار الحماية عند اتصال المستخدمين بجهاز LiquidFiles.
+      email_footer: سيُضاف هذا التوقيع إلى جميع الرسائل الصادرة.
+      email_relay: استخدام خادم البريد هذا لترحيل الرسائل الصادرة.
+      email_relay_username: الحساب المستخدم لتسجيل الدخول إلى خادم ترحيل البريد
+      email_relay_password: كلمة مرور الحساب المستخدم لتسجيل الدخول إلى خادم ترحيل البريد
+  date:
+    formats:
+      default: "%d/%m/%Y"
+      short: "%d/%m"
+      medium: "%d/%m/%Y"
+      long: "%d/%m/%Y"
+  time:
+    am: ص
+    pm: م
+    formats:
+      default: "%d/%m/%Y %H:%M:%S %z"
+      short: "%d/%m %H:%M"
+      medium: "%d/%m/%Y %H:%M"
+      long: "%d/%m/%Y %H:%M"
+  downloads:
+    download_id: معرّف التنزيل
+    index:
+      download_log_title: التنزيلات
+      download_log_description: من نزّل ماذا ومتى
+      paginator_entry_name: تنزيلات
+    show:
+      no_map_for_reserved_address: لا يمكن عرض خريطة للعناوين المحجوزة
+  filedrop:
+    filedrop: Filedrop
+    no_such_filedrop: هذا الـ Filedrop غير موجود
+    invalid_filedrop_url: عنوان URL غير صالح لـ Filedrop
+    invalid_filedrop_url_description: لا يوجد Filedrop على عنوان URL هذا. يُرجى التحقق من عنوان URL والمحاولة مرة أخرى.
+    label: Filedrop
+    mb: ميغابايت
+    name: الاسم
+    name_description: اسم قصير يُستخدم أيضًا في عنوان URL (مثل /filedrop/alism)
+    title: العنوان
+    title_description: العنوان أعلى الصفحة
+    description: الوصف
+    description_description: الوصف أسفل العنوان
+    user: المستخدم المستلم
+    user_description: يمكن تعيين أي مستخدم محلي كمستلم
+    cc: نسخة
+    cc_description: "(مفصولة بفواصل) إرسال نسخة إلى هذه العناوين"
+    expires_after: تنتهي الصلاحية بعد
+    expires_after_description: أيام
+    max_filesize: الحد الأقصى لحجم الملف
+    max_filesize_description: ميغابايت
+    reset_filedrop: إعادة تعيين عنوان URL لـ Filedrop
+    filedrop_reset_warning: هل أنت متأكد؟ إذا أعدت تعيين عنوان URL لـ Filedrop، فسيتعيّن عليك استبداله في كل مكان نشرته فيه.
+    permitted_extensions: الامتدادات المسموح بها
+    permitted_extensions_description: لن يُسمح إلا بأنواع الملفات هذه
+    blocked_extensions: الامتدادات المحظورة
+    blocked_extensions_description: سيتم حظر أنواع الملفات هذه
+    demo_license_warning_standard: يتطلب استخدام Filedrop في بيئة الإنتاج ترخيصًا. قم بالترقية إلى ترخيص Pro لتفعيل ميزة Filedrop.
+    max_one_during_demo: أثناء الفترة التجريبية أو مع ترخيص Standard يمكنك إعداد Filedrop واحد فقط
+    filedrop_info: يتيح Filedrop لعملائك إرسال الملفات إليك دون مصادقة أو إعداد مسبق. لكل Filedrop عنوان URL ثابت يمكنك الربط إليه من صفحات الويب أو توقيعات البريد الإلكتروني. عندما يودع شخص ما ملفًا في Filedrop، يُرسل الملف تلقائيًا إلى مستخدم محدد مسبقًا.
+    authorization: الإذن
+    authorization_description: من يمكنه تنزيل الملفات المودعة في Filedrop
+    you_will_be_notified: ستتلقى إشعار تنزيل عند تنزيل ملفاتك.
+    require_authentication: يتطلب هذا الـ Filedrop المصادقة. يُرجى إدخال كلمة المرور للمتابعة.
+    authenticate: مصادقة
+    authentication_failed: فشلت المصادقة
+    require_validation: يتطلب هذا الـ Filedrop المصادقة أو تأكيد عنوان بريدك الإلكتروني.
+  filelink:
+    filelink: FileLink
+    filelinks: FileLink
+    filelink_title: FileLink
+    filelink_description: FileLink هو رابط إلى ملف واحد. يمكنك إرسال هذا الرابط إلى أي شخص دون إنشاء رسالة أو تحديد مستلمين. لن يتمكن من تنزيل الملف إلا من تلقى الرابط العشوائي.
+    expired_or_nonexistent_title: FileLink غير صالح
+    expired_or_nonexistent: انتهت صلاحية هذا الـ FileLink أو أنه غير موجود. يُرجى التواصل مع المرسل للحصول على رابط جديد.
+    existing_filelinks: FileLink الحالية
+    new_filelink: FileLink جديد
+    available_files: الملفات المتاحة
+    filename: اسم الملف
+    filesize: حجم الملف
+    expires_at: تنتهي الصلاحية
+    link: الرابط
+    checksum: المجموع الاختباري
+    copy_link_to_clipboard: نسخ FileLink إلى الحافظة
+    expire_link_at: تنتهي صلاحية الرابط في
+    you_have_no_filelinks: ليس لديك أي FileLink. أضف FileLink جديدًا أو أنشئ واحدًا من ملف متاح.
+    you_have_no_files_available: ليس لديك ملفات مرسلة سابقًا. بمجرد إرسال ملف واحد على الأقل، يمكنك تحديده هنا لإنشاء FileLink.
+    create_link: إنشاء رابط
+    invalid_file: ملف غير صالح، لا يمكن إنشاء FileLink
+    delete: حذف
+    delete_link_warning: هل أنت متأكد من رغبتك في حذف هذا الـ FileLink؟
+    could_not_delete_link: تعذّر حذف FileLink. لم يتم العثور على الرابط!
+    filelink_deleted: تم حذف FileLink!
+    select_file: تحديد ملف
+    send_download_receipts: إرسال إشعارات التنزيل
+    disabled: FileLink معطّل، يُرجى التواصل مع مسؤول
+    unauthorized: غير مصرّح لك باستخدام FileLink
+    require_authentication: طلب المصادقة
+    filelink_require_authentication: يتطلب هذا الـ FileLink المصادقة
+    filelink_url: عنوان URL لـ FileLink
+    expired: منتهي الصلاحية
+    filelink_expired: انتهت صلاحية FileLink
+    select_from_available_files: يمكنك أيضًا إنشاء FileLink من أي من هذه الملفات الموجودة.
+    downloads: التنزيلات
+    authentication_failed: فشلت المصادقة
+    password_label_html: كلمة المرور <small class="text-muted">(اختيارية)</small>
+    password_present_html: تم تعيين كلمة مرور لهذا الـ FileLink.<br>يمكنك إزالتها بحفظ كلمة مرور فارغة.
+    password_not_present: لم يتم تعيين كلمة مرور.
+    copy_to_clipboard: نسخ FileLink إلى الحافظة
+    add_file: إضافة ملف
+  ftpdrop:
+    create:
+      ftpdrop: FTPdrop
+  html_editor:
+    font:
+      bold: غامق
+      italic: مائل
+      underline: تسطير
+      clear: مسح التنسيق
+      height: ارتفاع السطر
+      name: الخط
+      strikethrough: يتوسطه خط
+      subscript: منخفض
+      superscript: مرتفع
+      size: حجم الخط
+    image:
+      image: صورة
+      insert: إدراج صورة
+      resize_full: الحجم الكامل
+      resize_half: نصف الحجم
+      resize_quarter: ربع الحجم
+      float_left: محاذاة لليسار
+      float_right: محاذاة لليمين
+      float_none: بدون محاذاة
+      shape_rounded: "الشكل: مستدير"
+      shape_circle: "الشكل: دائرة"
+      shape_thumbnail: "الشكل: صورة مصغرة"
+      shape_none: "الشكل: بلا"
+      url: عنوان URL للصورة
+      remove: إزالة الصورة
+    link:
+      link: رابط
+      insert: إدراج رابط
+      unlink: إزالة الرابط
+      edit: تعديل
+      text_to_display: النص المعروض
+      url: إلى أي عنوان URL يجب أن يؤدي هذا الرابط؟
+      open_in_new_window: فتح في نافذة جديدة
+    table:
+      table: جدول
+    hr:
+      insert: إدراج خط أفقي
+    style:
+      style: النمط
+      normal: عادي
+      blockquote: اقتباس
+      pre: تعليمات برمجية
+      h1: عنوان 1
+      h2: عنوان 2
+      h3: عنوان 3
+      h4: عنوان 4
+      h5: عنوان 5
+      h6: عنوان 6
+    lists:
+      unordered: قائمة نقطية
+      ordered: قائمة مرقمة
+    options:
+      help: تعليمات
+      fullscreen: ملء الشاشة
+      codeview: عرض التعليمات البرمجية
+    paragraph:
+      paragraph: فقرة
+      outdent: إنقاص المسافة البادئة
+      indent: زيادة المسافة البادئة
+      left: محاذاة لليسار
+      center: توسيط
+      right: محاذاة لليمين
+      justify: ضبط
+    color:
+      recent: اللون الأخير
+      more: ألوان أخرى
+      background: لون الخلفية
+      foreground: لون النص
+      transparent: شفاف
+      set_transparent: جعله شفافًا
+      reset: إعادة تعيين
+      reset_to_default: استعادة الافتراضي
+    shortcut:
+      shortcuts: اختصارات لوحة المفاتيح
+      close: إغلاق
+      text_formatting: تنسيق النص
+      action: الإجراء
+      paragraph_formatting: تنسيق الفقرة
+      document_style: نمط المستند
+      extra_keys: مفاتيح إضافية
+    history:
+      undo: تراجع
+      redo: إعادة
+  invite:
+    invite_user: دعوة مستخدم
+    description: يمكنك دعوة المستخدمين لمشاركة الملفات معك. بمجرد إدخال بياناتهم، سيتلقون رسالة بريد إلكتروني تتضمن تعليمات لإكمال التسجيل.
+    send_invite: إرسال الدعوة
+    name_placeholder: الاسم الكامل
+    invitation_sent: تم إرسال الدعوة
+    not_permitted_to_invite_users: غير مسموح لك بدعوة المستخدمين.
+    invalid_email: عنوان بريد إلكتروني غير صالح
+  link:
+    show:
+      set_password: تعيين كلمة مرور
+      download: تنزيل
+      downloads_and_info: جميع التنزيلات ومزيد من المعلومات
+    authenticate:
+      show:
+        title: كلمة مرور FileLink
+        authenticate: مصادقة
+        require_authentication: لفتح هذا الـ FileLink، يجب إدخال كلمة المرور المطلوبة.
+      create:
+        authentication_failed: فشلت المصادقة.
+    downloads:
+      index:
+        back_to_filelink: العودة إلى FileLink
+    link_downloads:
+      latest_downloads: أحدث التنزيلات (%{count} من أصل %{total})
+  menu:
+    shares: Share
+    messages: الرسائل
+    send_files: إنشاء رسالة
+    users: المستخدمون
+    active_transfers: عمليات النقل النشطة
+    configuration: الإعدادات
+    system: النظام
+    message_list: قائمة الرسائل
+    settings: الإعدادات
+    admin: الإدارة
+    account: الحساب
+    inbox: الوارد
+    sent_messages: المرسلة
+    downloads: سجل التنزيلات
+    filelink: FileLink
+    secure_messages: الرسائل الآمنة
+    support: الدعم
+  message:
+    message_sent: تم إرسال الرسالة
+    not_found: لم يتم العثور على الرسالة
+    message_not_found_header: لم يتم العثور على الرسالة!
+    message_not_found_description: يُرجى أن تطلب من المرسل إعادة إرسال هذه الرسالة.
+    previous_recipients: المستلمون السابقون
+    contacts: جهات الاتصال
+    is_not_permitted: غير مسموح به
+    not_permitted_to_delete_messages: غير مسموح لك بحذف الرسائل
+    is_not_in_any_of_the_allowed_domains: لا ينتمي إلى أي من النطاقات المسموح بها
+    is_not_in_any_of_the_allowed_groups: لا ينتمي إلى أي من المجموعات المسموح بها
+    attach_1_file: يجب إرفاق ملف واحد على الأقل
+    too_many_files: لقد أرفقت عددًا كبيرًا جدًا من الملفات. يمكنك إرفاق ما يصل إلى %{count} ملفًا في الرسالة الواحدة.
+    attached_files: الملفات المرفقة
+    expired: انتهت صلاحية الرسالة
+    authorize:
+      show:
+        title: سجّل الدخول لفتح الرسالة الآمنة
+        authenticate_description_html: أنت على وشك عرض رسالة آمنة. يجب عليك تسجيل الدخول أولاً. يُرجى إدخال عنوان بريدك الإلكتروني أو تسجيل الدخول للمتابعة.<br>إذا لم يكن لديك حساب على هذا النظام، فأدخل عنوان بريدك الإلكتروني وسنرسل إليك رابطًا آمنًا لتأكيده.
+        unauthenticated_html: <h4>اسم مستخدم أو كلمة مرور غير صالحة</h4><p>يُرجى إدخال اسم المستخدم وكلمة المرور. يمكنك إعادة تعيين كلمة المرور باستخدام زر إعادة تعيين كلمة المرور أدناه.</p>
+        unauthorized_to_view_check_email_html: <h4>عنوان بريد إلكتروني غير مصرّح به</h4><p>يُرجى التحقق من أن الرسالة الآمنة [<span class="font-monospace fw-bold">%{message_id}</span>] قد أُرسلت إليك، وأدخل عنوان البريد الإلكتروني تمامًا كما أُرسلت إليه الرسالة.</p><p>على سبيل المثال، إذا كان عنوانك يمكن أن يكون ahmed.alsaeed@sharika.com.sa وكذلك aalsaeed@sharika.com.sa، فلا يمكن للنظام أن يعرف أنهما العنوان نفسه. إذا أُرسلت الرسالة الآمنة إلى ahmed.alsaeed@sharika.com.sa، فهذا هو العنوان الذي يجب إدخاله هنا.</p><p>إذا لم تكن متأكدًا، فيُرجى التواصل مع مرسل الرسالة الآمنة.</p>
+    errors:
+      not_authorized_to_view_message: "غير مصرّح لك بعرض الرسالة ذات المعرّف: %{message_id}. يُرجى التحقق من أن هذه الرسالة قد أُرسلت إليك."
+      private_message_requires_authentication: تتطلب الرسائل الخاصة المصادقة
+    attachments:
+      download_attachment_details_csv: تنزيل تفاصيل المرفقات (CSV)
+      attachment:
+        fileinfo: معلومات الملف
+        file_size: حجم الملف
+        content_type: نوع المحتوى
+        checksum: المجموع الاختباري
+        virus_status: حالة فحص الفيروسات
+    compose:
+      options_permission:
+        authentication_required: المصادقة مطلوبة
+        authentication_not_required: المصادقة غير مطلوبة
+        require_authentication_description: هل يجب على المستلمين إجراء المصادقة لفتح هذه الرسالة؟
+        access_restriction_html: تقييد الوصول<br><small class="text-muted">من يمكنه الوصول إلى هذه الرسالة؟</small>
+        recipients_only_html: المستلمون<br>فقط
+        recipients_plus_locals_html: المستلمون<br>+ المستخدمون المحليون
+        recipients_plus_domains_html: المستلمون<br>+ النطاقات
+        anyone_secret_link_html: أي شخص<br>(رابط سري)
+    unavailable:
+      header: الرسالة غير متاحة
+      description: انتهت صلاحية هذه الرسالة، أو حُذفت، أو أنها غير موجودة، أو لم تعد متاحة. يُرجى أن تطلب من المرسل إعادة إرسال الرسالة.
+    downloads:
+      index:
+        download_log_title: سجل التنزيلات
+        message_id: معرّف الرسالة
+        paginator_entry_name: التنزيلات
+      download:
+        details: التفاصيل
+      not_found:
+        title: لم يتم العثور على الرسالة أو التنزيل
+        description_html: تعذّر العثور على الرسالة أو التنزيل، أو أنه غير مسموح لك بعرضهما
+    temporary_user:
+      create:
+        invalid_temporary_user: كلمة مرور غير صالحة. يُرجى التحقق من الرسالة التي تحتوي على كلمة المرور المؤقتة أو طلب كلمة مرور مؤقتة جديدة.
+        temporary_user_expired: انتهت صلاحية كلمة المرور المؤقتة هذه. تم إرسال كلمة مرور مؤقتة جديدة إلى عنوان بريدك الإلكتروني. يُرجى التحقق من صندوق الوارد واستخدام كلمة المرور المؤقتة الجديدة.
+        not_authorized_to_view_message: "غير مصرّح لك بعرض الرسالة ذات المعرّف: %{message_id}. يُرجى التحقق من أن هذه الرسالة قد أُرسلت إليك."
+      show:
+        title: أدخل كلمة المرور المؤقتة
+        description_html: "أنت على وشك عرض رسالة آمنة. لفتحها، يجب إدخال كلمة المرور المؤقتة.<br>كلمة المرور المؤقتة سلسلة عشوائية فريدة تعرّف هويتك. وقد أُرسلت إليك في رسالة بريد إلكتروني منفصلة (الموضوع: كلمة المرور المؤقتة)."
+        what_is_this: ما هذا؟
+        login: تسجيل الدخول
+        submit: التحقق من كلمة المرور المؤقتة
+        submit_email: إرسال
+        if_you_have_account: "(إذا كان لديك حساب بالفعل)"
+        request_temporary_user_header: طلب كلمة مرور مؤقتة جديدة
+        request_temporary_user_description_html: يمكنك طلب كلمة مرور مؤقتة جديدة لفتح هذه الرسالة. أدخل عنوان بريدك الإلكتروني أدناه لطلب كلمة مرور مؤقتة جديدة لهذه الرسالة الآمنة.
+        info_header: معلومات عن كلمة المرور المؤقتة
+        info_body_html: "<p>كلمة المرور المؤقتة سلسلة فريدة من الأرقام والحروف، على سبيل المثال:</p><pre><code>3ynp-7FKa-pZS9</code></pre><p><em>كلمة المرور المؤقتة هذه مجرد مثال لتوضيح شكلها – ولا يمكن استخدامها.</em></p><p>ستجد في صندوق الوارد <strong>رسالتين</strong>: إحداهما تحتوي على الرسالة الآمنة، والأخرى <strong>بموضوع يبدأ بـ: كلمة المرور المؤقتة</strong>. تحتوي الثانية على كلمة المرور المؤقتة الفريدة الخاصة بك لهذا النظام.</p><p>إذا لم تتلقَّ رسالة تحتوي على كلمة مرور مؤقتة، فقد يكون لديك حساب على هذا النظام بالفعل. في هذه الحالة، انقر على «تسجيل الدخول».</p><p>إذا كنت تعتقد أنه كان يجب أن تتلقى كلمة مرور مؤقتة ولم تتلقَّها، فانقر على «طلب كلمة مرور مؤقتة» للحصول على واحدة جديدة.</p>"
+        email_address: عنوان البريد الإلكتروني
+        email_not_permitted: غير مسموح لعنوان البريد الإلكتروني هذا بعرض هذه الرسالة الآمنة.
+        email_not_permitted_description_html: <p>يُرجى التحقق من رسالة البريد الإلكتروني التي تلقيتها والتي تحتوي على الرسالة الآمنة، وأدخل عنوان البريد الإلكتروني تمامًا كما أُرسلت إليه الرسالة.</p><p>على سبيل المثال، إذا كان عنوانك يمكن أن يكون ahmed.alsaeed@sharika.com.sa وكذلك aalsaeed@sharika.com.sa، فلا يمكن للنظام أن يعرف أنهما العنوان نفسه. إذا أُرسلت الرسالة الآمنة إلى ahmed.alsaeed@sharika.com.sa، فهذا هو العنوان الذي يجب إدخاله هنا.</p><p>إذا لم تكن متأكدًا، فيُرجى التواصل مع مرسل الرسالة الآمنة.</p>
+        email_can_login: لديك حساب على هذا النظام بالفعل
+        email_can_login_description_html: <p>يمكنك تسجيل الدخول إلى هذا النظام باستخدام عنوان البريد الإلكتروني هذا وكلمة المرور الخاصة بك.</p><p>انقر على زر تسجيل الدخول أدناه لتسجيل الدخول بحسابك الحالي.</p>
+        temporary_user_delivered_header: تم إرسال كلمة المرور المؤقتة
+        temporary_user_delivered_description_html: <p>تم إرسال كلمة مرور مؤقتة إلى عنوان بريدك الإلكتروني. يُرجى التحقق من صندوق الوارد، وإغلاق هذه النافذة، وإدخال كلمة المرور المؤقتة.</p>
+    reply:
+      re: "رد:"
+      wrote: كتب
+      show:
+        title: الرد على رسالة آمنة
+        from: من
+        reply: رد
+        reply_all: رد على الكل
+      options:
+        options_description: يُرجى ملاحظة أن جميع الخيارات مأخوذة من الرسالة الأصلية.
+    show:
+      back: رجوع
+      message_header: ترويسة الرسالة
+      reply: رد
+  messages:
+    sent:
+      skipped_file_not_found: تم التخطي - لم يتم العثور على الملف
+      show:
+        sent_title: المرسلة
+        sent_description: الرسائل التي أرسلتها
+        paginator_entry_name: رسائل
+    attachments:
+      download_cmd:
+        unauthorized:
+          header: غير مصرّح
+          body: غير مصرّح لك بتنزيل هذا الملف. يُرجى أن تطلب من المرسل إعادة إرساله إليك.
+          back: رجوع
+        exceeded:
+          header: تم تجاوز حد التنزيل
+          body: تم تجاوز حد التنزيل لهذا الملف. يُرجى أن تطلب من المرسل إعادة إرساله إليك.
+          back: رجوع
+    download_zip:
+      unauthorized:
+        header: غير مصرّح
+        body: غير مصرّح لك بتنزيل هذا الأرشيف. يُرجى أن تطلب من المرسل إعادة إرسال الملف إليك.
+        back: رجوع
+      exceeded:
+        header: تم تجاوز حد التنزيل
+        body: تم تجاوز حد التنزيل لملف واحد أو أكثر في هذا الأرشيف. يُرجى أن تطلب من المرسل إعادة إرسال الملف إليك.
+        back: رجوع
+    message:
+      reply: رد
+      reply_all: رد على الكل
+  models:
+    user:
+      no_need_to_create_local_user: لا حاجة إلى إنشاء مستخدم محلي
+      license_exceeded: تم تجاوز حد الترخيص
+  notifier:
+    activate_user_subject: "[%{hostname}] تفعيل الحساب"
+    user_activation: تفعيل المستخدم
+    please_visit_the_following_url_to_activate: يُرجى النقر على الرابط أدناه لتفعيل حسابك
+    the_following_files_are_attached: الملفات التالية مرفقة بهذه الرسالة
+    please_visit_the_following_url: يُرجى النقر على هذا الرابط لتنزيل المرفقات
+    attachments_are_available: المرفقات متاحة حتى
+    message_id: "معرّف الرسالة: %{id}"
+    email_password_reset_subject: إعادة تعيين كلمة المرور
+    download_receipt_subject: "إشعار التنزيل [ID: %{message_id}]"
+    a_file_that_you_sent: تم تنزيل ملف أرسلته. احتفظ بهذه الرسالة كإثبات على التنزيل.
+    recipient: المستلم
+    filename: اسم الملف
+    time_of_download: وقت التنزيل
+    downloaded_from: تم التنزيل من
+    download_receipt: إشعار التنزيل
+    user_created:
+      account_created: تم إنشاء الحساب
+      subject: "[%{hostname}] تم إنشاء الحساب"
+      message: "يوجد مرفق آمن بانتظارك. لاستلامه، يجب عليك إجراء المصادقة. يُرجى النقر على الرابط أدناه للتسجيل:"
+  outlook:
+    messages:
+      new:
+        attachments_header: المرفقات
+        attachments_hint: يمكنك إرفاق الملفات بسحبها إلى المنطقة أدناه أو بالنقر على زر إرفاق ملفات.
+        add_to_message: إضافة إلى الرسالة
+      attachments:
+        attach_files: إرفاق ملفات
+        drop_files_here: أفلت الملفات هنا...
+      options:
+        recipients_can_reply: يمكن للمستلمين الرد
+        send_copy_to_myself: إرسال نسخة إليّ
+        private_message: رسالة خاصة
+        private_message_required_auth_error: عند إرسال رسالة خاصة، يجب استخدام وضع «المصادقة مطلوبة».
+      options_authorization:
+        authentication_authorization_title_html: المصادقة &amp; التخويل
+        authentication_select_title: اختر المصادقة
+        authentication_required: المصادقة مطلوبة
+        authentication_not_required: المصادقة غير مطلوبة
+        authorization_select_title: اختر التخويل
+        recipients_only: المستلمون فقط
+        recipients_locals: المستلمون + المستخدمون المحليون
+        recipients_domains: المستلمون + النطاقات
+        anyone: أي شخص (رابط سري)
+      options_expiration:
+        message_expires: انتهاء صلاحية الرسالة
+        message_expires_after: تنتهي صلاحية الرسالة بعد
+  pagination:
+    first: "&laquo; الأولى"
+    last: الأخيرة &raquo;
+    previous: "&lsaquo; السابقة"
+    next: التالية &rsaquo;
+    truncate: "&hellip;"
+  requests:
+    title: طلب ملفات
+    file_request: طلب ملفات
+    files_sent: تم إرسال الملفات، شكرًا لك!
+    request_file: طلب ملف
+    file_requests: طلبات الملفات
+    description: باستخدام طلب الملفات، يمكنك أن تطلب من شخص ما إرسال ملفات إليك. بمجرد إدخال البيانات، سيتلقى الشخص رسالة بريد إلكتروني تتضمن رابطًا فريدًا يمكنه من خلاله إرسال الملفات المطلوبة إليك.
+    file_request_not_found: لم يتم العثور على طلب الملفات
+    file_request_expired: انتهت صلاحية طلب الملفات
+    file_request_already_used: تم استخدام طلب الملفات بالفعل
+    file_request_sent: تم إرسال طلب الملفات
+    not_permited: غير مسموح لك باستخدام ميزة طلب الملفات
+    multiuse: متعدد الاستخدام - يمكن استخدام رابط الطلب هذا عدة مرات
+    invalid_recipient: مستلم غير صالح، أُرسل طلب الملفات هذا إلى شخص آخر
+    invalid_user: هذا ليس طلب الملفات الخاص بك
+    index:
+      title: طلبات الملفات
+      new_file_request: طلب ملفات جديد
+      multiuse: متعدد الاستخدام
+      responded_to: تم الرد
+      hide_expired: إخفاء المنتهية الصلاحية والمستخدمة
+      show_expired: إظهار المنتهية الصلاحية والمستخدمة
+    request:
+      resend: إعادة الإرسال
+      are_you_sure_you_want_to_delete: هل أنت متأكد من رغبتك في حذف طلب الملفات هذا؟
+    popup:
+      from: من
+      to: إلى
+      subject: الموضوع
+      message: الرسالة
+    resend:
+      request_resent: تمت إعادة إرسال طلب الملفات
+    new:
+      request_expires: انتهاء صلاحية الطلب
+  send:
+    send: إرسال
+    sent: تم الإرسال
+    recipients: إلى
+    send_as: إرسال باسم
+    you_can_only_send_files_to_yourself: يمكنك إرسال الملفات إلى نفسك فقط
+    subject: الموضوع
+    subject_placeholder: الموضوع
+    attachments: المرفقات
+    max_file_size: "الحد الأقصى لحجم المرفقات: %{filesize} ميغابايت"
+    upload_queue: قائمة انتظار التحميل
+    remove: إزالة
+    cancel_all: إلغاء الكل
+    cancel_all_uploads: إلغاء جميع عمليات التحميل
+    message: الرسالة
+    message_placeholder: الرسالة
+    done_editing_please_send: انتهيت من التعديل، أرسل الملفات عند اكتمال جميع عمليات التحميل
+    files_sent_successfully: تم إرسال الملفات بنجاح
+    you_need_at_least_one_recipient: يلزم مستلم واحد على الأقل
+    you_need_at_least_one_attachment: يلزم مرفق واحد على الأقل
+    options: الخيارات
+    cc: نسخة
+    bcc: نسخة مخفية
+    bcc_message_description: لن يظهر مستلمو النسخة المخفية للمستلمين الآخرين
+    add_cc: إضافة نسخة
+    add_bcc: إضافة نسخة مخفية
+    bcc_myself: إرسال نسخة إليّ
+    require_login: طلب تسجيل الدخول لتنزيل الملفات
+    only_specified_recipients_can_download: يمكن للمستلمين المحددين فقط تنزيل المرفقات
+    anyone_can_download: يمكن لأي شخص تنزيل المرفقات
+    expires_in: يمكن تنزيل المرفقات خلال
+    expires_at: تنتهي صلاحية المرفقات في
+    send_options: خيارات الإرسال
+    to: إلى
+    from: من
+    filename: اسم الملف
+    filesize: حجم الملف
+    downloaded_at: تاريخ التنزيل
+    message_sent: تم إرسال الرسالة
+    message_expires: انتهاء صلاحية الرسالة
+    message_expires_after: تنتهي صلاحية الرسالة بعد
+    message_expires_after_description: يُحسب ذلك لكل ملف على حدة. إذا أرسلت ملفين تنتهي صلاحيتهما بعد تنزيل واحد، فسيتمكن كل مستلم من تنزيل كل ملف مرة واحدة.
+    downloads_per_recipient: التنزيلات لكل مستلم
+    total_downloads: إجمالي التنزيلات
+    file_not_downloaded: لم يتم تنزيل أي مرفق
+    at_least_one_invalid_extension: يحتوي مرفق واحد على الأقل على امتداد غير صالح
+    invalid_filetype: امتداد غير صالح
+    blocked_extension: "امتداد غير صالح. لا يمكنك إرسال ملفات ذات الامتدادات التالية: %{extensions}"
+    permitted_extensions: "الامتدادات المسموح بها هي: %{filetypes}"
+    already_selected: تم تحديد هذا الملف بالفعل
+    maximum_filesize_exceeded: تم تجاوز الحد الأقصى لحجم الملف
+    contains_virus: "يحتوي %{filename} على فيروس: %{virus}"
+    limited_by_browser: محدود بالمتصفح
+    limited_by_disk: محدود بمساحة القرص
+    limited_by_system_quota: محدود بحصة النظام
+    limited_by_group_quota: محدود بحصة المجموعة
+    limited_by_quota: محدود بالحصة
+    limited_per_message: الحد لكل رسالة
+    system_quota_exceeded: تم تجاوز حصة النظام
+    group_quota_exceeded: تم تجاوز حصة المجموعة
+    quota_exceeded: تم تجاوز الحصة
+    no_available_quota: تم تجاوز الحصة، يُرجى حذف بعض الملفات للمتابعة
+    not_authorized_to_send: غير مصرّح لك بالإرسال إلى %{email}
+    public_url: عنوان URL عام
+    message_url: عنوان URL للرسالة
+    authorization: التخويل
+    insufficient_disk_space: مساحة القرص غير كافية
+    active_transfers: عمليات النقل النشطة
+    view_log: عرض السجل
+    previously_sent_attachments: المرفقات المرسلة سابقًا
+    has_not_downloaded: لم يقم %{recipient} بتنزيل أي ملف بعد
+    authentication: المصادقة
+    required: مطلوبة
+    disabled: معطّلة
+    require_authentication_tooltip_html: <li>يجب على المستلم تسجيل الدخول باسم مستخدم وكلمة مرور لتنزيل الملف.</li> <li>ستتلقى إشعارًا عند تنزيل الملف.</li>
+    dont_require_authentication_tooltip_html: <li>لن يُطلب من المستلم تسجيل الدخول لتنزيل الملف.</li> <li>ستتلقى إشعارًا عند تنزيل الملف، لكن دون معرفة من قام بتنزيله (فهذا غير معروف).</li> <li>لن تتلقى إشعارًا إلا عندما يقوم المستلم الأول بتنزيل الملف.</li>
+    authenticate_link_description: يجب عليك تسجيل الدخول قبل فتح هذا الـ FileLink.
+    unauthorized: غير مصرّح لك بعرض هذه الرسالة.
+    unauthenticated: كلمة مرور غير صحيحة
+    incorrect_login_or_demo: كلمة مرور غير صحيحة أو تم بلوغ حد الترخيص
+    email_authorization_message: شكرًا لك. للتحقق من أن هذا عنوان بريدك الإلكتروني، أرسلنا إليك رسالة تحتوي على رمز تحقق. أدخل رمز التحقق أدناه أو انقر على الرابط في الرسالة للانتقال إلى الرسالة.
+    email_authorization_link: شكرًا لك. للتحقق من أن هذا عنوان بريدك الإلكتروني، أرسلنا إليك رسالة تحتوي على رمز تحقق. أدخل رمز التحقق من الرسالة أدناه أو انقر على الرابط في الرسالة للانتقال إلى FileLink.
+    email_authorization_message_create_account: شكرًا لك. نظرًا لعدم وجود حساب لك على هذا النظام، أرسلنا إليك رسالة تحتوي على رمز تحقق للتأكد من أن هذا عنوان بريدك الإلكتروني. أدخل رمز التحقق أدناه أو انقر على الرابط في الرسالة لتأكيد عنوانك. بعد ذلك سيُطلب منك إنشاء حساب وسيتم نقلك إلى الرسالة.
+    email_authorization_link_create_account: شكرًا لك. نظرًا لعدم وجود حساب لك على هذا النظام، أرسلنا إليك رسالة تحتوي على رمز تحقق للتأكد من أن هذا عنوان بريدك الإلكتروني. أدخل رمز التحقق من الرسالة أدناه أو انقر على الرابط في الرسالة لتأكيد عنوانك. بعد ذلك سيُطلب منك إنشاء حساب وسيتم نقلك إلى FileLink.
+    authorize: تخويل
+    authenticate: تسجيل الدخول
+    sending: جارٍ الإرسال...
+    abort_transfer: إيقاف النقل
+    files_to_big: ملف (ملفات) كبير جدًا
+    only_specified_recipients: الوصول متاح للمستلمين المحددين فقط
+    only_specified_recipients_and_local_users: الوصول متاح للمستلمين المحددين والمستخدمين المحليين فقط
+    only_specified_recipients_and_domains: الوصول متاح للمستلمين المحددين والمستخدمين في نطاقهم فقط
+    anyone_after_authentication: الوصول متاح لأي شخص (لديه الرابط العشوائي)
+    no_recipient_validation: دون التحقق من المستلمين
+    anyone_can_access: الوصول متاح لأي شخص
+    anyone: أي شخص
+    no_authentication: دون مصادقة
+    can_download: يمكنهم التنزيل
+    not_yet_scanned: جارٍ الفحص بحثًا عن الفيروسات، يُرجى المحاولة مرة أخرى بعد قليل. %{queue} في قائمة الانتظار
+    was_infected: "كان مصابًا بالفيروس %{virus} وتم حذفه"
+    deleted_or_expired: محذوف أو منتهي الصلاحية
+    im_done_editing: الإرسال تلقائيًا عند اكتمال عمليات التحميل الحالية
+    download_all: تنزيل الكل
+    zipped_archive: أرشيف ZIP
+    message_id: معرّف الرسالة
+    overall_progress: التقدم الإجمالي
+    abort: إيقاف
+    limitations: القيود
+    max_size: الحد الأقصى للحجم
+    add_files: إضافة ملفات...
+    add_folder: إضافة مجلد...
+    no_attachment_added: لم تتم إضافة أي مرفق
+    you_need_to_add_at_least_one_file: يجب إضافة ملف واحد على الأقل.
+    private_message_or_attached_files: يجب تفعيل الرسالة الخاصة أو إرفاق ملف واحد على الأقل.
+    no_runtime_found: لم يتم العثور على بيئة تشغيل، لا يمكن تحميل الملفات
+    runtime_check_title: لم يتم العثور على بيئة تشغيل
+    selected: محدد
+    file_size_error: خطأ في حجم الملف
+    remaining: متبقٍ
+    attached_files: الملفات المرفقة
+    show_message: إظهار الرسالة
+    can_be_max: يمكن أن يكون حتى %{days} يومًا في المستقبل
+    not_ready: غير جاهز للتنزيل بعد
+    download_info: معلومات التنزيل
+    browser: المتصفح
+    platform: النظام الأساسي
+    operating_system: نظام التشغيل
+    location: الموقع
+    download_details: تفاصيل التنزيل
+    download_information_not_found: تعذّر العثور على معلومات التنزيل.
+    add: إضافة
+    select_existing_files: تحديد ملفات موجودة
+    add_existing_files: إضافة ملفات موجودة
+    add_existing_description: أُرسلت هذه الملفات بالفعل ويمكنك إرسالها مرة أخرى.
+    zip_disabled: ZIP معطّل
+    zip_disabled_description_exceeded: تم تجاوز الحد الأقصى لعدد التنزيلات لمرفق واحد على الأقل.
+    spinner_info_html: <strong>رسالتك جاهزة للإرسال</strong>. لا تزال بعض الملفات قيد المعالجة في الخلفية، لكن لا داعي للانتظار. <strong>انقر على إرسال عندما تكون جاهزًا!</strong>
+    sent_to_you: مرسلة إليك
+    excluding_admins: باستثناء المسؤولين
+    downloads: التنزيلات
+    download_log: سجل التنزيلات
+    delete_attachments: حذف المرفقات
+    delete_message: حذف الرسالة
+    delete_attachments_warning: هل أنت متأكد من رغبتك في حذف المرفقات؟
+    delete_message_warning: سيؤدي حذف الرسالة أيضًا إلى حذف الملفات المرفقة وسجل التنزيلات. هل أنت متأكد من رغبتك في حذف الرسالة؟
+    invalid_message: رسالة غير صالحة
+    message_deleted: تم حذف الرسالة
+    attachments_deleted: تم حذف المرفقات
+    checksum: المجموع الاختباري (SHA256)
+    not_permitted_to_send_messages: غير مسموح لك بإرسال الرسائل.
+    invalid_group_belonging: الإرسال غير مسموح به (مجموعة غير صالحة). أنت مسجّل كمستخدم خارجي، لكن عنوان بريدك الإلكتروني ينتمي إلى النطاق %{domain}، وهو أيضًا ضمن نطاقات المستلمين المقيّدة. هذا غير مسموح به للمستخدمين الخارجيين. يُرجى أن تطلب من مسؤول النظام نقلك إلى مجموعة أخرى للمتابعة.
+    expires_after_exceeded: تم تجاوز عدد التنزيلات
+    expires_after_exceeded_for_zip: تم تجاوز عدد التنزيلات لملف واحد على الأقل في أرشيف ZIP
+    permission_description_title: قيود الوصول
+    permission_description_only_specified_html: <ul> <li>يمكن للمستلمين المحددين فقط الوصول إلى الرسالة وتنزيل الملفات.</li> <li>لا يُسمح بإعادة توجيه البريد الإلكتروني أو عنوان URL إلى أي شخص.</li> <li>يجب على المستلمين تسجيل الدخول لفتح الرسالة وتنزيل الملفات.</li> <li>يُرسل إشعار تنزيل يتضمن معلومات مفصلة عند كل تنزيل لكل ملف.</li> </ul>
+    permission_description_only_specified_and_local_html: <ul> <li>يمكن للمستلمين المحددين والمستخدمين المحليين فقط تنزيل الملفات.</li> <li>يمكن إعادة توجيه البريد الإلكتروني أو عنوان URL إلى المستخدمين المحليين فقط.</li> <li>يجب على المستلمين تسجيل الدخول لتنزيل الملفات.</li> <li>يُرسل إشعار تنزيل يتضمن معلومات مفصلة عند كل تنزيل لكل ملف.</li> </ul>
+    permission_description_only_specified_and_domains_html: <ul> <li>الوصول متاح فقط للمستلمين المحددين والمستخدمين من نطاق البريد الإلكتروني نفسه.</li> <li>إذا أرسلت إلى mudeer@shareek.com.sa، فسيتمكن sekerteer@shareek.com.sa أيضًا من الوصول إلى الرسالة، لكن fodooli@munafes.com.sa لن يتمكن.</li> <li>يجب على المستلمين تسجيل الدخول لتنزيل الملفات.</li> <li>يُرسل إشعار تنزيل يتضمن معلومات مفصلة عند كل تنزيل لكل ملف.</li> </ul>
+    permission_description_anyone_after_authentication_html: <ul> <li>يمكن لأي شخص لديه عنوان URL السري العشوائي تنزيل الملفات.</li> <li>يمكن إعادة توجيه البريد الإلكتروني أو عنوان URL إلى أي شخص.</li> <li>يجب على المستلمين تسجيل الدخول لتنزيل الملفات.</li> <li>يُرسل إشعار تنزيل يتضمن معلومات مفصلة عند كل تنزيل لكل ملف.</li> </ul>
+    permission_description_anyone_html: <ul> <li>يمكن لأي شخص لديه عنوان URL السري العشوائي تنزيل الملفات.</li> <li>يمكن إعادة توجيه البريد الإلكتروني أو عنوان URL إلى أي شخص.</li> <li>تسجيل الدخول <strong>غير</strong> مطلوب لتنزيل الملفات.</li> <li>يُرسل إشعار تنزيل <strong>أساسي</strong> عند أول تنزيل من قِبل أي شخص (تلزم المصادقة لمعرفة من نزّل ماذا).</li> </ul>
+    your_message_has_been_sent: تم إرسال رسالتك
+    you_can_send_to_anyone: "(يمكنك إرسال هذا الرابط إلى أي شخص)"
+    send_more_files: إرسال المزيد من الملفات
+    download_speed: سرعة التنزيل
+    download_time: مدة التنزيل
+    at_least_one_invalid_email: عنوان بريد إلكتروني واحد غير صالح على الأقل
+    reply: يمكن للمستلم الرد
+    private_message: رسالة خاصة
+    private_message_description_html: في الرسالة الخاصة، لا يُرسل نص رسالتك إلى المستلم عبر البريد الإلكتروني – بل يظهر فقط عندما ينقر المستلم على الرابط في البريد الإلكتروني ويُجري المصادقة. <ul> <li>يمكنك إرسال رسالة خاصة دون مرفقات.</li> <li>ستتلقى إشعار وصول عندما يعرض شخص ما رسالتك.</li> <li>لا يمكنك إرسال رسالة خاصة بإذن التنزيل «يمكن لأي شخص التنزيل».</li> </ul>
+    private_message_delivered_description: أُرسلت الرسالة كرسالة خاصة. نص الرسالة غير مضمّن في البريد الإلكتروني، وستتلقى إشعار وصول عندما يعرض كل مستلم الرسالة.
+    access_info: معلومات الوصول
+    access_details: تفاصيل الوصول
+    validation_code: رمز التحقق
+    expired_token_inline: انتهت صلاحية المصادقة عبر البريد الإلكتروني، يُرجى المحاولة مرة أخرى.
+    invalid_token: رمز غير صالح أو منتهي الصلاحية. يُرجى النقر على الرابط في الرسالة الأصلية لتأكيد عنوان بريدك الإلكتروني مرة أخرى.
+    download_zip: تنزيل ZIP
+    zip_ready_for_download: ملف ZIP جاهز للتنزيل
+    processing_zip: جارٍ معالجة ملف ZIP
+    drop_file_here: أفلت الملف هنا
+    drop_files_here: أفلت الملفات هنا
+    drop_files_and_folders_here: أفلت الملفات والمجلدات هنا
+    select_pool_files: تحديد ملفات من المستودع
+    add_pool_files: إضافة ملفات من المستودع
+    invalid_validation_token: هذا ليس رمز تحقق صالحًا.
+    not_the_validation_token: هذا معرّف الرسالة وليس رمز التحقق. يُرجى إدخال رمز التحقق.
+    no_messages_in_inbox: لا توجد رسائل في صندوق الوارد.
+    filename_already_selected: تمت إضافة ملف بهذا الاسم إلى هذه الرسالة بالفعل
+    filesize_exceeded: تم تجاوز الحد الأقصى لحجم الرسالة
+    infected_with: مصاب بالفيروس
+    not_permitted_to_download_content_blocked: "تنزيل هذا الملف غير مسموح به. اكتشف فحص الفيروسات: %{virus}"
+    invalid_email_address: عنوان بريد إلكتروني غير صالح
+    cant_create_folder: لا يمكن إنشاء المجلد
+    cant_check_folder: لا يمكن التحقق من المجلد
+    cant_restore_folder: لا يمكن استعادة المجلد
+    cant_check_chunks: لا يمكن التحقق من الأجزاء
+    zip_not_include_all_files: لا يمكن تنزيل جميع الملفات – سيحتوي ملف ZIP على الملفات القابلة للتنزيل فقط.
+    paste_tip: تلميح! الصق باستخدام Ctrl+Shift+V لإزالة التنسيق.
+  session:
+    api:
+      authentication_error: خطأ في المصادقة، يُرجى المحاولة مرة أخرى.
+      not_local_user: عنوان بريد إلكتروني غير صالح. يمكن للمستخدمين المحليين فقط استخدام هذه الوظيفة.
+      show:
+        login: تسجيل الدخول
+        login_label: عنوان البريد الإلكتروني
+        password: كلمة المرور
+        sso_login: تسجيل الدخول الموحّد (SSO)
+        authentication_title: تسجيل الدخول
+        authentication_description: يُرجى إدخال عنوان بريدك الإلكتروني أو تسجيل الدخول للمتابعة.
+      authenticated:
+        authentication_successful: تمت المصادقة بنجاح
+    authenticate:
+      login: سجّل الدخول للمتابعة
+      description_html: يجب عليك تسجيل الدخول لفتح هذه الصفحة. يُرجى إدخال عنوان بريدك الإلكتروني أو تسجيل الدخول للمتابعة.<br>إذا لم يكن لديك حساب على هذا النظام، فأدخل عنوان بريدك الإلكتروني وسنرسل إليك كلمة مرور مؤقتة عبر البريد الإلكتروني.
+      unauthorized: غير مصرّح لك بعرض هذه الرسالة. يُرجى إدخال عنوان بريدك الإلكتروني تمامًا كما أُرسلت إليك الرسالة، أو التواصل مع المرسل.
+    email:
+      validate_email: أكّد عنوان بريدك الإلكتروني
+      validate_email_description_html: "تم إرسال رمز أمان إلى عنوان بريدك الإلكتروني: <strong>%{email}</strong>. انقر على الرابط أو أدخل رمز الأمان هنا لتأكيد عنوانك والمتابعة."
+      session_expired: انتهت صلاحية الجلسة، يُرجى إدخال عنوان بريدك الإلكتروني مرة أخرى للمتابعة
+      token_expired: انتهت صلاحية رابط المصادقة في البريد الإلكتروني، يُرجى المحاولة مرة أخرى.
+      already_authenticated: أنت مسجّل الدخول بالفعل في هذا المتصفح.
+      resend_validation_email: إعادة إرسال رسالة التحقق
+      verify: تحقق
+      validate_email_sent: "تم إرسال رسالة تحقق جديدة في: %{time}. انقر على الرابط في الرسالة أو أدخل رمز الأمان أدناه لتأكيد عنوان بريدك الإلكتروني."
+      invalid_temporary_user: رمز أمان غير صالح. يُرجى التحقق من بريدك الإلكتروني – تم إرسال رمز أمان جديد إلى صندوق الوارد.
+      create_account: إنشاء حساب
+      create_account_description: أنشئ حسابًا على هذا النظام لتسجيل الدخول باستخدام عنوان بريدك الإلكتروني وكلمة المرور بدلاً من رمز الأمان.
+      invalid_email: عنوان بريد إلكتروني غير صالح
+    login_limit_exceeded:
+      delivered:
+        page_header: تم تجاوز حد محاولات تسجيل الدخول
+        description: لقد حاولت تسجيل الدخول مرات كثيرة جدًا. للمتابعة، يجب إعادة تعيين كلمة المرور.
+        email: تم إرسال رسالة تحتوي على رابط لإعادة تعيين كلمة المرور.
+      waiting:
+        page_header: تم تجاوز حد محاولات تسجيل الدخول
+        description: "لقد حاولت تسجيل الدخول مرات كثيرة جدًا. ملاحظة: يجب تسجيل الدخول باستخدام كلمة مرور الشبكة. إذا كنت بحاجة إلى إعادة تعيينها ولا تعرف الطريقة، فيُرجى التواصل مع مسؤول الشبكة. بعد انقضاء وقت الانتظار، يمكنك إعادة تحميل هذه الصفحة لإعادة تعيين الحد."
+        expiration_time: وقت الانتظار
+        reload: إعادة التحميل
+      show:
+        page_header: تم تجاوز حد محاولات تسجيل الدخول
+        description: لقد حاولت تسجيل الدخول مرات كثيرة جدًا. يمكنك إعادة تعيين حد تسجيل الدخول وتسجيل الدخول مرة أخرى. تم إرسال رسالة إليك لإعادة تعيين الحد.
+      reset:
+        login_limit_reset: تمت إعادة تعيين حد تسجيل الدخول
+    shared:
+      authentication_successful: تمت المصادقة بنجاح
+    outlook:
+      edit:
+        authentication_title: المصادقة
+        authentication_description: يُرجى تسجيل الدخول للمتابعة
+        login: تسجيل الدخول
+        login_label: عنوان البريد الإلكتروني
+        password: كلمة المرور
+        sso_login: تسجيل الدخول الموحّد (SSO)
+      show:
+        authentication_title: المصادقة
+        authentication_description: يُرجى تسجيل الدخول لإرفاق ملفات آمنة.
+        authenticate: مصادقة
+    saml:
+      not_configured:
+        title: لم يتم إعداد SAML
+        description: لم يتم إعداد SAML على هذا النظام. إذا كنت تعتقد أن هذا خطأ، فيُرجى التواصل مع الدعم للتحقق من الأمر.
+        support_button: التواصل مع الدعم
+      api:
+        local:
+          title: مصادقة SAML
+          description: بدأت مصادقة SAML في متصفحك الافتراضي – يُرجى متابعة تسجيل الدخول هناك. إذا لم تتمكن من العثور على النافذة أو لم تعمل لأي سبب، يمكنك المتابعة بالنقر على الزر أدناه.
+          button_label: تسجيل الدخول الموحّد (SSO)
+      response:
+        api_error:
+          authentication_error: فشلت المصادقة
+          saml_authentication_error: فشلت مصادقة SSO
+          saml_authentication_error_description: فشلت مصادقة SSO. يُرجى التواصل مع المسؤول إذا استمرت المشكلة.
+        api_disabled:
+          api_disabled: مجموعة مستخدمين غير مصرّح بها
+          api_disabled_description: لا يملك حسابك صلاحية الوصول إلى هذه الوظيفة (API معطّل). يُرجى التواصل مع مسؤول وطلب نقل حسابك إلى مجموعة أخرى.
+        api_response:
+          authentication_successful: تمت المصادقة بنجاح
+        create:
+          could_not_create_account: تعذّر إنشاء الحساب. يُرجى التواصل مع مسؤول لمزيد من المعلومات.
+        show:
+          could_not_create_account: تعذّر إنشاء الحساب. يُرجى التواصل مع مسؤول لمزيد من المعلومات.
+    temporary_user:
+      validate_email: أكّد عنوان بريدك الإلكتروني
+      validate_email_description_html: "تم إرسال كلمة مرور مؤقتة إلى عنوان بريدك الإلكتروني: <strong>%{email}</strong>. انقر على الرابط أو أدخل كلمة المرور المؤقتة هنا لتأكيد عنوانك والمتابعة."
+      session_expired: انتهت صلاحية الجلسة، يُرجى إدخال عنوان بريدك الإلكتروني مرة أخرى للمتابعة
+      token_expired: انتهت صلاحية رابط المصادقة في البريد الإلكتروني، يُرجى المحاولة مرة أخرى.
+      already_authenticated: أنت مسجّل الدخول بالفعل في هذا المتصفح.
+      resend_validation_email: إعادة إرسال رسالة التحقق
+      verify: تحقق
+      validate_email_sent: "تم إرسال رسالة تحقق جديدة في: %{time}. انقر على الرابط في الرسالة أو أدخل كلمة المرور أدناه لتأكيد عنوان بريدك الإلكتروني."
+      invalid_temporary_user: كلمة مرور غير صالحة. يُرجى التحقق من بريدك الإلكتروني – تمت إعادة إرسال كلمة المرور المؤقتة إلى صندوق الوارد.
+      temporary_user_expired: انتهت صلاحية كلمة المرور المؤقتة. يُرجى التحقق من بريدك الإلكتروني – تم إرسال كلمة مرور مؤقتة جديدة إلى صندوق الوارد.
+      create_account: إنشاء حساب
+      create_account_description: أنشئ حسابًا دائمًا على هذا النظام لتسجيل الدخول باستخدام عنوان بريدك الإلكتروني وكلمة المرور بدلاً من حساب مستخدم مؤقت.
+  shared:
+    show: إظهار
+    reify: استعادة
+    download: تنزيل
+    restore: استعادة
+    delete: حذف
+    trash: سلة المهملات
+    cancel: إلغاء
+    close: إغلاق
+    current: الحالي
+    bootstrap_confirm_dialog:
+      confirm_action: تأكيد الإجراء
+    shares:
+      bootstrap_confirm_dialog:
+        confirm_action: تأكيد الإجراء
+      navigation:
+        files: الملفات
+        activity_log: سجل النشاط
+      wrap_content:
+        activity_log: سجل النشاط
+    error_messages:
+      prohibited_this_from_being_saved: منعت حفظ %{target}
+  share:
+    share: Share
+    shares: Share
+    no_shares: لا توجد Share متاحة
+    name: الاسم
+    folder_name: اسم المجلد
+    share_not_found: لم يتم العثور على Share
+    folder_not_found: لم يتم العثور على المجلد
+    file_not_found: لم يتم العثور على الملف
+    no_read_access: غير مصرّح لك بالوصول إلى هذا الـ Share
+    no_write_access: غير مسموح لك بالكتابة في هذا الـ Share
+    not_authorized_to_view_logs: غير مصرّح لك بعرض السجلات
+    require_authentication: يتطلب هذا الـ Share المصادقة. يُرجى إدخال كلمة المرور للمتابعة.
+    authenticate: مصادقة
+    authentication_failed: فشلت المصادقة
+  shares:
+    folders:
+      are_you_sure_you_want_to_delete: هل أنت متأكد من رغبتك في حذف هذا المجلد؟
+      are_you_sure_you_want_to_trash: هل أنت متأكد من رغبتك في حذف هذا المجلد نهائيًا؟
+      folder_name_already_taken: اسم المجلد هذا مستخدم بالفعل!
+      folder_not_found: لم يتم العثور على المجلد
+      could_not_create_folder: "تعذّر إنشاء المجلد: %{error}"
+      zip_no_files: لا توجد ملفات لإضافتها إلى ZIP
+      windows_path_warning:
+        title: قيود طول المسار في Windows
+        description_html: <strong>مستخدمو Windows:</strong> يقيّد Windows مسارات الملفات بـ 259 حرفًا. عند تحميل مجلدات من مواقع ذات مسارات طويلة، قد يتم تخطي الملفات الموجودة في عمق بنية المجلدات دون تحذير، مما يؤدي إلى تحميل غير مكتمل أو مجلدات مكررة.
+        workarounds_title: الحلول المقترحة
+        workarounds_html: "<li><strong>استخدم محرك أقراص افتراضيًا:</strong> افتح موجّه الأوامر وشغّل: <code>subst X: \"C:\\masar\\taweel\\ila\\mujallad\"</code><br>ثم قم بالتحميل من محرك الأقراص الافتراضي <code>X:\\</code></li><li><strong>انتقل إلى موقع أقرب إلى الملفات:</strong> افتح مجلدًا فرعيًا أقرب إلى ملفاتك قبل تحديد مجلد التحميل</li><li><strong>استخدم مسارًا أقصر:</strong> انسخ ملفاتك إلى موقع أقصر، مثل <code>C:\\uploads\\</code>، قبل التحميل</li><li><strong>اضغط المجلد أولاً:</strong> اضغط المجلد في ملف ZIP وحمّل ملف ZIP بدلاً منه</li>"
+        advanced_title: "متقدم: تفعيل المسارات الطويلة في Windows 10/11"
+        advanced_description_html: بدءًا من الإصدار 1607 من Windows 10، يمكنك تفعيل دعم المسارات الأطول. <strong>ملاحظة:</strong> يتطلب ذلك صلاحيات المسؤول وقد لا يعمل في جميع المتصفحات. الحلول المذكورة أعلاه أكثر موثوقية.
+        registry_steps_title: خطوات تفعيل المسارات الطويلة
+        registry_steps_html: "<li>اضغط <kbd>Win + R</kbd>، واكتب <code>regedit</code> واضغط Enter</li><li>انتقل إلى: <code>HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\FileSystem</code></li><li>ابحث عن قيمة DWORD باسم <code>LongPathsEnabled</code> أو أنشئها، وعيّنها إلى <code>1</code></li><li>أعد تشغيل الكمبيوتر ليسري التغيير</li><li>أعد محاولة التحميل (قد يختلف الدعم حسب المتصفح)</li>"
+        browser_disclaimer_html: "<strong>مهم:</strong> حتى مع تفعيل إعداد السجل هذا، يختلف دعم المسارات الطويلة حسب المتصفح. قد تستمر متصفحات Chrome وEdge وFirefox في تطبيق حد الـ 259 حرفًا. الحلول المذكورة أعلاه أكثر موثوقية."
+      folder:
+        rename_folder: إعادة تسمية المجلد
+        move_folder_description: نقل المجلد %{foldername} إلى المجلد المحدد أدناه
+        move_folder: نقل المجلد
+      action_bar:
+        download_as_zip: تنزيل كملف ZIP
+        download_as_zip_with_deleted: تنزيل كملف ZIP مع الملفات المحذوفة
+        toggle_deleted_view: إظهار/إخفاء الملفات المحذوفة
+        filter: تصفية
+        upload_file: تحميل ملفات
+        upload_folder: تحميل مجلد
+        create_folder: إنشاء مجلد
+        windows_path_warning: تحذير طول المسار
+        upload_folder_unsupported: تحميل المجلدات غير مدعوم
+        upload_folder_unsupported_description: للأسف، لا يدعم متصفحك تحميل المجلدات. يُرجى استخدام إصدار سطح المكتب من Chrome أو Safari لتحميل بنية مجلدات.
+        showing_deleted: عرض %{number_of} من العناصر المحذوفة
+        hiding_deleted: إخفاء %{number_of} من العناصر المحذوفة
+        actions: الإجراءات
+        move_selected: نقل المحدد
+        trash_selected: نقل المحدد إلى سلة المهملات
+        delete_selected: حذف المحدد
+      action_bar_below:
+        send_notifications: إرسال الإشعارات
+        sending_notifications: جارٍ إرسال الإشعارات
+        quota: الحصة
+        used_of: مستخدم من
+        available: متاح
+        quota_exceeded: تم تجاوز الحصة
+      create_folder_modal:
+        create_folder: إنشاء مجلد
+        create: إنشاء
+      files:
+        are_you_sure_you_want_to_delete: هل أنت متأكد من رغبتك في حذف هذا الملف؟
+        are_you_sure_you_want_to_trash: هل أنت متأكد من رغبتك في حذف هذا الملف نهائيًا؟
+        file_not_found: لم يتم العثور على الملف
+        file:
+          rename_file: إعادة تسمية الملف
+          move_file: نقل
+          move_file_description: نقل الملف %{filename} إلى المجلد المحدد أدناه
+        show:
+          prev: السابق
+          up: لأعلى
+          next: التالي
+          last_updated: آخر تحديث
+          versions: الإصدارات
+          show_all: إظهار الكل
+          version_from: الإصدار بتاريخ
+          next_version: الإصدار التالي
+          previous_version: الإصدار السابق
+          current_version: الإصدار الحالي
+          pdf_preview_not_supported: لا يدعم متصفحك معاينة ملفات PDF
+        available_chunks:
+          available: تتوفر عمليات تحميل جزئية للملفات التالية
+          resume_replace: هل تريد استئناف التحميل أم استبدال الملفات؟
+      quota:
+        quota: الحصة
+        used_of: مستخدم من
+        available: متاح
+        quota_exceeded: تم تجاوز الحصة
+      move_file_folder_modal:
+        move_folder: نقل المجلد
+        move_file: نقل الملف
+        move: نقل
+      show:
+        select_all: تحديد الكل/إلغاء التحديد
+    logs:
+      action_bar:
+        activity_log: سجل النشاط
+      message:
+        created: تم الإنشاء
+        uploaded: تم التحميل
+        downloaded: تم التنزيل
+        reified: تمت الاستعادة
+        removed: تمت الإزالة
+        restored: تمت الاستعادة
+        deleted: تم الحذف
+        moved: تم النقل
+        renamed: تمت إعادة التسمية
+        added: تمت الإضافة
+        viewed: تم العرض
+        infected: مصاب
+        trashed: نُقل إلى سلة المهملات
+        deleted_user: "(مستخدم محذوف)"
+        share: Share
+        folder: مجلد
+        file: ملف
+        group: مجموعة
+        user: مستخدم
+        read: قراءة
+        read/write: قراءة/كتابة
+        av_scanner: برنامج مكافحة الفيروسات
+        version_from: الإصدار بتاريخ
+        file_deleted: تم حذف الملف
+        to: إلى
+        from: من
+        unknown: غير معروف
+        other: أخرى
+  share/log:
+    message:
+      you: أنت
+      share: Share
+      folder: مجلد
+      file: ملف
+      user: مستخدم
+      version_from: الإصدار بتاريخ
+      read: قراءة
+      read/write: قراءة/كتابة
+      created: أنشأ
+      added: أضاف
+      uploaded: حمّل
+      downloaded: نزّل
+      updated: حدّث
+      restored: استعاد
+      reified: استعاد
+      deleted: حذف
+      removed: حذف نهائيًا
+      trashed: نقل إلى سلة المهملات
+      renamed: أعاد تسمية
+      viewed: عرض
+      infected: مصاب
+      av_scanner: برنامج مكافحة الفيروسات
+      file_deleted: تم حذف الملف
+  sms_auth:
+    login_failed: فشل تسجيل الدخول
+    sms_error: خطأ في إعدادات الرسائل النصية، يُرجى التواصل مع مسؤول النظام
+    verify_token: التحقق من رمز الرسالة النصية
+    verify_token_description: "أدخل الرمز المرسل إلى هاتفك المحمول:"
+    sms_login_failed: فشل التحقق عبر الرسالة النصية، تم إرسال رمز جديد
+    sms_signup: التسجيل في المصادقة الثنائية عبر الرسائل النصية
+    sms_signup_failed: فشلت المصادقة الثنائية عبر الرسائل النصية
+    sms_signup_description: للمتابعة، يجب عليك التسجيل في المصادقة الثنائية عبر الرسائل النصية. أدخل رقم هاتفك أدناه للمتابعة.
+    verify: تحقق
+    resend: إعادة إرسال الرمز
+    code: الرمز
+    token_resent: تمت إعادة إرسال رمز الرسالة النصية في %{time}
+    send_token: إرسال رمز التحقق
+    phone_number: رقم الهاتف
+    invalid_phone_number: رقم هاتف غير صالح، يُرجى المحاولة مرة أخرى.
+    change_phone_number: تغيير رقم الهاتف
+    phone_number_help: أدخل رقم هاتفك مع رمز الدولة ودون أصفار بادئة (مثل 966501234567). سيتم إرسال رمز تحقق إلى هذا الرقم.
+    one-time-code: رمز لمرة واحدة
+  strong_auth:
+    two_factor_authentication: المصادقة الثنائية
+    enable_2fa: تفعيل المصادقة الثنائية
+    disable_2fa: تعطيل المصادقة الثنائية
+    title: تفعيل المصادقة الثنائية
+    enable_2fa_description: يمكنك تفعيل مصادقة ثنائية قوية لزيادة أمان حسابك.
+    require_description: لاستخدام هذا النظام، يجب عليك إعداد المصادقة الثنائية.
+    disable_description: أدخل الرمز الحالي لتعطيل المصادقة الثنائية
+    two_factor_auth_disabled: تم تعطيل المصادقة الثنائية
+    step1: "الخطوة 1: احصل على تطبيق المصادقة"
+    step1_description: فعّل المصادقة الثنائية، عادةً باستخدام تطبيق للهاتف المحمول.
+    totp_apps_description_html: من تطبيقات المصادقة <a href="https://authy.com" target="_blank" rel="external nofollow noopener noreferrer">Authy</a> (متعدد الأنظمة) وGoogle Authenticator (iOS/Android). راجع <a href="https://docs.liquidfiles.com/authentication/totp.html#clients" target="_blank">TOTP Clients</a> لمزيد من الخيارات.
+    step2: "الخطوة 2: أعدّ تطبيق المصادقة"
+    step2_description: أعدّ تطبيق المصادقة بمسح رمز QR.
+    step2_alt: أو أدخل الرمز أدناه
+    step3: "الخطوة 3: تحقق"
+    step3_description: تحقق من الإعداد بإدخال الرمز الذي ينشئه تطبيق المصادقة.
+    failed_to_authenticate: فشلت المصادقة، يُرجى المحاولة مرة أخرى.
+    click_on_link: بدلاً من ذلك، انقر على الرابط أدناه لإضافة الإعدادات إلى تطبيق المصادقة الثنائية
+    configure: إعداد المصادقة الثنائية
+    success_saved: تم بنجاح، حُفظت إعدادات المصادقة الثنائية
+    verify_token: التحقق من المصادقة الثنائية
+    verify_token_description: أدخل رمز المصادقة الثنائية من تطبيق الهاتف المحمول.
+    verify: تحقق
+    two_factor_login_failed: فشلت المصادقة الثنائية
+    two_factor_validation_failed: فشل التحقق من المصادقة الثنائية
+    skip_2fa_for_two_weeks: تخطي المصادقة الثنائية في هذا المتصفح لمدة أسبوعين
+    one-time-code: رمز لمرة واحدة
+  support:
+    email_subject: أحتاج إلى مساعدة بخصوص
+    email_body: يُرجى وصف مشكلتك بأكبر قدر ممكن من التفصيل. شكرًا لك.
+    navbar_tooltip: إذا كنت بحاجة إلى مساعدة للوصول إلى هذا النظام أو استخدامه، فانقر على هذا الرابط وسيسعدنا مساعدتك.
+  user:
+    includes_at_least_one_invalid_email_address: يحتوي على عنوان بريد إلكتروني واحد غير صالح على الأقل
+    confirm:
+      invalid_session: جلسة غير صالحة
+      already_validated: تم تأكيد عنوان بريدك الإلكتروني بالفعل
+      invalid_token: رمز غير صالح. يُرجى المحاولة مرة أخرى أو النقر على إعادة إرسال رسالة التحقق.
+      validation_email_sent: "تم إرسال رسالة التحقق في: %{time}"
+      activated_successfully: تم التفعيل بنجاح
+      validate_email_description: تحقق من بريدك الإلكتروني وأدخل كلمة المرور المؤقتة لتأكيد عنوان بريدك الإلكتروني.
+    register:
+      already_registered: هذا الحساب مسجّل بالفعل، يُرجى تسجيل الدخول للمتابعة
+      already_registered_not_validated: حسابك مسجّل بالفعل، لكن لا يزال يلزم تأكيد عنوان بريدك الإلكتروني. لقد أرسلنا إليك رسالة تحتوي على رمز عشوائي. أدخل الرمز أدناه أو انقر على الرابط في الرسالة لتأكيد حسابك.
+      show:
+        register: تسجيل حساب
+        description_html: <p>أدخل بياناتك لإنشاء حساب. باستخدام هذا الحساب يمكنك إرسال الملفات الكبيرة بأمان عبر %{branding_name}.</p>
+    signup:
+      create:
+        need_password: يجب إدخال كلمة مرور
+        need_name: يجب إدخال اسم
+    create:
+      show:
+        cancel_and_remember: إلغاء وعدم السؤال مرة أخرى
+        cancel_and_remember_title: سيتم تذكّر هذا الاختيار في المتصفح الحالي
+  validator:
+    required: هذا الحقل مطلوب.
+    remote: يُرجى تصحيح هذا الحقل.
+    email: يُرجى إدخال عنوان بريد إلكتروني صالح.
+    url: يُرجى إدخال عنوان URL صالح.
+    date: يُرجى إدخال تاريخ صالح.
+    dateISO: يُرجى إدخال تاريخ صالح (ISO).
+    number: يُرجى إدخال رقم صالح.
+    digits: يُرجى إدخال أرقام فقط.
+    creditcard: يُرجى إدخال رقم بطاقة ائتمان صالح.
+    equalTo: يُرجى إدخال القيمة نفسها مرة أخرى.
+    accept: يُرجى إدخال قيمة بامتداد صالح.
+    maxlength: يُرجى إدخال {0} حرفًا كحد أقصى.
+    minlength: يُرجى إدخال {0} حرفًا على الأقل.
+    rangelength: يُرجى إدخال قيمة يتراوح طولها بين {0} و{1} حرفًا.
+    range: يُرجى إدخال قيمة بين {0} و{1}.
+    max: يُرجى إدخال قيمة أصغر من {0} أو مساوية له.
+    min: يُرجى إدخال قيمة أكبر من {0} أو مساوية له.
+    step: يُرجى إدخال قيمة من مضاعفات {0}.
+    invalid_phone_number: رقم هاتف غير صالح
+  locale: العربية

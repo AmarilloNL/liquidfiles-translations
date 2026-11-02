@@ -1,0 +1,1569 @@
+lv:
+  s: s
+  min: min
+  hours: Stundas
+  days: Dienas
+  weeks: Nedēļas
+  months: Mēneši
+  years: Gadi
+  ago: pirms
+  email: E-pasts
+  save: Saglabāt
+  delete: Dzēst
+  cancel: Atcelt
+  remove: Noņemt
+  aborting: Pārtrauc
+  aborted: Pārtraukts
+  saved_successfully: Veiksmīgi saglabāts
+  logout: Iziet
+  error: Kļūda
+  enabled: Iespējots
+  disabled: Atspējots
+  disable: Atspējot
+  default: Noklusējums
+  submit: Iesniegt
+  session_expired: Sesija ir beigusies
+  search: Meklēt
+  filter: Filtrs
+  recipient: Saņēmējs
+  recipients: Saņēmēji
+  downloaded_by: Lejupielādēja
+  filename: Faila nosaukums
+  size: Izmērs
+  downloaded: Lejupielādēts
+  host: Resursdators
+  ip: IP adrese
+  action: Darbība
+  view_message: Skatīt ziņojumu
+  view_message_popup: Skatīt ziņojumu (uznirstošajā logā)
+  download_info: Lejupielādes informācija
+  message_id: Ziņojuma ID
+  filelink_id: FileLink ID
+  sent_at: Nosūtīts
+  id: ID
+  subject: Temats
+  expires: Derīgs līdz
+  invalid_method: Nederīga metode
+  export_csv: Eksportēt CSV
+  export_all: Eksportēt visu
+  export_visible: Eksportēt redzamos
+  temporarily_unavailable: Īslaicīgi nav pieejams
+  generic_search_error: Vispārēja meklēšanas kļūda
+  sender: Sūtītājs
+  search_temporary_disabled: Meklēšana īslaicīgi atspējota
+  help: Palīdzība
+  close: Aizvērt
+  count: Skaits
+  settings: Konta iestatījumi
+  virus: Vīruss
+  virus_status: Vīrusu statuss
+  infected: Inficēts
+  clean: Tīrs
+  not_scanned: Nav skenēts
+  not_yet_scanned: Vēl nav skenēts
+  csrf_error: "CSRF: konstatēti nederīgi parametri. Lai turpinātu, piesakieties vēlreiz."
+  could_not_be_saved: Neizdevās saglabāt
+  label: Etiķete
+  updated: Atjaunināts
+  add: Pievienot
+  system_info: Sistēmas informācija
+  location: Atrašanās vieta
+  accept: Pieņemt
+  last_7_days: Pēdējās 7 dienas
+  last_30_days: Pēdējās 30 dienas
+  last_60_days: Pēdējās 60 dienas
+  last_90_days: Pēdējās 90 dienas
+  last_180_days: Pēdējās 180 dienas
+  last_365_days: Pēdējās 365 dienas
+  file: Fails
+  files: Faili
+  next: Nākamais
+  previous: Iepriekšējais
+  name: Vārds
+  view: Skatīt
+  forget: Aizmirst
+  update: Atjaunināt
+  updated_at: Atjaunināts
+  created_at: Izveidots
+  download_link_expired: Lejupielādes saites derīguma termiņš ir beidzies.
+  no_html5_upload_warning: Failu augšupielādei nepieciešama moderna, ar HTML5 saderīga pārlūkprogramma. Microsoft Edge, Chrome, Firefox un Safari darbojas lieliski.
+  javascript_warning: Lai sūtītu failus un izmantotu lielāko daļu funkciju, nepieciešams JavaScript.
+  cookie_accept: Šī vietne izmanto sīkfailus. Piesakoties vai noklikšķinot uz “Pieņemt”, jūs piekrītat sīkfailu izmantošanai.
+  i_agree: Es piekrītu
+  session_timeout: Sesija beigusies, lūdzu, piesakieties vēlreiz
+  loading: Ielādē...
+  unsupported_browser_header: Neatbalstīta pārlūkprogramma
+  unsupported_browser_description_html: Jūsu pārlūkprogramma netiek atbalstīta, tāpēc šī vietne, visticamāk, nedarbosies, kā paredzēts. Lūdzu, izmantojiet jaunāku pārlūkprogrammu.
+  not_logged_in_invalid_parameters: Nav pieteicies, nederīgi parametri
+  toggle_dropdown: Rādīt/slēpt izvēlni
+  rejected: Noraidīts
+  undetected: Nav konstatēts
+  invalid_link: Nederīga saite, lūdzu, sazinieties ar sūtītāju
+  account_settings_tooltip: Konta iestatījumi
+  logout_tooltip: Iziet
+  download_id: Lejupielādes ID
+  remote_host: Attālais resursdators
+  show: Rādīt
+  hide: Slēpt
+  password: Parole
+  download: Lejupielādēt
+  unauthorized: Nav atļaujas
+  account:
+    login: Pieteikties
+    login_label: E-pasta adrese
+    email: E-pasta adrese
+    password: Parole
+    current_password: Pašreizējā parole
+    please_enter_your_current_password: Lūdzu, ievadiet pašreizējo paroli
+    sign_in: Pieteikties
+    remember_me: Atcerēties mani
+    not_administrator: Jūs neesat administrators
+    password_reset: Paroles atiestatīšana
+    register: Reģistrēties
+    register_description_html: Paldies! Lai turpinātu, ievadiet savus datus un izveidojiet kontu.<br>Nākamreiz varēsiet pieteikties ar savu e-pasta adresi un paroli.
+    account_not_activated: Konts nav aktivizēts. Lūdzu, aktivizējiet kontu pirms pieteikšanās. Jums tika nosūtīts e-pasts ar nejaušu kodu. Ievadiet kodu zemāk vai noklikšķiniet uz e-pastā esošās saites, lai apstiprinātu kontu.
+    incorrect_user_or_pw: Nepareizs lietotājvārds vai parole
+    confirmation_email_sent: Apstiprinājuma e-pasts nosūtīts
+    activated_successfully: Veiksmīgi aktivizēts
+    not_activated: Konts nav aktivizēts
+    password_reset_email_sent: Paroles atiestatīšanas e-pasts nosūtīts
+    no_such_user: Šāds lietotājs neeksistē
+    no_such_email: E-pasta adrese nav atrasta
+    not_logged_in: Jūs neesat pieteicies. Lūdzu, piesakieties, lai turpinātu.
+    saved_successfully: Veiksmīgi saglabāts
+    unlicensed_install_some_settings: "Nelicencēta instalācija: zīmola iestatījumi ir redzami tikai sistēmas administratoriem"
+    incorrect_login_or_demo: Nepareizs lietotājvārds vai parole, vai sasniegts licences ierobežojums
+    incorrect_login_or_ldap: Nepareizs lietotājvārds vai parole, vai LDAP servera kļūda
+    invalid_api_key: Nederīga API atslēga
+    cant_delete_last_sysadmin: Pēdējo sistēmas administratoru nevar dzēst
+    cant_change_last_sysadmin: Pēdējo sistēmas administratoru nevar mainīt
+    sso_login: SSO pieteikšanās
+    invalid_sso_response: Nederīga SSO atbilde
+    automatic: Noteikts automātiski
+    network_access_blocked: Piekļuve šai sistēmai no jūsu tīkla nav atļauta.
+    please_login: Lūdzu, piesakieties, lai atvērtu šo lapu.
+    email_validation_session_timeout: Sesija beigusies, lūdzu, vēlreiz apstipriniet savu e-pasta adresi.
+    signature: Paraksts
+    not_authorized_for_action: Jums nav atļaujas veikt šo darbību
+    invalid_group: Nederīga grupa. Lūdzu, sazinieties ar administratoru, kas var pārvietot jūsu kontu uz vietējo lietotāju grupu
+    invalid_group_configuration: Nederīga grupas konfigurācija. Lūdzu, sazinieties ar administratoru, kas var jums izveidot kontu vai mainīt grupas konfigurāciju.
+    please_enter_email_to_email_password: Lūdzu, ievadiet savu e-pasta adresi, lai atiestatītu paroli. Uz šo adresi tiks nosūtīts apstiprinājuma e-pasts.
+    password_reset_successfully: Parole veiksmīgi atiestatīta
+    password_cant_be_empty: Parole nedrīkst būt tukša
+    password_complexity_title: Paroles sarežģītība
+    password_complexity_description_html: "<p>Jūsu parole <strong>nedrīkst būt balstīta uz vārdnīcas vārdu</strong>, un tai jāatbilst vismaz 3 no šīm prasībām:</p><ul><li>Vismaz 8 rakstzīmes</li><li>Vismaz 11 rakstzīmes</li><li>Vismaz 15 rakstzīmes</li><li>Vismaz 1 mazais un 1 lielais burts</li><li>Vismaz 1 cipars (0-9)</li><li>Vismaz viena no šīm rakstzīmēm: !,@,#,$,%,^,&amp;,*,?,_,~,-,(,)</li></ul>"
+    is_not_strong_enough: nav pietiekami droša
+    your_password_has_expired: Jūsu paroles derīguma termiņš ir beidzies
+    please_select_a_different_password: Lūdzu, izvēlieties paroli, kas atšķiras no iepriekšējās
+    change_password: Mainīt paroli
+    account_not_found: Konts nav atrasts. Lūdzu, piesakieties vēlreiz.
+    user_required_to_use_saml: Paroli nevar atiestatīt, lūdzu, piesakieties, izmantojot SAML
+    sysadmin_ldap_error: Šis konts tiek autentificēts ar LDAP, un to nevar atiestatīt šeit
+    login_limit_exceeded: Pārsniegts pieteikšanās ierobežojums
+    a_confirmation_email_will_be_sent: Uz šo adresi tiks nosūtīts apstiprinājuma e-pasts
+    name: Vārds
+    password_confirm: Apstiprināt paroli
+    save: Saglabāt
+    can_not_reset_password_please_check_with_your_administrator: Paroli nevar atiestatīt, lūdzu, sazinieties ar administratoru
+    no_need_to_register_user: Reģistrēties nav nepieciešams. Lūdzu, piesakieties ar savu esošo kontu.
+    registration_not_allowed: Reģistrācija nav atļauta
+    create_description: Izveidojiet kontu, ievadot savu vārdu un paroli.
+    activated_successfully_please_login: Konts veiksmīgi aktivizēts. Tagad varat pieteikties ar savu e-pasta adresi un paroli.
+    invalid_activation_url: Nederīga aktivizācijas saite. Lūdzu, pārbaudiet saiti un mēģiniet vēlreiz.
+    already_logged_in: Jūs jau esat pieteicies. Jaunu kontu reģistrēt nav iespējams.
+    bruteforce_message: Ir pārsniegts neveiksmīgo mēģinājumu skaits. Lūdzu, mēģiniet vēlreiz pēc %{minutes} minūtēm.
+    admin_access_blocked: Administratora piekļuve no jūsu IP adreses nav atļauta.
+    account_created_successfully: Konts veiksmīgi izveidots
+    create_account: Izveidot kontu
+    create_account_description: Lūdzu, atjauniniet savus datus, lai izveidotu kontu.
+    account_settings: Konta iestatījumi
+    change_language: Mainīt valodu un laika joslu
+    filedrop_label: Filedrop (nejaušs)
+    filedrop_email_label: Filedrop
+    verify_account: Notiek konta pārbaude
+    invalid_sso_signature: Nederīgs SSO paraksts vai pieteikšanās
+    user_not_found: Lietotājs nav atrasts
+    could_not_create_account: Kontu neizdevās izveidot
+    two_factor_authentication_failed: Duo divfaktoru autentifikācija neizdevās
+    copy_to_clipboard: Kopēt starpliktuvē
+    copy_url_to_clipboard: Kopēt URL starpliktuvē
+    delete_user_warning: Vai tiešām vēlaties dzēst šo lietotāju?
+    unauthorized_to_login: Nav atļaujas pieteikties
+    first_time_message_title: Laipni lūdzam LiquidFiles
+    first_time_message: <p>Laipni lūdzam LiquidFiles – vienkāršākajā veidā, kā droši nosūtīt lielus failus.</p><p>Pamatfunkcijas darbojas tāpat kā tīmekļa pasts.</p><p>Šis ziņojums tiks parādīts tikai vienreiz. Ja rodas grūtības vai vēlaties atklāt papildu funkcijas, noklikšķiniet uz pogas “Palīdzība” izvēļņu joslas augšējā labajā stūrī.</p>
+    first_time_message_button: Sapratu!
+    registration_failed_unknown_error: Reģistrācija neizdevās nezināmas kļūdas dēļ
+    session_timeout: Sesija beigusies
+    nothing_filled_in: Lūdzu, aizpildiet veidlapu
+    last_used: Pēdējoreiz izmantots
+    strong_auth_required_before_password_reset: Lai atiestatītu šī konta paroli, nepieciešama spēcīga divfaktoru autentifikācija.
+    unfriendly_registration_message: Ja ar šo e-pasta adresi ir iespējams reģistrēties sistēmā, jūs saņemsiet e-pastu. Ja nesaņemat, lūdzu, izmantojiet augstāk esošo atbalsta saiti.
+    unfriendly_password_reset_message: Ja kontu ar šo e-pasta adresi ir iespējams atiestatīt, jūs saņemsiet e-pastu. Ja nesaņemat, lūdzu, izmantojiet augstāk esošo atbalsta saiti.
+    aliases:
+      aliases: Aizstājvārdi
+      aliases_description: Savam kontam varat pievienot sūtītāja un saņēmēja aizstājvārdus. Sūtītāja aizstājvārds ļauj sūtīt ziņojumus šīs e-pasta adreses vārdā. Saņēmēja aizstājvārds ļauj skatīt šai e-pasta adresei sūtītos ziņojumus. Saņēmēja aizstājvārdam sūtītie ziņojumi būs redzami arī jūsu drošo ziņojumu iesūtnē.
+      aliases_no_change_description: Sūtītāja aizstājvārds ļauj sūtīt ziņojumus šīs e-pasta adreses vārdā. Saņēmēja aizstājvārds ļauj skatīt šai e-pasta adresei sūtītos ziņojumus. Saņēmēja aizstājvārdam sūtītie ziņojumi būs redzami arī jūsu drošo ziņojumu iesūtnē. Lai pievienotu vai mainītu aizstājvārdus, sazinieties ar administratoru.
+      recipient_aliases: Saņēmēja aizstājvārdi
+      sender_aliases: Sūtītāja aizstājvārdi
+      add_alias: Pievienot aizstājvārdu
+      remove: Noņemt
+      default_sender_alias: Noklusējuma sūtītāja aizstājvārds
+      default_sender_alias_description: Noklusējuma sūtītāja aizstājvārds.
+      are_you_sure: Vai tiešām vēlaties noņemt šo aizstājvārdu?
+      no_emails: Nav pievienots neviens aizstājvārds.
+      please_contact_an_administrator: Lai tos pārvaldītu, sazinieties ar administratoru
+      auto_added_aliases: Automātiski pievienotie aizstājvārdi
+      auto_added_aliases_description: Šie aizstājvārdi tika automātiski pievienoti jūsu profilam. Lai tos pārvaldītu, sazinieties ar administratoru.
+    alias:
+      confirm:
+        show:
+          title: Paldies par apstiprinājumu
+          alias_email: Aizstājvārda e-pasta adrese
+          user: Lietotājs
+          recipient_and_sender_confirmation: Iepriekš minētais lietotājs tagad var skatīt šai e-pasta adresei sūtītos drošos ziņojumus un sūtīt drošus ziņojumus tās vārdā. Ja tā ir kļūda, noklikšķiniet uz augstāk esošās atbalsta saites.
+          only_recipient_confirmation: Iepriekš minētais lietotājs tagad var skatīt šai e-pasta adresei sūtītos drošos ziņojumus. Ja tā ir kļūda, noklikšķiniet uz augstāk esošās atbalsta saites.
+          only_sender_confirmation: Iepriekš minētais lietotājs tagad var sūtīt drošus ziņojumus šīs e-pasta adreses vārdā. Ja tā ir kļūda, noklikšķiniet uz augstāk esošās atbalsta saites.
+    add_alias_modal:
+      title: Pievienot aizstājvārdu
+      description: Ievadiet e-pasta adresi, kurai vēlaties piekļuvi kā saņēmēja vai sūtītāja aizstājvārdam. Uz šo adresi tiks nosūtīts apstiprinājuma e-pasts.
+      recipient_alias: Saņēmēja aizstājvārds - vēlos lasīt ziņojumus, kas sūtīti uz šo e-pasta adresi.
+      sender_alias: Sūtītāja aizstājvārds - vēlos sūtīt ziņojumus šīs e-pasta adreses vārdā.
+      invalid_email: Nederīga e-pasta adrese
+      add_permission: Lūdzu, izvēlieties saņēmēja aizstājvārdu, sūtītāja aizstājvārdu vai abus.
+      send_request: Nosūtīt pieprasījumu
+      request_has_been_sent: Jūsu pieprasījums ir nosūtīts.
+    api:
+      api_key: API atslēga
+      api_key_description: API atslēgu izmanto spraudņi, piemēram, Outlook spraudnis, un to var izmantot pielāgotām integrācijām. Tā ir nepieciešama tikai tad, ja to lūdz administrators.
+      api_key_reset_warning: Vai esat pārliecināts? Ja atiestatīsiet API atslēgu, vecā atslēga būs jānomaina visur, kur to izmantojāt.
+      reset_api_key: Atiestatīt API atslēgu
+    contacts:
+      contacts: Kontakti
+      contacts_description: Varat pievienot tik daudz kontaktu, cik vēlaties. Katram kontaktam var būt vairākas e-pasta adreses, lai varētu ātri un vienkārši sūtīt vairākiem saņēmējiem vienlaikus.
+      add_contact: Pievienot kontaktu
+      email_field_help: Ar komatiem atdalīts e-pasta adrešu saraksts.
+      contact:
+        edit_label: Rediģēt etiķeti
+        edit_email: Rediģēt e-pasta adresi
+        are_you_sure: Vai tiešām vēlaties dzēst šo kontaktu?
+    filedrops:
+      filedrops: Filedrop
+      filedrops_description: Jūs esat šo Filedrop galvenais saņēmējs vai kopijas saņēmējs. Visi faili, kas nosūtīti, izmantojot kādu no tiem, tiks piegādāti jums.
+      name: Nosaukums
+      title: Virsraksts
+      recipient: Saņēmējs
+      expires_after: Derīgs
+      max_size: Maks. faila izmērs
+      url: URL
+      main_recipient: Galvenais saņēmējs
+      cc: Kopija
+    personal_filedrop:
+      personal_filedrop: Personīgais Filedrop
+      personal_filedrop_description: Personīgais Filedrop ir vienkāršs veids, kā saņemt failus. Varat nosūtīt saiti, publicēt to tīmekļa vietnē vai iekļaut savā e-pasta parakstā. Jūs saņemsiet paziņojumu, tiklīdz kāds būs kaut ko nosūtījis, izmantojot jūsu personīgo Filedrop.
+    previous_recipients:
+      previous_recipients: Iepriekšējie saņēmēji
+      previous_recipients_description: Kad nosūtāt drošu ziņojumu, katrs saņēmējs tiek pievienots šim iepriekšējo saņēmēju sarakstam. Tādējādi varat ātri atkārtoti sūtīt tiem pašiem saņēmējiem. Saņēmēji, kuriem 180 dienu laikā neko neesat nosūtījis, tiek automātiski noņemti no saraksta.
+      are_you_sure: Vai tiešām vēlaties dzēst šo iepriekšējo saņēmēju?
+    pw_dictionary:
+      based_on_a_dictionary_word: ir balstīta uz vārdnīcas vārdu
+      based_upon_your_password_entry: ir balstīta uz ievadīto paroli
+      derived_from_your_password_entry: ir atvasināta no ievadītās paroles
+      derivable_from_your_password_entry: ir atvasināma no ievadītās paroles
+      way_too_short: ir PĀRĀK īsa
+      too_short: ir par īsu
+      it_does_not_contain_enough_different_characters: nesatur pietiekami daudz DAŽĀDU rakstzīmju
+      all_whitespace: sastāv tikai no atstarpēm
+      too_simplistic_systematic: ir pārāk vienkārša/sistemātiska
+      it_looks_like_a_national_insurance_number: izskatās pēc personas koda
+      based_on_a_reversed_dictionary_word: ir balstīta uz (apgrieztu) vārdnīcas vārdu
+    show:
+      basic_settings: Pamatiestatījumi
+      change_password: Mainīt paroli
+      strong_auth: Divfaktoru autentifikācija
+      aliases: Aizstājvārdi
+      previous_recipients: Iepriekšējie saņēmēji
+      contacts: Kontakti
+      personal_filedrop: Personīgais Filedrop
+      api: API
+      filedrops: Filedrop
+    sms_disable:
+      disable_sms_otp: Atspējot SMS divfaktoru autentifikāciju
+      disable_sms_otp_description: Ja vēlaties atspējot SMS divfaktoru autentifikāciju, noklikšķiniet uz zemāk esošās pogas. Pieprasījuma apstiprināšanai tiks nosūtīts SMS kods.
+      verify_token_description: "Lai atspējotu SMS divfaktoru autentifikāciju, ievadiet uz jūsu mobilo tālruni nosūtīto kodu:"
+      code: Kods
+      sms_token_failed: Nederīgs SMS kods, SMS divfaktoru autentifikāciju neizdevās atspējot
+      sms_otp_has_been_disabled: SMS divfaktoru autentifikācija ir atspējota
+    sms_signup:
+      sms_signup_description: Varat uzlabot sava konta drošību, iespējojot divfaktoru autentifikāciju. Lai to iespējotu, zemāk ievadiet savu tālruņa numuru.
+      phone_number: Tālruņa numurs
+    sms_enable:
+      signup_complete: SMS divfaktoru autentifikācija ir iespējota
+    terms_of_service:
+      show:
+        title: Lietošanas noteikumi
+        accept_terms_of_service: Pieņemt lietošanas noteikumus
+        do_not_accept: Nepieņemt
+      create:
+        you_need_to_accept: Jums jāpieņem lietošanas noteikumi!
+  activerecord:
+    attributes:
+      attachment:
+        filename: Faila nosaukums
+        size: Izmērs
+        secure_id: Pielikuma ID
+        content_type: Satura tips
+        created_at: Izveidots
+        updated_at: Atjaunināts
+      download:
+        recipient: Saņēmējs
+        downloaded_at: Lejupielādēts
+        remote_ip: Attālā IP adrese
+        remote_host: Attālais resursdators
+        created_at: Izveidots
+        updated_at: Atjaunināts
+      filedrop:
+        name: Nosaukums
+        title: Virsraksts
+        description: Apraksts
+        blocked_extensions: Bloķētie paplašinājumi
+        permitted_extensions: Atļautie failu tipi
+        expires_after: Derīgs
+        max_filesize: Maksimālais faila izmērs
+        created_at: Izveidots
+        updated_at: Atjaunināts
+        api_key: API atslēga
+        cc: Kopija
+        authorization: Autorizācija
+      message:
+        recipients: Saņēmēji
+        sender: Sūtītājs
+        cc: Kopija
+        bcc: Diskrētā kopija
+        message: Ziņojums
+        subject: Temats
+        deleted: Dzēsts
+        authorization: Autorizācija
+        created_at: Izveidots
+        updated_at: Atjaunināts
+        expires_at: Derīgs līdz
+      share/log:
+        created_at: Datums
+      share/file:
+        checksum: Kontrolsumma (SHA256)
+      share/file/version:
+        whodunnit: Mainīja
+        created_at: Mainīts
+      user:
+        name: Vārds
+        email: E-pasta adrese
+        quota: Kvota
+        used: Izmantots
+        max: Maks.
+        password: Parole
+        ldap_authentication: LDAP autentifikācija
+        api_key: API atslēga
+        level: Līmenis
+        filedrop: Filedrop
+    models:
+      configuration: Konfigurācija
+      attachment: Pielikums
+      filedrop: Filedrop
+      message: Ziņojums
+      user: Lietotājs
+      download: Lejupielāde
+  admin:
+    groups:
+      form:
+        bcc_myself: Sūtīt kopiju man
+        can_change_bcc_myself: Ļaut šīs grupas lietotājiem mainīt iestatījumu par kopijas sūtīšanu sev
+      index:
+        default_group_assignment: Noklusējuma grupas piešķiršana
+    users:
+      users:
+        email: E-pasta adrese
+        name: Vārds
+        group: Grupa
+        max: Maks. faila izmērs
+        quota: Kvota
+        strong_auth: Spēcīga autentifikācija
+        filedrop: Filedrop
+        last_login_at: Pēdējā pieteikšanās
+        last_login_ip: Pēdējās pieteikšanās IP
+        created: Izveidots
+      form:
+        name_label: Vārds
+        email: E-pasta adrese
+        password: Parole
+        password_confirmation: Apstiprināt paroli
+        max_label: Maksimālais faila izmērs
+        group: Grupa
+        strong_auth: Spēcīga autentifikācija
+        strong_auth_username: Spēcīgās autentifikācijas lietotājvārds
+        api_key: API atslēga
+        filedrop: Filedrop
+  attachments:
+    not_found: Pielikums nav atrasts
+  config:
+    settings: Iestatījumi
+    email: E-pasts
+    language_preferences_from_your_browser: Pārlūkprogrammas valodas preferences
+    authentication: Autentifikācija
+    time_zone: Laika josla
+    current_time_zone: Pašreizējā laika josla
+    time_zone_from_browser: Pārlūkprogrammas noteiktā laika josla
+    time_zone_config_description: Ja laika joslu atstāsiet iestatītu uz “Noteikts automātiski”, tiks izmantota pārlūkprogrammas noteiktā laika josla (visi laiki tiks rādīti šajā laika joslā). Ja pārlūkprogramma nevar noteikt laika joslu, tiks izmantota sistēmas noklusējuma laika josla. Ja pārlūkprogramma nenosaka pareizo laika joslu vai vēlaties redzēt laikus citā laika joslā, varat iestatīt konkrētu laika joslu.
+    time_zone_default: Sistēmas noklusējuma laika josla
+    email_settings: E-pasta iestatījumi
+    configuration: Konfigurācija
+    local_domains: Vietējais domēns
+    ldap_users: Ar LDAP autentificētie lietotāji
+    ldap_users_are_always_local: Ar LDAP autentificētie lietotāji vienmēr ir vietējie
+    separated_by_comma: atdalīti ar komatiem
+    default_max_file_size: Noklusējuma maksimālais faila izmērs
+    local_users: Vietējie lietotāji
+    external_users: Ārējie lietotāji
+    allow_registration: Atļaut reģistrāciju
+    allow_registration_desc: Atļaut reģistrāciju pieteikšanās lapā
+    external_user_account: Ārējie saņēmēji
+    external_user_account_desc: Ārējiem saņēmējiem jāizveido konts
+    allow_users_to_change_expiration: Ļaut lietotājiem mainīt failu derīguma termiņu
+    authorization: Atļauja
+    authorization_description: Noklusējuma iestatījums par to, kas drīkst lejupielādēt failus.
+    file_expiration: Derīguma termiņš
+    default_expire_files_after: Pēc noklusējuma faili zaudē derīgumu pēc
+    delete_downloaded_files_after: Dzēst lejupielādētos failus pēc
+    branding: Zīmols
+    company_name: Uzņēmuma nosaukums
+    custom_stylesheet: Pielāgota stilu lapa
+    custom_javascript: Pielāgots JavaScript
+    logotype: Logotips
+    leave_blank_for_default: atstājiet tukšu noklusējuma vērtībai
+    email_configuration: E-pasta konfigurācija
+    email_sender_address: Sūtītāja adrese
+    email_host: E-pasta bāzes URL
+    email_footer: E-pasta kājene
+    email_relay_host: E-pasta pārsūtīšanas serveris
+    email_relay_username: E-pasta pārsūtīšanas lietotājvārds
+    email_relay_password: E-pasta pārsūtīšanas parole
+    port: Ports
+    unlicensed_install_some_settings: "Nelicencēta instalācija: zīmola iestatījumi ir redzami tikai sistēmas administratoriem"
+    mail_relay_example: "Piem.: mailrelay.domens.lv, mx.domens.lv:587"
+    ldap: LDAP
+    please_see_the: skatiet
+    for_more_information: lai iegūtu vairāk informācijas
+    virus_scan: Vīrusu skenēšana
+    virus_scan_description: Skenēt failus, vai tajos nav vīrusu
+    blocked_file_extensions: Bloķētie failu paplašinājumi
+    default_bcc_myself_label: Sūtīt kopiju man
+    default_bcc_myself: Pēc noklusējuma sūtīt kopiju man
+    allow_users_to_change_require_login_label: Pieprasīt autentifikāciju
+    allow_users_to_change_require_login: Ļaut lietotājiem mainīt iestatījumu “Pieprasīt autentifikāciju”
+    permitted_file_extensions_label: Atļautie failu paplašinājumi
+    delete: Dzēst
+    ldap_description: "Iespējojiet lietotāju LDAP autentifikāciju un iestatiet pamatparametrus savienojumam ar LDAP serveri. Ja ports nav norādīts, tiks izmantots LDAP noklusējuma ports 389 (vai ports 636, ja iespējots SSL). Ievērībai: ports 3268 Active Directory NETIEK izmantots autentifikācijai, tikai globālās adrešu grāmatas meklēšanai. Tā vietā izmantojiet portu 389/636."
+    ldap_authentication: LDAP autentifikācija
+    basic_settings: Pamatiestatījumi
+    server: Servera nosaukums / IP adrese
+    username: Lietotājvārds
+    password: Parole
+    authentication_description: Šis lietotājs tiks izmantots savienojumam ar LDAP serveri (atstājiet tukšu anonīmai saistīšanai). Lietotājam nepieciešamas meklēšanas tiesības LDAP kokā.
+    search_key: Meklēšanas atslēga
+    search_key_description: Meklēšanas atslēga un domēns tiek izmantoti lietotāju atrašanai LDAP kokā. Zemāk esošajā tabulā redzams, kā meklēšanas atslēga un domēns kopā darbojas, lai atrastu lietotāju.
+    search_key_description2: Tātad, ja LDAP meklēšanas atslēga satur e-pasta adresi, domēnam jābūt tukšam. Ja LDAP meklēšanas atslēga satur tikai lietotājvārdu, domēnā jānorāda lietotāju domēns.
+    search_key_defaults: "Active Directory gadījumā labs sākumpunkts ir: sAMAccountName kā LDAP meklēšanas atslēga un uznemums.lv (jūsu domēns) kā domēns."
+    user_enters: Lietotājs ievada
+    authorized_ldap_groups: Autorizētās LDAP grupas
+    available_groups: Pieejamās grupas
+    default_settings: Noklusējuma iestatījumi
+    setting: Iestatījums
+    value: Vērtība
+    description: Apraksts
+    default_local_max_description: Šis ir noklusējuma maksimālais faila izmērs jauniem vietējiem lietotājiem. To var mainīt katram lietotājam atsevišķi.
+    user_changeable: Lietotājs var mainīt?
+    non_local: Nevietējs
+    remote: Attāls
+    new_external_recipient_is_nonlocal: Jaunie ārējie saņēmēji ir
+    email_message_on_top_label: Ziņojums augšā
+    email_message_on_top: Ziņojums saņēmējiem sūtītajā e-pastā tiek novietots virs failu saraksta
+    use_either_permitted_or_blocked_extensions: Jāizvēlas vai nu atļautie, vai bloķētie paplašinājumi, nevis abi
+    invalid_password: Nederīga parole
+    valid_password: Derīga parole
+    test_password_validation: Pārbaudīt paroles validāciju
+    custom_password_validation: Pielāgota paroles validācija
+    custom_password_validation_description: "Šī regulārā izteiksme tiks izmantota pielāgotai paroļu validācijai. Ievadiet tikai regulāro izteiksmi, bez atdalītājiem (nesāciet un nebeidziet ar '/'). Piemērs: [a-zA-Z0-9]{7,} (parolēs varēs izmantot tikai a-z, A-Z un 0-9, vismaz 7 rakstzīmes)"
+    filedrop: Filedrop
+    receive: Saņemt
+    api_settings: API iestatījumi
+    enable_api_label: Iespējot API
+    enable_api_description: Iespējot API, lai atļautu piekļuvi, izmantojot spraudņus un skriptus
+    enable_api_group_config: Papildu API iestatījumi ir pieejami grupu konfigurācijā.
+    api_client_size_override_label: API klientu izmēra slieksnis
+    api_client_size_override_description: API klienti sūtīs failus, kas lielāki par šo izmēru, caur ierīci
+    sso_secret_key: SSO slepenā atslēga
+    generate_key: Ģenerēt jaunu atslēgu
+    sso_replace_confirm: Vai esat pārliecināts? Nomainot SSO slepeno atslēgu, esošās SSO integrācijas pārstās darboties.
+    virus_scan_skip_locals: Izlaist vīrusu skenēšanu vietējiem lietotājiem
+    virus_scan_skip_locals_description: Neskenēt vietējo lietotāju failus
+    virus_scan_permit_unscanned: Atļaut neskenētus failus
+    virus_scan_permit_unscanned_description: Atļaut lejupielādēt failus, kas vēl nav skenēti
+    userdrop: Lietotāja Filedrop
+    user_filedrop_with_random_key: Lietotāju Filedrop ar nejaušu atslēgu
+    enable_userdrop: Iespējot lietotāju Filedrop
+    example: Piemērs
+    user_filedrop_with_email: Lietotāju Filedrop ar e-pasta adresēm
+    enable_userdrop_email: Iespējot lietotāju Filedrop ar e-pasta adresi
+    userdop_email_data_leakage: To varētu izmantot vietējo e-pasta adrešu noskaidrošanai, izmēģinot adreses Filedrop URL un skatoties, kuras sniedz derīgu atbildi.
+    userdrop_files_expire_after: Iesniegtie faili zaudē derīgumu pēc
+    userdrop_max_filesize: Lietotāja Filedrop maksimālais faila izmērs
+    bruteforce_label: Aizsardzība pret uzlaušanas mēģinājumiem
+    bruteforce_description_1: Bloķēt IP adresi uz
+    bruteforce_description_2: minūtēm pēc
+    bruteforce_description_3: neveiksmīgām pieteikšanās/reģistrācijas reizēm
+    bruteforce_description_4: minūšu laikā
+    bruteforce_whitelist_label: Uzlaušanas aizsardzības baltais saraksts
+    allowed_admin_networks_label: Administrēšanas tīkli
+    allowed_admin_networks_description: Ierobežot administratora piekļuvi līdz šiem resursdatoriem un tīkliem. Localhost (127.0.0.1, ::1) vienmēr ir atļauts
+    enable_strong_authentication: Pēc noklusējuma iespējot spēcīgu autentifikāciju šiem lietotāju tipiem
+    authenticated_username: Autentificētais lietotājvārds
+    duo_hostname: Duo resursdatora nosaukums
+    duo_client_id: Duo integrācijas atslēga
+    duo_client_secret: Duo slepenā atslēga
+    strong_authentication_test: Pārbaudīt spēcīgo autentifikāciju
+    stronger_password: Lūdzu, izvēlieties drošāku paroli.
+    cannot_begin_or_end_with_blank: Parole nedrīkst sākties vai beigties ar atstarpi.
+    at_least_one_invalid_domain: Vismaz viens nederīgs domēns
+    at_least_one_invalid_email: Vismaz viena nederīga e-pasta adrese
+    email_security_level: E-pasta piegādes drošības līmenis
+    geoip: GeoIP meklēšana
+    geoip_description: Lejupielādē atrašanās vietas datus no https://geoip.liquidfiles.com un rāda kartes.
+    tooltip:
+      local_domains: Vietējais lietotājs var sūtīt failus jebkuram. Nevietējais lietotājs var sūtīt failus tikai vietējiem lietotājiem. Kad lietotājs piesakās pirmo reizi vai tiek izveidots konts, e-pasta adreses domēns tiek salīdzināts ar šiem domēniem, lai noteiktu, vai lietotājs uzskatāms par vietējo.
+      ldap_users_are_always_local: Jebkurš lietotājs, kas autentificējas ar LDAP, automātiski tiek uzskatīts par vietējo neatkarīgi no domēna.
+      allow_registration: Atļauj reģistrāciju pieteikšanās lapā. Pēc vietējo domēnu saraksta tiek noteikts, vai jaunais lietotājs ir vietējais vai nevietējais.
+      local_user_maxfile: Kad vietējais lietotājs reģistrējas vai pirmo reizi autentificējas ar attālo autentifikāciju, viņam tiek iestatīts šis maksimālais faila izmērs.
+      nonlocal_user_maxfile: Kad nevietējais lietotājs reģistrējas, viņam tiek iestatīts šis maksimālais faila izmērs.
+      delete_downloaded_files_after: Lejupielādēts fails tiek glabāts tik ilgi. Laikam jābūt pietiekami ilgam, lai saņēmējs varētu izvēlēties citu lejupielādes vietu vai sākt no jauna, bet pietiekami īsam, lai saite netiktu izplatīta citiem.
+      file_expiration: Ļauj lietotājiem mainīt failu derīguma termiņu. Ja tas nav iespējots, visiem failiem tiek iestatīts noklusējuma derīguma termiņš.
+      default_expire_files_after: Faili zaudēs derīgumu pēc šī laika.
+      blocked_file_extensions: Bloķēt failus ar šiem paplašinājumiem (reģistrs netiek ņemts vērā).
+      virus_scan: Skenēt visus augšupielādētos failus ar ClamAV pretvīrusu programmu
+      require_authentication_permission: Ja iespējots, lietotāji var paši izvēlēties, vai autentifikācija ir obligāta
+      default_bcc_myself: Ja iespējots, ziņojumi pēc noklusējuma tiek sūtīti arī pašam lietotājam
+      permitted_file_extensions: "Ja lauks ir tukšs, ir atļauti visi paplašinājumi. Ja ievadīts vismaz viens paplašinājums, ir atļauti tikai ievadītie failu tipi. Piemērs: png, gif, jpg, txt"
+      new_external_recipient_is_nonlocal: Kad ziņojums tiek nosūtīts jaunam saņēmējam, vai viņš jāizveido kā nevietējais lietotājs (lai varētu atbildēt) vai kā ārējais lietotājs?
+      email_message_on_top: Ja atzīmēts, ziņojums saņēmējiem sūtītajā e-pastā tiek novietots virs failu saraksta. Ja nav atzīmēts, failu saraksts tiek novietots virs ziņojuma.
+      email_sender: Šī e-pasta adrese tiks izmantota kā sūtītājs sistēmas ģenerētiem e-pastiem, piemēram, paroles atiestatīšanai. Lai šie e-pasti netiktu atzīmēti kā mēstules, tai jābūt īstai e-pasta adresei.
+      email_host: Pielikumi izmantos šo URL kā bāzes URL. Parasti tas ir http://resursdators.domens vai https://resursdators.domens, bet var būt arī https://resursdators.domens:4433, ja ugunsmūrī izmantojat portu pāradresāciju, kad lietotāji pieslēdzas LiquidFiles ierīcei.
+      email_footer: Šis paraksts tiks pievienots visiem izejošajiem e-pastiem.
+      email_relay: Izmantot šo pasta serveri izejošo e-pastu pārsūtīšanai.
+      email_relay_username: Konts, ar kuru piesakās e-pasta pārsūtīšanas serverī
+      email_relay_password: Parole kontam, ar kuru piesakās e-pasta pārsūtīšanas serverī
+  date:
+    formats:
+      default: "%d.%m.%Y"
+      short: "%d.%m"
+      medium: "%d.%m.%Y"
+      long: "%d.%m.%Y"
+  time:
+    am: priekšpusdienā
+    pm: pēcpusdienā
+    formats:
+      default: "%d.%m.%Y %H:%M:%S %z"
+      short: "%d.%m %H:%M"
+      medium: "%d.%m.%Y %H:%M"
+      long: "%d.%m.%Y %H:%M"
+  downloads:
+    download_id: Lejupielādes ID
+    index:
+      download_log_title: Lejupielādes
+      download_log_description: Kas, ko un kad lejupielādēja
+      paginator_entry_name: lejupielādes
+    show:
+      no_map_for_reserved_address: Rezervētām adresēm karti nevar parādīt
+  filedrop:
+    filedrop: Filedrop
+    no_such_filedrop: Šāds Filedrop neeksistē
+    invalid_filedrop_url: Nederīgs Filedrop URL
+    invalid_filedrop_url_description: Šajā URL nav Filedrop. Lūdzu, pārbaudiet URL un mēģiniet vēlreiz.
+    label: Filedrop
+    mb: MB
+    name: Nosaukums
+    name_description: Īsais nosaukums, ko izmanto arī URL (piem., /filedrop/nosaukums)
+    title: Virsraksts
+    title_description: Virsraksts lapas augšdaļā
+    description: Apraksts
+    description_description: Apraksts zem virsraksta
+    user: Saņēmējs lietotājs
+    user_description: Par saņēmēju var iestatīt jebkuru vietējo lietotāju
+    cc: Kopija
+    cc_description: "(atdalīti ar komatiem) Sūtīt kopiju uz šīm adresēm"
+    expires_after: Derīgs
+    expires_after_description: dienas
+    max_filesize: Maksimālais faila izmērs
+    max_filesize_description: MB
+    reset_filedrop: Atiestatīt Filedrop URL
+    filedrop_reset_warning: Vai esat pārliecināts? Ja atiestatīsiet Filedrop URL, tas būs jānomaina visur, kur to publicējāt.
+    permitted_extensions: Atļautie paplašinājumi
+    permitted_extensions_description: Tiks atļauti tikai šie failu tipi
+    blocked_extensions: Bloķētie paplašinājumi
+    blocked_extensions_description: Šie failu tipi tiks bloķēti
+    demo_license_warning_standard: Filedrop izmantošanai ražošanā nepieciešama licence. Lūdzu, jauniniet uz Pro licenci, lai iespējotu Filedrop funkciju.
+    max_one_during_demo: Demonstrācijas laikā vai ar Standard licenci varat konfigurēt ne vairāk kā vienu Filedrop
+    filedrop_info: Filedrop ļauj jūsu klientiem sūtīt jums failus bez autentifikācijas vai iepriekšējas iestatīšanas. Katram Filedrop ir nemainīgs URL, uz kuru var izveidot saiti no tīmekļa lapām vai e-pasta parakstos. Kad kāds ievieto failu Filedrop, tas automātiski tiek nosūtīts iepriekš noteiktam lietotājam.
+    authorization: Atļauja
+    authorization_description: kas drīkst lejupielādēt Filedrop ievietotos failus
+    you_will_be_notified: Jūs saņemsiet lejupielādes apstiprinājumu, kad jūsu faili būs lejupielādēti.
+    require_authentication: Šim Filedrop nepieciešama autentifikācija. Lai turpinātu, ievadiet paroli.
+    authenticate: Autentificēties
+    authentication_failed: Autentifikācija neizdevās
+    require_validation: Šim Filedrop nepieciešama autentifikācija vai jūsu e-pasta adreses apstiprināšana.
+  filelink:
+    filelink: FileLink
+    filelinks: FileLink
+    filelink_title: FileLink
+    filelink_description: FileLink ir saite uz vienu failu. Šo saiti varat nosūtīt jebkuram, neveidojot ziņojumu un nenorādot saņēmējus. Failu varēs lejupielādēt tikai tie, kuriem nosūtījāt nejaušo saiti.
+    expired_or_nonexistent_title: Nederīgs FileLink
+    expired_or_nonexistent: Šī FileLink derīguma termiņš ir beidzies vai tā neeksistē. Lai saņemtu jaunu saiti, sazinieties ar sūtītāju.
+    existing_filelinks: Esošās FileLink
+    new_filelink: Jauna FileLink
+    available_files: Pieejamie faili
+    filename: Faila nosaukums
+    filesize: Faila izmērs
+    expires_at: Derīgs līdz
+    link: Saite
+    checksum: Kontrolsumma
+    copy_link_to_clipboard: Kopēt FileLink starpliktuvē
+    expire_link_at: Saite derīga līdz
+    you_have_no_filelinks: Jums nav FileLink. Pievienojiet jaunu FileLink vai izveidojiet to no pieejama faila.
+    you_have_no_files_available: Jums nav iepriekš nosūtītu failu. Kad būsiet nosūtījis vismaz vienu failu, varēsiet to šeit atlasīt, lai izveidotu FileLink.
+    create_link: Izveidot saiti
+    invalid_file: Nederīgs fails, FileLink nevar izveidot
+    delete: Dzēst
+    delete_link_warning: Vai tiešām vēlaties dzēst šo FileLink?
+    could_not_delete_link: FileLink neizdevās dzēst. Saite nav atrasta!
+    filelink_deleted: FileLink dzēsta!
+    select_file: Atlasīt failu
+    send_download_receipts: Sūtīt lejupielādes apstiprinājumus
+    disabled: FileLink ir atspējotas, lūdzu, sazinieties ar administratoru
+    unauthorized: Jums nav atļaujas izmantot FileLink
+    require_authentication: Pieprasīt autentifikāciju
+    filelink_require_authentication: Šai FileLink nepieciešama autentifikācija
+    filelink_url: FileLink URL
+    expired: Beidzies derīgums
+    filelink_expired: FileLink derīguma termiņš beidzies
+    select_from_available_files: FileLink varat izveidot arī no jebkura no šiem esošajiem failiem.
+    downloads: Lejupielādes
+    authentication_failed: Autentifikācija neizdevās
+    password_label_html: Parole <small class="text-muted">(neobligāta)</small>
+    password_present_html: Šai FileLink ir iestatīta parole.<br>To var noņemt, saglabājot tukšu paroli.
+    password_not_present: Parole nav iestatīta.
+    copy_to_clipboard: Kopēt FileLink starpliktuvē
+    add_file: Pievienot failu
+  ftpdrop:
+    create:
+      ftpdrop: FTPdrop
+  html_editor:
+    font:
+      bold: Treknraksts
+      italic: Slīpraksts
+      underline: Pasvītrojums
+      clear: Noņemt formatējumu
+      height: Rindstarpa
+      name: Fonts
+      strikethrough: Pārsvītrojums
+      subscript: Apakšraksts
+      superscript: Augšraksts
+      size: Fonta lielums
+    image:
+      image: Attēls
+      insert: Ievietot attēlu
+      resize_full: Pilns izmērs
+      resize_half: Puse izmēra
+      resize_quarter: Ceturtdaļa izmēra
+      float_left: Līdzināt pa kreisi
+      float_right: Līdzināt pa labi
+      float_none: Bez līdzinājuma
+      shape_rounded: "Forma: noapaļota"
+      shape_circle: "Forma: aplis"
+      shape_thumbnail: "Forma: sīktēls"
+      shape_none: "Forma: nav"
+      url: Attēla URL
+      remove: Noņemt attēlu
+    link:
+      link: Saite
+      insert: Ievietot saiti
+      unlink: Noņemt saiti
+      edit: Rediģēt
+      text_to_display: Attēlojamais teksts
+      url: Uz kuru URL jāved šai saitei?
+      open_in_new_window: Atvērt jaunā logā
+    table:
+      table: Tabula
+    hr:
+      insert: Ievietot horizontālu līniju
+    style:
+      style: Stils
+      normal: Parasts
+      blockquote: Citāts
+      pre: Kods
+      h1: Virsraksts 1
+      h2: Virsraksts 2
+      h3: Virsraksts 3
+      h4: Virsraksts 4
+      h5: Virsraksts 5
+      h6: Virsraksts 6
+    lists:
+      unordered: Saraksts ar aizzīmēm
+      ordered: Numurēts saraksts
+    options:
+      help: Palīdzība
+      fullscreen: Pilnekrāns
+      codeview: Koda skats
+    paragraph:
+      paragraph: Rindkopa
+      outdent: Samazināt atkāpi
+      indent: Palielināt atkāpi
+      left: Līdzināt pa kreisi
+      center: Centrēt
+      right: Līdzināt pa labi
+      justify: Taisnot
+    color:
+      recent: Pēdējā krāsa
+      more: Vairāk krāsu
+      background: Fona krāsa
+      foreground: Teksta krāsa
+      transparent: Caurspīdīgs
+      set_transparent: Padarīt caurspīdīgu
+      reset: Atiestatīt
+      reset_to_default: Atjaunot noklusējumu
+    shortcut:
+      shortcuts: Īsinājumtaustiņi
+      close: Aizvērt
+      text_formatting: Teksta formatēšana
+      action: Darbība
+      paragraph_formatting: Rindkopas formatēšana
+      document_style: Dokumenta stils
+      extra_keys: Papildu taustiņi
+    history:
+      undo: Atsaukt
+      redo: Atcelt atsaukšanu
+  invite:
+    invite_user: Uzaicināt lietotāju
+    description: Varat uzaicināt lietotājus kopīgot ar jums failus. Kad būsiet ievadījis viņu datus, viņi saņems e-pastu ar norādījumiem reģistrācijas pabeigšanai.
+    send_invite: Nosūtīt uzaicinājumu
+    name_placeholder: Pilns vārds
+    invitation_sent: Uzaicinājums nosūtīts
+    not_permitted_to_invite_users: Jums nav atļaujas uzaicināt lietotājus.
+    invalid_email: Nederīga e-pasta adrese
+  link:
+    show:
+      set_password: Iestatīt paroli
+      download: Lejupielādēt
+      downloads_and_info: Visas lejupielādes un vairāk informācijas
+    authenticate:
+      show:
+        title: FileLink parole
+        authenticate: Autentificēties
+        require_authentication: Lai atvērtu šo FileLink, jāievada nepieciešamā parole.
+      create:
+        authentication_failed: Autentifikācija neizdevās.
+    downloads:
+      index:
+        back_to_filelink: Atpakaļ uz FileLink
+    link_downloads:
+      latest_downloads: Pēdējās lejupielādes (%{count} no %{total})
+  menu:
+    shares: Share
+    messages: Ziņojumi
+    send_files: Rakstīt
+    users: Lietotāji
+    active_transfers: Aktīvās pārsūtīšanas
+    configuration: Konfigurācija
+    system: Sistēma
+    message_list: Ziņojumu saraksts
+    settings: Iestatījumi
+    admin: Administrēšana
+    account: Konts
+    inbox: Iesūtne
+    sent_messages: Nosūtītie
+    downloads: Lejupielāžu žurnāls
+    filelink: FileLink
+    secure_messages: Drošie ziņojumi
+    support: Atbalsts
+  message:
+    message_sent: Ziņojums nosūtīts
+    not_found: Ziņojums nav atrasts
+    message_not_found_header: Ziņojums nav atrasts!
+    message_not_found_description: Lūdzu, palūdziet sūtītājam nosūtīt šo ziņojumu vēlreiz.
+    previous_recipients: Iepriekšējie saņēmēji
+    contacts: Kontakti
+    is_not_permitted: nav atļauts
+    not_permitted_to_delete_messages: Jums nav atļaujas dzēst ziņojumus
+    is_not_in_any_of_the_allowed_domains: nepieder nevienam no atļautajiem domēniem
+    is_not_in_any_of_the_allowed_groups: nepieder nevienai no atļautajām grupām
+    attach_1_file: Jāpievieno vismaz viens fails
+    too_many_files: Pievienots pārāk daudz failu. Vienam ziņojumam var pievienot ne vairāk kā %{count} failus.
+    attached_files: Pievienotie faili
+    expired: Ziņojuma derīguma termiņš ir beidzies
+    authorize:
+      show:
+        title: Lūdzu, piesakieties, lai atvērtu drošo ziņojumu
+        authenticate_description_html: Jūs gatavojaties skatīt drošu ziņojumu. Vispirms jāpiesakās. Lai turpinātu, ievadiet savu e-pasta adresi vai piesakieties.<br>Ja jums šajā sistēmā nav konta, ievadiet savu e-pasta adresi, un mēs nosūtīsim drošu saiti adreses apstiprināšanai.
+        unauthenticated_html: <h4>Nederīgs lietotājvārds vai parole</h4><p>Ievadiet savu lietotājvārdu un paroli. Paroli varat atiestatīt ar zemāk esošo pogu Paroles atiestatīšana.</p>
+        unauthorized_to_view_check_email_html: <h4>Neautorizēta e-pasta adrese</h4><p>Pārbaudiet, vai drošais ziņojums [<span class="font-monospace fw-bold">%{message_id}</span>] tika nosūtīts jums, un ievadiet e-pasta adresi tieši tā, kā ziņojums tika nosūtīts.</p><p>Piemēram, ja jūsu e-pasta adrese var būt gan janis.berzins@uznemums.lv, gan jberzins@uznemums.lv, sistēma nevar zināt, ka tā ir viena un tā pati adrese. Ja drošais ziņojums tika nosūtīts uz janis.berzins@uznemums.lv, šeit jāievada tieši šī adrese.</p><p>Ja neesat pārliecināts, sazinieties ar drošā ziņojuma sūtītāju.</p>
+    errors:
+      not_authorized_to_view_message: "Jums nav atļaujas skatīt ziņojumu ar ID: %{message_id}. Lūdzu, pārbaudiet, vai šis ziņojums tika nosūtīts jums."
+      private_message_requires_authentication: Privātiem ziņojumiem nepieciešama autentifikācija
+    attachments:
+      download_attachment_details_csv: Lejupielādēt pielikumu informāciju (CSV)
+      attachment:
+        fileinfo: Faila informācija
+        file_size: Faila izmērs
+        content_type: Satura tips
+        checksum: Kontrolsumma
+        virus_status: Vīrusu statuss
+    compose:
+      options_permission:
+        authentication_required: Nepieciešama autentifikācija
+        authentication_not_required: Autentifikācija nav nepieciešama
+        require_authentication_description: Vai saņēmējiem jāautentificējas, lai piekļūtu šim ziņojumam?
+        access_restriction_html: Piekļuves ierobežojums<br><small class="text-muted">Kas var piekļūt šim ziņojumam?</small>
+        recipients_only_html: Tikai<br>saņēmēji
+        recipients_plus_locals_html: Saņēmēji<br>+ vietējie lietotāji
+        recipients_plus_domains_html: Saņēmēji<br>+ domēni
+        anyone_secret_link_html: Jebkurš<br>(slepena saite)
+    unavailable:
+      header: Ziņojums nav pieejams
+      description: Šī ziņojuma derīguma termiņš ir beidzies, tas ir dzēsts, neeksistē vai vairs nav pieejams. Lūdzu, palūdziet sūtītājam nosūtīt ziņojumu vēlreiz.
+    downloads:
+      index:
+        download_log_title: Lejupielāžu žurnāls
+        message_id: Ziņojuma ID
+        paginator_entry_name: Lejupielādes
+      download:
+        details: Informācija
+      not_found:
+        title: Ziņojums vai lejupielāde nav atrasta
+        description_html: Ziņojums vai lejupielāde nav atrasta, vai jums nav atļaujas to skatīt
+    temporary_user:
+      create:
+        invalid_temporary_user: Nederīga parole. Lūdzu, pārbaudiet e-pastu ar pagaidu paroli vai pieprasiet jaunu pagaidu paroli.
+        temporary_user_expired: Šīs pagaidu paroles derīguma termiņš ir beidzies. Uz jūsu e-pasta adresi ir nosūtīta jauna pagaidu parole. Pārbaudiet iesūtni un izmantojiet jauno pagaidu paroli.
+        not_authorized_to_view_message: "Jums nav atļaujas skatīt ziņojumu ar ID: %{message_id}. Lūdzu, pārbaudiet, vai šis ziņojums tika nosūtīts jums."
+      show:
+        title: Lūdzu, ievadiet savu pagaidu paroli
+        description_html: "Jūs gatavojaties skatīt drošu ziņojumu. Lai to atvērtu, jāievada pagaidu parole.<br>Pagaidu parole ir unikāla, nejauša rakstzīmju virkne, kas jūs identificē. Pagaidu parole jums tika nosūtīta atsevišķā e-pastā (temats: Pagaidu parole)."
+        what_is_this: Kas tas ir?
+        login: Pieteikties
+        submit: Pārbaudīt pagaidu paroli
+        submit_email: Iesniegt
+        if_you_have_account: "(ja jums jau ir konts)"
+        request_temporary_user_header: Pieprasīt jaunu pagaidu paroli
+        request_temporary_user_description_html: Varat pieprasīt jaunu pagaidu paroli, lai atvērtu šo ziņojumu. Lūdzu, zemāk ievadiet savu e-pasta adresi, lai pieprasītu jaunu pagaidu paroli šim drošajam ziņojumam.
+        info_header: Informācija par pagaidu paroli
+        info_body_html: "<p>Pagaidu parole ir unikāla ciparu un burtu virkne, piemēram:</p><pre><code>3ynp-7FKa-pZS9</code></pre><p><em>Šī pagaidu parole ir tikai piemērs, lai redzētu, kā tā izskatās, – to nevar izmantot.</em></p><p>Savā iesūtnē atradīsiet <strong>divus e-pastus</strong>: e-pastu ar drošo ziņojumu un e-pastu, kura <strong>temats sākas ar: Pagaidu parole</strong>. Pēdējais satur jūsu unikālo pagaidu paroli šai sistēmai.</p><p>Ja neesat saņēmis e-pastu ar pagaidu paroli, iespējams, jums šajā sistēmā jau ir konts. Šādā gadījumā noklikšķiniet uz “Pieteikties”.</p><p>Ja uzskatāt, ka jums vajadzēja saņemt pagaidu paroli, bet tā nav saņemta, noklikšķiniet uz “Pieprasīt pagaidu paroli”, lai saņemtu jaunu.</p>"
+        email_address: E-pasta adrese
+        email_not_permitted: Šai e-pasta adresei nav atļaujas skatīt šo drošo ziņojumu.
+        email_not_permitted_description_html: <p>Pārbaudiet saņemto drošā ziņojuma e-pastu un ievadiet e-pasta adresi tieši tā, kā ziņojums tika nosūtīts.</p><p>Piemēram, ja jūsu e-pasta adrese var būt gan janis.berzins@uznemums.lv, gan jberzins@uznemums.lv, sistēma nevar zināt, ka tā ir viena un tā pati adrese. Ja drošais ziņojums tika nosūtīts uz janis.berzins@uznemums.lv, šeit jāievada tieši šī adrese.</p><p>Ja neesat pārliecināts, sazinieties ar drošā ziņojuma sūtītāju.</p>
+        email_can_login: Jums šajā sistēmā jau ir konts
+        email_can_login_description_html: <p>Šajā sistēmā varat pieteikties ar šo e-pasta adresi un savu paroli.</p><p>Noklikšķiniet uz zemāk esošās pogas Pieteikties, lai pieteiktos ar esošo kontu.</p>
+        temporary_user_delivered_header: Pagaidu parole nosūtīta
+        temporary_user_delivered_description_html: <p>Uz jūsu e-pasta adresi ir nosūtīta pagaidu parole. Pārbaudiet iesūtni, aizveriet šo logu un ievadiet pagaidu paroli.</p>
+    reply:
+      re: "Re:"
+      wrote: rakstīja
+      show:
+        title: Atbildēt uz drošo ziņojumu
+        from: "No"
+        reply: Atbildēt
+        reply_all: Atbildēt visiem
+      options:
+        options_description: Ievērojiet, ka visas opcijas tiek pārmantotas no sākotnējā ziņojuma.
+    show:
+      back: Atpakaļ
+      message_header: Ziņojuma galvene
+      reply: Atbildēt
+  messages:
+    sent:
+      skipped_file_not_found: Izlaists - fails nav atrasts
+      show:
+        sent_title: Nosūtītie
+        sent_description: Jūsu nosūtītie ziņojumi
+        paginator_entry_name: ziņojumi
+    attachments:
+      download_cmd:
+        unauthorized:
+          header: Nav atļaujas
+          body: Jums nav atļaujas lejupielādēt šo failu. Lūdzu, palūdziet sūtītājam nosūtīt failu vēlreiz.
+          back: Atpakaļ
+        exceeded:
+          header: Pārsniegts lejupielāžu ierobežojums
+          body: Šī faila lejupielāžu ierobežojums ir pārsniegts. Lūdzu, palūdziet sūtītājam nosūtīt failu vēlreiz.
+          back: Atpakaļ
+    download_zip:
+      unauthorized:
+        header: Nav atļaujas
+        body: Jums nav atļaujas lejupielādēt šo arhīvu. Lūdzu, palūdziet sūtītājam nosūtīt failu vēlreiz.
+        back: Atpakaļ
+      exceeded:
+        header: Pārsniegts lejupielāžu ierobežojums
+        body: Viena vai vairāku šī arhīva failu lejupielāžu ierobežojums ir pārsniegts. Lūdzu, palūdziet sūtītājam nosūtīt failu vēlreiz.
+        back: Atpakaļ
+    message:
+      reply: Atbildēt
+      reply_all: Atbildēt visiem
+  models:
+    user:
+      no_need_to_create_local_user: Vietējais lietotājs nav jāizveido
+      license_exceeded: Pārsniegts licences ierobežojums
+  notifier:
+    activate_user_subject: "[%{hostname}] Aktivizēt kontu"
+    user_activation: Lietotāja aktivizēšana
+    please_visit_the_following_url_to_activate: Lai aktivizētu kontu, noklikšķiniet uz šīs saites
+    the_following_files_are_attached: Šim ziņojumam ir pievienoti šādi faili
+    please_visit_the_following_url: Lai lejupielādētu pielikumus, noklikšķiniet uz šīs saites
+    attachments_are_available: Pielikumi ir pieejami līdz
+    message_id: "Ziņojuma ID: %{id}"
+    email_password_reset_subject: Paroles atiestatīšana
+    download_receipt_subject: "Lejupielādes apstiprinājums [ID: %{message_id}]"
+    a_file_that_you_sent: Jūsu nosūtītais fails ir lejupielādēts. Lūdzu, saglabājiet šo e-pastu kā lejupielādes apliecinājumu.
+    recipient: Saņēmējs
+    filename: Faila nosaukums
+    time_of_download: Lejupielādes laiks
+    downloaded_from: Lejupielādēts no
+    download_receipt: Lejupielādes apstiprinājums
+    user_created:
+      account_created: Konts izveidots
+      subject: "[%{hostname}] Konts izveidots"
+      message: "Jūs gaida drošs pielikums. Lai to lejupielādētu, jāautentificējas. Lai reģistrētos, noklikšķiniet uz šīs saites:"
+  outlook:
+    messages:
+      new:
+        attachments_header: Pielikumi
+        attachments_hint: Failus var pievienot, ievelkot tos zemāk esošajā sadaļā vai noklikšķinot uz pogas Pievienot failus.
+        add_to_message: Pievienot ziņojumam
+      attachments:
+        attach_files: Pievienot failus
+        drop_files_here: Nometiet failus šeit...
+      options:
+        recipients_can_reply: Saņēmēji var atbildēt
+        send_copy_to_myself: Sūtīt kopiju man
+        private_message: Privāts ziņojums
+        private_message_required_auth_error: Sūtot privātu ziņojumu, jāizmanto režīms “Nepieciešama autentifikācija”.
+      options_authorization:
+        authentication_authorization_title_html: Autentifikācija &amp; autorizācija
+        authentication_select_title: Izvēlēties autentifikāciju
+        authentication_required: Nepieciešama autentifikācija
+        authentication_not_required: Autentifikācija nav nepieciešama
+        authorization_select_title: Izvēlēties autorizāciju
+        recipients_only: Tikai saņēmēji
+        recipients_locals: Saņēmēji + vietējie lietotāji
+        recipients_domains: Saņēmēji + domēni
+        anyone: Jebkurš (slepena saite)
+      options_expiration:
+        message_expires: Ziņojums derīgs līdz
+        message_expires_after: Ziņojums derīgs
+  pagination:
+    first: "&laquo; Pirmā"
+    last: Pēdējā &raquo;
+    previous: "&lsaquo; Iepriekšējā"
+    next: Nākamā &rsaquo;
+    truncate: "&hellip;"
+  requests:
+    title: Failu pieprasījums
+    file_request: Failu pieprasījums
+    files_sent: Faili nosūtīti, paldies!
+    request_file: Pieprasīt failu
+    file_requests: Failu pieprasījumi
+    description: Ar failu pieprasījumu varat palūgt kādam nosūtīt jums failus. Kad būsiet ievadījis datus, persona saņems e-pastu ar unikālu saiti, ar kuru varēs nosūtīt jums pieprasītos failus.
+    file_request_not_found: Failu pieprasījums nav atrasts
+    file_request_expired: Failu pieprasījuma derīguma termiņš beidzies
+    file_request_already_used: Failu pieprasījums jau ir izmantots
+    file_request_sent: Failu pieprasījums nosūtīts
+    not_permited: Jums nav atļaujas izmantot failu pieprasījumu funkciju
+    multiuse: Vairākkārtēja lietošana - šo failu pieprasījuma saiti var izmantot vairākas reizes
+    invalid_recipient: Nederīgs saņēmējs, šis failu pieprasījums tika nosūtīts kādam citam
+    invalid_user: Tas nav jūsu failu pieprasījums
+    index:
+      title: Failu pieprasījumi
+      new_file_request: Jauns failu pieprasījums
+      multiuse: Vairākkārtēja lietošana
+      responded_to: Atbildēts
+      hide_expired: Slēpt beigušos un izmantotos
+      show_expired: Rādīt beigušos un izmantotos
+    request:
+      resend: Sūtīt vēlreiz
+      are_you_sure_you_want_to_delete: Vai tiešām vēlaties dzēst šo failu pieprasījumu?
+    popup:
+      from: "No"
+      to: Kam
+      subject: Temats
+      message: Ziņojums
+    resend:
+      request_resent: Failu pieprasījums nosūtīts vēlreiz
+    new:
+      request_expires: Pieprasījums derīgs līdz
+  send:
+    send: Sūtīt
+    sent: Nosūtīts
+    recipients: Kam
+    send_as: Sūtīt kā
+    you_can_only_send_files_to_yourself: Varat sūtīt failus tikai sev
+    subject: Temats
+    subject_placeholder: Temats
+    attachments: Pielikumi
+    max_file_size: "Maksimālais pielikumu izmērs: %{filesize} MB"
+    upload_queue: Augšupielādes rinda
+    remove: Noņemt
+    cancel_all: Atcelt visu
+    cancel_all_uploads: Atcelt visas augšupielādes
+    message: Ziņojums
+    message_placeholder: Ziņojums
+    done_editing_please_send: Esmu pabeidzis rediģēšanu, sūtīt failus, kad visas augšupielādes būs pabeigtas
+    files_sent_successfully: Faili veiksmīgi nosūtīti
+    you_need_at_least_one_recipient: Nepieciešams vismaz viens saņēmējs
+    you_need_at_least_one_attachment: Nepieciešams vismaz viens pielikums
+    options: Opcijas
+    cc: Kopija
+    bcc: Diskrētā kopija
+    bcc_message_description: Diskrētās kopijas saņēmēji netiks rādīti citiem saņēmējiem
+    add_cc: pievienot kopiju
+    add_bcc: pievienot diskrēto kopiju
+    bcc_myself: Sūtīt kopiju man
+    require_login: Pieprasīt pieteikšanos failu lejupielādei
+    only_specified_recipients_can_download: Pielikumus var lejupielādēt tikai norādītie saņēmēji
+    anyone_can_download: Pielikumus var lejupielādēt jebkurš
+    expires_in: Pielikumus var lejupielādēt
+    expires_at: Pielikumi derīgi līdz
+    send_options: Sūtīšanas opcijas
+    to: Kam
+    from: "No"
+    filename: Faila nosaukums
+    filesize: Faila izmērs
+    downloaded_at: Lejupielādēts
+    message_sent: Ziņojums nosūtīts
+    message_expires: Ziņojums derīgs līdz
+    message_expires_after: Ziņojums derīgs
+    message_expires_after_description: Aprēķins tiek veikts katram failam. Ja nosūtāt 2 failus, kas zaudē derīgumu pēc 1 lejupielādes, katrs saņēmējs varēs lejupielādēt katru failu vienu reizi.
+    downloads_per_recipient: Lejupielādes uz saņēmēju
+    total_downloads: Lejupielādes kopā
+    file_not_downloaded: Neviens pielikums nav lejupielādēts
+    at_least_one_invalid_extension: Vismaz vienam pielikumam ir nederīgs paplašinājums
+    invalid_filetype: Nederīgs paplašinājums
+    blocked_extension: "Nederīgs paplašinājums. Nevar augšupielādēt failus ar šādiem paplašinājumiem: %{extensions}"
+    permitted_extensions: "Atļautie paplašinājumi: %{filetypes}"
+    already_selected: Šis fails jau ir atlasīts
+    maximum_filesize_exceeded: Pārsniegts maksimālais faila izmērs
+    contains_virus: "%{filename} satur VĪRUSU: %{virus}"
+    limited_by_browser: Ierobežo pārlūkprogramma
+    limited_by_disk: Ierobežo diska vieta
+    limited_by_system_quota: Ierobežo sistēmas kvota
+    limited_by_group_quota: Ierobežo grupas kvota
+    limited_by_quota: Ierobežo kvota
+    limited_per_message: Ierobežojums vienam ziņojumam
+    system_quota_exceeded: Pārsniegta sistēmas kvota
+    group_quota_exceeded: Pārsniegta grupas kvota
+    quota_exceeded: Pārsniegta kvota
+    no_available_quota: Pārsniegta kvota, lūdzu, izdzēsiet dažus failus, lai turpinātu
+    not_authorized_to_send: Jums nav atļaujas sūtīt uz %{email}
+    public_url: Publisks URL
+    message_url: Ziņojuma URL
+    authorization: Autorizācija
+    insufficient_disk_space: Nepietiek vietas diskā
+    active_transfers: Aktīvās pārsūtīšanas
+    view_log: Skatīt žurnālu
+    previously_sent_attachments: Iepriekš nosūtītie pielikumi
+    has_not_downloaded: "%{recipient} nav lejupielādējis nevienu failu"
+    authentication: Autentifikācija
+    required: Obligāta
+    disabled: Atspējota
+    require_authentication_tooltip_html: <li>Saņēmējam jāpiesakās ar lietotājvārdu un paroli, lai lejupielādētu failu.</li> <li>Jūs saņemsiet apstiprinājumu, kad fails tiks lejupielādēts.</li>
+    dont_require_authentication_tooltip_html: <li>Saņēmējam nebūs jāpiesakās, lai lejupielādētu failu.</li> <li>Jūs saņemsiet apstiprinājumu, kad fails būs lejupielādēts, bet ne to, kas to lejupielādēja (mēs to nezinām).</li> <li>Apstiprinājumu saņemsiet tikai tad, kad failu lejupielādēs pirmais saņēmējs.</li>
+    authenticate_link_description: Pirms piekļūt šai FileLink, jāpiesakās.
+    unauthorized: Jums nav atļaujas skatīt šo ziņojumu.
+    unauthenticated: Nepareiza parole
+    incorrect_login_or_demo: Nepareiza parole vai sasniegts licences ierobežojums
+    email_authorization_message: Paldies. Lai pārbaudītu, vai šī ir jūsu e-pasta adrese, tika nosūtīts e-pasts ar apstiprināšanas kodu. Ievadiet apstiprināšanas kodu zemāk vai noklikšķiniet uz e-pastā esošās saites, lai pārietu uz ziņojumu.
+    email_authorization_link: Paldies. Lai pārbaudītu, vai šī ir jūsu e-pasta adrese, tika nosūtīts e-pasts ar apstiprināšanas kodu. Ievadiet e-pastā saņemto apstiprināšanas kodu zemāk vai noklikšķiniet uz e-pastā esošās saites, lai pārietu uz FileLink.
+    email_authorization_message_create_account: Paldies. Tā kā jums šajā sistēmā nav konta, tika nosūtīts e-pasts ar apstiprināšanas kodu, lai pārbaudītu, vai šī ir jūsu e-pasta adrese. Ievadiet apstiprināšanas kodu zemāk vai noklikšķiniet uz e-pastā esošās saites, lai apstiprinātu adresi. Pēc tam jums tiks lūgts izveidot kontu un jūs tiksiet novirzīts uz ziņojumu.
+    email_authorization_link_create_account: Paldies. Tā kā jums šajā sistēmā nav konta, tika nosūtīts e-pasts ar apstiprināšanas kodu, lai pārbaudītu, vai šī ir jūsu e-pasta adrese. Ievadiet e-pastā saņemto apstiprināšanas kodu zemāk vai noklikšķiniet uz e-pastā esošās saites, lai apstiprinātu adresi. Pēc tam jums tiks lūgts izveidot kontu un jūs tiksiet novirzīts uz FileLink.
+    authorize: Autorizēt
+    authenticate: Pieteikties
+    sending: Sūta...
+    abort_transfer: Pārtraukt pārsūtīšanu
+    files_to_big: Fails(-i) ir pārāk liels(-i)
+    only_specified_recipients: Piekļuve ir tikai norādītajiem saņēmējiem
+    only_specified_recipients_and_local_users: Piekļuve ir tikai norādītajiem saņēmējiem un vietējiem lietotājiem
+    only_specified_recipients_and_domains: Piekļuve ir tikai norādītajiem saņēmējiem un viņu domēna lietotājiem
+    anyone_after_authentication: Piekļuve ir jebkuram (kam ir nejaušā saite)
+    no_recipient_validation: Bez saņēmēju pārbaudes
+    anyone_can_access: Piekļuve ir jebkuram
+    anyone: Jebkurš
+    no_authentication: Bez autentifikācijas
+    can_download: var lejupielādēt
+    not_yet_scanned: tiek skenēts, vai tajā nav vīrusu, lūdzu, pēc brīža mēģiniet vēlreiz. Rindā %{queue}
+    was_infected: "bija inficēts ar vīrusu %{virus} un ir dzēsts"
+    deleted_or_expired: Dzēsts vai beidzies derīgums
+    im_done_editing: Automātiski sūtīt, kad pašreizējās augšupielādes būs pabeigtas
+    download_all: Lejupielādēt visu
+    zipped_archive: ZIP arhīvs
+    message_id: Ziņojuma ID
+    overall_progress: Kopējais progress
+    abort: Pārtraukt
+    limitations: Ierobežojumi
+    max_size: Maksimālais izmērs
+    add_files: Pievienot failus...
+    add_folder: Pievienot mapi...
+    no_attachment_added: Pielikums nav pievienots
+    you_need_to_add_at_least_one_file: Jāpievieno vismaz viens fails.
+    private_message_or_attached_files: Jāiespējo Privāts ziņojums vai jāpievieno vismaz viens fails.
+    no_runtime_found: Izpildlaika vide nav atrasta, failus nevar nosūtīt
+    runtime_check_title: Izpildlaika vide nav atrasta
+    selected: atlasīts
+    file_size_error: Faila izmēra kļūda
+    remaining: atlicis
+    attached_files: Pievienotie faili
+    show_message: Rādīt ziņojumu
+    can_be_max: var būt ne vairāk kā %{days} dienas nākotnē
+    not_ready: Vēl nav gatavs lejupielādei
+    download_info: Lejupielādes informācija
+    browser: Pārlūkprogramma
+    platform: Platforma
+    operating_system: Operētājsistēma
+    location: Atrašanās vieta
+    download_details: Lejupielādes informācija
+    download_information_not_found: Lejupielādes informācija nav atrasta.
+    add: Pievienot
+    select_existing_files: Atlasīt esošos failus
+    add_existing_files: Pievienot esošos failus
+    add_existing_description: Šie faili jau ir nosūtīti, un varat tos nosūtīt vēlreiz.
+    zip_disabled: ZIP atspējots
+    zip_disabled_description_exceeded: Vismaz vienam pielikumam ir pārsniegts maksimālais lejupielāžu skaits.
+    spinner_info_html: <strong>Jūsu ziņojums ir gatavs nosūtīšanai</strong>. Daži faili vēl tiek apstrādāti fonā, bet jums nav jāgaida. <strong>Kad esat gatavs, noklikšķiniet uz Sūtīt!</strong>
+    sent_to_you: Nosūtīts jums
+    excluding_admins: Izņemot administratorus
+    downloads: Lejupielādes
+    download_log: Lejupielāžu žurnāls
+    delete_attachments: Dzēst pielikumus
+    delete_message: Dzēst ziņojumu
+    delete_attachments_warning: Vai tiešām vēlaties dzēst pielikumus?
+    delete_message_warning: Dzēšot ziņojumu, tiks dzēsti arī pievienotie faili un lejupielāžu žurnāls. Vai tiešām vēlaties dzēst ziņojumu?
+    invalid_message: Nederīgs ziņojums
+    message_deleted: Ziņojums dzēsts
+    attachments_deleted: Pielikumi dzēsti
+    checksum: Kontrolsumma (SHA256)
+    not_permitted_to_send_messages: Jums nav atļaujas sūtīt ziņojumus.
+    invalid_group_belonging: Sūtīšana nav atļauta (nederīga grupa). Jūs esat reģistrēts kā ārējais lietotājs, bet jūsu e-pasta adrese pieder domēnam %{domain}, kas ir arī ierobežoto saņēmēju domēnu sarakstā. Ārējiem lietotājiem tas nav atļauts. Lai turpinātu, lūdziet sistēmas administratoram pārvietot jūs uz citu grupu.
+    expires_after_exceeded: Pārsniegts lejupielāžu skaits
+    expires_after_exceeded_for_zip: Pārsniegts lejupielāžu skaits vismaz vienam ZIP arhīva failam
+    permission_description_title: Piekļuves ierobežojumi
+    permission_description_only_specified_html: <ul> <li>Ziņojumam piekļūt un failus lejupielādēt var tikai norādītie saņēmēji.</li> <li>E-pastu vai URL nedrīkst pārsūtīt nevienam.</li> <li>Saņēmējiem jāpiesakās, lai piekļūtu ziņojumam un lejupielādētu failus.</li> <li>Katru reizi, kad lietotājs lejupielādē failu, tiek nosūtīts lejupielādes apstiprinājums ar detalizētu informāciju.</li> </ul>
+    permission_description_only_specified_and_local_html: <ul> <li>Failus var lejupielādēt tikai norādītie saņēmēji un vietējie lietotāji.</li> <li>E-pastu vai URL drīkst pārsūtīt tikai vietējiem lietotājiem.</li> <li>Saņēmējiem jāpiesakās, lai lejupielādētu failus.</li> <li>Katru reizi, kad lietotājs lejupielādē failu, tiek nosūtīts lejupielādes apstiprinājums ar detalizētu informāciju.</li> </ul>
+    permission_description_only_specified_and_domains_html: <ul> <li>Piekļuve ir tikai norādītajiem saņēmējiem un tā paša e-pasta domēna lietotājiem.</li> <li>Ja sūtāt uz vaditajs@partneris.lv, ziņojumam var piekļūt arī sekretare@partneris.lv, bet ne zinkarigs@konkurents.lv.</li> <li>Saņēmējiem jāpiesakās, lai lejupielādētu failus.</li> <li>Katru reizi, kad lietotājs lejupielādē failu, tiek nosūtīts lejupielādes apstiprinājums ar detalizētu informāciju.</li> </ul>
+    permission_description_anyone_after_authentication_html: <ul> <li>Failus var lejupielādēt jebkurš, kam ir slepenais, nejaušais URL.</li> <li>E-pastu vai URL var pārsūtīt jebkuram.</li> <li>Saņēmējiem jāpiesakās, lai lejupielādētu failus.</li> <li>Katru reizi, kad lietotājs lejupielādē failu, tiek nosūtīts lejupielādes apstiprinājums ar detalizētu informāciju.</li> </ul>
+    permission_description_anyone_html: <ul> <li>Failus var lejupielādēt jebkurš, kam ir slepenais, nejaušais URL.</li> <li>E-pastu vai URL var pārsūtīt jebkuram.</li> <li>Lai lejupielādētu failus, pieteikšanās <strong>nav</strong> nepieciešama.</li> <li>Kad kāds pirmo reizi lejupielādē failus, tiek nosūtīts <strong>vienkāršs</strong> lejupielādes apstiprinājums (lai zinātu, kas ko lejupielādēja, nepieciešama autentifikācija).</li> </ul>
+    your_message_has_been_sent: Jūsu ziņojums ir nosūtīts
+    you_can_send_to_anyone: "(Šo saiti varat nosūtīt jebkuram)"
+    send_more_files: Sūtīt vairāk failu
+    download_speed: Lejupielādes ātrums
+    download_time: Lejupielādes laiks
+    at_least_one_invalid_email: Vismaz viena nederīga e-pasta adrese
+    reply: Saņēmējs var atbildēt
+    private_message: Privāts ziņojums
+    private_message_description_html: Privāta ziņojuma gadījumā ziņojuma teksts netiek nosūtīts saņēmējam e-pastā – tas būs redzams tikai tad, kad saņēmējs noklikšķinās uz e-pastā esošās saites un autentificēsies. <ul> <li>Privātu ziņojumu var sūtīt bez pielikumiem.</li> <li>Jūs saņemsiet piekļuves apstiprinājumu, kad kāds būs apskatījis jūsu ziņojumu.</li> <li>Privātu ziņojumu nevar sūtīt ar lejupielādes atļauju “Jebkurš var lejupielādēt”.</li> </ul>
+    private_message_delivered_description: Ziņojums nosūtīts kā privāts ziņojums. Ziņojuma teksts nav iekļauts e-pastā, un jūs saņemsiet piekļuves apstiprinājumu, kad katrs saņēmējs būs apskatījis ziņojumu.
+    access_info: Piekļuves informācija
+    access_details: Piekļuves dati
+    validation_code: Apstiprināšanas kods
+    expired_token_inline: E-pasta autentifikācijas derīgums beidzies, lūdzu, mēģiniet vēlreiz.
+    invalid_token: Nederīgs vai novecojis kods. Lūdzu, noklikšķiniet uz sākotnējā e-pastā esošās saites, lai vēlreiz apstiprinātu e-pasta adresi.
+    download_zip: Lejupielādēt ZIP
+    zip_ready_for_download: ZIP gatavs lejupielādei
+    processing_zip: Apstrādā ZIP arhīvu
+    drop_file_here: Nometiet failu šeit
+    drop_files_here: Nometiet failus šeit
+    drop_files_and_folders_here: Nometiet failus un mapes šeit
+    select_pool_files: Atlasīt krātuves failus
+    add_pool_files: Pievienot krātuves failus
+    invalid_validation_token: Tas nav derīgs apstiprināšanas kods.
+    not_the_validation_token: Tas ir ziņojuma ID, nevis apstiprināšanas kods. Lūdzu, ievadiet apstiprināšanas kodu.
+    no_messages_in_inbox: Iesūtnē nav ziņojumu.
+    filename_already_selected: Šim ziņojumam jau ir pievienots fails ar šādu nosaukumu
+    filesize_exceeded: Pārsniegts maksimālais ziņojuma izmērs
+    infected_with: Inficēts ar vīrusu
+    not_permitted_to_download_content_blocked: "Šo failu lejupielādēt nav atļauts. Vīrusu skeneris konstatēja: %{virus}"
+    invalid_email_address: Nederīga e-pasta adrese
+    cant_create_folder: Nevar izveidot mapi
+    cant_check_folder: Nevar pārbaudīt mapi
+    cant_restore_folder: Nevar atjaunot mapi
+    cant_check_chunks: Nevar pārbaudīt daļas
+    zip_not_include_all_files: Ne visus failus var lejupielādēt – ZIP arhīvā būs tikai lejupielādējamie faili.
+    paste_tip: Padoms! Ielīmējiet ar Ctrl+Shift+V, lai noņemtu formatējumu.
+  session:
+    api:
+      authentication_error: Autentifikācijas kļūda, lūdzu, mēģiniet vēlreiz.
+      not_local_user: Nederīga e-pasta adrese. Šo funkciju var izmantot tikai vietējie lietotāji.
+      show:
+        login: Pieteikties
+        login_label: E-pasta adrese
+        password: Parole
+        sso_login: SSO pieteikšanās
+        authentication_title: Pieteikties
+        authentication_description: Lai turpinātu, ievadiet savu e-pasta adresi vai piesakieties.
+      authenticated:
+        authentication_successful: Autentifikācija veiksmīga
+    authenticate:
+      login: Lūdzu, piesakieties, lai turpinātu
+      description_html: Lai atvērtu šo lapu, jāpiesakās. Lai turpinātu, ievadiet savu e-pasta adresi vai piesakieties.<br>Ja jums šajā sistēmā nav konta, ievadiet savu e-pasta adresi, un mēs nosūtīsim jums pagaidu paroli pa e-pastu.
+      unauthorized: Jums nav atļaujas skatīt šo ziņojumu. Ievadiet savu e-pasta adresi tieši tā, kā ziņojums jums tika nosūtīts, vai sazinieties ar ziņojuma sūtītāju.
+    email:
+      validate_email: Apstipriniet savu e-pasta adresi
+      validate_email_description_html: "Uz jūsu e-pasta adresi ir nosūtīts drošības kods: <strong>%{email}</strong>. Noklikšķiniet uz saites vai ievadiet drošības kodu šeit, lai apstiprinātu e-pasta adresi un turpinātu."
+      session_expired: Sesija beigusies, lūdzu, vēlreiz ievadiet savu e-pasta adresi, lai turpinātu
+      token_expired: E-pasta autentifikācijas saites derīgums beidzies, lūdzu, mēģiniet vēlreiz.
+      already_authenticated: Jūs jau esat pieteicies šajā pārlūkprogrammā.
+      resend_validation_email: Nosūtīt apstiprinājuma e-pastu vēlreiz
+      verify: Apstiprināt
+      validate_email_sent: "Jauns apstiprinājuma e-pasts tika nosūtīts plkst. %{time}. Noklikšķiniet uz e-pastā esošās saites vai ievadiet drošības kodu zemāk, lai apstiprinātu e-pasta adresi."
+      invalid_temporary_user: Nederīgs drošības kods. Pārbaudiet savu e-pastu – jūsu iesūtnē ir nosūtīts jauns drošības kods.
+      create_account: Izveidot kontu
+      create_account_description: Izveidojiet kontu šajā sistēmā, lai varētu pieteikties ar e-pasta adresi un paroli, nevis ar drošības kodu.
+      invalid_email: Nederīga e-pasta adrese
+    login_limit_exceeded:
+      delivered:
+        page_header: Pārsniegts pieteikšanās ierobežojums
+        description: Jūs esat pārāk daudz reižu mēģinājis pieteikties. Lai turpinātu, jāatiestata parole.
+        email: Ir nosūtīts e-pasts ar saiti paroles atiestatīšanai.
+      waiting:
+        page_header: Pārsniegts pieteikšanās ierobežojums
+        description: "Jūs esat pārāk daudz reižu mēģinājis pieteikties. Ievērībai: jāpiesakās ar tīkla paroli. Ja šī parole jāatiestata un nezināt, kā to izdarīt, sazinieties ar tīkla administratoru. Pēc gaidīšanas laika beigām varat pārlādēt šo lapu, lai atiestatītu ierobežojumu."
+        expiration_time: Gaidīšanas laiks
+        reload: Pārlādēt
+      show:
+        page_header: Pārsniegts pieteikšanās ierobežojums
+        description: Jūs esat pārāk daudz reižu mēģinājis pieteikties. Varat atiestatīt pieteikšanās ierobežojumu un pieteikties vēlreiz. Jums ir nosūtīts e-pasts ierobežojuma atiestatīšanai.
+      reset:
+        login_limit_reset: Pieteikšanās ierobežojums atiestatīts
+    shared:
+      authentication_successful: Autentifikācija veiksmīga
+    outlook:
+      edit:
+        authentication_title: Autentificēties
+        authentication_description: Lūdzu, piesakieties, lai turpinātu
+        login: Pieteikties
+        login_label: E-pasta adrese
+        password: Parole
+        sso_login: SSO pieteikšanās
+      show:
+        authentication_title: Autentificēties
+        authentication_description: Lūdzu, piesakieties, lai pievienotu drošus failus.
+        authenticate: Autentificēties
+    saml:
+      not_configured:
+        title: SAML nav konfigurēts
+        description: SAML šajā sistēmā nav konfigurēts. Ja uzskatāt, ka tā ir kļūda, lūdzu, sazinieties ar atbalsta dienestu, lai to izpētītu.
+        support_button: Sazināties ar atbalstu
+      api:
+        local:
+          title: SAML autentifikācija
+          description: SAML autentifikācija ir atvērta jūsu noklusējuma pārlūkprogrammā – turpiniet pieteikšanos tur. Ja nevarat atrast logu vai tas kāda iemesla dēļ nedarbojas, varat turpināt, noklikšķinot uz zemāk esošās pogas.
+          button_label: SSO pieteikšanās
+      response:
+        api_error:
+          authentication_error: Autentifikācija neizdevās
+          saml_authentication_error: SSO autentifikācija neizdevās
+          saml_authentication_error_description: SSO autentifikācija neizdevās. Ja problēma atkārtojas, sazinieties ar administratoru.
+        api_disabled:
+          api_disabled: Neautorizēta lietotāju grupa
+          api_disabled_description: Jūsu kontam nav piekļuves šai funkcijai (API atspējots). Lūdzu, sazinieties ar administratoru un palūdziet pārvietot jūsu kontu uz citu grupu.
+        api_response:
+          authentication_successful: Autentifikācija veiksmīga
+        create:
+          could_not_create_account: Kontu neizdevās izveidot. Lai iegūtu vairāk informācijas, sazinieties ar administratoru.
+        show:
+          could_not_create_account: Kontu neizdevās izveidot. Lai iegūtu vairāk informācijas, sazinieties ar administratoru.
+    temporary_user:
+      validate_email: Apstipriniet savu e-pasta adresi
+      validate_email_description_html: "Uz jūsu e-pasta adresi ir nosūtīta pagaidu parole: <strong>%{email}</strong>. Noklikšķiniet uz saites vai ievadiet pagaidu paroli šeit, lai apstiprinātu e-pasta adresi un turpinātu."
+      session_expired: Sesija beigusies, lūdzu, vēlreiz ievadiet savu e-pasta adresi, lai turpinātu
+      token_expired: E-pasta autentifikācijas saites derīgums beidzies, lūdzu, mēģiniet vēlreiz.
+      already_authenticated: Jūs jau esat pieteicies šajā pārlūkprogrammā.
+      resend_validation_email: Nosūtīt apstiprinājuma e-pastu vēlreiz
+      verify: Apstiprināt
+      validate_email_sent: "Jauns apstiprinājuma e-pasts tika nosūtīts plkst. %{time}. Noklikšķiniet uz e-pastā esošās saites vai ievadiet paroli zemāk, lai apstiprinātu e-pasta adresi."
+      invalid_temporary_user: Nederīga parole. Pārbaudiet savu e-pastu – pagaidu parole ir vēlreiz nosūtīta uz jūsu iesūtni.
+      temporary_user_expired: Pagaidu paroles derīgums beidzies. Pārbaudiet savu e-pastu – jūsu iesūtnē ir nosūtīta jauna pagaidu parole.
+      create_account: Izveidot kontu
+      create_account_description: Izveidojiet pastāvīgu kontu šajā sistēmā, lai varētu pieteikties ar e-pasta adresi un paroli, nevis ar pagaidu lietotāja kontu.
+  shared:
+    show: Rādīt
+    reify: Atjaunot
+    download: Lejupielādēt
+    restore: Atjaunot
+    delete: Dzēst
+    trash: Atkritne
+    cancel: Atcelt
+    close: Aizvērt
+    current: Pašreizējais
+    bootstrap_confirm_dialog:
+      confirm_action: Apstiprināt darbību
+    shares:
+      bootstrap_confirm_dialog:
+        confirm_action: Apstiprināt darbību
+      navigation:
+        files: Faili
+        activity_log: Darbību žurnāls
+      wrap_content:
+        activity_log: Darbību žurnāls
+    error_messages:
+      prohibited_this_from_being_saved: neļāva saglabāt %{target}
+  share:
+    share: Share
+    shares: Share
+    no_shares: Nav pieejamu Share
+    name: Nosaukums
+    folder_name: Mapes nosaukums
+    share_not_found: Share nav atrasts
+    folder_not_found: Mape nav atrasta
+    file_not_found: Fails nav atrasts
+    no_read_access: Nav atļaujas piekļūt šim Share
+    no_write_access: Nav rakstīšanas tiesību šajā Share
+    not_authorized_to_view_logs: Nav atļaujas skatīt žurnālus
+    require_authentication: Šim Share nepieciešama autentifikācija. Lai turpinātu, ievadiet paroli.
+    authenticate: Autentificēties
+    authentication_failed: Autentifikācija neizdevās
+  shares:
+    folders:
+      are_you_sure_you_want_to_delete: Vai tiešām vēlaties dzēst šo mapi?
+      are_you_sure_you_want_to_trash: Vai tiešām vēlaties neatgriezeniski dzēst šo mapi?
+      folder_name_already_taken: Šāds mapes nosaukums jau tiek izmantots!
+      folder_not_found: Mape nav atrasta
+      could_not_create_folder: "Mapi neizdevās izveidot: %{error}"
+      zip_no_files: Nav failu, ko pievienot ZIP arhīvam
+      windows_path_warning:
+        title: Windows ceļa garuma ierobežojums
+        description_html: <strong>Windows lietotājiem:</strong> Windows ierobežo failu ceļus līdz 259 rakstzīmēm. Augšupielādējot mapes no vietām ar gariem ceļiem, faili, kas atrodas dziļi mapju struktūrā, var tikt nemanāmi izlaisti, radot nepilnīgas augšupielādes vai mapju dublikātus.
+        workarounds_title: Ieteicamie risinājumi
+        workarounds_html: "<li><strong>Izmantojiet virtuālu disku:</strong> atveriet komandu uzvedni un izpildiet: <code>subst X: \"C:\\jusu\\garais\\cels\\uz\\mapi\"</code><br>Pēc tam augšupielādējiet no virtuālā diska <code>X:\\</code></li><li><strong>Pārejiet tuvāk failiem:</strong> pirms augšupielādējamās mapes atlasīšanas pārejiet uz apakšmapi tuvāk failiem</li><li><strong>Izmantojiet īsāku ceļu:</strong> pirms augšupielādes nokopējiet failus uz īsāku vietu, piemēram, <code>C:\\uploads\\</code></li><li><strong>Vispirms saspiediet mapi:</strong> saspiediet mapi ZIP failā un augšupielādējiet ZIP failu</li>"
+        advanced_title: "Papildu: iespējot garos ceļus Windows 10/11"
+        advanced_description_html: Sākot ar Windows 10 versiju 1607, varat iespējot garāku ceļu atbalstu. <strong>Ievērībai:</strong> tam nepieciešamas administratora tiesības, un tas var nedarboties visās pārlūkprogrammās. Iepriekš minētie risinājumi ir uzticamāki.
+        registry_steps_title: Darbības garo ceļu iespējošanai
+        registry_steps_html: "<li>Nospiediet <kbd>Win + R</kbd>, ierakstiet <code>regedit</code> un nospiediet Enter</li><li>Pārejiet uz: <code>HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\FileSystem</code></li><li>Atrodiet vai izveidojiet DWORD vērtību ar nosaukumu <code>LongPathsEnabled</code> un iestatiet to uz <code>1</code></li><li>Restartējiet datoru, lai izmaiņas stātos spēkā</li><li>Pārbaudiet augšupielādi vēlreiz (atbalsts dažādās pārlūkprogrammās var atšķirties)</li>"
+        browser_disclaimer_html: "<strong>Svarīgi:</strong> pat ar šo reģistra iestatījumu garo ceļu atbalsts dažādās pārlūkprogrammās atšķiras. Chrome, Edge un Firefox joprojām var piemērot 259 rakstzīmju ierobežojumu. Iepriekš minētie risinājumi ir uzticamāki."
+      folder:
+        rename_folder: Pārdēvēt mapi
+        move_folder_description: Pārvietot mapi %{foldername} uz zemāk atlasīto mapi
+        move_folder: Pārvietot mapi
+      action_bar:
+        download_as_zip: Lejupielādēt kā ZIP
+        download_as_zip_with_deleted: Lejupielādēt kā ZIP, ieskaitot dzēstos failus
+        toggle_deleted_view: Rādīt/slēpt dzēstos failus
+        filter: Filtrs
+        upload_file: Augšupielādēt failus
+        upload_folder: Augšupielādēt mapi
+        create_folder: Izveidot mapi
+        windows_path_warning: Brīdinājums par ceļa garumu
+        upload_folder_unsupported: Mapes augšupielāde netiek atbalstīta
+        upload_folder_unsupported_description: Diemžēl jūsu pārlūkprogramma neatbalsta mapju augšupielādi. Lai augšupielādētu mapju struktūru, izmantojiet Chrome vai Safari datora versiju.
+        showing_deleted: Rāda %{number_of} dzēstos
+        hiding_deleted: Slēpj %{number_of} dzēstos
+        actions: Darbības
+        move_selected: Pārvietot atlasītos
+        trash_selected: Pārvietot atlasītos uz atkritni
+        delete_selected: Dzēst atlasītos
+      action_bar_below:
+        send_notifications: Sūtīt paziņojumus
+        sending_notifications: Sūta paziņojumus
+        quota: Kvota
+        used_of: izmantots no
+        available: pieejams
+        quota_exceeded: Pārsniegta kvota
+      create_folder_modal:
+        create_folder: Izveidot mapi
+        create: Izveidot
+      files:
+        are_you_sure_you_want_to_delete: Vai tiešām vēlaties dzēst šo failu?
+        are_you_sure_you_want_to_trash: Vai tiešām vēlaties neatgriezeniski dzēst šo failu?
+        file_not_found: Fails nav atrasts
+        file:
+          rename_file: Pārdēvēt failu
+          move_file: Pārvietot
+          move_file_description: Pārvietot failu %{filename} uz zemāk atlasīto mapi
+        show:
+          prev: Iepriekšējais
+          up: Augšup
+          next: Nākamais
+          last_updated: Pēdējoreiz atjaunināts
+          versions: Versijas
+          show_all: Rādīt visu
+          version_from: Versija no
+          next_version: Nākamā versija
+          previous_version: Iepriekšējā versija
+          current_version: Pašreizējā versija
+          pdf_preview_not_supported: Jūsu pārlūkprogramma neatbalsta PDF failu priekšskatījumu
+        available_chunks:
+          available: Ir pieejamas šādu failu daļējas augšupielādes
+          resume_replace: Vai vēlaties atsākt augšupielādi vai aizstāt failus?
+      quota:
+        quota: Kvota
+        used_of: izmantots no
+        available: pieejams
+        quota_exceeded: Pārsniegta kvota
+      move_file_folder_modal:
+        move_folder: Pārvietot mapi
+        move_file: Pārvietot failu
+        move: Pārvietot
+      show:
+        select_all: Atlasīt visu / noņemt atlasi
+    logs:
+      action_bar:
+        activity_log: Darbību žurnāls
+      message:
+        created: Izveidots
+        uploaded: Augšupielādēts
+        downloaded: Lejupielādēts
+        reified: Atjaunots
+        removed: Noņemts
+        restored: Atjaunots
+        deleted: Dzēsts
+        moved: Pārvietots
+        renamed: Pārdēvēts
+        added: Pievienots
+        viewed: Skatīts
+        infected: Inficēts
+        trashed: Pārvietots uz atkritni
+        deleted_user: "(Dzēsts lietotājs)"
+        share: Share
+        folder: Mape
+        file: Fails
+        group: Grupa
+        user: Lietotājs
+        read: Lasīšana
+        read/write: Lasīšana/rakstīšana
+        av_scanner: Pretvīrusu skeneris
+        version_from: Versija no
+        file_deleted: Fails dzēsts
+        to: uz
+        from: "no"
+        unknown: Nezināms
+        other: Cits
+  share/log:
+    message:
+      you: Jūs
+      share: Share
+      folder: mape
+      file: fails
+      user: lietotājs
+      version_from: versija no
+      read: lasīšana
+      read/write: lasīšana/rakstīšana
+      created: izveidoja
+      added: pievienoja
+      uploaded: augšupielādēja
+      downloaded: lejupielādēja
+      updated: atjaunināja
+      restored: atjaunoja
+      reified: atjaunoja
+      deleted: dzēsa
+      removed: neatgriezeniski dzēsa
+      trashed: pārvietoja uz atkritni
+      renamed: pārdēvēja
+      viewed: skatīja
+      infected: inficēts
+      av_scanner: Pretvīrusu skeneris
+      file_deleted: Fails dzēsts
+  sms_auth:
+    login_failed: Pieteikšanās neizdevās
+    sms_error: SMS konfigurācijas kļūda, lūdzu, sazinieties ar sistēmas administratoru
+    verify_token: Apstiprināt SMS kodu
+    verify_token_description: "Lūdzu, ievadiet uz jūsu mobilo tālruni nosūtīto kodu:"
+    sms_login_failed: SMS apstiprināšana neizdevās, ir nosūtīts jauns SMS kods
+    sms_signup: Reģistrācija SMS divfaktoru autentifikācijai
+    sms_signup_failed: SMS divfaktoru autentifikācija neizdevās
+    sms_signup_description: Lai turpinātu, jāreģistrējas SMS divfaktoru autentifikācijai. Lai turpinātu, zemāk ievadiet savu tālruņa numuru.
+    verify: Apstiprināt
+    resend: Nosūtīt kodu vēlreiz
+    code: Kods
+    token_resent: SMS kods nosūtīts vēlreiz plkst. %{time}
+    send_token: Nosūtīt apstiprināšanas kodu
+    phone_number: Tālruņa numurs
+    invalid_phone_number: Nederīgs tālruņa numurs, lūdzu, mēģiniet vēlreiz.
+    change_phone_number: Mainīt tālruņa numuru
+    phone_number_help: Lūdzu, ievadiet tālruņa numuru ar valsts kodu un bez sākuma nullēm (piem., 37120123456). Uz šo numuru tiks nosūtīts apstiprināšanas kods.
+    one-time-code: Vienreizējs kods
+  strong_auth:
+    two_factor_authentication: Divfaktoru autentifikācija
+    enable_2fa: Iespējot divfaktoru autentifikāciju
+    disable_2fa: Atspējot divfaktoru autentifikāciju
+    title: Iespējot divfaktoru autentifikāciju
+    enable_2fa_description: Varat iespējot spēcīgu divfaktoru autentifikāciju, lai paaugstinātu sava konta drošību.
+    require_description: Lai izmantotu šo sistēmu, jāiestata divfaktoru autentifikācija.
+    disable_description: Lai atspējotu divfaktoru autentifikāciju, ievadiet pašreizējo kodu
+    two_factor_auth_disabled: Divfaktoru autentifikācija atspējota
+    step1: "1. darbība: lejupielādējiet autentifikācijas lietotni"
+    step1_description: Iespējojiet divfaktoru autentifikāciju, parasti ar mobilās lietotnes palīdzību.
+    totp_apps_description_html: Autentifikācijas lietotnes ir, piemēram, <a href="https://authy.com" target="_blank" rel="external nofollow noopener noreferrer">Authy</a> (vairākas platformas) un Google Authenticator (iOS/Android). Vairāk iespēju skatiet <a href="https://docs.liquidfiles.com/authentication/totp.html#clients" target="_blank">TOTP Clients</a>.
+    step2: "2. darbība: konfigurējiet autentifikācijas lietotni"
+    step2_description: Konfigurējiet autentifikācijas lietotni, noskenējot QR kodu.
+    step2_alt: Vai ievadiet šo kodu
+    step3: "3. darbība: apstipriniet"
+    step3_description: Lūdzu, apstipriniet konfigurāciju, ievadot autentifikācijas lietotnes ģenerēto kodu.
+    failed_to_authenticate: Autentifikācija neizdevās, lūdzu, mēģiniet vēlreiz.
+    click_on_link: Varat arī noklikšķināt uz šīs saites, lai pievienotu konfigurāciju savai divfaktoru autentifikācijas lietotnei
+    configure: Konfigurēt divfaktoru autentifikāciju
+    success_saved: Izdevās, divfaktoru autentifikācijas konfigurācija saglabāta
+    verify_token: Apstiprināt divfaktoru autentifikāciju
+    verify_token_description: Lūdzu, ievadiet divfaktoru autentifikācijas kodu no mobilās lietotnes.
+    verify: Apstiprināt
+    two_factor_login_failed: Divfaktoru autentifikācija neizdevās
+    two_factor_validation_failed: Divfaktoru autentifikācijas apstiprināšana neizdevās
+    skip_2fa_for_two_weeks: Izlaist divfaktoru autentifikāciju šajā pārlūkprogrammā uz divām nedēļām
+    one-time-code: Vienreizējs kods
+  support:
+    email_subject: Lūdzu, palīdziet man ar
+    email_body: Lūdzu, aprakstiet problēmu pēc iespējas detalizētāk. Paldies.
+    navbar_tooltip: Ja jums nepieciešama palīdzība, lai piekļūtu šai sistēmai vai to izmantotu, noklikšķiniet uz šīs saites, un mēs labprāt palīdzēsim.
+  user:
+    includes_at_least_one_invalid_email_address: satur vismaz vienu nederīgu e-pasta adresi
+    confirm:
+      invalid_session: Nederīga sesija
+      already_validated: Jūsu e-pasta adrese jau ir apstiprināta
+      invalid_token: Nederīgs kods. Lūdzu, mēģiniet vēlreiz vai noklikšķiniet uz Nosūtīt apstiprinājuma e-pastu vēlreiz.
+      validation_email_sent: "Apstiprinājuma e-pasts nosūtīts plkst. %{time}"
+      activated_successfully: Veiksmīgi aktivizēts
+      validate_email_description: Lūdzu, pārbaudiet savu e-pastu un ievadiet pagaidu paroli, lai apstiprinātu e-pasta adresi.
+    register:
+      already_registered: Šis konts jau ir reģistrēts, lūdzu, piesakieties, lai turpinātu
+      already_registered_not_validated: Jūsu konts jau ir reģistrēts, bet e-pasta adrese vēl jāapstiprina. Jums tika nosūtīts e-pasts ar nejaušu kodu. Ievadiet kodu zemāk vai noklikšķiniet uz e-pastā esošās saites, lai apstiprinātu kontu.
+      show:
+        register: Reģistrēt kontu
+        description_html: <p>Lūdzu, ievadiet savus datus, lai izveidotu kontu. Ar šo kontu varat droši sūtīt lielus failus adresātam %{branding_name}.</p>
+    signup:
+      create:
+        need_password: Jāievada parole
+        need_name: Jāievada vārds
+    create:
+      show:
+        cancel_and_remember: Atcelt un vairs nejautāt
+        cancel_and_remember_title: Tas tiks atcerēts jūsu pašreizējā pārlūkprogrammā
+  validator:
+    required: Šis lauks ir obligāts.
+    remote: Lūdzu, izlabojiet šo lauku.
+    email: Lūdzu, ievadiet derīgu e-pasta adresi.
+    url: Lūdzu, ievadiet derīgu URL.
+    date: Lūdzu, ievadiet derīgu datumu.
+    dateISO: Lūdzu, ievadiet derīgu datumu (ISO).
+    number: Lūdzu, ievadiet derīgu skaitli.
+    digits: Lūdzu, ievadiet tikai ciparus.
+    creditcard: Lūdzu, ievadiet derīgu kredītkartes numuru.
+    equalTo: Lūdzu, ievadiet to pašu vērtību vēlreiz.
+    accept: Lūdzu, ievadiet vērtību ar derīgu paplašinājumu.
+    maxlength: Lūdzu, ievadiet ne vairāk kā {0} rakstzīmes.
+    minlength: Lūdzu, ievadiet vismaz {0} rakstzīmes.
+    rangelength: Lūdzu, ievadiet vērtību no {0} līdz {1} rakstzīmēm.
+    range: Lūdzu, ievadiet vērtību no {0} līdz {1}.
+    max: Lūdzu, ievadiet vērtību, kas mazāka vai vienāda ar {0}.
+    min: Lūdzu, ievadiet vērtību, kas lielāka vai vienāda ar {0}.
+    step: Lūdzu, ievadiet skaitļa {0} daudzkārtni.
+    invalid_phone_number: Nederīgs tālruņa numurs
+  locale: Latviešu

@@ -1,0 +1,1569 @@
+hu:
+  s: mp
+  min: perc
+  hours: Óra
+  days: Nap
+  weeks: Hét
+  months: Hónap
+  years: Év
+  ago: ezelőtt
+  email: E-mail
+  save: Mentés
+  delete: Törlés
+  cancel: Mégse
+  remove: Eltávolítás
+  aborting: Megszakítás folyamatban
+  aborted: Megszakítva
+  saved_successfully: Sikeresen mentve
+  logout: Kijelentkezés
+  error: Hiba
+  enabled: Engedélyezve
+  disabled: Letiltva
+  disable: Letiltás
+  default: Alapértelmezett
+  submit: Küldés
+  session_expired: A munkamenet lejárt
+  search: Keresés
+  filter: Szűrő
+  recipient: Címzett
+  recipients: Címzettek
+  downloaded_by: Letöltötte
+  filename: Fájlnév
+  size: Méret
+  downloaded: Letöltve
+  host: Gazdagép
+  ip: IP-cím
+  action: Művelet
+  view_message: Üzenet megtekintése
+  view_message_popup: Üzenet megtekintése (előugró ablak)
+  download_info: Letöltési adatok
+  message_id: Üzenetazonosító
+  filelink_id: FileLink-azonosító
+  sent_at: Elküldve
+  id: Azonosító
+  subject: Tárgy
+  expires: Lejár
+  invalid_method: Érvénytelen módszer
+  export_csv: Exportálás CSV-be
+  export_all: Az összes exportálása
+  export_visible: A láthatók exportálása
+  temporarily_unavailable: Átmenetileg nem érhető el
+  generic_search_error: Általános keresési hiba
+  sender: Feladó
+  search_temporary_disabled: A keresés átmenetileg le van tiltva
+  help: Súgó
+  close: Bezárás
+  count: Darabszám
+  settings: Fiókbeállítások
+  virus: Vírus
+  virus_status: Víruskeresési állapot
+  infected: Fertőzött
+  clean: Tiszta
+  not_scanned: Nincs ellenőrizve
+  not_yet_scanned: Még nincs ellenőrizve
+  csrf_error: "CSRF: érvénytelen paraméterek észlelve. A folytatáshoz jelentkezzen be újra."
+  could_not_be_saved: Nem sikerült menteni
+  label: Címke
+  updated: Frissítve
+  add: Hozzáadás
+  system_info: Rendszerinformáció
+  location: Hely
+  accept: Elfogadás
+  last_7_days: Az elmúlt 7 nap
+  last_30_days: Az elmúlt 30 nap
+  last_60_days: Az elmúlt 60 nap
+  last_90_days: Az elmúlt 90 nap
+  last_180_days: Az elmúlt 180 nap
+  last_365_days: Az elmúlt 365 nap
+  file: Fájl
+  files: Fájlok
+  next: Következő
+  previous: Előző
+  name: Név
+  view: Megtekintés
+  forget: Elfelejtés
+  update: Frissítés
+  updated_at: Frissítve
+  created_at: Létrehozva
+  download_link_expired: A letöltési hivatkozás lejárt.
+  no_html5_upload_warning: A fájlfeltöltéshez modern, HTML5-kompatibilis böngésző szükséges. A Microsoft Edge, a Chrome, a Firefox és a Safari egyaránt kiválóan működik.
+  javascript_warning: A fájlok küldéséhez és a legtöbb funkció használatához JavaScript szükséges.
+  cookie_accept: Ez a webhely sütiket használ. A bejelentkezéssel vagy az „Elfogadás” gombra kattintva elfogadja a sütik használatát.
+  i_agree: Elfogadom
+  session_timeout: A munkamenet lejárt, jelentkezzen be újra
+  loading: Betöltés...
+  unsupported_browser_header: Nem támogatott böngésző
+  unsupported_browser_description_html: A böngészője nem támogatott, ezért a webhely valószínűleg nem fog megfelelően működni. Használjon újabb böngészőt.
+  not_logged_in_invalid_parameters: Nincs bejelentkezve, érvénytelen paraméterek
+  toggle_dropdown: Menü megjelenítése/elrejtése
+  rejected: Elutasítva
+  undetected: Nem észlelt
+  invalid_link: Érvénytelen hivatkozás, forduljon a feladóhoz
+  account_settings_tooltip: Fiókbeállítások
+  logout_tooltip: Kijelentkezés
+  download_id: Letöltésazonosító
+  remote_host: Távoli gazdagép
+  show: Megjelenítés
+  hide: Elrejtés
+  password: Jelszó
+  download: Letöltés
+  unauthorized: Nincs jogosultság
+  account:
+    login: Bejelentkezés
+    login_label: E-mail-cím
+    email: E-mail-cím
+    password: Jelszó
+    current_password: Jelenlegi jelszó
+    please_enter_your_current_password: Adja meg jelenlegi jelszavát
+    sign_in: Bejelentkezés
+    remember_me: Emlékezzen rám
+    not_administrator: Ön nem rendszergazda
+    password_reset: Jelszó visszaállítása
+    register: Regisztráció
+    register_description_html: Köszönjük! A folytatáshoz adja meg adatait, és hozzon létre egy fiókot.<br>Legközelebb e-mail-címével és jelszavával jelentkezhet be.
+    account_not_activated: A fiók nincs aktiválva. Bejelentkezés előtt aktiválja a fiókot. Küldtünk Önnek egy e-mailt egy véletlenszerű kóddal. Adja meg a kódot alább, vagy kattintson az e-mailben lévő hivatkozásra a fiók megerősítéséhez.
+    incorrect_user_or_pw: Helytelen felhasználónév vagy jelszó
+    confirmation_email_sent: Megerősítő e-mail elküldve
+    activated_successfully: Sikeresen aktiválva
+    not_activated: A fiók nincs aktiválva
+    password_reset_email_sent: Jelszó-visszaállító e-mail elküldve
+    no_such_user: Nincs ilyen felhasználó
+    no_such_email: Az e-mail-cím nem található
+    not_logged_in: Nincs bejelentkezve. A folytatáshoz jelentkezzen be.
+    saved_successfully: Sikeresen mentve
+    unlicensed_install_some_settings: "Licenc nélküli telepítés: az arculati beállításokat csak a rendszergazdák látják"
+    incorrect_login_or_demo: Helytelen felhasználónév vagy jelszó, vagy elérte a licenckorlátot
+    incorrect_login_or_ldap: Helytelen felhasználónév vagy jelszó, vagy LDAP-kiszolgálóhiba
+    invalid_api_key: Érvénytelen API-kulcs
+    cant_delete_last_sysadmin: Az utolsó rendszergazda nem törölhető
+    cant_change_last_sysadmin: Az utolsó rendszergazda nem módosítható
+    sso_login: SSO-bejelentkezés
+    invalid_sso_response: Érvénytelen SSO-válasz
+    automatic: Automatikusan észlelve
+    network_access_blocked: A rendszer elérése az Ön hálózatáról nem engedélyezett.
+    please_login: Az oldal megnyitásához jelentkezzen be.
+    email_validation_session_timeout: A munkamenet lejárt, erősítse meg újra e-mail-címét.
+    signature: Aláírás
+    not_authorized_for_action: Nincs jogosultsága ehhez a művelethez
+    invalid_group: Érvénytelen csoport. Forduljon egy rendszergazdához, aki át tudja helyezni fiókját a helyi felhasználók csoportjába
+    invalid_group_configuration: Érvénytelen csoportkonfiguráció. Forduljon egy rendszergazdához, aki létre tud hozni Önnek egy fiókot, vagy módosítani tudja a csoport konfigurációját.
+    please_enter_email_to_email_password: A jelszó visszaállításához adja meg e-mail-címét. Erre a címre megerősítő e-mailt küldünk.
+    password_reset_successfully: A jelszó visszaállítása sikerült
+    password_cant_be_empty: A jelszó nem lehet üres
+    password_complexity_title: Jelszó összetettsége
+    password_complexity_description_html: "<p>A jelszó <strong>nem alapulhat szótári szón</strong>, és a következő követelmények közül legalább 3-nak meg kell felelnie:</p><ul><li>Legalább 8 karakter</li><li>Legalább 11 karakter</li><li>Legalább 15 karakter</li><li>Legalább 1 kis- és 1 nagybetű</li><li>Legalább 1 számjegy (0-9)</li><li>Legalább egy a következő karakterek közül: !,@,#,$,%,^,&amp;,*,?,_,~,-,(,)</li></ul>"
+    is_not_strong_enough: nem elég erős
+    your_password_has_expired: A jelszava lejárt
+    please_select_a_different_password: Válasszon az előzőtől eltérő jelszót
+    change_password: Jelszó módosítása
+    account_not_found: A fiók nem található. Jelentkezzen be újra.
+    user_required_to_use_saml: A jelszó nem állítható vissza, jelentkezzen be SAML-en keresztül
+    sysadmin_ldap_error: Ezt a fiókot LDAP hitelesíti, ezért itt nem állítható vissza
+    login_limit_exceeded: Túllépte a bejelentkezési korlátot
+    a_confirmation_email_will_be_sent: Erre a címre megerősítő e-mailt küldünk
+    name: Név
+    password_confirm: Jelszó megerősítése
+    save: Mentés
+    can_not_reset_password_please_check_with_your_administrator: A jelszó nem állítható vissza, forduljon a rendszergazdához
+    no_need_to_register_user: Nincs szükség regisztrációra. Jelentkezzen be meglévő fiókjával.
+    registration_not_allowed: A regisztráció nem engedélyezett
+    create_description: Hozza létre fiókját nevének és egy jelszónak a megadásával.
+    activated_successfully_please_login: A fiók aktiválása sikerült. Most már bejelentkezhet e-mail-címével és jelszavával.
+    invalid_activation_url: Érvénytelen aktiválási hivatkozás. Ellenőrizze a hivatkozást, és próbálja újra.
+    already_logged_in: Már be van jelentkezve. Új fiók nem regisztrálható.
+    bruteforce_message: Túllépte a sikertelen próbálkozások számát. Próbálja újra %{minutes} perc múlva.
+    admin_access_blocked: Az Ön IP-címéről nem engedélyezett a rendszergazdai hozzáférés.
+    account_created_successfully: A fiók létrehozása sikerült
+    create_account: Fiók létrehozása
+    create_account_description: A fiók létrehozásához frissítse adatait.
+    account_settings: Fiókbeállítások
+    change_language: Nyelv és időzóna módosítása
+    filedrop_label: Filedrop (véletlenszerű)
+    filedrop_email_label: Filedrop
+    verify_account: Fiók ellenőrzése
+    invalid_sso_signature: Érvénytelen SSO-aláírás vagy -bejelentkezés
+    user_not_found: A felhasználó nem található
+    could_not_create_account: Nem sikerült létrehozni a fiókot
+    two_factor_authentication_failed: A Duo kéttényezős hitelesítés sikertelen
+    copy_to_clipboard: Másolás a vágólapra
+    copy_url_to_clipboard: URL másolása a vágólapra
+    delete_user_warning: Biztosan törli ezt a felhasználót?
+    unauthorized_to_login: Nincs jogosultsága a bejelentkezéshez
+    first_time_message_title: Üdvözli a LiquidFiles
+    first_time_message: <p>Üdvözli a LiquidFiles – a nagy fájlok biztonságos küldésének legegyszerűbb módja.</p><p>Az alapfunkciók ugyanúgy működnek, mint egy webes levelezőrendszer.</p><p>Ez az üzenet csak egyszer jelenik meg. Ha elakad, vagy további funkciókat szeretne felfedezni, kattintson a menüsor jobb felső sarkában lévő „Súgó” gombra.</p>
+    first_time_message_button: Értem!
+    registration_failed_unknown_error: A regisztráció ismeretlen hiba miatt sikertelen
+    session_timeout: A munkamenet lejárt
+    nothing_filled_in: Töltse ki az űrlapot
+    last_used: Utoljára használva
+    strong_auth_required_before_password_reset: A fiók jelszavának visszaállításához erős kéttényezős hitelesítés szükséges.
+    unfriendly_registration_message: Ha ezzel az e-mail-címmel regisztrálhat a rendszerbe, e-mailt fog kapni. Ha nem kap, használja a fenti támogatási hivatkozást.
+    unfriendly_password_reset_message: Ha az ehhez az e-mail-címhez tartozó fiók visszaállítható, e-mailt fog kapni. Ha nem kap, használja a fenti támogatási hivatkozást.
+    aliases:
+      aliases: Álnevek
+      aliases_description: Fiókjához feladói és címzetti álneveket adhat hozzá. A feladói álnévvel az adott e-mail-cím nevében küldhet üzeneteket. A címzetti álnévvel megtekintheti az adott címre érkező üzeneteket. A címzetti álnévre érkező üzenetek a biztonságos üzenetek beérkezett mappájában is megjelennek.
+      aliases_no_change_description: A feladói álnévvel az adott e-mail-cím nevében küldhet üzeneteket. A címzetti álnévvel megtekintheti az adott címre érkező üzeneteket. A címzetti álnévre érkező üzenetek a biztonságos üzenetek beérkezett mappájában is megjelennek. Álnevek hozzáadásához vagy módosításához forduljon egy rendszergazdához.
+      recipient_aliases: Címzetti álnevek
+      sender_aliases: Feladói álnevek
+      add_alias: Álnév hozzáadása
+      remove: Eltávolítás
+      default_sender_alias: Alapértelmezett feladói álnév
+      default_sender_alias_description: Az alapértelmezett feladói álnév.
+      are_you_sure: Biztosan eltávolítja ezt az álnevet?
+      no_emails: Nincs hozzáadott álnév.
+      please_contact_an_administrator: Kezelésükhöz forduljon egy rendszergazdához
+      auto_added_aliases: Automatikusan hozzáadott álnevek
+      auto_added_aliases_description: A következő álnevek automatikusan hozzá lettek adva a profiljához. Kezelésükhöz forduljon egy rendszergazdához.
+    alias:
+      confirm:
+        show:
+          title: Köszönjük a megerősítést
+          alias_email: Álnév e-mail-címe
+          user: Felhasználó
+          recipient_and_sender_confirmation: A fenti felhasználó mostantól megtekintheti az erre az e-mail-címre érkező biztonságos üzeneteket, és biztonságos üzeneteket küldhet a nevében. Ha ez tévedés, kattintson a fenti támogatási hivatkozásra.
+          only_recipient_confirmation: A fenti felhasználó mostantól megtekintheti az erre az e-mail-címre érkező biztonságos üzeneteket. Ha ez tévedés, kattintson a fenti támogatási hivatkozásra.
+          only_sender_confirmation: A fenti felhasználó mostantól biztonságos üzeneteket küldhet ennek az e-mail-címnek a nevében. Ha ez tévedés, kattintson a fenti támogatási hivatkozásra.
+    add_alias_modal:
+      title: Álnév hozzáadása
+      description: Adja meg azt az e-mail-címet, amelyhez címzetti vagy feladói álnévként szeretne hozzáférni. A megerősítéshez e-mailt küldünk erre a címre.
+      recipient_alias: Címzetti álnév - az erre az e-mail-címre küldött üzeneteket szeretném olvasni.
+      sender_alias: Feladói álnév - ennek az e-mail-címnek a nevében szeretnék üzeneteket küldeni.
+      invalid_email: Érvénytelen e-mail-cím
+      add_permission: Válassza a címzetti álnevet, a feladói álnevet vagy mindkettőt.
+      send_request: Kérés küldése
+      request_has_been_sent: A kérését elküldtük.
+    api:
+      api_key: API-kulcs
+      api_key_description: Az API-kulcsot bővítmények, például az Outlook-bővítmény használják, és egyéni integrációkhoz is felhasználható. Csak akkor van rá szüksége, ha egy rendszergazda kéri.
+      api_key_reset_warning: Biztos benne? Ha visszaállítja az API-kulcsot, a régi kulcsot mindenhol le kell cserélnie, ahol használta.
+      reset_api_key: API-kulcs visszaállítása
+    contacts:
+      contacts: Névjegyek
+      contacts_description: Tetszőleges számú névjegyet adhat hozzá. Minden névjegyhez több e-mail-cím is tartozhat, így gyorsan és egyszerűen küldhet egyszerre több címzettnek.
+      add_contact: Névjegy hozzáadása
+      email_field_help: Vesszővel elválasztott e-mail-címek listája.
+      contact:
+        edit_label: Címke szerkesztése
+        edit_email: E-mail-cím szerkesztése
+        are_you_sure: Biztosan törli ezt a névjegyet?
+    filedrops:
+      filedrops: Filedropok
+      filedrops_description: Ön ezeknek a Filedropoknak a fő vagy másolatot kapó címzettje. Az ezeken keresztül küldött összes fájlt Önnek kézbesítjük.
+      name: Név
+      title: Cím
+      recipient: Címzett
+      expires_after: Lejárat
+      max_size: Max. fájlméret
+      url: URL
+      main_recipient: Fő címzett
+      cc: Másolat
+    personal_filedrop:
+      personal_filedrop: Személyes Filedrop
+      personal_filedrop_description: A személyes Filedrop egyszerű módja a fájlok fogadásának. A hivatkozást elküldheti, közzéteheti egy webhelyen, vagy beillesztheti e-mail-aláírásába. Értesítést kap, amint valaki küldött valamit a személyes Filedropján keresztül.
+    previous_recipients:
+      previous_recipients: Korábbi címzettek
+      previous_recipients_description: Amikor biztonságos üzenetet küld, minden címzett felkerül a korábbi címzettek listájára. Így gyorsan küldhet újra ugyanazoknak a címzetteknek. Azokat a címzetteket, akiknek 180 napja nem küldött semmit, a rendszer automatikusan eltávolítja a listáról.
+      are_you_sure: Biztosan törli ezt a korábbi címzettet?
+    pw_dictionary:
+      based_on_a_dictionary_word: szótári szón alapul
+      based_upon_your_password_entry: a megadott jelszón alapul
+      derived_from_your_password_entry: a megadott jelszóból származik
+      derivable_from_your_password_entry: levezethető a megadott jelszóból
+      way_too_short: TÚLSÁGOSAN rövid
+      too_short: túl rövid
+      it_does_not_contain_enough_different_characters: nem tartalmaz elég KÜLÖNBÖZŐ karaktert
+      all_whitespace: csak szóközökből áll
+      too_simplistic_systematic: túl egyszerű/szabályos
+      it_looks_like_a_national_insurance_number: TAJ-számnak tűnik
+      based_on_a_reversed_dictionary_word: (visszafelé írt) szótári szón alapul
+    show:
+      basic_settings: Alapbeállítások
+      change_password: Jelszó módosítása
+      strong_auth: Kéttényezős hitelesítés
+      aliases: Álnevek
+      previous_recipients: Korábbi címzettek
+      contacts: Névjegyek
+      personal_filedrop: Személyes Filedrop
+      api: API
+      filedrops: Filedropok
+    sms_disable:
+      disable_sms_otp: SMS-es kéttényezős hitelesítés letiltása
+      disable_sms_otp_description: Ha le szeretné tiltani az SMS-es kéttényezős hitelesítést, kattintson az alábbi gombra. A kérés megerősítéséhez SMS-kódot küldünk.
+      verify_token_description: "Az SMS-es kéttényezős hitelesítés letiltásához adja meg a mobiltelefonjára küldött kódot:"
+      code: Kód
+      sms_token_failed: Érvénytelen SMS-kód, az SMS-es kéttényezős hitelesítést nem sikerült letiltani
+      sms_otp_has_been_disabled: Az SMS-es kéttényezős hitelesítés le van tiltva
+    sms_signup:
+      sms_signup_description: A kéttényezős hitelesítés engedélyezésével növelheti fiókja biztonságát. Az engedélyezéshez adja meg alább a telefonszámát.
+      phone_number: Telefonszám
+    sms_enable:
+      signup_complete: Az SMS-es kéttényezős hitelesítés engedélyezve
+    terms_of_service:
+      show:
+        title: Felhasználási feltételek
+        accept_terms_of_service: Felhasználási feltételek elfogadása
+        do_not_accept: Nem fogadom el
+      create:
+        you_need_to_accept: El kell fogadnia a felhasználási feltételeket!
+  activerecord:
+    attributes:
+      attachment:
+        filename: Fájlnév
+        size: Méret
+        secure_id: Mellékletazonosító
+        content_type: Tartalomtípus
+        created_at: Létrehozva
+        updated_at: Frissítve
+      download:
+        recipient: Címzett
+        downloaded_at: Letöltve
+        remote_ip: Távoli IP
+        remote_host: Távoli gazdagép
+        created_at: Létrehozva
+        updated_at: Frissítve
+      filedrop:
+        name: Név
+        title: Cím
+        description: Leírás
+        blocked_extensions: Tiltott kiterjesztések
+        permitted_extensions: Engedélyezett fájltípusok
+        expires_after: Lejárat
+        max_filesize: Maximális fájlméret
+        created_at: Létrehozva
+        updated_at: Frissítve
+        api_key: API-kulcs
+        cc: Másolat
+        authorization: Engedélyezés
+      message:
+        recipients: Címzettek
+        sender: Feladó
+        cc: Másolat
+        bcc: Titkos másolat
+        message: Üzenet
+        subject: Tárgy
+        deleted: Törölve
+        authorization: Engedélyezés
+        created_at: Létrehozva
+        updated_at: Frissítve
+        expires_at: Lejár
+      share/log:
+        created_at: Dátum
+      share/file:
+        checksum: Ellenőrzőösszeg (SHA256)
+      share/file/version:
+        whodunnit: Módosította
+        created_at: Módosítva
+      user:
+        name: Név
+        email: E-mail-cím
+        quota: Kvóta
+        used: Felhasznált
+        max: Max.
+        password: Jelszó
+        ldap_authentication: LDAP-hitelesítés
+        api_key: API-kulcs
+        level: Szint
+        filedrop: Filedrop
+    models:
+      configuration: Konfiguráció
+      attachment: Melléklet
+      filedrop: Filedrop
+      message: Üzenet
+      user: Felhasználó
+      download: Letöltés
+  admin:
+    groups:
+      form:
+        bcc_myself: Másolat küldése nekem
+        can_change_bcc_myself: A csoport felhasználói módosíthatják a magunknak küldött másolat beállítását
+      index:
+        default_group_assignment: Alapértelmezett csoport-hozzárendelés
+    users:
+      users:
+        email: E-mail-cím
+        name: Név
+        group: Csoport
+        max: Max. fájlméret
+        quota: Kvóta
+        strong_auth: Erős hitelesítés
+        filedrop: Filedrop
+        last_login_at: Utolsó bejelentkezés
+        last_login_ip: Utolsó bejelentkezés IP-címe
+        created: Létrehozva
+      form:
+        name_label: Név
+        email: E-mail-cím
+        password: Jelszó
+        password_confirmation: Jelszó megerősítése
+        max_label: Maximális fájlméret
+        group: Csoport
+        strong_auth: Erős hitelesítés
+        strong_auth_username: Erős hitelesítés felhasználóneve
+        api_key: API-kulcs
+        filedrop: Filedrop
+  attachments:
+    not_found: A melléklet nem található
+  config:
+    settings: Beállítások
+    email: E-mail
+    language_preferences_from_your_browser: A böngésző nyelvi beállításai
+    authentication: Hitelesítés
+    time_zone: Időzóna
+    current_time_zone: Jelenlegi időzóna
+    time_zone_from_browser: A böngésző által észlelt időzóna
+    time_zone_config_description: Ha az időzónát „Automatikusan észlelve” értéken hagyja, a böngésző által észlelt időzóna lesz használatban (minden időpont ebben az időzónában jelenik meg). Ha a böngésző nem tudja észlelni az időzónát, a rendszer alapértelmezett időzónája lesz használatban. Ha a böngésző nem a megfelelő időzónát észleli, vagy más időzónában szeretné látni az időpontokat, megadhat egy konkrét időzónát.
+    time_zone_default: A rendszer alapértelmezett időzónája
+    email_settings: E-mail-beállítások
+    configuration: Konfiguráció
+    local_domains: Helyi tartomány
+    ldap_users: LDAP-pal hitelesített felhasználók
+    ldap_users_are_always_local: Az LDAP-pal hitelesített felhasználók mindig helyiek
+    separated_by_comma: vesszővel elválasztva
+    default_max_file_size: Alapértelmezett maximális fájlméret
+    local_users: Helyi felhasználók
+    external_users: Külső felhasználók
+    allow_registration: Regisztráció engedélyezése
+    allow_registration_desc: Regisztráció engedélyezése a bejelentkezési oldalon
+    external_user_account: Külső címzettek
+    external_user_account_desc: A külső címzetteknek fiókot kell létrehozniuk
+    allow_users_to_change_expiration: A felhasználók módosíthatják a fájlok lejáratát
+    authorization: Engedély
+    authorization_description: Alapértelmezett beállítás arra, hogy ki tölthet le fájlokat.
+    file_expiration: Lejárat
+    default_expire_files_after: A fájlok alapértelmezés szerint lejárnak ennyi idő után
+    delete_downloaded_files_after: A letöltött fájlok törlése ennyi idő után
+    branding: Arculat
+    company_name: Cégnév
+    custom_stylesheet: Egyéni stíluslap
+    custom_javascript: Egyéni JavaScript
+    logotype: Logó
+    leave_blank_for_default: hagyja üresen az alapértelmezett értékhez
+    email_configuration: E-mail-konfiguráció
+    email_sender_address: Feladó címe
+    email_host: E-mailek alap-URL-je
+    email_footer: E-mail lábléce
+    email_relay_host: E-mail-továbbító kiszolgáló
+    email_relay_username: E-mail-továbbító felhasználóneve
+    email_relay_password: E-mail-továbbító jelszava
+    port: Port
+    unlicensed_install_some_settings: "Licenc nélküli telepítés: az arculati beállításokat csak a rendszergazdák látják"
+    mail_relay_example: "Pl.: mailrelay.tartomany.hu, mx.tartomany.hu:587"
+    ldap: LDAP
+    please_see_the: lásd
+    for_more_information: további információért
+    virus_scan: Víruskeresés
+    virus_scan_description: Fájlok ellenőrzése vírusok szempontjából
+    blocked_file_extensions: Tiltott fájlkiterjesztések
+    default_bcc_myself_label: Másolat küldése nekem
+    default_bcc_myself: Alapértelmezés szerint másolat küldése nekem
+    allow_users_to_change_require_login_label: Hitelesítés megkövetelése
+    allow_users_to_change_require_login: A felhasználók módosíthatják a „Hitelesítés megkövetelése” beállítást
+    permitted_file_extensions_label: Engedélyezett fájlkiterjesztések
+    delete: Törlés
+    ldap_description: "Engedélyezze a felhasználók LDAP-hitelesítését, és állítsa be az LDAP-kiszolgálóhoz való csatlakozás alapvető paramétereit. Ha nincs megadva port, az alapértelmezett 389-es LDAP-port lesz használatban (vagy a 636-os, ha az SSL engedélyezve van). Megjegyzés: a 3268-as portot az Active Directory NEM használja hitelesítésre, csak a globális címjegyzékben való keresésre. Helyette használja a 389/636-os portot."
+    ldap_authentication: LDAP-hitelesítés
+    basic_settings: Alapbeállítások
+    server: Kiszolgáló neve / IP-címe
+    username: Felhasználónév
+    password: Jelszó
+    authentication_description: Ez a felhasználó lesz használva az LDAP-kiszolgálóhoz való csatlakozáshoz (névtelen kötéshez hagyja üresen). A felhasználónak keresési jogosultsággal kell rendelkeznie az LDAP-fában.
+    search_key: Keresési kulcs
+    search_key_description: A keresési kulcs és a tartomány segítségével lehet megtalálni a felhasználókat az LDAP-fában. Az alábbi táblázat mutatja, hogyan működik együtt a keresési kulcs és a tartomány egy felhasználó megtalálásához.
+    search_key_description2: Ha tehát az LDAP keresési kulcs az e-mail-címet tartalmazza, a tartománynak üresnek kell maradnia. Ha az LDAP keresési kulcs csak a felhasználónevet tartalmazza, a tartománynak a felhasználók tartományát kell tartalmaznia.
+    search_key_defaults: "Active Directory esetén jó kiindulópont: sAMAccountName LDAP keresési kulcsként és ceg.hu (az Ön tartománya) tartományként."
+    user_enters: A felhasználó beírja
+    authorized_ldap_groups: Engedélyezett LDAP-csoportok
+    available_groups: Elérhető csoportok
+    default_settings: Alapértelmezett beállítások
+    setting: Beállítás
+    value: Érték
+    description: Leírás
+    default_local_max_description: Ez az új helyi felhasználók alapértelmezett maximális fájlmérete. Felhasználónként módosítható.
+    user_changeable: A felhasználó módosíthatja?
+    non_local: Nem helyi
+    remote: Távoli
+    new_external_recipient_is_nonlocal: Az új külső címzettek
+    email_message_on_top_label: Üzenet felül
+    email_message_on_top: Az üzenet a címzetteknek küldött e-mailben a fájllista felett jelenik meg
+    use_either_permitted_or_blocked_extensions: Vagy engedélyezett, vagy tiltott kiterjesztéseket kell választania, a kettőt egyszerre nem
+    invalid_password: Érvénytelen jelszó
+    valid_password: Érvényes jelszó
+    test_password_validation: Jelszó-ellenőrzés tesztelése
+    custom_password_validation: Egyéni jelszó-ellenőrzés
+    custom_password_validation_description: "Ez a reguláris kifejezés lesz használva az egyéni jelszó-ellenőrzéshez. Csak a reguláris kifejezést írja be, elválasztójelek nélkül (ne kezdje és ne fejezze be '/' karakterrel). Példa: [a-zA-Z0-9]{7,} (a jelszavak ekkor csak a-z, A-Z és 0-9 karaktereket tartalmazhatnak, legalább 7 karakter hosszan)"
+    filedrop: Filedrop
+    receive: Fogadás
+    api_settings: API-beállítások
+    enable_api_label: API engedélyezése
+    enable_api_description: API engedélyezése a bővítményeken és szkripteken keresztüli hozzáféréshez
+    enable_api_group_config: További API-beállítások a csoportkonfigurációban érhetők el.
+    api_client_size_override_label: Méretküszöb API-ügyfelekhez
+    api_client_size_override_description: Az API-ügyfelek az ennél nagyobb fájlokat a készüléken keresztül küldik
+    sso_secret_key: SSO titkos kulcs
+    generate_key: Új kulcs létrehozása
+    sso_replace_confirm: Biztos benne? Az SSO titkos kulcs cseréje után a meglévő SSO-integrációk nem fognak működni.
+    virus_scan_skip_locals: Víruskeresés kihagyása helyi felhasználóknál
+    virus_scan_skip_locals_description: A helyi felhasználók fájljait ne ellenőrizze vírusok szempontjából
+    virus_scan_permit_unscanned: Nem ellenőrzött fájlok engedélyezése
+    virus_scan_permit_unscanned_description: Még nem ellenőrzött fájlok letöltésének engedélyezése
+    userdrop: Felhasználói Filedrop
+    user_filedrop_with_random_key: Felhasználói Filedropok véletlenszerű kulccsal
+    enable_userdrop: Felhasználói Filedropok engedélyezése
+    example: Példa
+    user_filedrop_with_email: Felhasználói Filedropok e-mail-címekkel
+    enable_userdrop_email: Felhasználói Filedropok engedélyezése e-mail-címmel
+    userdop_email_data_leakage: Ezzel esetleg felderíthetők a helyi e-mail-címek, ha valaki címeket próbálgat a Filedrop URL-jén, és figyeli, melyik ad érvényes választ.
+    userdrop_files_expire_after: A leadott fájlok lejárnak ennyi idő után
+    userdrop_max_filesize: Felhasználói Filedrop maximális fájlmérete
+    bruteforce_label: Védelem a találgatásos támadások ellen
+    bruteforce_description_1: IP-cím letiltása
+    bruteforce_description_2: percre, ha
+    bruteforce_description_3: sikertelen bejelentkezés/regisztráció történik
+    bruteforce_description_4: percen belül
+    bruteforce_whitelist_label: Engedélyezési lista a találgatásos támadások elleni védelemhez
+    allowed_admin_networks_label: Felügyeleti hálózatok
+    allowed_admin_networks_description: A rendszergazdai hozzáférés korlátozása ezekre a gazdagépekre és hálózatokra. A localhost (127.0.0.1, ::1) mindig engedélyezett
+    enable_strong_authentication: Erős hitelesítés alapértelmezett engedélyezése ezeknél a felhasználótípusoknál
+    authenticated_username: Hitelesített felhasználónév
+    duo_hostname: Duo gazdagépnév
+    duo_client_id: Duo integrációs kulcs
+    duo_client_secret: Duo titkos kulcs
+    strong_authentication_test: Erős hitelesítés tesztelése
+    stronger_password: Válasszon erősebb jelszót.
+    cannot_begin_or_end_with_blank: A jelszó nem kezdődhet és nem végződhet szóközzel.
+    at_least_one_invalid_domain: Legalább egy érvénytelen tartomány
+    at_least_one_invalid_email: Legalább egy érvénytelen e-mail-cím
+    email_security_level: E-mail-kézbesítés biztonsági szintje
+    geoip: GeoIP-keresés
+    geoip_description: Helyadatokat tölt le a https://geoip.liquidfiles.com címről, és térképeket jelenít meg.
+    tooltip:
+      local_domains: A helyi felhasználó bárkinek küldhet fájlokat. A nem helyi felhasználó csak helyi felhasználóknak küldhet fájlokat. A felhasználó első bejelentkezésekor vagy a fiók létrehozásakor az e-mail-cím tartományát összeveti a rendszer ezekkel a tartományokkal, hogy eldöntse, helyinek számít-e a felhasználó.
+      ldap_users_are_always_local: Minden LDAP-pal hitelesített felhasználó automatikusan helyinek számít, tartománytól függetlenül.
+      allow_registration: Engedélyezi a regisztrációt a bejelentkezési oldalon. A helyi tartományok listája alapján dől el, hogy az új felhasználó helyi vagy nem helyi.
+      local_user_maxfile: Amikor egy helyi felhasználó regisztrál, vagy először hitelesíti magát távoli hitelesítéssel, ez a maximális fájlméret lesz beállítva számára.
+      nonlocal_user_maxfile: Amikor egy nem helyi felhasználó regisztrál, ez a maximális fájlméret lesz beállítva számára.
+      delete_downloaded_files_after: A letöltött fájl ennyi ideig marad meg. Elég hosszúnak kell lennie ahhoz, hogy a címzett más letöltési helyet válasszon vagy újrakezdje, de elég rövidnek ahhoz, hogy a hivatkozás ne terjedjen el további személyekhez.
+      file_expiration: Lehetővé teszi a felhasználóknak a fájlok lejárati idejének módosítását. Ha ez nincs engedélyezve, minden fájl az alapértelmezett lejárati időt kapja.
+      default_expire_files_after: A fájlok ennyi idő után lejárnak.
+      blocked_file_extensions: Az ilyen kiterjesztésű fájlok tiltása (a kis- és nagybetűk nem számítanak).
+      virus_scan: Az összes feltöltött fájl ellenőrzése a ClamAV víruskeresővel
+      require_authentication_permission: Ha engedélyezve van, a felhasználók maguk dönthetik el, hogy szükséges-e hitelesítés
+      default_bcc_myself: Ha engedélyezve van, az üzenetek alapértelmezés szerint magának a felhasználónak is elküldésre kerülnek
+      permitted_file_extensions: "Ha üresen marad, minden kiterjesztés engedélyezett. Ha legalább egy kiterjesztés meg van adva, csak a megadott fájltípusok engedélyezettek. Példa: png, gif, jpg, txt"
+      new_external_recipient_is_nonlocal: Ha új címzettnek küldenek üzenetet, nem helyi felhasználóként (hogy válaszolhasson) vagy külső felhasználóként jöjjön létre?
+      email_message_on_top: Ha be van jelölve, az üzenet a címzetteknek küldött e-mailben a fájllista felett jelenik meg. Ha nincs, a fájllista jelenik meg az üzenet felett.
+      email_sender: Ez az e-mail-cím lesz a rendszer által generált e-mailek, például a jelszó-visszaállítások feladója. Hogy ezeket az e-maileket ne jelöljék kéretlen levélként, valódi e-mail-címnek kell lennie.
+      email_host: A mellékletek ezt az URL-t használják alap-URL-ként. Általában http://gazdagepnev.tartomany vagy https://gazdagepnev.tartomany, de lehet https://gazdagepnev.tartomany:4433 is, ha porttovábbítást használ a tűzfalon, amikor a felhasználók a LiquidFiles-készülékhez csatlakoznak.
+      email_footer: Ez az aláírás minden kimenő e-mailhez hozzá lesz fűzve.
+      email_relay: Ezen a levelezőkiszolgálón keresztül továbbítsa a kimenő e-maileket.
+      email_relay_username: Az e-mail-továbbító kiszolgálóra való bejelentkezéshez használt fiók
+      email_relay_password: Az e-mail-továbbító kiszolgálóra való bejelentkezéshez használt fiók jelszava
+  date:
+    formats:
+      default: "%Y.%m.%d."
+      short: "%m.%d."
+      medium: "%Y.%m.%d."
+      long: "%Y.%m.%d."
+  time:
+    am: de.
+    pm: du.
+    formats:
+      default: "%Y.%m.%d. %H:%M:%S %z"
+      short: "%m.%d. %H:%M"
+      medium: "%Y.%m.%d. %H:%M"
+      long: "%Y.%m.%d. %H:%M"
+  downloads:
+    download_id: Letöltésazonosító
+    index:
+      download_log_title: Letöltések
+      download_log_description: Ki, mit és mikor töltött le
+      paginator_entry_name: letöltés
+    show:
+      no_map_for_reserved_address: Fenntartott címekhez nem jeleníthető meg térkép
+  filedrop:
+    filedrop: Filedrop
+    no_such_filedrop: Nincs ilyen Filedrop
+    invalid_filedrop_url: Érvénytelen Filedrop-URL
+    invalid_filedrop_url_description: Ezen az URL-en nincs Filedrop. Ellenőrizze az URL-t, és próbálja újra.
+    label: Filedropok
+    mb: MB
+    name: Név
+    name_description: Rövid név, amelyet az URL is használ (pl. /filedrop/nev)
+    title: Cím
+    title_description: Az oldal tetején megjelenő cím
+    description: Leírás
+    description_description: A cím alatt megjelenő leírás
+    user: Fogadó felhasználó
+    user_description: Bármely helyi felhasználó beállítható címzettként
+    cc: Másolat
+    cc_description: "(vesszővel elválasztva) Másolat küldése ezekre a címekre"
+    expires_after: Lejárat
+    expires_after_description: nap
+    max_filesize: Maximális fájlméret
+    max_filesize_description: MB
+    reset_filedrop: Filedrop-URL visszaállítása
+    filedrop_reset_warning: Biztos benne? Ha visszaállítja a Filedrop URL-jét, mindenhol le kell cserélnie, ahol közzétette.
+    permitted_extensions: Engedélyezett kiterjesztések
+    permitted_extensions_description: Csak ezek a fájltípusok lesznek engedélyezve
+    blocked_extensions: Tiltott kiterjesztések
+    blocked_extensions_description: Ezek a fájltípusok le lesznek tiltva
+    demo_license_warning_standard: A Filedropok éles használatához licenc szükséges. A Filedrop funkció engedélyezéséhez frissítsen Pro licencre.
+    max_one_during_demo: A próbaidőszak alatt vagy Standard licenccel legfeljebb egy Filedrop állítható be
+    filedrop_info: A Filedrop segítségével ügyfelei hitelesítés és előzetes beállítás nélkül küldhetnek Önnek fájlokat. Minden Filedrop állandó URL-lel rendelkezik, amelyre weboldalakról vagy e-mail-aláírásokból hivatkozhat. Amikor valaki fájlt ad le a Filedropba, az automatikusan egy előre meghatározott felhasználónak kerül elküldésre.
+    authorization: Engedély
+    authorization_description: ki töltheti le a Filedropba leadott fájlokat
+    you_will_be_notified: Letöltési visszaigazolást kap, amikor fájljait letöltötték.
+    require_authentication: Ehhez a Filedrophoz hitelesítés szükséges. A folytatáshoz adja meg a jelszót.
+    authenticate: Hitelesítés
+    authentication_failed: A hitelesítés sikertelen
+    require_validation: Ehhez a Filedrophoz hitelesítés vagy az e-mail-cím megerősítése szükséges.
+  filelink:
+    filelink: FileLink
+    filelinks: FileLinkek
+    filelink_title: FileLink
+    filelink_description: A FileLink egy hivatkozás egyetlen fájlra. Ezt a hivatkozást bárkinek elküldheti anélkül, hogy üzenetet kellene létrehoznia vagy címzetteket kellene megadnia. A fájlt csak azok tölthetik le, akiknek elküldte a véletlenszerű hivatkozást.
+    expired_or_nonexistent_title: Érvénytelen FileLink
+    expired_or_nonexistent: Ez a FileLink lejárt vagy nem létezik. Új hivatkozásért forduljon a feladóhoz.
+    existing_filelinks: Meglévő FileLinkek
+    new_filelink: Új FileLink
+    available_files: Elérhető fájlok
+    filename: Fájlnév
+    filesize: Fájlméret
+    expires_at: Lejár
+    link: Hivatkozás
+    checksum: Ellenőrzőösszeg
+    copy_link_to_clipboard: FileLink másolása a vágólapra
+    expire_link_at: A hivatkozás lejár
+    you_have_no_filelinks: Nincsenek FileLinkjei. Adjon hozzá egy új FileLinket, vagy hozzon létre egyet egy elérhető fájlból.
+    you_have_no_files_available: Nincsenek korábban elküldött fájljai. Amint legalább egy fájlt elküldött, itt kiválaszthatja, hogy FileLinket hozzon létre belőle.
+    create_link: Hivatkozás létrehozása
+    invalid_file: Érvénytelen fájl, nem hozható létre FileLink
+    delete: Törlés
+    delete_link_warning: Biztosan törli ezt a FileLinket?
+    could_not_delete_link: A FileLinket nem sikerült törölni. A hivatkozás nem található!
+    filelink_deleted: FileLink törölve!
+    select_file: Fájl kiválasztása
+    send_download_receipts: Letöltési visszaigazolások küldése
+    disabled: A FileLinkek le vannak tiltva, forduljon egy rendszergazdához
+    unauthorized: Nincs jogosultsága a FileLinkek használatához
+    require_authentication: Hitelesítés megkövetelése
+    filelink_require_authentication: Ehhez a FileLinkhez hitelesítés szükséges
+    filelink_url: FileLink URL-je
+    expired: Lejárt
+    filelink_expired: A FileLink lejárt
+    select_from_available_files: FileLinket ezekből a meglévő fájlokból is létrehozhat.
+    downloads: Letöltések
+    authentication_failed: A hitelesítés sikertelen
+    password_label_html: Jelszó <small class="text-muted">(nem kötelező)</small>
+    password_present_html: Ehhez a FileLinkhez jelszó van beállítva.<br>Üres jelszó mentésével eltávolíthatja.
+    password_not_present: Nincs beállítva jelszó.
+    copy_to_clipboard: FileLink másolása a vágólapra
+    add_file: Fájl hozzáadása
+  ftpdrop:
+    create:
+      ftpdrop: FTPdrop
+  html_editor:
+    font:
+      bold: Félkövér
+      italic: Dőlt
+      underline: Aláhúzott
+      clear: Formázás eltávolítása
+      height: Sormagasság
+      name: Betűtípus
+      strikethrough: Áthúzott
+      subscript: Alsó index
+      superscript: Felső index
+      size: Betűméret
+    image:
+      image: Kép
+      insert: Kép beszúrása
+      resize_full: Teljes méret
+      resize_half: Fél méret
+      resize_quarter: Negyed méret
+      float_left: Balra igazítás
+      float_right: Jobbra igazítás
+      float_none: Nincs igazítás
+      shape_rounded: "Alak: lekerekített"
+      shape_circle: "Alak: kör"
+      shape_thumbnail: "Alak: miniatűr"
+      shape_none: "Alak: nincs"
+      url: Kép URL-je
+      remove: Kép eltávolítása
+    link:
+      link: Hivatkozás
+      insert: Hivatkozás beszúrása
+      unlink: Hivatkozás eltávolítása
+      edit: Szerkesztés
+      text_to_display: Megjelenítendő szöveg
+      url: Melyik URL-re mutasson ez a hivatkozás?
+      open_in_new_window: Megnyitás új ablakban
+    table:
+      table: Táblázat
+    hr:
+      insert: Vízszintes vonal beszúrása
+    style:
+      style: Stílus
+      normal: Normál
+      blockquote: Idézet
+      pre: Kód
+      h1: Címsor 1
+      h2: Címsor 2
+      h3: Címsor 3
+      h4: Címsor 4
+      h5: Címsor 5
+      h6: Címsor 6
+    lists:
+      unordered: Felsorolás
+      ordered: Számozott lista
+    options:
+      help: Súgó
+      fullscreen: Teljes képernyő
+      codeview: Kódnézet
+    paragraph:
+      paragraph: Bekezdés
+      outdent: Behúzás csökkentése
+      indent: Behúzás növelése
+      left: Balra igazítás
+      center: Középre igazítás
+      right: Jobbra igazítás
+      justify: Sorkizárás
+    color:
+      recent: Legutóbbi szín
+      more: További színek
+      background: Háttérszín
+      foreground: Szövegszín
+      transparent: Átlátszó
+      set_transparent: Átlátszóvá tétel
+      reset: Visszaállítás
+      reset_to_default: Alapértelmezés visszaállítása
+    shortcut:
+      shortcuts: Billentyűparancsok
+      close: Bezárás
+      text_formatting: Szövegformázás
+      action: Művelet
+      paragraph_formatting: Bekezdésformázás
+      document_style: Dokumentumstílus
+      extra_keys: További billentyűk
+    history:
+      undo: Visszavonás
+      redo: Ismétlés
+  invite:
+    invite_user: Felhasználó meghívása
+    description: Meghívhat felhasználókat, hogy fájlokat osszanak meg Önnel. Miután megadta az adataikat, e-mailt kapnak a regisztráció befejezésére vonatkozó utasításokkal.
+    send_invite: Meghívó küldése
+    name_placeholder: Teljes név
+    invitation_sent: Meghívó elküldve
+    not_permitted_to_invite_users: Nincs jogosultsága felhasználók meghívására.
+    invalid_email: Érvénytelen e-mail-cím
+  link:
+    show:
+      set_password: Jelszó beállítása
+      download: Letöltés
+      downloads_and_info: Összes letöltés és további információ
+    authenticate:
+      show:
+        title: FileLink jelszava
+        authenticate: Hitelesítés
+        require_authentication: A FileLink megnyitásához meg kell adnia a szükséges jelszót.
+      create:
+        authentication_failed: A hitelesítés sikertelen.
+    downloads:
+      index:
+        back_to_filelink: Vissza a FileLinkhez
+    link_downloads:
+      latest_downloads: Legutóbbi letöltések (%{count} / összesen %{total})
+  menu:
+    shares: Share-ek
+    messages: Üzenetek
+    send_files: Új üzenet
+    users: Felhasználók
+    active_transfers: Aktív átvitelek
+    configuration: Konfiguráció
+    system: Rendszer
+    message_list: Üzenetlista
+    settings: Beállítások
+    admin: Felügyelet
+    account: Fiók
+    inbox: Beérkezett üzenetek
+    sent_messages: Elküldött
+    downloads: Letöltési napló
+    filelink: FileLinkek
+    secure_messages: Biztonságos üzenetek
+    support: Támogatás
+  message:
+    message_sent: Üzenet elküldve
+    not_found: Az üzenet nem található
+    message_not_found_header: Az üzenet nem található!
+    message_not_found_description: Kérje meg a feladót, hogy küldje el újra az üzenetet.
+    previous_recipients: Korábbi címzettek
+    contacts: Névjegyek
+    is_not_permitted: nem engedélyezett
+    not_permitted_to_delete_messages: Nincs jogosultsága üzenetek törléséhez
+    is_not_in_any_of_the_allowed_domains: egyik engedélyezett tartományba sem tartozik
+    is_not_in_any_of_the_allowed_groups: egyik engedélyezett csoportba sem tartozik
+    attach_1_file: Legalább egy fájlt csatolnia kell
+    too_many_files: Túl sok fájlt csatolt. Egy üzenethez legfeljebb %{count} fájl csatolható.
+    attached_files: Csatolt fájlok
+    expired: Az üzenet lejárt
+    authorize:
+      show:
+        title: A biztonságos üzenet megnyitásához jelentkezzen be
+        authenticate_description_html: Egy biztonságos üzenetet készül megtekinteni. Ehhez először be kell jelentkeznie. A folytatáshoz adja meg e-mail-címét, vagy jelentkezzen be.<br>Ha nincs fiókja a rendszerben, adja meg e-mail-címét, és küldünk egy biztonságos hivatkozást a cím megerősítéséhez.
+        unauthenticated_html: <h4>Érvénytelen felhasználónév vagy jelszó</h4><p>Adja meg felhasználónevét és jelszavát. Jelszavát az alábbi Jelszó visszaállítása gombbal állíthatja vissza.</p>
+        unauthorized_to_view_check_email_html: <h4>Nem jogosult e-mail-cím</h4><p>Ellenőrizze, hogy a(z) [<span class="font-monospace fw-bold">%{message_id}</span>] biztonságos üzenetet Önnek küldték-e, és pontosan úgy adja meg az e-mail-címet, ahogyan az üzenetet küldték.</p><p>Ha például e-mail-címe lehet kovacs.janos@ceg.hu és jkovacs@ceg.hu is, a rendszer nem tudhatja, hogy ugyanarról a címről van szó. Ha a biztonságos üzenetet a kovacs.janos@ceg.hu címre küldték, itt pontosan ezt a címet kell megadnia.</p><p>Ha bizonytalan, forduljon a biztonságos üzenet feladójához.</p>
+    errors:
+      not_authorized_to_view_message: "Nincs jogosultsága a következő azonosítójú üzenet megtekintéséhez: %{message_id}. Ellenőrizze, hogy az üzenetet Önnek küldték-e."
+      private_message_requires_authentication: A privát üzenetekhez hitelesítés szükséges
+    attachments:
+      download_attachment_details_csv: Mellékletadatok letöltése (CSV)
+      attachment:
+        fileinfo: Fájladatok
+        file_size: Fájlméret
+        content_type: Tartalomtípus
+        checksum: Ellenőrzőösszeg
+        virus_status: Víruskeresési állapot
+    compose:
+      options_permission:
+        authentication_required: Hitelesítés szükséges
+        authentication_not_required: Nincs szükség hitelesítésre
+        require_authentication_description: Szükséges-e, hogy a címzettek hitelesítsék magukat az üzenet megnyitásához?
+        access_restriction_html: Hozzáférési korlátozás<br><small class="text-muted">Ki férhet hozzá ehhez az üzenethez?</small>
+        recipients_only_html: Csak<br>címzettek
+        recipients_plus_locals_html: Címzettek<br>+ helyi felhasználók
+        recipients_plus_domains_html: Címzettek<br>+ tartományok
+        anyone_secret_link_html: Bárki<br>(titkos hivatkozás)
+    unavailable:
+      header: Az üzenet nem érhető el
+      description: Ez az üzenet lejárt, törölték, nem létezik vagy már nem érhető el. Kérje meg a feladót, hogy küldje el újra az üzenetet.
+    downloads:
+      index:
+        download_log_title: Letöltési napló
+        message_id: Üzenetazonosító
+        paginator_entry_name: Letöltések
+      download:
+        details: Részletek
+      not_found:
+        title: Az üzenet vagy a letöltés nem található
+        description_html: Az üzenet vagy a letöltés nem található, vagy nincs jogosultsága a megtekintéséhez
+    temporary_user:
+      create:
+        invalid_temporary_user: Érvénytelen jelszó. Ellenőrizze az ideiglenes jelszót tartalmazó e-mailt, vagy kérjen új ideiglenes jelszót.
+        temporary_user_expired: Ez az ideiglenes jelszó lejárt. Új ideiglenes jelszót küldtünk az e-mail-címére. Ellenőrizze a beérkezett üzeneteket, és használja az új ideiglenes jelszót.
+        not_authorized_to_view_message: "Nincs jogosultsága a következő azonosítójú üzenet megtekintéséhez: %{message_id}. Ellenőrizze, hogy az üzenetet Önnek küldték-e."
+      show:
+        title: Adja meg ideiglenes jelszavát
+        description_html: "Egy biztonságos üzenetet készül megtekinteni. A megnyitásához meg kell adnia ideiglenes jelszavát.<br>Az ideiglenes jelszó egy egyedi, véletlenszerű karaktersor, amely azonosítja Önt. Az ideiglenes jelszót külön e-mailben küldtük el (tárgy: Ideiglenes jelszó)."
+        what_is_this: Mi ez?
+        login: Bejelentkezés
+        submit: Ideiglenes jelszó ellenőrzése
+        submit_email: Küldés
+        if_you_have_account: "(ha már van fiókja)"
+        request_temporary_user_header: Új ideiglenes jelszó kérése
+        request_temporary_user_description_html: Az üzenet megnyitásához új ideiglenes jelszót kérhet. Adja meg alább e-mail-címét, hogy új ideiglenes jelszót kérjen ehhez a biztonságos üzenethez.
+        info_header: Tudnivalók az ideiglenes jelszóról
+        info_body_html: "<p>Az ideiglenes jelszó számok és betűk egyedi sorozata, például:</p><pre><code>3ynp-7FKa-pZS9</code></pre><p><em>Ez az ideiglenes jelszó csak példa, hogy lássa, hogyan néz ki – nem használható.</em></p><p>A beérkezett üzenetek között <strong>két e-mailt</strong> talál: a biztonságos üzenetet tartalmazót és egy olyat, amelynek <strong>tárgya így kezdődik: Ideiglenes jelszó</strong>. Ez utóbbi tartalmazza az Ön egyedi ideiglenes jelszavát ehhez a rendszerhez.</p><p>Ha nem kapott ideiglenes jelszót tartalmazó e-mailt, lehet, hogy már van fiókja a rendszerben. Ebben az esetben kattintson a „Bejelentkezés” gombra.</p><p>Ha úgy gondolja, hogy ideiglenes jelszót kellett volna kapnia, de nem kapott, kattintson az „Ideiglenes jelszó kérése” gombra egy újért.</p>"
+        email_address: E-mail-cím
+        email_not_permitted: Ez az e-mail-cím nem jogosult a biztonságos üzenet megtekintésére.
+        email_not_permitted_description_html: <p>Ellenőrizze a kapott biztonságos üzenetet tartalmazó e-mailt, és pontosan úgy adja meg az e-mail-címet, ahogyan az üzenetet küldték.</p><p>Ha például e-mail-címe lehet kovacs.janos@ceg.hu és jkovacs@ceg.hu is, a rendszer nem tudhatja, hogy ugyanarról a címről van szó. Ha a biztonságos üzenetet a kovacs.janos@ceg.hu címre küldték, itt pontosan ezt a címet kell megadnia.</p><p>Ha bizonytalan, forduljon a biztonságos üzenet feladójához.</p>
+        email_can_login: Már van fiókja a rendszerben
+        email_can_login_description_html: <p>Ezzel az e-mail-címmel és jelszavával bejelentkezhet a rendszerbe.</p><p>Kattintson az alábbi Bejelentkezés gombra, hogy meglévő fiókjával jelentkezzen be.</p>
+        temporary_user_delivered_header: Ideiglenes jelszó elküldve
+        temporary_user_delivered_description_html: <p>Ideiglenes jelszót küldtünk az e-mail-címére. Ellenőrizze a beérkezett üzeneteket, zárja be ezt az ablakot, és adja meg az ideiglenes jelszót.</p>
+    reply:
+      re: "Vá:"
+      wrote: írta
+      show:
+        title: Válasz biztonságos üzenetre
+        from: Feladó
+        reply: Válasz
+        reply_all: Válasz mindenkinek
+      options:
+        options_description: Vegye figyelembe, hogy minden beállítás az eredeti üzenetből öröklődik.
+    show:
+      back: Vissza
+      message_header: Üzenet fejléce
+      reply: Válasz
+  messages:
+    sent:
+      skipped_file_not_found: Kihagyva - a fájl nem található
+      show:
+        sent_title: Elküldött
+        sent_description: Az Ön által elküldött üzenetek
+        paginator_entry_name: üzenet
+    attachments:
+      download_cmd:
+        unauthorized:
+          header: Nincs jogosultság
+          body: Nincs jogosultsága a fájl letöltéséhez. Kérje meg a feladót, hogy küldje el újra a fájlt.
+          back: Vissza
+        exceeded:
+          header: Letöltési korlát túllépve
+          body: A fájl letöltési korlátja túllépve. Kérje meg a feladót, hogy küldje el újra a fájlt.
+          back: Vissza
+    download_zip:
+      unauthorized:
+        header: Nincs jogosultság
+        body: Nincs jogosultsága az archívum letöltéséhez. Kérje meg a feladót, hogy küldje el újra a fájlt.
+        back: Vissza
+      exceeded:
+        header: Letöltési korlát túllépve
+        body: Az archívum egy vagy több fájljának letöltési korlátja túllépve. Kérje meg a feladót, hogy küldje el újra a fájlt.
+        back: Vissza
+    message:
+      reply: Válasz
+      reply_all: Válasz mindenkinek
+  models:
+    user:
+      no_need_to_create_local_user: Nem szükséges helyi felhasználót létrehozni
+      license_exceeded: Licenckorlát túllépve
+  notifier:
+    activate_user_subject: "[%{hostname}] Fiók aktiválása"
+    user_activation: Felhasználó aktiválása
+    please_visit_the_following_url_to_activate: Fiókja aktiválásához kattintson a következő hivatkozásra
+    the_following_files_are_attached: Az üzenethez a következő fájlok vannak csatolva
+    please_visit_the_following_url: A mellékletek letöltéséhez kattintson erre a hivatkozásra
+    attachments_are_available: A mellékletek elérhetők eddig
+    message_id: "Üzenetazonosító: %{id}"
+    email_password_reset_subject: Jelszó visszaállítása
+    download_receipt_subject: "Letöltési visszaigazolás [ID: %{message_id}]"
+    a_file_that_you_sent: Az Ön által küldött fájlt letöltötték. Őrizze meg ezt az e-mailt a letöltés igazolásaként.
+    recipient: Címzett
+    filename: Fájlnév
+    time_of_download: Letöltés időpontja
+    downloaded_from: Letöltés helye
+    download_receipt: Letöltési visszaigazolás
+    user_created:
+      account_created: Fiók létrehozva
+      subject: "[%{hostname}] Fiók létrehozva"
+      message: "Egy biztonságos melléklet várja Önt. A letöltéshez hitelesítenie kell magát. A regisztrációhoz kattintson a következő hivatkozásra:"
+  outlook:
+    messages:
+      new:
+        attachments_header: Mellékletek
+        attachments_hint: Fájlokat úgy csatolhat, hogy az alábbi területre húzza őket, vagy a Fájlok csatolása gombra kattint.
+        add_to_message: Hozzáadás az üzenethez
+      attachments:
+        attach_files: Fájlok csatolása
+        drop_files_here: Húzza ide a fájlokat...
+      options:
+        recipients_can_reply: A címzettek válaszolhatnak
+        send_copy_to_myself: Másolat küldése nekem
+        private_message: Privát üzenet
+        private_message_required_auth_error: Privát üzenet küldésekor a „Hitelesítés szükséges” módot kell használnia.
+      options_authorization:
+        authentication_authorization_title_html: Hitelesítés &amp; engedélyezés
+        authentication_select_title: Hitelesítés kiválasztása
+        authentication_required: Hitelesítés szükséges
+        authentication_not_required: Nincs szükség hitelesítésre
+        authorization_select_title: Engedélyezés kiválasztása
+        recipients_only: Csak címzettek
+        recipients_locals: Címzettek + helyi felhasználók
+        recipients_domains: Címzettek + tartományok
+        anyone: Bárki (titkos hivatkozás)
+      options_expiration:
+        message_expires: Az üzenet lejár
+        message_expires_after: Az üzenet lejár ennyi idő után
+  pagination:
+    first: "&laquo; Első"
+    last: Utolsó &raquo;
+    previous: "&lsaquo; Előző"
+    next: Következő &rsaquo;
+    truncate: "&hellip;"
+  requests:
+    title: Fájlkérés
+    file_request: Fájlkérés
+    files_sent: Fájlok elküldve, köszönjük!
+    request_file: Fájl kérése
+    file_requests: Fájlkérések
+    description: Fájlkéréssel megkérhet valakit, hogy küldjön Önnek fájlokat. Miután megadta az adatokat, az illető e-mailt kap egy egyedi hivatkozással, amelyen keresztül elküldheti Önnek a kért fájlokat.
+    file_request_not_found: A fájlkérés nem található
+    file_request_expired: A fájlkérés lejárt
+    file_request_already_used: A fájlkérést már felhasználták
+    file_request_sent: Fájlkérés elküldve
+    not_permited: Nincs jogosultsága a fájlkérés funkció használatához
+    multiuse: Többszöri használat - ez a fájlkérési hivatkozás többször is használható
+    invalid_recipient: Érvénytelen címzett, ezt a fájlkérést valaki másnak küldték
+    invalid_user: Ez nem az Ön fájlkérése
+    index:
+      title: Fájlkérések
+      new_file_request: Új fájlkérés
+      multiuse: Többszöri használat
+      responded_to: Megválaszolva
+      hide_expired: Lejártak és felhasználtak elrejtése
+      show_expired: Lejártak és felhasználtak megjelenítése
+    request:
+      resend: Újraküldés
+      are_you_sure_you_want_to_delete: Biztosan törli ezt a fájlkérést?
+    popup:
+      from: Feladó
+      to: Címzett
+      subject: Tárgy
+      message: Üzenet
+    resend:
+      request_resent: A fájlkérést újraküldtük
+    new:
+      request_expires: A kérés lejár
+  send:
+    send: Küldés
+    sent: Elküldve
+    recipients: Címzett
+    send_as: Küldés másként
+    you_can_only_send_files_to_yourself: Csak saját magának küldhet fájlokat
+    subject: Tárgy
+    subject_placeholder: Tárgy
+    attachments: Mellékletek
+    max_file_size: "Mellékletek maximális mérete: %{filesize} MB"
+    upload_queue: Feltöltési sor
+    remove: Eltávolítás
+    cancel_all: Az összes megszakítása
+    cancel_all_uploads: Az összes feltöltés megszakítása
+    message: Üzenet
+    message_placeholder: Üzenet
+    done_editing_please_send: Végeztem a szerkesztéssel, küldje el a fájlokat, ha minden feltöltés befejeződött
+    files_sent_successfully: A fájlok elküldése sikerült
+    you_need_at_least_one_recipient: Legalább egy címzett szükséges
+    you_need_at_least_one_attachment: Legalább egy melléklet szükséges
+    options: Beállítások
+    cc: Másolat
+    bcc: Titkos másolat
+    bcc_message_description: A titkos másolatot kapó címzettek nem láthatók a többi címzett számára
+    add_cc: másolat hozzáadása
+    add_bcc: titkos másolat hozzáadása
+    bcc_myself: Másolat küldése nekem
+    require_login: Bejelentkezés megkövetelése a fájlok letöltéséhez
+    only_specified_recipients_can_download: Csak a megadott címzettek tölthetik le a mellékleteket
+    anyone_can_download: Bárki letöltheti a mellékleteket
+    expires_in: A mellékletek ennyi ideig tölthetők le
+    expires_at: A mellékletek lejárnak
+    send_options: Küldési beállítások
+    to: Címzett
+    from: Feladó
+    filename: Fájlnév
+    filesize: Fájlméret
+    downloaded_at: Letöltve
+    message_sent: Üzenet elküldve
+    message_expires: Az üzenet lejár
+    message_expires_after: Az üzenet lejár ennyi idő után
+    message_expires_after_description: A számítás fájlonként történik. Ha 2 olyan fájlt küld, amely 1 letöltés után lejár, minden címzett minden fájlt egyszer tölthet le.
+    downloads_per_recipient: Letöltések címzettenként
+    total_downloads: Összes letöltés
+    file_not_downloaded: Egyetlen mellékletet sem töltöttek le
+    at_least_one_invalid_extension: Legalább egy mellékletnek érvénytelen a kiterjesztése
+    invalid_filetype: Érvénytelen kiterjesztés
+    blocked_extension: "Érvénytelen kiterjesztés. A következő kiterjesztésű fájlok nem tölthetők fel: %{extensions}"
+    permitted_extensions: "Engedélyezett kiterjesztések: %{filetypes}"
+    already_selected: Ez a fájl már ki van választva
+    maximum_filesize_exceeded: A maximális fájlméret túllépve
+    contains_virus: "%{filename} VÍRUST tartalmaz: %{virus}"
+    limited_by_browser: A böngésző korlátozza
+    limited_by_disk: A lemezterület korlátozza
+    limited_by_system_quota: A rendszerkvóta korlátozza
+    limited_by_group_quota: A csoportkvóta korlátozza
+    limited_by_quota: A kvóta korlátozza
+    limited_per_message: Üzenetenkénti korlát
+    system_quota_exceeded: Rendszerkvóta túllépve
+    group_quota_exceeded: Csoportkvóta túllépve
+    quota_exceeded: Kvóta túllépve
+    no_available_quota: Kvóta túllépve, a folytatáshoz töröljön néhány fájlt
+    not_authorized_to_send: Nincs jogosultsága küldeni a következő címre - %{email}
+    public_url: Nyilvános URL
+    message_url: Üzenet URL-je
+    authorization: Engedélyezés
+    insufficient_disk_space: Nincs elég lemezterület
+    active_transfers: Aktív átvitelek
+    view_log: Napló megtekintése
+    previously_sent_attachments: Korábban elküldött mellékletek
+    has_not_downloaded: "%{recipient} még egyetlen fájlt sem töltött le"
+    authentication: Hitelesítés
+    required: Kötelező
+    disabled: Letiltva
+    require_authentication_tooltip_html: <li>A címzettnek felhasználónévvel és jelszóval kell bejelentkeznie a fájl letöltéséhez.</li> <li>Visszaigazolást kap, amikor a fájlt letöltik.</li>
+    dont_require_authentication_tooltip_html: <li>A címzettnek nem kell bejelentkeznie a fájl letöltéséhez.</li> <li>Visszaigazolást kap, amikor a fájlt letöltötték, de azt nem, hogy ki töltötte le (ezt nem tudjuk).</li> <li>Csak akkor kap visszaigazolást, amikor az első címzett letölti a fájlt.</li>
+    authenticate_link_description: A FileLink megnyitása előtt be kell jelentkeznie.
+    unauthorized: Nincs jogosultsága az üzenet megtekintéséhez.
+    unauthenticated: Helytelen jelszó
+    incorrect_login_or_demo: Helytelen jelszó, vagy elérte a licenckorlátot
+    email_authorization_message: Köszönjük. Annak ellenőrzésére, hogy ez az Ön e-mail-címe, megerősítő kódot tartalmazó e-mailt küldtünk. Adja meg alább a megerősítő kódot, vagy kattintson az e-mailben lévő hivatkozásra az üzenet megnyitásához.
+    email_authorization_link: Köszönjük. Annak ellenőrzésére, hogy ez az Ön e-mail-címe, megerősítő kódot tartalmazó e-mailt küldtünk. Adja meg alább az e-mailben kapott megerősítő kódot, vagy kattintson az e-mailben lévő hivatkozásra a FileLink megnyitásához.
+    email_authorization_message_create_account: Köszönjük. Mivel nincs fiókja a rendszerben, megerősítő kódot tartalmazó e-mailt küldtünk annak ellenőrzésére, hogy ez az Ön e-mail-címe. Adja meg alább a megerősítő kódot, vagy kattintson az e-mailben lévő hivatkozásra a cím megerősítéséhez. Ezután a rendszer felkéri fiók létrehozására, majd az üzenethez irányítja.
+    email_authorization_link_create_account: Köszönjük. Mivel nincs fiókja a rendszerben, megerősítő kódot tartalmazó e-mailt küldtünk annak ellenőrzésére, hogy ez az Ön e-mail-címe. Adja meg alább az e-mailben kapott megerősítő kódot, vagy kattintson az e-mailben lévő hivatkozásra a cím megerősítéséhez. Ezután a rendszer felkéri fiók létrehozására, majd a FileLinkhez irányítja.
+    authorize: Engedélyezés
+    authenticate: Bejelentkezés
+    sending: Küldés folyamatban...
+    abort_transfer: Átvitel megszakítása
+    files_to_big: Túl nagy fájl(ok)
+    only_specified_recipients: Csak a megadott címzettek férhetnek hozzá
+    only_specified_recipients_and_local_users: Csak a megadott címzettek és a helyi felhasználók férhetnek hozzá
+    only_specified_recipients_and_domains: Csak a megadott címzettek és tartományuk felhasználói férhetnek hozzá
+    anyone_after_authentication: Bárki hozzáférhet (akinek megvan a véletlenszerű hivatkozás)
+    no_recipient_validation: Nincs címzett-ellenőrzés
+    anyone_can_access: Bárki hozzáférhet
+    anyone: Bárki
+    no_authentication: Nincs hitelesítés
+    can_download: letölthetik
+    not_yet_scanned: víruskeresés alatt áll, próbálja újra egy kis idő múlva. A sorban %{queue}
+    was_infected: "a(z) %{virus} vírussal volt fertőzött, ezért törölve lett"
+    deleted_or_expired: Törölve vagy lejárt
+    im_done_editing: Automatikus küldés, ha az aktuális feltöltések befejeződtek
+    download_all: Az összes letöltése
+    zipped_archive: ZIP-archívum
+    message_id: Üzenetazonosító
+    overall_progress: Teljes folyamat
+    abort: Megszakítás
+    limitations: Korlátozások
+    max_size: Maximális méret
+    add_files: Fájlok hozzáadása...
+    add_folder: Mappa hozzáadása...
+    no_attachment_added: Nincs hozzáadott melléklet
+    you_need_to_add_at_least_one_file: Legalább egy fájlt hozzá kell adnia.
+    private_message_or_attached_files: Engedélyeznie kell a Privát üzenetet, vagy legalább egy fájlt csatolnia kell.
+    no_runtime_found: Nem található futtatókörnyezet, a fájlok nem küldhetők el
+    runtime_check_title: Nem található futtatókörnyezet
+    selected: kiválasztva
+    file_size_error: Fájlméret-hiba
+    remaining: hátralévő
+    attached_files: Csatolt fájlok
+    show_message: Üzenet megjelenítése
+    can_be_max: legfeljebb %{days} nappal lehet a jövőben
+    not_ready: Még nem áll készen a letöltésre
+    download_info: Letöltési adatok
+    browser: Böngésző
+    platform: Platform
+    operating_system: Operációs rendszer
+    location: Hely
+    download_details: Letöltés részletei
+    download_information_not_found: A letöltési adatok nem találhatók.
+    add: Hozzáadás
+    select_existing_files: Meglévő fájlok kiválasztása
+    add_existing_files: Meglévő fájlok hozzáadása
+    add_existing_description: Ezeket a fájlokat már elküldték, és újra elküldheti őket.
+    zip_disabled: ZIP letiltva
+    zip_disabled_description_exceeded: Legalább egy melléklet esetében túllépték a letöltések maximális számát.
+    spinner_info_html: <strong>Az üzenete készen áll a küldésre</strong>. Néhány fájl feldolgozása még folyik a háttérben, de nem kell várnia. <strong>Ha készen áll, kattintson a Küldés gombra!</strong>
+    sent_to_you: Önnek küldve
+    excluding_admins: Rendszergazdák nélkül
+    downloads: Letöltések
+    download_log: Letöltési napló
+    delete_attachments: Mellékletek törlése
+    delete_message: Üzenet törlése
+    delete_attachments_warning: Biztosan törli a mellékleteket?
+    delete_message_warning: Az üzenet törlésével a csatolt fájlok és a letöltési napló is törlődik. Biztosan törli az üzenetet?
+    invalid_message: Érvénytelen üzenet
+    message_deleted: Üzenet törölve
+    attachments_deleted: Mellékletek törölve
+    checksum: Ellenőrzőösszeg (SHA256)
+    not_permitted_to_send_messages: Nincs jogosultsága üzenetek küldéséhez.
+    invalid_group_belonging: A küldés nem engedélyezett (érvénytelen csoport). Ön külső felhasználóként szerepel, de e-mail-címe a(z) %{domain} tartományhoz tartozik, amely a korlátozott címzetti tartományok között is szerepel. Ez külső felhasználók számára nem engedélyezett. Kérje meg a rendszergazdát, hogy helyezze át egy másik csoportba.
+    expires_after_exceeded: Letöltések száma túllépve
+    expires_after_exceeded_for_zip: A ZIP-archívum legalább egy fájljának letöltési száma túllépve
+    permission_description_title: Hozzáférési korlátozások
+    permission_description_only_specified_html: <ul> <li>Csak a megadott címzettek nyithatják meg az üzenetet és tölthetik le a fájlokat.</li> <li>Az e-mail vagy az URL továbbítása senkinek sem engedélyezett.</li> <li>A címzetteknek be kell jelentkezniük az üzenet megnyitásához és a fájlok letöltéséhez.</li> <li>Minden fájl minden letöltésekor részletes letöltési visszaigazolás készül.</li> </ul>
+    permission_description_only_specified_and_local_html: <ul> <li>Csak a megadott címzettek és a helyi felhasználók tölthetik le a fájlokat.</li> <li>Az e-mail vagy az URL csak helyi felhasználóknak továbbítható.</li> <li>A címzetteknek be kell jelentkezniük a fájlok letöltéséhez.</li> <li>Minden fájl minden letöltésekor részletes letöltési visszaigazolás készül.</li> </ul>
+    permission_description_only_specified_and_domains_html: <ul> <li>Csak a megadott címzettek és az azonos e-mail-tartományba tartozó felhasználók férhetnek hozzá.</li> <li>Ha a vezeto@partner.hu címre küld, a titkarsag@partner.hu is hozzáférhet az üzenethez, de a kivancsi@versenytars.hu nem.</li> <li>A címzetteknek be kell jelentkezniük a fájlok letöltéséhez.</li> <li>Minden fájl minden letöltésekor részletes letöltési visszaigazolás készül.</li> </ul>
+    permission_description_anyone_after_authentication_html: <ul> <li>Bárki letöltheti a fájlokat, akinek megvan a titkos, véletlenszerű URL.</li> <li>Az e-mail vagy az URL bárkinek továbbítható.</li> <li>A címzetteknek be kell jelentkezniük a fájlok letöltéséhez.</li> <li>Minden fájl minden letöltésekor részletes letöltési visszaigazolás készül.</li> </ul>
+    permission_description_anyone_html: <ul> <li>Bárki letöltheti a fájlokat, akinek megvan a titkos, véletlenszerű URL.</li> <li>Az e-mail vagy az URL bárkinek továbbítható.</li> <li>A fájlok letöltéséhez <strong>nem</strong> szükséges bejelentkezés.</li> <li>Az első letöltéskor – bárki is végzi – <strong>egyszerű</strong> letöltési visszaigazolás készül (ahhoz, hogy tudjuk, ki mit töltött le, hitelesítés szükséges).</li> </ul>
+    your_message_has_been_sent: Az üzenetét elküldtük
+    you_can_send_to_anyone: "(Ezt a hivatkozást bárkinek elküldheti)"
+    send_more_files: További fájlok küldése
+    download_speed: Letöltési sebesség
+    download_time: Letöltési idő
+    at_least_one_invalid_email: Legalább egy érvénytelen e-mail-cím
+    reply: A címzett válaszolhat
+    private_message: Privát üzenet
+    private_message_description_html: Privát üzenet esetén az üzenet szövege nem kerül elküldésre e-mailben a címzettnek – csak akkor válik láthatóvá, ha a címzett az e-mailben lévő hivatkozásra kattint és hitelesíti magát. <ul> <li>Privát üzenetet melléklet nélkül is küldhet.</li> <li>Hozzáférési visszaigazolást kap, amikor valaki megtekintette az üzenetét.</li> <li>Privát üzenet nem küldhető „Bárki letöltheti” letöltési engedéllyel.</li> </ul>
+    private_message_delivered_description: Az üzenet privát üzenetként lett elküldve. Az üzenet szövege nem szerepel az e-mailben, és hozzáférési visszaigazolást kap, amikor minden címzett megtekintette az üzenetet.
+    access_info: Hozzáférési adatok
+    access_details: Hozzáférés részletei
+    validation_code: Megerősítő kód
+    expired_token_inline: Az e-mailes hitelesítés lejárt, próbálja újra.
+    invalid_token: Érvénytelen vagy lejárt kód. Kattintson az eredeti e-mailben lévő hivatkozásra, hogy újra megerősítse e-mail-címét.
+    download_zip: ZIP letöltése
+    zip_ready_for_download: A ZIP letölthető
+    processing_zip: ZIP-archívum feldolgozása
+    drop_file_here: Húzza ide a fájlt
+    drop_files_here: Húzza ide a fájlokat
+    drop_files_and_folders_here: Húzza ide a fájlokat és mappákat
+    select_pool_files: Fájlok kiválasztása a gyűjtőből
+    add_pool_files: Fájlok hozzáadása a gyűjtőből
+    invalid_validation_token: Ez nem érvényes megerősítő kód.
+    not_the_validation_token: Ez az üzenetazonosító, nem a megerősítő kód. Adja meg a megerősítő kódot.
+    no_messages_in_inbox: Nincsenek üzenetek a beérkezett üzenetek között.
+    filename_already_selected: Ehhez az üzenethez már hozzáadtak egy ilyen nevű fájlt
+    filesize_exceeded: Az üzenet maximális mérete túllépve
+    infected_with: Vírussal fertőzött
+    not_permitted_to_download_content_blocked: "A fájl letöltése nem engedélyezett. A víruskereső a következőt észlelte: %{virus}"
+    invalid_email_address: Érvénytelen e-mail-cím
+    cant_create_folder: A mappa nem hozható létre
+    cant_check_folder: A mappa nem ellenőrizhető
+    cant_restore_folder: A mappa nem állítható vissza
+    cant_check_chunks: A részek nem ellenőrizhetők
+    zip_not_include_all_files: Nem minden fájl tölthető le – a ZIP-archívum csak a letölthető fájlokat tartalmazza.
+    paste_tip: Tipp! A formázás eltávolításához a Ctrl+Shift+V billentyűkombinációval illesszen be.
+  session:
+    api:
+      authentication_error: Hitelesítési hiba, próbálja újra.
+      not_local_user: Érvénytelen e-mail-cím. Ezt a funkciót csak helyi felhasználók használhatják.
+      show:
+        login: Bejelentkezés
+        login_label: E-mail-cím
+        password: Jelszó
+        sso_login: SSO-bejelentkezés
+        authentication_title: Bejelentkezés
+        authentication_description: A folytatáshoz adja meg e-mail-címét, vagy jelentkezzen be.
+      authenticated:
+        authentication_successful: A hitelesítés sikerült
+    authenticate:
+      login: A folytatáshoz jelentkezzen be
+      description_html: Az oldal megnyitásához be kell jelentkeznie. A folytatáshoz adja meg e-mail-címét, vagy jelentkezzen be.<br>Ha nincs fiókja a rendszerben, adja meg e-mail-címét, és e-mailben ideiglenes jelszót küldünk Önnek.
+      unauthorized: Nincs jogosultsága az üzenet megtekintéséhez. Pontosan úgy adja meg e-mail-címét, ahogyan az üzenetet Önnek küldték, vagy forduljon az üzenet feladójához.
+    email:
+      validate_email: Erősítse meg e-mail-címét
+      validate_email_description_html: "Biztonsági kódot küldtünk az Ön e-mail-címére: <strong>%{email}</strong>. Kattintson a hivatkozásra, vagy adja meg itt a biztonsági kódot az e-mail-cím megerősítéséhez és a folytatáshoz."
+      session_expired: A munkamenet lejárt, a folytatáshoz adja meg újra e-mail-címét
+      token_expired: Az e-mailben lévő hitelesítési hivatkozás lejárt, próbálja újra.
+      already_authenticated: Ebben a böngészőben már be van jelentkezve.
+      resend_validation_email: Megerősítő e-mail újraküldése
+      verify: Ellenőrzés
+      validate_email_sent: "Új megerősítő e-mailt küldtünk ekkor: %{time}. Kattintson az e-mailben lévő hivatkozásra, vagy adja meg alább a biztonsági kódot az e-mail-cím megerősítéséhez."
+      invalid_temporary_user: Érvénytelen biztonsági kód. Ellenőrizze e-mailjeit – új biztonsági kódot küldtünk a beérkezett üzenetek közé.
+      create_account: Fiók létrehozása
+      create_account_description: Hozzon létre fiókot a rendszerben, hogy biztonsági kód helyett e-mail-címével és jelszavával jelentkezhessen be.
+      invalid_email: Érvénytelen e-mail-cím
+    login_limit_exceeded:
+      delivered:
+        page_header: Túllépte a bejelentkezési korlátot
+        description: Túl sokszor próbált bejelentkezni. A folytatáshoz vissza kell állítania jelszavát.
+        email: E-mailt küldtünk egy hivatkozással a jelszó visszaállításához.
+      waiting:
+        page_header: Túllépte a bejelentkezési korlátot
+        description: "Túl sokszor próbált bejelentkezni. Megjegyzés: hálózati jelszavával kell bejelentkeznie. Ha vissza kell állítania ezt a jelszót, és nem tudja, hogyan, forduljon a hálózati rendszergazdához. A várakozási idő letelte után újratöltheti ezt az oldalt a korlát visszaállításához."
+        expiration_time: Várakozási idő
+        reload: Újratöltés
+      show:
+        page_header: Túllépte a bejelentkezési korlátot
+        description: Túl sokszor próbált bejelentkezni. Visszaállíthatja a bejelentkezési korlátot, és újra bejelentkezhet. E-mailt küldtünk Önnek a korlát visszaállításához.
+      reset:
+        login_limit_reset: A bejelentkezési korlát visszaállítva
+    shared:
+      authentication_successful: A hitelesítés sikerült
+    outlook:
+      edit:
+        authentication_title: Hitelesítés
+        authentication_description: A folytatáshoz jelentkezzen be
+        login: Bejelentkezés
+        login_label: E-mail-cím
+        password: Jelszó
+        sso_login: SSO-bejelentkezés
+      show:
+        authentication_title: Hitelesítés
+        authentication_description: Biztonságos fájlok csatolásához jelentkezzen be.
+        authenticate: Hitelesítés
+    saml:
+      not_configured:
+        title: A SAML nincs konfigurálva
+        description: A SAML nincs konfigurálva ebben a rendszerben. Ha úgy gondolja, hogy ez hiba, forduljon a támogatáshoz, hogy kivizsgálhassák.
+        support_button: Kapcsolatfelvétel a támogatással
+      api:
+        local:
+          title: SAML-hitelesítés
+          description: A SAML-hitelesítés elindult az alapértelmezett böngészőben – ott folytassa a bejelentkezést. Ha nem találja az ablakot, vagy valamilyen okból nem működik, az alábbi gombra kattintva folytathatja.
+          button_label: SSO-bejelentkezés
+      response:
+        api_error:
+          authentication_error: A hitelesítés sikertelen
+          saml_authentication_error: Az SSO-hitelesítés sikertelen
+          saml_authentication_error_description: Az SSO-hitelesítés sikertelen. Ha a probléma továbbra is fennáll, forduljon a rendszergazdához.
+        api_disabled:
+          api_disabled: Nem jogosult felhasználói csoport
+          api_disabled_description: Fiókja nem férhet hozzá ehhez a funkcióhoz (API letiltva). Forduljon egy rendszergazdához, és kérje meg, hogy helyezze át fiókját egy másik csoportba.
+        api_response:
+          authentication_successful: A hitelesítés sikerült
+        create:
+          could_not_create_account: Nem sikerült létrehozni a fiókot. További információért forduljon egy rendszergazdához.
+        show:
+          could_not_create_account: Nem sikerült létrehozni a fiókot. További információért forduljon egy rendszergazdához.
+    temporary_user:
+      validate_email: Erősítse meg e-mail-címét
+      validate_email_description_html: "Ideiglenes jelszót küldtünk az Ön e-mail-címére: <strong>%{email}</strong>. Kattintson a hivatkozásra, vagy adja meg itt az ideiglenes jelszót az e-mail-cím megerősítéséhez és a folytatáshoz."
+      session_expired: A munkamenet lejárt, a folytatáshoz adja meg újra e-mail-címét
+      token_expired: Az e-mailben lévő hitelesítési hivatkozás lejárt, próbálja újra.
+      already_authenticated: Ebben a böngészőben már be van jelentkezve.
+      resend_validation_email: Megerősítő e-mail újraküldése
+      verify: Ellenőrzés
+      validate_email_sent: "Új megerősítő e-mailt küldtünk ekkor: %{time}. Kattintson az e-mailben lévő hivatkozásra, vagy adja meg alább a jelszót az e-mail-cím megerősítéséhez."
+      invalid_temporary_user: Érvénytelen jelszó. Ellenőrizze e-mailjeit – az ideiglenes jelszót újra elküldtük a beérkezett üzenetek közé.
+      temporary_user_expired: Az ideiglenes jelszó lejárt. Ellenőrizze e-mailjeit – új ideiglenes jelszót küldtünk a beérkezett üzenetek közé.
+      create_account: Fiók létrehozása
+      create_account_description: Hozzon létre állandó fiókot a rendszerben, hogy ideiglenes felhasználói fiók helyett e-mail-címével és jelszavával jelentkezhessen be.
+  shared:
+    show: Megjelenítés
+    reify: Visszaállítás
+    download: Letöltés
+    restore: Visszaállítás
+    delete: Törlés
+    trash: Lomtár
+    cancel: Mégse
+    close: Bezárás
+    current: Aktuális
+    bootstrap_confirm_dialog:
+      confirm_action: Művelet megerősítése
+    shares:
+      bootstrap_confirm_dialog:
+        confirm_action: Művelet megerősítése
+      navigation:
+        files: Fájlok
+        activity_log: Tevékenységnapló
+      wrap_content:
+        activity_log: Tevékenységnapló
+    error_messages:
+      prohibited_this_from_being_saved: megakadályozta a(z) %{target} mentését
+  share:
+    share: Share
+    shares: Share-ek
+    no_shares: Nincsenek elérhető Share-ek
+    name: Név
+    folder_name: Mappa neve
+    share_not_found: A Share nem található
+    folder_not_found: A mappa nem található
+    file_not_found: A fájl nem található
+    no_read_access: Nincs jogosultsága a Share eléréséhez
+    no_write_access: Nincs írási jogosultsága ehhez a Share-hez
+    not_authorized_to_view_logs: Nincs jogosultsága a naplók megtekintéséhez
+    require_authentication: Ehhez a Share-hez hitelesítés szükséges. A folytatáshoz adja meg a jelszót.
+    authenticate: Hitelesítés
+    authentication_failed: A hitelesítés sikertelen
+  shares:
+    folders:
+      are_you_sure_you_want_to_delete: Biztosan törli ezt a mappát?
+      are_you_sure_you_want_to_trash: Biztosan véglegesen törli ezt a mappát?
+      folder_name_already_taken: Ez a mappanév már foglalt!
+      folder_not_found: A mappa nem található
+      could_not_create_folder: "A mappát nem sikerült létrehozni: %{error}"
+      zip_no_files: Nincsenek a ZIP-archívumhoz adható fájlok
+      windows_path_warning:
+        title: Útvonalhossz-korlátozás Windows rendszerben
+        description_html: <strong>Windows-felhasználók:</strong> a Windows 259 karakterre korlátozza a fájlok elérési útját. Hosszú elérési utú helyekről történő mappafeltöltéskor a mappaszerkezet mélyén lévő fájlok figyelmeztetés nélkül kimaradhatnak, ami hiányos feltöltéseket vagy ismétlődő mappákat okozhat.
+        workarounds_title: Javasolt megoldások
+        workarounds_html: "<li><strong>Használjon virtuális meghajtót:</strong> nyissa meg a parancssort, és futtassa: <code>subst X: \"C:\\az\\on\\hosszu\\utvonala\\a\\mappahoz\"</code><br>Ezután a virtuális <code>X:\\</code> meghajtóról töltsön fel</li><li><strong>Lépjen közelebb a fájlokhoz:</strong> a feltöltendő mappa kiválasztása előtt nyisson meg egy, a fájlokhoz közelebbi almappát</li><li><strong>Használjon rövidebb útvonalat:</strong> feltöltés előtt másolja a fájlokat egy rövidebb helyre, például a <code>C:\\uploads\\</code> mappába</li><li><strong>Először tömörítse a mappát:</strong> tömörítse a mappát ZIP-fájlba, és helyette a ZIP-fájlt töltse fel</li>"
+        advanced_title: "Speciális: hosszú elérési utak engedélyezése Windows 10/11 rendszerben"
+        advanced_description_html: A Windows 10 1607-es verziójától kezdve engedélyezheti a hosszabb elérési utak támogatását. <strong>Megjegyzés:</strong> ehhez rendszergazdai jogosultság szükséges, és nem minden böngészőben működik. A fenti megoldások megbízhatóbbak.
+        registry_steps_title: A hosszú elérési utak engedélyezésének lépései
+        registry_steps_html: "<li>Nyomja meg a <kbd>Win + R</kbd> billentyűkombinációt, írja be: <code>regedit</code>, majd nyomja meg az Enter billentyűt</li><li>Lépjen ide: <code>HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\FileSystem</code></li><li>Keressen meg vagy hozzon létre egy <code>LongPathsEnabled</code> nevű DWORD értéket, és állítsa <code>1</code> értékre</li><li>Indítsa újra a számítógépet, hogy a módosítás érvénybe lépjen</li><li>Próbálja újra a feltöltést (a támogatás böngészőnként eltérő lehet)</li>"
+        browser_disclaimer_html: "<strong>Fontos:</strong> még ezzel a beállításjegyzék-beállítással is böngészőnként eltér a hosszú elérési utak támogatása. A Chrome, az Edge és a Firefox továbbra is alkalmazhatja a 259 karakteres korlátot. A fenti megoldások megbízhatóbbak."
+      folder:
+        rename_folder: Mappa átnevezése
+        move_folder_description: A(z) %{foldername} mappa áthelyezése az alább kiválasztott mappába
+        move_folder: Mappa áthelyezése
+      action_bar:
+        download_as_zip: Letöltés ZIP-ként
+        download_as_zip_with_deleted: Letöltés ZIP-ként a törölt fájlokkal együtt
+        toggle_deleted_view: Törölt fájlok megjelenítése/elrejtése
+        filter: Szűrő
+        upload_file: Fájlok feltöltése
+        upload_folder: Mappa feltöltése
+        create_folder: Mappa létrehozása
+        windows_path_warning: Figyelmeztetés az útvonalhosszra
+        upload_folder_unsupported: A mappafeltöltés nem támogatott
+        upload_folder_unsupported_description: Sajnos a böngészője nem támogatja a mappafeltöltést. Mappaszerkezet feltöltéséhez használja a Chrome vagy a Safari asztali verzióját.
+        showing_deleted: "%{number_of} törölt megjelenítve"
+        hiding_deleted: "%{number_of} törölt elrejtve"
+        actions: Műveletek
+        move_selected: Kijelöltek áthelyezése
+        trash_selected: Kijelöltek áthelyezése a lomtárba
+        delete_selected: Kijelöltek törlése
+      action_bar_below:
+        send_notifications: Értesítések küldése
+        sending_notifications: Értesítések küldése folyamatban
+        quota: Kvóta
+        used_of: felhasználva ennyiből
+        available: elérhető
+        quota_exceeded: Kvóta túllépve
+      create_folder_modal:
+        create_folder: Mappa létrehozása
+        create: Létrehozás
+      files:
+        are_you_sure_you_want_to_delete: Biztosan törli ezt a fájlt?
+        are_you_sure_you_want_to_trash: Biztosan véglegesen törli ezt a fájlt?
+        file_not_found: A fájl nem található
+        file:
+          rename_file: Fájl átnevezése
+          move_file: Áthelyezés
+          move_file_description: A(z) %{filename} fájl áthelyezése az alább kiválasztott mappába
+        show:
+          prev: Előző
+          up: Fel
+          next: Következő
+          last_updated: Utoljára frissítve
+          versions: Verziók
+          show_all: Az összes megjelenítése
+          version_from: Verzió dátuma
+          next_version: Következő verzió
+          previous_version: Előző verzió
+          current_version: Aktuális verzió
+          pdf_preview_not_supported: A böngészője nem támogatja a PDF-fájlok előnézetét
+        available_chunks:
+          available: A következő fájlok részleges feltöltései érhetők el
+          resume_replace: Folytatja a feltöltést, vagy lecseréli a fájlokat?
+      quota:
+        quota: Kvóta
+        used_of: felhasználva ennyiből
+        available: elérhető
+        quota_exceeded: Kvóta túllépve
+      move_file_folder_modal:
+        move_folder: Mappa áthelyezése
+        move_file: Fájl áthelyezése
+        move: Áthelyezés
+      show:
+        select_all: Az összes kijelölése/kijelölés megszüntetése
+    logs:
+      action_bar:
+        activity_log: Tevékenységnapló
+      message:
+        created: Létrehozva
+        uploaded: Feltöltve
+        downloaded: Letöltve
+        reified: Visszaállítva
+        removed: Eltávolítva
+        restored: Visszaállítva
+        deleted: Törölve
+        moved: Áthelyezve
+        renamed: Átnevezve
+        added: Hozzáadva
+        viewed: Megtekintve
+        infected: Fertőzött
+        trashed: Lomtárba helyezve
+        deleted_user: "(Törölt felhasználó)"
+        share: Share
+        folder: Mappa
+        file: Fájl
+        group: Csoport
+        user: Felhasználó
+        read: Olvasás
+        read/write: Olvasás/írás
+        av_scanner: Víruskereső
+        version_from: Verzió dátuma
+        file_deleted: Fájl törölve
+        to: ide
+        from: innen
+        unknown: Ismeretlen
+        other: Egyéb
+  share/log:
+    message:
+      you: Ön
+      share: Share
+      folder: mappa
+      file: fájl
+      user: felhasználó
+      version_from: verzió dátuma
+      read: olvasás
+      read/write: olvasás/írás
+      created: létrehozta
+      added: hozzáadta
+      uploaded: feltöltötte
+      downloaded: letöltötte
+      updated: frissítette
+      restored: visszaállította
+      reified: visszaállította
+      deleted: törölte
+      removed: véglegesen törölte
+      trashed: lomtárba helyezte
+      renamed: átnevezte
+      viewed: megtekintette
+      infected: fertőzött
+      av_scanner: Víruskereső
+      file_deleted: Fájl törölve
+  sms_auth:
+    login_failed: A bejelentkezés sikertelen
+    sms_error: SMS-konfigurációs hiba, forduljon a rendszergazdához
+    verify_token: SMS-kód ellenőrzése
+    verify_token_description: "Adja meg a mobiltelefonjára küldött kódot:"
+    sms_login_failed: Az SMS-es ellenőrzés sikertelen, új SMS-kódot küldtünk
+    sms_signup: Feliratkozás az SMS-es kéttényezős hitelesítésre
+    sms_signup_failed: Az SMS-es kéttényezős hitelesítés sikertelen
+    sms_signup_description: A folytatáshoz fel kell iratkoznia az SMS-es kéttényezős hitelesítésre. A folytatáshoz adja meg alább a telefonszámát.
+    verify: Ellenőrzés
+    resend: Kód újraküldése
+    code: Kód
+    token_resent: SMS-kód újraküldve ekkor - %{time}
+    send_token: Ellenőrző kód küldése
+    phone_number: Telefonszám
+    invalid_phone_number: Érvénytelen telefonszám, próbálja újra.
+    change_phone_number: Telefonszám módosítása
+    phone_number_help: Adja meg telefonszámát országkóddal és kezdő nulla nélkül (pl. 36201234567). Erre a számra ellenőrző kódot küldünk.
+    one-time-code: Egyszer használatos kód
+  strong_auth:
+    two_factor_authentication: Kéttényezős hitelesítés
+    enable_2fa: Kéttényezős hitelesítés engedélyezése
+    disable_2fa: Kéttényezős hitelesítés letiltása
+    title: Kéttényezős hitelesítés engedélyezése
+    enable_2fa_description: Fiókja biztonságának növelése érdekében engedélyezheti az erős kéttényezős hitelesítést.
+    require_description: A rendszer használatához be kell állítania a kéttényezős hitelesítést.
+    disable_description: A kéttényezős hitelesítés letiltásához adja meg az aktuális kódot
+    two_factor_auth_disabled: Kéttényezős hitelesítés letiltva
+    step1: "1. lépés: töltse le a hitelesítő alkalmazást"
+    step1_description: Engedélyezze a kéttényezős hitelesítést, általában egy mobilalkalmazással.
+    totp_apps_description_html: Hitelesítő alkalmazás például az <a href="https://authy.com" target="_blank" rel="external nofollow noopener noreferrer">Authy</a> (több platformon) és a Google Authenticator (iOS/Android). További lehetőségeket a következő oldalon talál – <a href="https://docs.liquidfiles.com/authentication/totp.html#clients" target="_blank">TOTP Clients</a>.
+    step2: "2. lépés: állítsa be a hitelesítő alkalmazást"
+    step2_description: Állítsa be a hitelesítő alkalmazást a QR-kód beolvasásával.
+    step2_alt: Vagy adja meg a következő kódot
+    step3: "3. lépés: ellenőrzés"
+    step3_description: Ellenőrizze a beállítást a hitelesítő alkalmazás által létrehozott kód megadásával.
+    failed_to_authenticate: A hitelesítés sikertelen, próbálja újra.
+    click_on_link: Másik lehetőségként a következő hivatkozásra kattintva hozzáadhatja a konfigurációt kéttényezős hitelesítő alkalmazásához
+    configure: Kéttényezős hitelesítés beállítása
+    success_saved: Sikerült, a kéttényezős hitelesítés konfigurációja mentve
+    verify_token: Kéttényezős hitelesítés ellenőrzése
+    verify_token_description: Adja meg a mobilalkalmazásban megjelenő kéttényezős hitelesítési kódot.
+    verify: Ellenőrzés
+    two_factor_login_failed: A kéttényezős hitelesítés sikertelen
+    two_factor_validation_failed: A kéttényezős hitelesítés ellenőrzése sikertelen
+    skip_2fa_for_two_weeks: Kéttényezős hitelesítés kihagyása ebben a böngészőben két hétig
+    one-time-code: Egyszer használatos kód
+  support:
+    email_subject: Segítséget kérek ebben
+    email_body: Írja le a problémát a lehető legrészletesebben. Köszönjük.
+    navbar_tooltip: Ha segítségre van szüksége a rendszer eléréséhez vagy használatához, kattintson erre a hivatkozásra, és szívesen segítünk.
+  user:
+    includes_at_least_one_invalid_email_address: legalább egy érvénytelen e-mail-címet tartalmaz
+    confirm:
+      invalid_session: Érvénytelen munkamenet
+      already_validated: Az e-mail-címe már meg van erősítve
+      invalid_token: Érvénytelen kód. Próbálja újra, vagy kattintson a Megerősítő e-mail újraküldése gombra.
+      validation_email_sent: "Megerősítő e-mail elküldve ekkor: %{time}"
+      activated_successfully: Sikeresen aktiválva
+      validate_email_description: Ellenőrizze e-mailjeit, és adja meg az ideiglenes jelszót e-mail-címe megerősítéséhez.
+    register:
+      already_registered: Ez a fiók már regisztrálva van, a folytatáshoz jelentkezzen be
+      already_registered_not_validated: A fiókja már regisztrálva van, de az e-mail-címét még meg kell erősíteni. Küldtünk Önnek egy e-mailt egy véletlenszerű kóddal. Adja meg a kódot alább, vagy kattintson az e-mailben lévő hivatkozásra a fiók megerősítéséhez.
+      show:
+        register: Fiók regisztrálása
+        description_html: <p>Fiók létrehozásához adja meg adatait. Ezzel a fiókkal nagy fájlokat küldhet biztonságosan a következő címzettnek - %{branding_name}.</p>
+    signup:
+      create:
+        need_password: Meg kell adnia egy jelszót
+        need_name: Meg kell adnia egy nevet
+    create:
+      show:
+        cancel_and_remember: Mégse, és ne kérdezze újra
+        cancel_and_remember_title: Ezt a jelenlegi böngésző megjegyzi
+  validator:
+    required: Ez a mező kötelező.
+    remote: Javítsa ki ezt a mezőt.
+    email: Adjon meg egy érvényes e-mail-címet.
+    url: Adjon meg egy érvényes URL-t.
+    date: Adjon meg egy érvényes dátumot.
+    dateISO: Adjon meg egy érvényes dátumot (ISO).
+    number: Adjon meg egy érvényes számot.
+    digits: Csak számjegyeket adjon meg.
+    creditcard: Adjon meg egy érvényes bankkártyaszámot.
+    equalTo: Adja meg újra ugyanazt az értéket.
+    accept: Adjon meg egy érvényes kiterjesztésű értéket.
+    maxlength: Legfeljebb {0} karaktert adjon meg.
+    minlength: Legalább {0} karaktert adjon meg.
+    rangelength: Adjon meg {0} és {1} karakter közötti hosszúságú értéket.
+    range: Adjon meg {0} és {1} közötti értéket.
+    max: Adjon meg {0} vagy annál kisebb értéket.
+    min: Adjon meg {0} vagy annál nagyobb értéket.
+    step: Adja meg {0} egy többszörösét.
+    invalid_phone_number: Érvénytelen telefonszám
+  locale: Magyar

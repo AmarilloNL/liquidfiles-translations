@@ -1,0 +1,1569 @@
+mt:
+  s: s
+  min: min.
+  hours: Sigħat
+  days: Jiem
+  weeks: Ġimgħat
+  months: Xhur
+  years: Snin
+  ago: ilu
+  email: Email
+  save: Issejvja
+  delete: Ħassar
+  cancel: Ikkanċella
+  remove: Neħħi
+  aborting: Qed jitwaqqaf
+  aborted: Imwaqqaf
+  saved_successfully: Ġie ssejvjat b'suċċess
+  logout: Oħroġ
+  error: Żball
+  enabled: Attivat
+  disabled: Diżattivat
+  disable: Iddiżattiva
+  default: Predefinit
+  submit: Ibgħat
+  session_expired: Is-sessjoni skadiet
+  search: Fittex
+  filter: Iffiltra
+  recipient: Riċevitur
+  recipients: Riċevituri
+  downloaded_by: Imniżżel minn
+  filename: Isem il-fajl
+  size: Daqs
+  downloaded: Imniżżel
+  host: Host
+  ip: Indirizz IP
+  action: Azzjoni
+  view_message: Ara l-messaġġ
+  view_message_popup: Ara l-messaġġ (tieqa popup)
+  download_info: Informazzjoni dwar it-tniżżil
+  message_id: ID tal-messaġġ
+  filelink_id: ID tal-FileLink
+  sent_at: Mibgħut
+  id: ID
+  subject: Suġġett
+  expires: Jiskadi
+  invalid_method: Metodu invalidu
+  export_csv: Esporta CSV
+  export_all: Esporta kollox
+  export_visible: Esporta dak li jidher
+  temporarily_unavailable: Mhux disponibbli temporanjament
+  generic_search_error: Żball ġenerali fit-tfittxija
+  sender: Mittent
+  search_temporary_disabled: It-tfittxija hija diżattivata temporanjament
+  help: Għajnuna
+  close: Agħlaq
+  count: Għadd
+  settings: Settings tal-kont
+  virus: Virus
+  virus_status: Status tal-antivirus
+  infected: Infettat
+  clean: Nadif
+  not_scanned: Mhux skennjat
+  not_yet_scanned: Għadu mhux skennjat
+  csrf_error: "CSRF: instabu parametri invalidi. Erġa' idħol biex tkompli."
+  could_not_be_saved: Ma setax jiġi ssejvjat
+  label: Tikketta
+  updated: Aġġornat
+  add: Żid
+  system_info: Informazzjoni tas-sistema
+  location: Post
+  accept: Aċċetta
+  last_7_days: L-aħħar 7 ijiem
+  last_30_days: L-aħħar 30 jum
+  last_60_days: L-aħħar 60 jum
+  last_90_days: L-aħħar 90 jum
+  last_180_days: L-aħħar 180 jum
+  last_365_days: L-aħħar 365 jum
+  file: Fajl
+  files: Fajls
+  next: Li jmiss
+  previous: Ta' qabel
+  name: Isem
+  view: Ara
+  forget: Insa
+  update: Aġġorna
+  updated_at: Aġġornat fi
+  created_at: Maħluq fi
+  download_link_expired: Il-link tat-tniżżil skada.
+  no_html5_upload_warning: Biex ittella' fajls, għandek bżonn browser modern kompatibbli mal-HTML5. Microsoft Edge, Chrome, Firefox u Safari kollha jaħdmu perfettament.
+  javascript_warning: Il-JavaScript huwa meħtieġ biex ittella' fajls u biex tuża l-biċċa l-kbira tal-funzjonijiet.
+  cookie_accept: Dan is-sit juża l-cookies. Billi tidħol jew tikklikkja “Aċċetta”, taqbel mal-użu tal-cookies.
+  i_agree: Naqbel
+  session_timeout: Is-sessjoni skadiet, erġa' idħol
+  loading: Qed jitgħabba...
+  unsupported_browser_header: Browser mhux appoġġat
+  unsupported_browser_description_html: Il-browser tiegħek mhux appoġġat u s-sit x'aktarx ma jaħdimx kif mistenni. Uża browser aktar ġdid.
+  not_logged_in_invalid_parameters: M'intix illoggjat, parametri invalidi
+  toggle_dropdown: Uri/aħbi l-menu
+  rejected: Miċħud
+  undetected: Mhux skopert
+  invalid_link: Link invalidu, ikkuntattja lill-mittent
+  account_settings_tooltip: Settings tal-kont
+  logout_tooltip: Oħroġ
+  download_id: ID tat-tniżżil
+  remote_host: Host remot
+  show: Uri
+  hide: Aħbi
+  password: Password
+  download: Niżżel
+  unauthorized: Mhux awtorizzat
+  account:
+    login: Idħol
+    login_label: Indirizz tal-email
+    email: Indirizz tal-email
+    password: Password
+    current_password: Password attwali
+    please_enter_your_current_password: Daħħal il-password attwali tiegħek
+    sign_in: Idħol
+    remember_me: Ftakar fija
+    not_administrator: M'intix amministratur
+    password_reset: Irrisettja l-password
+    register: Irreġistra
+    register_description_html: Grazzi! Biex tkompli, daħħal id-dettalji tiegħek u oħloq kont.<br>Id-darba li jmiss tista' tidħol bl-indirizz tal-email u l-password tiegħek.
+    account_not_activated: Il-kont mhux attivat. Attivah qabel ma tidħol. Bgħatnielek email b'kodiċi każwali. Daħħal il-kodiċi hawn taħt jew ikklikkja l-link fl-email biex tikkonferma l-kont tiegħek.
+    incorrect_user_or_pw: Isem tal-utent jew password ħżiena
+    confirmation_email_sent: L-email ta' konferma ntbagħtet
+    activated_successfully: Ġie attivat b'suċċess
+    not_activated: Il-kont mhux attivat
+    password_reset_email_sent: L-email għar-risettjar tal-password intbagħtet
+    no_such_user: Dan l-utent ma jeżistix
+    no_such_email: L-indirizz tal-email ma nstabx
+    not_logged_in: M'intix illoggjat. Idħol biex tkompli.
+    saved_successfully: Ġie ssejvjat b'suċċess
+    unlicensed_install_some_settings: "Installazzjoni mingħajr liċenzja: l-għażliet tal-branding jidhru biss lill-amministraturi tas-sistema"
+    incorrect_login_or_demo: Isem tal-utent jew password ħżiena, jew intlaħaq il-limitu tal-liċenzja
+    incorrect_login_or_ldap: Isem tal-utent jew password ħżiena, jew żball fis-server LDAP
+    invalid_api_key: Ċavetta API invalida
+    cant_delete_last_sysadmin: L-aħħar amministratur tas-sistema ma jistax jitħassar
+    cant_change_last_sysadmin: L-aħħar amministratur tas-sistema ma jistax jinbidel
+    sso_login: Dħul SSO
+    invalid_sso_response: Tweġiba SSO invalida
+    automatic: Skoperta awtomatika
+    network_access_blocked: L-aċċess għal din is-sistema min-netwerk tiegħek mhuwiex permess.
+    please_login: Idħol biex tiftaħ din il-paġna.
+    email_validation_session_timeout: Is-sessjoni skadiet, erġa' kkonferma l-indirizz tal-email tiegħek.
+    signature: Firma
+    not_authorized_for_action: M'intix awtorizzat għal din l-azzjoni
+    invalid_group: Grupp invalidu. Ikkuntattja amministratur li jista' jittrasferixxi l-kont tiegħek għal grupp ta' utenti lokali
+    invalid_group_configuration: Konfigurazzjoni invalida tal-grupp. Ikkuntattja amministratur li jista' joħloqlok kont jew jaġġusta l-konfigurazzjoni tal-grupp.
+    please_enter_email_to_email_password: Daħħal l-indirizz tal-email tiegħek biex tirrisettja l-password. Se tintbagħat email ta' konferma f'dan l-indirizz.
+    password_reset_successfully: Il-password ġiet irrisettjata b'suċċess
+    password_cant_be_empty: Il-password ma tistax tkun vojta
+    password_complexity_title: Kumplessità tal-password
+    password_complexity_description_html: "<p>Il-password tiegħek <strong>ma tistax tkun ibbażata fuq kelma tad-dizzjunarju</strong> u trid tissodisfa mill-inqas 3 mir-rekwiżiti li ġejjin:</p><ul><li>Mill-inqas 8 karattri</li><li>Mill-inqas 11-il karattru</li><li>Mill-inqas 15-il karattru</li><li>Mill-inqas ittra żgħira waħda u ittra kbira waħda</li><li>Mill-inqas ċifra waħda (0-9)</li><li>Mill-inqas wieħed minn dawn il-karattri: !,@,#,$,%,^,&amp;,*,?,_,~,-,(,)</li></ul>"
+    is_not_strong_enough: mhijiex b'saħħitha biżżejjed
+    your_password_has_expired: Il-password tiegħek skadiet
+    please_select_a_different_password: Agħżel password differenti minn ta' qabel
+    change_password: Ibdel il-password
+    account_not_found: Il-kont ma nstabx. Erġa' idħol.
+    user_required_to_use_saml: Il-password ma tistax tiġi rrisettjata, idħol permezz ta' SAML
+    sysadmin_ldap_error: Dan il-kont huwa kkontrollat permezz ta' LDAP u ma jistax jiġi rrisettjat minn hawn
+    login_limit_exceeded: Inqabeż il-limitu tad-dħul
+    a_confirmation_email_will_be_sent: Se tintbagħat email ta' konferma f'dan l-indirizz
+    name: Isem
+    password_confirm: Ikkonferma l-password
+    save: Issejvja
+    can_not_reset_password_please_check_with_your_administrator: Il-password ma tistax tiġi rrisettjata, ikkuntattja lill-amministratur tiegħek
+    no_need_to_register_user: M'hemmx bżonn tirreġistra. Idħol bil-kont eżistenti tiegħek.
+    registration_not_allowed: Ir-reġistrazzjoni mhijiex permessa
+    create_description: Oħloq il-kont tiegħek billi ddaħħal ismek u password.
+    activated_successfully_please_login: Il-kont ġie attivat b'suċċess. Issa tista' tidħol bl-indirizz tal-email u l-password tiegħek.
+    invalid_activation_url: Link tal-attivazzjoni invalidu. Iċċekkja l-link u erġa' pprova.
+    already_logged_in: Diġà dħalt. Ma tistax tirreġistra kont ġdid.
+    bruteforce_message: Qbiżt in-numru ta' tentattivi falluti. Erġa' pprova fi żmien %{minutes} minuti.
+    admin_access_blocked: L-aċċess tal-amministratur mill-indirizz IP tiegħek mhuwiex permess.
+    account_created_successfully: Il-kont inħoloq b'suċċess
+    create_account: Oħloq kont
+    create_account_description: Aġġorna d-dettalji tiegħek biex toħloq il-kont tiegħek.
+    account_settings: Settings tal-kont
+    change_language: Ibdel il-lingwa u ż-żona tal-ħin
+    filedrop_label: Filedrop (każwali)
+    filedrop_email_label: Filedrop
+    verify_account: Ivverifika l-kont
+    invalid_sso_signature: Firma jew dħul SSO invalidu
+    user_not_found: L-utent ma nstabx
+    could_not_create_account: Il-kont ma setax jinħoloq
+    two_factor_authentication_failed: L-awtentikazzjoni b'żewġ fatturi Duo falliet
+    copy_to_clipboard: Ikkopja fil-clipboard
+    copy_url_to_clipboard: Ikkopja l-URL fil-clipboard
+    delete_user_warning: Żgur li trid tħassar dan l-utent?
+    unauthorized_to_login: M'intix awtorizzat tidħol
+    first_time_message_title: Merħba fil-LiquidFiles
+    first_time_message: <p>Merħba fil-LiquidFiles, l-eħfef mod biex tibgħat fajls kbar b'mod sigur.</p><p>Il-funzjonijiet bażiċi jaħdmu eżatt bħal sistema ta' webmail.</p><p>Dan il-messaġġ se jidher darba biss. Jekk teħel jew trid tiskopri funzjonijiet aktar avvanzati, ikklikkja l-buttuna “Għajnuna” fuq il-lemin fil-bar tal-menu.</p>
+    first_time_message_button: Fhimt!
+    registration_failed_unknown_error: Ir-reġistrazzjoni falliet minħabba żball mhux magħruf
+    session_timeout: Is-sessjoni skadiet
+    nothing_filled_in: Imla l-formola
+    last_used: L-aħħar użu
+    strong_auth_required_before_password_reset: Awtentikazzjoni b'saħħitha b'żewġ fatturi hija meħtieġa qabel ma l-password ta' dan il-kont tkun tista' tiġi rrisettjata.
+    unfriendly_registration_message: Jekk tista' tirreġistra fis-sistema b'dan l-indirizz tal-email, se tirċievi email. Jekk ma tirċevihiex, uża l-link tal-appoġġ hawn fuq.
+    unfriendly_password_reset_message: Jekk il-kont b'dan l-indirizz tal-email jista' jiġi rrisettjat, se tirċievi email. Jekk ma tirċevihiex, uża l-link tal-appoġġ hawn fuq.
+    aliases:
+      aliases: Psewdonimi
+      aliases_description: Tista' żżid psewdonimi tal-mittent u tar-riċevitur mal-kont tiegħek. Psewdonimu tal-mittent jippermettilek tibgħat messaġġi f'isem dak l-indirizz tal-email. Psewdonimu tar-riċevitur jippermettilek tara l-messaġġi għal dak l-indirizz. Messaġġi lil psewdonimu tar-riċevitur jidhru wkoll fl-inbox tal-messaġġi siguri tiegħek.
+      aliases_no_change_description: Psewdonimu tal-mittent jippermettilek tibgħat messaġġi f'isem dak l-indirizz tal-email. Psewdonimu tar-riċevitur jippermettilek tara l-messaġġi għal dak l-indirizz. Messaġġi lil psewdonimu tar-riċevitur jidhru wkoll fl-inbox tal-messaġġi siguri tiegħek. Ikkuntattja amministratur biex iżżid jew tibdel psewdonimi.
+      recipient_aliases: Psewdonimi tar-riċevitur
+      sender_aliases: Psewdonimi tal-mittent
+      add_alias: Żid psewdonimu
+      remove: Neħħi
+      default_sender_alias: Psewdonimu predefinit tal-mittent
+      default_sender_alias_description: Il-psewdonimu predefinit tal-mittent.
+      are_you_sure: Żgur li trid tneħħi dan il-psewdonimu?
+      no_emails: Ma ġie miżjud l-ebda psewdonimu.
+      please_contact_an_administrator: Ikkuntattja amministratur biex timmaniġġjahom
+      auto_added_aliases: Psewdonimi miżjuda awtomatikament
+      auto_added_aliases_description: Il-psewdonimi li ġejjin ġew miżjuda awtomatikament mal-profil tiegħek. Ikkuntattja amministratur biex timmaniġġjahom.
+    alias:
+      confirm:
+        show:
+          title: Grazzi tal-konferma
+          alias_email: Indirizz tal-email tal-psewdonimu
+          user: Utent
+          recipient_and_sender_confirmation: L-utent hawn fuq issa jista' jara l-messaġġi siguri għal dan l-indirizz tal-email u jibgħat messaġġi siguri f'ismu. Jekk dan huwa żball, ikklikkja l-link tal-appoġġ hawn fuq.
+          only_recipient_confirmation: L-utent hawn fuq issa jista' jara l-messaġġi siguri għal dan l-indirizz tal-email. Jekk dan huwa żball, ikklikkja l-link tal-appoġġ hawn fuq.
+          only_sender_confirmation: L-utent hawn fuq issa jista' jibgħat messaġġi siguri f'isem dan l-indirizz tal-email. Jekk dan huwa żball, ikklikkja l-link tal-appoġġ hawn fuq.
+    add_alias_modal:
+      title: Żid psewdonimu
+      description: Daħħal l-indirizz tal-email li trid aċċess għalih bħala psewdonimu tar-riċevitur jew tal-mittent. Se tintbagħat email ta' konferma f'dan l-indirizz.
+      recipient_alias: Psewdonimu tar-riċevitur - nixtieq naqra l-messaġġi mibgħuta lil dan l-indirizz tal-email.
+      sender_alias: Psewdonimu tal-mittent - nixtieq nibgħat messaġġi f'isem dan l-indirizz tal-email.
+      invalid_email: Indirizz tal-email invalidu
+      add_permission: Agħżel psewdonimu tar-riċevitur, psewdonimu tal-mittent, jew it-tnejn.
+      send_request: Ibgħat it-talba
+      request_has_been_sent: It-talba tiegħek intbagħtet.
+    api:
+      api_key: Ċavetta API
+      api_key_description: Iċ-ċavetta API tintuża minn plugins bħall-plugin tal-Outlook u tista' tintuża għal integrazzjonijiet personalizzati. Għandek bżonnha biss jekk amministratur jitlobhielek.
+      api_key_reset_warning: Żgur? Jekk tirrisettja ċ-ċavetta API, ikollok tissostitwixxi ċ-ċavetta l-qadima kullimkien fejn użajtha.
+      reset_api_key: Irrisettja ċ-ċavetta API
+    contacts:
+      contacts: Kuntatti
+      contacts_description: Tista' żżid kemm trid kuntatti. Kull kuntatt jista' jkollu bosta indirizzi tal-email, biex tkun tista' tibgħat malajr u faċilment lil bosta riċevituri f'daqqa.
+      add_contact: Żid kuntatt
+      email_field_help: Lista ta' indirizzi tal-email separati b'virgola.
+      contact:
+        edit_label: Editja t-tikketta
+        edit_email: Editja l-indirizz tal-email
+        are_you_sure: Żgur li trid tħassar dan il-kuntatt?
+    filedrops:
+      filedrops: Filedrop
+      filedrops_description: Int ir-riċevitur ewlieni jew riċevitur f'kopja ta' dawn il-Filedrop. Kull fajl mibgħut permezz ta' kwalunkwe wieħed minnhom se jitwassal lilek.
+      name: Isem
+      title: Titlu
+      recipient: Riċevitur
+      expires_after: Jiskadi wara
+      max_size: Daqs massimu tal-fajl
+      url: URL
+      main_recipient: Riċevitur ewlieni
+      cc: Cc
+    personal_filedrop:
+      personal_filedrop: Filedrop personali
+      personal_filedrop_description: Il-Filedrop personali huwa mod sempliċi biex tirċievi fajls. Tista' tibgħat il-link, tippubblikah fuq sit web jew iżżidu mal-firma tal-email tiegħek. Tirċievi notifika hekk kif xi ħadd jibagħtlek xi ħaġa permezz tal-Filedrop personali tiegħek.
+    previous_recipients:
+      previous_recipients: Riċevituri preċedenti
+      previous_recipients_description: Meta tibgħat messaġġ sigur, kull riċevitur jiżdied ma' din il-lista ta' riċevituri preċedenti. B'hekk tista' terġa' tibgħat malajr lill-istess riċevituri. Riċevituri li ma bgħattilhom xejn għal 180 jum jitneħħew awtomatikament mil-lista.
+      are_you_sure: Żgur li trid tħassar dan ir-riċevitur preċedenti?
+    pw_dictionary:
+      based_on_a_dictionary_word: hija bbażata fuq kelma tad-dizzjunarju
+      based_upon_your_password_entry: hija bbażata fuq il-password li daħħalt
+      derived_from_your_password_entry: hija derivata mill-password li daħħalt
+      derivable_from_your_password_entry: tista' tiġi derivata mill-password li daħħalt
+      way_too_short: hija WISQ qasira
+      too_short: hija qasira wisq
+      it_does_not_contain_enough_different_characters: ma fihiex biżżejjed karattri DIFFERENTI
+      all_whitespace: fiha spazji biss
+      too_simplistic_systematic: hija sempliċi/sistematika wisq
+      it_looks_like_a_national_insurance_number: tixbah numru tas-sigurtà soċjali
+      based_on_a_reversed_dictionary_word: hija bbażata fuq kelma tad-dizzjunarju (bil-maqlub)
+    show:
+      basic_settings: Settings bażiċi
+      change_password: Ibdel il-password
+      strong_auth: Awtentikazzjoni b'żewġ fatturi
+      aliases: Psewdonimi
+      previous_recipients: Riċevituri preċedenti
+      contacts: Kuntatti
+      personal_filedrop: Filedrop personali
+      api: API
+      filedrops: Filedrop
+    sms_disable:
+      disable_sms_otp: Iddiżattiva l-awtentikazzjoni b'żewġ fatturi permezz ta' SMS
+      disable_sms_otp_description: Jekk trid tiddiżattiva l-awtentikazzjoni b'żewġ fatturi permezz ta' SMS, ikklikkja l-buttuna hawn taħt. Se jintbagħat kodiċi SMS biex tikkonferma t-talba.
+      verify_token_description: "Biex tiddiżattiva l-awtentikazzjoni b'żewġ fatturi permezz ta' SMS, daħħal il-kodiċi mibgħut fuq il-mobile tiegħek:"
+      code: Kodiċi
+      sms_token_failed: Kodiċi SMS invalidu, l-awtentikazzjoni b'żewġ fatturi permezz ta' SMS ma setgħetx tiġi diżattivata
+      sms_otp_has_been_disabled: L-awtentikazzjoni b'żewġ fatturi permezz ta' SMS ġiet diżattivata
+    sms_signup:
+      sms_signup_description: Tista' ttejjeb is-sigurtà tal-kont tiegħek billi tattiva l-awtentikazzjoni b'żewġ fatturi. Daħħal in-numru tat-telefon tiegħek hawn taħt biex tattivaha.
+      phone_number: Numru tat-telefon
+    sms_enable:
+      signup_complete: L-awtentikazzjoni b'żewġ fatturi permezz ta' SMS ġiet attivata
+    terms_of_service:
+      show:
+        title: Termini tas-servizz
+        accept_terms_of_service: Aċċetta t-termini tas-servizz
+        do_not_accept: Ma naċċettax
+      create:
+        you_need_to_accept: Trid taċċetta t-termini tas-servizz!
+  activerecord:
+    attributes:
+      attachment:
+        filename: Isem il-fajl
+        size: Daqs
+        secure_id: ID tal-anness
+        content_type: Tip ta' kontenut
+        created_at: Maħluq fi
+        updated_at: Aġġornat fi
+      download:
+        recipient: Riċevitur
+        downloaded_at: Imniżżel fi
+        remote_ip: IP remot
+        remote_host: Host remot
+        created_at: Maħluq fi
+        updated_at: Aġġornat fi
+      filedrop:
+        name: Isem
+        title: Titlu
+        description: Deskrizzjoni
+        blocked_extensions: Estensjonijiet imblukkati
+        permitted_extensions: Tipi ta' fajls permessi
+        expires_after: Jiskadi wara
+        max_filesize: Daqs massimu tal-fajl
+        created_at: Maħluq fi
+        updated_at: Aġġornat fi
+        api_key: Ċavetta API
+        cc: Cc
+        authorization: Awtorizzazzjoni
+      message:
+        recipients: Riċevituri
+        sender: Mittent
+        cc: Cc
+        bcc: Bcc
+        message: Messaġġ
+        subject: Suġġett
+        deleted: Imħassar
+        authorization: Awtorizzazzjoni
+        created_at: Maħluq fi
+        updated_at: Aġġornat fi
+        expires_at: Jiskadi fi
+      share/log:
+        created_at: Data
+      share/file:
+        checksum: Checksum (SHA256)
+      share/file/version:
+        whodunnit: Mibdul minn
+        created_at: Mibdul fi
+      user:
+        name: Isem
+        email: Indirizz tal-email
+        quota: Kwota
+        used: Użat
+        max: Mass.
+        password: Password
+        ldap_authentication: Awtentikazzjoni LDAP
+        api_key: Ċavetta API
+        level: Livell
+        filedrop: Filedrop
+    models:
+      configuration: Konfigurazzjoni
+      attachment: Anness
+      filedrop: Filedrop
+      message: Messaġġ
+      user: Utent
+      download: Tniżżil
+  admin:
+    groups:
+      form:
+        bcc_myself: Ibgħat kopja lili nnifsi
+        can_change_bcc_myself: L-utenti ta' dan il-grupp jistgħu jibdlu s-setting “Ibgħat kopja lili nnifsi”
+      index:
+        default_group_assignment: Assenjazzjoni predefinita tal-grupp
+    users:
+      users:
+        email: Indirizz tal-email
+        name: Isem
+        group: Grupp
+        max: Daqs massimu tal-fajl
+        quota: Kwota
+        strong_auth: Awtentikazzjoni b'saħħitha
+        filedrop: Filedrop
+        last_login_at: L-aħħar dħul
+        last_login_ip: IP tal-aħħar dħul
+        created: Maħluq
+      form:
+        name_label: Isem
+        email: Indirizz tal-email
+        password: Password
+        password_confirmation: Ikkonferma l-password
+        max_label: Daqs massimu tal-fajl
+        group: Grupp
+        strong_auth: Awtentikazzjoni b'saħħitha
+        strong_auth_username: Isem tal-utent għall-awtentikazzjoni b'saħħitha
+        api_key: Ċavetta API
+        filedrop: Filedrop
+  attachments:
+    not_found: L-anness ma nstabx
+  config:
+    settings: Settings
+    email: Email
+    language_preferences_from_your_browser: Preferenzi tal-lingwa tal-browser
+    authentication: Awtentikazzjoni
+    time_zone: Żona tal-ħin
+    current_time_zone: Żona tal-ħin attwali
+    time_zone_from_browser: Żona tal-ħin skoperta mill-browser
+    time_zone_config_description: Jekk tħalli ż-żona tal-ħin fuq “Skoperta awtomatika”, tintuża ż-żona tal-ħin li jiskopri l-browser tiegħek (il-ħinijiet kollha jintwerew f'dik iż-żona). Jekk il-browser ma jistax jiskopri ż-żona tal-ħin, tintuża ż-żona tal-ħin predefinita tas-sistema. Jekk il-browser ma jiskoprix iż-żona tal-ħin it-tajba jew trid tara l-ħinijiet f'żona oħra, tista' tissettja żona tal-ħin speċifika.
+    time_zone_default: Żona tal-ħin predefinita tas-sistema
+    email_settings: Settings tal-email
+    configuration: Konfigurazzjoni
+    local_domains: Dominju lokali
+    ldap_users: Utenti awtentikati permezz ta' LDAP
+    ldap_users_are_always_local: L-utenti awtentikati permezz ta' LDAP huma dejjem lokali
+    separated_by_comma: separati b'virgola
+    default_max_file_size: Daqs massimu predefinit tal-fajl
+    local_users: Utenti lokali
+    external_users: Utenti esterni
+    allow_registration: Ippermetti r-reġistrazzjoni
+    allow_registration_desc: Ippermetti r-reġistrazzjoni mill-paġna tad-dħul
+    external_user_account: Riċevituri esterni
+    external_user_account_desc: Ir-riċevituri esterni jridu joħolqu kont
+    allow_users_to_change_expiration: L-utenti jistgħu jibdlu l-iskadenza tal-fajls
+    authorization: Permess
+    authorization_description: Setting predefinit dwar min jista' jniżżel il-fajls.
+    file_expiration: Skadenza
+    default_expire_files_after: Il-fajls jiskadu b'mod predefinit wara
+    delete_downloaded_files_after: Ħassar il-fajls imniżżla wara
+    branding: Branding
+    company_name: Isem il-kumpanija
+    custom_stylesheet: Stylesheet personalizzat
+    custom_javascript: JavaScript personalizzat
+    logotype: Logo
+    leave_blank_for_default: ħallih vojt għall-valur predefinit
+    email_configuration: Konfigurazzjoni tal-email
+    email_sender_address: Indirizz tal-mittent
+    email_host: URL bażi tal-emails
+    email_footer: Footer tal-email
+    email_relay_host: Server tar-relay tal-email
+    email_relay_username: Isem tal-utent tar-relay tal-email
+    email_relay_password: Password tar-relay tal-email
+    port: Port
+    unlicensed_install_some_settings: "Installazzjoni mingħajr liċenzja: is-settings tal-branding jidhru biss lill-amministraturi tas-sistema"
+    mail_relay_example: "Eż.: mailrelay.dominju.com.mt, mx.dominju.com.mt:587"
+    ldap: LDAP
+    please_see_the: ara
+    for_more_information: għal aktar informazzjoni
+    virus_scan: Skennjar għall-viruses
+    virus_scan_description: Skennja l-fajls għall-viruses
+    blocked_file_extensions: Estensjonijiet tal-fajls imblukkati
+    default_bcc_myself_label: Ibgħat kopja lili nnifsi
+    default_bcc_myself: Ibgħat kopja lili nnifsi b'mod predefinit
+    allow_users_to_change_require_login_label: Eħtieġ awtentikazzjoni
+    allow_users_to_change_require_login: L-utenti jistgħu jibdlu “Eħtieġ awtentikazzjoni”
+    permitted_file_extensions_label: Estensjonijiet tal-fajls permessi
+    delete: Ħassar
+    ldap_description: "Attiva l-awtentikazzjoni tal-utenti permezz ta' LDAP u ssettja xi parametri bażiċi għall-konnessjoni mas-server LDAP. Jekk ma jiġix issettjat port, jintuża l-port LDAP predefinit 389 (jew il-port 636 jekk l-SSL huwa attivat). Nota: il-port 3268 MA jintużax għall-awtentikazzjoni f'Active Directory, iżda biss għat-tfittxijiet fil-katalgu globali. Uża minflok il-port 389/636."
+    ldap_authentication: Awtentikazzjoni LDAP
+    basic_settings: Settings bażiċi
+    server: Isem tas-server / indirizz IP
+    username: Isem tal-utent
+    password: Password
+    authentication_description: Dan l-utent jintuża għall-konnessjoni mas-server LDAP (ħallih vojt għal konnessjoni anonima). L-utent għandu bżonn drittijiet ta' tfittxija fis-siġra LDAP.
+    search_key: Ċavetta tat-tfittxija
+    search_key_description: Iċ-ċavetta tat-tfittxija u d-dominju jintużaw biex jinstabu l-utenti fis-siġra LDAP. It-tabella hawn taħt turi kif iċ-ċavetta tat-tfittxija u d-dominju jaħdmu flimkien biex jinstab utent.
+    search_key_description2: Għalhekk, jekk iċ-ċavetta tat-tfittxija LDAP fiha l-indirizz tal-email, id-dominju għandu jitħalla vojt. Jekk iċ-ċavetta tat-tfittxija LDAP fiha biss l-isem tal-utent, id-dominju għandu jkun fih id-dominju tal-utenti.
+    search_key_defaults: "Għal Active Directory, punt tajjeb ta' bidu huwa: sAMAccountName bħala ċavetta tat-tfittxija LDAP u kumpanija.com.mt (id-dominju tiegħek) bħala dominju."
+    user_enters: L-utent idaħħal
+    authorized_ldap_groups: Gruppi LDAP awtorizzati
+    available_groups: Gruppi disponibbli
+    default_settings: Settings predefiniti
+    setting: Setting
+    value: Valur
+    description: Deskrizzjoni
+    default_local_max_description: Dan huwa d-daqs massimu predefinit tal-fajl għal utenti lokali ġodda. Jista' jinbidel għal kull utent individwalment.
+    user_changeable: Jista' jinbidel mill-utent?
+    non_local: Mhux lokali
+    remote: Remot
+    new_external_recipient_is_nonlocal: Riċevituri esterni ġodda huma
+    email_message_on_top_label: Messaġġ fuq nett
+    email_message_on_top: Il-messaġġ jintwera fuq il-lista tal-fajls fl-email lir-riċevituri
+    use_either_permitted_or_blocked_extensions: Trid tagħżel jew estensjonijiet permessi jew estensjonijiet imblukkati, mhux it-tnejn
+    invalid_password: Password invalida
+    valid_password: Password valida
+    test_password_validation: Ittestja l-validazzjoni tal-password
+    custom_password_validation: Validazzjoni personalizzata tal-password
+    custom_password_validation_description: "Din l-espressjoni regolari tintuża għall-validazzjoni personalizzata tal-passwords. Ittajpja biss l-espressjoni regolari, mingħajr delimitaturi (tibdiex u ttemmx bil-'/'). Eżempju: [a-zA-Z0-9]{7,} (il-passwords ikunu jistgħu jkun fihom biss a-z, A-Z u 0-9, mill-inqas 7 karattri)"
+    filedrop: Filedrop
+    receive: Irċievi
+    api_settings: Settings tal-API
+    enable_api_label: Attiva l-API
+    enable_api_description: Attiva l-API għall-aċċess permezz ta' plugins u scripts
+    enable_api_group_config: Aktar settings tal-API huma disponibbli fil-konfigurazzjoni tal-gruppi.
+    api_client_size_override_label: Limitu tad-daqs għall-klijenti API
+    api_client_size_override_description: Il-klijenti API se jibagħtu permezz tal-appliance il-fajls li jaqbżu dan id-daqs
+    sso_secret_key: Ċavetta sigrieta SSO
+    generate_key: Iġġenera ċavetta ġdida
+    sso_replace_confirm: Żgur? Jekk tissostitwixxi ċ-ċavetta sigrieta SSO, l-integrazzjonijiet SSO eżistenti jieqfu jaħdmu.
+    virus_scan_skip_locals: Aqbeż l-iskennjar għall-viruses għall-utenti lokali
+    virus_scan_skip_locals_description: Tiskennjax għall-viruses il-fajls tal-utenti lokali
+    virus_scan_permit_unscanned: Ippermetti fajls mhux skennjati
+    virus_scan_permit_unscanned_description: Ippermetti t-tniżżil ta' fajls li għadhom mhux skennjati għall-viruses
+    userdrop: Filedrop tal-utent
+    user_filedrop_with_random_key: Filedrop tal-utenti b'ċavetta każwali
+    enable_userdrop: Attiva l-Filedrop tal-utenti
+    example: Eżempju
+    user_filedrop_with_email: Filedrop tal-utenti b'indirizzi tal-email
+    enable_userdrop_email: Attiva l-Filedrop tal-utenti b'indirizz tal-email
+    userdop_email_data_leakage: Dan jista' jintuża biex jinstabu indirizzi tal-email lokali, billi jiġu ttestjati indirizzi fl-URL tal-Filedrop u jiġi ċċekkjat liema jagħtu tweġiba valida.
+    userdrop_files_expire_after: Il-fajls iddepożitati jiskadu wara
+    userdrop_max_filesize: Daqs massimu tal-fajl għall-Filedrop tal-utent
+    bruteforce_label: Protezzjoni kontra attakki brute-force
+    bruteforce_description_1: Imblokka l-indirizz IP għal
+    bruteforce_description_2: minuti wara
+    bruteforce_description_3: dħul/reġistrazzjonijiet falluti fi żmien
+    bruteforce_description_4: minuti
+    bruteforce_whitelist_label: Lista ta' permess għall-protezzjoni kontra attakki brute-force
+    allowed_admin_networks_label: Netwerks tal-amministrazzjoni
+    allowed_admin_networks_description: Illimita l-aċċess tal-amministratur għal dawn il-hosts u n-netwerks. Il-localhost (127.0.0.1, ::1) huwa dejjem permess
+    enable_strong_authentication: Attiva l-awtentikazzjoni b'saħħitha b'mod predefinit għal dawn it-tipi ta' utenti
+    authenticated_username: Isem tal-utent awtentikat
+    duo_hostname: Isem tal-host Duo
+    duo_client_id: Ċavetta tal-integrazzjoni Duo
+    duo_client_secret: Ċavetta sigrieta Duo
+    strong_authentication_test: Test tal-awtentikazzjoni b'saħħitha
+    stronger_password: Agħżel password aktar b'saħħitha.
+    cannot_begin_or_end_with_blank: Il-password ma tistax tibda jew tispiċċa bi spazju.
+    at_least_one_invalid_domain: Mill-inqas dominju invalidu wieħed
+    at_least_one_invalid_email: Mill-inqas indirizz tal-email invalidu wieħed
+    email_security_level: Livell ta' sigurtà tal-kunsinna tal-email
+    geoip: Tfittxija GeoIP
+    geoip_description: Jiġbor data tal-ġeolokalizzazzjoni minn https://geoip.liquidfiles.com u juri mapep.
+    tooltip:
+      local_domains: Utent lokali jista' jibgħat fajls lil kulħadd. Utent mhux lokali jista' jibgħat fajls biss lil utenti lokali. L-ewwel darba li utent jidħol jew meta jinħoloq il-kont, id-dominju tal-indirizz tal-email jitqabbel ma' dawn id-dominji biex jiġi determinat jekk l-utent huwiex meqjus lokali.
+      ldap_users_are_always_local: Kull utent awtentikat permezz ta' LDAP jitqies awtomatikament bħala lokali, irrispettivament mid-dominju.
+      allow_registration: Jippermetti r-reġistrazzjoni mill-paġna tad-dħul. Abbażi tal-lista tad-dominji lokali jiġi determinat jekk utent ġdid huwiex lokali jew mhux lokali.
+      local_user_maxfile: Meta utent lokali jirreġistra jew jiġi awtentikat għall-ewwel darba permezz ta' awtentikazzjoni remota, jiġi assenjat dan id-daqs massimu tal-fajl.
+      nonlocal_user_maxfile: Meta utent mhux lokali jirreġistra, jiġi assenjat dan id-daqs massimu tal-fajl.
+      delete_downloaded_files_after: Fajl imniżżel jinżamm għal dan il-perjodu. Għandu jkun twil biżżejjed biex ir-riċevitur ikun jista' jagħżel post ieħor għat-tniżżil jew jerġa' jibda mill-ġdid, iżda qasir biżżejjed biex il-link ma jinxteridx lil aktar nies.
+      file_expiration: Jippermetti lill-utenti jibdlu l-ħin tal-iskadenza tal-fajls. Jekk mhux attivat, il-fajls kollha jieħdu l-ħin tal-iskadenza predefinit.
+      default_expire_files_after: Il-fajls jiskadu wara dan il-perjodu.
+      blocked_file_extensions: Imblokka fajls b'dawn l-estensjonijiet (mingħajr distinzjoni bejn ittri kbar u żgħar).
+      virus_scan: Skennja l-fajls kollha mtella' għall-viruses bl-antivirus ClamAV
+      require_authentication_permission: Meta jkun attivat, l-utenti jistgħu jagħżlu huma stess jekk l-awtentikazzjoni hijiex meħtieġa
+      default_bcc_myself: Meta jkun attivat, il-messaġġi jintbagħtu b'mod predefinit ukoll lill-utent innifsu
+      permitted_file_extensions: "Jekk jitħalla vojt, l-estensjonijiet kollha huma permessi. Jekk tiddaħħal mill-inqas estensjoni waħda, huma permessi biss it-tipi ta' fajls imdaħħla. Eżempju: png, gif, jpg, txt"
+      new_external_recipient_is_nonlocal: Meta jintbagħat messaġġ lil riċevitur ġdid, għandu jinħoloq bħala utent mhux lokali (biex ikun jista' jwieġeb) jew bħala utent estern?
+      email_message_on_top: Meta jkun magħżul, il-messaġġ jintwera fuq il-lista tal-fajls fl-email lir-riċevituri. Meta ma jkunx, il-lista tal-fajls tintwera fuq il-messaġġ.
+      email_sender: Dan l-indirizz tal-email jintuża bħala mittent għall-emails iġġenerati mis-sistema, bħar-risettjar tal-password. Biex dawn l-emails ma jiġux immarkati bħala spam, għandu jkun indirizz tal-email reali.
+      email_host: L-annessi jużaw dan l-URL bħala URL bażi. Normalment huwa http://isem-host.dominju jew https://isem-host.dominju, iżda jista' jkun ukoll https://isem-host.dominju:4433 jekk tuża port forwarding fil-firewall meta l-utenti jikkonnettjaw mal-appliance LiquidFiles.
+      email_footer: Din il-firma tiżdied mal-emails kollha li joħorġu.
+      email_relay: Uża dan is-server tal-posta biex tagħmel relay tal-emails li joħorġu.
+      email_relay_username: Il-kont użat biex tidħol fis-server tar-relay tal-email
+      email_relay_password: Il-password tal-kont użat biex tidħol fis-server tar-relay tal-email
+  date:
+    formats:
+      default: "%d/%m/%Y"
+      short: "%d/%m"
+      medium: "%d/%m/%Y"
+      long: "%d/%m/%Y"
+  time:
+    am: QN
+    pm: WN
+    formats:
+      default: "%d/%m/%Y %H:%M:%S %z"
+      short: "%d/%m %H:%M"
+      medium: "%d/%m/%Y %H:%M"
+      long: "%d/%m/%Y %H:%M"
+  downloads:
+    download_id: ID tat-tniżżil
+    index:
+      download_log_title: Tniżżiliet
+      download_log_description: Min niżżel xiex u meta
+      paginator_entry_name: tniżżiliet
+    show:
+      no_map_for_reserved_address: Ma tistax tintwera mappa għal indirizzi riżervati
+  filedrop:
+    filedrop: Filedrop
+    no_such_filedrop: Dan il-Filedrop ma jeżistix
+    invalid_filedrop_url: URL tal-Filedrop invalidu
+    invalid_filedrop_url_description: M'hemm l-ebda Filedrop f'dan l-URL. Iċċekkja l-URL u erġa' pprova.
+    label: Filedrop
+    mb: MB
+    name: Isem
+    name_description: Isem qasir li jintuża wkoll fl-URL (eż. /filedrop/isem)
+    title: Titlu
+    title_description: It-titlu fil-quċċata tal-paġna
+    description: Deskrizzjoni
+    description_description: Id-deskrizzjoni taħt it-titlu
+    user: Utent riċevitur
+    user_description: Kwalunkwe utent lokali jista' jiġi ssettjat bħala riċevitur
+    cc: Cc
+    cc_description: "(separati b'virgola) Ibgħat kopja lil dawn l-indirizzi"
+    expires_after: Jiskadi wara
+    expires_after_description: jiem
+    max_filesize: Daqs massimu tal-fajl
+    max_filesize_description: MB
+    reset_filedrop: Irrisettja l-URL tal-Filedrop
+    filedrop_reset_warning: Żgur? Jekk tirrisettja l-URL tal-Filedrop, ikollok tissostitwixxih kullimkien fejn ippubblikajtu.
+    permitted_extensions: Estensjonijiet permessi
+    permitted_extensions_description: Dawn it-tipi ta' fajls biss se jkunu permessi
+    blocked_extensions: Estensjonijiet imblukkati
+    blocked_extensions_description: Dawn it-tipi ta' fajls se jiġu mblukkati
+    demo_license_warning_standard: Il-Filedrop jeħtieġu liċenzja għall-użu fil-produzzjoni. Aġġorna għal liċenzja Pro biex tattiva l-funzjoni Filedrop.
+    max_one_during_demo: Matul id-demo jew b'liċenzja Standard tista' tikkonfigura Filedrop wieħed biss
+    filedrop_info: Filedrop jippermetti lill-klijenti tiegħek jibagħtulek fajls mingħajr awtentikazzjoni jew konfigurazzjoni minn qabel. Kull Filedrop għandu URL fiss li tista' torbot miegħu minn paġni web jew firem tal-email. Meta xi ħadd jiddepożita fajl fil-Filedrop, dan jintbagħat awtomatikament lil utent definit minn qabel.
+    authorization: Permess
+    authorization_description: min jista' jniżżel il-fajls iddepożitati fil-Filedrop
+    you_will_be_notified: Tirċievi konferma tat-tniżżil meta l-fajls tiegħek jitniżżlu.
+    require_authentication: Dan il-Filedrop jeħtieġ awtentikazzjoni. Daħħal il-password biex tkompli.
+    authenticate: Awtentika
+    authentication_failed: L-awtentikazzjoni falliet
+    require_validation: Dan il-Filedrop jeħtieġ awtentikazzjoni jew konferma tal-indirizz tal-email tiegħek.
+  filelink:
+    filelink: FileLink
+    filelinks: FileLink
+    filelink_title: FileLink
+    filelink_description: FileLink huwa link għal fajl wieħed. Tista' tibgħat dan il-link lil kulħadd mingħajr ma toħloq messaġġ jew tissettja riċevituri. Dawk biss li rċevew il-link każwali jkunu jistgħu jniżżlu l-fajl.
+    expired_or_nonexistent_title: FileLink invalidu
+    expired_or_nonexistent: Dan il-FileLink skada jew ma jeżistix. Ikkuntattja lill-mittent għal link ġdid.
+    existing_filelinks: FileLink eżistenti
+    new_filelink: FileLink ġdid
+    available_files: Fajls disponibbli
+    filename: Isem il-fajl
+    filesize: Daqs tal-fajl
+    expires_at: Jiskadi
+    link: Link
+    checksum: Checksum
+    copy_link_to_clipboard: Ikkopja l-FileLink fil-clipboard
+    expire_link_at: Il-link jiskadi fi
+    you_have_no_filelinks: M'għandek l-ebda FileLink. Żid FileLink ġdid jew oħloq wieħed minn fajl disponibbli.
+    you_have_no_files_available: M'għandek l-ebda fajl mibgħut qabel. Hekk kif tibgħat mill-inqas fajl wieħed, tista' tagħżlu hawn biex toħloq FileLink.
+    create_link: Oħloq link
+    invalid_file: Fajl invalidu, il-FileLink ma jistax jinħoloq
+    delete: Ħassar
+    delete_link_warning: Żgur li trid tħassar dan il-FileLink?
+    could_not_delete_link: Il-FileLink ma setax jitħassar. Il-link ma nstabx!
+    filelink_deleted: Il-FileLink tħassar!
+    select_file: Agħżel fajl
+    send_download_receipts: Ibgħat konfermi tat-tniżżil
+    disabled: Il-FileLink huwa diżattivat, ikkuntattja amministratur
+    unauthorized: M'intix awtorizzat tuża l-FileLink
+    require_authentication: Eħtieġ awtentikazzjoni
+    filelink_require_authentication: Dan il-FileLink jeħtieġ awtentikazzjoni
+    filelink_url: URL tal-FileLink
+    expired: Skada
+    filelink_expired: Il-FileLink skada
+    select_from_available_files: Tista' toħloq FileLink ukoll minn kwalunkwe wieħed minn dawn il-fajls eżistenti.
+    downloads: Tniżżiliet
+    authentication_failed: L-awtentikazzjoni falliet
+    password_label_html: Password <small class="text-muted">(mhux obbligatorja)</small>
+    password_present_html: Hemm password issettjata għal dan il-FileLink.<br>Tista' tneħħiha billi tissejvja password vojta.
+    password_not_present: M'hemm l-ebda password issettjata.
+    copy_to_clipboard: Ikkopja l-FileLink fil-clipboard
+    add_file: Żid fajl
+  ftpdrop:
+    create:
+      ftpdrop: FTPdrop
+  html_editor:
+    font:
+      bold: Grassett
+      italic: Korsiv
+      underline: Issottolinja
+      clear: Neħħi l-formattjar
+      height: Għoli tal-linja
+      name: Font
+      strikethrough: Linja fin-nofs
+      subscript: Subscript
+      superscript: Superscript
+      size: Daqs tal-font
+    image:
+      image: Immaġni
+      insert: Daħħal immaġni
+      resize_full: Daqs sħiħ
+      resize_half: Nofs id-daqs
+      resize_quarter: Kwart tad-daqs
+      float_left: Allinja lejn ix-xellug
+      float_right: Allinja lejn il-lemin
+      float_none: Mingħajr allinjament
+      shape_rounded: "Forma: tond"
+      shape_circle: "Forma: ċirku"
+      shape_thumbnail: "Forma: thumbnail"
+      shape_none: "Forma: xejn"
+      url: URL tal-immaġni
+      remove: Neħħi l-immaġni
+    link:
+      link: Link
+      insert: Daħħal link
+      unlink: Neħħi l-link
+      edit: Editja
+      text_to_display: Test li jintwera
+      url: Għal liema URL għandu jwassal dan il-link?
+      open_in_new_window: Iftaħ f'tieqa ġdida
+    table:
+      table: Tabella
+    hr:
+      insert: Daħħal linja orizzontali
+    style:
+      style: Stil
+      normal: Normali
+      blockquote: Kwotazzjoni
+      pre: Kodiċi
+      h1: Intestatura 1
+      h2: Intestatura 2
+      h3: Intestatura 3
+      h4: Intestatura 4
+      h5: Intestatura 5
+      h6: Intestatura 6
+    lists:
+      unordered: Lista b'punti
+      ordered: Lista numerata
+    options:
+      help: Għajnuna
+      fullscreen: Skrin sħiħ
+      codeview: Veduta tal-kodiċi
+    paragraph:
+      paragraph: Paragrafu
+      outdent: Naqqas l-indentazzjoni
+      indent: Żid l-indentazzjoni
+      left: Allinja lejn ix-xellug
+      center: Iċċentra
+      right: Allinja lejn il-lemin
+      justify: Iġġustifika
+    color:
+      recent: Kulur riċenti
+      more: Aktar kuluri
+      background: Kulur tal-isfond
+      foreground: Kulur tat-test
+      transparent: Trasparenti
+      set_transparent: Agħmel trasparenti
+      reset: Irrisettja
+      reset_to_default: Irrisettja għall-predefinit
+    shortcut:
+      shortcuts: Shortcuts tat-tastiera
+      close: Agħlaq
+      text_formatting: Formattjar tat-test
+      action: Azzjoni
+      paragraph_formatting: Formattjar tal-paragrafu
+      document_style: Stil tad-dokument
+      extra_keys: Tasti addizzjonali
+    history:
+      undo: Erġa' lura
+      redo: Erġa' agħmel
+  invite:
+    invite_user: Stieden utent
+    description: Tista' tistieden utenti biex jaqsmu fajls miegħek. Hekk kif iddaħħal id-dettalji tagħhom, jirċievu email bi struzzjonijiet biex ilestu r-reġistrazzjoni.
+    send_invite: Ibgħat stedina
+    name_placeholder: Isem sħiħ
+    invitation_sent: L-istedina ntbagħtet
+    not_permitted_to_invite_users: M'għandekx permess tistieden utenti.
+    invalid_email: Indirizz tal-email invalidu
+  link:
+    show:
+      set_password: Issettja password
+      download: Niżżel
+      downloads_and_info: It-tniżżiliet kollha u aktar informazzjoni
+    authenticate:
+      show:
+        title: Password tal-FileLink
+        authenticate: Awtentika
+        require_authentication: Biex tiftaħ dan il-FileLink, trid iddaħħal il-password meħtieġa.
+      create:
+        authentication_failed: L-awtentikazzjoni falliet.
+    downloads:
+      index:
+        back_to_filelink: Lura għall-FileLink
+    link_downloads:
+      latest_downloads: L-aħħar tniżżiliet (%{count} minn %{total} b'kollox)
+  menu:
+    shares: Share
+    messages: Messaġġi
+    send_files: Ikteb
+    users: Utenti
+    active_transfers: Trasferimenti attivi
+    configuration: Konfigurazzjoni
+    system: Sistema
+    message_list: Lista tal-messaġġi
+    settings: Settings
+    admin: Amministrazzjoni
+    account: Kont
+    inbox: Inbox
+    sent_messages: Mibgħuta
+    downloads: Reġistru tat-tniżżiliet
+    filelink: FileLink
+    secure_messages: Messaġġi siguri
+    support: Appoġġ
+  message:
+    message_sent: Il-messaġġ intbagħat
+    not_found: Il-messaġġ ma nstabx
+    message_not_found_header: Il-messaġġ ma nstabx!
+    message_not_found_description: Itlob lill-mittent jerġa' jibgħat dan il-messaġġ.
+    previous_recipients: Riċevituri preċedenti
+    contacts: Kuntatti
+    is_not_permitted: mhuwiex permess
+    not_permitted_to_delete_messages: M'għandekx permess tħassar messaġġi
+    is_not_in_any_of_the_allowed_domains: mhuwiex f'xi wieħed mid-dominji permessi
+    is_not_in_any_of_the_allowed_groups: mhuwiex f'xi wieħed mill-gruppi permessi
+    attach_1_file: Trid tehmeż mill-inqas fajl wieħed
+    too_many_files: Ħmiżt wisq fajls. Tista' tehmeż sa %{count} fajls f'messaġġ.
+    attached_files: Fajls mehmuża
+    expired: Il-messaġġ skada
+    authorize:
+      show:
+        title: Idħol biex tiftaħ il-messaġġ sigur
+        authenticate_description_html: Se tara messaġġ sigur. L-ewwel trid tidħol. Daħħal l-indirizz tal-email tiegħek jew idħol biex tkompli.<br>Jekk m'għandekx kont f'din is-sistema, daħħal l-indirizz tal-email tiegħek u nibagħtulek link sigur biex tikkonfermah.
+        unauthenticated_html: <h4>Isem tal-utent jew password invalidi</h4><p>Daħħal l-isem tal-utent u l-password tiegħek. Tista' tirrisettja l-password bil-buttuna Irrisettja l-password hawn taħt.</p>
+        unauthorized_to_view_check_email_html: <h4>Indirizz tal-email mhux awtorizzat</h4><p>Iċċekkja li l-messaġġ sigur [<span class="font-monospace fw-bold">%{message_id}</span>] intbagħat lilek u daħħal l-indirizz tal-email eżatt kif intbagħat il-messaġġ.</p><p>Pereżempju, jekk l-indirizz tiegħek jista' jkun kemm george.borg@kumpanija.com.mt kif ukoll gborg@kumpanija.com.mt, is-sistema ma tistax tkun taf li huwa l-istess indirizz. Jekk il-messaġġ sigur intbagħat lil george.borg@kumpanija.com.mt, dak huwa l-indirizz li għandek iddaħħal hawn.</p><p>Jekk m'intix ċert, ikkuntattja lill-mittent tal-messaġġ sigur.</p>
+    errors:
+      not_authorized_to_view_message: "M'intix awtorizzat tara l-messaġġ b'dan l-ID: %{message_id}. Iċċekkja li dan il-messaġġ intbagħat lilek."
+      private_message_requires_authentication: Il-messaġġi privati jeħtieġu awtentikazzjoni
+    attachments:
+      download_attachment_details_csv: Niżżel id-dettalji tal-annessi (CSV)
+      attachment:
+        fileinfo: Informazzjoni dwar il-fajl
+        file_size: Daqs tal-fajl
+        content_type: Tip ta' kontenut
+        checksum: Checksum
+        virus_status: Status tal-antivirus
+    compose:
+      options_permission:
+        authentication_required: Awtentikazzjoni meħtieġa
+        authentication_not_required: Awtentikazzjoni mhux meħtieġa
+        require_authentication_description: Ir-riċevituri jridu jgħaddu minn awtentikazzjoni biex jiftħu dan il-messaġġ?
+        access_restriction_html: Restrizzjoni tal-aċċess<br><small class="text-muted">Min għandu aċċess għal dan il-messaġġ?</small>
+        recipients_only_html: Riċevituri<br>biss
+        recipients_plus_locals_html: Riċevituri<br>+ utenti lokali
+        recipients_plus_domains_html: Riċevituri<br>+ dominji
+        anyone_secret_link_html: Kulħadd<br>(link sigriet)
+    unavailable:
+      header: Il-messaġġ mhux disponibbli
+      description: Dan il-messaġġ skada, tħassar, ma jeżistix jew m'għadux disponibbli. Itlob lill-mittent jerġa' jibgħat il-messaġġ.
+    downloads:
+      index:
+        download_log_title: Reġistru tat-tniżżiliet
+        message_id: ID tal-messaġġ
+        paginator_entry_name: Tniżżiliet
+      download:
+        details: Dettalji
+      not_found:
+        title: Il-messaġġ jew it-tniżżil ma nstabx
+        description_html: Il-messaġġ jew it-tniżżil ma setax jinstab, jew m'għandekx permess tarahom
+    temporary_user:
+      create:
+        invalid_temporary_user: Password invalida. Iċċekkja l-email bil-password temporanja tiegħek jew itlob password temporanja ġdida.
+        temporary_user_expired: Din il-password temporanja skadiet. Password temporanja ġdida ntbagħtet fl-indirizz tal-email tiegħek. Iċċekkja l-inbox tiegħek u uża l-password temporanja l-ġdida.
+        not_authorized_to_view_message: "M'intix awtorizzat tara l-messaġġ b'dan l-ID: %{message_id}. Iċċekkja li dan il-messaġġ intbagħat lilek."
+      show:
+        title: Daħħal il-password temporanja tiegħek
+        description_html: "Se tara messaġġ sigur. Biex tiftħu, trid iddaħħal il-password temporanja tiegħek.<br>Il-password temporanja hija sekwenza każwali unika li tidentifikak. Il-password temporanja ntbagħtitlek f'email separata (suġġett: Password temporanja)."
+        what_is_this: X'inhu dan?
+        login: Idħol
+        submit: Ivverifika l-password temporanja
+        submit_email: Ibgħat
+        if_you_have_account: "(jekk diġà għandek kont)"
+        request_temporary_user_header: Itlob password temporanja ġdida
+        request_temporary_user_description_html: Tista' titlob password temporanja ġdida biex tiftaħ dan il-messaġġ. Daħħal l-indirizz tal-email tiegħek hawn taħt biex titlob password temporanja ġdida għal dan il-messaġġ sigur.
+        info_header: Informazzjoni dwar il-password temporanja
+        info_body_html: "<p>Il-password temporanja hija sekwenza unika ta' numri u ittri, pereżempju:</p><pre><code>3ynp-7FKa-pZS9</code></pre><p><em>Din il-password temporanja hija biss eżempju biex tara kif tidher – ma tistax tintuża.</em></p><p>Fl-inbox tiegħek issib <strong>żewġ emails</strong>: waħda bil-messaġġ sigur u waħda b'<strong>suġġett li jibda b': Password temporanja</strong>. It-tieni waħda fiha l-password temporanja unika tiegħek għal din is-sistema.</p><p>Jekk ma rċevejtx email b'password temporanja, forsi diġà għandek kont f'din is-sistema. F'dak il-każ, ikklikkja “Idħol”.</p><p>Jekk taħseb li kellek tirċievi password temporanja iżda ma rċevejthiex, ikklikkja “Itlob password temporanja” biex tirċievi waħda ġdida.</p>"
+        email_address: Indirizz tal-email
+        email_not_permitted: Dan l-indirizz tal-email m'għandux permess jara dan il-messaġġ sigur.
+        email_not_permitted_description_html: <p>Iċċekkja l-email bil-messaġġ sigur li rċevejt u daħħal l-indirizz tal-email eżatt kif intbagħat il-messaġġ.</p><p>Pereżempju, jekk l-indirizz tiegħek jista' jkun kemm george.borg@kumpanija.com.mt kif ukoll gborg@kumpanija.com.mt, is-sistema ma tistax tkun taf li huwa l-istess indirizz. Jekk il-messaġġ sigur intbagħat lil george.borg@kumpanija.com.mt, dak huwa l-indirizz li għandek iddaħħal hawn.</p><p>Jekk m'intix ċert, ikkuntattja lill-mittent tal-messaġġ sigur.</p>
+        email_can_login: Diġà għandek kont f'din is-sistema
+        email_can_login_description_html: <p>Tista' tidħol f'din is-sistema b'dan l-indirizz tal-email u l-password tiegħek.</p><p>Ikklikkja l-buttuna Idħol hawn taħt biex tidħol bil-kont eżistenti tiegħek.</p>
+        temporary_user_delivered_header: Il-password temporanja ntbagħtet
+        temporary_user_delivered_description_html: <p>Password temporanja ntbagħtet fl-indirizz tal-email tiegħek. Iċċekkja l-inbox tiegħek, agħlaq din it-tieqa u daħħal il-password temporanja.</p>
+    reply:
+      re: "Tweġ:"
+      wrote: kiteb
+      show:
+        title: Wieġeb għal messaġġ sigur
+        from: Minn
+        reply: Wieġeb
+        reply_all: Wieġeb lil kulħadd
+      options:
+        options_description: Innota li l-għażliet kollha jinġabu mill-messaġġ oriġinali.
+    show:
+      back: Lura
+      message_header: Intestatura tal-messaġġ
+      reply: Wieġeb
+  messages:
+    sent:
+      skipped_file_not_found: Maqbuż - il-fajl ma nstabx
+      show:
+        sent_title: Mibgħuta
+        sent_description: Messaġġi li bgħatt
+        paginator_entry_name: messaġġi
+    attachments:
+      download_cmd:
+        unauthorized:
+          header: Mhux awtorizzat
+          body: M'intix awtorizzat tniżżel dan il-fajl. Itlob lill-mittent jerġa' jibagħtulek.
+          back: Lura
+        exceeded:
+          header: Inqabeż il-limitu tat-tniżżil
+          body: Il-limitu tat-tniżżil għal dan il-fajl inqabeż. Itlob lill-mittent jerġa' jibagħtulek.
+          back: Lura
+    download_zip:
+      unauthorized:
+        header: Mhux awtorizzat
+        body: M'intix awtorizzat tniżżel dan l-arkivju. Itlob lill-mittent jerġa' jibagħtlek il-fajl.
+        back: Lura
+      exceeded:
+        header: Inqabeż il-limitu tat-tniżżil
+        body: Il-limitu tat-tniżżil għal fajl wieħed jew aktar f'dan l-arkivju inqabeż. Itlob lill-mittent jerġa' jibagħtlek il-fajl.
+        back: Lura
+    message:
+      reply: Wieġeb
+      reply_all: Wieġeb lil kulħadd
+  models:
+    user:
+      no_need_to_create_local_user: M'hemmx bżonn jinħoloq utent lokali
+      license_exceeded: Inqabeż il-limitu tal-liċenzja
+  notifier:
+    activate_user_subject: "[%{hostname}] Attivazzjoni tal-kont"
+    user_activation: Attivazzjoni tal-utent
+    please_visit_the_following_url_to_activate: Ikklikkja l-link hawn taħt biex tattiva l-kont tiegħek
+    the_following_files_are_attached: Il-fajls li ġejjin huma mehmuża ma' dan il-messaġġ
+    please_visit_the_following_url: Ikklikkja dan il-link biex tniżżel l-annessi
+    attachments_are_available: L-annessi huma disponibbli sa
+    message_id: "ID tal-messaġġ: %{id}"
+    email_password_reset_subject: Risettjar tal-password
+    download_receipt_subject: "Konferma tat-tniżżil [ID: %{message_id}]"
+    a_file_that_you_sent: Fajl li bgħatt tniżżel. Żomm din l-email bħala prova tat-tniżżil.
+    recipient: Riċevitur
+    filename: Isem il-fajl
+    time_of_download: Ħin tat-tniżżil
+    downloaded_from: Imniżżel minn
+    download_receipt: Konferma tat-tniżżil
+    user_created:
+      account_created: Il-kont inħoloq
+      subject: "[%{hostname}] Il-kont inħoloq"
+      message: "Hemm anness sigur jistennik. Biex tirċevih, trid tgħaddi minn awtentikazzjoni. Ikklikkja l-link hawn taħt biex tirreġistra:"
+  outlook:
+    messages:
+      new:
+        attachments_header: Annessi
+        attachments_hint: Tista' tehmeż fajls billi tkaxkarhom fit-taqsima hawn taħt jew billi tikklikkja l-buttuna Ehmeż fajls.
+        add_to_message: Żid mal-messaġġ
+      attachments:
+        attach_files: Ehmeż fajls
+        drop_files_here: Itfa' l-fajls hawn...
+      options:
+        recipients_can_reply: Ir-riċevituri jistgħu jwieġbu
+        send_copy_to_myself: Ibgħat kopja lili nnifsi
+        private_message: Messaġġ privat
+        private_message_required_auth_error: Meta tibgħat messaġġ privat, trid tuża l-modalità “Awtentikazzjoni meħtieġa”.
+      options_authorization:
+        authentication_authorization_title_html: Awtentikazzjoni &amp; awtorizzazzjoni
+        authentication_select_title: Agħżel l-awtentikazzjoni
+        authentication_required: Awtentikazzjoni meħtieġa
+        authentication_not_required: Awtentikazzjoni mhux meħtieġa
+        authorization_select_title: Agħżel l-awtorizzazzjoni
+        recipients_only: Riċevituri biss
+        recipients_locals: Riċevituri + utenti lokali
+        recipients_domains: Riċevituri + dominji
+        anyone: Kulħadd (link sigriet)
+      options_expiration:
+        message_expires: Skadenza tal-messaġġ
+        message_expires_after: Il-messaġġ jiskadi wara
+  pagination:
+    first: "&laquo; L-ewwel"
+    last: L-aħħar &raquo;
+    previous: "&lsaquo; Ta' qabel"
+    next: Li jmiss &rsaquo;
+    truncate: "&hellip;"
+  requests:
+    title: Talba għal fajls
+    file_request: Talba għal fajls
+    files_sent: Il-fajls intbagħtu, grazzi!
+    request_file: Itlob fajl
+    file_requests: Talbiet għal fajls
+    description: Bit-talba għal fajls tista' titlob lil xi ħadd jibagħtlek fajls. Hekk kif iddaħħal id-dettalji, il-persuna tirċievi email b'link uniku li permezz tiegħu tista' tibagħtlek il-fajls mitluba.
+    file_request_not_found: It-talba għal fajls ma nstabitx
+    file_request_expired: It-talba għal fajls skadiet
+    file_request_already_used: It-talba għal fajls diġà ntużat
+    file_request_sent: It-talba għal fajls intbagħtet
+    not_permited: M'għandekx permess tuża l-funzjoni tat-talba għal fajls
+    multiuse: Użu multiplu - dan il-link tat-talba jista' jintuża diversi drabi
+    invalid_recipient: Riċevitur invalidu, din it-talba għal fajls intbagħtet lil xi ħadd ieħor
+    invalid_user: Din mhijiex it-talba għal fajls tiegħek
+    index:
+      title: Talbiet għal fajls
+      new_file_request: Talba ġdida għal fajls
+      multiuse: Użu multiplu
+      responded_to: Imwieġba
+      hide_expired: Aħbi dawk skaduti u użati
+      show_expired: Uri dawk skaduti u użati
+    request:
+      resend: Ibgħat mill-ġdid
+      are_you_sure_you_want_to_delete: Żgur li trid tħassar din it-talba għal fajls?
+    popup:
+      from: Minn
+      to: Lil
+      subject: Suġġett
+      message: Messaġġ
+    resend:
+      request_resent: It-talba għal fajls intbagħtet mill-ġdid
+    new:
+      request_expires: Skadenza tat-talba
+  send:
+    send: Ibgħat
+    sent: Mibgħut
+    recipients: Lil
+    send_as: Ibgħat bħala
+    you_can_only_send_files_to_yourself: Tista' tibgħat fajls lilek innifsek biss
+    subject: Suġġett
+    subject_placeholder: Suġġett
+    attachments: Annessi
+    max_file_size: "Daqs massimu tal-annessi: %{filesize} MB"
+    upload_queue: Kju tat-tlugħ
+    remove: Neħħi
+    cancel_all: Ikkanċella kollox
+    cancel_all_uploads: Ikkanċella t-tlugħ kollu
+    message: Messaġġ
+    message_placeholder: Messaġġ
+    done_editing_please_send: Lestejt l-editjar, ibgħat il-fajls meta jitlesta t-tlugħ kollu
+    files_sent_successfully: Il-fajls intbagħtu b'suċċess
+    you_need_at_least_one_recipient: Hemm bżonn mill-inqas riċevitur wieħed
+    you_need_at_least_one_attachment: Hemm bżonn mill-inqas anness wieħed
+    options: Għażliet
+    cc: Cc
+    bcc: Bcc
+    bcc_message_description: Ir-riċevituri Bcc mhux se jidhru lir-riċevituri l-oħra
+    add_cc: żid Cc
+    add_bcc: żid Bcc
+    bcc_myself: Ibgħat kopja lili nnifsi
+    require_login: Eħtieġ dħul biex jitniżżlu l-fajls
+    only_specified_recipients_can_download: Ir-riċevituri speċifikati biss jistgħu jniżżlu l-annessi
+    anyone_can_download: Kulħadd jista' jniżżel l-annessi
+    expires_in: L-annessi jistgħu jitniżżlu għal
+    expires_at: L-annessi jiskadu fi
+    send_options: Għażliet tal-bgħit
+    to: Lil
+    from: Minn
+    filename: Isem il-fajl
+    filesize: Daqs tal-fajl
+    downloaded_at: Imniżżel fi
+    message_sent: Il-messaġġ intbagħat
+    message_expires: Skadenza tal-messaġġ
+    message_expires_after: Il-messaġġ jiskadi wara
+    message_expires_after_description: Dan jiġi kkalkulat għal kull fajl. Jekk tibgħat 2 fajls li jiskadu wara tniżżil wieħed, kull riċevitur ikun jista' jniżżel kull fajl darba.
+    downloads_per_recipient: Tniżżiliet għal kull riċevitur
+    total_downloads: Total ta' tniżżiliet
+    file_not_downloaded: L-ebda anness ma tniżżel
+    at_least_one_invalid_extension: Mill-inqas wieħed mill-annessi għandu estensjoni invalida
+    invalid_filetype: Estensjoni invalida
+    blocked_extension: "Estensjoni invalida. Ma tistax tibgħat fajls b'dawn l-estensjonijiet: %{extensions}"
+    permitted_extensions: "L-estensjonijiet permessi huma: %{filetypes}"
+    already_selected: Dan il-fajl diġà ntgħażel
+    maximum_filesize_exceeded: Inqabeż id-daqs massimu tal-fajl
+    contains_virus: "%{filename} fih VIRUS: %{virus}"
+    limited_by_browser: Limitat mill-browser
+    limited_by_disk: Limitat mill-ispazju fuq id-diska
+    limited_by_system_quota: Limitat mill-kwota tas-sistema
+    limited_by_group_quota: Limitat mill-kwota tal-grupp
+    limited_by_quota: Limitat mill-kwota
+    limited_per_message: Limitu għal kull messaġġ
+    system_quota_exceeded: Inqabżet il-kwota tas-sistema
+    group_quota_exceeded: Inqabżet il-kwota tal-grupp
+    quota_exceeded: Inqabżet il-kwota
+    no_available_quota: Inqabżet il-kwota, ħassar xi fajls biex tkompli
+    not_authorized_to_send: M'intix awtorizzat tibgħat lil %{email}
+    public_url: URL pubbliku
+    message_url: URL tal-messaġġ
+    authorization: Awtorizzazzjoni
+    insufficient_disk_space: Spazju insuffiċjenti fuq id-diska
+    active_transfers: Trasferimenti attivi
+    view_log: Ara r-reġistru
+    previously_sent_attachments: Annessi mibgħuta qabel
+    has_not_downloaded: "%{recipient} għadu ma niżżel l-ebda fajl"
+    authentication: Awtentikazzjoni
+    required: Meħtieġ
+    disabled: Diżattivat
+    require_authentication_tooltip_html: <li>Ir-riċevitur irid jidħol b'isem tal-utent u password biex iniżżel il-fajl.</li> <li>Tirċievi konferma meta l-fajl jitniżżel.</li>
+    dont_require_authentication_tooltip_html: <li>Ir-riċevitur mhux se jintalab jidħol biex iniżżel il-fajl.</li> <li>Tirċievi konferma meta l-fajl jitniżżel, iżda mhux min niżżlu (dan mhux magħruf).</li> <li>Tirċievi konferma biss meta l-ewwel riċevitur iniżżel il-fajl.</li>
+    authenticate_link_description: Trid tidħol qabel ma tiftaħ dan il-FileLink.
+    unauthorized: M'intix awtorizzat tara dan il-messaġġ.
+    unauthenticated: Password ħażina
+    incorrect_login_or_demo: Password ħażina, jew intlaħaq il-limitu tal-liċenzja
+    email_authorization_message: Grazzi. Biex nivverifikaw li dan huwa l-indirizz tal-email tiegħek, bgħatnielek email b'kodiċi ta' validazzjoni. Daħħal il-kodiċi ta' validazzjoni hawn taħt jew ikklikkja l-link fl-email biex tmur għall-messaġġ.
+    email_authorization_link: Grazzi. Biex nivverifikaw li dan huwa l-indirizz tal-email tiegħek, bgħatnielek email b'kodiċi ta' validazzjoni. Daħħal hawn taħt il-kodiċi ta' validazzjoni mill-email jew ikklikkja l-link fl-email biex tmur għall-FileLink.
+    email_authorization_message_create_account: Grazzi. Peress li m'għandekx kont f'din is-sistema, bgħatnielek email b'kodiċi ta' validazzjoni biex nivverifikaw li dan huwa l-indirizz tal-email tiegħek. Daħħal il-kodiċi ta' validazzjoni hawn taħt jew ikklikkja l-link fl-email biex tikkonferma l-indirizz tiegħek. Imbagħad tintalab toħloq kont u tittieħed għall-messaġġ.
+    email_authorization_link_create_account: Grazzi. Peress li m'għandekx kont f'din is-sistema, bgħatnielek email b'kodiċi ta' validazzjoni biex nivverifikaw li dan huwa l-indirizz tal-email tiegħek. Daħħal hawn taħt il-kodiċi ta' validazzjoni mill-email jew ikklikkja l-link fl-email biex tikkonferma l-indirizz tiegħek. Imbagħad tintalab toħloq kont u tittieħed għall-FileLink.
+    authorize: Awtorizza
+    authenticate: Idħol
+    sending: Qed jintbagħat...
+    abort_transfer: Waqqaf it-trasferiment
+    files_to_big: Fajl jew fajls kbar wisq
+    only_specified_recipients: Ir-riċevituri speċifikati biss għandhom aċċess
+    only_specified_recipients_and_local_users: Ir-riċevituri speċifikati u l-utenti lokali biss għandhom aċċess
+    only_specified_recipients_and_domains: Ir-riċevituri speċifikati u l-utenti tad-dominju tagħhom biss għandhom aċċess
+    anyone_after_authentication: Kulħadd għandu aċċess (bil-link każwali)
+    no_recipient_validation: Mingħajr validazzjoni tar-riċevituri
+    anyone_can_access: Kulħadd għandu aċċess
+    anyone: Kulħadd
+    no_authentication: Mingħajr awtentikazzjoni
+    can_download: jistgħu jniżżlu
+    not_yet_scanned: qed jiġi skennjat għall-viruses, erġa' pprova ftit wara. %{queue} fil-kju
+    was_infected: "kien infettat bil-virus %{virus} u tħassar"
+    deleted_or_expired: Imħassar jew skadut
+    im_done_editing: Ibgħat awtomatikament meta jitlesta t-tlugħ attwali
+    download_all: Niżżel kollox
+    zipped_archive: Arkivju ZIP
+    message_id: ID tal-messaġġ
+    overall_progress: Progress ġenerali
+    abort: Waqqaf
+    limitations: Limitazzjonijiet
+    max_size: Daqs massimu
+    add_files: Żid fajls...
+    add_folder: Żid folder...
+    no_attachment_added: Ma ġie miżjud l-ebda anness
+    you_need_to_add_at_least_one_file: Trid iżżid mill-inqas fajl wieħed.
+    private_message_or_attached_files: Trid jew tattiva l-Messaġġ privat jew tehmeż mill-inqas fajl wieħed.
+    no_runtime_found: Ma nstab l-ebda ambjent ta' eżekuzzjoni, il-fajls ma jistgħux jittellgħu
+    runtime_check_title: Ma nstab l-ebda ambjent ta' eżekuzzjoni
+    selected: magħżula
+    file_size_error: Żball fid-daqs tal-fajl
+    remaining: fadal
+    attached_files: Fajls mehmuża
+    show_message: Uri l-messaġġ
+    can_be_max: jista' jkun sa %{days} jum fil-futur
+    not_ready: Għadu mhux lest għat-tniżżil
+    download_info: Informazzjoni dwar it-tniżżil
+    browser: Browser
+    platform: Pjattaforma
+    operating_system: Sistema operattiva
+    location: Post
+    download_details: Dettalji tat-tniżżil
+    download_information_not_found: L-informazzjoni dwar it-tniżżil ma setgħetx tinstab.
+    add: Żid
+    select_existing_files: Agħżel fajls eżistenti
+    add_existing_files: Żid fajls eżistenti
+    add_existing_description: Dawn il-fajls diġà ntbagħtu u tista' terġa' tibgħathom.
+    zip_disabled: Iż-ZIP huwa diżattivat
+    zip_disabled_description_exceeded: In-numru massimu ta' tniżżiliet inqabeż għal mill-inqas anness wieħed.
+    spinner_info_html: <strong>Il-messaġġ tiegħek lest biex jintbagħat</strong>. Xi fajls għadhom qed jiġu pproċessati fl-isfond, iżda m'għandekx għalfejn tistenna. <strong>Agħfas Ibgħat meta tkun lest!</strong>
+    sent_to_you: Mibgħut lilek
+    excluding_admins: Minbarra l-amministraturi
+    downloads: Tniżżiliet
+    download_log: Reġistru tat-tniżżiliet
+    delete_attachments: Ħassar l-annessi
+    delete_message: Ħassar il-messaġġ
+    delete_attachments_warning: Żgur li trid tħassar l-annessi?
+    delete_message_warning: Jekk tħassar il-messaġġ, jitħassru wkoll il-fajls mehmuża u r-reġistru tat-tniżżiliet. Żgur li trid tħassar il-messaġġ?
+    invalid_message: Messaġġ invalidu
+    message_deleted: Il-messaġġ tħassar
+    attachments_deleted: L-annessi tħassru
+    checksum: Checksum (SHA256)
+    not_permitted_to_send_messages: M'għandekx permess tibgħat messaġġi.
+    invalid_group_belonging: Il-bgħit mhuwiex permess (grupp invalidu). Int irreġistrat bħala utent estern, iżda l-indirizz tal-email tiegħek jappartjeni għad-dominju %{domain}, li huwa wkoll fost id-dominji ristretti tar-riċevituri. Dan mhuwiex permess għall-utenti esterni. Itlob lill-amministratur tas-sistema jittrasferik għal grupp ieħor biex tkompli.
+    expires_after_exceeded: Inqabeż in-numru ta' tniżżiliet
+    expires_after_exceeded_for_zip: Inqabeż in-numru ta' tniżżiliet għal mill-inqas fajl wieħed fl-arkivju ZIP
+    permission_description_title: Restrizzjonijiet tal-aċċess
+    permission_description_only_specified_html: <ul> <li>Ir-riċevituri speċifikati biss għandhom aċċess għall-messaġġ u jistgħu jniżżlu l-fajls.</li> <li>L-email jew l-URL ma jistgħux jintbagħtu lil ħaddieħor.</li> <li>Ir-riċevituri jridu jidħlu biex jiftħu l-messaġġ u jniżżlu l-fajls.</li> <li>F'kull tniżżil ta' kull fajl tintbagħat konferma tat-tniżżil b'informazzjoni dettaljata.</li> </ul>
+    permission_description_only_specified_and_local_html: <ul> <li>Ir-riċevituri speċifikati u l-utenti lokali biss jistgħu jniżżlu l-fajls.</li> <li>L-email jew l-URL jistgħu jintbagħtu biss lil utenti lokali.</li> <li>Ir-riċevituri jridu jidħlu biex jniżżlu l-fajls.</li> <li>F'kull tniżżil ta' kull fajl tintbagħat konferma tat-tniżżil b'informazzjoni dettaljata.</li> </ul>
+    permission_description_only_specified_and_domains_html: <ul> <li>Ir-riċevituri speċifikati u l-utenti tal-istess dominju tal-email biss għandhom aċċess.</li> <li>Jekk tibgħat lil direttur@sieheb.com.mt, segretarja@sieheb.com.mt ukoll għandha aċċess għall-messaġġ, iżda kurjuz@kompetitur.com.mt le.</li> <li>Ir-riċevituri jridu jidħlu biex jniżżlu l-fajls.</li> <li>F'kull tniżżil ta' kull fajl tintbagħat konferma tat-tniżżil b'informazzjoni dettaljata.</li> </ul>
+    permission_description_anyone_after_authentication_html: <ul> <li>Kulħadd li għandu l-URL sigriet u każwali jista' jniżżel il-fajls.</li> <li>L-email jew l-URL jistgħu jintbagħtu lil kulħadd.</li> <li>Ir-riċevituri jridu jidħlu biex jniżżlu l-fajls.</li> <li>F'kull tniżżil ta' kull fajl tintbagħat konferma tat-tniżżil b'informazzjoni dettaljata.</li> </ul>
+    permission_description_anyone_html: <ul> <li>Kulħadd li għandu l-URL sigriet u każwali jista' jniżżel il-fajls.</li> <li>L-email jew l-URL jistgħu jintbagħtu lil kulħadd.</li> <li>Id-dħul <strong>mhuwiex</strong> meħtieġ biex jitniżżlu l-fajls.</li> <li>Tintbagħat konferma tat-tniżżil <strong>bażika</strong> fl-ewwel tniżżil minn kulħadd (l-awtentikazzjoni hija meħtieġa biex ikun magħruf min niżżel xiex).</li> </ul>
+    your_message_has_been_sent: Il-messaġġ tiegħek intbagħat
+    you_can_send_to_anyone: "(Tista' tibgħat dan il-link lil kulħadd)"
+    send_more_files: Ibgħat aktar fajls
+    download_speed: Veloċità tat-tniżżil
+    download_time: Ħin tat-tniżżil
+    at_least_one_invalid_email: Mill-inqas indirizz tal-email invalidu wieħed
+    reply: Ir-riċevitur jista' jwieġeb
+    private_message: Messaġġ privat
+    private_message_description_html: F'messaġġ privat, it-test tal-messaġġ tiegħek ma jintbagħatx lir-riċevitur bl-email – jidher biss meta r-riċevitur jikklikkja l-link fl-email u jgħaddi mill-awtentikazzjoni. <ul> <li>Tista' tibgħat messaġġ privat mingħajr annessi.</li> <li>Tirċievi konferma tal-aċċess meta xi ħadd jara l-messaġġ tiegħek.</li> <li>Ma tistax tibgħat messaġġ privat bil-permess tat-tniżżil “Kulħadd jista' jniżżel”.</li> </ul>
+    private_message_delivered_description: Il-messaġġ intbagħat bħala messaġġ privat. It-test tal-messaġġ mhuwiex inkluż fl-email u tirċievi konferma tal-aċċess meta kull riċevitur jara l-messaġġ.
+    access_info: Informazzjoni dwar l-aċċess
+    access_details: Dettalji tal-aċċess
+    validation_code: Kodiċi ta' validazzjoni
+    expired_token_inline: L-awtentikazzjoni bl-email skadiet, erġa' pprova.
+    invalid_token: Kodiċi invalidu jew skadut. Ikklikkja l-link fl-email oriġinali biex terġa' tikkonferma l-indirizz tal-email tiegħek.
+    download_zip: Niżżel ZIP
+    zip_ready_for_download: Iż-ZIP lest għat-tniżżil
+    processing_zip: Qed jiġi pproċessat il-fajl ZIP
+    drop_file_here: Itfa' l-fajl hawn
+    drop_files_here: Itfa' l-fajls hawn
+    drop_files_and_folders_here: Itfa' fajls u folders hawn
+    select_pool_files: Agħżel fajls mill-ħażna
+    add_pool_files: Żid fajls mill-ħażna
+    invalid_validation_token: Dan mhuwiex kodiċi ta' validazzjoni validu.
+    not_the_validation_token: Dan huwa l-ID tal-messaġġ, mhux il-kodiċi ta' validazzjoni. Daħħal il-kodiċi ta' validazzjoni.
+    no_messages_in_inbox: M'hemm l-ebda messaġġ fl-inbox.
+    filename_already_selected: Fajl b'dan l-isem diġà ġie miżjud ma' dan il-messaġġ
+    filesize_exceeded: Inqabeż id-daqs massimu tal-messaġġ
+    infected_with: Infettat bil-virus
+    not_permitted_to_download_content_blocked: "It-tniżżil ta' dan il-fajl mhuwiex permess. L-iskennjar għall-viruses sab: %{virus}"
+    invalid_email_address: Indirizz tal-email invalidu
+    cant_create_folder: Il-folder ma jistax jinħoloq
+    cant_check_folder: Il-folder ma jistax jiġi ċċekkjat
+    cant_restore_folder: Il-folder ma jistax jiġi rrestawrat
+    cant_check_chunks: Il-partijiet ma jistgħux jiġu ċċekkjati
+    zip_not_include_all_files: Mhux il-fajls kollha jistgħu jitniżżlu – iż-ZIP se jkun fih biss il-fajls li jistgħu jitniżżlu.
+    paste_tip: Ħjiel! Waħħal b'Ctrl+Shift+V biex tneħħi l-formattjar.
+  session:
+    api:
+      authentication_error: Żball fl-awtentikazzjoni, erġa' pprova.
+      not_local_user: Indirizz tal-email invalidu. L-utenti lokali biss jistgħu jużaw din il-funzjoni.
+      show:
+        login: Idħol
+        login_label: Indirizz tal-email
+        password: Password
+        sso_login: Dħul SSO
+        authentication_title: Idħol
+        authentication_description: Daħħal l-indirizz tal-email tiegħek jew idħol biex tkompli.
+      authenticated:
+        authentication_successful: L-awtentikazzjoni rnexxiet
+    authenticate:
+      login: Idħol biex tkompli
+      description_html: Trid tidħol biex tiftaħ din il-paġna. Daħħal l-indirizz tal-email tiegħek jew idħol biex tkompli.<br>Jekk m'għandekx kont f'din is-sistema, daħħal l-indirizz tal-email tiegħek u nibagħtulek password temporanja bl-email.
+      unauthorized: M'intix awtorizzat tara dan il-messaġġ. Daħħal l-indirizz tal-email tiegħek eżatt kif intbagħatlek il-messaġġ jew ikkuntattja lill-mittent.
+    email:
+      validate_email: Ikkonferma l-indirizz tal-email tiegħek
+      validate_email_description_html: "Kodiċi tas-sigurtà ntbagħat fl-indirizz tal-email tiegħek: <strong>%{email}</strong>. Ikklikkja l-link jew daħħal il-kodiċi tas-sigurtà hawn biex tikkonferma l-indirizz tiegħek u tkompli."
+      session_expired: Is-sessjoni skadiet, erġa' daħħal l-indirizz tal-email tiegħek biex tkompli
+      token_expired: Il-link tal-awtentikazzjoni fl-email skada, erġa' pprova.
+      already_authenticated: Diġà dħalt f'dan il-browser.
+      resend_validation_email: Erġa' ibgħat l-email ta' validazzjoni
+      verify: Ivverifika
+      validate_email_sent: "Email ġdida ta' validazzjoni ntbagħtet: %{time}. Ikklikkja l-link fl-email jew daħħal il-kodiċi tas-sigurtà hawn taħt biex tikkonferma l-indirizz tal-email tiegħek."
+      invalid_temporary_user: Kodiċi tas-sigurtà invalidu. Iċċekkja l-email tiegħek – kodiċi tas-sigurtà ġdid intbagħat fl-inbox tiegħek.
+      create_account: Oħloq kont
+      create_account_description: Oħloq kont f'din is-sistema biex tidħol bl-indirizz tal-email u l-password tiegħek minflok b'kodiċi tas-sigurtà.
+      invalid_email: Indirizz tal-email invalidu
+    login_limit_exceeded:
+      delivered:
+        page_header: Inqabeż il-limitu tad-dħul
+        description: Ippruvajt tidħol wisq drabi. Biex tkompli, trid tirrisettja l-password tiegħek.
+        email: Intbagħtet email b'link biex tirrisettja l-password tiegħek.
+      waiting:
+        page_header: Inqabeż il-limitu tad-dħul
+        description: "Ippruvajt tidħol wisq drabi. Nota: trid tidħol bil-password tan-netwerk tiegħek. Jekk għandek bżonn tirrisettjaha u ma tafx kif, ikkuntattja amministratur tan-netwerk. Wara li jgħaddi l-ħin tal-istennija, tista' terġa' tgħabbi din il-paġna biex tirrisettja l-limitu."
+        expiration_time: Ħin tal-istennija
+        reload: Erġa' għabbi
+      show:
+        page_header: Inqabeż il-limitu tad-dħul
+        description: Ippruvajt tidħol wisq drabi. Tista' tirrisettja l-limitu tad-dħul u terġa' tidħol. Intbagħtitlek email biex tirrisettja l-limitu.
+      reset:
+        login_limit_reset: Il-limitu tad-dħul ġie rrisettjat
+    shared:
+      authentication_successful: L-awtentikazzjoni rnexxiet
+    outlook:
+      edit:
+        authentication_title: Awtentikazzjoni
+        authentication_description: Idħol biex tkompli
+        login: Idħol
+        login_label: Indirizz tal-email
+        password: Password
+        sso_login: Dħul SSO
+      show:
+        authentication_title: Awtentikazzjoni
+        authentication_description: Idħol biex tehmeż fajls siguri.
+        authenticate: Awtentika
+    saml:
+      not_configured:
+        title: L-SAML mhuwiex ikkonfigurat
+        description: L-SAML mhuwiex ikkonfigurat f'din is-sistema. Jekk taħseb li dan huwa żball, ikkuntattja l-appoġġ biex jinvestigawh.
+        support_button: Ikkuntattja l-appoġġ
+      api:
+        local:
+          title: Awtentikazzjoni SAML
+          description: L-awtentikazzjoni SAML bdiet fil-browser predefinit tiegħek – kompli d-dħul hemmhekk. Jekk ma ssibx it-tieqa jew jekk ma taħdimx għal xi raġuni, tista' tkompli billi tikklikkja l-buttuna hawn taħt.
+          button_label: Dħul SSO
+      response:
+        api_error:
+          authentication_error: L-awtentikazzjoni falliet
+          saml_authentication_error: L-awtentikazzjoni SSO falliet
+          saml_authentication_error_description: L-awtentikazzjoni SSO falliet. Ikkuntattja lill-amministratur jekk il-problema tippersisti.
+        api_disabled:
+          api_disabled: Grupp ta' utenti mhux awtorizzat
+          api_disabled_description: Il-kont tiegħek m'għandux aċċess għal din il-funzjoni (API diżattivat). Ikkuntattja amministratur u itolbu jittrasferixxi l-kont tiegħek għal grupp ieħor.
+        api_response:
+          authentication_successful: L-awtentikazzjoni rnexxiet
+        create:
+          could_not_create_account: Il-kont ma setax jinħoloq. Ikkuntattja amministratur għal aktar informazzjoni.
+        show:
+          could_not_create_account: Il-kont ma setax jinħoloq. Ikkuntattja amministratur għal aktar informazzjoni.
+    temporary_user:
+      validate_email: Ikkonferma l-indirizz tal-email tiegħek
+      validate_email_description_html: "Password temporanja ntbagħtet fl-indirizz tal-email tiegħek: <strong>%{email}</strong>. Ikklikkja l-link jew daħħal il-password temporanja hawn biex tikkonferma l-indirizz tiegħek u tkompli."
+      session_expired: Is-sessjoni skadiet, erġa' daħħal l-indirizz tal-email tiegħek biex tkompli
+      token_expired: Il-link tal-awtentikazzjoni fl-email skada, erġa' pprova.
+      already_authenticated: Diġà dħalt f'dan il-browser.
+      resend_validation_email: Erġa' ibgħat l-email ta' validazzjoni
+      verify: Ivverifika
+      validate_email_sent: "Email ġdida ta' validazzjoni ntbagħtet: %{time}. Ikklikkja l-link fl-email jew daħħal il-password hawn taħt biex tikkonferma l-indirizz tal-email tiegħek."
+      invalid_temporary_user: Password invalida. Iċċekkja l-email tiegħek – il-password temporanja reġgħet intbagħtet fl-inbox tiegħek.
+      temporary_user_expired: Il-password temporanja skadiet. Iċċekkja l-email tiegħek – password temporanja ġdida ntbagħtet fl-inbox tiegħek.
+      create_account: Oħloq kont
+      create_account_description: Oħloq kont permanenti f'din is-sistema biex tidħol bl-indirizz tal-email u l-password tiegħek minflok b'kont ta' utent temporanju.
+  shared:
+    show: Uri
+    reify: Irrestawra
+    download: Niżżel
+    restore: Irrestawra
+    delete: Ħassar
+    trash: Barmil taż-żibel
+    cancel: Ikkanċella
+    close: Agħlaq
+    current: Attwali
+    bootstrap_confirm_dialog:
+      confirm_action: Ikkonferma l-azzjoni
+    shares:
+      bootstrap_confirm_dialog:
+        confirm_action: Ikkonferma l-azzjoni
+      navigation:
+        files: Fajls
+        activity_log: Reġistru tal-attività
+      wrap_content:
+        activity_log: Reġistru tal-attività
+    error_messages:
+      prohibited_this_from_being_saved: ma ħallietx lil %{target} jiġi ssejvjat
+  share:
+    share: Share
+    shares: Share
+    no_shares: M'hemm l-ebda Share disponibbli
+    name: Isem
+    folder_name: Isem il-folder
+    share_not_found: Is-Share ma nstabx
+    folder_not_found: Il-folder ma nstabx
+    file_not_found: Il-fajl ma nstabx
+    no_read_access: M'intix awtorizzat taċċessa dan is-Share
+    no_write_access: M'għandekx permess tikteb f'dan is-Share
+    not_authorized_to_view_logs: M'intix awtorizzat tara r-reġistri
+    require_authentication: Dan is-Share jeħtieġ awtentikazzjoni. Daħħal il-password biex tkompli.
+    authenticate: Awtentika
+    authentication_failed: L-awtentikazzjoni falliet
+  shares:
+    folders:
+      are_you_sure_you_want_to_delete: Żgur li trid tħassar dan il-folder?
+      are_you_sure_you_want_to_trash: Żgur li trid tħassar dan il-folder b'mod permanenti?
+      folder_name_already_taken: Dan l-isem tal-folder diġà qed jintuża!
+      folder_not_found: Il-folder ma nstabx
+      could_not_create_folder: "Il-folder ma setax jinħoloq: %{error}"
+      zip_no_files: M'hemm l-ebda fajl biex jiżdied maż-ZIP
+      windows_path_warning:
+        title: Limitazzjoni tat-tul tal-mogħdija f'Windows
+        description_html: <strong>Utenti tal-Windows:</strong> il-Windows jillimita l-mogħdijiet tal-fajls għal 259 karattru. Meta ttella' folders minn postijiet b'mogħdijiet twal, fajls fil-fond tal-istruttura tal-folders jistgħu jinqabżu mingħajr twissija, u dan iwassal għal tlugħ mhux komplut jew folders duplikati.
+        workarounds_title: Soluzzjonijiet rakkomandati
+        workarounds_html: "<li><strong>Uża drive virtwali:</strong> iftaħ il-Command Prompt u ħaddem: <code>subst X: \"C:\\moghdija\\twila\\ghall\\folder\"</code><br>Imbagħad tella' mid-drive virtwali <code>X:\\</code></li><li><strong>Mur eqreb lejn il-fajls:</strong> iftaħ subfolder eqreb lejn il-fajls tiegħek qabel ma tagħżel il-folder tat-tlugħ</li><li><strong>Uża mogħdija iqsar:</strong> ikkopja l-fajls tiegħek f'post iqsar, bħal <code>C:\\uploads\\</code>, qabel it-tlugħ</li><li><strong>L-ewwel ikkompressa l-folder:</strong> ikkompressa l-folder f'fajl ZIP u tella' l-fajl ZIP minflok</li>"
+        advanced_title: "Avvanzat: attiva mogħdijiet twal f'Windows 10/11"
+        advanced_description_html: Mill-verżjoni 1607 tal-Windows 10 'il quddiem, tista' tattiva l-appoġġ għal mogħdijiet itwal. <strong>Nota:</strong> huma meħtieġa drittijiet tal-amministratur u jista' ma jaħdimx fil-browsers kollha. Is-soluzzjonijiet ta' hawn fuq huma aktar affidabbli.
+        registry_steps_title: Passi biex tattiva mogħdijiet twal
+        registry_steps_html: "<li>Agħfas <kbd>Win + R</kbd>, ittajpja <code>regedit</code> u agħfas Enter</li><li>Mur għal: <code>HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\FileSystem</code></li><li>Sib jew oħloq valur DWORD bl-isem <code>LongPathsEnabled</code> u ssettjah għal <code>1</code></li><li>Erġa' ixgħel il-kompjuter biex il-bidla tidħol fis-seħħ</li><li>Erġa' pprova t-tlugħ (l-appoġġ jista' jvarja skont il-browser)</li>"
+        browser_disclaimer_html: "<strong>Importanti:</strong> anke b'dan is-setting tar-reġistru attivat, l-appoġġ għal mogħdijiet twal ivarja skont il-browser. Chrome, Edge u Firefox xorta jistgħu japplikaw il-limitu ta' 259 karattru. Is-soluzzjonijiet ta' hawn fuq huma aktar affidabbli."
+      folder:
+        rename_folder: Semmi mill-ġdid il-folder
+        move_folder_description: Mexxi l-folder %{foldername} għall-folder magħżul hawn taħt
+        move_folder: Mexxi l-folder
+      action_bar:
+        download_as_zip: Niżżel bħala ZIP
+        download_as_zip_with_deleted: Niżżel bħala ZIP, inklużi l-fajls imħassra
+        toggle_deleted_view: Uri/aħbi l-fajls imħassra
+        filter: Iffiltra
+        upload_file: Tella' fajls
+        upload_folder: Tella' folder
+        create_folder: Oħloq folder
+        windows_path_warning: Twissija dwar it-tul tal-mogħdija
+        upload_folder_unsupported: It-tlugħ ta' folders mhuwiex appoġġat
+        upload_folder_unsupported_description: Sfortunatament, il-browser tiegħek ma jappoġġax it-tlugħ ta' folders. Uża l-verżjoni desktop ta' Chrome jew Safari biex ittella' struttura ta' folders.
+        showing_deleted: Qed jintwerew %{number_of} imħassra
+        hiding_deleted: Qed jinħbew %{number_of} imħassra
+        actions: Azzjonijiet
+        move_selected: Mexxi l-magħżula
+        trash_selected: Ibgħat il-magħżula fil-barmil taż-żibel
+        delete_selected: Ħassar il-magħżula
+      action_bar_below:
+        send_notifications: Ibgħat notifiki
+        sending_notifications: Qed jintbagħtu n-notifiki
+        quota: Kwota
+        used_of: użati minn
+        available: disponibbli
+        quota_exceeded: Inqabżet il-kwota
+      create_folder_modal:
+        create_folder: Oħloq folder
+        create: Oħloq
+      files:
+        are_you_sure_you_want_to_delete: Żgur li trid tħassar dan il-fajl?
+        are_you_sure_you_want_to_trash: Żgur li trid tħassar dan il-fajl b'mod permanenti?
+        file_not_found: Il-fajl ma nstabx
+        file:
+          rename_file: Semmi mill-ġdid il-fajl
+          move_file: Mexxi
+          move_file_description: Mexxi l-fajl %{filename} għall-folder magħżul hawn taħt
+        show:
+          prev: Ta' qabel
+          up: Fuq
+          next: Li jmiss
+          last_updated: L-aħħar aġġornament
+          versions: Verżjonijiet
+          show_all: Uri kollox
+          version_from: Verżjoni ta'
+          next_version: Il-verżjoni li jmiss
+          previous_version: Il-verżjoni ta' qabel
+          current_version: Il-verżjoni attwali
+          pdf_preview_not_supported: Il-preview ta' fajls PDF mhuwiex appoġġat mill-browser tiegħek
+        available_chunks:
+          available: Hemm tlugħ parzjali disponibbli tal-fajls li ġejjin
+          resume_replace: Trid tkompli t-tlugħ jew tissostitwixxi l-fajls?
+      quota:
+        quota: Kwota
+        used_of: użati minn
+        available: disponibbli
+        quota_exceeded: Inqabżet il-kwota
+      move_file_folder_modal:
+        move_folder: Mexxi l-folder
+        move_file: Mexxi l-fajl
+        move: Mexxi
+      show:
+        select_all: Agħżel/neħħi l-għażla ta' kollox
+    logs:
+      action_bar:
+        activity_log: Reġistru tal-attività
+      message:
+        created: Maħluq
+        uploaded: Imtella'
+        downloaded: Imniżżel
+        reified: Irrestawrat
+        removed: Imneħħi
+        restored: Irrestawrat
+        deleted: Imħassar
+        moved: Imċaqlaq
+        renamed: Imsemmi mill-ġdid
+        added: Miżjud
+        viewed: Muri
+        infected: Infettat
+        trashed: Fil-barmil taż-żibel
+        deleted_user: "(Utent imħassar)"
+        share: Share
+        folder: Folder
+        file: Fajl
+        group: Grupp
+        user: Utent
+        read: Qari
+        read/write: Qari/kitba
+        av_scanner: Skaner tal-antivirus
+        version_from: Verżjoni ta'
+        file_deleted: Il-fajl tħassar
+        to: lil
+        from: minn
+        unknown: Mhux magħruf
+        other: Ieħor
+  share/log:
+    message:
+      you: Int
+      share: Share
+      folder: folder
+      file: fajl
+      user: utent
+      version_from: verżjoni ta'
+      read: qari
+      read/write: qari/kitba
+      created: ħoloq
+      added: żied
+      uploaded: tella'
+      downloaded: niżżel
+      updated: aġġorna
+      restored: irrestawra
+      reified: irrestawra
+      deleted: ħassar
+      removed: ħassar b'mod permanenti
+      trashed: bagħat fil-barmil taż-żibel
+      renamed: semma mill-ġdid
+      viewed: ra
+      infected: infettat
+      av_scanner: Skaner tal-antivirus
+      file_deleted: Il-fajl tħassar
+  sms_auth:
+    login_failed: Id-dħul falla
+    sms_error: Żball fil-konfigurazzjoni tal-SMS, ikkuntattja lill-amministratur tas-sistema
+    verify_token: Ivverifika l-kodiċi SMS
+    verify_token_description: "Daħħal il-kodiċi mibgħut fuq il-mobile tiegħek:"
+    sms_login_failed: Il-validazzjoni tal-SMS falliet, intbagħat kodiċi SMS ġdid
+    sms_signup: Irreġistra għall-awtentikazzjoni b'żewġ fatturi permezz ta' SMS
+    sms_signup_failed: L-awtentikazzjoni b'żewġ fatturi permezz ta' SMS falliet
+    sms_signup_description: Biex tkompli, trid tirreġistra għall-awtentikazzjoni b'żewġ fatturi permezz ta' SMS. Daħħal in-numru tat-telefon tiegħek hawn taħt biex tkompli.
+    verify: Ivverifika
+    resend: Erġa' ibgħat il-kodiċi
+    code: Kodiċi
+    token_resent: Il-kodiċi SMS reġa' ntbagħat fil-%{time}
+    send_token: Ibgħat kodiċi ta' verifika
+    phone_number: Numru tat-telefon
+    invalid_phone_number: Numru tat-telefon invalidu, erġa' pprova.
+    change_phone_number: Ibdel in-numru tat-telefon
+    phone_number_help: Daħħal in-numru tat-telefon tiegħek bil-kodiċi tal-pajjiż u mingħajr żerijiet fil-bidu (eż. 35679123456). Se jintbagħat kodiċi ta' verifika f'dan in-numru.
+    one-time-code: Kodiċi għal darba waħda
+  strong_auth:
+    two_factor_authentication: Awtentikazzjoni b'żewġ fatturi
+    enable_2fa: Attiva l-awtentikazzjoni b'żewġ fatturi
+    disable_2fa: Iddiżattiva l-awtentikazzjoni b'żewġ fatturi
+    title: Attiva l-awtentikazzjoni b'żewġ fatturi
+    enable_2fa_description: Tista' tattiva awtentikazzjoni b'saħħitha b'żewġ fatturi biex iżżid is-sigurtà tal-kont tiegħek.
+    require_description: Biex tuża din is-sistema, trid tissettja l-awtentikazzjoni b'żewġ fatturi.
+    disable_description: Daħħal il-kodiċi attwali biex tiddiżattiva l-awtentikazzjoni b'żewġ fatturi
+    two_factor_auth_disabled: L-awtentikazzjoni b'żewġ fatturi ġiet diżattivata
+    step1: "Pass 1: niżżel l-app tal-awtentikazzjoni"
+    step1_description: Attiva l-awtentikazzjoni b'żewġ fatturi, normalment b'app tal-mobile.
+    totp_apps_description_html: Fost l-apps tal-awtentikazzjoni hemm <a href="https://authy.com" target="_blank" rel="external nofollow noopener noreferrer">Authy</a> (diversi pjattaformi) u Google Authenticator (iOS/Android). Ara <a href="https://docs.liquidfiles.com/authentication/totp.html#clients" target="_blank">TOTP Clients</a> għal aktar għażliet.
+    step2: "Pass 2: issettja l-app tal-awtentikazzjoni"
+    step2_description: Issettja l-app tal-awtentikazzjoni billi tiskennja l-kodiċi QR.
+    step2_alt: Jew daħħal il-kodiċi hawn taħt
+    step3: "Pass 3: ivverifika"
+    step3_description: Ivverifika s-setup billi ddaħħal il-kodiċi ġġenerat mill-app tal-awtentikazzjoni.
+    failed_to_authenticate: L-awtentikazzjoni falliet, erġa' pprova.
+    click_on_link: Inkella, ikklikkja l-link hawn taħt biex iżżid il-konfigurazzjoni mal-app tal-awtentikazzjoni b'żewġ fatturi
+    configure: Issettja l-awtentikazzjoni b'żewġ fatturi
+    success_saved: Suċċess, il-konfigurazzjoni tal-awtentikazzjoni b'żewġ fatturi ġiet issejvjata
+    verify_token: Ivverifika l-awtentikazzjoni b'żewġ fatturi
+    verify_token_description: Daħħal il-kodiċi tal-awtentikazzjoni b'żewġ fatturi mill-app tal-mobile.
+    verify: Ivverifika
+    two_factor_login_failed: L-awtentikazzjoni b'żewġ fatturi falliet
+    two_factor_validation_failed: Il-validazzjoni tal-awtentikazzjoni b'żewġ fatturi falliet
+    skip_2fa_for_two_weeks: Aqbeż l-awtentikazzjoni b'żewġ fatturi f'dan il-browser għal ġimagħtejn
+    one-time-code: Kodiċi għal darba waħda
+  support:
+    email_subject: Għandi bżonn għajnuna dwar
+    email_body: Iddeskrivi l-problema tiegħek bl-aktar mod dettaljat possibbli. Grazzi.
+    navbar_tooltip: Jekk għandek bżonn għajnuna biex taċċessa jew tuża din is-sistema, ikklikkja dan il-link u nkunu kuntenti ngħinuk.
+  user:
+    includes_at_least_one_invalid_email_address: fih mill-inqas indirizz tal-email invalidu wieħed
+    confirm:
+      invalid_session: Sessjoni invalida
+      already_validated: L-indirizz tal-email tiegħek diġà ġie kkonfermat
+      invalid_token: Kodiċi invalidu. Erġa' pprova jew ikklikkja Erġa' ibgħat l-email ta' validazzjoni.
+      validation_email_sent: "L-email ta' validazzjoni ntbagħtet: %{time}"
+      activated_successfully: Ġie attivat b'suċċess
+      validate_email_description: Iċċekkja l-email tiegħek u daħħal il-password temporanja biex tikkonferma l-indirizz tal-email tiegħek.
+    register:
+      already_registered: Dan il-kont diġà rreġistrat, idħol biex tkompli
+      already_registered_not_validated: Il-kont tiegħek diġà rreġistrat, iżda l-indirizz tal-email tiegħek għadu jrid jiġi kkonfermat. Bgħatnielek email b'kodiċi każwali. Daħħal il-kodiċi hawn taħt jew ikklikkja l-link fl-email biex tikkonferma l-kont tiegħek.
+      show:
+        register: Irreġistra kont
+        description_html: <p>Daħħal id-dettalji tiegħek biex toħloq kont. B'dan il-kont tista' tibgħat fajls kbar b'mod sigur fuq %{branding_name}.</p>
+    signup:
+      create:
+        need_password: Trid iddaħħal password
+        need_name: Trid iddaħħal isem
+    create:
+      show:
+        cancel_and_remember: Ikkanċella u terġax tistaqsini
+        cancel_and_remember_title: Dan jiġi mfakkar fil-browser attwali
+  validator:
+    required: Dan il-qasam huwa obbligatorju.
+    remote: Ikkoreġi dan il-qasam.
+    email: Daħħal indirizz tal-email validu.
+    url: Daħħal URL validu.
+    date: Daħħal data valida.
+    dateISO: Daħħal data valida (ISO).
+    number: Daħħal numru validu.
+    digits: Daħħal ċifri biss.
+    creditcard: Daħħal numru validu ta' karta tal-kreditu.
+    equalTo: Erġa' daħħal l-istess valur.
+    accept: Daħħal valur b'estensjoni valida.
+    maxlength: Daħħal mhux aktar minn {0} karattri.
+    minlength: Daħħal mill-inqas {0} karattri.
+    rangelength: Daħħal valur ta' bejn {0} u {1} karattri.
+    range: Daħħal valur bejn {0} u {1}.
+    max: Daħħal valur inqas minn jew ugwali għal {0}.
+    min: Daħħal valur akbar minn jew ugwali għal {0}.
+    step: Daħħal multiplu ta' {0}.
+    invalid_phone_number: Numru tat-telefon invalidu
+  locale: Malti

@@ -1,0 +1,1569 @@
+ja:
+  s: 秒
+  min: 分
+  hours: 時間
+  days: 日
+  weeks: 週間
+  months: か月
+  years: 年
+  ago: 前
+  email: メール
+  save: 保存
+  delete: 削除
+  cancel: キャンセル
+  remove: 削除
+  aborting: 中止しています
+  aborted: 中止しました
+  saved_successfully: 保存しました
+  logout: ログアウト
+  error: エラー
+  enabled: 有効
+  disabled: 無効
+  disable: 無効にする
+  default: デフォルト
+  submit: 送信
+  session_expired: セッションの有効期限が切れました
+  search: 検索
+  filter: フィルター
+  recipient: 受信者
+  recipients: 受信者
+  downloaded_by: ダウンロードしたユーザー
+  filename: ファイル名
+  size: サイズ
+  downloaded: ダウンロード済み
+  host: ホスト
+  ip: IP アドレス
+  action: 操作
+  view_message: メッセージを表示
+  view_message_popup: メッセージを表示（ポップアップ）
+  download_info: ダウンロード情報
+  message_id: メッセージ ID
+  filelink_id: FileLink ID
+  sent_at: 送信日時
+  id: ID
+  subject: 件名
+  expires: 有効期限
+  invalid_method: 無効なメソッド
+  export_csv: CSV にエクスポート
+  export_all: すべてエクスポート
+  export_visible: 表示中の項目をエクスポート
+  temporarily_unavailable: 一時的に利用できません
+  generic_search_error: 検索エラー
+  sender: 送信者
+  search_temporary_disabled: 検索は一時的に無効になっています
+  help: ヘルプ
+  close: 閉じる
+  count: 件数
+  settings: アカウント設定
+  virus: ウイルス
+  virus_status: ウイルススキャンの状態
+  infected: 感染
+  clean: 問題なし
+  not_scanned: 未スキャン
+  not_yet_scanned: まだスキャンされていません
+  csrf_error: "CSRF：無効なパラメーターが検出されました。続行するには再度ログインしてください。"
+  could_not_be_saved: 保存できませんでした
+  label: ラベル
+  updated: 更新済み
+  add: 追加
+  system_info: システム情報
+  location: 場所
+  accept: 同意する
+  last_7_days: 過去 7 日間
+  last_30_days: 過去 30 日間
+  last_60_days: 過去 60 日間
+  last_90_days: 過去 90 日間
+  last_180_days: 過去 180 日間
+  last_365_days: 過去 365 日間
+  file: ファイル
+  files: ファイル
+  next: 次へ
+  previous: 前へ
+  name: 名前
+  view: 表示
+  forget: 削除
+  update: 更新
+  updated_at: 更新日時
+  created_at: 作成日時
+  download_link_expired: ダウンロードリンクの有効期限が切れています。
+  no_html5_upload_warning: ファイルをアップロードするには、HTML5 に対応した最新のブラウザーが必要です。Microsoft Edge、Chrome、Firefox、Safari はいずれも問題なく動作します。
+  javascript_warning: ファイルのアップロードやほとんどの機能の利用には JavaScript が必要です。
+  cookie_accept: このサイトでは Cookie を使用しています。ログインするか「同意する」をクリックすると、Cookie の使用に同意したことになります。
+  i_agree: 同意します
+  session_timeout: セッションの有効期限が切れました。再度ログインしてください
+  loading: 読み込み中...
+  unsupported_browser_header: サポートされていないブラウザー
+  unsupported_browser_description_html: お使いのブラウザーはサポートされていないため、サイトが正しく動作しない可能性があります。新しいブラウザーをご利用ください。
+  not_logged_in_invalid_parameters: ログインしていません。パラメーターが無効です
+  toggle_dropdown: メニューの表示/非表示
+  rejected: 拒否されました
+  undetected: 未検出
+  invalid_link: 無効なリンクです。送信者にお問い合わせください
+  account_settings_tooltip: アカウント設定
+  logout_tooltip: ログアウト
+  download_id: ダウンロード ID
+  remote_host: リモートホスト
+  show: 表示
+  hide: 非表示
+  password: パスワード
+  download: ダウンロード
+  unauthorized: 権限がありません
+  account:
+    login: ログイン
+    login_label: メールアドレス
+    email: メールアドレス
+    password: パスワード
+    current_password: 現在のパスワード
+    please_enter_your_current_password: 現在のパスワードを入力してください
+    sign_in: ログイン
+    remember_me: ログイン状態を保持する
+    not_administrator: 管理者ではありません
+    password_reset: パスワードをリセット
+    register: 登録
+    register_description_html: ありがとうございます。続行するには、情報を入力してアカウントを作成してください。<br>次回からはメールアドレスとパスワードでログインできます。
+    account_not_activated: アカウントが有効化されていません。ログインする前にアカウントを有効化してください。ランダムなコードを記載したメールをお送りしました。下にコードを入力するか、メール内のリンクをクリックしてアカウントを確認してください。
+    incorrect_user_or_pw: ユーザー名またはパスワードが正しくありません
+    confirmation_email_sent: 確認メールを送信しました
+    activated_successfully: 有効化しました
+    not_activated: アカウントが有効化されていません
+    password_reset_email_sent: パスワードリセット用のメールを送信しました
+    no_such_user: このユーザーは存在しません
+    no_such_email: メールアドレスが見つかりません
+    not_logged_in: ログインしていません。続行するにはログインしてください。
+    saved_successfully: 保存しました
+    unlicensed_install_some_settings: "ライセンスのないインストール：ブランディングのオプションはシステム管理者にのみ表示されます"
+    incorrect_login_or_demo: ユーザー名またはパスワードが正しくないか、ライセンスの上限に達しています
+    incorrect_login_or_ldap: ユーザー名またはパスワードが正しくないか、LDAP サーバーでエラーが発生しました
+    invalid_api_key: API キーが無効です
+    cant_delete_last_sysadmin: 最後のシステム管理者は削除できません
+    cant_change_last_sysadmin: 最後のシステム管理者は変更できません
+    sso_login: SSO でログイン
+    invalid_sso_response: SSO の応答が無効です
+    automatic: 自動検出
+    network_access_blocked: お使いのネットワークからこのシステムへのアクセスは許可されていません。
+    please_login: このページを開くにはログインしてください。
+    email_validation_session_timeout: セッションの有効期限が切れました。メールアドレスをもう一度確認してください。
+    signature: 署名
+    not_authorized_for_action: この操作を行う権限がありません
+    invalid_group: 無効なグループです。アカウントをローカルユーザーグループに移動できる管理者にお問い合わせください
+    invalid_group_configuration: グループの設定が無効です。アカウントを作成するか、グループの設定を調整できる管理者にお問い合わせください。
+    please_enter_email_to_email_password: パスワードをリセットするには、メールアドレスを入力してください。このアドレスに確認メールが送信されます。
+    password_reset_successfully: パスワードをリセットしました
+    password_cant_be_empty: パスワードを空にすることはできません
+    password_complexity_title: パスワードの複雑さ
+    password_complexity_description_html: "<p>パスワードは<strong>辞書にある単語に基づくことはできず</strong>、次の要件のうち少なくとも 3 つを満たす必要があります：</p><ul><li>8 文字以上</li><li>11 文字以上</li><li>15 文字以上</li><li>小文字と大文字をそれぞれ 1 文字以上</li><li>数字（0-9）を 1 文字以上</li><li>次の記号のいずれか 1 文字以上：!,@,#,$,%,^,&amp;,*,?,_,~,-,(,)</li></ul>"
+    is_not_strong_enough: 強度が不十分です
+    your_password_has_expired: パスワードの有効期限が切れています
+    please_select_a_different_password: 以前とは異なるパスワードを選択してください
+    change_password: パスワードを変更
+    account_not_found: アカウントが見つかりません。再度ログインしてください。
+    user_required_to_use_saml: パスワードをリセットできません。SAML でログインしてください
+    sysadmin_ldap_error: このアカウントは LDAP で管理されているため、ここではリセットできません
+    login_limit_exceeded: ログイン試行回数の上限を超えました
+    a_confirmation_email_will_be_sent: このアドレスに確認メールが送信されます
+    name: 名前
+    password_confirm: パスワード（確認）
+    save: 保存
+    can_not_reset_password_please_check_with_your_administrator: パスワードをリセットできません。管理者にお問い合わせください
+    no_need_to_register_user: 登録の必要はありません。既存のアカウントでログインしてください。
+    registration_not_allowed: 登録は許可されていません
+    create_description: 名前とパスワードを入力してアカウントを作成してください。
+    activated_successfully_please_login: アカウントを有効化しました。メールアドレスとパスワードでログインできます。
+    invalid_activation_url: 有効化リンクが無効です。リンクを確認してもう一度お試しください。
+    already_logged_in: すでにログインしています。新しいアカウントは登録できません。
+    bruteforce_message: 失敗した試行の回数が上限を超えました。%{minutes} 分後にもう一度お試しください。
+    admin_access_blocked: お使いの IP アドレスからの管理者アクセスは許可されていません。
+    account_created_successfully: アカウントを作成しました
+    create_account: アカウントを作成
+    create_account_description: アカウントを作成するには情報を更新してください。
+    account_settings: アカウント設定
+    change_language: 言語とタイムゾーンを変更
+    filedrop_label: Filedrop（ランダム）
+    filedrop_email_label: Filedrop
+    verify_account: アカウントを確認
+    invalid_sso_signature: SSO の署名またはログインが無効です
+    user_not_found: ユーザーが見つかりません
+    could_not_create_account: アカウントを作成できませんでした
+    two_factor_authentication_failed: Duo の 2 要素認証に失敗しました
+    copy_to_clipboard: クリップボードにコピー
+    copy_url_to_clipboard: URL をクリップボードにコピー
+    delete_user_warning: このユーザーを削除してもよろしいですか？
+    unauthorized_to_login: ログインする権限がありません
+    first_time_message_title: LiquidFiles へようこそ
+    first_time_message: <p>大容量ファイルを安全に送信する最も簡単な方法、LiquidFiles へようこそ。</p><p>基本機能は Web メールとまったく同じように使えます。</p><p>このメッセージは一度だけ表示されます。操作に迷ったときや高度な機能を知りたいときは、メニューバー右上の「ヘルプ」ボタンをクリックしてください。</p>
+    first_time_message_button: わかりました
+    registration_failed_unknown_error: 不明なエラーのため登録に失敗しました
+    session_timeout: セッションの有効期限が切れました
+    nothing_filled_in: フォームに入力してください
+    last_used: 最終使用日時
+    strong_auth_required_before_password_reset: このアカウントのパスワードをリセットするには、強力な 2 要素認証が必要です。
+    unfriendly_registration_message: このメールアドレスでシステムに登録できる場合は、メールが届きます。届かない場合は、上のサポートリンクをご利用ください。
+    unfriendly_password_reset_message: このメールアドレスのアカウントをリセットできる場合は、メールが届きます。届かない場合は、上のサポートリンクをご利用ください。
+    aliases:
+      aliases: エイリアス
+      aliases_description: アカウントに送信者エイリアスと受信者エイリアスを追加できます。送信者エイリアスを使うと、そのメールアドレスの代理としてメッセージを送信できます。受信者エイリアスを使うと、そのアドレス宛てのメッセージを表示できます。受信者エイリアス宛てのメッセージは、セキュアメッセージの受信トレイにも表示されます。
+      aliases_no_change_description: 送信者エイリアスを使うと、そのメールアドレスの代理としてメッセージを送信できます。受信者エイリアスを使うと、そのアドレス宛てのメッセージを表示できます。受信者エイリアス宛てのメッセージは、セキュアメッセージの受信トレイにも表示されます。エイリアスを追加または変更するには、管理者にお問い合わせください。
+      recipient_aliases: 受信者エイリアス
+      sender_aliases: 送信者エイリアス
+      add_alias: エイリアスを追加
+      remove: 削除
+      default_sender_alias: デフォルトの送信者エイリアス
+      default_sender_alias_description: デフォルトで使用される送信者エイリアスです。
+      are_you_sure: このエイリアスを削除してもよろしいですか？
+      no_emails: エイリアスは追加されていません。
+      please_contact_an_administrator: 管理するには管理者にお問い合わせください
+      auto_added_aliases: 自動的に追加されたエイリアス
+      auto_added_aliases_description: 次のエイリアスがプロフィールに自動的に追加されました。管理するには管理者にお問い合わせください。
+    alias:
+      confirm:
+        show:
+          title: ご確認ありがとうございます
+          alias_email: エイリアスのメールアドレス
+          user: ユーザー
+          recipient_and_sender_confirmation: 上記のユーザーは、このメールアドレス宛てのセキュアメッセージを表示し、このアドレスの代理としてセキュアメッセージを送信できるようになりました。誤りである場合は、上のサポートリンクをクリックしてください。
+          only_recipient_confirmation: 上記のユーザーは、このメールアドレス宛てのセキュアメッセージを表示できるようになりました。誤りである場合は、上のサポートリンクをクリックしてください。
+          only_sender_confirmation: 上記のユーザーは、このメールアドレスの代理としてセキュアメッセージを送信できるようになりました。誤りである場合は、上のサポートリンクをクリックしてください。
+    add_alias_modal:
+      title: エイリアスを追加
+      description: 受信者エイリアスまたは送信者エイリアスとしてアクセスしたいメールアドレスを入力してください。このアドレスに確認メールが送信されます。
+      recipient_alias: 受信者エイリアス - このメールアドレス宛てのメッセージを読みたい。
+      sender_alias: 送信者エイリアス - このメールアドレスの代理としてメッセージを送信したい。
+      invalid_email: メールアドレスが無効です
+      add_permission: 受信者エイリアス、送信者エイリアス、またはその両方を選択してください。
+      send_request: リクエストを送信
+      request_has_been_sent: リクエストを送信しました。
+    api:
+      api_key: API キー
+      api_key_description: API キーは Outlook プラグインなどのプラグインで使用され、独自の連携にも利用できます。管理者から求められた場合にのみ必要です。
+      api_key_reset_warning: よろしいですか？API キーをリセットすると、古いキーを使用していたすべての場所で置き換える必要があります。
+      reset_api_key: API キーをリセット
+    contacts:
+      contacts: 連絡先
+      contacts_description: 連絡先はいくつでも追加できます。各連絡先には複数のメールアドレスを登録できるため、多数の受信者にすばやく簡単に一斉送信できます。
+      add_contact: 連絡先を追加
+      email_field_help: メールアドレスをカンマ区切りで入力します。
+      contact:
+        edit_label: ラベルを編集
+        edit_email: メールアドレスを編集
+        are_you_sure: この連絡先を削除してもよろしいですか？
+    filedrops:
+      filedrops: Filedrop
+      filedrops_description: あなたはこれらの Filedrop の主な受信者または CC 受信者です。いずれかを通じて送信されたファイルはすべてあなたに届きます。
+      name: 名前
+      title: タイトル
+      recipient: 受信者
+      expires_after: 有効期間
+      max_size: 最大ファイルサイズ
+      url: URL
+      main_recipient: 主な受信者
+      cc: CC
+    personal_filedrop:
+      personal_filedrop: 個人用 Filedrop
+      personal_filedrop_description: 個人用 Filedrop を使うと、簡単にファイルを受け取れます。リンクを送信したり、Web サイトに掲載したり、メール署名に追加したりできます。誰かが個人用 Filedrop を通じて何かを送信すると、すぐに通知が届きます。
+    previous_recipients:
+      previous_recipients: 過去の受信者
+      previous_recipients_description: セキュアメッセージを送信すると、各受信者がこの過去の受信者リストに追加されます。これにより、同じ受信者にすばやく再送信できます。180 日間何も送信していない受信者は、リストから自動的に削除されます。
+      are_you_sure: この過去の受信者を削除してもよろしいですか？
+    pw_dictionary:
+      based_on_a_dictionary_word: 辞書にある単語に基づいています
+      based_upon_your_password_entry: 入力したパスワードに基づいています
+      derived_from_your_password_entry: 入力したパスワードから派生しています
+      derivable_from_your_password_entry: 入力したパスワードから推測できます
+      way_too_short: 短すぎます
+      too_short: 短すぎます
+      it_does_not_contain_enough_different_characters: 異なる文字が十分に含まれていません
+      all_whitespace: 空白のみで構成されています
+      too_simplistic_systematic: 単純すぎるか規則的すぎます
+      it_looks_like_a_national_insurance_number: マイナンバーのように見えます
+      based_on_a_reversed_dictionary_word: 辞書にある単語（逆順）に基づいています
+    show:
+      basic_settings: 基本設定
+      change_password: パスワードを変更
+      strong_auth: 2 要素認証
+      aliases: エイリアス
+      previous_recipients: 過去の受信者
+      contacts: 連絡先
+      personal_filedrop: 個人用 Filedrop
+      api: API
+      filedrops: Filedrop
+    sms_disable:
+      disable_sms_otp: SMS による 2 要素認証を無効にする
+      disable_sms_otp_description: SMS による 2 要素認証を無効にするには、下のボタンをクリックしてください。リクエストを確認するための SMS コードが送信されます。
+      verify_token_description: "SMS による 2 要素認証を無効にするには、携帯電話に送信されたコードを入力してください："
+      code: コード
+      sms_token_failed: SMS コードが無効なため、SMS による 2 要素認証を無効にできませんでした
+      sms_otp_has_been_disabled: SMS による 2 要素認証を無効にしました
+    sms_signup:
+      sms_signup_description: 2 要素認証を有効にすると、アカウントのセキュリティを強化できます。有効にするには、下に電話番号を入力してください。
+      phone_number: 電話番号
+    sms_enable:
+      signup_complete: SMS による 2 要素認証を有効にしました
+    terms_of_service:
+      show:
+        title: 利用規約
+        accept_terms_of_service: 利用規約に同意する
+        do_not_accept: 同意しない
+      create:
+        you_need_to_accept: 利用規約に同意する必要があります。
+  activerecord:
+    attributes:
+      attachment:
+        filename: ファイル名
+        size: サイズ
+        secure_id: 添付ファイル ID
+        content_type: コンテンツタイプ
+        created_at: 作成日時
+        updated_at: 更新日時
+      download:
+        recipient: 受信者
+        downloaded_at: ダウンロード日時
+        remote_ip: リモート IP
+        remote_host: リモートホスト
+        created_at: 作成日時
+        updated_at: 更新日時
+      filedrop:
+        name: 名前
+        title: タイトル
+        description: 説明
+        blocked_extensions: ブロックする拡張子
+        permitted_extensions: 許可するファイルの種類
+        expires_after: 有効期間
+        max_filesize: 最大ファイルサイズ
+        created_at: 作成日時
+        updated_at: 更新日時
+        api_key: API キー
+        cc: CC
+        authorization: 承認
+      message:
+        recipients: 受信者
+        sender: 送信者
+        cc: CC
+        bcc: BCC
+        message: メッセージ
+        subject: 件名
+        deleted: 削除済み
+        authorization: 承認
+        created_at: 作成日時
+        updated_at: 更新日時
+        expires_at: 有効期限
+      share/log:
+        created_at: 日付
+      share/file:
+        checksum: チェックサム（SHA256）
+      share/file/version:
+        whodunnit: 変更者
+        created_at: 変更日時
+      user:
+        name: 名前
+        email: メールアドレス
+        quota: クォータ
+        used: 使用量
+        max: 上限
+        password: パスワード
+        ldap_authentication: LDAP 認証
+        api_key: API キー
+        level: レベル
+        filedrop: Filedrop
+    models:
+      configuration: 設定
+      attachment: 添付ファイル
+      filedrop: Filedrop
+      message: メッセージ
+      user: ユーザー
+      download: ダウンロード
+  admin:
+    groups:
+      form:
+        bcc_myself: 自分にコピーを送信
+        can_change_bcc_myself: このグループのユーザーは「自分にコピーを送信」の設定を変更できます
+      index:
+        default_group_assignment: デフォルトのグループ割り当て
+    users:
+      users:
+        email: メールアドレス
+        name: 名前
+        group: グループ
+        max: 最大ファイルサイズ
+        quota: クォータ
+        strong_auth: 強力な認証
+        filedrop: Filedrop
+        last_login_at: 最終ログイン
+        last_login_ip: 最終ログイン IP
+        created: 作成日時
+      form:
+        name_label: 名前
+        email: メールアドレス
+        password: パスワード
+        password_confirmation: パスワード（確認）
+        max_label: 最大ファイルサイズ
+        group: グループ
+        strong_auth: 強力な認証
+        strong_auth_username: 強力な認証のユーザー名
+        api_key: API キー
+        filedrop: Filedrop
+  attachments:
+    not_found: 添付ファイルが見つかりません
+  config:
+    settings: 設定
+    email: メール
+    language_preferences_from_your_browser: ブラウザーの言語設定
+    authentication: 認証
+    time_zone: タイムゾーン
+    current_time_zone: 現在のタイムゾーン
+    time_zone_from_browser: ブラウザーが検出したタイムゾーン
+    time_zone_config_description: タイムゾーンを「自動検出」のままにすると、ブラウザーが検出したタイムゾーンが使用されます（すべての時刻がそのタイムゾーンで表示されます）。ブラウザーがタイムゾーンを検出できない場合は、システムのデフォルトのタイムゾーンが使用されます。ブラウザーが正しいタイムゾーンを検出しない場合や、別のタイムゾーンで時刻を表示したい場合は、特定のタイムゾーンを設定できます。
+    time_zone_default: システムのデフォルトのタイムゾーン
+    email_settings: メール設定
+    configuration: 設定
+    local_domains: ローカルドメイン
+    ldap_users: LDAP で認証されたユーザー
+    ldap_users_are_always_local: LDAP で認証されたユーザーは常にローカルユーザーです
+    separated_by_comma: カンマ区切り
+    default_max_file_size: デフォルトの最大ファイルサイズ
+    local_users: ローカルユーザー
+    external_users: 外部ユーザー
+    allow_registration: 登録を許可
+    allow_registration_desc: ログインページからの登録を許可
+    external_user_account: 外部の受信者
+    external_user_account_desc: 外部の受信者はアカウントを作成する必要があります
+    allow_users_to_change_expiration: ユーザーがファイルの有効期限を変更できる
+    authorization: 権限
+    authorization_description: ファイルをダウンロードできるユーザーのデフォルト設定です。
+    file_expiration: 有効期限
+    default_expire_files_after: ファイルのデフォルトの有効期間
+    delete_downloaded_files_after: ダウンロード済みファイルの削除までの期間
+    branding: ブランディング
+    company_name: 会社名
+    custom_stylesheet: カスタムスタイルシート
+    custom_javascript: カスタム JavaScript
+    logotype: ロゴ
+    leave_blank_for_default: デフォルト値を使用する場合は空欄のままにします
+    email_configuration: メールの設定
+    email_sender_address: 送信者アドレス
+    email_host: メールのベース URL
+    email_footer: メールのフッター
+    email_relay_host: メールリレーサーバー
+    email_relay_username: メールリレーのユーザー名
+    email_relay_password: メールリレーのパスワード
+    port: ポート
+    unlicensed_install_some_settings: "ライセンスのないインストール：ブランディングの設定はシステム管理者にのみ表示されます"
+    mail_relay_example: "例：mailrelay.domain.co.jp, mx.domain.co.jp:587"
+    ldap: LDAP
+    please_see_the: 詳しくは
+    for_more_information: をご覧ください
+    virus_scan: ウイルススキャン
+    virus_scan_description: ファイルのウイルススキャンを行う
+    blocked_file_extensions: ブロックするファイル拡張子
+    default_bcc_myself_label: 自分にコピーを送信
+    default_bcc_myself: デフォルトで自分にコピーを送信
+    allow_users_to_change_require_login_label: 認証を必須にする
+    allow_users_to_change_require_login: ユーザーが「認証を必須にする」を変更できる
+    permitted_file_extensions_label: 許可するファイル拡張子
+    delete: 削除
+    ldap_description: "LDAP によるユーザー認証を有効にし、LDAP サーバーへの接続に必要な基本パラメーターを設定します。ポートを指定しない場合は、LDAP のデフォルトポート 389（SSL が有効な場合は 636）が使用されます。注意：ポート 3268 は Active Directory での認証には使用されず、グローバルカタログの検索専用です。代わりにポート 389/636 を使用してください。"
+    ldap_authentication: LDAP 認証
+    basic_settings: 基本設定
+    server: サーバー名 / IP アドレス
+    username: ユーザー名
+    password: パスワード
+    authentication_description: このユーザーは LDAP サーバーへの接続に使用されます（匿名接続の場合は空欄のままにします）。このユーザーには LDAP ツリー内を検索する権限が必要です。
+    search_key: 検索キー
+    search_key_description: 検索キーとドメインは、LDAP ツリー内でユーザーを検索するために使用されます。下の表は、検索キーとドメインがどのように組み合わされてユーザーが検索されるかを示しています。
+    search_key_description2: したがって、LDAP 検索キーにメールアドレスが含まれる場合、ドメインは空欄のままにします。LDAP 検索キーにユーザー名のみが含まれる場合は、ドメインにユーザーのドメインを指定します。
+    search_key_defaults: "Active Directory の場合、LDAP 検索キーに sAMAccountName、ドメインに kaisha.co.jp（お使いのドメイン）を指定するのが良い出発点です。"
+    user_enters: ユーザーの入力
+    authorized_ldap_groups: 承認済みの LDAP グループ
+    available_groups: 利用可能なグループ
+    default_settings: デフォルト設定
+    setting: 設定
+    value: 値
+    description: 説明
+    default_local_max_description: 新しいローカルユーザーのデフォルトの最大ファイルサイズです。ユーザーごとに個別に変更できます。
+    user_changeable: ユーザーが変更可能
+    non_local: 非ローカル
+    remote: リモート
+    new_external_recipient_is_nonlocal: 新しい外部の受信者の扱い
+    email_message_on_top_label: メッセージを上部に表示
+    email_message_on_top: 受信者へのメールで、メッセージをファイル一覧の上に表示します
+    use_either_permitted_or_blocked_extensions: 許可する拡張子とブロックする拡張子のどちらか一方のみを選択してください
+    invalid_password: パスワードが無効です
+    valid_password: パスワードは有効です
+    test_password_validation: パスワード検証をテスト
+    custom_password_validation: カスタムパスワード検証
+    custom_password_validation_description: "この正規表現はパスワードのカスタム検証に使用されます。区切り文字を付けずに、正規表現のみを入力してください（'/' で始めたり終えたりしないでください）。例：[a-zA-Z0-9]{7,}（パスワードには a-z、A-Z、0-9 のみを使用でき、7 文字以上となります）"
+    filedrop: Filedrop
+    receive: 受信
+    api_settings: API の設定
+    enable_api_label: API を有効にする
+    enable_api_description: プラグインやスクリプトからのアクセス用に API を有効にします
+    enable_api_group_config: その他の API 設定はグループの設定にあります。
+    api_client_size_override_label: API クライアントのサイズ制限
+    api_client_size_override_description: API クライアントは、このサイズを超えるファイルをアプライアンス経由で送信します
+    sso_secret_key: SSO シークレットキー
+    generate_key: 新しいキーを生成
+    sso_replace_confirm: よろしいですか？SSO シークレットキーを置き換えると、既存の SSO 連携は動作しなくなります。
+    virus_scan_skip_locals: ローカルユーザーのウイルススキャンをスキップ
+    virus_scan_skip_locals_description: ローカルユーザーのファイルのウイルススキャンを行いません
+    virus_scan_permit_unscanned: 未スキャンのファイルを許可
+    virus_scan_permit_unscanned_description: まだウイルススキャンされていないファイルのダウンロードを許可します
+    userdrop: ユーザー Filedrop
+    user_filedrop_with_random_key: ランダムキーを使用するユーザー Filedrop
+    enable_userdrop: ユーザー Filedrop を有効にする
+    example: 例
+    user_filedrop_with_email: メールアドレスを使用するユーザー Filedrop
+    enable_userdrop_email: メールアドレスを使用するユーザー Filedrop を有効にする
+    userdop_email_data_leakage: Filedrop の URL にアドレスを入れて試し、どれが有効な応答を返すかを確認することで、ローカルのメールアドレスを特定されるおそれがあります。
+    userdrop_files_expire_after: 預けられたファイルの有効期間
+    userdrop_max_filesize: ユーザー Filedrop の最大ファイルサイズ
+    bruteforce_label: ブルートフォース攻撃からの保護
+    bruteforce_description_1: IP アドレスを
+    bruteforce_description_2: 分間ブロック（条件：
+    bruteforce_description_3: 回のログイン/登録の失敗、期間：
+    bruteforce_description_4: 分以内）
+    bruteforce_whitelist_label: ブルートフォース保護の許可リスト
+    allowed_admin_networks_label: 管理用ネットワーク
+    allowed_admin_networks_description: 管理者のアクセスをこれらのホストとネットワークに制限します。localhost（127.0.0.1, ::1）は常に許可されます
+    enable_strong_authentication: これらのユーザー種別に対して強力な認証をデフォルトで有効にする
+    authenticated_username: 認証済みのユーザー名
+    duo_hostname: Duo ホスト名
+    duo_client_id: Duo 統合キー
+    duo_client_secret: Duo シークレットキー
+    strong_authentication_test: 強力な認証のテスト
+    stronger_password: より強力なパスワードを選択してください。
+    cannot_begin_or_end_with_blank: パスワードの先頭または末尾に空白は使用できません。
+    at_least_one_invalid_domain: 無効なドメインが少なくとも 1 つあります
+    at_least_one_invalid_email: 無効なメールアドレスが少なくとも 1 つあります
+    email_security_level: メール配信のセキュリティレベル
+    geoip: GeoIP 検索
+    geoip_description: https://geoip.liquidfiles.com から位置情報データを取得し、地図を表示します。
+    tooltip:
+      local_domains: ローカルユーザーは誰にでもファイルを送信できます。非ローカルユーザーはローカルユーザーにのみファイルを送信できます。ユーザーが初めてログインしたとき、またはアカウントが作成されたときに、メールアドレスのドメインをこれらのドメインと照合し、そのユーザーをローカルユーザーとみなすかどうかを判断します。
+      ldap_users_are_always_local: LDAP で認証されたユーザーは、ドメインにかかわらず自動的にローカルユーザーとみなされます。
+      allow_registration: ログインページからの登録を許可します。新しいユーザーがローカルか非ローカルかは、ローカルドメインのリストに基づいて判断されます。
+      local_user_maxfile: ローカルユーザーが登録するとき、またはリモート認証で初めて認証されるときに、この最大ファイルサイズが割り当てられます。
+      nonlocal_user_maxfile: 非ローカルユーザーが登録するときに、この最大ファイルサイズが割り当てられます。
+      delete_downloaded_files_after: ダウンロードされたファイルはこの期間保持されます。受信者が別のダウンロード先を選んだり最初からやり直したりできる程度に長く、かつリンクがほかの人に広まらない程度に短く設定してください。
+      file_expiration: ユーザーがファイルの有効期限を変更できるようにします。無効の場合、すべてのファイルにデフォルトの有効期限が適用されます。
+      default_expire_files_after: ファイルはこの期間が過ぎると期限切れになります。
+      blocked_file_extensions: これらの拡張子を持つファイルをブロックします（大文字と小文字は区別されません）。
+      virus_scan: アップロードされたすべてのファイルを ClamAV ウイルススキャナーでスキャンします
+      require_authentication_permission: 有効にすると、認証を必須にするかどうかをユーザー自身が選択できます
+      default_bcc_myself: 有効にすると、メッセージはデフォルトでユーザー本人にも送信されます
+      permitted_file_extensions: "空欄の場合、すべての拡張子が許可されます。拡張子を 1 つ以上入力すると、入力したファイルの種類のみが許可されます。例：png, gif, jpg, txt"
+      new_external_recipient_is_nonlocal: 新しい受信者にメッセージを送信するとき、その受信者を非ローカルユーザー（返信が可能）として作成するか、外部ユーザーとして作成するかを指定します。
+      email_message_on_top: オンにすると、受信者へのメールでメッセージがファイル一覧の上に表示されます。オフにすると、ファイル一覧がメッセージの上に表示されます。
+      email_sender: このメールアドレスは、パスワードリセットなどシステムが生成するメールの送信者として使用されます。これらのメールが迷惑メールと判定されないよう、実在するメールアドレスを指定してください。
+      email_host: 添付ファイルはこの URL をベース URL として使用します。通常は http://hosutomei.domain または https://hosutomei.domain ですが、ユーザーが LiquidFiles アプライアンスに接続する際にファイアウォールでポート転送を使用している場合は https://hosutomei.domain:4433 のようになることもあります。
+      email_footer: この署名はすべての送信メールに追加されます。
+      email_relay: 送信メールのリレーにこのメールサーバーを使用します。
+      email_relay_username: メールリレーサーバーへのログインに使用するアカウント
+      email_relay_password: メールリレーサーバーへのログインに使用するアカウントのパスワード
+  date:
+    formats:
+      default: "%Y/%m/%d"
+      short: "%m/%d"
+      medium: "%Y/%m/%d"
+      long: "%Y/%m/%d"
+  time:
+    am: 午前
+    pm: 午後
+    formats:
+      default: "%Y/%m/%d %H:%M:%S %z"
+      short: "%m/%d %H:%M"
+      medium: "%Y/%m/%d %H:%M"
+      long: "%Y/%m/%d %H:%M"
+  downloads:
+    download_id: ダウンロード ID
+    index:
+      download_log_title: ダウンロード
+      download_log_description: 誰が何をいつダウンロードしたか
+      paginator_entry_name: 件のダウンロード
+    show:
+      no_map_for_reserved_address: 予約済みアドレスの地図は表示できません
+  filedrop:
+    filedrop: Filedrop
+    no_such_filedrop: この Filedrop は存在しません
+    invalid_filedrop_url: Filedrop の URL が無効です
+    invalid_filedrop_url_description: この URL には Filedrop がありません。URL を確認してもう一度お試しください。
+    label: Filedrop
+    mb: MB
+    name: 名前
+    name_description: URL にも使用される短い名前（例：/filedrop/namae）
+    title: タイトル
+    title_description: ページ上部に表示されるタイトル
+    description: 説明
+    description_description: タイトルの下に表示される説明
+    user: 受信ユーザー
+    user_description: 任意のローカルユーザーを受信者に設定できます
+    cc: CC
+    cc_description: "（カンマ区切り）これらのアドレスにコピーを送信"
+    expires_after: 有効期間
+    expires_after_description: 日
+    max_filesize: 最大ファイルサイズ
+    max_filesize_description: MB
+    reset_filedrop: Filedrop の URL をリセット
+    filedrop_reset_warning: よろしいですか？Filedrop の URL をリセットすると、公開していたすべての場所で置き換える必要があります。
+    permitted_extensions: 許可する拡張子
+    permitted_extensions_description: これらのファイルの種類のみが許可されます
+    blocked_extensions: ブロックする拡張子
+    blocked_extensions_description: これらのファイルの種類はブロックされます
+    demo_license_warning_standard: Filedrop を本番環境で使用するにはライセンスが必要です。Filedrop 機能を有効にするには Pro ライセンスにアップグレードしてください。
+    max_one_during_demo: デモ期間中または Standard ライセンスでは、設定できる Filedrop は 1 つまでです
+    filedrop_info: Filedrop を使うと、顧客は認証や事前設定なしでファイルを送信できます。各 Filedrop には固定の URL があり、Web ページやメール署名からリンクできます。誰かが Filedrop にファイルを預けると、そのファイルはあらかじめ指定したユーザーに自動的に送信されます。
+    authorization: 権限
+    authorization_description: Filedrop に預けられたファイルをダウンロードできるユーザー
+    you_will_be_notified: ファイルがダウンロードされると、ダウンロード通知が届きます。
+    require_authentication: この Filedrop には認証が必要です。続行するにはパスワードを入力してください。
+    authenticate: 認証
+    authentication_failed: 認証に失敗しました
+    require_validation: この Filedrop では、認証またはメールアドレスの確認が必要です。
+  filelink:
+    filelink: FileLink
+    filelinks: FileLink
+    filelink_title: FileLink
+    filelink_description: FileLink は単一のファイルへのリンクです。メッセージを作成したり受信者を指定したりせずに、このリンクを誰にでも送信できます。ランダムなリンクを受け取った人だけがファイルをダウンロードできます。
+    expired_or_nonexistent_title: 無効な FileLink
+    expired_or_nonexistent: この FileLink は有効期限が切れているか、存在しません。新しいリンクについては送信者にお問い合わせください。
+    existing_filelinks: 既存の FileLink
+    new_filelink: 新しい FileLink
+    available_files: 利用可能なファイル
+    filename: ファイル名
+    filesize: ファイルサイズ
+    expires_at: 有効期限
+    link: リンク
+    checksum: チェックサム
+    copy_link_to_clipboard: FileLink をクリップボードにコピー
+    expire_link_at: リンクの有効期限
+    you_have_no_filelinks: FileLink はまだありません。新しい FileLink を追加するか、利用可能なファイルから作成してください。
+    you_have_no_files_available: 以前に送信したファイルはありません。ファイルを 1 つ以上送信すると、ここで選択して FileLink を作成できます。
+    create_link: リンクを作成
+    invalid_file: 無効なファイルのため、FileLink を作成できません
+    delete: 削除
+    delete_link_warning: この FileLink を削除してもよろしいですか？
+    could_not_delete_link: FileLink を削除できませんでした。リンクが見つかりません。
+    filelink_deleted: FileLink を削除しました
+    select_file: ファイルを選択
+    send_download_receipts: ダウンロード通知を送信
+    disabled: FileLink は無効になっています。管理者にお問い合わせください
+    unauthorized: FileLink を使用する権限がありません
+    require_authentication: 認証を必須にする
+    filelink_require_authentication: この FileLink には認証が必要です
+    filelink_url: FileLink の URL
+    expired: 期限切れ
+    filelink_expired: FileLink の有効期限が切れました
+    select_from_available_files: これらの既存のファイルから FileLink を作成することもできます。
+    downloads: ダウンロード
+    authentication_failed: 認証に失敗しました
+    password_label_html: パスワード <small class="text-muted">（任意）</small>
+    password_present_html: この FileLink にはパスワードが設定されています。<br>空のパスワードを保存すると削除できます。
+    password_not_present: パスワードは設定されていません。
+    copy_to_clipboard: FileLink をクリップボードにコピー
+    add_file: ファイルを追加
+  ftpdrop:
+    create:
+      ftpdrop: FTPdrop
+  html_editor:
+    font:
+      bold: 太字
+      italic: 斜体
+      underline: 下線
+      clear: 書式をクリア
+      height: 行の高さ
+      name: フォント
+      strikethrough: 取り消し線
+      subscript: 下付き
+      superscript: 上付き
+      size: フォントサイズ
+    image:
+      image: 画像
+      insert: 画像を挿入
+      resize_full: 元のサイズ
+      resize_half: 50% のサイズ
+      resize_quarter: 25% のサイズ
+      float_left: 左寄せ
+      float_right: 右寄せ
+      float_none: 配置なし
+      shape_rounded: "形状：角丸"
+      shape_circle: "形状：円"
+      shape_thumbnail: "形状：サムネイル"
+      shape_none: "形状：なし"
+      url: 画像の URL
+      remove: 画像を削除
+    link:
+      link: リンク
+      insert: リンクを挿入
+      unlink: リンクを解除
+      edit: 編集
+      text_to_display: 表示するテキスト
+      url: このリンクの移動先 URL を入力してください
+      open_in_new_window: 新しいウィンドウで開く
+    table:
+      table: 表
+    hr:
+      insert: 水平線を挿入
+    style:
+      style: スタイル
+      normal: 標準
+      blockquote: 引用
+      pre: コード
+      h1: 見出し 1
+      h2: 見出し 2
+      h3: 見出し 3
+      h4: 見出し 4
+      h5: 見出し 5
+      h6: 見出し 6
+    lists:
+      unordered: 箇条書き
+      ordered: 番号付きリスト
+    options:
+      help: ヘルプ
+      fullscreen: 全画面表示
+      codeview: コード表示
+    paragraph:
+      paragraph: 段落
+      outdent: インデントを減らす
+      indent: インデントを増やす
+      left: 左揃え
+      center: 中央揃え
+      right: 右揃え
+      justify: 両端揃え
+    color:
+      recent: 最近使用した色
+      more: その他の色
+      background: 背景色
+      foreground: 文字色
+      transparent: 透明
+      set_transparent: 透明にする
+      reset: リセット
+      reset_to_default: デフォルトに戻す
+    shortcut:
+      shortcuts: キーボードショートカット
+      close: 閉じる
+      text_formatting: テキストの書式
+      action: 操作
+      paragraph_formatting: 段落の書式
+      document_style: ドキュメントのスタイル
+      extra_keys: その他のキー
+    history:
+      undo: 元に戻す
+      redo: やり直し
+  invite:
+    invite_user: ユーザーを招待
+    description: ユーザーを招待して、あなたとファイルを共有してもらうことができます。情報を入力すると、登録を完了するための手順を記載したメールが届きます。
+    send_invite: 招待を送信
+    name_placeholder: 氏名
+    invitation_sent: 招待を送信しました
+    not_permitted_to_invite_users: ユーザーを招待する権限がありません。
+    invalid_email: メールアドレスが無効です
+  link:
+    show:
+      set_password: パスワードを設定
+      download: ダウンロード
+      downloads_and_info: すべてのダウンロードと詳細情報
+    authenticate:
+      show:
+        title: FileLink のパスワード
+        authenticate: 認証
+        require_authentication: この FileLink を開くには、必要なパスワードを入力してください。
+      create:
+        authentication_failed: 認証に失敗しました。
+    downloads:
+      index:
+        back_to_filelink: FileLink に戻る
+    link_downloads:
+      latest_downloads: 最近のダウンロード（全 %{total} 件中 %{count} 件）
+  menu:
+    shares: Share
+    messages: メッセージ
+    send_files: 作成
+    users: ユーザー
+    active_transfers: 実行中の転送
+    configuration: 設定
+    system: システム
+    message_list: メッセージ一覧
+    settings: 設定
+    admin: 管理
+    account: アカウント
+    inbox: 受信トレイ
+    sent_messages: 送信済み
+    downloads: ダウンロードログ
+    filelink: FileLink
+    secure_messages: セキュアメッセージ
+    support: サポート
+  message:
+    message_sent: メッセージを送信しました
+    not_found: メッセージが見つかりません
+    message_not_found_header: メッセージが見つかりません
+    message_not_found_description: 送信者にこのメッセージの再送信を依頼してください。
+    previous_recipients: 過去の受信者
+    contacts: 連絡先
+    is_not_permitted: は許可されていません
+    not_permitted_to_delete_messages: メッセージを削除する権限がありません
+    is_not_in_any_of_the_allowed_domains: は許可されたドメインのいずれにも属していません
+    is_not_in_any_of_the_allowed_groups: は許可されたグループのいずれにも属していません
+    attach_1_file: ファイルを 1 つ以上添付してください
+    too_many_files: 添付したファイルが多すぎます。1 つのメッセージに添付できるファイルは %{count} 個までです。
+    attached_files: 添付ファイル
+    expired: メッセージの有効期限が切れています
+    authorize:
+      show:
+        title: セキュアメッセージを開くにはログインしてください
+        authenticate_description_html: セキュアメッセージを表示しようとしています。まずログインする必要があります。続行するには、メールアドレスを入力するかログインしてください。<br>このシステムにアカウントをお持ちでない場合は、メールアドレスを入力してください。確認用の安全なリンクをお送りします。
+        unauthenticated_html: <h4>ユーザー名またはパスワードが無効です</h4><p>ユーザー名とパスワードを入力してください。下の「パスワードをリセット」ボタンからパスワードをリセットできます。</p>
+        unauthorized_to_view_check_email_html: <h4>権限のないメールアドレスです</h4><p>セキュアメッセージ [<span class="font-monospace fw-bold">%{message_id}</span>] があなた宛てに送信されたことを確認し、メッセージの宛先とまったく同じメールアドレスを入力してください。</p><p>たとえば、あなたのアドレスが taro.yamada@kaisha.co.jp と tyamada@kaisha.co.jp の両方である場合、システムはそれらが同じアドレスであることを認識できません。セキュアメッセージが taro.yamada@kaisha.co.jp 宛てに送信された場合は、そのアドレスをここに入力してください。</p><p>不明な場合は、セキュアメッセージの送信者にお問い合わせください。</p>
+    errors:
+      not_authorized_to_view_message: "次の ID のメッセージを表示する権限がありません：%{message_id}。このメッセージがあなた宛てに送信されたことを確認してください。"
+      private_message_requires_authentication: プライベートメッセージには認証が必要です
+    attachments:
+      download_attachment_details_csv: 添付ファイルの詳細をダウンロード（CSV）
+      attachment:
+        fileinfo: ファイル情報
+        file_size: ファイルサイズ
+        content_type: コンテンツタイプ
+        checksum: チェックサム
+        virus_status: ウイルススキャンの状態
+    compose:
+      options_permission:
+        authentication_required: 認証が必要
+        authentication_not_required: 認証は不要
+        require_authentication_description: 受信者がこのメッセージを開く際に認証を必須にしますか？
+        access_restriction_html: アクセス制限<br><small class="text-muted">このメッセージにアクセスできるのは誰ですか？</small>
+        recipients_only_html: 受信者<br>のみ
+        recipients_plus_locals_html: 受信者<br>+ ローカルユーザー
+        recipients_plus_domains_html: 受信者<br>+ ドメイン
+        anyone_secret_link_html: 誰でも<br>（秘密のリンク）
+    unavailable:
+      header: メッセージを利用できません
+      description: このメッセージは有効期限が切れたか、削除されたか、存在しないか、利用できなくなっています。送信者にメッセージの再送信を依頼してください。
+    downloads:
+      index:
+        download_log_title: ダウンロードログ
+        message_id: メッセージ ID
+        paginator_entry_name: ダウンロード
+      download:
+        details: 詳細
+      not_found:
+        title: メッセージまたはダウンロードが見つかりません
+        description_html: メッセージまたはダウンロードが見つからないか、表示する権限がありません
+    temporary_user:
+      create:
+        invalid_temporary_user: パスワードが無効です。一時パスワードが記載されたメールを確認するか、新しい一時パスワードをリクエストしてください。
+        temporary_user_expired: この一時パスワードは有効期限が切れています。新しい一時パスワードをメールアドレスに送信しました。受信トレイを確認し、新しい一時パスワードを使用してください。
+        not_authorized_to_view_message: "次の ID のメッセージを表示する権限がありません：%{message_id}。このメッセージがあなた宛てに送信されたことを確認してください。"
+      show:
+        title: 一時パスワードを入力してください
+        description_html: "セキュアメッセージを表示しようとしています。開くには一時パスワードを入力する必要があります。<br>一時パスワードは、あなたを識別するための一意のランダムな文字列です。一時パスワードは別のメール（件名：一時パスワード）でお送りしています。"
+        what_is_this: これは何ですか？
+        login: ログイン
+        submit: 一時パスワードを確認
+        submit_email: 送信
+        if_you_have_account: "（すでにアカウントをお持ちの場合）"
+        request_temporary_user_header: 新しい一時パスワードをリクエスト
+        request_temporary_user_description_html: このメッセージを開くための新しい一時パスワードをリクエストできます。このセキュアメッセージ用の新しい一時パスワードをリクエストするには、下にメールアドレスを入力してください。
+        info_header: 一時パスワードについて
+        info_body_html: "<p>一時パスワードは、数字と文字からなる一意の文字列です。例：</p><pre><code>3ynp-7FKa-pZS9</code></pre><p><em>この一時パスワードは見た目を示すための例であり、使用することはできません。</em></p><p>受信トレイには<strong>2 通のメール</strong>が届いています。1 通はセキュアメッセージ、もう 1 通は<strong>件名が「一時パスワード」で始まるメール</strong>です。後者には、このシステム用のあなた専用の一時パスワードが記載されています。</p><p>一時パスワードが記載されたメールを受け取っていない場合は、すでにこのシステムにアカウントをお持ちの可能性があります。その場合は「ログイン」をクリックしてください。</p><p>一時パスワードを受け取るはずなのに届いていない場合は、「一時パスワードをリクエスト」をクリックして新しいパスワードを取得してください。</p>"
+        email_address: メールアドレス
+        email_not_permitted: このメールアドレスには、このセキュアメッセージを表示する権限がありません。
+        email_not_permitted_description_html: <p>受け取ったセキュアメッセージのメールを確認し、メッセージの宛先とまったく同じメールアドレスを入力してください。</p><p>たとえば、あなたのアドレスが taro.yamada@kaisha.co.jp と tyamada@kaisha.co.jp の両方である場合、システムはそれらが同じアドレスであることを認識できません。セキュアメッセージが taro.yamada@kaisha.co.jp 宛てに送信された場合は、そのアドレスをここに入力してください。</p><p>不明な場合は、セキュアメッセージの送信者にお問い合わせください。</p>
+        email_can_login: このシステムにはすでにアカウントがあります
+        email_can_login_description_html: <p>このメールアドレスとパスワードでこのシステムにログインできます。</p><p>既存のアカウントでログインするには、下の「ログイン」ボタンをクリックしてください。</p>
+        temporary_user_delivered_header: 一時パスワードを送信しました
+        temporary_user_delivered_description_html: <p>一時パスワードをメールアドレスに送信しました。受信トレイを確認し、このウィンドウを閉じて一時パスワードを入力してください。</p>
+    reply:
+      re: "Re:"
+      wrote: さんの投稿
+      show:
+        title: セキュアメッセージに返信
+        from: 差出人
+        reply: 返信
+        reply_all: 全員に返信
+      options:
+        options_description: すべてのオプションは元のメッセージから引き継がれます。
+    show:
+      back: 戻る
+      message_header: メッセージヘッダー
+      reply: 返信
+  messages:
+    sent:
+      skipped_file_not_found: スキップしました - ファイルが見つかりません
+      show:
+        sent_title: 送信済み
+        sent_description: あなたが送信したメッセージ
+        paginator_entry_name: 件のメッセージ
+    attachments:
+      download_cmd:
+        unauthorized:
+          header: 権限がありません
+          body: このファイルをダウンロードする権限がありません。送信者に再送信を依頼してください。
+          back: 戻る
+        exceeded:
+          header: ダウンロードの上限を超えました
+          body: このファイルのダウンロード回数が上限を超えました。送信者に再送信を依頼してください。
+          back: 戻る
+    download_zip:
+      unauthorized:
+        header: 権限がありません
+        body: このアーカイブをダウンロードする権限がありません。送信者にファイルの再送信を依頼してください。
+        back: 戻る
+      exceeded:
+        header: ダウンロードの上限を超えました
+        body: このアーカイブ内の 1 つ以上のファイルのダウンロード回数が上限を超えました。送信者にファイルの再送信を依頼してください。
+        back: 戻る
+    message:
+      reply: 返信
+      reply_all: 全員に返信
+  models:
+    user:
+      no_need_to_create_local_user: ローカルユーザーを作成する必要はありません
+      license_exceeded: ライセンスの上限を超えました
+  notifier:
+    activate_user_subject: "[%{hostname}] アカウントの有効化"
+    user_activation: ユーザーの有効化
+    please_visit_the_following_url_to_activate: 下のリンクをクリックしてアカウントを有効化してください
+    the_following_files_are_attached: このメッセージには次のファイルが添付されています
+    please_visit_the_following_url: 添付ファイルをダウンロードするには、このリンクをクリックしてください
+    attachments_are_available: 添付ファイルの利用期限
+    message_id: "メッセージ ID：%{id}"
+    email_password_reset_subject: パスワードのリセット
+    download_receipt_subject: "ダウンロード通知 [ID: %{message_id}]"
+    a_file_that_you_sent: 送信したファイルがダウンロードされました。このメールはダウンロードの証明として保管してください。
+    recipient: 受信者
+    filename: ファイル名
+    time_of_download: ダウンロード日時
+    downloaded_from: ダウンロード元
+    download_receipt: ダウンロード通知
+    user_created:
+      account_created: アカウントを作成しました
+      subject: "[%{hostname}] アカウントを作成しました"
+      message: "安全な添付ファイルが届いています。受け取るには認証が必要です。下のリンクをクリックして登録してください："
+  outlook:
+    messages:
+      new:
+        attachments_header: 添付ファイル
+        attachments_hint: ファイルを下の領域にドラッグするか、「ファイルを添付」ボタンをクリックしてファイルを添付できます。
+        add_to_message: メッセージに追加
+      attachments:
+        attach_files: ファイルを添付
+        drop_files_here: ここにファイルをドロップ...
+      options:
+        recipients_can_reply: 受信者は返信できる
+        send_copy_to_myself: 自分にコピーを送信
+        private_message: プライベートメッセージ
+        private_message_required_auth_error: プライベートメッセージを送信する場合は、「認証が必要」モードを使用する必要があります。
+      options_authorization:
+        authentication_authorization_title_html: 認証 &amp; 承認
+        authentication_select_title: 認証を選択
+        authentication_required: 認証が必要
+        authentication_not_required: 認証は不要
+        authorization_select_title: 承認を選択
+        recipients_only: 受信者のみ
+        recipients_locals: 受信者 + ローカルユーザー
+        recipients_domains: 受信者 + ドメイン
+        anyone: 誰でも（秘密のリンク）
+      options_expiration:
+        message_expires: メッセージの有効期限
+        message_expires_after: メッセージの有効期間
+  pagination:
+    first: "&laquo; 最初"
+    last: 最後 &raquo;
+    previous: "&lsaquo; 前へ"
+    next: 次へ &rsaquo;
+    truncate: "&hellip;"
+  requests:
+    title: ファイルリクエスト
+    file_request: ファイルリクエスト
+    files_sent: ファイルを送信しました。ありがとうございます。
+    request_file: ファイルをリクエスト
+    file_requests: ファイルリクエスト
+    description: ファイルリクエストを使うと、相手にファイルの送信を依頼できます。情報を入力すると、相手にはリクエストしたファイルを送信するための一意のリンクが記載されたメールが届きます。
+    file_request_not_found: ファイルリクエストが見つかりません
+    file_request_expired: ファイルリクエストの有効期限が切れています
+    file_request_already_used: ファイルリクエストはすでに使用されています
+    file_request_sent: ファイルリクエストを送信しました
+    not_permited: ファイルリクエスト機能を使用する権限がありません
+    multiuse: 複数回使用 - このリクエストリンクは何度でも使用できます
+    invalid_recipient: 受信者が無効です。このファイルリクエストは別の人に送信されています
+    invalid_user: これはあなたのファイルリクエストではありません
+    index:
+      title: ファイルリクエスト
+      new_file_request: 新しいファイルリクエスト
+      multiuse: 複数回使用
+      responded_to: 回答済み
+      hide_expired: 期限切れおよび使用済みを非表示
+      show_expired: 期限切れおよび使用済みを表示
+    request:
+      resend: 再送信
+      are_you_sure_you_want_to_delete: このファイルリクエストを削除してもよろしいですか？
+    popup:
+      from: 差出人
+      to: 宛先
+      subject: 件名
+      message: メッセージ
+    resend:
+      request_resent: ファイルリクエストを再送信しました
+    new:
+      request_expires: リクエストの有効期限
+  send:
+    send: 送信
+    sent: 送信済み
+    recipients: 宛先
+    send_as: 送信者として使用
+    you_can_only_send_files_to_yourself: ファイルは自分にのみ送信できます
+    subject: 件名
+    subject_placeholder: 件名
+    attachments: 添付ファイル
+    max_file_size: "添付ファイルの最大サイズ：%{filesize} MB"
+    upload_queue: アップロードキュー
+    remove: 削除
+    cancel_all: すべてキャンセル
+    cancel_all_uploads: すべてのアップロードをキャンセル
+    message: メッセージ
+    message_placeholder: メッセージ
+    done_editing_please_send: 編集が完了しました。すべてのアップロードが完了したらファイルを送信してください
+    files_sent_successfully: ファイルを送信しました
+    you_need_at_least_one_recipient: 受信者を 1 人以上指定してください
+    you_need_at_least_one_attachment: 添付ファイルが 1 つ以上必要です
+    options: オプション
+    cc: CC
+    bcc: BCC
+    bcc_message_description: BCC の受信者はほかの受信者には表示されません
+    add_cc: CC を追加
+    add_bcc: BCC を追加
+    bcc_myself: 自分にコピーを送信
+    require_login: ファイルのダウンロードにログインを必須にする
+    only_specified_recipients_can_download: 指定した受信者のみが添付ファイルをダウンロードできます
+    anyone_can_download: 誰でも添付ファイルをダウンロードできます
+    expires_in: 添付ファイルのダウンロード可能期間
+    expires_at: 添付ファイルの有効期限
+    send_options: 送信オプション
+    to: 宛先
+    from: 差出人
+    filename: ファイル名
+    filesize: ファイルサイズ
+    downloaded_at: ダウンロード日時
+    message_sent: メッセージを送信しました
+    message_expires: メッセージの有効期限
+    message_expires_after: メッセージの有効期間
+    message_expires_after_description: ファイルごとに計算されます。ダウンロード 1 回で期限切れになるファイルを 2 つ送信した場合、各受信者は各ファイルを 1 回ずつダウンロードできます。
+    downloads_per_recipient: 受信者ごとのダウンロード回数
+    total_downloads: 合計ダウンロード回数
+    file_not_downloaded: ダウンロードされた添付ファイルはありません
+    at_least_one_invalid_extension: 添付ファイルの少なくとも 1 つに無効な拡張子があります
+    invalid_filetype: 無効な拡張子
+    blocked_extension: "無効な拡張子です。次の拡張子のファイルは送信できません：%{extensions}"
+    permitted_extensions: "許可されている拡張子：%{filetypes}"
+    already_selected: このファイルはすでに選択されています
+    maximum_filesize_exceeded: 最大ファイルサイズを超えています
+    contains_virus: "%{filename} にウイルスが含まれています：%{virus}"
+    limited_by_browser: ブラウザーによる制限
+    limited_by_disk: ディスク容量による制限
+    limited_by_system_quota: システムクォータによる制限
+    limited_by_group_quota: グループクォータによる制限
+    limited_by_quota: クォータによる制限
+    limited_per_message: メッセージごとの制限
+    system_quota_exceeded: システムクォータを超えました
+    group_quota_exceeded: グループクォータを超えました
+    quota_exceeded: クォータを超えました
+    no_available_quota: クォータを超えました。続行するにはいくつかのファイルを削除してください
+    not_authorized_to_send: "%{email} に送信する権限がありません"
+    public_url: 公開 URL
+    message_url: メッセージの URL
+    authorization: 承認
+    insufficient_disk_space: ディスク容量が不足しています
+    active_transfers: 実行中の転送
+    view_log: ログを表示
+    previously_sent_attachments: 以前に送信した添付ファイル
+    has_not_downloaded: "%{recipient} さんはまだファイルをダウンロードしていません"
+    authentication: 認証
+    required: 必須
+    disabled: 無効
+    require_authentication_tooltip_html: <li>受信者がファイルをダウンロードするには、ユーザー名とパスワードでログインする必要があります。</li> <li>ファイルがダウンロードされると通知が届きます。</li>
+    dont_require_authentication_tooltip_html: <li>受信者はファイルをダウンロードする際にログインを求められません。</li> <li>ファイルがダウンロードされると通知が届きますが、誰がダウンロードしたかはわかりません。</li> <li>通知が届くのは、最初の受信者がファイルをダウンロードしたときのみです。</li>
+    authenticate_link_description: この FileLink を開く前にログインする必要があります。
+    unauthorized: このメッセージを表示する権限がありません。
+    unauthenticated: パスワードが正しくありません
+    incorrect_login_or_demo: パスワードが正しくないか、ライセンスの上限に達しています
+    email_authorization_message: ありがとうございます。このメールアドレスがあなたのものであることを確認するため、確認コードを記載したメールをお送りしました。下に確認コードを入力するか、メール内のリンクをクリックしてメッセージに移動してください。
+    email_authorization_link: ありがとうございます。このメールアドレスがあなたのものであることを確認するため、確認コードを記載したメールをお送りしました。下にメールの確認コードを入力するか、メール内のリンクをクリックして FileLink に移動してください。
+    email_authorization_message_create_account: ありがとうございます。このシステムにアカウントをお持ちでないため、このメールアドレスがあなたのものであることを確認する確認コードを記載したメールをお送りしました。下に確認コードを入力するか、メール内のリンクをクリックしてアドレスを確認してください。その後アカウントの作成を求められ、メッセージに移動します。
+    email_authorization_link_create_account: ありがとうございます。このシステムにアカウントをお持ちでないため、このメールアドレスがあなたのものであることを確認する確認コードを記載したメールをお送りしました。下にメールの確認コードを入力するか、メール内のリンクをクリックしてアドレスを確認してください。その後アカウントの作成を求められ、FileLink に移動します。
+    authorize: 承認
+    authenticate: ログイン
+    sending: 送信中...
+    abort_transfer: 転送を中止
+    files_to_big: ファイルが大きすぎます
+    only_specified_recipients: 指定した受信者のみがアクセスできます
+    only_specified_recipients_and_local_users: 指定した受信者とローカルユーザーのみがアクセスできます
+    only_specified_recipients_and_domains: 指定した受信者とそのドメインのユーザーのみがアクセスできます
+    anyone_after_authentication: 誰でもアクセスできます（ランダムなリンクを持っている場合）
+    no_recipient_validation: 受信者の検証なし
+    anyone_can_access: 誰でもアクセスできます
+    anyone: 誰でも
+    no_authentication: 認証なし
+    can_download: ダウンロード可能
+    not_yet_scanned: ウイルススキャン中です。しばらくしてからもう一度お試しください。キュー内の待ち：%{queue}
+    was_infected: "ウイルス %{virus} に感染していたため削除されました"
+    deleted_or_expired: 削除済みまたは期限切れ
+    im_done_editing: 現在のアップロードが完了したら自動的に送信
+    download_all: すべてダウンロード
+    zipped_archive: ZIP アーカイブ
+    message_id: メッセージ ID
+    overall_progress: 全体の進行状況
+    abort: 中止
+    limitations: 制限事項
+    max_size: 最大サイズ
+    add_files: ファイルを追加...
+    add_folder: フォルダーを追加...
+    no_attachment_added: 添付ファイルが追加されていません
+    you_need_to_add_at_least_one_file: ファイルを 1 つ以上追加してください。
+    private_message_or_attached_files: プライベートメッセージを有効にするか、ファイルを 1 つ以上添付してください。
+    no_runtime_found: ランタイムが見つからないため、ファイルをアップロードできません
+    runtime_check_title: ランタイムが見つかりません
+    selected: 選択済み
+    file_size_error: ファイルサイズのエラー
+    remaining: 残り
+    attached_files: 添付ファイル
+    show_message: メッセージを表示
+    can_be_max: 最大 %{days} 日後まで設定できます
+    not_ready: まだダウンロードの準備ができていません
+    download_info: ダウンロード情報
+    browser: ブラウザー
+    platform: プラットフォーム
+    operating_system: オペレーティングシステム
+    location: 場所
+    download_details: ダウンロードの詳細
+    download_information_not_found: ダウンロード情報が見つかりませんでした。
+    add: 追加
+    select_existing_files: 既存のファイルを選択
+    add_existing_files: 既存のファイルを追加
+    add_existing_description: これらのファイルはすでに送信済みで、再送信できます。
+    zip_disabled: ZIP は無効です
+    zip_disabled_description_exceeded: 少なくとも 1 つの添付ファイルで最大ダウンロード回数を超えています。
+    spinner_info_html: <strong>メッセージを送信する準備ができました</strong>。一部のファイルはまだバックグラウンドで処理中ですが、待つ必要はありません。<strong>準備ができたら「送信」をクリックしてください。</strong>
+    sent_to_you: あなた宛て
+    excluding_admins: 管理者を除く
+    downloads: ダウンロード
+    download_log: ダウンロードログ
+    delete_attachments: 添付ファイルを削除
+    delete_message: メッセージを削除
+    delete_attachments_warning: 添付ファイルを削除してもよろしいですか？
+    delete_message_warning: メッセージを削除すると、添付ファイルとダウンロードログも削除されます。メッセージを削除してもよろしいですか？
+    invalid_message: 無効なメッセージ
+    message_deleted: メッセージを削除しました
+    attachments_deleted: 添付ファイルを削除しました
+    checksum: チェックサム（SHA256）
+    not_permitted_to_send_messages: メッセージを送信する権限がありません。
+    invalid_group_belonging: 送信は許可されていません（無効なグループ）。あなたは外部ユーザーとして登録されていますが、メールアドレスが %{domain} ドメインに属しており、このドメインは受信者の制限ドメインにも含まれています。外部ユーザーにはこれは許可されていません。続行するには、システム管理者に別のグループへの移動を依頼してください。
+    expires_after_exceeded: ダウンロード回数を超えました
+    expires_after_exceeded_for_zip: ZIP アーカイブ内の少なくとも 1 つのファイルでダウンロード回数を超えました
+    permission_description_title: アクセス制限
+    permission_description_only_specified_html: <ul> <li>指定した受信者のみがメッセージにアクセスし、ファイルをダウンロードできます。</li> <li>メールや URL を他人に転送することは許可されていません。</li> <li>受信者がメッセージを開いてファイルをダウンロードするには、ログインが必要です。</li> <li>各ファイルがダウンロードされるたびに、詳細情報を含むダウンロード通知が送信されます。</li> </ul>
+    permission_description_only_specified_and_local_html: <ul> <li>指定した受信者とローカルユーザーのみがファイルをダウンロードできます。</li> <li>メールや URL はローカルユーザーにのみ転送できます。</li> <li>受信者がファイルをダウンロードするには、ログインが必要です。</li> <li>各ファイルがダウンロードされるたびに、詳細情報を含むダウンロード通知が送信されます。</li> </ul>
+    permission_description_only_specified_and_domains_html: <ul> <li>指定した受信者と同じメールドメインのユーザーのみがアクセスできます。</li> <li>bucho@torihikisaki.co.jp に送信した場合、hisho@torihikisaki.co.jp もメッセージにアクセスできますが、kokishin@kyogo.co.jp はアクセスできません。</li> <li>受信者がファイルをダウンロードするには、ログインが必要です。</li> <li>各ファイルがダウンロードされるたびに、詳細情報を含むダウンロード通知が送信されます。</li> </ul>
+    permission_description_anyone_after_authentication_html: <ul> <li>秘密のランダムな URL を持っている人なら誰でもファイルをダウンロードできます。</li> <li>メールや URL は誰にでも転送できます。</li> <li>受信者がファイルをダウンロードするには、ログインが必要です。</li> <li>各ファイルがダウンロードされるたびに、詳細情報を含むダウンロード通知が送信されます。</li> </ul>
+    permission_description_anyone_html: <ul> <li>秘密のランダムな URL を持っている人なら誰でもファイルをダウンロードできます。</li> <li>メールや URL は誰にでも転送できます。</li> <li>ファイルのダウンロードにログインは<strong>不要</strong>です。</li> <li>誰かが最初にダウンロードしたときに<strong>基本的な</strong>ダウンロード通知が送信されます（誰が何をダウンロードしたかを知るには認証が必要です）。</li> </ul>
+    your_message_has_been_sent: メッセージを送信しました
+    you_can_send_to_anyone: "（このリンクは誰にでも送信できます）"
+    send_more_files: さらにファイルを送信
+    download_speed: ダウンロード速度
+    download_time: ダウンロード時間
+    at_least_one_invalid_email: 無効なメールアドレスが少なくとも 1 つあります
+    reply: 受信者は返信できる
+    private_message: プライベートメッセージ
+    private_message_description_html: プライベートメッセージでは、メッセージ本文は受信者にメールで送信されません。受信者がメール内のリンクをクリックして認証したときにのみ表示されます。<ul> <li>添付ファイルなしでプライベートメッセージを送信できます。</li> <li>誰かがメッセージを表示すると、アクセス通知が届きます。</li> <li>ダウンロード権限が「誰でもダウンロード可能」の場合、プライベートメッセージは送信できません。</li> </ul>
+    private_message_delivered_description: メッセージはプライベートメッセージとして送信されました。メッセージ本文はメールに含まれず、各受信者がメッセージを表示するとアクセス通知が届きます。
+    access_info: アクセス情報
+    access_details: アクセスの詳細
+    validation_code: 確認コード
+    expired_token_inline: メール認証の有効期限が切れました。もう一度お試しください。
+    invalid_token: コードが無効か、有効期限が切れています。元のメールのリンクをクリックして、メールアドレスをもう一度確認してください。
+    download_zip: ZIP をダウンロード
+    zip_ready_for_download: ZIP のダウンロード準備ができました
+    processing_zip: ZIP ファイルを処理中
+    drop_file_here: ここにファイルをドロップ
+    drop_files_here: ここにファイルをドロップ
+    drop_files_and_folders_here: ここにファイルやフォルダーをドロップ
+    select_pool_files: プールからファイルを選択
+    add_pool_files: プールからファイルを追加
+    invalid_validation_token: 有効な確認コードではありません。
+    not_the_validation_token: これはメッセージ ID であり、確認コードではありません。確認コードを入力してください。
+    no_messages_in_inbox: 受信トレイにメッセージはありません。
+    filename_already_selected: 同じ名前のファイルがすでにこのメッセージに追加されています
+    filesize_exceeded: メッセージの最大サイズを超えています
+    infected_with: 感染したウイルス
+    not_permitted_to_download_content_blocked: "このファイルのダウンロードは許可されていません。ウイルススキャンで次が検出されました：%{virus}"
+    invalid_email_address: メールアドレスが無効です
+    cant_create_folder: フォルダーを作成できません
+    cant_check_folder: フォルダーを確認できません
+    cant_restore_folder: フォルダーを復元できません
+    cant_check_chunks: チャンクを確認できません
+    zip_not_include_all_files: すべてのファイルをダウンロードすることはできません。ZIP にはダウンロード可能なファイルのみが含まれます。
+    paste_tip: ヒント：Ctrl+Shift+V で貼り付けると書式が削除されます。
+  session:
+    api:
+      authentication_error: 認証エラーです。もう一度お試しください。
+      not_local_user: メールアドレスが無効です。この機能はローカルユーザーのみが使用できます。
+      show:
+        login: ログイン
+        login_label: メールアドレス
+        password: パスワード
+        sso_login: SSO でログイン
+        authentication_title: ログイン
+        authentication_description: 続行するには、メールアドレスを入力するかログインしてください。
+      authenticated:
+        authentication_successful: 認証に成功しました
+    authenticate:
+      login: 続行するにはログインしてください
+      description_html: このページを開くにはログインする必要があります。続行するには、メールアドレスを入力するかログインしてください。<br>このシステムにアカウントをお持ちでない場合は、メールアドレスを入力してください。一時パスワードをメールでお送りします。
+      unauthorized: このメッセージを表示する権限がありません。メッセージが送信されたとおりのメールアドレスを入力するか、送信者にお問い合わせください。
+    email:
+      validate_email: メールアドレスを確認してください
+      validate_email_description_html: "セキュリティコードをメールアドレスに送信しました：<strong>%{email}</strong>。リンクをクリックするか、ここにセキュリティコードを入力してアドレスを確認し、続行してください。"
+      session_expired: セッションの有効期限が切れました。続行するにはメールアドレスをもう一度入力してください
+      token_expired: メール内の認証リンクの有効期限が切れました。もう一度お試しください。
+      already_authenticated: このブラウザーではすでにログインしています。
+      resend_validation_email: 確認メールを再送信
+      verify: 確認
+      validate_email_sent: "新しい確認メールを送信しました（%{time}）。メール内のリンクをクリックするか、下にセキュリティコードを入力してメールアドレスを確認してください。"
+      invalid_temporary_user: セキュリティコードが無効です。メールを確認してください。新しいセキュリティコードを受信トレイに送信しました。
+      create_account: アカウントを作成
+      create_account_description: このシステムにアカウントを作成すると、セキュリティコードの代わりにメールアドレスとパスワードでログインできます。
+      invalid_email: メールアドレスが無効です
+    login_limit_exceeded:
+      delivered:
+        page_header: ログイン試行回数の上限を超えました
+        description: ログインの試行回数が多すぎます。続行するにはパスワードをリセットする必要があります。
+        email: パスワードをリセットするためのリンクを記載したメールを送信しました。
+      waiting:
+        page_header: ログイン試行回数の上限を超えました
+        description: "ログインの試行回数が多すぎます。注意：ネットワークのパスワードでログインする必要があります。パスワードをリセットする必要があるものの方法がわからない場合は、ネットワーク管理者にお問い合わせください。待機時間が過ぎたら、このページを再読み込みして制限をリセットできます。"
+        expiration_time: 待機時間
+        reload: 再読み込み
+      show:
+        page_header: ログイン試行回数の上限を超えました
+        description: ログインの試行回数が多すぎます。ログイン制限をリセットして、再度ログインできます。制限をリセットするためのメールを送信しました。
+      reset:
+        login_limit_reset: ログイン制限をリセットしました
+    shared:
+      authentication_successful: 認証に成功しました
+    outlook:
+      edit:
+        authentication_title: 認証
+        authentication_description: 続行するにはログインしてください
+        login: ログイン
+        login_label: メールアドレス
+        password: パスワード
+        sso_login: SSO でログイン
+      show:
+        authentication_title: 認証
+        authentication_description: 安全なファイルを添付するにはログインしてください。
+        authenticate: 認証
+    saml:
+      not_configured:
+        title: SAML が設定されていません
+        description: このシステムでは SAML が設定されていません。エラーだと思われる場合は、サポートにお問い合わせのうえ調査を依頼してください。
+        support_button: サポートに問い合わせる
+      api:
+        local:
+          title: SAML 認証
+          description: SAML 認証がデフォルトのブラウザーで開始されました。そちらでログインを続けてください。ウィンドウが見つからない場合や何らかの理由で動作しない場合は、下のボタンをクリックして続行できます。
+          button_label: SSO でログイン
+      response:
+        api_error:
+          authentication_error: 認証に失敗しました
+          saml_authentication_error: SSO 認証に失敗しました
+          saml_authentication_error_description: SSO 認証に失敗しました。問題が解決しない場合は管理者にお問い合わせください。
+        api_disabled:
+          api_disabled: 権限のないユーザーグループ
+          api_disabled_description: お使いのアカウントにはこの機能へのアクセス権がありません（API が無効）。管理者に連絡し、アカウントを別のグループに移動するよう依頼してください。
+        api_response:
+          authentication_successful: 認証に成功しました
+        create:
+          could_not_create_account: アカウントを作成できませんでした。詳しくは管理者にお問い合わせください。
+        show:
+          could_not_create_account: アカウントを作成できませんでした。詳しくは管理者にお問い合わせください。
+    temporary_user:
+      validate_email: メールアドレスを確認してください
+      validate_email_description_html: "一時パスワードをメールアドレスに送信しました：<strong>%{email}</strong>。リンクをクリックするか、ここに一時パスワードを入力してアドレスを確認し、続行してください。"
+      session_expired: セッションの有効期限が切れました。続行するにはメールアドレスをもう一度入力してください
+      token_expired: メール内の認証リンクの有効期限が切れました。もう一度お試しください。
+      already_authenticated: このブラウザーではすでにログインしています。
+      resend_validation_email: 確認メールを再送信
+      verify: 確認
+      validate_email_sent: "新しい確認メールを送信しました（%{time}）。メール内のリンクをクリックするか、下にパスワードを入力してメールアドレスを確認してください。"
+      invalid_temporary_user: パスワードが無効です。メールを確認してください。一時パスワードを受信トレイに再送信しました。
+      temporary_user_expired: 一時パスワードの有効期限が切れました。メールを確認してください。新しい一時パスワードを受信トレイに送信しました。
+      create_account: アカウントを作成
+      create_account_description: このシステムに恒久的なアカウントを作成すると、一時ユーザーアカウントの代わりにメールアドレスとパスワードでログインできます。
+  shared:
+    show: 表示
+    reify: 復元
+    download: ダウンロード
+    restore: 復元
+    delete: 削除
+    trash: ごみ箱
+    cancel: キャンセル
+    close: 閉じる
+    current: 現在
+    bootstrap_confirm_dialog:
+      confirm_action: 操作の確認
+    shares:
+      bootstrap_confirm_dialog:
+        confirm_action: 操作の確認
+      navigation:
+        files: ファイル
+        activity_log: アクティビティログ
+      wrap_content:
+        activity_log: アクティビティログ
+    error_messages:
+      prohibited_this_from_being_saved: "%{target} を保存できませんでした"
+  share:
+    share: Share
+    shares: Share
+    no_shares: 利用可能な Share はありません
+    name: 名前
+    folder_name: フォルダー名
+    share_not_found: Share が見つかりません
+    folder_not_found: フォルダーが見つかりません
+    file_not_found: ファイルが見つかりません
+    no_read_access: この Share にアクセスする権限がありません
+    no_write_access: この Share に書き込む権限がありません
+    not_authorized_to_view_logs: ログを表示する権限がありません
+    require_authentication: この Share には認証が必要です。続行するにはパスワードを入力してください。
+    authenticate: 認証
+    authentication_failed: 認証に失敗しました
+  shares:
+    folders:
+      are_you_sure_you_want_to_delete: このフォルダーを削除してもよろしいですか？
+      are_you_sure_you_want_to_trash: このフォルダーを完全に削除してもよろしいですか？
+      folder_name_already_taken: このフォルダー名はすでに使用されています
+      folder_not_found: フォルダーが見つかりません
+      could_not_create_folder: "フォルダーを作成できませんでした：%{error}"
+      zip_no_files: ZIP に追加するファイルがありません
+      windows_path_warning:
+        title: Windows のパスの長さの制限
+        description_html: <strong>Windows をお使いの方へ：</strong>Windows ではファイルパスの長さが 259 文字に制限されています。長いパスの場所からフォルダーをアップロードすると、フォルダー構造の深い階層にあるファイルが警告なしにスキップされ、アップロードが不完全になったりフォルダーが重複したりする可能性があります。
+        workarounds_title: 推奨される回避策
+        workarounds_html: "<li><strong>仮想ドライブを使用する：</strong>コマンドプロンプトを開き、次を実行します：<code>subst X: \"C:\\totemo\\nagai\\pasu\"</code><br>その後、仮想ドライブ <code>X:\\</code> からアップロードします</li><li><strong>ファイルに近い場所に移動する：</strong>アップロードするフォルダーを選択する前に、ファイルに近いサブフォルダーを開きます</li><li><strong>短いパスを使用する：</strong>アップロード前に、<code>C:\\uploads\\</code> などの短い場所にファイルをコピーします</li><li><strong>先にフォルダーを圧縮する：</strong>フォルダーを ZIP ファイルに圧縮し、代わりに ZIP ファイルをアップロードします</li>"
+        advanced_title: "上級者向け：Windows 10/11 で長いパスを有効にする"
+        advanced_description_html: Windows 10 バージョン 1607 以降では、より長いパスのサポートを有効にできます。<strong>注意：</strong>管理者権限が必要で、すべてのブラウザーで動作するとは限りません。上記の回避策のほうが確実です。
+        registry_steps_title: 長いパスを有効にする手順
+        registry_steps_html: "<li><kbd>Win + R</kbd> を押し、<code>regedit</code> と入力して Enter キーを押します</li><li>次の場所に移動します：<code>HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\FileSystem</code></li><li><code>LongPathsEnabled</code> という名前の DWORD 値を見つけるか作成し、<code>1</code> に設定します</li><li>変更を反映させるためにコンピューターを再起動します</li><li>もう一度アップロードを試します（サポート状況はブラウザーによって異なる場合があります）</li>"
+        browser_disclaimer_html: "<strong>重要：</strong>このレジストリ設定を有効にしても、長いパスのサポート状況はブラウザーによって異なります。Chrome、Edge、Firefox では引き続き 259 文字の制限が適用される場合があります。上記の回避策のほうが確実です。"
+      folder:
+        rename_folder: フォルダー名を変更
+        move_folder_description: フォルダー %{foldername} を下で選択したフォルダーに移動します
+        move_folder: フォルダーを移動
+      action_bar:
+        download_as_zip: ZIP としてダウンロード
+        download_as_zip_with_deleted: 削除済みファイルを含めて ZIP としてダウンロード
+        toggle_deleted_view: 削除済みファイルの表示/非表示
+        filter: フィルター
+        upload_file: ファイルをアップロード
+        upload_folder: フォルダーをアップロード
+        create_folder: フォルダーを作成
+        windows_path_warning: パスの長さに関する警告
+        upload_folder_unsupported: フォルダーのアップロードはサポートされていません
+        upload_folder_unsupported_description: 申し訳ありませんが、お使いのブラウザーはフォルダーのアップロードに対応していません。フォルダー構造をアップロードするには、デスクトップ版の Chrome または Safari をご利用ください。
+        showing_deleted: 削除済みの項目を %{number_of} 件表示中
+        hiding_deleted: 削除済みの項目を %{number_of} 件非表示中
+        actions: 操作
+        move_selected: 選択項目を移動
+        trash_selected: 選択項目をごみ箱に移動
+        delete_selected: 選択項目を削除
+      action_bar_below:
+        send_notifications: 通知を送信
+        sending_notifications: 通知を送信中
+        quota: クォータ
+        used_of: 使用量 /
+        available: 利用可能
+        quota_exceeded: クォータを超えました
+      create_folder_modal:
+        create_folder: フォルダーを作成
+        create: 作成
+      files:
+        are_you_sure_you_want_to_delete: このファイルを削除してもよろしいですか？
+        are_you_sure_you_want_to_trash: このファイルを完全に削除してもよろしいですか？
+        file_not_found: ファイルが見つかりません
+        file:
+          rename_file: ファイル名を変更
+          move_file: 移動
+          move_file_description: ファイル %{filename} を下で選択したフォルダーに移動します
+        show:
+          prev: 前へ
+          up: 上へ
+          next: 次へ
+          last_updated: 最終更新
+          versions: バージョン
+          show_all: すべて表示
+          version_from: バージョンの日付
+          next_version: 次のバージョン
+          previous_version: 前のバージョン
+          current_version: 現在のバージョン
+          pdf_preview_not_supported: お使いのブラウザーは PDF ファイルのプレビューに対応していません
+        available_chunks:
+          available: 次のファイルの部分的なアップロードがあります
+          resume_replace: アップロードを再開しますか、それともファイルを置き換えますか？
+      quota:
+        quota: クォータ
+        used_of: 使用量 /
+        available: 利用可能
+        quota_exceeded: クォータを超えました
+      move_file_folder_modal:
+        move_folder: フォルダーを移動
+        move_file: ファイルを移動
+        move: 移動
+      show:
+        select_all: すべて選択/選択解除
+    logs:
+      action_bar:
+        activity_log: アクティビティログ
+      message:
+        created: 作成
+        uploaded: アップロード
+        downloaded: ダウンロード
+        reified: 復元
+        removed: 削除
+        restored: 復元
+        deleted: 削除
+        moved: 移動
+        renamed: 名前の変更
+        added: 追加
+        viewed: 表示
+        infected: 感染
+        trashed: ごみ箱に移動
+        deleted_user: "（削除されたユーザー）"
+        share: Share
+        folder: フォルダー
+        file: ファイル
+        group: グループ
+        user: ユーザー
+        read: 読み取り
+        read/write: 読み取り/書き込み
+        av_scanner: ウイルススキャナー
+        version_from: バージョンの日付
+        file_deleted: ファイルを削除しました
+        to: 宛先
+        from: 送信元
+        unknown: 不明
+        other: その他
+  share/log:
+    message:
+      you: あなた
+      share: Share
+      folder: フォルダー
+      file: ファイル
+      user: ユーザー
+      version_from: バージョンの日付
+      read: 読み取り
+      read/write: 読み取り/書き込み
+      created: が作成しました
+      added: が追加しました
+      uploaded: がアップロードしました
+      downloaded: がダウンロードしました
+      updated: が更新しました
+      restored: が復元しました
+      reified: が復元しました
+      deleted: が削除しました
+      removed: が完全に削除しました
+      trashed: がごみ箱に移動しました
+      renamed: が名前を変更しました
+      viewed: が表示しました
+      infected: 感染
+      av_scanner: ウイルススキャナー
+      file_deleted: ファイルを削除しました
+  sms_auth:
+    login_failed: ログインに失敗しました
+    sms_error: SMS の設定エラーです。システム管理者にお問い合わせください
+    verify_token: SMS コードを確認
+    verify_token_description: "携帯電話に送信されたコードを入力してください："
+    sms_login_failed: SMS の確認に失敗しました。新しい SMS コードを送信しました
+    sms_signup: SMS による 2 要素認証に登録
+    sms_signup_failed: SMS による 2 要素認証に失敗しました
+    sms_signup_description: 続行するには、SMS による 2 要素認証に登録する必要があります。続行するには、下に電話番号を入力してください。
+    verify: 確認
+    resend: コードを再送信
+    code: コード
+    token_resent: SMS コードを %{time} に再送信しました
+    send_token: 確認コードを送信
+    phone_number: 電話番号
+    invalid_phone_number: 電話番号が無効です。もう一度お試しください。
+    change_phone_number: 電話番号を変更
+    phone_number_help: 国番号を付け、先頭のゼロを除いて電話番号を入力してください（例：819012345678）。この番号に確認コードが送信されます。
+    one-time-code: ワンタイムコード
+  strong_auth:
+    two_factor_authentication: 2 要素認証
+    enable_2fa: 2 要素認証を有効にする
+    disable_2fa: 2 要素認証を無効にする
+    title: 2 要素認証を有効にする
+    enable_2fa_description: 強力な 2 要素認証を有効にすると、アカウントのセキュリティを強化できます。
+    require_description: このシステムを使用するには、2 要素認証を設定する必要があります。
+    disable_description: 2 要素認証を無効にするには、現在のコードを入力してください
+    two_factor_auth_disabled: 2 要素認証を無効にしました
+    step1: "ステップ 1：認証アプリを入手する"
+    step1_description: 通常はモバイルアプリを使用して、2 要素認証を有効にします。
+    totp_apps_description_html: 認証アプリには <a href="https://authy.com" target="_blank" rel="external nofollow noopener noreferrer">Authy</a>（マルチプラットフォーム）や Google Authenticator（iOS/Android）などがあります。その他の選択肢については <a href="https://docs.liquidfiles.com/authentication/totp.html#clients" target="_blank">TOTP Clients</a> をご覧ください。
+    step2: "ステップ 2：認証アプリを設定する"
+    step2_description: QR コードをスキャンして認証アプリを設定します。
+    step2_alt: または下のコードを入力します
+    step3: "ステップ 3：確認する"
+    step3_description: 認証アプリが生成したコードを入力して、設定を確認します。
+    failed_to_authenticate: 認証に失敗しました。もう一度お試しください。
+    click_on_link: または、下のリンクをクリックして 2 要素認証アプリに設定を追加します
+    configure: 2 要素認証を設定
+    success_saved: 2 要素認証の設定を保存しました
+    verify_token: 2 要素認証を確認
+    verify_token_description: モバイルアプリの 2 要素認証コードを入力してください。
+    verify: 確認
+    two_factor_login_failed: 2 要素認証に失敗しました
+    two_factor_validation_failed: 2 要素認証の検証に失敗しました
+    skip_2fa_for_two_weeks: このブラウザーでは 2 週間 2 要素認証をスキップする
+    one-time-code: ワンタイムコード
+  support:
+    email_subject: 次の件についてサポートが必要です
+    email_body: 問題をできるだけ詳しくご説明ください。よろしくお願いいたします。
+    navbar_tooltip: このシステムへのアクセスや使用についてサポートが必要な場合は、このリンクをクリックしてください。喜んでお手伝いいたします。
+  user:
+    includes_at_least_one_invalid_email_address: 無効なメールアドレスが少なくとも 1 つ含まれています
+    confirm:
+      invalid_session: セッションが無効です
+      already_validated: メールアドレスはすでに確認済みです
+      invalid_token: コードが無効です。もう一度お試しいただくか、「確認メールを再送信」をクリックしてください。
+      validation_email_sent: "確認メールを送信しました：%{time}"
+      activated_successfully: 有効化しました
+      validate_email_description: メールを確認し、一時パスワードを入力してメールアドレスを確認してください。
+    register:
+      already_registered: このアカウントはすでに登録されています。続行するにはログインしてください
+      already_registered_not_validated: アカウントはすでに登録されていますが、メールアドレスの確認がまだ必要です。ランダムなコードを記載したメールをお送りしました。下にコードを入力するか、メール内のリンクをクリックしてアカウントを確認してください。
+      show:
+        register: アカウントを登録
+        description_html: <p>アカウントを作成するには情報を入力してください。このアカウントを使うと、%{branding_name} で大容量ファイルを安全に送信できます。</p>
+    signup:
+      create:
+        need_password: パスワードを入力してください
+        need_name: 名前を入力してください
+    create:
+      show:
+        cancel_and_remember: キャンセルして今後は確認しない
+        cancel_and_remember_title: この選択は現在のブラウザーに記憶されます
+  validator:
+    required: この項目は必須です。
+    remote: この項目を修正してください。
+    email: 有効なメールアドレスを入力してください。
+    url: 有効な URL を入力してください。
+    date: 有効な日付を入力してください。
+    dateISO: 有効な日付（ISO）を入力してください。
+    number: 有効な数値を入力してください。
+    digits: 数字のみを入力してください。
+    creditcard: 有効なクレジットカード番号を入力してください。
+    equalTo: 同じ値をもう一度入力してください。
+    accept: 有効な拡張子の値を入力してください。
+    maxlength: "{0} 文字以内で入力してください。"
+    minlength: "{0} 文字以上で入力してください。"
+    rangelength: "{0} 文字から {1} 文字の値を入力してください。"
+    range: "{0} から {1} の値を入力してください。"
+    max: "{0} 以下の値を入力してください。"
+    min: "{0} 以上の値を入力してください。"
+    step: "{0} の倍数を入力してください。"
+    invalid_phone_number: 電話番号が無効です
+  locale: 日本語

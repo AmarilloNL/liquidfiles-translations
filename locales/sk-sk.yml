@@ -1,0 +1,1569 @@
+sk:
+  s: s
+  min: min
+  hours: Hodiny
+  days: Dni
+  weeks: Týždne
+  months: Mesiace
+  years: Roky
+  ago: pred
+  email: E-mail
+  save: Uložiť
+  delete: Odstrániť
+  cancel: Zrušiť
+  remove: Odobrať
+  aborting: Prerušuje sa
+  aborted: Prerušené
+  saved_successfully: Úspešne uložené
+  logout: Odhlásiť sa
+  error: Chyba
+  enabled: Zapnuté
+  disabled: Vypnuté
+  disable: Vypnúť
+  default: Predvolené
+  submit: Odoslať
+  session_expired: Relácia vypršala
+  search: Hľadať
+  filter: Filter
+  recipient: Príjemca
+  recipients: Príjemcovia
+  downloaded_by: Stiahol(-la)
+  filename: Názov súboru
+  size: Veľkosť
+  downloaded: Stiahnuté
+  host: Hostiteľ
+  ip: IP adresa
+  action: Akcia
+  view_message: Zobraziť správu
+  view_message_popup: Zobraziť správu (kontextové okno)
+  download_info: Informácie o stiahnutí
+  message_id: ID správy
+  filelink_id: ID FileLinku
+  sent_at: Odoslané
+  id: ID
+  subject: Predmet
+  expires: Platnosť do
+  invalid_method: Neplatná metóda
+  export_csv: Exportovať CSV
+  export_all: Exportovať všetko
+  export_visible: Exportovať viditeľné
+  temporarily_unavailable: Dočasne nedostupné
+  generic_search_error: Všeobecná chyba vyhľadávania
+  sender: Odosielateľ
+  search_temporary_disabled: Vyhľadávanie je dočasne vypnuté
+  help: Pomocník
+  close: Zavrieť
+  count: Počet
+  settings: Nastavenia účtu
+  virus: Vírus
+  virus_status: Stav antivírusu
+  infected: Infikované
+  clean: Čisté
+  not_scanned: Nekontrolované
+  not_yet_scanned: Zatiaľ nekontrolované
+  csrf_error: "CSRF: zistené neplatné parametre. Ak chcete pokračovať, prihláste sa znova."
+  could_not_be_saved: Nepodarilo sa uložiť
+  label: Označenie
+  updated: Aktualizované
+  add: Pridať
+  system_info: Informácie o systéme
+  location: Umiestnenie
+  accept: Prijať
+  last_7_days: Posledných 7 dní
+  last_30_days: Posledných 30 dní
+  last_60_days: Posledných 60 dní
+  last_90_days: Posledných 90 dní
+  last_180_days: Posledných 180 dní
+  last_365_days: Posledných 365 dní
+  file: Súbor
+  files: Súbory
+  next: Ďalej
+  previous: Späť
+  name: Meno
+  view: Zobraziť
+  forget: Zabudnúť
+  update: Aktualizovať
+  updated_at: Aktualizované
+  created_at: Vytvorené
+  download_link_expired: Platnosť odkazu na stiahnutie vypršala.
+  no_html5_upload_warning: Nahrávanie súborov vyžaduje moderný prehliadač kompatibilný s HTML5. Microsoft Edge, Chrome, Firefox aj Safari fungujú výborne.
+  javascript_warning: Na odosielanie súborov a používanie väčšiny funkcií je potrebný JavaScript.
+  cookie_accept: Táto stránka používa súbory cookie. Prihlásením alebo kliknutím na „Prijať“ súhlasíte s ich používaním.
+  i_agree: Súhlasím
+  session_timeout: Relácia vypršala, prihláste sa znova
+  loading: Načítava sa...
+  unsupported_browser_header: Nepodporovaný prehliadač
+  unsupported_browser_description_html: Váš prehliadač nie je podporovaný, a preto táto stránka pravdepodobne nebude fungovať podľa očakávaní. Použite novší prehliadač.
+  not_logged_in_invalid_parameters: Neprihlásený, neplatné parametre
+  toggle_dropdown: Zobraziť/skryť ponuku
+  rejected: Zamietnuté
+  undetected: Nezistené
+  invalid_link: Neplatný odkaz, kontaktujte odosielateľa
+  account_settings_tooltip: Nastavenia účtu
+  logout_tooltip: Odhlásiť sa
+  download_id: ID stiahnutia
+  remote_host: Vzdialený hostiteľ
+  show: Zobraziť
+  hide: Skryť
+  password: Heslo
+  download: Stiahnuť
+  unauthorized: Neautorizované
+  account:
+    login: Prihlásiť sa
+    login_label: E-mailová adresa
+    email: E-mailová adresa
+    password: Heslo
+    current_password: Aktuálne heslo
+    please_enter_your_current_password: Zadajte aktuálne heslo
+    sign_in: Prihlásiť sa
+    remember_me: Zapamätať si ma
+    not_administrator: Nie ste správca
+    password_reset: Obnovenie hesla
+    register: Zaregistrovať sa
+    register_description_html: Ďakujeme! Ak chcete pokračovať, zadajte svoje údaje a vytvorte si účet.<br>Nabudúce sa môžete prihlásiť e-mailovou adresou a heslom.
+    account_not_activated: Účet nie je aktivovaný. Pred prihlásením účet aktivujte. Poslali sme vám e-mail s náhodným kódom. Zadajte kód nižšie alebo kliknite na odkaz v e-maile a potvrďte tak svoj účet.
+    incorrect_user_or_pw: Nesprávne používateľské meno alebo heslo
+    confirmation_email_sent: Potvrdzovací e-mail bol odoslaný
+    activated_successfully: Úspešne aktivované
+    not_activated: Účet nie je aktivovaný
+    password_reset_email_sent: E-mail na obnovenie hesla bol odoslaný
+    no_such_user: Používateľ neexistuje
+    no_such_email: E-mailová adresa sa nenašla
+    not_logged_in: Nie ste prihlásený. Ak chcete pokračovať, prihláste sa.
+    saved_successfully: Úspešne uložené
+    unlicensed_install_some_settings: "Nelicencovaná inštalácia: možnosti vlastného vzhľadu vidia len správcovia systému"
+    incorrect_login_or_demo: Nesprávne používateľské meno alebo heslo, alebo bol dosiahnutý limit licencie
+    incorrect_login_or_ldap: Nesprávne používateľské meno alebo heslo, alebo chyba servera LDAP
+    invalid_api_key: Neplatný kľúč API
+    cant_delete_last_sysadmin: Posledného správcu systému nemožno odstrániť
+    cant_change_last_sysadmin: Posledného správcu systému nemožno zmeniť
+    sso_login: Prihlásenie SSO
+    invalid_sso_response: Neplatná odpoveď SSO
+    automatic: Zistené automaticky
+    network_access_blocked: Prístup do tohto systému z vašej siete nie je povolený.
+    please_login: Ak chcete otvoriť túto stránku, prihláste sa.
+    email_validation_session_timeout: Relácia vypršala, overte znova svoju e-mailovú adresu.
+    signature: Podpis
+    not_authorized_for_action: Na vykonanie tejto akcie nemáte oprávnenie
+    invalid_group: Neplatná skupina. Kontaktujte správcu, ktorý môže váš účet presunúť do skupiny miestnych používateľov
+    invalid_group_configuration: Neplatná konfigurácia skupiny. Kontaktujte správcu, ktorý vám môže vytvoriť účet alebo upraviť konfiguráciu skupiny.
+    please_enter_email_to_email_password: Zadajte svoju e-mailovú adresu na obnovenie hesla. Na túto adresu bude odoslaný potvrdzovací e-mail.
+    password_reset_successfully: Heslo bolo úspešne obnovené
+    password_cant_be_empty: Heslo nesmie byť prázdne
+    password_complexity_title: Zložitosť hesla
+    password_complexity_description_html: "<p>Vaše heslo <strong>nesmie vychádzať zo slovníkového slova</strong> a musí spĺňať aspoň 3 z nasledujúcich požiadaviek:</p><ul><li>Aspoň 8 znakov</li><li>Aspoň 11 znakov</li><li>Aspoň 15 znakov</li><li>Aspoň 1 malé a 1 veľké písmeno</li><li>Aspoň 1 číslica (0-9)</li><li>Aspoň jeden z nasledujúcich znakov: !,@,#,$,%,^,&amp;,*,?,_,~,-,(,)</li></ul>"
+    is_not_strong_enough: nie je dostatočne silné
+    your_password_has_expired: Platnosť vášho hesla vypršala
+    please_select_a_different_password: Zvoľte iné heslo ako predchádzajúce
+    change_password: Zmeniť heslo
+    account_not_found: Účet sa nenašiel. Prihláste sa znova.
+    user_required_to_use_saml: Heslo nemožno obnoviť, prihláste sa cez SAML
+    sysadmin_ldap_error: Tento účet sa overuje cez LDAP a nemožno ho tu obnoviť
+    login_limit_exceeded: Prekročený limit prihlásení
+    a_confirmation_email_will_be_sent: Na túto adresu bude odoslaný potvrdzovací e-mail
+    name: Meno
+    password_confirm: Potvrdenie hesla
+    save: Uložiť
+    can_not_reset_password_please_check_with_your_administrator: Heslo nemožno obnoviť, obráťte sa na správcu
+    no_need_to_register_user: Registrácia nie je potrebná. Prihláste sa svojím existujúcim účtom.
+    registration_not_allowed: Registrácia nie je povolená
+    create_description: Vytvorte si účet zadaním mena a hesla.
+    activated_successfully_please_login: Účet bol úspešne aktivovaný. Teraz sa môžete prihlásiť e-mailovou adresou a heslom.
+    invalid_activation_url: Neplatný aktivačný odkaz. Skontrolujte odkaz a skúste to znova.
+    already_logged_in: Už ste prihlásený. Nový účet nemožno zaregistrovať.
+    bruteforce_message: Prekročili ste počet neúspešných pokusov. Skúste to znova o %{minutes} min.
+    admin_access_blocked: Prístup správcu z vašej IP adresy nie je povolený.
+    account_created_successfully: Účet bol úspešne vytvorený
+    create_account: Vytvoriť účet
+    create_account_description: Ak chcete vytvoriť účet, aktualizujte svoje údaje.
+    account_settings: Nastavenia účtu
+    change_language: Zmeniť jazyk a časové pásmo
+    filedrop_label: Filedrop (náhodný)
+    filedrop_email_label: Filedrop
+    verify_account: Overuje sa účet
+    invalid_sso_signature: Neplatný podpis alebo prihlásenie SSO
+    user_not_found: Používateľ sa nenašiel
+    could_not_create_account: Účet sa nepodarilo vytvoriť
+    two_factor_authentication_failed: Dvojfaktorové overenie Duo zlyhalo
+    copy_to_clipboard: Kopírovať do schránky
+    copy_url_to_clipboard: Kopírovať URL do schránky
+    delete_user_warning: Naozaj chcete odstrániť tohto používateľa?
+    unauthorized_to_login: Nemáte oprávnenie prihlásiť sa
+    first_time_message_title: Vitajte v LiquidFiles
+    first_time_message: <p>Vitajte v LiquidFiles – najjednoduchšom spôsobe, ako bezpečne posielať veľké súbory.</p><p>Základné funkcie fungujú rovnako ako webová pošta.</p><p>Táto správa sa zobrazí len raz. Ak si nebudete vedieť rady alebo budete chcieť objaviť pokročilejšie funkcie, kliknite na tlačidlo „Pomocník“ v pravom hornom rohu panela ponúk.</p>
+    first_time_message_button: Rozumiem!
+    registration_failed_unknown_error: Registrácia zlyhala pre neznámu chybu
+    session_timeout: Relácia vypršala
+    nothing_filled_in: Vyplňte formulár
+    last_used: Naposledy použité
+    strong_auth_required_before_password_reset: Pred obnovením hesla k tomuto účtu sa vyžaduje silné dvojfaktorové overenie.
+    unfriendly_registration_message: Ak sa s touto e-mailovou adresou môžete v systéme zaregistrovať, dostanete e-mail. Ak ho nedostanete, použite odkaz na podporu vyššie.
+    unfriendly_password_reset_message: Ak sa účet s touto e-mailovou adresou dá obnoviť, dostanete e-mail. Ak ho nedostanete, použite odkaz na podporu vyššie.
+    aliases:
+      aliases: Aliasy
+      aliases_description: K účtu môžete pridať aliasy odosielateľa a príjemcu. Alias odosielateľa vám umožní odosielať správy v mene danej e-mailovej adresy. Alias príjemcu vám umožní zobraziť správy pre danú adresu. Správy pre alias príjemcu sa zobrazia aj vo vašej schránke zabezpečených správ.
+      aliases_no_change_description: Alias odosielateľa vám umožní odosielať správy v mene danej e-mailovej adresy. Alias príjemcu vám umožní zobraziť správy pre danú adresu. Správy pre alias príjemcu sa zobrazia aj vo vašej schránke zabezpečených správ. Ak chcete aliasy pridať alebo zmeniť, kontaktujte správcu.
+      recipient_aliases: Aliasy príjemcu
+      sender_aliases: Aliasy odosielateľa
+      add_alias: Pridať alias
+      remove: Odobrať
+      default_sender_alias: Predvolený alias odosielateľa
+      default_sender_alias_description: Predvolený alias odosielateľa.
+      are_you_sure: Naozaj chcete tento alias odobrať?
+      no_emails: Nebol pridaný žiadny alias.
+      please_contact_an_administrator: Ak ich chcete spravovať, kontaktujte správcu
+      auto_added_aliases: Automaticky pridané aliasy
+      auto_added_aliases_description: Nasledujúce aliasy boli automaticky pridané k vášmu profilu. Ak ich chcete spravovať, kontaktujte správcu.
+    alias:
+      confirm:
+        show:
+          title: Ďakujeme za potvrdenie
+          alias_email: E-mail aliasu
+          user: Používateľ
+          recipient_and_sender_confirmation: Vyššie uvedený používateľ teraz môže zobraziť zabezpečené správy pre túto e-mailovú adresu a odosielať zabezpečené správy v jej mene. Ak ide o omyl, kliknite na odkaz na podporu vyššie.
+          only_recipient_confirmation: Vyššie uvedený používateľ teraz môže zobraziť zabezpečené správy pre túto e-mailovú adresu. Ak ide o omyl, kliknite na odkaz na podporu vyššie.
+          only_sender_confirmation: Vyššie uvedený používateľ teraz môže odosielať zabezpečené správy v mene tejto e-mailovej adresy. Ak ide o omyl, kliknite na odkaz na podporu vyššie.
+    add_alias_modal:
+      title: Pridať alias
+      description: Zadajte e-mailovú adresu, ku ktorej chcete získať prístup ako alias príjemcu alebo odosielateľa. Na túto adresu bude na potvrdenie odoslaný e-mail.
+      recipient_alias: Alias príjemcu - chcem čítať správy odoslané na túto e-mailovú adresu.
+      sender_alias: Alias odosielateľa - chcem odosielať správy v mene tejto e-mailovej adresy.
+      invalid_email: Neplatná e-mailová adresa
+      add_permission: Vyberte alias príjemcu, alias odosielateľa alebo oboje.
+      send_request: Odoslať žiadosť
+      request_has_been_sent: Vaša žiadosť bola odoslaná.
+    api:
+      api_key: Kľúč API
+      api_key_description: Kľúč API používajú doplnky, napríklad doplnok pre Outlook, a dá sa použiť na vlastné integrácie. Potrebujete ho len vtedy, ak vás o to požiada správca.
+      api_key_reset_warning: Ste si istý? Ak kľúč API obnovíte, budete musieť starý kľúč nahradiť všade, kde ste ho používali.
+      reset_api_key: Obnoviť kľúč API
+    contacts:
+      contacts: Kontakty
+      contacts_description: Môžete pridať ľubovoľný počet kontaktov. Každý kontakt môže mať viac e-mailových adries, takže môžete rýchlo a jednoducho posielať viacerým príjemcom naraz.
+      add_contact: Pridať kontakt
+      email_field_help: Zoznam e-mailových adries oddelených čiarkami.
+      contact:
+        edit_label: Upraviť označenie
+        edit_email: Upraviť e-mailovú adresu
+        are_you_sure: Naozaj chcete tento kontakt odstrániť?
+    filedrops:
+      filedrops: Filedropy
+      filedrops_description: Ste hlavným príjemcom alebo príjemcom kópie týchto Filedropov. Všetky súbory odoslané cez ktorýkoľvek z nich budú doručené vám.
+      name: Názov
+      title: Nadpis
+      recipient: Príjemca
+      expires_after: Platnosť
+      max_size: Max. veľkosť súboru
+      url: URL
+      main_recipient: Hlavný príjemca
+      cc: Kópia
+    personal_filedrop:
+      personal_filedrop: Osobný Filedrop
+      personal_filedrop_description: Osobný Filedrop je jednoduchý spôsob, ako prijímať súbory. Odkaz môžete poslať, zverejniť na webe alebo vložiť do e-mailového podpisu. Hneď ako vám niekto niečo pošle cez váš osobný Filedrop, dostanete upozornenie.
+    previous_recipients:
+      previous_recipients: Predchádzajúci príjemcovia
+      previous_recipients_description: Keď odošlete zabezpečenú správu, každý príjemca sa pridá do tohto zoznamu predchádzajúcich príjemcov. Vďaka tomu môžete rýchlo znova poslať tým istým príjemcom. Príjemcovia, ktorým ste 180 dní nič neposlali, sa zo zoznamu automaticky odstránia.
+      are_you_sure: Naozaj chcete odstrániť tohto predchádzajúceho príjemcu?
+    pw_dictionary:
+      based_on_a_dictionary_word: vychádza zo slovníkového slova
+      based_upon_your_password_entry: vychádza zo zadaného hesla
+      derived_from_your_password_entry: je odvodené od zadaného hesla
+      derivable_from_your_password_entry: dá sa odvodiť zo zadaného hesla
+      way_too_short: je PRÍLIŠ krátke
+      too_short: je príliš krátke
+      it_does_not_contain_enough_different_characters: neobsahuje dostatok RÔZNYCH znakov
+      all_whitespace: obsahuje len medzery
+      too_simplistic_systematic: je príliš jednoduché/systematické
+      it_looks_like_a_national_insurance_number: vyzerá ako rodné číslo
+      based_on_a_reversed_dictionary_word: vychádza z (obráteného) slovníkového slova
+    show:
+      basic_settings: Základné nastavenia
+      change_password: Zmeniť heslo
+      strong_auth: Dvojfaktorové overenie
+      aliases: Aliasy
+      previous_recipients: Predchádzajúci príjemcovia
+      contacts: Kontakty
+      personal_filedrop: Osobný Filedrop
+      api: API
+      filedrops: Filedropy
+    sms_disable:
+      disable_sms_otp: Vypnúť dvojfaktorové overenie cez SMS
+      disable_sms_otp_description: Ak chcete vypnúť dvojfaktorové overenie cez SMS, kliknite na tlačidlo nižšie. Na potvrdenie žiadosti bude odoslaný kód SMS.
+      verify_token_description: "Ak chcete vypnúť dvojfaktorové overenie cez SMS, zadajte kód odoslaný na váš mobilný telefón:"
+      code: Kód
+      sms_token_failed: Neplatný kód SMS, dvojfaktorové overenie cez SMS sa nepodarilo vypnúť
+      sms_otp_has_been_disabled: Dvojfaktorové overenie cez SMS bolo vypnuté
+    sms_signup:
+      sms_signup_description: Zabezpečenie účtu môžete zlepšiť zapnutím dvojfaktorového overenia. Ak ho chcete zapnúť, zadajte nižšie svoje telefónne číslo.
+      phone_number: Telefónne číslo
+    sms_enable:
+      signup_complete: Dvojfaktorové overenie cez SMS bolo zapnuté
+    terms_of_service:
+      show:
+        title: Podmienky používania
+        accept_terms_of_service: Prijať podmienky používania
+        do_not_accept: Neprijať
+      create:
+        you_need_to_accept: Musíte prijať podmienky používania!
+  activerecord:
+    attributes:
+      attachment:
+        filename: Názov súboru
+        size: Veľkosť
+        secure_id: ID prílohy
+        content_type: Typ obsahu
+        created_at: Vytvorené
+        updated_at: Aktualizované
+      download:
+        recipient: Príjemca
+        downloaded_at: Stiahnuté
+        remote_ip: Vzdialená IP
+        remote_host: Vzdialený hostiteľ
+        created_at: Vytvorené
+        updated_at: Aktualizované
+      filedrop:
+        name: Názov
+        title: Nadpis
+        description: Popis
+        blocked_extensions: Blokované prípony
+        permitted_extensions: Povolené typy súborov
+        expires_after: Platnosť
+        max_filesize: Maximálna veľkosť súboru
+        created_at: Vytvorené
+        updated_at: Aktualizované
+        api_key: Kľúč API
+        cc: Kópia
+        authorization: Autorizácia
+      message:
+        recipients: Príjemcovia
+        sender: Odosielateľ
+        cc: Kópia
+        bcc: Skrytá kópia
+        message: Správa
+        subject: Predmet
+        deleted: Odstránené
+        authorization: Autorizácia
+        created_at: Vytvorené
+        updated_at: Aktualizované
+        expires_at: Platnosť do
+      share/log:
+        created_at: Dátum
+      share/file:
+        checksum: Kontrolný súčet (SHA256)
+      share/file/version:
+        whodunnit: Zmenil(-a)
+        created_at: Zmenené
+      user:
+        name: Meno
+        email: E-mailová adresa
+        quota: Kvóta
+        used: Využité
+        max: Max.
+        password: Heslo
+        ldap_authentication: Overovanie LDAP
+        api_key: Kľúč API
+        level: Úroveň
+        filedrop: Filedrop
+    models:
+      configuration: Konfigurácia
+      attachment: Príloha
+      filedrop: Filedrop
+      message: Správa
+      user: Používateľ
+      download: Stiahnutie
+  admin:
+    groups:
+      form:
+        bcc_myself: Poslať kópiu mne
+        can_change_bcc_myself: Povoliť používateľom tejto skupiny meniť nastavenie posielania kópie sebe
+      index:
+        default_group_assignment: Predvolené priradenie skupiny
+    users:
+      users:
+        email: E-mailová adresa
+        name: Meno
+        group: Skupina
+        max: Max. veľkosť súboru
+        quota: Kvóta
+        strong_auth: Silné overenie
+        filedrop: Filedrop
+        last_login_at: Posledné prihlásenie
+        last_login_ip: IP posledného prihlásenia
+        created: Vytvorené
+      form:
+        name_label: Meno
+        email: E-mailová adresa
+        password: Heslo
+        password_confirmation: Potvrdenie hesla
+        max_label: Maximálna veľkosť súboru
+        group: Skupina
+        strong_auth: Silné overenie
+        strong_auth_username: Používateľské meno pre silné overenie
+        api_key: Kľúč API
+        filedrop: Filedrop
+  attachments:
+    not_found: Príloha sa nenašla
+  config:
+    settings: Nastavenia
+    email: E-mail
+    language_preferences_from_your_browser: Jazykové predvoľby prehliadača
+    authentication: Overovanie
+    time_zone: Časové pásmo
+    current_time_zone: Aktuálne časové pásmo
+    time_zone_from_browser: Časové pásmo zistené prehliadačom
+    time_zone_config_description: Ak ponecháte časové pásmo na „Zistené automaticky“, použije sa časové pásmo zistené vaším prehliadačom (všetky časy sa zobrazia v tomto pásme). Ak prehliadač časové pásmo zistiť nedokáže, použije sa predvolené časové pásmo systému. Ak prehliadač nezistí správne časové pásmo alebo chcete zobrazovať časy v inom pásme, môžete nastaviť konkrétne časové pásmo.
+    time_zone_default: Predvolené časové pásmo systému
+    email_settings: Nastavenia e-mailu
+    configuration: Konfigurácia
+    local_domains: Miestna doména
+    ldap_users: Používatelia overení cez LDAP
+    ldap_users_are_always_local: Používatelia overení cez LDAP sú vždy miestni
+    separated_by_comma: oddelené čiarkami
+    default_max_file_size: Predvolená maximálna veľkosť súboru
+    local_users: Miestni používatelia
+    external_users: Externí používatelia
+    allow_registration: Povoliť registráciu
+    allow_registration_desc: Povoliť registráciu na prihlasovacej stránke
+    external_user_account: Externí príjemcovia
+    external_user_account_desc: Externí príjemcovia si musia vytvoriť účet
+    allow_users_to_change_expiration: Povoliť používateľom meniť platnosť súborov
+    authorization: Oprávnenie
+    authorization_description: Predvolené nastavenie toho, kto smie sťahovať súbory.
+    file_expiration: Platnosť
+    default_expire_files_after: Platnosť súborov štandardne vyprší po
+    delete_downloaded_files_after: Odstrániť stiahnuté súbory po
+    branding: Vlastný vzhľad
+    company_name: Názov spoločnosti
+    custom_stylesheet: Vlastná šablóna štýlov
+    custom_javascript: Vlastný JavaScript
+    logotype: Logo
+    leave_blank_for_default: ponechajte prázdne pre predvolenú hodnotu
+    email_configuration: Konfigurácia e-mailu
+    email_sender_address: Adresa odosielateľa
+    email_host: Základná URL e-mailov
+    email_footer: Päta e-mailu
+    email_relay_host: Server na preposielanie e-mailov
+    email_relay_username: Používateľské meno pre preposielanie e-mailov
+    email_relay_password: Heslo pre preposielanie e-mailov
+    port: Port
+    unlicensed_install_some_settings: "Nelicencovaná inštalácia: nastavenia vlastného vzhľadu vidia len správcovia systému"
+    mail_relay_example: "Napr.: mailrelay.domena.sk, mx.domena.sk:587"
+    ldap: LDAP
+    please_see_the: pozrite
+    for_more_information: pre viac informácií
+    virus_scan: Antivírusová kontrola
+    virus_scan_description: Kontrolovať súbory na vírusy
+    blocked_file_extensions: Blokované prípony súborov
+    default_bcc_myself_label: Poslať kópiu mne
+    default_bcc_myself: Štandardne posielať kópiu mne
+    allow_users_to_change_require_login_label: Vyžadovať overenie
+    allow_users_to_change_require_login: Povoliť používateľom meniť „Vyžadovať overenie“
+    permitted_file_extensions_label: Povolené prípony súborov
+    delete: Odstrániť
+    ldap_description: "Zapnite overovanie používateľov cez LDAP a nastavte základné parametre pripojenia k serveru LDAP. Ak nie je zadaný port, použije sa predvolený port LDAP 389 (alebo port 636, ak je zapnuté SSL). Poznámka: port 3268 sa v Active Directory NEPOUŽÍVA na overovanie, len na vyhľadávanie v globálnom adresári. Namiesto neho použite port 389/636."
+    ldap_authentication: Overovanie LDAP
+    basic_settings: Základné nastavenia
+    server: Názov servera / IP adresa
+    username: Používateľské meno
+    password: Heslo
+    authentication_description: Tento používateľ sa použije na pripojenie k serveru LDAP (ponechajte prázdne pre anonymné pripojenie). Používateľ potrebuje oprávnenie na vyhľadávanie v strome LDAP.
+    search_key: Kľúč vyhľadávania
+    search_key_description: Kľúč vyhľadávania a doména slúžia na vyhľadanie používateľov v strome LDAP. Tabuľka nižšie ukazuje, ako kľúč vyhľadávania a doména spolupracujú pri hľadaní používateľa.
+    search_key_description2: Ak teda kľúč vyhľadávania LDAP obsahuje e-mailovú adresu, doména musí zostať prázdna. Ak kľúč vyhľadávania LDAP obsahuje len používateľské meno, doména musí obsahovať doménu používateľov.
+    search_key_defaults: "Pre Active Directory je dobrým východiskovým bodom: sAMAccountName ako kľúč vyhľadávania LDAP a firma.sk (vaša doména) ako doména."
+    user_enters: Používateľ zadá
+    authorized_ldap_groups: Autorizované skupiny LDAP
+    available_groups: Dostupné skupiny
+    default_settings: Predvolené nastavenia
+    setting: Nastavenie
+    value: Hodnota
+    description: Popis
+    default_local_max_description: Toto je predvolená maximálna veľkosť súboru pre nových miestnych používateľov. Dá sa zmeniť pre jednotlivých používateľov.
+    user_changeable: Môže meniť používateľ?
+    non_local: Nemiestny
+    remote: Vzdialený
+    new_external_recipient_is_nonlocal: Noví externí príjemcovia sú
+    email_message_on_top_label: Správa hore
+    email_message_on_top: Správa je v e-maile príjemcom umiestnená nad zoznamom súborov
+    use_either_permitted_or_blocked_extensions: Musíte zvoliť buď povolené, alebo blokované prípony, nie oboje
+    invalid_password: Neplatné heslo
+    valid_password: Platné heslo
+    test_password_validation: Otestovať overenie hesla
+    custom_password_validation: Vlastné overenie hesla
+    custom_password_validation_description: "Tento regulárny výraz sa použije na vlastné overenie hesiel. Zadajte len regulárny výraz bez oddeľovačov (nezačínajte ani nekončite znakom '/'). Príklad: [a-zA-Z0-9]{7,} (heslá potom smú obsahovať len a-z, A-Z a 0-9, minimálne 7 znakov)"
+    filedrop: Filedrop
+    receive: Prijímať
+    api_settings: Nastavenia API
+    enable_api_label: Zapnúť API
+    enable_api_description: Zapnúť API na prístup cez doplnky a skripty
+    enable_api_group_config: Ďalšie nastavenia API nájdete v konfigurácii skupín.
+    api_client_size_override_label: Limit veľkosti pre klientov API
+    api_client_size_override_description: Klienti API budú súbory väčšie ako táto veľkosť odosielať cez zariadenie
+    sso_secret_key: Tajný kľúč SSO
+    generate_key: Vygenerovať nový kľúč
+    sso_replace_confirm: Ste si istý? Nahradením tajného kľúča SSO prestanú existujúce integrácie SSO fungovať.
+    virus_scan_skip_locals: Preskočiť antivírusovú kontrolu u miestnych používateľov
+    virus_scan_skip_locals_description: Nekontrolovať súbory miestnych používateľov na vírusy
+    virus_scan_permit_unscanned: Povoliť nekontrolované súbory
+    virus_scan_permit_unscanned_description: Povoliť sťahovanie súborov, ktoré ešte neboli skontrolované na vírusy
+    userdrop: Používateľský Filedrop
+    user_filedrop_with_random_key: Používateľské Filedropy s náhodným kľúčom
+    enable_userdrop: Zapnúť používateľské Filedropy
+    example: Príklad
+    user_filedrop_with_email: Používateľské Filedropy s e-mailovými adresami
+    enable_userdrop_email: Zapnúť používateľské Filedropy s e-mailovou adresou
+    userdop_email_data_leakage: Toto by sa dalo zneužiť na zisťovanie miestnych e-mailových adries skúšaním adries na URL Filedropu a sledovaním, ktoré vracajú platnú odpoveď.
+    userdrop_files_expire_after: Platnosť vložených súborov vyprší po
+    userdrop_max_filesize: Maximálna veľkosť súboru pre používateľský Filedrop
+    bruteforce_label: Ochrana proti útokom hrubou silou
+    bruteforce_description_1: Blokovať IP adresu na
+    bruteforce_description_2: minút po
+    bruteforce_description_3: neúspešných prihláseniach/registráciách počas
+    bruteforce_description_4: minút
+    bruteforce_whitelist_label: Zoznam povolených pre ochranu proti hrubej sile
+    allowed_admin_networks_label: Siete na správu
+    allowed_admin_networks_description: Obmedziť prístup správcu na tieto hostiteľské počítače a siete. Localhost (127.0.0.1, ::1) je vždy povolený
+    enable_strong_authentication: Štandardne zapnúť silné overenie pre tieto typy používateľov
+    authenticated_username: Overené používateľské meno
+    duo_hostname: Názov hostiteľa Duo
+    duo_client_id: Integračný kľúč Duo
+    duo_client_secret: Tajný kľúč Duo
+    strong_authentication_test: Otestovať silné overenie
+    stronger_password: Zvoľte silnejšie heslo.
+    cannot_begin_or_end_with_blank: Heslo nesmie začínať ani končiť medzerou.
+    at_least_one_invalid_domain: Aspoň jedna neplatná doména
+    at_least_one_invalid_email: Aspoň jedna neplatná e-mailová adresa
+    email_security_level: Úroveň zabezpečenia doručovania e-mailov
+    geoip: Vyhľadávanie GeoIP
+    geoip_description: Sťahuje údaje o polohe z https://geoip.liquidfiles.com a zobrazuje mapy.
+    tooltip:
+      local_domains: Miestny používateľ môže posielať súbory komukoľvek. Nemiestny používateľ môže posielať súbory len miestnym používateľom. Pri prvom prihlásení používateľa alebo pri vytvorení účtu sa doména e-mailovej adresy porovná s týmito doménami a určí sa, či sa používateľ považuje za miestneho.
+      ldap_users_are_always_local: Každý používateľ overený cez LDAP sa automaticky považuje za miestneho bez ohľadu na doménu.
+      allow_registration: Povolí registráciu na prihlasovacej stránke. Podľa zoznamu miestnych domén sa určí, či je nový používateľ miestny alebo nemiestny.
+      local_user_maxfile: Keď sa miestny používateľ zaregistruje alebo sa prvýkrát overí vzdialeným overením, nastaví sa mu táto maximálna veľkosť súboru.
+      nonlocal_user_maxfile: Keď sa zaregistruje nemiestny používateľ, nastaví sa mu táto maximálna veľkosť súboru.
+      delete_downloaded_files_after: Stiahnutý súbor sa uchováva počas tejto doby. Mala by byť dosť dlhá na to, aby si príjemca mohol zvoliť iné umiestnenie na stiahnutie alebo začať znova, ale dosť krátka, aby sa odkaz nešíril ďalším ľuďom.
+      file_expiration: Povolí používateľom meniť dobu platnosti súborov. Ak nie je zapnuté, všetky súbory dostanú predvolenú dobu platnosti.
+      default_expire_files_after: Platnosť súborov vyprší po tejto dobe.
+      blocked_file_extensions: Blokovať súbory s týmito príponami (nerozlišujú sa malé a veľké písmená).
+      virus_scan: Kontrolovať všetky nahrané súbory antivírusom ClamAV
+      require_authentication_permission: Ak je zapnuté, používatelia si môžu sami zvoliť, či sa vyžaduje overenie
+      default_bcc_myself: Ak je zapnuté, správy sa štandardne posielajú aj samotnému používateľovi
+      permitted_file_extensions: "Ak zostane prázdne, sú povolené všetky prípony. Ak je zadaná aspoň jedna prípona, sú povolené len zadané typy súborov. Príklad: png, gif, jpg, txt"
+      new_external_recipient_is_nonlocal: Keď sa správa odošle novému príjemcovi, má sa vytvoriť ako nemiestny používateľ (aby mohol odpovedať), alebo ako externý používateľ?
+      email_message_on_top: Ak je začiarknuté, správa je v e-maile príjemcom umiestnená nad zoznamom súborov. Ak nie, je zoznam súborov umiestnený nad správou.
+      email_sender: Táto e-mailová adresa sa použije ako odosielateľ systémových e-mailov, napríklad pri obnovení hesla. Aby tieto e-maily neboli označené ako spam, musí ísť o skutočnú e-mailovú adresu.
+      email_host: Prílohy budú túto URL používať ako základnú URL. Zvyčajne ide o http://nazovhostitela.domena alebo https://nazovhostitela.domena, ale môže to byť aj https://nazovhostitela.domena:4433, ak pri pripájaní používateľov k zariadeniu LiquidFiles používate na firewalle presmerovanie portov.
+      email_footer: Tento podpis sa pridá ku všetkým odchádzajúcim e-mailom.
+      email_relay: Použiť tento poštový server na preposielanie odchádzajúcich e-mailov.
+      email_relay_username: Účet používaný na prihlásenie k serveru na preposielanie e-mailov
+      email_relay_password: Heslo účtu používaného na prihlásenie k serveru na preposielanie e-mailov
+  date:
+    formats:
+      default: "%d.%m.%Y"
+      short: "%d.%m."
+      medium: "%d.%m.%Y"
+      long: "%d.%m.%Y"
+  time:
+    am: dopoludnia
+    pm: popoludní
+    formats:
+      default: "%d.%m.%Y %H:%M:%S %z"
+      short: "%d.%m. %H:%M"
+      medium: "%d.%m.%Y %H:%M"
+      long: "%d.%m.%Y %H:%M"
+  downloads:
+    download_id: ID stiahnutia
+    index:
+      download_log_title: Stiahnutia
+      download_log_description: Kto čo a kedy stiahol
+      paginator_entry_name: stiahnutia
+    show:
+      no_map_for_reserved_address: Pre rezervované adresy nemožno zobraziť mapu
+  filedrop:
+    filedrop: Filedrop
+    no_such_filedrop: Tento Filedrop neexistuje
+    invalid_filedrop_url: Neplatná URL Filedropu
+    invalid_filedrop_url_description: Na tejto URL nie je žiadny Filedrop. Skontrolujte URL a skúste to znova.
+    label: Filedropy
+    mb: MB
+    name: Názov
+    name_description: Krátky názov, ktorý sa používa aj v URL (napr. /filedrop/nazov)
+    title: Nadpis
+    title_description: Nadpis v hornej časti stránky
+    description: Popis
+    description_description: Popis pod nadpisom
+    user: Prijímajúci používateľ
+    user_description: Príjemcom môže byť ľubovoľný miestny používateľ
+    cc: Kópia
+    cc_description: "(oddelené čiarkami) Poslať kópiu na tieto adresy"
+    expires_after: Platnosť
+    expires_after_description: dní
+    max_filesize: Maximálna veľkosť súboru
+    max_filesize_description: MB
+    reset_filedrop: Obnoviť URL Filedropu
+    filedrop_reset_warning: Ste si istý? Ak URL Filedropu obnovíte, budete ju musieť nahradiť všade, kde ste ju zverejnili.
+    permitted_extensions: Povolené prípony
+    permitted_extensions_description: Povolené budú len tieto typy súborov
+    blocked_extensions: Blokované prípony
+    blocked_extensions_description: Tieto typy súborov budú blokované
+    demo_license_warning_standard: Filedropy vyžadujú na produkčnú prevádzku licenciu. Ak chcete funkciu Filedrop zapnúť, prejdite na licenciu Pro.
+    max_one_during_demo: Počas skúšobnej verzie alebo s licenciou Standard môžete nastaviť najviac jeden Filedrop
+    filedrop_info: Filedrop umožňuje vašim zákazníkom posielať vám súbory bez overenia alebo predchádzajúceho nastavenia. Každý Filedrop má pevnú URL, na ktorú môžete odkazovať z webových stránok alebo v e-mailových podpisoch. Keď niekto vloží súbor do Filedropu, automaticky sa odošle vopred určenému používateľovi.
+    authorization: Oprávnenie
+    authorization_description: kto smie sťahovať súbory vložené do Filedropu
+    you_will_be_notified: Hneď ako budú vaše súbory stiahnuté, dostanete potvrdenie o stiahnutí.
+    require_authentication: Tento Filedrop vyžaduje overenie. Ak chcete pokračovať, zadajte heslo.
+    authenticate: Overiť
+    authentication_failed: Overenie zlyhalo
+    require_validation: Tento Filedrop vyžaduje overenie alebo potvrdenie vašej e-mailovej adresy.
+  filelink:
+    filelink: FileLink
+    filelinks: FileLinky
+    filelink_title: FileLink
+    filelink_description: FileLink je odkaz na jeden súbor. Tento odkaz môžete poslať komukoľvek bez toho, aby ste museli vytvárať správu alebo zadávať príjemcov. Súbor si budú môcť stiahnuť len ľudia, ktorým ste náhodný odkaz poslali.
+    expired_or_nonexistent_title: Neplatný FileLink
+    expired_or_nonexistent: Platnosť tohto FileLinku vypršala alebo neexistuje. Kontaktujte odosielateľa kvôli novému odkazu.
+    existing_filelinks: Existujúce FileLinky
+    new_filelink: Nový FileLink
+    available_files: Dostupné súbory
+    filename: Názov súboru
+    filesize: Veľkosť súboru
+    expires_at: Platnosť do
+    link: Odkaz
+    checksum: Kontrolný súčet
+    copy_link_to_clipboard: Kopírovať FileLink do schránky
+    expire_link_at: Platnosť odkazu do
+    you_have_no_filelinks: Nemáte žiadne FileLinky. Pridajte nový FileLink alebo ho vytvorte z dostupného súboru.
+    you_have_no_files_available: Nemáte žiadne predtým odoslané súbory. Hneď ako odošlete aspoň jeden súbor, môžete ho tu vybrať a vytvoriť z neho FileLink.
+    create_link: Vytvoriť odkaz
+    invalid_file: Neplatný súbor, FileLink nemožno vytvoriť
+    delete: Odstrániť
+    delete_link_warning: Naozaj chcete tento FileLink odstrániť?
+    could_not_delete_link: FileLink sa nepodarilo odstrániť. Odkaz sa nenašiel!
+    filelink_deleted: FileLink bol odstránený!
+    select_file: Vybrať súbor
+    send_download_receipts: Posielať potvrdenia o stiahnutí
+    disabled: FileLinky sú vypnuté, kontaktujte správcu
+    unauthorized: Nemáte oprávnenie používať FileLinky
+    require_authentication: Vyžadovať overenie
+    filelink_require_authentication: Tento FileLink vyžaduje overenie
+    filelink_url: URL FileLinku
+    expired: Platnosť vypršala
+    filelink_expired: Platnosť FileLinku vypršala
+    select_from_available_files: FileLink môžete vytvoriť aj z ktoréhokoľvek z týchto existujúcich súborov.
+    downloads: Stiahnutia
+    authentication_failed: Overenie zlyhalo
+    password_label_html: Heslo <small class="text-muted">(nepovinné)</small>
+    password_present_html: Pre tento FileLink je nastavené heslo.<br>Môžete ho odstrániť uložením prázdneho hesla.
+    password_not_present: Heslo nie je nastavené.
+    copy_to_clipboard: Kopírovať FileLink do schránky
+    add_file: Pridať súbor
+  ftpdrop:
+    create:
+      ftpdrop: FTPdrop
+  html_editor:
+    font:
+      bold: Tučné
+      italic: Kurzíva
+      underline: Podčiarknuté
+      clear: Odstrániť formátovanie
+      height: Výška riadka
+      name: Písmo
+      strikethrough: Prečiarknuté
+      subscript: Dolný index
+      superscript: Horný index
+      size: Veľkosť písma
+    image:
+      image: Obrázok
+      insert: Vložiť obrázok
+      resize_full: Plná veľkosť
+      resize_half: Polovičná veľkosť
+      resize_quarter: Štvrtinová veľkosť
+      float_left: Zarovnať doľava
+      float_right: Zarovnať doprava
+      float_none: Bez zarovnania
+      shape_rounded: "Tvar: zaoblený"
+      shape_circle: "Tvar: kruh"
+      shape_thumbnail: "Tvar: miniatúra"
+      shape_none: "Tvar: žiadny"
+      url: URL obrázka
+      remove: Odstrániť obrázok
+    link:
+      link: Odkaz
+      insert: Vložiť odkaz
+      unlink: Odstrániť odkaz
+      edit: Upraviť
+      text_to_display: Zobrazený text
+      url: Na akú URL má odkaz viesť?
+      open_in_new_window: Otvoriť v novom okne
+    table:
+      table: Tabuľka
+    hr:
+      insert: Vložiť vodorovnú čiaru
+    style:
+      style: Štýl
+      normal: Normálny
+      blockquote: Citát
+      pre: Kód
+      h1: Nadpis 1
+      h2: Nadpis 2
+      h3: Nadpis 3
+      h4: Nadpis 4
+      h5: Nadpis 5
+      h6: Nadpis 6
+    lists:
+      unordered: Zoznam s odrážkami
+      ordered: Číslovaný zoznam
+    options:
+      help: Pomocník
+      fullscreen: Celá obrazovka
+      codeview: Zobrazenie kódu
+    paragraph:
+      paragraph: Odsek
+      outdent: Zmenšiť odsadenie
+      indent: Zväčšiť odsadenie
+      left: Zarovnať doľava
+      center: Zarovnať na stred
+      right: Zarovnať doprava
+      justify: Zarovnať do bloku
+    color:
+      recent: Posledná farba
+      more: Ďalšie farby
+      background: Farba pozadia
+      foreground: Farba textu
+      transparent: Priehľadná
+      set_transparent: Nastaviť priehľadnosť
+      reset: Obnoviť
+      reset_to_default: Obnoviť predvolené
+    shortcut:
+      shortcuts: Klávesové skratky
+      close: Zavrieť
+      text_formatting: Formátovanie textu
+      action: Akcia
+      paragraph_formatting: Formátovanie odseku
+      document_style: Štýl dokumentu
+      extra_keys: Ďalšie klávesy
+    history:
+      undo: Späť
+      redo: Znova
+  invite:
+    invite_user: Pozvať používateľa
+    description: Môžete pozvať používateľov, aby s vami zdieľali súbory. Po zadaní ich údajov dostanú e-mail s pokynmi na dokončenie registrácie.
+    send_invite: Odoslať pozvánku
+    name_placeholder: Celé meno
+    invitation_sent: Pozvánka bola odoslaná
+    not_permitted_to_invite_users: Nemáte oprávnenie pozývať používateľov.
+    invalid_email: Neplatná e-mailová adresa
+  link:
+    show:
+      set_password: Nastaviť heslo
+      download: Stiahnuť
+      downloads_and_info: Všetky stiahnutia a ďalšie informácie
+    authenticate:
+      show:
+        title: Heslo FileLinku
+        authenticate: Overiť
+        require_authentication: Ak chcete otvoriť tento FileLink, musíte zadať požadované heslo.
+      create:
+        authentication_failed: Overenie zlyhalo.
+    downloads:
+      index:
+        back_to_filelink: Späť na FileLink
+    link_downloads:
+      latest_downloads: Posledné stiahnutia (%{count} z celkom %{total})
+  menu:
+    shares: Share
+    messages: Správy
+    send_files: Napísať
+    users: Používatelia
+    active_transfers: Aktívne prenosy
+    configuration: Konfigurácia
+    system: Systém
+    message_list: Zoznam správ
+    settings: Nastavenia
+    admin: Správa
+    account: Účet
+    inbox: Doručená pošta
+    sent_messages: Odoslané
+    downloads: Denník stiahnutí
+    filelink: FileLinky
+    secure_messages: Zabezpečené správy
+    support: Podpora
+  message:
+    message_sent: Správa bola odoslaná
+    not_found: Správa sa nenašla
+    message_not_found_header: Správa sa nenašla!
+    message_not_found_description: Požiadajte odosielateľa, aby vám správu poslal znova.
+    previous_recipients: Predchádzajúci príjemcovia
+    contacts: Kontakty
+    is_not_permitted: nie je povolené
+    not_permitted_to_delete_messages: Nemáte oprávnenie odstraňovať správy
+    is_not_in_any_of_the_allowed_domains: nepatrí do žiadnej z povolených domén
+    is_not_in_any_of_the_allowed_groups: nepatrí do žiadnej z povolených skupín
+    attach_1_file: Musíte priložiť aspoň jeden súbor
+    too_many_files: Priložených je príliš veľa súborov. K jednej správe môžete priložiť najviac %{count} súborov.
+    attached_files: Priložené súbory
+    expired: Platnosť správy vypršala
+    authorize:
+      show:
+        title: Prihláste sa na prístup k zabezpečenej správe
+        authenticate_description_html: Chystáte sa zobraziť zabezpečenú správu. Najprv sa musíte prihlásiť. Ak chcete pokračovať, zadajte svoju e-mailovú adresu alebo sa prihláste.<br>Ak v tomto systéme nemáte účet, zadajte svoju e-mailovú adresu a my vám pošleme zabezpečený odkaz na jej overenie.
+        unauthenticated_html: <h4>Neplatné používateľské meno alebo heslo</h4><p>Zadajte svoje používateľské meno a heslo. Heslo môžete obnoviť tlačidlom Obnovenie hesla nižšie.</p>
+        unauthorized_to_view_check_email_html: <h4>Neautorizovaná e-mailová adresa</h4><p>Skontrolujte, či vám bola zabezpečená správa [<span class="font-monospace fw-bold">%{message_id}</span>] odoslaná, a zadajte e-mailovú adresu presne tak, ako bola správa odoslaná.</p><p>Ak môže byť vaša e-mailová adresa napríklad jan.novak@firma.sk aj jnovak@firma.sk, systém nemôže vedieť, že ide o tú istú adresu. Ak bola zabezpečená správa odoslaná na jan.novak@firma.sk, musíte tu zadať práve túto adresu.</p><p>Ak si nie ste istý, kontaktujte odosielateľa zabezpečenej správy.</p>
+    errors:
+      not_authorized_to_view_message: "Nemáte oprávnenie zobraziť správu s ID: %{message_id}. Skontrolujte, či vám bola táto správa odoslaná."
+      private_message_requires_authentication: Súkromné správy vyžadujú overenie
+    attachments:
+      download_attachment_details_csv: Stiahnuť podrobnosti o prílohách (CSV)
+      attachment:
+        fileinfo: Informácie o súbore
+        file_size: Veľkosť súboru
+        content_type: Typ obsahu
+        checksum: Kontrolný súčet
+        virus_status: Stav antivírusu
+    compose:
+      options_permission:
+        authentication_required: Vyžaduje sa overenie
+        authentication_not_required: Overenie sa nevyžaduje
+        require_authentication_description: Musia sa príjemcovia na prístup k tejto správe overiť?
+        access_restriction_html: Obmedzenie prístupu<br><small class="text-muted">Kto má k tejto správe prístup?</small>
+        recipients_only_html: Len<br>príjemcovia
+        recipients_plus_locals_html: Príjemcovia<br>+ miestni používatelia
+        recipients_plus_domains_html: Príjemcovia<br>+ domény
+        anyone_secret_link_html: Ktokoľvek<br>(tajný odkaz)
+    unavailable:
+      header: Správa nie je dostupná
+      description: Platnosť tejto správy vypršala, bola odstránená, neexistuje alebo už nie je dostupná. Požiadajte odosielateľa, aby správu poslal znova.
+    downloads:
+      index:
+        download_log_title: Denník stiahnutí
+        message_id: ID správy
+        paginator_entry_name: Stiahnutia
+      download:
+        details: Podrobnosti
+      not_found:
+        title: Správa alebo stiahnutie sa nenašli
+        description_html: Správu alebo stiahnutie nemožno nájsť, alebo nemáte oprávnenie ich zobraziť
+    temporary_user:
+      create:
+        invalid_temporary_user: Neplatné heslo. Skontrolujte e-mail s dočasným heslom alebo si vyžiadajte nové dočasné heslo.
+        temporary_user_expired: Platnosť tohto dočasného hesla vypršala. Na vašu e-mailovú adresu bolo odoslané nové dočasné heslo. Skontrolujte doručenú poštu a použite nové dočasné heslo.
+        not_authorized_to_view_message: "Nemáte oprávnenie zobraziť správu s ID: %{message_id}. Skontrolujte, či vám bola táto správa odoslaná."
+      show:
+        title: Zadajte svoje dočasné heslo
+        description_html: "Chystáte sa zobraziť zabezpečenú správu. Ak ju chcete otvoriť, musíte zadať dočasné heslo.<br>Dočasné heslo je jedinečný náhodný reťazec, ktorý vás identifikuje. Dočasné heslo vám bolo zaslané v samostatnom e-maile (predmet: Dočasné heslo)."
+        what_is_this: Čo je to?
+        login: Prihlásiť sa
+        submit: Overiť dočasné heslo
+        submit_email: Odoslať
+        if_you_have_account: "(ak už máte účet)"
+        request_temporary_user_header: Vyžiadať nové dočasné heslo
+        request_temporary_user_description_html: Na prístup k tejto správe si môžete vyžiadať nové dočasné heslo. Zadajte nižšie svoju e-mailovú adresu a vyžiadajte si nové dočasné heslo k tejto zabezpečenej správe.
+        info_header: Informácie o dočasnom hesle
+        info_body_html: "<p>Dočasné heslo je jedinečná postupnosť číslic a písmen, napríklad:</p><pre><code>3ynp-7FKa-pZS9</code></pre><p><em>Toto dočasné heslo je len príklad, aby ste videli, ako vyzerá – nedá sa použiť.</em></p><p>V schránke nájdete <strong>dva e-maily</strong>: e-mail so zabezpečenou správou a e-mail s <strong>predmetom začínajúcim slovami: Dočasné heslo</strong>. Ten obsahuje vaše jedinečné dočasné heslo pre tento systém.</p><p>Ak ste e-mail s dočasným heslom nedostali, možno už v tomto systéme máte účet. V takom prípade kliknite na „Prihlásiť sa“.</p><p>Ak si myslíte, že ste mali dočasné heslo dostať, ale nestalo sa tak, kliknite na „Vyžiadať dočasné heslo“ a získajte nové.</p>"
+        email_address: E-mailová adresa
+        email_not_permitted: Táto e-mailová adresa nemá oprávnenie zobraziť túto zabezpečenú správu.
+        email_not_permitted_description_html: <p>Skontrolujte prijatý e-mail so zabezpečenou správou a zadajte e-mailovú adresu presne tak, ako bola správa odoslaná.</p><p>Ak môže byť vaša e-mailová adresa napríklad jan.novak@firma.sk aj jnovak@firma.sk, systém nemôže vedieť, že ide o tú istú adresu. Ak bola zabezpečená správa odoslaná na jan.novak@firma.sk, musíte tu zadať práve túto adresu.</p><p>Ak si nie ste istý, kontaktujte odosielateľa zabezpečenej správy.</p>
+        email_can_login: V tomto systéme už máte účet
+        email_can_login_description_html: <p>Do tohto systému sa môžete prihlásiť touto e-mailovou adresou a svojím heslom.</p><p>Kliknutím na tlačidlo Prihlásiť sa nižšie sa prihlásite svojím existujúcim účtom.</p>
+        temporary_user_delivered_header: Dočasné heslo bolo odoslané
+        temporary_user_delivered_description_html: <p>Na vašu e-mailovú adresu bolo odoslané dočasné heslo. Skontrolujte doručenú poštu, zatvorte toto okno a zadajte dočasné heslo.</p>
+    reply:
+      re: "Re:"
+      wrote: napísal(-a)
+      show:
+        title: Odpovedať na zabezpečenú správu
+        from: Od
+        reply: Odpovedať
+        reply_all: Odpovedať všetkým
+      options:
+        options_description: Upozorňujeme, že všetky možnosti sa preberajú z pôvodnej správy.
+    show:
+      back: Späť
+      message_header: Hlavička správy
+      reply: Odpovedať
+  messages:
+    sent:
+      skipped_file_not_found: Preskočené - súbor sa nenašiel
+      show:
+        sent_title: Odoslané
+        sent_description: Správy, ktoré ste odoslali
+        paginator_entry_name: správy
+    attachments:
+      download_cmd:
+        unauthorized:
+          header: Neautorizované
+          body: Nemáte oprávnenie stiahnuť tento súbor. Požiadajte odosielateľa, aby vám súbor poslal znova.
+          back: Späť
+        exceeded:
+          header: Prekročený limit stiahnutí
+          body: Limit stiahnutí tohto súboru bol prekročený. Požiadajte odosielateľa, aby vám súbor poslal znova.
+          back: Späť
+    download_zip:
+      unauthorized:
+        header: Neautorizované
+        body: Nemáte oprávnenie stiahnuť tento archív. Požiadajte odosielateľa, aby vám súbor poslal znova.
+        back: Späť
+      exceeded:
+        header: Prekročený limit stiahnutí
+        body: Limit stiahnutí jedného alebo viacerých súborov v tomto archíve bol prekročený. Požiadajte odosielateľa, aby vám súbor poslal znova.
+        back: Späť
+    message:
+      reply: Odpovedať
+      reply_all: Odpovedať všetkým
+  models:
+    user:
+      no_need_to_create_local_user: Nie je potrebné vytvárať miestneho používateľa
+      license_exceeded: Prekročený limit licencie
+  notifier:
+    activate_user_subject: "[%{hostname}] Aktivovať účet"
+    user_activation: Aktivácia používateľa
+    please_visit_the_following_url_to_activate: Účet aktivujete kliknutím na nasledujúci odkaz
+    the_following_files_are_attached: K tejto správe sú priložené nasledujúce súbory
+    please_visit_the_following_url: Prílohy stiahnete kliknutím na tento odkaz
+    attachments_are_available: Prílohy sú dostupné do
+    message_id: "ID správy: %{id}"
+    email_password_reset_subject: Obnovenie hesla
+    download_receipt_subject: "Potvrdenie o stiahnutí [ID: %{message_id}]"
+    a_file_that_you_sent: Súbor, ktorý ste odoslali, bol stiahnutý. Uschovajte si tento e-mail ako doklad o stiahnutí.
+    recipient: Príjemca
+    filename: Názov súboru
+    time_of_download: Čas stiahnutia
+    downloaded_from: Stiahnuté z
+    download_receipt: Potvrdenie o stiahnutí
+    user_created:
+      account_created: Účet bol vytvorený
+      subject: "[%{hostname}] Účet bol vytvorený"
+      message: "Čaká na vás zabezpečená príloha. Na jej stiahnutie sa musíte overiť. Zaregistrujte sa kliknutím na nasledujúci odkaz:"
+  outlook:
+    messages:
+      new:
+        attachments_header: Prílohy
+        attachments_hint: Súbory môžete priložiť presunutím do oblasti nižšie alebo kliknutím na tlačidlo Priložiť súbory.
+        add_to_message: Pridať do správy
+      attachments:
+        attach_files: Priložiť súbory
+        drop_files_here: Presuňte súbory sem...
+      options:
+        recipients_can_reply: Príjemcovia môžu odpovedať
+        send_copy_to_myself: Poslať kópiu mne
+        private_message: Súkromná správa
+        private_message_required_auth_error: Pri odosielaní súkromnej správy musíte použiť režim „Vyžaduje sa overenie“.
+      options_authorization:
+        authentication_authorization_title_html: Overenie &amp; autorizácia
+        authentication_select_title: Zvoliť overenie
+        authentication_required: Vyžaduje sa overenie
+        authentication_not_required: Overenie sa nevyžaduje
+        authorization_select_title: Zvoliť autorizáciu
+        recipients_only: Len príjemcovia
+        recipients_locals: Príjemcovia + miestni používatelia
+        recipients_domains: Príjemcovia + domény
+        anyone: Ktokoľvek (tajný odkaz)
+      options_expiration:
+        message_expires: Platnosť správy do
+        message_expires_after: Platnosť správy
+  pagination:
+    first: "&laquo; Prvá"
+    last: Posledná &raquo;
+    previous: "&lsaquo; Predchádzajúca"
+    next: Ďalšia &rsaquo;
+    truncate: "&hellip;"
+  requests:
+    title: Žiadosť o súbory
+    file_request: Žiadosť o súbory
+    files_sent: Súbory boli odoslané, ďakujeme!
+    request_file: Vyžiadať súbor
+    file_requests: Žiadosti o súbory
+    description: Žiadosťou o súbory môžete niekoho požiadať, aby vám poslal súbory. Po zadaní údajov dostane daná osoba e-mail s jedinečným odkazom, cez ktorý vám môže požadované súbory odoslať.
+    file_request_not_found: Žiadosť o súbory sa nenašla
+    file_request_expired: Platnosť žiadosti o súbory vypršala
+    file_request_already_used: Žiadosť o súbory už bola použitá
+    file_request_sent: Žiadosť o súbory bola odoslaná
+    not_permited: Nemáte oprávnenie používať funkciu žiadosti o súbory
+    multiuse: Viacnásobné použitie - tento odkaz žiadosti o súbory sa dá použiť opakovane
+    invalid_recipient: Neplatný príjemca, táto žiadosť o súbory bola odoslaná niekomu inému
+    invalid_user: Toto nie je vaša žiadosť o súbory
+    index:
+      title: Žiadosti o súbory
+      new_file_request: Nová žiadosť o súbory
+      multiuse: Viacnásobné použitie
+      responded_to: Zodpovedané
+      hide_expired: Skryť neplatné a použité
+      show_expired: Zobraziť neplatné a použité
+    request:
+      resend: Odoslať znova
+      are_you_sure_you_want_to_delete: Naozaj chcete túto žiadosť o súbory odstrániť?
+    popup:
+      from: Od
+      to: Komu
+      subject: Predmet
+      message: Správa
+    resend:
+      request_resent: Žiadosť o súbory bola odoslaná znova
+    new:
+      request_expires: Platnosť žiadosti do
+  send:
+    send: Odoslať
+    sent: Odoslané
+    recipients: Komu
+    send_as: Odoslať ako
+    you_can_only_send_files_to_yourself: Súbory môžete posielať len sami sebe
+    subject: Predmet
+    subject_placeholder: Predmet
+    attachments: Prílohy
+    max_file_size: "Maximálna veľkosť príloh: %{filesize} MB"
+    upload_queue: Front nahrávania
+    remove: Odobrať
+    cancel_all: Zrušiť všetko
+    cancel_all_uploads: Zrušiť všetky nahrávania
+    message: Správa
+    message_placeholder: Správa
+    done_editing_please_send: Úpravy som dokončil(-a), odošlite súbory po dokončení všetkých nahrávaní
+    files_sent_successfully: Súbory boli úspešne odoslané
+    you_need_at_least_one_recipient: Je potrebný aspoň jeden príjemca
+    you_need_at_least_one_attachment: Je potrebná aspoň jedna príloha
+    options: Možnosti
+    cc: Kópia
+    bcc: Skrytá kópia
+    bcc_message_description: Príjemcovia skrytej kópie sa ostatným príjemcom nezobrazia
+    add_cc: pridať kópiu
+    add_bcc: pridať skrytú kópiu
+    bcc_myself: Poslať kópiu mne
+    require_login: Vyžadovať prihlásenie na stiahnutie súborov
+    only_specified_recipients_can_download: Prílohy si môžu stiahnuť len uvedení príjemcovia
+    anyone_can_download: Prílohy si môže stiahnuť ktokoľvek
+    expires_in: Prílohy sa dajú stiahnuť počas
+    expires_at: Platnosť príloh do
+    send_options: Možnosti odoslania
+    to: Komu
+    from: Od
+    filename: Názov súboru
+    filesize: Veľkosť súboru
+    downloaded_at: Stiahnuté
+    message_sent: Správa bola odoslaná
+    message_expires: Platnosť správy do
+    message_expires_after: Platnosť správy
+    message_expires_after_description: Výpočet prebieha pre každý súbor zvlášť. Ak odošlete 2 súbory, ktorých platnosť vyprší po 1 stiahnutí, môže si každý príjemca stiahnuť každý súbor raz.
+    downloads_per_recipient: Stiahnutia na príjemcu
+    total_downloads: Stiahnutia celkom
+    file_not_downloaded: Žiadne prílohy neboli stiahnuté
+    at_least_one_invalid_extension: Aspoň jedna príloha má neplatnú príponu
+    invalid_filetype: Neplatná prípona
+    blocked_extension: "Neplatná prípona. Nemôžete nahrať súbory s nasledujúcimi príponami: %{extensions}"
+    permitted_extensions: "Povolené prípony sú: %{filetypes}"
+    already_selected: Tento súbor už bol vybraný
+    maximum_filesize_exceeded: Prekročená maximálna veľkosť súboru
+    contains_virus: "%{filename} obsahuje VÍRUS: %{virus}"
+    limited_by_browser: Obmedzené prehliadačom
+    limited_by_disk: Obmedzené miestom na disku
+    limited_by_system_quota: Obmedzené systémovou kvótou
+    limited_by_group_quota: Obmedzené kvótou skupiny
+    limited_by_quota: Obmedzené kvótou
+    limited_per_message: Limit na správu
+    system_quota_exceeded: Prekročená systémová kvóta
+    group_quota_exceeded: Prekročená kvóta skupiny
+    quota_exceeded: Prekročená kvóta
+    no_available_quota: Prekročená kvóta, ak chcete pokračovať, odstráňte niektoré súbory
+    not_authorized_to_send: Nemáte oprávnenie odosielať na %{email}
+    public_url: Verejná URL
+    message_url: URL správy
+    authorization: Autorizácia
+    insufficient_disk_space: Nedostatok miesta na disku
+    active_transfers: Aktívne prenosy
+    view_log: Zobraziť denník
+    previously_sent_attachments: Predtým odoslané prílohy
+    has_not_downloaded: "%{recipient} zatiaľ nestiahol(-la) žiadny zo súborov"
+    authentication: Overenie
+    required: Vyžaduje sa
+    disabled: Vypnuté
+    require_authentication_tooltip_html: <li>Príjemca sa musí na stiahnutie súboru prihlásiť používateľským menom a heslom.</li> <li>Po stiahnutí súboru dostanete potvrdenie.</li>
+    dont_require_authentication_tooltip_html: <li>Príjemca sa na stiahnutie súboru nemusí prihlasovať.</li> <li>Po stiahnutí súboru dostanete potvrdenie, ale nie informáciu o tom, kto ho stiahol (to nevieme).</li> <li>Potvrdenie dostanete len vtedy, keď súbor stiahne prvý príjemca.</li>
+    authenticate_link_description: Pred otvorením tohto FileLinku sa musíte prihlásiť.
+    unauthorized: Nemáte oprávnenie zobraziť túto správu.
+    unauthenticated: Nesprávne heslo
+    incorrect_login_or_demo: Nesprávne heslo alebo bol dosiahnutý limit licencie
+    email_authorization_message: Ďakujeme. Aby sme overili, že ide o vašu e-mailovú adresu, poslali sme vám e-mail s overovacím kódom. Zadajte overovací kód nižšie alebo kliknite na odkaz v e-maile a prejdite k správe.
+    email_authorization_link: Ďakujeme. Aby sme overili, že ide o vašu e-mailovú adresu, poslali sme vám e-mail s overovacím kódom. Zadajte nižšie overovací kód z e-mailu alebo kliknite na odkaz v e-maile a prejdite k FileLinku.
+    email_authorization_message_create_account: Ďakujeme. Keďže v tomto systéme nemáte účet, poslali sme vám e-mail s overovacím kódom, aby sme overili, že ide o vašu e-mailovú adresu. Zadajte overovací kód nižšie alebo kliknite na odkaz v e-maile a overte svoju adresu. Potom budete vyzvaný na vytvorenie účtu a presmerovaný k správe.
+    email_authorization_link_create_account: Ďakujeme. Keďže v tomto systéme nemáte účet, poslali sme vám e-mail s overovacím kódom, aby sme overili, že ide o vašu e-mailovú adresu. Zadajte nižšie overovací kód z e-mailu alebo kliknite na odkaz v e-maile a overte svoju adresu. Potom budete vyzvaný na vytvorenie účtu a presmerovaný k FileLinku.
+    authorize: Autorizovať
+    authenticate: Prihlásiť sa
+    sending: Odosiela sa...
+    abort_transfer: Prerušiť prenos
+    files_to_big: Súbor(y) sú príliš veľké
+    only_specified_recipients: Prístup majú len uvedení príjemcovia
+    only_specified_recipients_and_local_users: Prístup majú len uvedení príjemcovia a miestni používatelia
+    only_specified_recipients_and_domains: Prístup majú len uvedení príjemcovia a používatelia z ich domény
+    anyone_after_authentication: Prístup má ktokoľvek (s náhodným odkazom)
+    no_recipient_validation: Bez overovania príjemcov
+    anyone_can_access: Prístup má ktokoľvek
+    anyone: Ktokoľvek
+    no_authentication: Bez overenia
+    can_download: môžu sťahovať
+    not_yet_scanned: prebieha antivírusová kontrola, skúste to znova o chvíľu. Vo fronte %{queue}
+    was_infected: "bol infikovaný vírusom %{virus} a bol odstránený"
+    deleted_or_expired: Odstránené alebo neplatné
+    im_done_editing: Odoslať automaticky po dokončení aktuálnych nahrávaní
+    download_all: Stiahnuť všetko
+    zipped_archive: Archív ZIP
+    message_id: ID správy
+    overall_progress: Celkový priebeh
+    abort: Prerušiť
+    limitations: Obmedzenia
+    max_size: Maximálna veľkosť
+    add_files: Pridať súbory...
+    add_folder: Pridať priečinok...
+    no_attachment_added: Nebola pridaná žiadna príloha
+    you_need_to_add_at_least_one_file: Musíte pridať aspoň jeden súbor.
+    private_message_or_attached_files: Musíte zapnúť Súkromnú správu alebo priložiť aspoň jeden súbor.
+    no_runtime_found: Nenašlo sa prostredie na spustenie, súbory nemožno odoslať
+    runtime_check_title: Nenašlo sa prostredie na spustenie
+    selected: vybrané
+    file_size_error: Chyba veľkosti súboru
+    remaining: zostáva
+    attached_files: Priložené súbory
+    show_message: Zobraziť správu
+    can_be_max: môže byť najviac %{days} dní v budúcnosti
+    not_ready: Zatiaľ nie je pripravené na stiahnutie
+    download_info: Informácie o stiahnutí
+    browser: Prehliadač
+    platform: Platforma
+    operating_system: Operačný systém
+    location: Umiestnenie
+    download_details: Podrobnosti o stiahnutí
+    download_information_not_found: Informácie o stiahnutí sa nenašli.
+    add: Pridať
+    select_existing_files: Vybrať existujúce súbory
+    add_existing_files: Pridať existujúce súbory
+    add_existing_description: Tieto súbory už boli odoslané a môžete ich odoslať znova.
+    zip_disabled: ZIP vypnutý
+    zip_disabled_description_exceeded: Pri aspoň jednej prílohe bol prekročený maximálny počet stiahnutí.
+    spinner_info_html: <strong>Vaša správa je pripravená na odoslanie</strong>. Niektoré súbory sa ešte spracúvajú na pozadí, ale nemusíte čakať. <strong>Keď budete pripravený, kliknite na Odoslať!</strong>
+    sent_to_you: Odoslané vám
+    excluding_admins: Bez správcov
+    downloads: Stiahnutia
+    download_log: Denník stiahnutí
+    delete_attachments: Odstrániť prílohy
+    delete_message: Odstrániť správu
+    delete_attachments_warning: Naozaj chcete prílohy odstrániť?
+    delete_message_warning: Odstránením správy sa odstránia aj priložené súbory a denník stiahnutí. Naozaj chcete správu odstrániť?
+    invalid_message: Neplatná správa
+    message_deleted: Správa bola odstránená
+    attachments_deleted: Prílohy boli odstránené
+    checksum: Kontrolný súčet (SHA256)
+    not_permitted_to_send_messages: Nemáte oprávnenie odosielať správy.
+    invalid_group_belonging: Odosielanie nie je povolené (neplatná skupina). Ste vedený(-á) ako externý používateľ, ale vaša e-mailová adresa patrí do domény %{domain}, ktorá je zároveň uvedená medzi obmedzenými doménami príjemcov. To nie je externým používateľom povolené. Požiadajte správcu systému, aby vás presunul do inej skupiny.
+    expires_after_exceeded: Prekročený počet stiahnutí
+    expires_after_exceeded_for_zip: Prekročený počet stiahnutí pri aspoň jednom súbore v archíve ZIP
+    permission_description_title: Obmedzenia prístupu
+    permission_description_only_specified_html: <ul> <li>K správe majú prístup a súbory si môžu stiahnuť len uvedení príjemcovia.</li> <li>Preposielanie e-mailu alebo URL komukoľvek nie je povolené.</li> <li>Príjemcovia sa musia na prístup k správe a stiahnutie súborov prihlásiť.</li> <li>Pri každom stiahnutí každého súboru sa odošle potvrdenie o stiahnutí s podrobnými informáciami.</li> </ul>
+    permission_description_only_specified_and_local_html: <ul> <li>Súbory si môžu stiahnuť len uvedení príjemcovia a miestni používatelia.</li> <li>E-mail alebo URL sa dajú preposlať len miestnym používateľom.</li> <li>Príjemcovia sa musia na stiahnutie súborov prihlásiť.</li> <li>Pri každom stiahnutí každého súboru sa odošle potvrdenie o stiahnutí s podrobnými informáciami.</li> </ul>
+    permission_description_only_specified_and_domains_html: <ul> <li>Prístup majú len uvedení príjemcovia a používatelia z tej istej e-mailovej domény.</li> <li>Ak odošlete na riaditel@partner.sk, k správe má prístup aj sekretariat@partner.sk, ale nie zvedavec@konkurencia.sk.</li> <li>Príjemcovia sa musia na stiahnutie súborov prihlásiť.</li> <li>Pri každom stiahnutí každého súboru sa odošle potvrdenie o stiahnutí s podrobnými informáciami.</li> </ul>
+    permission_description_anyone_after_authentication_html: <ul> <li>Súbory si môže stiahnuť ktokoľvek, kto má tajnú náhodnú URL.</li> <li>E-mail alebo URL sa dajú preposlať komukoľvek.</li> <li>Príjemcovia sa musia na stiahnutie súborov prihlásiť.</li> <li>Pri každom stiahnutí každého súboru sa odošle potvrdenie o stiahnutí s podrobnými informáciami.</li> </ul>
+    permission_description_anyone_html: <ul> <li>Súbory si môže stiahnuť ktokoľvek, kto má tajnú náhodnú URL.</li> <li>E-mail alebo URL sa dajú preposlať komukoľvek.</li> <li>Na stiahnutie súborov <strong>nie je</strong> potrebné prihlásenie.</li> <li>Pri prvom stiahnutí kýmkoľvek sa odošle <strong>základné</strong> potvrdenie o stiahnutí (na to, aby sme vedeli, kto čo stiahol, je potrebné overenie).</li> </ul>
+    your_message_has_been_sent: Vaša správa bola odoslaná
+    you_can_send_to_anyone: "(Tento odkaz môžete poslať komukoľvek)"
+    send_more_files: Odoslať ďalšie súbory
+    download_speed: Rýchlosť sťahovania
+    download_time: Čas sťahovania
+    at_least_one_invalid_email: Aspoň jedna neplatná e-mailová adresa
+    reply: Príjemca môže odpovedať
+    private_message: Súkromná správa
+    private_message_description_html: Pri súkromnej správe sa text vašej správy neposiela príjemcovi e-mailom – zobrazí sa až potom, čo príjemca klikne na odkaz v e-maile a overí sa. <ul> <li>Súkromnú správu môžete odoslať aj bez príloh.</li> <li>Hneď ako si niekto vašu správu zobrazí, dostanete potvrdenie o prístupe.</li> <li>Súkromnú správu nemožno odoslať s oprávnením na stiahnutie „Ktokoľvek môže stiahnuť“.</li> </ul>
+    private_message_delivered_description: Správa bola odoslaná ako súkromná správa. Text správy nie je v e-maile obsiahnutý a hneď ako si správu zobrazí každý príjemca, dostanete potvrdenie o prístupe.
+    access_info: Informácie o prístupe
+    access_details: Podrobnosti o prístupe
+    validation_code: Overovací kód
+    expired_token_inline: Platnosť overenia e-mailom vypršala, skúste to znova.
+    invalid_token: Neplatný alebo neplatný kód. Kliknite na odkaz v pôvodnom e-maile a overte znova svoju e-mailovú adresu.
+    download_zip: Stiahnuť ZIP
+    zip_ready_for_download: ZIP je pripravený na stiahnutie
+    processing_zip: Spracúva sa archív ZIP
+    drop_file_here: Presuňte súbor sem
+    drop_files_here: Presuňte súbory sem
+    drop_files_and_folders_here: Presuňte súbory a priečinky sem
+    select_pool_files: Vybrať súbory z úložiska
+    add_pool_files: Pridať súbory z úložiska
+    invalid_validation_token: Toto nie je platný overovací kód.
+    not_the_validation_token: Toto je ID správy, nie overovací kód. Zadajte overovací kód.
+    no_messages_in_inbox: V doručenej pošte nie sú žiadne správy.
+    filename_already_selected: K tejto správe už bol pridaný súbor s rovnakým názvom
+    filesize_exceeded: Prekročená maximálna veľkosť správy
+    infected_with: Infikované vírusom
+    not_permitted_to_download_content_blocked: "Stiahnutie tohto súboru nie je povolené. Antivírusová kontrola zistila: %{virus}"
+    invalid_email_address: Neplatná e-mailová adresa
+    cant_create_folder: Nemožno vytvoriť priečinok
+    cant_check_folder: Nemožno skontrolovať priečinok
+    cant_restore_folder: Nemožno obnoviť priečinok
+    cant_check_chunks: Nemožno skontrolovať časti
+    zip_not_include_all_files: Nie všetky súbory sa dajú stiahnuť – archív ZIP bude obsahovať len stiahnuteľné súbory.
+    paste_tip: Tip! Vložte pomocou Ctrl+Shift+V a odstránite formátovanie.
+  session:
+    api:
+      authentication_error: Chyba overenia, skúste to znova.
+      not_local_user: Neplatná e-mailová adresa. Túto funkciu môžu používať len miestni používatelia.
+      show:
+        login: Prihlásiť sa
+        login_label: E-mailová adresa
+        password: Heslo
+        sso_login: Prihlásenie SSO
+        authentication_title: Prihlásiť sa
+        authentication_description: Ak chcete pokračovať, zadajte svoju e-mailovú adresu alebo sa prihláste.
+      authenticated:
+        authentication_successful: Overenie bolo úspešné
+    authenticate:
+      login: Ak chcete pokračovať, prihláste sa
+      description_html: Na otvorenie tejto stránky sa musíte prihlásiť. Ak chcete pokračovať, zadajte svoju e-mailovú adresu alebo sa prihláste.<br>Ak v tomto systéme nemáte účet, zadajte svoju e-mailovú adresu a my vám e-mailom pošleme dočasné heslo.
+      unauthorized: Nemáte oprávnenie zobraziť túto správu. Zadajte svoju e-mailovú adresu presne tak, ako vám bola správa odoslaná, alebo kontaktujte odosielateľa správy.
+    email:
+      validate_email: Overte svoju e-mailovú adresu
+      validate_email_description_html: "Na vašu e-mailovú adresu bol odoslaný bezpečnostný kód: <strong>%{email}</strong>. Kliknite na odkaz alebo zadajte bezpečnostný kód sem, aby ste overili svoju e-mailovú adresu a mohli pokračovať."
+      session_expired: Relácia vypršala, ak chcete pokračovať, zadajte znova svoju e-mailovú adresu
+      token_expired: Platnosť overovacieho odkazu v e-maile vypršala, skúste to znova.
+      already_authenticated: V tomto prehliadači ste už prihlásený.
+      resend_validation_email: Znova odoslať overovací e-mail
+      verify: Overiť
+      validate_email_sent: "Nový overovací e-mail bol odoslaný o %{time}. Kliknite na odkaz v e-maile alebo zadajte bezpečnostný kód nižšie a overte svoju e-mailovú adresu."
+      invalid_temporary_user: Neplatný bezpečnostný kód. Skontrolujte e-mail – do doručenej pošty vám bol odoslaný nový bezpečnostný kód.
+      create_account: Vytvoriť účet
+      create_account_description: Vytvorte si v tomto systéme účet, aby ste sa mohli prihlasovať e-mailovou adresou a heslom namiesto bezpečnostného kódu.
+      invalid_email: Neplatná e-mailová adresa
+    login_limit_exceeded:
+      delivered:
+        page_header: Prekročený limit prihlásení
+        description: Pokúsili ste sa prihlásiť príliš veľakrát. Ak chcete pokračovať, musíte obnoviť heslo.
+        email: Bol odoslaný e-mail s odkazom na obnovenie hesla.
+      waiting:
+        page_header: Prekročený limit prihlásení
+        description: "Pokúsili ste sa prihlásiť príliš veľakrát. Upozornenie: musíte sa prihlásiť svojím sieťovým heslom. Ak potrebujete toto heslo obnoviť a neviete ako, kontaktujte správcu siete. Po uplynutí čakacej doby môžete stránku znova načítať a limit tým obnoviť."
+        expiration_time: Čakacia doba
+        reload: Znova načítať
+      show:
+        page_header: Prekročený limit prihlásení
+        description: Pokúsili ste sa prihlásiť príliš veľakrát. Môžete obnoviť limit prihlásení a prihlásiť sa znova. Bol vám odoslaný e-mail na obnovenie limitu prihlásení.
+      reset:
+        login_limit_reset: Limit prihlásení bol obnovený
+    shared:
+      authentication_successful: Overenie bolo úspešné
+    outlook:
+      edit:
+        authentication_title: Overiť
+        authentication_description: Ak chcete pokračovať, prihláste sa
+        login: Prihlásiť sa
+        login_label: E-mailová adresa
+        password: Heslo
+        sso_login: Prihlásenie SSO
+      show:
+        authentication_title: Overiť
+        authentication_description: Ak chcete priložiť zabezpečené súbory, prihláste sa.
+        authenticate: Overiť
+    saml:
+      not_configured:
+        title: SAML nie je nakonfigurovaný
+        description: SAML nie je v tomto systéme nakonfigurovaný. Ak si myslíte, že ide o chybu, kontaktujte podporu, aby vec mohla prešetriť.
+        support_button: Kontaktovať podporu
+      api:
+        local:
+          title: Overenie SAML
+          description: Overenie SAML sa spustilo vo vašom predvolenom prehliadači – pokračujte v prihlásení tam. Ak okno nemôžete nájsť alebo z nejakého dôvodu nefunguje, môžete pokračovať kliknutím na tlačidlo nižšie.
+          button_label: Prihlásenie SSO
+      response:
+        api_error:
+          authentication_error: Overenie zlyhalo
+          saml_authentication_error: Overenie SSO zlyhalo
+          saml_authentication_error_description: Overenie SSO zlyhalo. Ak problém pretrváva, kontaktujte správcu.
+        api_disabled:
+          api_disabled: Neautorizovaná skupina používateľov
+          api_disabled_description: Váš účet nemá prístup k tejto funkcii (API vypnuté). Kontaktujte správcu a požiadajte ho o presunutie účtu do inej skupiny.
+        api_response:
+          authentication_successful: Overenie bolo úspešné
+        create:
+          could_not_create_account: Účet sa nepodarilo vytvoriť. Pre viac informácií kontaktujte správcu.
+        show:
+          could_not_create_account: Účet sa nepodarilo vytvoriť. Pre viac informácií kontaktujte správcu.
+    temporary_user:
+      validate_email: Overte svoju e-mailovú adresu
+      validate_email_description_html: "Na vašu e-mailovú adresu bolo odoslané dočasné heslo: <strong>%{email}</strong>. Kliknite na odkaz alebo zadajte dočasné heslo sem, aby ste overili svoju e-mailovú adresu a mohli pokračovať."
+      session_expired: Relácia vypršala, ak chcete pokračovať, zadajte znova svoju e-mailovú adresu
+      token_expired: Platnosť overovacieho odkazu v e-maile vypršala, skúste to znova.
+      already_authenticated: V tomto prehliadači ste už prihlásený.
+      resend_validation_email: Znova odoslať overovací e-mail
+      verify: Overiť
+      validate_email_sent: "Nový overovací e-mail bol odoslaný o %{time}. Kliknite na odkaz v e-maile alebo zadajte heslo nižšie a overte svoju e-mailovú adresu."
+      invalid_temporary_user: Neplatné heslo. Skontrolujte e-mail – dočasné heslo vám bolo znova odoslané do doručenej pošty.
+      temporary_user_expired: Platnosť dočasného hesla vypršala. Skontrolujte e-mail – do doručenej pošty vám bolo odoslané nové dočasné heslo.
+      create_account: Vytvoriť účet
+      create_account_description: Vytvorte si v tomto systéme trvalý účet, aby ste sa mohli prihlasovať e-mailovou adresou a heslom namiesto dočasného používateľského účtu.
+  shared:
+    show: Zobraziť
+    reify: Obnoviť
+    download: Stiahnuť
+    restore: Obnoviť
+    delete: Odstrániť
+    trash: Kôš
+    cancel: Zrušiť
+    close: Zavrieť
+    current: Aktuálne
+    bootstrap_confirm_dialog:
+      confirm_action: Potvrdiť akciu
+    shares:
+      bootstrap_confirm_dialog:
+        confirm_action: Potvrdiť akciu
+      navigation:
+        files: Súbory
+        activity_log: Denník aktivít
+      wrap_content:
+        activity_log: Denník aktivít
+    error_messages:
+      prohibited_this_from_being_saved: zabránilo uloženiu %{target}
+  share:
+    share: Share
+    shares: Share
+    no_shares: Nie sú dostupné žiadne Share
+    name: Názov
+    folder_name: Názov priečinka
+    share_not_found: Share sa nenašiel
+    folder_not_found: Priečinok sa nenašiel
+    file_not_found: Súbor sa nenašiel
+    no_read_access: Nemáte oprávnenie na prístup k tomuto Share
+    no_write_access: Nemáte oprávnenie na zápis do tohto Share
+    not_authorized_to_view_logs: Nemáte oprávnenie zobraziť denníky
+    require_authentication: Tento Share vyžaduje overenie. Ak chcete pokračovať, zadajte heslo.
+    authenticate: Overiť
+    authentication_failed: Overenie zlyhalo
+  shares:
+    folders:
+      are_you_sure_you_want_to_delete: Naozaj chcete tento priečinok odstrániť?
+      are_you_sure_you_want_to_trash: Naozaj chcete tento priečinok natrvalo odstrániť?
+      folder_name_already_taken: Tento názov priečinka sa už používa!
+      folder_not_found: Priečinok sa nenašiel
+      could_not_create_folder: "Priečinok sa nepodarilo vytvoriť: %{error}"
+      zip_no_files: Nie sú žiadne súbory na pridanie do archívu ZIP
+      windows_path_warning:
+        title: Obmedzenie dĺžky cesty vo Windows
+        description_html: <strong>Používatelia Windows:</strong> Windows obmedzuje cesty k súborom na 259 znakov. Pri nahrávaní priečinkov z umiestnení s dlhými cestami môžu byť súbory hlboko v štruktúre priečinkov bez upozornenia vynechané, čo môže viesť k neúplnému nahratiu alebo duplicitným priečinkom.
+        workarounds_title: Odporúčané riešenia
+        workarounds_html: "<li><strong>Použite virtuálnu jednotku:</strong> otvorte príkazový riadok a spustite: <code>subst X: \"C:\\vasa\\dlha\\cesta\\k\\priecinku\"</code><br>Potom nahrávajte z virtuálnej jednotky <code>X:\\</code></li><li><strong>Prejdite bližšie k súborom:</strong> pred výberom priečinka na nahratie prejdite do podpriečinka bližšie k súborom</li><li><strong>Použite kratšiu cestu:</strong> pred nahratím skopírujte súbory do kratšieho umiestnenia, napríklad <code>C:\\uploads\\</code></li><li><strong>Najprv priečinok zbaľte:</strong> skomprimujte priečinok do súboru ZIP a nahrajte namiesto neho súbor ZIP</li>"
+        advanced_title: "Pokročilé: zapnutie dlhých ciest vo Windows 10/11"
+        advanced_description_html: Od Windows 10 verzie 1607 môžete zapnúť podporu dlhších ciest. <strong>Poznámka:</strong> vyžaduje to oprávnenia správcu a nemusí to fungovať vo všetkých prehliadačoch. Vyššie uvedené riešenia sú spoľahlivejšie.
+        registry_steps_title: Postup zapnutia dlhých ciest
+        registry_steps_html: "<li>Stlačte <kbd>Win + R</kbd>, napíšte <code>regedit</code> a stlačte Enter</li><li>Prejdite na: <code>HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\FileSystem</code></li><li>Nájdite alebo vytvorte hodnotu DWORD s názvom <code>LongPathsEnabled</code> a nastavte ju na <code>1</code></li><li>Reštartujte počítač, aby sa zmena prejavila</li><li>Vyskúšajte nahrávanie znova (podpora sa môže v jednotlivých prehliadačoch líšiť)</li>"
+        browser_disclaimer_html: "<strong>Dôležité:</strong> aj so zapnutým týmto nastavením registra sa podpora dlhých ciest v jednotlivých prehliadačoch líši. Chrome, Edge a Firefox môžu limit 259 znakov stále uplatňovať. Vyššie uvedené riešenia sú spoľahlivejšie."
+      folder:
+        rename_folder: Premenovať priečinok
+        move_folder_description: Presunúť priečinok %{foldername} do priečinka vybraného nižšie
+        move_folder: Presunúť priečinok
+      action_bar:
+        download_as_zip: Stiahnuť ako ZIP
+        download_as_zip_with_deleted: Stiahnuť ako ZIP vrátane odstránených súborov
+        toggle_deleted_view: Zobraziť/skryť odstránené súbory
+        filter: Filter
+        upload_file: Nahrať súbory
+        upload_folder: Nahrať priečinok
+        create_folder: Vytvoriť priečinok
+        windows_path_warning: Upozornenie na dĺžku cesty
+        upload_folder_unsupported: Nahrávanie priečinkov nie je podporované
+        upload_folder_unsupported_description: Váš prehliadač bohužiaľ nahrávanie priečinkov nepodporuje. Na nahratie štruktúry priečinkov použite počítačovú verziu Chrome alebo Safari.
+        showing_deleted: Zobrazené odstránené (%{number_of})
+        hiding_deleted: Skryté odstránené (%{number_of})
+        actions: Akcie
+        move_selected: Presunúť vybrané
+        trash_selected: Presunúť vybrané do koša
+        delete_selected: Odstrániť vybrané
+      action_bar_below:
+        send_notifications: Odoslať upozornenia
+        sending_notifications: Odosielajú sa upozornenia
+        quota: Kvóta
+        used_of: využité z
+        available: k dispozícii
+        quota_exceeded: Prekročená kvóta
+      create_folder_modal:
+        create_folder: Vytvoriť priečinok
+        create: Vytvoriť
+      files:
+        are_you_sure_you_want_to_delete: Naozaj chcete tento súbor odstrániť?
+        are_you_sure_you_want_to_trash: Naozaj chcete tento súbor natrvalo odstrániť?
+        file_not_found: Súbor sa nenašiel
+        file:
+          rename_file: Premenovať súbor
+          move_file: Presunúť
+          move_file_description: Presunúť súbor %{filename} do priečinka vybraného nižšie
+        show:
+          prev: Predchádzajúci
+          up: Nahor
+          next: Ďalší
+          last_updated: Naposledy aktualizované
+          versions: Verzie
+          show_all: Zobraziť všetko
+          version_from: Verzia z
+          next_version: Ďalšia verzia
+          previous_version: Predchádzajúca verzia
+          current_version: Aktuálna verzia
+          pdf_preview_not_supported: Ukážka súborov PDF nie je vo vašom prehliadači podporovaná
+        available_chunks:
+          available: K dispozícii sú čiastočne nahraté nasledujúce súbory
+          resume_replace: Chcete pokračovať v nahrávaní, alebo súbory nahradiť?
+      quota:
+        quota: Kvóta
+        used_of: využité z
+        available: k dispozícii
+        quota_exceeded: Prekročená kvóta
+      move_file_folder_modal:
+        move_folder: Presunúť priečinok
+        move_file: Presunúť súbor
+        move: Presunúť
+      show:
+        select_all: Vybrať všetko / zrušiť výber
+    logs:
+      action_bar:
+        activity_log: Denník aktivít
+      message:
+        created: Vytvorené
+        uploaded: Nahraté
+        downloaded: Stiahnuté
+        reified: Obnovené
+        removed: Odobrané
+        restored: Obnovené
+        deleted: Odstránené
+        moved: Presunuté
+        renamed: Premenované
+        added: Pridané
+        viewed: Zobrazené
+        infected: Infikované
+        trashed: Presunuté do koša
+        deleted_user: "(Odstránený používateľ)"
+        share: Share
+        folder: Priečinok
+        file: Súbor
+        group: Skupina
+        user: Používateľ
+        read: Čítanie
+        read/write: Čítanie/zápis
+        av_scanner: Antivírus
+        version_from: Verzia z
+        file_deleted: Súbor odstránený
+        to: do
+        from: z
+        unknown: Neznáme
+        other: Iné
+  share/log:
+    message:
+      you: Vy
+      share: Share
+      folder: priečinok
+      file: súbor
+      user: používateľ
+      version_from: verzia z
+      read: čítanie
+      read/write: čítanie/zápis
+      created: vytvoril(-a)
+      added: pridal(-a)
+      uploaded: nahral(-a)
+      downloaded: stiahol(-la)
+      updated: aktualizoval(-a)
+      restored: obnovil(-a)
+      reified: obnovil(-a)
+      deleted: odstránil(-a)
+      removed: natrvalo odstránil(-a)
+      trashed: presunul(-a) do koša
+      renamed: premenoval(-a)
+      viewed: zobrazil(-a)
+      infected: infikované
+      av_scanner: Antivírus
+      file_deleted: Súbor odstránený
+  sms_auth:
+    login_failed: Prihlásenie zlyhalo
+    sms_error: Chyba konfigurácie SMS, kontaktujte správcu systému
+    verify_token: Overiť kód SMS
+    verify_token_description: "Zadajte kód odoslaný na váš mobilný telefón:"
+    sms_login_failed: Overenie SMS zlyhalo, bol odoslaný nový kód SMS
+    sms_signup: Registrácia dvojfaktorového overenia cez SMS
+    sms_signup_failed: Dvojfaktorové overenie cez SMS zlyhalo
+    sms_signup_description: Ak chcete pokračovať, musíte sa zaregistrovať na dvojfaktorové overenie cez SMS. Ak chcete pokračovať, zadajte nižšie svoje telefónne číslo.
+    verify: Overiť
+    resend: Odoslať kód znova
+    code: Kód
+    token_resent: Kód SMS bol znova odoslaný o %{time}
+    send_token: Odoslať overovací kód
+    phone_number: Telefónne číslo
+    invalid_phone_number: Neplatné telefónne číslo, skúste to znova.
+    change_phone_number: Zmeniť telefónne číslo
+    phone_number_help: Zadajte telefónne číslo s predvoľbou krajiny a bez úvodných núl (napr. 421901234567). Na toto číslo bude odoslaný overovací kód.
+    one-time-code: Jednorazový kód
+  strong_auth:
+    two_factor_authentication: Dvojfaktorové overenie
+    enable_2fa: Zapnúť dvojfaktorové overenie
+    disable_2fa: Vypnúť dvojfaktorové overenie
+    title: Zapnúť dvojfaktorové overenie
+    enable_2fa_description: Ak chcete zvýšiť zabezpečenie svojho účtu, môžete zapnúť silné dvojfaktorové overenie.
+    require_description: Ak chcete používať tento systém, musíte si nastaviť dvojfaktorové overenie.
+    disable_description: Ak chcete vypnúť dvojfaktorové overenie, zadajte aktuálny kód
+    two_factor_auth_disabled: Dvojfaktorové overenie vypnuté
+    step1: "Krok 1: Stiahnite si overovaciu aplikáciu"
+    step1_description: Zapnite dvojfaktorové overenie, zvyčajne pomocou mobilnej aplikácie.
+    totp_apps_description_html: Medzi overovacie aplikácie patrí napríklad <a href="https://authy.com" target="_blank" rel="external nofollow noopener noreferrer">Authy</a> (viac platforiem) a Google Authenticator (iOS/Android). Ďalšie možnosti nájdete na stránke <a href="https://docs.liquidfiles.com/authentication/totp.html#clients" target="_blank">TOTP Clients</a>.
+    step2: "Krok 2: Nastavte overovaciu aplikáciu"
+    step2_description: Nastavte overovaciu aplikáciu naskenovaním QR kódu.
+    step2_alt: Alebo zadajte nasledujúci kód
+    step3: "Krok 3: Overte"
+    step3_description: Overte nastavenie zadaním kódu vygenerovaného overovacou aplikáciou.
+    failed_to_authenticate: Overenie zlyhalo, skúste to znova.
+    click_on_link: Prípadne môžete kliknutím na nasledujúci odkaz pridať konfiguráciu do svojej aplikácie na dvojfaktorové overenie
+    configure: Nastaviť dvojfaktorové overenie
+    success_saved: Hotovo, konfigurácia dvojfaktorového overenia bola uložená
+    verify_token: Overiť dvojfaktorové overenie
+    verify_token_description: Zadajte kód dvojfaktorového overenia z mobilnej aplikácie.
+    verify: Overiť
+    two_factor_login_failed: Dvojfaktorové overenie zlyhalo
+    two_factor_validation_failed: Overenie dvojfaktorového overenia zlyhalo
+    skip_2fa_for_two_weeks: Preskočiť v tomto prehliadači dvojfaktorové overenie na dva týždne
+    one-time-code: Jednorazový kód
+  support:
+    email_subject: Prosím o pomoc s
+    email_body: Opíšte svoj problém čo najpodrobnejšie. Ďakujeme.
+    navbar_tooltip: Ak potrebujete pomoc s prístupom k tomuto systému alebo jeho používaním, kliknite na tento odkaz a radi vám pomôžeme.
+  user:
+    includes_at_least_one_invalid_email_address: obsahuje aspoň jednu neplatnú e-mailovú adresu
+    confirm:
+      invalid_session: Neplatná relácia
+      already_validated: Vaša e-mailová adresa už bola overená
+      invalid_token: Neplatný kód. Skúste to znova alebo kliknite na Znova odoslať overovací e-mail.
+      validation_email_sent: "Overovací e-mail odoslaný o %{time}"
+      activated_successfully: Úspešne aktivované
+      validate_email_description: Skontrolujte e-mail a zadajte dočasné heslo, aby ste overili svoju e-mailovú adresu.
+    register:
+      already_registered: Tento účet je už zaregistrovaný, ak chcete pokračovať, prihláste sa
+      already_registered_not_validated: Váš účet je už zaregistrovaný, ale e-mailovú adresu je ešte potrebné overiť. Poslali sme vám e-mail s náhodným kódom. Zadajte kód nižšie alebo kliknite na odkaz v e-maile a overte svoj účet.
+      show:
+        register: Zaregistrovať účet
+        description_html: <p>Zadajte svoje údaje a vytvorte si účet. S týmto účtom môžete bezpečne posielať veľké súbory na adresu %{branding_name}.</p>
+    signup:
+      create:
+        need_password: Musíte zadať heslo
+        need_name: Musíte zadať meno
+    create:
+      show:
+        cancel_and_remember: Zrušiť a už sa nepýtať
+        cancel_and_remember_title: Zapamätá sa v aktuálnom prehliadači
+  validator:
+    required: Toto pole je povinné.
+    remote: Opravte toto pole.
+    email: Zadajte platnú e-mailovú adresu.
+    url: Zadajte platnú URL.
+    date: Zadajte platný dátum.
+    dateISO: Zadajte platný dátum (ISO).
+    number: Zadajte platné číslo.
+    digits: Zadajte len číslice.
+    creditcard: Zadajte platné číslo kreditnej karty.
+    equalTo: Zadajte znova tú istú hodnotu.
+    accept: Zadajte hodnotu s platnou príponou.
+    maxlength: Zadajte najviac {0} znakov.
+    minlength: Zadajte aspoň {0} znakov.
+    rangelength: Zadajte hodnotu s dĺžkou od {0} do {1} znakov.
+    range: Zadajte hodnotu od {0} do {1}.
+    max: Zadajte hodnotu menšiu alebo rovnú {0}.
+    min: Zadajte hodnotu väčšiu alebo rovnú {0}.
+    step: Zadajte násobok {0}.
+    invalid_phone_number: Neplatné telefónne číslo
+  locale: Slovenčina

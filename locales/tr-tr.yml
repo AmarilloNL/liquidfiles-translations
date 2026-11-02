@@ -1,0 +1,1569 @@
+tr:
+  s: sn
+  min: dk
+  hours: Saat
+  days: Gün
+  weeks: Hafta
+  months: Ay
+  years: Yıl
+  ago: önce
+  email: E-posta
+  save: Kaydet
+  delete: Sil
+  cancel: İptal
+  remove: Kaldır
+  aborting: İptal ediliyor
+  aborted: İptal edildi
+  saved_successfully: Başarıyla kaydedildi
+  logout: Oturumu kapat
+  error: Hata
+  enabled: Etkin
+  disabled: Devre dışı
+  disable: Devre dışı bırak
+  default: Varsayılan
+  submit: Gönder
+  session_expired: Oturumun süresi doldu
+  search: Ara
+  filter: Filtrele
+  recipient: Alıcı
+  recipients: Alıcılar
+  downloaded_by: İndiren
+  filename: Dosya adı
+  size: Boyut
+  downloaded: İndirildi
+  host: Ana bilgisayar
+  ip: IP adresi
+  action: Eylem
+  view_message: Mesajı görüntüle
+  view_message_popup: Mesajı görüntüle (açılır pencere)
+  download_info: İndirme bilgileri
+  message_id: Mesaj kimliği
+  filelink_id: FileLink kimliği
+  sent_at: Gönderilme tarihi
+  id: Kimlik
+  subject: Konu
+  expires: Sona erme
+  invalid_method: Geçersiz yöntem
+  export_csv: CSV olarak dışa aktar
+  export_all: Tümünü dışa aktar
+  export_visible: Görünenleri dışa aktar
+  temporarily_unavailable: Geçici olarak kullanılamıyor
+  generic_search_error: Genel arama hatası
+  sender: Gönderen
+  search_temporary_disabled: Arama geçici olarak devre dışı
+  help: Yardım
+  close: Kapat
+  count: Sayı
+  settings: Hesap ayarları
+  virus: Virüs
+  virus_status: Virüs durumu
+  infected: Virüslü
+  clean: Temiz
+  not_scanned: Taranmadı
+  not_yet_scanned: Henüz taranmadı
+  csrf_error: "CSRF: geçersiz parametreler algılandı. Devam etmek için lütfen yeniden oturum açın."
+  could_not_be_saved: Kaydedilemedi
+  label: Etiket
+  updated: Güncellendi
+  add: Ekle
+  system_info: Sistem bilgileri
+  location: Konum
+  accept: Kabul et
+  last_7_days: Son 7 gün
+  last_30_days: Son 30 gün
+  last_60_days: Son 60 gün
+  last_90_days: Son 90 gün
+  last_180_days: Son 180 gün
+  last_365_days: Son 365 gün
+  file: Dosya
+  files: Dosyalar
+  next: Sonraki
+  previous: Önceki
+  name: Ad
+  view: Görüntüle
+  forget: Unut
+  update: Güncelle
+  updated_at: Güncellenme tarihi
+  created_at: Oluşturulma tarihi
+  download_link_expired: İndirme bağlantısının süresi doldu.
+  no_html5_upload_warning: Dosya yüklemek için HTML5 uyumlu modern bir tarayıcı gerekir. Microsoft Edge, Chrome, Firefox ve Safari'nin tümü sorunsuz çalışır.
+  javascript_warning: Dosya yüklemek ve çoğu işlevi kullanmak için JavaScript gereklidir.
+  cookie_accept: Bu site çerez kullanır. Oturum açarak veya “Kabul et” düğmesine tıklayarak çerez kullanımını kabul etmiş olursunuz.
+  i_agree: Kabul ediyorum
+  session_timeout: Oturumun süresi doldu, lütfen yeniden oturum açın
+  loading: Yükleniyor...
+  unsupported_browser_header: Desteklenmeyen tarayıcı
+  unsupported_browser_description_html: Tarayıcınız desteklenmiyor ve site büyük olasılıkla beklendiği gibi çalışmayacak. Lütfen daha yeni bir tarayıcı kullanın.
+  not_logged_in_invalid_parameters: Oturum açılmadı, geçersiz parametreler
+  toggle_dropdown: Menüyü göster/gizle
+  rejected: Reddedildi
+  undetected: Algılanmadı
+  invalid_link: Geçersiz bağlantı, lütfen gönderenle iletişime geçin
+  account_settings_tooltip: Hesap ayarları
+  logout_tooltip: Oturumu kapat
+  download_id: İndirme kimliği
+  remote_host: Uzak ana bilgisayar
+  show: Göster
+  hide: Gizle
+  password: Parola
+  download: İndir
+  unauthorized: Yetkisiz
+  account:
+    login: Oturum aç
+    login_label: E-posta adresi
+    email: E-posta adresi
+    password: Parola
+    current_password: Geçerli parola
+    please_enter_your_current_password: Lütfen geçerli parolanızı girin
+    sign_in: Oturum aç
+    remember_me: Beni hatırla
+    not_administrator: Yönetici değilsiniz
+    password_reset: Parolayı sıfırla
+    register: Kaydol
+    register_description_html: Teşekkürler! Devam etmek için lütfen bilgilerinizi girin ve bir hesap oluşturun.<br>Bir dahaki sefere e-posta adresiniz ve parolanızla oturum açabilirsiniz.
+    account_not_activated: Hesap etkinleştirilmedi. Lütfen oturum açmadan önce hesabınızı etkinleştirin. Size rastgele bir kod içeren bir e-posta gönderdik. Hesabınızı doğrulamak için kodu aşağıya girin veya e-postadaki bağlantıya tıklayın.
+    incorrect_user_or_pw: Kullanıcı adı veya parola hatalı
+    confirmation_email_sent: Doğrulama e-postası gönderildi
+    activated_successfully: Başarıyla etkinleştirildi
+    not_activated: Hesap etkinleştirilmedi
+    password_reset_email_sent: Parola sıfırlama e-postası gönderildi
+    no_such_user: Böyle bir kullanıcı yok
+    no_such_email: E-posta adresi bulunamadı
+    not_logged_in: Oturum açmadınız. Devam etmek için lütfen oturum açın.
+    saved_successfully: Başarıyla kaydedildi
+    unlicensed_install_some_settings: "Lisanssız kurulum: marka seçenekleri yalnızca sistem yöneticilerine görünür"
+    incorrect_login_or_demo: Kullanıcı adı veya parola hatalı ya da lisans sınırına ulaşıldı
+    incorrect_login_or_ldap: Kullanıcı adı veya parola hatalı ya da LDAP sunucusu hatası
+    invalid_api_key: Geçersiz API anahtarı
+    cant_delete_last_sysadmin: Son sistem yöneticisi silinemez
+    cant_change_last_sysadmin: Son sistem yöneticisi değiştirilemez
+    sso_login: SSO ile oturum aç
+    invalid_sso_response: Geçersiz SSO yanıtı
+    automatic: Otomatik algıla
+    network_access_blocked: Ağınızdan bu sisteme erişime izin verilmiyor.
+    please_login: Bu sayfayı açmak için lütfen oturum açın.
+    email_validation_session_timeout: Oturumun süresi doldu, lütfen e-posta adresinizi yeniden doğrulayın.
+    signature: İmza
+    not_authorized_for_action: Bu işlem için yetkiniz yok
+    invalid_group: Geçersiz grup. Lütfen hesabınızı bir yerel kullanıcı grubuna taşıyabilecek bir yöneticiyle iletişime geçin
+    invalid_group_configuration: Geçersiz grup yapılandırması. Lütfen sizin için hesap oluşturabilecek veya grup yapılandırmasını düzenleyebilecek bir yöneticiyle iletişime geçin.
+    please_enter_email_to_email_password: Parolanızı sıfırlamak için lütfen e-posta adresinizi girin. Bu adrese bir doğrulama e-postası gönderilecek.
+    password_reset_successfully: Parola başarıyla sıfırlandı
+    password_cant_be_empty: Parola boş olamaz
+    password_complexity_title: Parola karmaşıklığı
+    password_complexity_description_html: "<p>Parolanız <strong>bir sözlük sözcüğüne dayanamaz</strong> ve aşağıdaki gereksinimlerden en az 3'ünü karşılamalıdır:</p><ul><li>En az 8 karakter</li><li>En az 11 karakter</li><li>En az 15 karakter</li><li>En az 1 küçük ve 1 büyük harf</li><li>En az 1 rakam (0-9)</li><li>Şu karakterlerden en az biri: !,@,#,$,%,^,&amp;,*,?,_,~,-,(,)</li></ul>"
+    is_not_strong_enough: yeterince güçlü değil
+    your_password_has_expired: Parolanızın süresi doldu
+    please_select_a_different_password: Lütfen öncekinden farklı bir parola seçin
+    change_password: Parolayı değiştir
+    account_not_found: Hesap bulunamadı. Lütfen yeniden oturum açın.
+    user_required_to_use_saml: Parola sıfırlanamaz, lütfen SAML ile oturum açın
+    sysadmin_ldap_error: Bu hesap LDAP üzerinden yönetiliyor ve buradan sıfırlanamaz
+    login_limit_exceeded: Oturum açma sınırı aşıldı
+    a_confirmation_email_will_be_sent: Bu adrese bir doğrulama e-postası gönderilecek
+    name: Ad
+    password_confirm: Parolayı onayla
+    save: Kaydet
+    can_not_reset_password_please_check_with_your_administrator: Parola sıfırlanamıyor, lütfen yöneticinizle iletişime geçin
+    no_need_to_register_user: Kaydolmanıza gerek yok. Lütfen mevcut hesabınızla oturum açın.
+    registration_not_allowed: Kayda izin verilmiyor
+    create_description: Adınızı ve bir parola girerek hesabınızı oluşturun.
+    activated_successfully_please_login: Hesap başarıyla etkinleştirildi. Artık e-posta adresiniz ve parolanızla oturum açabilirsiniz.
+    invalid_activation_url: Geçersiz etkinleştirme bağlantısı. Lütfen bağlantıyı kontrol edip yeniden deneyin.
+    already_logged_in: Zaten oturum açtınız. Yeni bir hesap kaydedilemez.
+    bruteforce_message: Başarısız deneme sayısını aştınız. Lütfen %{minutes} dakika sonra yeniden deneyin.
+    admin_access_blocked: IP adresinizden yönetici erişimine izin verilmiyor.
+    account_created_successfully: Hesap başarıyla oluşturuldu
+    create_account: Hesap oluştur
+    create_account_description: Hesabınızı oluşturmak için bilgilerinizi güncelleyin.
+    account_settings: Hesap ayarları
+    change_language: Dili ve saat dilimini değiştir
+    filedrop_label: Filedrop (rastgele)
+    filedrop_email_label: Filedrop
+    verify_account: Hesabı doğrula
+    invalid_sso_signature: Geçersiz SSO imzası veya oturum açma
+    user_not_found: Kullanıcı bulunamadı
+    could_not_create_account: Hesap oluşturulamadı
+    two_factor_authentication_failed: Duo iki faktörlü kimlik doğrulaması başarısız oldu
+    copy_to_clipboard: Panoya kopyala
+    copy_url_to_clipboard: URL'yi panoya kopyala
+    delete_user_warning: Bu kullanıcıyı silmek istediğinizden emin misiniz?
+    unauthorized_to_login: Oturum açma yetkiniz yok
+    first_time_message_title: LiquidFiles'a hoş geldiniz
+    first_time_message: <p>Büyük dosyaları güvenle göndermenin en kolay yolu olan LiquidFiles'a hoş geldiniz.</p><p>Temel işlevler tıpkı bir web posta sistemi gibi çalışır.</p><p>Bu mesaj yalnızca bir kez gösterilecek. Takılırsanız veya daha gelişmiş işlevleri keşfetmek isterseniz menü çubuğunun sağ üst köşesindeki “Yardım” düğmesine tıklayın.</p>
+    first_time_message_button: Anladım!
+    registration_failed_unknown_error: Kayıt bilinmeyen bir hata nedeniyle başarısız oldu
+    session_timeout: Oturumun süresi doldu
+    nothing_filled_in: Lütfen formu doldurun
+    last_used: Son kullanım
+    strong_auth_required_before_password_reset: Bu hesabın parolası sıfırlanmadan önce güçlü iki faktörlü kimlik doğrulaması gerekir.
+    unfriendly_registration_message: Bu e-posta adresiyle sisteme kaydolabiliyorsanız bir e-posta alacaksınız. Almazsanız lütfen yukarıdaki destek bağlantısını kullanın.
+    unfriendly_password_reset_message: Bu e-posta adresine sahip hesap sıfırlanabiliyorsa bir e-posta alacaksınız. Almazsanız lütfen yukarıdaki destek bağlantısını kullanın.
+    aliases:
+      aliases: Takma adlar
+      aliases_description: Hesabınıza gönderen ve alıcı takma adları ekleyebilirsiniz. Gönderen takma adı, söz konusu e-posta adresi adına mesaj göndermenizi sağlar. Alıcı takma adı, o adrese gelen mesajları görmenizi sağlar. Alıcı takma adına gönderilen mesajlar güvenli mesajlar gelen kutunuzda da görünür.
+      aliases_no_change_description: Gönderen takma adı, söz konusu e-posta adresi adına mesaj göndermenizi sağlar. Alıcı takma adı, o adrese gelen mesajları görmenizi sağlar. Alıcı takma adına gönderilen mesajlar güvenli mesajlar gelen kutunuzda da görünür. Takma ad eklemek veya değiştirmek için lütfen bir yöneticiyle iletişime geçin.
+      recipient_aliases: Alıcı takma adları
+      sender_aliases: Gönderen takma adları
+      add_alias: Takma ad ekle
+      remove: Kaldır
+      default_sender_alias: Varsayılan gönderen takma adı
+      default_sender_alias_description: Varsayılan gönderen takma adı.
+      are_you_sure: Bu takma adı kaldırmak istediğinizden emin misiniz?
+      no_emails: Henüz takma ad eklenmedi.
+      please_contact_an_administrator: Bunları yönetmek için lütfen bir yöneticiyle iletişime geçin
+      auto_added_aliases: Otomatik eklenen takma adlar
+      auto_added_aliases_description: Aşağıdaki takma adlar profilinize otomatik olarak eklendi. Bunları yönetmek için lütfen bir yöneticiyle iletişime geçin.
+    alias:
+      confirm:
+        show:
+          title: Onayınız için teşekkürler
+          alias_email: Takma ad e-posta adresi
+          user: Kullanıcı
+          recipient_and_sender_confirmation: Yukarıdaki kullanıcı artık bu e-posta adresine gelen güvenli mesajları görebilir ve bu adres adına güvenli mesaj gönderebilir. Bu bir hataysa lütfen yukarıdaki destek bağlantısına tıklayın.
+          only_recipient_confirmation: Yukarıdaki kullanıcı artık bu e-posta adresine gelen güvenli mesajları görebilir. Bu bir hataysa lütfen yukarıdaki destek bağlantısına tıklayın.
+          only_sender_confirmation: Yukarıdaki kullanıcı artık bu e-posta adresi adına güvenli mesaj gönderebilir. Bu bir hataysa lütfen yukarıdaki destek bağlantısına tıklayın.
+    add_alias_modal:
+      title: Takma ad ekle
+      description: Alıcı veya gönderen takma adı olarak erişmek istediğiniz e-posta adresini girin. Bu adrese bir doğrulama e-postası gönderilecek.
+      recipient_alias: Alıcı takma adı - bu e-posta adresine gönderilen mesajları okumak istiyorum.
+      sender_alias: Gönderen takma adı - bu e-posta adresi adına mesaj göndermek istiyorum.
+      invalid_email: Geçersiz e-posta adresi
+      add_permission: Alıcı takma adını, gönderen takma adını veya her ikisini seçin.
+      send_request: İsteği gönder
+      request_has_been_sent: İsteğiniz gönderildi.
+    api:
+      api_key: API anahtarı
+      api_key_description: API anahtarı, Outlook eklentisi gibi eklentiler tarafından kullanılır ve özel entegrasyonlar için de kullanılabilir. Yalnızca bir yönetici sizden isterse buna ihtiyacınız olur.
+      api_key_reset_warning: Emin misiniz? API anahtarını sıfırlarsanız eski anahtarı kullandığınız her yerde değiştirmeniz gerekir.
+      reset_api_key: API anahtarını sıfırla
+    contacts:
+      contacts: Kişiler
+      contacts_description: İstediğiniz kadar kişi ekleyebilirsiniz. Her kişinin birden çok e-posta adresi olabilir; böylece aynı anda birçok alıcıya hızlı ve kolayca gönderim yapabilirsiniz.
+      add_contact: Kişi ekle
+      email_field_help: Virgülle ayrılmış e-posta adresleri listesi.
+      contact:
+        edit_label: Etiketi düzenle
+        edit_email: E-posta adresini düzenle
+        are_you_sure: Bu kişiyi silmek istediğinizden emin misiniz?
+    filedrops:
+      filedrops: Filedrop
+      filedrops_description: Bu Filedrop'ların ana alıcısı veya bilgi alıcısısınız. Bunlardan herhangi biri aracılığıyla gönderilen her dosya size teslim edilir.
+      name: Ad
+      title: Başlık
+      recipient: Alıcı
+      expires_after: Sona erme süresi
+      max_size: En büyük dosya boyutu
+      url: URL
+      main_recipient: Ana alıcı
+      cc: Bilgi
+    personal_filedrop:
+      personal_filedrop: Kişisel Filedrop
+      personal_filedrop_description: Kişisel Filedrop, dosya almanın basit bir yoludur. Bağlantıyı gönderebilir, bir web sitesinde yayımlayabilir veya e-posta imzanıza ekleyebilirsiniz. Biri kişisel Filedrop'unuz aracılığıyla size bir şey gönderdiğinde bildirim alırsınız.
+    previous_recipients:
+      previous_recipients: Önceki alıcılar
+      previous_recipients_description: Güvenli bir mesaj gönderdiğinizde her alıcı bu önceki alıcılar listesine eklenir. Böylece aynı alıcılara hızla yeniden gönderim yapabilirsiniz. 180 gün boyunca hiçbir şey göndermediğiniz alıcılar listeden otomatik olarak kaldırılır.
+      are_you_sure: Bu önceki alıcıyı silmek istediğinizden emin misiniz?
+    pw_dictionary:
+      based_on_a_dictionary_word: bir sözlük sözcüğüne dayanıyor
+      based_upon_your_password_entry: girdiğiniz parolaya dayanıyor
+      derived_from_your_password_entry: girdiğiniz paroladan türetilmiş
+      derivable_from_your_password_entry: girdiğiniz paroladan türetilebilir
+      way_too_short: ÇOK kısa
+      too_short: çok kısa
+      it_does_not_contain_enough_different_characters: yeterince FARKLI karakter içermiyor
+      all_whitespace: yalnızca boşluklardan oluşuyor
+      too_simplistic_systematic: çok basit/sistematik
+      it_looks_like_a_national_insurance_number: T.C. kimlik numarasına benziyor
+      based_on_a_reversed_dictionary_word: (ters çevrilmiş) bir sözlük sözcüğüne dayanıyor
+    show:
+      basic_settings: Temel ayarlar
+      change_password: Parolayı değiştir
+      strong_auth: İki faktörlü kimlik doğrulama
+      aliases: Takma adlar
+      previous_recipients: Önceki alıcılar
+      contacts: Kişiler
+      personal_filedrop: Kişisel Filedrop
+      api: API
+      filedrops: Filedrop
+    sms_disable:
+      disable_sms_otp: SMS ile iki faktörlü kimlik doğrulamayı devre dışı bırak
+      disable_sms_otp_description: SMS ile iki faktörlü kimlik doğrulamayı devre dışı bırakmak istiyorsanız aşağıdaki düğmeye tıklayın. İsteği onaylamak için bir SMS kodu gönderilecek.
+      verify_token_description: "SMS ile iki faktörlü kimlik doğrulamayı devre dışı bırakmak için cep telefonunuza gönderilen kodu girin:"
+      code: Kod
+      sms_token_failed: Geçersiz SMS kodu, SMS ile iki faktörlü kimlik doğrulama devre dışı bırakılamadı
+      sms_otp_has_been_disabled: SMS ile iki faktörlü kimlik doğrulama devre dışı bırakıldı
+    sms_signup:
+      sms_signup_description: İki faktörlü kimlik doğrulamayı etkinleştirerek hesabınızın güvenliğini artırabilirsiniz. Etkinleştirmek için telefon numaranızı aşağıya girin.
+      phone_number: Telefon numarası
+    sms_enable:
+      signup_complete: SMS ile iki faktörlü kimlik doğrulama etkinleştirildi
+    terms_of_service:
+      show:
+        title: Hizmet koşulları
+        accept_terms_of_service: Hizmet koşullarını kabul et
+        do_not_accept: Kabul etmiyorum
+      create:
+        you_need_to_accept: Hizmet koşullarını kabul etmeniz gerekiyor!
+  activerecord:
+    attributes:
+      attachment:
+        filename: Dosya adı
+        size: Boyut
+        secure_id: Ek kimliği
+        content_type: İçerik türü
+        created_at: Oluşturulma tarihi
+        updated_at: Güncellenme tarihi
+      download:
+        recipient: Alıcı
+        downloaded_at: İndirilme tarihi
+        remote_ip: Uzak IP
+        remote_host: Uzak ana bilgisayar
+        created_at: Oluşturulma tarihi
+        updated_at: Güncellenme tarihi
+      filedrop:
+        name: Ad
+        title: Başlık
+        description: Açıklama
+        blocked_extensions: Engellenen uzantılar
+        permitted_extensions: İzin verilen dosya türleri
+        expires_after: Sona erme süresi
+        max_filesize: En büyük dosya boyutu
+        created_at: Oluşturulma tarihi
+        updated_at: Güncellenme tarihi
+        api_key: API anahtarı
+        cc: Bilgi
+        authorization: Yetkilendirme
+      message:
+        recipients: Alıcılar
+        sender: Gönderen
+        cc: Bilgi
+        bcc: Gizli
+        message: Mesaj
+        subject: Konu
+        deleted: Silindi
+        authorization: Yetkilendirme
+        created_at: Oluşturulma tarihi
+        updated_at: Güncellenme tarihi
+        expires_at: Sona erme tarihi
+      share/log:
+        created_at: Tarih
+      share/file:
+        checksum: Sağlama toplamı (SHA256)
+      share/file/version:
+        whodunnit: Değiştiren
+        created_at: Değiştirilme tarihi
+      user:
+        name: Ad
+        email: E-posta adresi
+        quota: Kota
+        used: Kullanılan
+        max: En fazla
+        password: Parola
+        ldap_authentication: LDAP kimlik doğrulaması
+        api_key: API anahtarı
+        level: Düzey
+        filedrop: Filedrop
+    models:
+      configuration: Yapılandırma
+      attachment: Ek
+      filedrop: Filedrop
+      message: Mesaj
+      user: Kullanıcı
+      download: İndirme
+  admin:
+    groups:
+      form:
+        bcc_myself: Kendime kopya gönder
+        can_change_bcc_myself: Bu gruptaki kullanıcılar “Kendime kopya gönder” ayarını değiştirebilir
+      index:
+        default_group_assignment: Varsayılan grup ataması
+    users:
+      users:
+        email: E-posta adresi
+        name: Ad
+        group: Grup
+        max: En büyük dosya boyutu
+        quota: Kota
+        strong_auth: Güçlü kimlik doğrulama
+        filedrop: Filedrop
+        last_login_at: Son oturum açma
+        last_login_ip: Son oturum açma IP'si
+        created: Oluşturuldu
+      form:
+        name_label: Ad
+        email: E-posta adresi
+        password: Parola
+        password_confirmation: Parolayı onayla
+        max_label: En büyük dosya boyutu
+        group: Grup
+        strong_auth: Güçlü kimlik doğrulama
+        strong_auth_username: Güçlü kimlik doğrulama kullanıcı adı
+        api_key: API anahtarı
+        filedrop: Filedrop
+  attachments:
+    not_found: Ek bulunamadı
+  config:
+    settings: Ayarlar
+    email: E-posta
+    language_preferences_from_your_browser: Tarayıcınızın dil tercihleri
+    authentication: Kimlik doğrulama
+    time_zone: Saat dilimi
+    current_time_zone: Geçerli saat dilimi
+    time_zone_from_browser: Tarayıcının algıladığı saat dilimi
+    time_zone_config_description: Saat dilimini “Otomatik algıla” olarak bırakırsanız tarayıcınızın algıladığı saat dilimi kullanılır (tüm saatler bu saat diliminde gösterilir). Tarayıcı saat dilimini algılayamazsa sistemin varsayılan saat dilimi kullanılır. Tarayıcı doğru saat dilimini algılamıyorsa veya saatleri başka bir saat diliminde görmek istiyorsanız belirli bir saat dilimi ayarlayabilirsiniz.
+    time_zone_default: Sistemin varsayılan saat dilimi
+    email_settings: E-posta ayarları
+    configuration: Yapılandırma
+    local_domains: Yerel etki alanı
+    ldap_users: LDAP ile kimliği doğrulanan kullanıcılar
+    ldap_users_are_always_local: LDAP ile kimliği doğrulanan kullanıcılar her zaman yereldir
+    separated_by_comma: virgülle ayrılmış
+    default_max_file_size: Varsayılan en büyük dosya boyutu
+    local_users: Yerel kullanıcılar
+    external_users: Harici kullanıcılar
+    allow_registration: Kayda izin ver
+    allow_registration_desc: Oturum açma sayfasından kayda izin ver
+    external_user_account: Harici alıcılar
+    external_user_account_desc: Harici alıcılar bir hesap oluşturmalıdır
+    allow_users_to_change_expiration: Kullanıcılar dosyaların sona erme süresini değiştirebilir
+    authorization: İzin
+    authorization_description: Dosyaları kimin indirebileceğine ilişkin varsayılan ayar.
+    file_expiration: Sona erme
+    default_expire_files_after: Dosyalar varsayılan olarak şu süreden sonra sona erer
+    delete_downloaded_files_after: İndirilen dosyaları şu süreden sonra sil
+    branding: Marka
+    company_name: Şirket adı
+    custom_stylesheet: Özel stil sayfası
+    custom_javascript: Özel JavaScript
+    logotype: Logo
+    leave_blank_for_default: varsayılan değer için boş bırakın
+    email_configuration: E-posta yapılandırması
+    email_sender_address: Gönderen adresi
+    email_host: E-postaların temel URL'si
+    email_footer: E-posta alt bilgisi
+    email_relay_host: E-posta aktarma sunucusu
+    email_relay_username: E-posta aktarma kullanıcı adı
+    email_relay_password: E-posta aktarma parolası
+    port: Bağlantı noktası
+    unlicensed_install_some_settings: "Lisanssız kurulum: marka ayarları yalnızca sistem yöneticilerine görünür"
+    mail_relay_example: "Örn.: mailrelay.alanadi.com.tr, mx.alanadi.com.tr:587"
+    ldap: LDAP
+    please_see_the: lütfen bakın
+    for_more_information: daha fazla bilgi için
+    virus_scan: Virüs taraması
+    virus_scan_description: Dosyaları virüslere karşı tara
+    blocked_file_extensions: Engellenen dosya uzantıları
+    default_bcc_myself_label: Kendime kopya gönder
+    default_bcc_myself: Varsayılan olarak kendime kopya gönder
+    allow_users_to_change_require_login_label: Kimlik doğrulama iste
+    allow_users_to_change_require_login: Kullanıcılar “Kimlik doğrulama iste” ayarını değiştirebilir
+    permitted_file_extensions_label: İzin verilen dosya uzantıları
+    delete: Sil
+    ldap_description: "Kullanıcıların LDAP ile kimlik doğrulamasını etkinleştirin ve LDAP sunucusuna bağlanmak için bazı temel parametreleri ayarlayın. Bağlantı noktası belirtilmezse varsayılan LDAP bağlantı noktası 389 (veya SSL etkinse 636) kullanılır. Not: 3268 numaralı bağlantı noktası Active Directory'de kimlik doğrulama için KULLANILMAZ, yalnızca genel katalog aramaları içindir. Bunun yerine lütfen 389/636 numaralı bağlantı noktasını kullanın."
+    ldap_authentication: LDAP kimlik doğrulaması
+    basic_settings: Temel ayarlar
+    server: Sunucu adı / IP adresi
+    username: Kullanıcı adı
+    password: Parola
+    authentication_description: Bu kullanıcı LDAP sunucusuna bağlanmak için kullanılır (anonim bağlantı için boş bırakın). Kullanıcının LDAP ağacında arama hakları olmalıdır.
+    search_key: Arama anahtarı
+    search_key_description: Arama anahtarı ve etki alanı, LDAP ağacında kullanıcıları bulmak için kullanılır. Aşağıdaki tablo, bir kullanıcıyı bulmak için arama anahtarı ile etki alanının birlikte nasıl çalıştığını gösterir.
+    search_key_description2: Dolayısıyla LDAP arama anahtarı e-posta adresini içeriyorsa etki alanı boş bırakılmalıdır. LDAP arama anahtarı yalnızca kullanıcı adını içeriyorsa etki alanı kullanıcıların etki alanını içermelidir.
+    search_key_defaults: "Active Directory için iyi bir başlangıç noktası şudur: LDAP arama anahtarı olarak sAMAccountName ve etki alanı olarak sirket.com.tr (sizin etki alanınız)."
+    user_enters: Kullanıcının girdiği
+    authorized_ldap_groups: Yetkili LDAP grupları
+    available_groups: Kullanılabilir gruplar
+    default_settings: Varsayılan ayarlar
+    setting: Ayar
+    value: Değer
+    description: Açıklama
+    default_local_max_description: Bu, yeni yerel kullanıcılar için varsayılan en büyük dosya boyutudur. Her kullanıcı için ayrı ayrı değiştirilebilir.
+    user_changeable: Kullanıcı değiştirebilir mi?
+    non_local: Yerel olmayan
+    remote: Uzak
+    new_external_recipient_is_nonlocal: Yeni harici alıcılar
+    email_message_on_top_label: Mesaj en üstte
+    email_message_on_top: Alıcılara gönderilen e-postada mesaj dosya listesinin üzerinde gösterilir
+    use_either_permitted_or_blocked_extensions: İzin verilen veya engellenen uzantılardan yalnızca birini seçmelisiniz, ikisini birden değil
+    invalid_password: Geçersiz parola
+    valid_password: Geçerli parola
+    test_password_validation: Parola doğrulamasını test et
+    custom_password_validation: Özel parola doğrulaması
+    custom_password_validation_description: "Bu düzenli ifade, parolaların özel doğrulaması için kullanılır. Yalnızca düzenli ifadeyi, sınırlayıcılar olmadan yazın ('/' ile başlatmayın ve bitirmeyin). Örnek: [a-zA-Z0-9]{7,} (parolalar yalnızca a-z, A-Z ve 0-9 içerebilir, en az 7 karakter)"
+    filedrop: Filedrop
+    receive: Al
+    api_settings: API ayarları
+    enable_api_label: API'yi etkinleştir
+    enable_api_description: Eklentiler ve betikler üzerinden erişim için API'yi etkinleştir
+    enable_api_group_config: Diğer API ayarları grup yapılandırmasında bulunur.
+    api_client_size_override_label: API istemcileri için boyut sınırı
+    api_client_size_override_description: API istemcileri bu boyutu aşan dosyaları cihaz üzerinden gönderir
+    sso_secret_key: SSO gizli anahtarı
+    generate_key: Yeni anahtar oluştur
+    sso_replace_confirm: Emin misiniz? SSO gizli anahtarını değiştirmek mevcut SSO entegrasyonlarının çalışmayı durdurmasına neden olur.
+    virus_scan_skip_locals: Yerel kullanıcılar için virüs taramasını atla
+    virus_scan_skip_locals_description: Yerel kullanıcıların dosyalarını virüslere karşı tarama
+    virus_scan_permit_unscanned: Taranmamış dosyalara izin ver
+    virus_scan_permit_unscanned_description: Henüz virüs taraması yapılmamış dosyaların indirilmesine izin ver
+    userdrop: Kullanıcı Filedrop'u
+    user_filedrop_with_random_key: Rastgele anahtarlı kullanıcı Filedrop'u
+    enable_userdrop: Kullanıcı Filedrop'unu etkinleştir
+    example: Örnek
+    user_filedrop_with_email: E-posta adresli kullanıcı Filedrop'u
+    enable_userdrop_email: E-posta adresli kullanıcı Filedrop'unu etkinleştir
+    userdop_email_data_leakage: Bu, Filedrop URL'sinde adresler denenerek ve hangilerinin geçerli yanıt verdiği kontrol edilerek yerel e-posta adreslerinin tespit edilmesi için kullanılabilir.
+    userdrop_files_expire_after: Bırakılan dosyalar şu süreden sonra sona erer
+    userdrop_max_filesize: Kullanıcı Filedrop'u için en büyük dosya boyutu
+    bruteforce_label: Kaba kuvvet saldırılarına karşı koruma
+    bruteforce_description_1: IP adresini şu süre boyunca engelle
+    bruteforce_description_2: dakika, şu sayıda
+    bruteforce_description_3: başarısız oturum açma/kayıt girişiminden sonra, şu süre içinde
+    bruteforce_description_4: dakika
+    bruteforce_whitelist_label: Kaba kuvvet korumasının izin listesi
+    allowed_admin_networks_label: Yönetim ağları
+    allowed_admin_networks_description: Yönetici erişimini bu ana bilgisayarlar ve ağlarla sınırla. Localhost (127.0.0.1, ::1) her zaman izinlidir
+    enable_strong_authentication: Bu kullanıcı türleri için varsayılan olarak güçlü kimlik doğrulamayı etkinleştir
+    authenticated_username: Kimliği doğrulanmış kullanıcı adı
+    duo_hostname: Duo ana bilgisayar adı
+    duo_client_id: Duo entegrasyon anahtarı
+    duo_client_secret: Duo gizli anahtarı
+    strong_authentication_test: Güçlü kimlik doğrulama testi
+    stronger_password: Lütfen daha güçlü bir parola seçin.
+    cannot_begin_or_end_with_blank: Parola boşlukla başlayamaz veya bitemez.
+    at_least_one_invalid_domain: En az bir geçersiz etki alanı
+    at_least_one_invalid_email: En az bir geçersiz e-posta adresi
+    email_security_level: E-posta teslim güvenlik düzeyi
+    geoip: GeoIP sorgusu
+    geoip_description: https://geoip.liquidfiles.com adresinden coğrafi konum verilerini alır ve haritalar gösterir.
+    tooltip:
+      local_domains: Yerel bir kullanıcı herkese dosya gönderebilir. Yerel olmayan bir kullanıcı yalnızca yerel kullanıcılara dosya gönderebilir. Bir kullanıcı ilk kez oturum açtığında veya hesap oluşturulduğunda, kullanıcının yerel sayılıp sayılmayacağını belirlemek için e-posta adresinin etki alanı bu etki alanlarıyla karşılaştırılır.
+      ldap_users_are_always_local: LDAP ile kimliği doğrulanan her kullanıcı, etki alanından bağımsız olarak otomatik olarak yerel kabul edilir.
+      allow_registration: Oturum açma sayfasından kayda izin verir. Yeni bir kullanıcının yerel mi yoksa yerel olmayan mı olduğu yerel etki alanları listesine göre belirlenir.
+      local_user_maxfile: Yerel bir kullanıcı kaydolduğunda veya ilk kez uzak kimlik doğrulama ile doğrulandığında bu en büyük dosya boyutu atanır.
+      nonlocal_user_maxfile: Yerel olmayan bir kullanıcı kaydolduğunda bu en büyük dosya boyutu atanır.
+      delete_downloaded_files_after: İndirilen bir dosya bu süre boyunca saklanır. Bu süre, alıcının başka bir indirme konumu seçebilmesi veya baştan başlayabilmesi için yeterince uzun, ancak bağlantının daha fazla kişiye yayılmaması için yeterince kısa olmalıdır.
+      file_expiration: Kullanıcıların dosyaların sona erme süresini değiştirmesine izin verir. Etkin değilse tüm dosyalar varsayılan sona erme süresini alır.
+      default_expire_files_after: Dosyalar bu sürenin sonunda sona erer.
+      blocked_file_extensions: Bu uzantılara sahip dosyaları engelle (büyük/küçük harf duyarsız).
+      virus_scan: Yüklenen tüm dosyaları ClamAV virüs tarayıcısıyla tara
+      require_authentication_permission: Etkinleştirildiğinde kullanıcılar kimlik doğrulamanın gerekip gerekmediğini kendileri seçebilir
+      default_bcc_myself: Etkinleştirildiğinde mesajlar varsayılan olarak kullanıcının kendisine de gönderilir
+      permitted_file_extensions: "Boş bırakılırsa tüm uzantılara izin verilir. En az bir uzantı girilirse yalnızca girilen dosya türlerine izin verilir. Örnek: png, gif, jpg, txt"
+      new_external_recipient_is_nonlocal: Yeni bir alıcıya mesaj gönderildiğinde bu alıcı yerel olmayan bir kullanıcı (yanıt verebilmesi için) olarak mı yoksa harici bir kullanıcı olarak mı oluşturulmalı?
+      email_message_on_top: İşaretlendiğinde, alıcılara gönderilen e-postada mesaj dosya listesinin üzerinde gösterilir. İşaretlenmediğinde dosya listesi mesajın üzerinde gösterilir.
+      email_sender: Bu e-posta adresi, parola sıfırlama gibi sistem tarafından oluşturulan e-postaların göndereni olarak kullanılır. Bu e-postaların istenmeyen posta olarak işaretlenmemesi için gerçek bir e-posta adresi olmalıdır.
+      email_host: Ekler bu URL'yi temel URL olarak kullanır. Genellikle http://sunucu-adi.alanadi veya https://sunucu-adi.alanadi şeklindedir, ancak kullanıcılar LiquidFiles cihazına bağlanırken güvenlik duvarında bağlantı noktası yönlendirme kullanıyorsanız https://sunucu-adi.alanadi:4433 de olabilir.
+      email_footer: Bu imza tüm giden e-postalara eklenir.
+      email_relay: Giden e-postaları aktarmak için bu posta sunucusunu kullan.
+      email_relay_username: E-posta aktarma sunucusunda oturum açmak için kullanılan hesap
+      email_relay_password: E-posta aktarma sunucusunda oturum açmak için kullanılan hesabın parolası
+  date:
+    formats:
+      default: "%d.%m.%Y"
+      short: "%d.%m"
+      medium: "%d.%m.%Y"
+      long: "%d.%m.%Y"
+  time:
+    am: ÖÖ
+    pm: ÖS
+    formats:
+      default: "%d.%m.%Y %H:%M:%S %z"
+      short: "%d.%m %H:%M"
+      medium: "%d.%m.%Y %H:%M"
+      long: "%d.%m.%Y %H:%M"
+  downloads:
+    download_id: İndirme kimliği
+    index:
+      download_log_title: İndirmeler
+      download_log_description: Kim neyi ne zaman indirdi
+      paginator_entry_name: indirme
+    show:
+      no_map_for_reserved_address: Ayrılmış adresler için harita gösterilemez
+  filedrop:
+    filedrop: Filedrop
+    no_such_filedrop: Böyle bir Filedrop yok
+    invalid_filedrop_url: Geçersiz Filedrop URL'si
+    invalid_filedrop_url_description: Bu URL'de Filedrop yok. Lütfen URL'yi kontrol edip yeniden deneyin.
+    label: Filedrop
+    mb: MB
+    name: Ad
+    name_description: URL'de de kullanılan kısa ad (örn. /filedrop/ad)
+    title: Başlık
+    title_description: Sayfanın üst kısmındaki başlık
+    description: Açıklama
+    description_description: Başlığın altındaki açıklama
+    user: Alıcı kullanıcı
+    user_description: Herhangi bir yerel kullanıcı alıcı olarak ayarlanabilir
+    cc: Bilgi
+    cc_description: "(virgülle ayrılmış) Bu adreslere kopya gönder"
+    expires_after: Sona erme süresi
+    expires_after_description: gün
+    max_filesize: En büyük dosya boyutu
+    max_filesize_description: MB
+    reset_filedrop: Filedrop URL'sini sıfırla
+    filedrop_reset_warning: Emin misiniz? Filedrop URL'sini sıfırlarsanız yayımladığınız her yerde değiştirmeniz gerekir.
+    permitted_extensions: İzin verilen uzantılar
+    permitted_extensions_description: Yalnızca bu dosya türlerine izin verilir
+    blocked_extensions: Engellenen uzantılar
+    blocked_extensions_description: Bu dosya türleri engellenir
+    demo_license_warning_standard: Filedrop'ların üretimde kullanılması için lisans gerekir. Filedrop işlevini etkinleştirmek için Pro lisansına yükseltin.
+    max_one_during_demo: Deneme sürümünde veya Standard lisansla en fazla bir Filedrop yapılandırabilirsiniz
+    filedrop_info: Filedrop, müşterilerinizin kimlik doğrulama veya önceden yapılandırma gerekmeden size dosya göndermesini sağlar. Her Filedrop'un, web sayfalarından veya e-posta imzalarından bağlantı verebileceğiniz sabit bir URL'si vardır. Biri Filedrop'a dosya bıraktığında dosya otomatik olarak önceden tanımlanmış bir kullanıcıya gönderilir.
+    authorization: İzin
+    authorization_description: Filedrop'a bırakılan dosyaları kimin indirebileceği
+    you_will_be_notified: Dosyalarınız indirildiğinde bir indirme bildirimi alacaksınız.
+    require_authentication: Bu Filedrop kimlik doğrulama gerektirir. Devam etmek için lütfen parolayı girin.
+    authenticate: Kimliği doğrula
+    authentication_failed: Kimlik doğrulama başarısız oldu
+    require_validation: Bu Filedrop, kimlik doğrulama veya e-posta adresinizin doğrulanmasını gerektirir.
+  filelink:
+    filelink: FileLink
+    filelinks: FileLink'ler
+    filelink_title: FileLink
+    filelink_description: FileLink, tek bir dosyaya giden bir bağlantıdır. Bu bağlantıyı mesaj oluşturmadan veya alıcı belirlemeden herkese gönderebilirsiniz. Dosyayı yalnızca rastgele bağlantıyı alan kişiler indirebilir.
+    expired_or_nonexistent_title: Geçersiz FileLink
+    expired_or_nonexistent: Bu FileLink'in süresi doldu veya mevcut değil. Yeni bir bağlantı için lütfen gönderenle iletişime geçin.
+    existing_filelinks: Mevcut FileLink'ler
+    new_filelink: Yeni FileLink
+    available_files: Kullanılabilir dosyalar
+    filename: Dosya adı
+    filesize: Dosya boyutu
+    expires_at: Sona erme
+    link: Bağlantı
+    checksum: Sağlama toplamı
+    copy_link_to_clipboard: FileLink'i panoya kopyala
+    expire_link_at: Bağlantının sona erme tarihi
+    you_have_no_filelinks: Hiç FileLink'iniz yok. Yeni bir FileLink ekleyin veya kullanılabilir bir dosyadan oluşturun.
+    you_have_no_files_available: Daha önce gönderilmiş dosyanız yok. En az bir dosya gönderdiğinizde FileLink oluşturmak için onu burada seçebilirsiniz.
+    create_link: Bağlantı oluştur
+    invalid_file: Geçersiz dosya, FileLink oluşturulamıyor
+    delete: Sil
+    delete_link_warning: Bu FileLink'i silmek istediğinizden emin misiniz?
+    could_not_delete_link: FileLink silinemedi. Bağlantı bulunamadı!
+    filelink_deleted: FileLink silindi!
+    select_file: Dosya seç
+    send_download_receipts: İndirme bildirimleri gönder
+    disabled: FileLink'ler devre dışı, lütfen bir yöneticiyle iletişime geçin
+    unauthorized: FileLink kullanma yetkiniz yok
+    require_authentication: Kimlik doğrulama iste
+    filelink_require_authentication: Bu FileLink kimlik doğrulama gerektirir
+    filelink_url: FileLink URL'si
+    expired: Süresi doldu
+    filelink_expired: FileLink'in süresi doldu
+    select_from_available_files: Bu mevcut dosyalardan herhangi birinden de FileLink oluşturabilirsiniz.
+    downloads: İndirmeler
+    authentication_failed: Kimlik doğrulama başarısız oldu
+    password_label_html: Parola <small class="text-muted">(isteğe bağlı)</small>
+    password_present_html: Bu FileLink için bir parola ayarlandı.<br>Boş bir parola kaydederek parolayı kaldırabilirsiniz.
+    password_not_present: Parola ayarlanmadı.
+    copy_to_clipboard: FileLink'i panoya kopyala
+    add_file: Dosya ekle
+  ftpdrop:
+    create:
+      ftpdrop: FTPdrop
+  html_editor:
+    font:
+      bold: Kalın
+      italic: İtalik
+      underline: Altı çizili
+      clear: Biçimlendirmeyi temizle
+      height: Satır yüksekliği
+      name: Yazı tipi
+      strikethrough: Üstü çizili
+      subscript: Alt simge
+      superscript: Üst simge
+      size: Yazı tipi boyutu
+    image:
+      image: Görüntü
+      insert: Görüntü ekle
+      resize_full: Tam boyut
+      resize_half: Yarı boyut
+      resize_quarter: Çeyrek boyut
+      float_left: Sola hizala
+      float_right: Sağa hizala
+      float_none: Hizalama yok
+      shape_rounded: "Şekil: yuvarlatılmış"
+      shape_circle: "Şekil: daire"
+      shape_thumbnail: "Şekil: küçük resim"
+      shape_none: "Şekil: yok"
+      url: Görüntü URL'si
+      remove: Görüntüyü kaldır
+    link:
+      link: Bağlantı
+      insert: Bağlantı ekle
+      unlink: Bağlantıyı kaldır
+      edit: Düzenle
+      text_to_display: Görüntülenecek metin
+      url: Bu bağlantı hangi URL'ye gitmeli?
+      open_in_new_window: Yeni pencerede aç
+    table:
+      table: Tablo
+    hr:
+      insert: Yatay çizgi ekle
+    style:
+      style: Stil
+      normal: Normal
+      blockquote: Alıntı
+      pre: Kod
+      h1: Başlık 1
+      h2: Başlık 2
+      h3: Başlık 3
+      h4: Başlık 4
+      h5: Başlık 5
+      h6: Başlık 6
+    lists:
+      unordered: Madde işaretli liste
+      ordered: Numaralı liste
+    options:
+      help: Yardım
+      fullscreen: Tam ekran
+      codeview: Kod görünümü
+    paragraph:
+      paragraph: Paragraf
+      outdent: Girintiyi azalt
+      indent: Girintiyi artır
+      left: Sola hizala
+      center: Ortala
+      right: Sağa hizala
+      justify: İki yana yasla
+    color:
+      recent: Son kullanılan renk
+      more: Diğer renkler
+      background: Arka plan rengi
+      foreground: Metin rengi
+      transparent: Saydam
+      set_transparent: Saydam yap
+      reset: Sıfırla
+      reset_to_default: Varsayılana sıfırla
+    shortcut:
+      shortcuts: Klavye kısayolları
+      close: Kapat
+      text_formatting: Metin biçimlendirme
+      action: Eylem
+      paragraph_formatting: Paragraf biçimlendirme
+      document_style: Belge stili
+      extra_keys: Ek tuşlar
+    history:
+      undo: Geri al
+      redo: Yinele
+  invite:
+    invite_user: Kullanıcı davet et
+    description: Kullanıcıları sizinle dosya paylaşmaya davet edebilirsiniz. Bilgilerini girdiğinizde, kaydı tamamlamaya yönelik talimatların bulunduğu bir e-posta alırlar.
+    send_invite: Davet gönder
+    name_placeholder: Ad soyad
+    invitation_sent: Davet gönderildi
+    not_permitted_to_invite_users: Kullanıcı davet etme izniniz yok.
+    invalid_email: Geçersiz e-posta adresi
+  link:
+    show:
+      set_password: Parola belirle
+      download: İndir
+      downloads_and_info: Tüm indirmeler ve daha fazla bilgi
+    authenticate:
+      show:
+        title: FileLink parolası
+        authenticate: Kimliği doğrula
+        require_authentication: Bu FileLink'i açmak için gerekli parolayı girmeniz gerekir.
+      create:
+        authentication_failed: Kimlik doğrulama başarısız oldu.
+    downloads:
+      index:
+        back_to_filelink: FileLink'e geri dön
+    link_downloads:
+      latest_downloads: Son indirmeler (toplam %{total} indirmeden %{count} tanesi)
+  menu:
+    shares: Share
+    messages: Mesajlar
+    send_files: Oluştur
+    users: Kullanıcılar
+    active_transfers: Etkin aktarımlar
+    configuration: Yapılandırma
+    system: Sistem
+    message_list: Mesaj listesi
+    settings: Ayarlar
+    admin: Yönetim
+    account: Hesap
+    inbox: Gelen kutusu
+    sent_messages: Gönderilenler
+    downloads: İndirme günlüğü
+    filelink: FileLink
+    secure_messages: Güvenli mesajlar
+    support: Destek
+  message:
+    message_sent: Mesaj gönderildi
+    not_found: Mesaj bulunamadı
+    message_not_found_header: Mesaj bulunamadı!
+    message_not_found_description: Lütfen gönderenden bu mesajı yeniden göndermesini isteyin.
+    previous_recipients: Önceki alıcılar
+    contacts: Kişiler
+    is_not_permitted: izin verilmiyor
+    not_permitted_to_delete_messages: Mesaj silme izniniz yok
+    is_not_in_any_of_the_allowed_domains: izin verilen etki alanlarının hiçbirinde değil
+    is_not_in_any_of_the_allowed_groups: izin verilen grupların hiçbirinde değil
+    attach_1_file: En az bir dosya eklemelisiniz
+    too_many_files: Çok fazla dosya eklediniz. Bir mesaja en fazla %{count} dosya ekleyebilirsiniz.
+    attached_files: Ekli dosyalar
+    expired: Mesajın süresi doldu
+    authorize:
+      show:
+        title: Güvenli mesajı açmak için oturum açın
+        authenticate_description_html: Güvenli bir mesajı görüntülemek üzeresiniz. Önce oturum açmanız gerekir. Devam etmek için lütfen e-posta adresinizi girin veya oturum açın.<br>Bu sistemde hesabınız yoksa e-posta adresinizi girin; adresinizi doğrulamanız için size güvenli bir bağlantı göndereceğiz.
+        unauthenticated_html: <h4>Geçersiz kullanıcı adı veya parola</h4><p>Lütfen kullanıcı adınızı ve parolanızı girin. Aşağıdaki Parolayı sıfırla düğmesiyle parolanızı sıfırlayabilirsiniz.</p>
+        unauthorized_to_view_check_email_html: <h4>Yetkisiz e-posta adresi</h4><p>Lütfen güvenli mesajın [<span class="font-monospace fw-bold">%{message_id}</span>] size gönderildiğini kontrol edin ve e-posta adresini mesajın gönderildiği şekilde tam olarak girin.</p><p>Örneğin adresiniz hem ahmet.yilmaz@sirket.com.tr hem de ayilmaz@sirket.com.tr olabiliyorsa, sistem bunların aynı adres olduğunu bilemez. Güvenli mesaj ahmet.yilmaz@sirket.com.tr adresine gönderildiyse burada girmeniz gereken adres budur.</p><p>Emin değilseniz lütfen güvenli mesajın göndereniyle iletişime geçin.</p>
+    errors:
+      not_authorized_to_view_message: "Şu kimliğe sahip mesajı görüntüleme yetkiniz yok: %{message_id}. Lütfen bu mesajın size gönderildiğini kontrol edin."
+      private_message_requires_authentication: Özel mesajlar kimlik doğrulama gerektirir
+    attachments:
+      download_attachment_details_csv: Ek ayrıntılarını indir (CSV)
+      attachment:
+        fileinfo: Dosya bilgileri
+        file_size: Dosya boyutu
+        content_type: İçerik türü
+        checksum: Sağlama toplamı
+        virus_status: Virüs durumu
+    compose:
+      options_permission:
+        authentication_required: Kimlik doğrulama gerekli
+        authentication_not_required: Kimlik doğrulama gerekli değil
+        require_authentication_description: Alıcıların bu mesajı açmak için kimlik doğrulaması yapması gerekiyor mu?
+        access_restriction_html: Erişim kısıtlaması<br><small class="text-muted">Bu mesaja kim erişebilir?</small>
+        recipients_only_html: Yalnızca<br>alıcılar
+        recipients_plus_locals_html: Alıcılar<br>+ yerel kullanıcılar
+        recipients_plus_domains_html: Alıcılar<br>+ etki alanları
+        anyone_secret_link_html: Herkes<br>(gizli bağlantı)
+    unavailable:
+      header: Mesaj kullanılamıyor
+      description: Bu mesajın süresi doldu, silindi, mevcut değil veya artık kullanılamıyor. Lütfen gönderenden mesajı yeniden göndermesini isteyin.
+    downloads:
+      index:
+        download_log_title: İndirme günlüğü
+        message_id: Mesaj kimliği
+        paginator_entry_name: İndirmeler
+      download:
+        details: Ayrıntılar
+      not_found:
+        title: Mesaj veya indirme bulunamadı
+        description_html: Mesaj veya indirme bulunamadı ya da bunları görüntüleme izniniz yok
+    temporary_user:
+      create:
+        invalid_temporary_user: Geçersiz parola. Lütfen geçici parolanızın bulunduğu e-postayı kontrol edin veya yeni bir geçici parola isteyin.
+        temporary_user_expired: Bu geçici parolanın süresi doldu. E-posta adresinize yeni bir geçici parola gönderildi. Lütfen gelen kutunuzu kontrol edin ve yeni geçici parolayı kullanın.
+        not_authorized_to_view_message: "Şu kimliğe sahip mesajı görüntüleme yetkiniz yok: %{message_id}. Lütfen bu mesajın size gönderildiğini kontrol edin."
+      show:
+        title: Geçici parolanızı girin
+        description_html: "Güvenli bir mesajı görüntülemek üzeresiniz. Mesajı açmak için geçici parolanızı girmeniz gerekir.<br>Geçici parola, sizi tanımlayan benzersiz ve rastgele bir dizedir. Geçici parola size ayrı bir e-postayla gönderildi (konu: Geçici parola)."
+        what_is_this: Bu nedir?
+        login: Oturum aç
+        submit: Geçici parolayı doğrula
+        submit_email: Gönder
+        if_you_have_account: "(zaten hesabınız varsa)"
+        request_temporary_user_header: Yeni geçici parola iste
+        request_temporary_user_description_html: Bu mesajı açmak için yeni bir geçici parola isteyebilirsiniz. Bu güvenli mesaj için yeni bir geçici parola istemek üzere e-posta adresinizi aşağıya girin.
+        info_header: Geçici parola hakkında bilgi
+        info_body_html: "<p>Geçici parola, sayı ve harflerden oluşan benzersiz bir dizidir, örneğin:</p><pre><code>3ynp-7FKa-pZS9</code></pre><p><em>Bu geçici parola yalnızca nasıl göründüğünü gösteren bir örnektir – kullanılamaz.</em></p><p>Gelen kutunuzda <strong>iki e-posta</strong> bulacaksınız: biri güvenli mesajı içeren, diğeri ise <strong>konusu şununla başlayan: Geçici parola</strong>. İkincisi, bu sistem için benzersiz geçici parolanızı içerir.</p><p>Geçici parola içeren bir e-posta almadıysanız bu sistemde zaten bir hesabınız olabilir. Bu durumda “Oturum aç” seçeneğine tıklayın.</p><p>Geçici parola almanız gerektiğini düşünüyor ancak almadıysanız yeni bir tane almak için “Geçici parola iste” seçeneğine tıklayın.</p>"
+        email_address: E-posta adresi
+        email_not_permitted: Bu e-posta adresinin bu güvenli mesajı görüntüleme izni yok.
+        email_not_permitted_description_html: <p>Lütfen aldığınız güvenli mesaj e-postasını kontrol edin ve e-posta adresini mesajın gönderildiği şekilde tam olarak girin.</p><p>Örneğin adresiniz hem ahmet.yilmaz@sirket.com.tr hem de ayilmaz@sirket.com.tr olabiliyorsa, sistem bunların aynı adres olduğunu bilemez. Güvenli mesaj ahmet.yilmaz@sirket.com.tr adresine gönderildiyse burada girmeniz gereken adres budur.</p><p>Emin değilseniz lütfen güvenli mesajın göndereniyle iletişime geçin.</p>
+        email_can_login: Bu sistemde zaten bir hesabınız var
+        email_can_login_description_html: <p>Bu e-posta adresi ve parolanızla bu sistemde oturum açabilirsiniz.</p><p>Mevcut hesabınızla oturum açmak için aşağıdaki Oturum aç düğmesine tıklayın.</p>
+        temporary_user_delivered_header: Geçici parola gönderildi
+        temporary_user_delivered_description_html: <p>E-posta adresinize geçici bir parola gönderildi. Lütfen gelen kutunuzu kontrol edin, bu pencereyi kapatın ve geçici parolayı girin.</p>
+    reply:
+      re: "Ynt:"
+      wrote: yazdı
+      show:
+        title: Güvenli mesajı yanıtla
+        from: Kimden
+        reply: Yanıtla
+        reply_all: Tümünü yanıtla
+      options:
+        options_description: Tüm seçeneklerin özgün mesajdan alındığını unutmayın.
+    show:
+      back: Geri
+      message_header: Mesaj üst bilgisi
+      reply: Yanıtla
+  messages:
+    sent:
+      skipped_file_not_found: Atlandı - dosya bulunamadı
+      show:
+        sent_title: Gönderilenler
+        sent_description: Gönderdiğiniz mesajlar
+        paginator_entry_name: mesaj
+    attachments:
+      download_cmd:
+        unauthorized:
+          header: Yetkisiz
+          body: Bu dosyayı indirme yetkiniz yok. Lütfen gönderenden dosyayı size yeniden göndermesini isteyin.
+          back: Geri
+        exceeded:
+          header: İndirme sınırı aşıldı
+          body: Bu dosyanın indirme sınırı aşıldı. Lütfen gönderenden dosyayı size yeniden göndermesini isteyin.
+          back: Geri
+    download_zip:
+      unauthorized:
+        header: Yetkisiz
+        body: Bu arşivi indirme yetkiniz yok. Lütfen gönderenden dosyayı size yeniden göndermesini isteyin.
+        back: Geri
+      exceeded:
+        header: İndirme sınırı aşıldı
+        body: Bu arşivdeki bir veya daha fazla dosyanın indirme sınırı aşıldı. Lütfen gönderenden dosyayı size yeniden göndermesini isteyin.
+        back: Geri
+    message:
+      reply: Yanıtla
+      reply_all: Tümünü yanıtla
+  models:
+    user:
+      no_need_to_create_local_user: Yerel kullanıcı oluşturmaya gerek yok
+      license_exceeded: Lisans sınırı aşıldı
+  notifier:
+    activate_user_subject: "[%{hostname}] Hesap etkinleştirme"
+    user_activation: Kullanıcı etkinleştirme
+    please_visit_the_following_url_to_activate: Hesabınızı etkinleştirmek için lütfen aşağıdaki bağlantıya tıklayın
+    the_following_files_are_attached: Bu mesaja aşağıdaki dosyalar eklendi
+    please_visit_the_following_url: Ekleri indirmek için lütfen bu bağlantıya tıklayın
+    attachments_are_available: Ekler şu tarihe kadar kullanılabilir
+    message_id: "Mesaj kimliği: %{id}"
+    email_password_reset_subject: Parola sıfırlama
+    download_receipt_subject: "İndirme bildirimi [ID: %{message_id}]"
+    a_file_that_you_sent: Gönderdiğiniz bir dosya indirildi. Bu e-postayı indirmenin kanıtı olarak saklayın.
+    recipient: Alıcı
+    filename: Dosya adı
+    time_of_download: İndirme zamanı
+    downloaded_from: İndirildiği yer
+    download_receipt: İndirme bildirimi
+    user_created:
+      account_created: Hesap oluşturuldu
+      subject: "[%{hostname}] Hesap oluşturuldu"
+      message: "Sizi bekleyen güvenli bir ek var. Eki almak için kimlik doğrulaması yapmanız gerekir. Kaydolmak için lütfen aşağıdaki bağlantıya tıklayın:"
+  outlook:
+    messages:
+      new:
+        attachments_header: Ekler
+        attachments_hint: Dosyaları aşağıdaki alana sürükleyerek veya Dosya ekle düğmesine tıklayarak ekleyebilirsiniz.
+        add_to_message: Mesaja ekle
+      attachments:
+        attach_files: Dosya ekle
+        drop_files_here: Dosyaları buraya bırakın...
+      options:
+        recipients_can_reply: Alıcılar yanıt verebilir
+        send_copy_to_myself: Kendime kopya gönder
+        private_message: Özel mesaj
+        private_message_required_auth_error: Özel mesaj gönderirken “Kimlik doğrulama gerekli” modunu kullanmalısınız.
+      options_authorization:
+        authentication_authorization_title_html: Kimlik doğrulama &amp; yetkilendirme
+        authentication_select_title: Kimlik doğrulamayı seçin
+        authentication_required: Kimlik doğrulama gerekli
+        authentication_not_required: Kimlik doğrulama gerekli değil
+        authorization_select_title: Yetkilendirmeyi seçin
+        recipients_only: Yalnızca alıcılar
+        recipients_locals: Alıcılar + yerel kullanıcılar
+        recipients_domains: Alıcılar + etki alanları
+        anyone: Herkes (gizli bağlantı)
+      options_expiration:
+        message_expires: Mesajın sona ermesi
+        message_expires_after: Mesajın sona erme süresi
+  pagination:
+    first: "&laquo; İlk"
+    last: Son &raquo;
+    previous: "&lsaquo; Önceki"
+    next: Sonraki &rsaquo;
+    truncate: "&hellip;"
+  requests:
+    title: Dosya isteği
+    file_request: Dosya isteği
+    files_sent: Dosyalar gönderildi, teşekkürler!
+    request_file: Dosya iste
+    file_requests: Dosya istekleri
+    description: Dosya isteğiyle birinden size dosya göndermesini isteyebilirsiniz. Bilgileri girdiğinizde kişi, istenen dosyaları size gönderebileceği benzersiz bir bağlantı içeren bir e-posta alır.
+    file_request_not_found: Dosya isteği bulunamadı
+    file_request_expired: Dosya isteğinin süresi doldu
+    file_request_already_used: Dosya isteği zaten kullanıldı
+    file_request_sent: Dosya isteği gönderildi
+    not_permited: Dosya isteği işlevini kullanma izniniz yok
+    multiuse: Çoklu kullanım - bu istek bağlantısı birden çok kez kullanılabilir
+    invalid_recipient: Geçersiz alıcı, bu dosya isteği başka birine gönderildi
+    invalid_user: Bu sizin dosya isteğiniz değil
+    index:
+      title: Dosya istekleri
+      new_file_request: Yeni dosya isteği
+      multiuse: Çoklu kullanım
+      responded_to: Yanıtlandı
+      hide_expired: Süresi dolmuş ve kullanılmış olanları gizle
+      show_expired: Süresi dolmuş ve kullanılmış olanları göster
+    request:
+      resend: Yeniden gönder
+      are_you_sure_you_want_to_delete: Bu dosya isteğini silmek istediğinizden emin misiniz?
+    popup:
+      from: Kimden
+      to: Kime
+      subject: Konu
+      message: Mesaj
+    resend:
+      request_resent: Dosya isteği yeniden gönderildi
+    new:
+      request_expires: İsteğin sona ermesi
+  send:
+    send: Gönder
+    sent: Gönderildi
+    recipients: Kime
+    send_as: Şu kimlikle gönder
+    you_can_only_send_files_to_yourself: Yalnızca kendinize dosya gönderebilirsiniz
+    subject: Konu
+    subject_placeholder: Konu
+    attachments: Ekler
+    max_file_size: "En büyük ek boyutu: %{filesize} MB"
+    upload_queue: Yükleme kuyruğu
+    remove: Kaldır
+    cancel_all: Tümünü iptal et
+    cancel_all_uploads: Tüm yüklemeleri iptal et
+    message: Mesaj
+    message_placeholder: Mesaj
+    done_editing_please_send: Düzenlemeyi bitirdim, tüm yüklemeler tamamlandığında dosyaları gönder
+    files_sent_successfully: Dosyalar başarıyla gönderildi
+    you_need_at_least_one_recipient: En az bir alıcı gerekir
+    you_need_at_least_one_attachment: En az bir ek gerekir
+    options: Seçenekler
+    cc: Bilgi
+    bcc: Gizli
+    bcc_message_description: Gizli alıcılar diğer alıcılara görünmez
+    add_cc: bilgi ekle
+    add_bcc: gizli ekle
+    bcc_myself: Kendime kopya gönder
+    require_login: Dosyaları indirmek için oturum açmayı zorunlu kıl
+    only_specified_recipients_can_download: Ekleri yalnızca belirtilen alıcılar indirebilir
+    anyone_can_download: Ekleri herkes indirebilir
+    expires_in: Ekler şu süre boyunca indirilebilir
+    expires_at: Eklerin sona erme tarihi
+    send_options: Gönderme seçenekleri
+    to: Kime
+    from: Kimden
+    filename: Dosya adı
+    filesize: Dosya boyutu
+    downloaded_at: İndirilme tarihi
+    message_sent: Mesaj gönderildi
+    message_expires: Mesajın sona ermesi
+    message_expires_after: Mesajın sona erme süresi
+    message_expires_after_description: Bu, dosya başına hesaplanır. 1 indirmeden sonra sona eren 2 dosya gönderirseniz her alıcı her dosyayı bir kez indirebilir.
+    downloads_per_recipient: Alıcı başına indirme
+    total_downloads: Toplam indirme
+    file_not_downloaded: Hiçbir ek indirilmedi
+    at_least_one_invalid_extension: Eklerden en az birinin uzantısı geçersiz
+    invalid_filetype: Geçersiz uzantı
+    blocked_extension: "Geçersiz uzantı. Şu uzantılara sahip dosyaları gönderemezsiniz: %{extensions}"
+    permitted_extensions: "İzin verilen uzantılar: %{filetypes}"
+    already_selected: Bu dosya zaten seçildi
+    maximum_filesize_exceeded: En büyük dosya boyutu aşıldı
+    contains_virus: "%{filename} VİRÜS içeriyor: %{virus}"
+    limited_by_browser: Tarayıcı tarafından sınırlı
+    limited_by_disk: Disk alanı tarafından sınırlı
+    limited_by_system_quota: Sistem kotası tarafından sınırlı
+    limited_by_group_quota: Grup kotası tarafından sınırlı
+    limited_by_quota: Kota tarafından sınırlı
+    limited_per_message: Mesaj başına sınır
+    system_quota_exceeded: Sistem kotası aşıldı
+    group_quota_exceeded: Grup kotası aşıldı
+    quota_exceeded: Kota aşıldı
+    no_available_quota: Kota aşıldı, devam etmek için lütfen bazı dosyaları silin
+    not_authorized_to_send: "%{email} adresine gönderme yetkiniz yok"
+    public_url: Genel URL
+    message_url: Mesaj URL'si
+    authorization: Yetkilendirme
+    insufficient_disk_space: Yetersiz disk alanı
+    active_transfers: Etkin aktarımlar
+    view_log: Günlüğü görüntüle
+    previously_sent_attachments: Daha önce gönderilen ekler
+    has_not_downloaded: "%{recipient} henüz hiçbir dosya indirmedi"
+    authentication: Kimlik doğrulama
+    required: Gerekli
+    disabled: Devre dışı
+    require_authentication_tooltip_html: <li>Alıcının dosyayı indirmek için kullanıcı adı ve parolayla oturum açması gerekir.</li> <li>Dosya indirildiğinde bir bildirim alırsınız.</li>
+    dont_require_authentication_tooltip_html: <li>Alıcıdan dosyayı indirmek için oturum açması istenmez.</li> <li>Dosya indirildiğinde bir bildirim alırsınız, ancak kimin indirdiğini öğrenemezsiniz (bu bilinmez).</li> <li>Yalnızca ilk alıcı dosyayı indirdiğinde bildirim alırsınız.</li>
+    authenticate_link_description: Bu FileLink'i açmadan önce oturum açmanız gerekir.
+    unauthorized: Bu mesajı görüntüleme yetkiniz yok.
+    unauthenticated: Hatalı parola
+    incorrect_login_or_demo: Hatalı parola veya lisans sınırına ulaşıldı
+    email_authorization_message: Teşekkürler. Bunun sizin e-posta adresiniz olduğunu doğrulamak için size doğrulama kodu içeren bir e-posta gönderdik. Mesaja gitmek için doğrulama kodunu aşağıya girin veya e-postadaki bağlantıya tıklayın.
+    email_authorization_link: Teşekkürler. Bunun sizin e-posta adresiniz olduğunu doğrulamak için size doğrulama kodu içeren bir e-posta gönderdik. FileLink'e gitmek için e-postadaki doğrulama kodunu aşağıya girin veya e-postadaki bağlantıya tıklayın.
+    email_authorization_message_create_account: Teşekkürler. Bu sistemde hesabınız olmadığından, bunun sizin e-posta adresiniz olduğunu doğrulamak için size doğrulama kodu içeren bir e-posta gönderdik. Adresinizi doğrulamak için doğrulama kodunu aşağıya girin veya e-postadaki bağlantıya tıklayın. Ardından bir hesap oluşturmanız istenecek ve mesaja yönlendirileceksiniz.
+    email_authorization_link_create_account: Teşekkürler. Bu sistemde hesabınız olmadığından, bunun sizin e-posta adresiniz olduğunu doğrulamak için size doğrulama kodu içeren bir e-posta gönderdik. Adresinizi doğrulamak için e-postadaki doğrulama kodunu aşağıya girin veya e-postadaki bağlantıya tıklayın. Ardından bir hesap oluşturmanız istenecek ve FileLink'e yönlendirileceksiniz.
+    authorize: Yetkilendir
+    authenticate: Oturum aç
+    sending: Gönderiliyor...
+    abort_transfer: Aktarımı iptal et
+    files_to_big: Dosya(lar) çok büyük
+    only_specified_recipients: Yalnızca belirtilen alıcılar erişebilir
+    only_specified_recipients_and_local_users: Yalnızca belirtilen alıcılar ve yerel kullanıcılar erişebilir
+    only_specified_recipients_and_domains: Yalnızca belirtilen alıcılar ve onların etki alanındaki kullanıcılar erişebilir
+    anyone_after_authentication: Herkes erişebilir (rastgele bağlantıya sahipse)
+    no_recipient_validation: Alıcı doğrulaması yok
+    anyone_can_access: Herkes erişebilir
+    anyone: Herkes
+    no_authentication: Kimlik doğrulama yok
+    can_download: indirebilir
+    not_yet_scanned: virüslere karşı taranıyor, lütfen biraz sonra yeniden deneyin. Kuyrukta %{queue}
+    was_infected: "%{virus} virüsü bulaşmıştı ve silindi"
+    deleted_or_expired: Silindi veya süresi doldu
+    im_done_editing: Geçerli yüklemeler tamamlandığında otomatik gönder
+    download_all: Tümünü indir
+    zipped_archive: ZIP arşivi
+    message_id: Mesaj kimliği
+    overall_progress: Genel ilerleme
+    abort: İptal et
+    limitations: Sınırlamalar
+    max_size: En büyük boyut
+    add_files: Dosya ekle...
+    add_folder: Klasör ekle...
+    no_attachment_added: Ek eklenmedi
+    you_need_to_add_at_least_one_file: En az bir dosya eklemelisiniz.
+    private_message_or_attached_files: Özel mesajı etkinleştirmeli veya en az bir dosya eklemelisiniz.
+    no_runtime_found: Çalışma ortamı bulunamadı, dosyalar yüklenemiyor
+    runtime_check_title: Çalışma ortamı bulunamadı
+    selected: seçildi
+    file_size_error: Dosya boyutu hatası
+    remaining: kalan
+    attached_files: Ekli dosyalar
+    show_message: Mesajı göster
+    can_be_max: en fazla %{days} gün sonrası olabilir
+    not_ready: Henüz indirmeye hazır değil
+    download_info: İndirme bilgileri
+    browser: Tarayıcı
+    platform: Platform
+    operating_system: İşletim sistemi
+    location: Konum
+    download_details: İndirme ayrıntıları
+    download_information_not_found: İndirme bilgileri bulunamadı.
+    add: Ekle
+    select_existing_files: Mevcut dosyaları seç
+    add_existing_files: Mevcut dosyaları ekle
+    add_existing_description: Bu dosyalar daha önce gönderildi ve yeniden gönderebilirsiniz.
+    zip_disabled: ZIP devre dışı
+    zip_disabled_description_exceeded: En az bir ek için en fazla indirme sayısı aşıldı.
+    spinner_info_html: <strong>Mesajınız gönderilmeye hazır</strong>. Bazı dosyalar hâlâ arka planda işleniyor, ancak beklemenize gerek yok. <strong>Hazır olduğunuzda Gönder'e basın!</strong>
+    sent_to_you: Size gönderilenler
+    excluding_admins: Yöneticiler hariç
+    downloads: İndirmeler
+    download_log: İndirme günlüğü
+    delete_attachments: Ekleri sil
+    delete_message: Mesajı sil
+    delete_attachments_warning: Ekleri silmek istediğinizden emin misiniz?
+    delete_message_warning: Mesajı silmek, ekli dosyaları ve indirme günlüğünü de siler. Mesajı silmek istediğinizden emin misiniz?
+    invalid_message: Geçersiz mesaj
+    message_deleted: Mesaj silindi
+    attachments_deleted: Ekler silindi
+    checksum: Sağlama toplamı (SHA256)
+    not_permitted_to_send_messages: Mesaj gönderme izniniz yok.
+    invalid_group_belonging: Göndermeye izin verilmiyor (geçersiz grup). Harici kullanıcı olarak kayıtlısınız, ancak e-posta adresiniz kısıtlı alıcı etki alanları arasında da bulunan %{domain} etki alanına ait. Harici kullanıcılar için buna izin verilmez. Devam etmek için lütfen sistem yöneticisinden sizi başka bir gruba taşımasını isteyin.
+    expires_after_exceeded: İndirme sayısı aşıldı
+    expires_after_exceeded_for_zip: ZIP arşivindeki en az bir dosya için indirme sayısı aşıldı
+    permission_description_title: Erişim kısıtlamaları
+    permission_description_only_specified_html: <ul> <li>Mesaja yalnızca belirtilen alıcılar erişebilir ve dosyaları indirebilir.</li> <li>E-postanın veya URL'nin başkasına iletilmesine izin verilmez.</li> <li>Alıcıların mesajı açmak ve dosyaları indirmek için oturum açması gerekir.</li> <li>Her dosyanın her indirilmesinde ayrıntılı bilgi içeren bir indirme bildirimi gönderilir.</li> </ul>
+    permission_description_only_specified_and_local_html: <ul> <li>Dosyaları yalnızca belirtilen alıcılar ve yerel kullanıcılar indirebilir.</li> <li>E-posta veya URL yalnızca yerel kullanıcılara iletilebilir.</li> <li>Alıcıların dosyaları indirmek için oturum açması gerekir.</li> <li>Her dosyanın her indirilmesinde ayrıntılı bilgi içeren bir indirme bildirimi gönderilir.</li> </ul>
+    permission_description_only_specified_and_domains_html: <ul> <li>Yalnızca belirtilen alıcılar ve aynı e-posta etki alanındaki kullanıcılar erişebilir.</li> <li>mudur@ortak.com.tr adresine gönderirseniz sekreter@ortak.com.tr de mesaja erişebilir, ancak merakli@rakip.com.tr erişemez.</li> <li>Alıcıların dosyaları indirmek için oturum açması gerekir.</li> <li>Her dosyanın her indirilmesinde ayrıntılı bilgi içeren bir indirme bildirimi gönderilir.</li> </ul>
+    permission_description_anyone_after_authentication_html: <ul> <li>Gizli, rastgele URL'ye sahip olan herkes dosyaları indirebilir.</li> <li>E-posta veya URL herkese iletilebilir.</li> <li>Alıcıların dosyaları indirmek için oturum açması gerekir.</li> <li>Her dosyanın her indirilmesinde ayrıntılı bilgi içeren bir indirme bildirimi gönderilir.</li> </ul>
+    permission_description_anyone_html: <ul> <li>Gizli, rastgele URL'ye sahip olan herkes dosyaları indirebilir.</li> <li>E-posta veya URL herkese iletilebilir.</li> <li>Dosyaları indirmek için oturum açmak <strong>gerekmez</strong>.</li> <li>Herhangi birinin ilk indirmesinde <strong>temel</strong> bir indirme bildirimi gönderilir (kimin neyi indirdiğini bilmek için kimlik doğrulama gerekir).</li> </ul>
+    your_message_has_been_sent: Mesajınız gönderildi
+    you_can_send_to_anyone: "(Bu bağlantıyı herkese gönderebilirsiniz)"
+    send_more_files: Daha fazla dosya gönder
+    download_speed: İndirme hızı
+    download_time: İndirme süresi
+    at_least_one_invalid_email: En az bir geçersiz e-posta adresi
+    reply: Alıcı yanıt verebilir
+    private_message: Özel mesaj
+    private_message_description_html: Özel mesajda mesajınızın metni alıcıya e-postayla gönderilmez – yalnızca alıcı e-postadaki bağlantıya tıklayıp kimlik doğrulaması yaptığında görünür. <ul> <li>Ek olmadan özel mesaj gönderebilirsiniz.</li> <li>Biri mesajınızı görüntülediğinde bir erişim bildirimi alırsınız.</li> <li>“Herkes indirebilir” indirme izniyle özel mesaj gönderemezsiniz.</li> </ul>
+    private_message_delivered_description: Mesaj özel mesaj olarak gönderildi. Mesaj metni e-postada yer almaz ve her alıcı mesajı görüntülediğinde bir erişim bildirimi alırsınız.
+    access_info: Erişim bilgileri
+    access_details: Erişim ayrıntıları
+    validation_code: Doğrulama kodu
+    expired_token_inline: E-posta ile kimlik doğrulamanın süresi doldu, lütfen yeniden deneyin.
+    invalid_token: Geçersiz veya süresi dolmuş kod. E-posta adresinizi yeniden doğrulamak için lütfen özgün e-postadaki bağlantıya tıklayın.
+    download_zip: ZIP indir
+    zip_ready_for_download: ZIP indirmeye hazır
+    processing_zip: ZIP dosyası işleniyor
+    drop_file_here: Dosyayı buraya bırakın
+    drop_files_here: Dosyaları buraya bırakın
+    drop_files_and_folders_here: Dosyaları ve klasörleri buraya bırakın
+    select_pool_files: Havuzdan dosya seç
+    add_pool_files: Havuzdan dosya ekle
+    invalid_validation_token: Bu geçerli bir doğrulama kodu değil.
+    not_the_validation_token: Bu, doğrulama kodu değil mesaj kimliğidir. Lütfen doğrulama kodunu girin.
+    no_messages_in_inbox: Gelen kutusunda mesaj yok.
+    filename_already_selected: Bu ada sahip bir dosya bu mesaja zaten eklendi
+    filesize_exceeded: En büyük mesaj boyutu aşıldı
+    infected_with: Bulaşan virüs
+    not_permitted_to_download_content_blocked: "Bu dosyanın indirilmesine izin verilmiyor. Virüs taraması şunu algıladı: %{virus}"
+    invalid_email_address: Geçersiz e-posta adresi
+    cant_create_folder: Klasör oluşturulamıyor
+    cant_check_folder: Klasör kontrol edilemiyor
+    cant_restore_folder: Klasör geri yüklenemiyor
+    cant_check_chunks: Parçalar kontrol edilemiyor
+    zip_not_include_all_files: Tüm dosyalar indirilemiyor – ZIP yalnızca indirilebilen dosyaları içerecek.
+    paste_tip: İpucu! Biçimlendirmeyi kaldırmak için Ctrl+Shift+V ile yapıştırın.
+  session:
+    api:
+      authentication_error: Kimlik doğrulama hatası, lütfen yeniden deneyin.
+      not_local_user: Geçersiz e-posta adresi. Bu işlevi yalnızca yerel kullanıcılar kullanabilir.
+      show:
+        login: Oturum aç
+        login_label: E-posta adresi
+        password: Parola
+        sso_login: SSO ile oturum aç
+        authentication_title: Oturum aç
+        authentication_description: Devam etmek için lütfen e-posta adresinizi girin veya oturum açın.
+      authenticated:
+        authentication_successful: Kimlik doğrulama başarılı
+    authenticate:
+      login: Devam etmek için oturum açın
+      description_html: Bu sayfayı açmak için oturum açmanız gerekir. Devam etmek için lütfen e-posta adresinizi girin veya oturum açın.<br>Bu sistemde hesabınız yoksa e-posta adresinizi girin; size e-postayla geçici bir parola göndereceğiz.
+      unauthorized: Bu mesajı görüntüleme yetkiniz yok. Lütfen e-posta adresinizi mesajın size gönderildiği şekilde tam olarak girin veya gönderenle iletişime geçin.
+    email:
+      validate_email: E-posta adresinizi doğrulayın
+      validate_email_description_html: "E-posta adresinize bir güvenlik kodu gönderildi: <strong>%{email}</strong>. Adresinizi doğrulayıp devam etmek için bağlantıya tıklayın veya güvenlik kodunu buraya girin."
+      session_expired: Oturumun süresi doldu, devam etmek için lütfen e-posta adresinizi yeniden girin
+      token_expired: E-postadaki kimlik doğrulama bağlantısının süresi doldu, lütfen yeniden deneyin.
+      already_authenticated: Bu tarayıcıda zaten oturum açtınız.
+      resend_validation_email: Doğrulama e-postasını yeniden gönder
+      verify: Doğrula
+      validate_email_sent: "Yeni bir doğrulama e-postası gönderildi: %{time}. E-posta adresinizi doğrulamak için e-postadaki bağlantıya tıklayın veya güvenlik kodunu aşağıya girin."
+      invalid_temporary_user: Geçersiz güvenlik kodu. Lütfen e-postanızı kontrol edin – gelen kutunuza yeni bir güvenlik kodu gönderildi.
+      create_account: Hesap oluştur
+      create_account_description: Güvenlik kodu yerine e-posta adresiniz ve parolanızla oturum açabilmek için bu sistemde bir hesap oluşturun.
+      invalid_email: Geçersiz e-posta adresi
+    login_limit_exceeded:
+      delivered:
+        page_header: Oturum açma sınırı aşıldı
+        description: Çok fazla kez oturum açmayı denediniz. Devam etmek için parolanızı sıfırlamanız gerekir.
+        email: Parolanızı sıfırlamak için bağlantı içeren bir e-posta gönderildi.
+      waiting:
+        page_header: Oturum açma sınırı aşıldı
+        description: "Çok fazla kez oturum açmayı denediniz. Not: ağ parolanızla oturum açmanız gerekir. Parolanızı sıfırlamanız gerekiyorsa ve nasıl yapacağınızı bilmiyorsanız lütfen bir ağ yöneticisiyle iletişime geçin. Bekleme süresi dolduktan sonra sınırı sıfırlamak için bu sayfayı yeniden yükleyebilirsiniz."
+        expiration_time: Bekleme süresi
+        reload: Yeniden yükle
+      show:
+        page_header: Oturum açma sınırı aşıldı
+        description: Çok fazla kez oturum açmayı denediniz. Oturum açma sınırını sıfırlayıp yeniden oturum açabilirsiniz. Sınırı sıfırlamanız için size bir e-posta gönderildi.
+      reset:
+        login_limit_reset: Oturum açma sınırı sıfırlandı
+    shared:
+      authentication_successful: Kimlik doğrulama başarılı
+    outlook:
+      edit:
+        authentication_title: Kimlik doğrulama
+        authentication_description: Devam etmek için lütfen oturum açın
+        login: Oturum aç
+        login_label: E-posta adresi
+        password: Parola
+        sso_login: SSO ile oturum aç
+      show:
+        authentication_title: Kimlik doğrulama
+        authentication_description: Güvenli dosya eklemek için lütfen oturum açın.
+        authenticate: Kimliği doğrula
+    saml:
+      not_configured:
+        title: SAML yapılandırılmadı
+        description: Bu sistemde SAML yapılandırılmadı. Bunun bir hata olduğunu düşünüyorsanız incelenmesi için lütfen destek ekibiyle iletişime geçin.
+        support_button: Destek ile iletişime geç
+      api:
+        local:
+          title: SAML kimlik doğrulaması
+          description: SAML kimlik doğrulaması varsayılan tarayıcınızda başlatıldı – lütfen oturum açma işlemine orada devam edin. Pencereyi bulamazsanız veya herhangi bir nedenle çalışmazsa aşağıdaki düğmeye tıklayarak devam edebilirsiniz.
+          button_label: SSO ile oturum aç
+      response:
+        api_error:
+          authentication_error: Kimlik doğrulama başarısız oldu
+          saml_authentication_error: SSO kimlik doğrulaması başarısız oldu
+          saml_authentication_error_description: SSO kimlik doğrulaması başarısız oldu. Sorun devam ederse lütfen yöneticiyle iletişime geçin.
+        api_disabled:
+          api_disabled: Yetkisiz kullanıcı grubu
+          api_disabled_description: Hesabınızın bu işleve erişimi yok (API devre dışı). Lütfen bir yöneticiyle iletişime geçin ve hesabınızı başka bir gruba taşımasını isteyin.
+        api_response:
+          authentication_successful: Kimlik doğrulama başarılı
+        create:
+          could_not_create_account: Hesap oluşturulamadı. Daha fazla bilgi için lütfen bir yöneticiyle iletişime geçin.
+        show:
+          could_not_create_account: Hesap oluşturulamadı. Daha fazla bilgi için lütfen bir yöneticiyle iletişime geçin.
+    temporary_user:
+      validate_email: E-posta adresinizi doğrulayın
+      validate_email_description_html: "E-posta adresinize geçici bir parola gönderildi: <strong>%{email}</strong>. Adresinizi doğrulayıp devam etmek için bağlantıya tıklayın veya geçici parolayı buraya girin."
+      session_expired: Oturumun süresi doldu, devam etmek için lütfen e-posta adresinizi yeniden girin
+      token_expired: E-postadaki kimlik doğrulama bağlantısının süresi doldu, lütfen yeniden deneyin.
+      already_authenticated: Bu tarayıcıda zaten oturum açtınız.
+      resend_validation_email: Doğrulama e-postasını yeniden gönder
+      verify: Doğrula
+      validate_email_sent: "Yeni bir doğrulama e-postası gönderildi: %{time}. E-posta adresinizi doğrulamak için e-postadaki bağlantıya tıklayın veya parolayı aşağıya girin."
+      invalid_temporary_user: Geçersiz parola. Lütfen e-postanızı kontrol edin – geçici parola gelen kutunuza yeniden gönderildi.
+      temporary_user_expired: Geçici parolanın süresi doldu. Lütfen e-postanızı kontrol edin – gelen kutunuza yeni bir geçici parola gönderildi.
+      create_account: Hesap oluştur
+      create_account_description: Geçici kullanıcı hesabı yerine e-posta adresiniz ve parolanızla oturum açabilmek için bu sistemde kalıcı bir hesap oluşturun.
+  shared:
+    show: Göster
+    reify: Geri yükle
+    download: İndir
+    restore: Geri yükle
+    delete: Sil
+    trash: Çöp kutusu
+    cancel: İptal
+    close: Kapat
+    current: Geçerli
+    bootstrap_confirm_dialog:
+      confirm_action: İşlemi onayla
+    shares:
+      bootstrap_confirm_dialog:
+        confirm_action: İşlemi onayla
+      navigation:
+        files: Dosyalar
+        activity_log: Etkinlik günlüğü
+      wrap_content:
+        activity_log: Etkinlik günlüğü
+    error_messages:
+      prohibited_this_from_being_saved: "%{target} öğesinin kaydedilmesini engelledi"
+  share:
+    share: Share
+    shares: Share
+    no_shares: Kullanılabilir Share yok
+    name: Ad
+    folder_name: Klasör adı
+    share_not_found: Share bulunamadı
+    folder_not_found: Klasör bulunamadı
+    file_not_found: Dosya bulunamadı
+    no_read_access: Bu Share'e erişim yetkiniz yok
+    no_write_access: Bu Share'e yazma izniniz yok
+    not_authorized_to_view_logs: Günlükleri görüntüleme yetkiniz yok
+    require_authentication: Bu Share kimlik doğrulama gerektirir. Devam etmek için lütfen parolayı girin.
+    authenticate: Kimliği doğrula
+    authentication_failed: Kimlik doğrulama başarısız oldu
+  shares:
+    folders:
+      are_you_sure_you_want_to_delete: Bu klasörü silmek istediğinizden emin misiniz?
+      are_you_sure_you_want_to_trash: Bu klasörü kalıcı olarak silmek istediğinizden emin misiniz?
+      folder_name_already_taken: Bu klasör adı zaten kullanılıyor!
+      folder_not_found: Klasör bulunamadı
+      could_not_create_folder: "Klasör oluşturulamadı: %{error}"
+      zip_no_files: ZIP'e eklenecek dosya yok
+      windows_path_warning:
+        title: Windows yol uzunluğu sınırlaması
+        description_html: <strong>Windows kullanıcıları:</strong> Windows dosya yollarını 259 karakterle sınırlar. Uzun yollara sahip konumlardan klasör yüklerken klasör yapısının derinlerindeki dosyalar uyarı verilmeden atlanabilir; bu da eksik yüklemelere veya yinelenen klasörlere yol açabilir.
+        workarounds_title: Önerilen çözümler
+        workarounds_html: "<li><strong>Sanal sürücü kullanın:</strong> Komut İstemi'ni açın ve şunu çalıştırın: <code>subst X: \"C:\\cok\\uzun\\klasor\\yolu\"</code><br>Ardından <code>X:\\</code> sanal sürücüsünden yükleyin</li><li><strong>Dosyalara yaklaşın:</strong> yükleme klasörünü seçmeden önce dosyalarınıza daha yakın bir alt klasörü açın</li><li><strong>Daha kısa bir yol kullanın:</strong> yüklemeden önce dosyalarınızı <code>C:\\uploads\\</code> gibi daha kısa bir konuma kopyalayın</li><li><strong>Önce klasörü sıkıştırın:</strong> klasörü bir ZIP dosyasına sıkıştırın ve bunun yerine ZIP dosyasını yükleyin</li>"
+        advanced_title: "Gelişmiş: Windows 10/11'de uzun yolları etkinleştirme"
+        advanced_description_html: Windows 10 sürüm 1607 ve sonrasında daha uzun yollar için desteği etkinleştirebilirsiniz. <strong>Not:</strong> yönetici hakları gerekir ve her tarayıcıda çalışmayabilir. Yukarıdaki çözümler daha güvenilirdir.
+        registry_steps_title: Uzun yolları etkinleştirme adımları
+        registry_steps_html: "<li><kbd>Win + R</kbd> tuşlarına basın, <code>regedit</code> yazın ve Enter'a basın</li><li>Şuraya gidin: <code>HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\FileSystem</code></li><li><code>LongPathsEnabled</code> adlı DWORD değerini bulun veya oluşturun ve <code>1</code> olarak ayarlayın</li><li>Değişikliğin geçerli olması için bilgisayarı yeniden başlatın</li><li>Yüklemeyi yeniden deneyin (destek tarayıcıya göre değişebilir)</li>"
+        browser_disclaimer_html: "<strong>Önemli:</strong> bu kayıt defteri ayarı etkin olsa bile uzun yol desteği tarayıcıya göre değişir. Chrome, Edge ve Firefox 259 karakterlik sınırı uygulamaya devam edebilir. Yukarıdaki çözümler daha güvenilirdir."
+      folder:
+        rename_folder: Klasörü yeniden adlandır
+        move_folder_description: "%{foldername} klasörünü aşağıda seçilen klasöre taşı"
+        move_folder: Klasörü taşı
+      action_bar:
+        download_as_zip: ZIP olarak indir
+        download_as_zip_with_deleted: Silinen dosyalar dahil ZIP olarak indir
+        toggle_deleted_view: Silinen dosyaları göster/gizle
+        filter: Filtrele
+        upload_file: Dosya yükle
+        upload_folder: Klasör yükle
+        create_folder: Klasör oluştur
+        windows_path_warning: Yol uzunluğu uyarısı
+        upload_folder_unsupported: Klasör yükleme desteklenmiyor
+        upload_folder_unsupported_description: Maalesef tarayıcınız klasör yüklemeyi desteklemiyor. Klasör yapısı yüklemek için lütfen Chrome veya Safari'nin masaüstü sürümünü kullanın.
+        showing_deleted: Silinen %{number_of} öğe gösteriliyor
+        hiding_deleted: Silinen %{number_of} öğe gizleniyor
+        actions: Eylemler
+        move_selected: Seçilenleri taşı
+        trash_selected: Seçilenleri çöp kutusuna taşı
+        delete_selected: Seçilenleri sil
+      action_bar_below:
+        send_notifications: Bildirim gönder
+        sending_notifications: Bildirimler gönderiliyor
+        quota: Kota
+        used_of: kullanılan / toplam
+        available: kullanılabilir
+        quota_exceeded: Kota aşıldı
+      create_folder_modal:
+        create_folder: Klasör oluştur
+        create: Oluştur
+      files:
+        are_you_sure_you_want_to_delete: Bu dosyayı silmek istediğinizden emin misiniz?
+        are_you_sure_you_want_to_trash: Bu dosyayı kalıcı olarak silmek istediğinizden emin misiniz?
+        file_not_found: Dosya bulunamadı
+        file:
+          rename_file: Dosyayı yeniden adlandır
+          move_file: Taşı
+          move_file_description: "%{filename} dosyasını aşağıda seçilen klasöre taşı"
+        show:
+          prev: Önceki
+          up: Yukarı
+          next: Sonraki
+          last_updated: Son güncelleme
+          versions: Sürümler
+          show_all: Tümünü göster
+          version_from: Sürüm tarihi
+          next_version: Sonraki sürüm
+          previous_version: Önceki sürüm
+          current_version: Geçerli sürüm
+          pdf_preview_not_supported: Tarayıcınız PDF dosyalarının önizlemesini desteklemiyor
+        available_chunks:
+          available: Aşağıdaki dosyaların kısmi yüklemeleri mevcut
+          resume_replace: Yüklemeye devam etmek mi yoksa dosyaları değiştirmek mi istiyorsunuz?
+      quota:
+        quota: Kota
+        used_of: kullanılan / toplam
+        available: kullanılabilir
+        quota_exceeded: Kota aşıldı
+      move_file_folder_modal:
+        move_folder: Klasörü taşı
+        move_file: Dosyayı taşı
+        move: Taşı
+      show:
+        select_all: Tümünü seç/seçimi kaldır
+    logs:
+      action_bar:
+        activity_log: Etkinlik günlüğü
+      message:
+        created: Oluşturuldu
+        uploaded: Yüklendi
+        downloaded: İndirildi
+        reified: Geri yüklendi
+        removed: Kaldırıldı
+        restored: Geri yüklendi
+        deleted: Silindi
+        moved: Taşındı
+        renamed: Yeniden adlandırıldı
+        added: Eklendi
+        viewed: Görüntülendi
+        infected: Virüslü
+        trashed: Çöp kutusuna taşındı
+        deleted_user: "(Silinmiş kullanıcı)"
+        share: Share
+        folder: Klasör
+        file: Dosya
+        group: Grup
+        user: Kullanıcı
+        read: Okuma
+        read/write: Okuma/yazma
+        av_scanner: Virüs tarayıcısı
+        version_from: Sürüm tarihi
+        file_deleted: Dosya silindi
+        to: hedef
+        from: kaynak
+        unknown: Bilinmiyor
+        other: Diğer
+  share/log:
+    message:
+      you: Siz
+      share: Share
+      folder: klasör
+      file: dosya
+      user: kullanıcı
+      version_from: sürüm tarihi
+      read: okuma
+      read/write: okuma/yazma
+      created: oluşturdu
+      added: ekledi
+      uploaded: yükledi
+      downloaded: indirdi
+      updated: güncelledi
+      restored: geri yükledi
+      reified: geri yükledi
+      deleted: sildi
+      removed: kalıcı olarak sildi
+      trashed: çöp kutusuna taşıdı
+      renamed: yeniden adlandırdı
+      viewed: görüntüledi
+      infected: virüslü
+      av_scanner: Virüs tarayıcısı
+      file_deleted: Dosya silindi
+  sms_auth:
+    login_failed: Oturum açma başarısız oldu
+    sms_error: SMS yapılandırma hatası, lütfen sistem yöneticisiyle iletişime geçin
+    verify_token: SMS kodunu doğrula
+    verify_token_description: "Cep telefonunuza gönderilen kodu girin:"
+    sms_login_failed: SMS doğrulaması başarısız oldu, yeni bir SMS kodu gönderildi
+    sms_signup: SMS ile iki faktörlü kimlik doğrulamaya kaydol
+    sms_signup_failed: SMS ile iki faktörlü kimlik doğrulama başarısız oldu
+    sms_signup_description: Devam etmek için SMS ile iki faktörlü kimlik doğrulamaya kaydolmanız gerekir. Devam etmek için telefon numaranızı aşağıya girin.
+    verify: Doğrula
+    resend: Kodu yeniden gönder
+    code: Kod
+    token_resent: SMS kodu %{time} saatinde yeniden gönderildi
+    send_token: Doğrulama kodu gönder
+    phone_number: Telefon numarası
+    invalid_phone_number: Geçersiz telefon numarası, lütfen yeniden deneyin.
+    change_phone_number: Telefon numarasını değiştir
+    phone_number_help: Telefon numaranızı ülke koduyla ve baştaki sıfırlar olmadan girin (örn. 905321234567). Bu numaraya bir doğrulama kodu gönderilecek.
+    one-time-code: Tek kullanımlık kod
+  strong_auth:
+    two_factor_authentication: İki faktörlü kimlik doğrulama
+    enable_2fa: İki faktörlü kimlik doğrulamayı etkinleştir
+    disable_2fa: İki faktörlü kimlik doğrulamayı devre dışı bırak
+    title: İki faktörlü kimlik doğrulamayı etkinleştir
+    enable_2fa_description: Hesabınızın güvenliğini artırmak için güçlü iki faktörlü kimlik doğrulamayı etkinleştirebilirsiniz.
+    require_description: Bu sistemi kullanmak için iki faktörlü kimlik doğrulamayı ayarlamanız gerekir.
+    disable_description: İki faktörlü kimlik doğrulamayı devre dışı bırakmak için geçerli kodu girin
+    two_factor_auth_disabled: İki faktörlü kimlik doğrulama devre dışı bırakıldı
+    step1: "1. adım: kimlik doğrulama uygulamasını edinin"
+    step1_description: İki faktörlü kimlik doğrulamayı genellikle bir mobil uygulamayla etkinleştirin.
+    totp_apps_description_html: Kimlik doğrulama uygulamaları arasında <a href="https://authy.com" target="_blank" rel="external nofollow noopener noreferrer">Authy</a> (çok platformlu) ve Google Authenticator (iOS/Android) bulunur. Daha fazla seçenek için <a href="https://docs.liquidfiles.com/authentication/totp.html#clients" target="_blank">TOTP Clients</a> sayfasına bakın.
+    step2: "2. adım: kimlik doğrulama uygulamasını ayarlayın"
+    step2_description: QR kodunu tarayarak kimlik doğrulama uygulamasını ayarlayın.
+    step2_alt: Veya aşağıdaki kodu girin
+    step3: "3. adım: doğrulayın"
+    step3_description: Kimlik doğrulama uygulamasının oluşturduğu kodu girerek kurulumu doğrulayın.
+    failed_to_authenticate: Kimlik doğrulama başarısız oldu, lütfen yeniden deneyin.
+    click_on_link: Alternatif olarak, yapılandırmayı iki faktörlü kimlik doğrulama uygulamasına eklemek için aşağıdaki bağlantıya tıklayın
+    configure: İki faktörlü kimlik doğrulamayı ayarla
+    success_saved: Başarılı, iki faktörlü kimlik doğrulama yapılandırması kaydedildi
+    verify_token: İki faktörlü kimlik doğrulamayı doğrula
+    verify_token_description: Mobil uygulamadaki iki faktörlü kimlik doğrulama kodunu girin.
+    verify: Doğrula
+    two_factor_login_failed: İki faktörlü kimlik doğrulama başarısız oldu
+    two_factor_validation_failed: İki faktörlü kimlik doğrulamanın doğrulanması başarısız oldu
+    skip_2fa_for_two_weeks: Bu tarayıcıda iki hafta boyunca iki faktörlü kimlik doğrulamayı atla
+    one-time-code: Tek kullanımlık kod
+  support:
+    email_subject: Şu konuda yardıma ihtiyacım var
+    email_body: Lütfen sorununuzu olabildiğince ayrıntılı açıklayın. Teşekkürler.
+    navbar_tooltip: Bu sisteme erişmek veya kullanmak için yardıma ihtiyacınız varsa bu bağlantıya tıklayın, size yardımcı olmaktan memnuniyet duyarız.
+  user:
+    includes_at_least_one_invalid_email_address: en az bir geçersiz e-posta adresi içeriyor
+    confirm:
+      invalid_session: Geçersiz oturum
+      already_validated: E-posta adresiniz zaten doğrulandı
+      invalid_token: Geçersiz kod. Lütfen yeniden deneyin veya Doğrulama e-postasını yeniden gönder seçeneğine tıklayın.
+      validation_email_sent: "Doğrulama e-postası gönderildi: %{time}"
+      activated_successfully: Başarıyla etkinleştirildi
+      validate_email_description: E-posta adresinizi doğrulamak için e-postanızı kontrol edin ve geçici parolayı girin.
+    register:
+      already_registered: Bu hesap zaten kayıtlı, devam etmek için lütfen oturum açın
+      already_registered_not_validated: Hesabınız zaten kayıtlı, ancak e-posta adresinizin henüz doğrulanması gerekiyor. Size rastgele bir kod içeren bir e-posta gönderdik. Hesabınızı doğrulamak için kodu aşağıya girin veya e-postadaki bağlantıya tıklayın.
+      show:
+        register: Hesap kaydet
+        description_html: <p>Hesap oluşturmak için bilgilerinizi girin. Bu hesapla %{branding_name} üzerinden büyük dosyaları güvenle gönderebilirsiniz.</p>
+    signup:
+      create:
+        need_password: Bir parola girmelisiniz
+        need_name: Bir ad girmelisiniz
+    create:
+      show:
+        cancel_and_remember: İptal et ve bir daha sorma
+        cancel_and_remember_title: Bu tercih geçerli tarayıcıda hatırlanacak
+  validator:
+    required: Bu alan zorunludur.
+    remote: Lütfen bu alanı düzeltin.
+    email: Lütfen geçerli bir e-posta adresi girin.
+    url: Lütfen geçerli bir URL girin.
+    date: Lütfen geçerli bir tarih girin.
+    dateISO: Lütfen geçerli bir tarih (ISO) girin.
+    number: Lütfen geçerli bir sayı girin.
+    digits: Lütfen yalnızca rakam girin.
+    creditcard: Lütfen geçerli bir kredi kartı numarası girin.
+    equalTo: Lütfen aynı değeri yeniden girin.
+    accept: Lütfen geçerli uzantıya sahip bir değer girin.
+    maxlength: Lütfen en fazla {0} karakter girin.
+    minlength: Lütfen en az {0} karakter girin.
+    rangelength: Lütfen {0} ile {1} karakter arasında bir değer girin.
+    range: Lütfen {0} ile {1} arasında bir değer girin.
+    max: Lütfen {0} değerine eşit veya daha küçük bir değer girin.
+    min: Lütfen {0} değerine eşit veya daha büyük bir değer girin.
+    step: Lütfen {0} değerinin katı olan bir değer girin.
+    invalid_phone_number: Geçersiz telefon numarası
+  locale: Türkçe

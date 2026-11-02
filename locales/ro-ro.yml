@@ -1,0 +1,1569 @@
+ro:
+  s: s
+  min: min
+  hours: Ore
+  days: Zile
+  weeks: Săptămâni
+  months: Luni
+  years: Ani
+  ago: în urmă
+  email: E-mail
+  save: Salvați
+  delete: Ștergeți
+  cancel: Anulați
+  remove: Eliminați
+  aborting: Se întrerupe
+  aborted: Întrerupt
+  saved_successfully: Salvat cu succes
+  logout: Deconectare
+  error: Eroare
+  enabled: Activat
+  disabled: Dezactivat
+  disable: Dezactivați
+  default: Implicit
+  submit: Trimiteți
+  session_expired: Sesiunea a expirat
+  search: Căutare
+  filter: Filtru
+  recipient: Destinatar
+  recipients: Destinatari
+  downloaded_by: Descărcat de
+  filename: Nume fișier
+  size: Dimensiune
+  downloaded: Descărcat
+  host: Gazdă
+  ip: Adresă IP
+  action: Acțiune
+  view_message: Vizualizați mesajul
+  view_message_popup: Vizualizați mesajul (fereastră pop-up)
+  download_info: Informații despre descărcare
+  message_id: ID mesaj
+  filelink_id: ID FileLink
+  sent_at: Trimis la
+  id: ID
+  subject: Subiect
+  expires: Expiră
+  invalid_method: Metodă nevalidă
+  export_csv: Exportați CSV
+  export_all: Exportați tot
+  export_visible: Exportați elementele vizibile
+  temporarily_unavailable: Temporar indisponibil
+  generic_search_error: Eroare generală de căutare
+  sender: Expeditor
+  search_temporary_disabled: Căutarea este dezactivată temporar
+  help: Ajutor
+  close: Închideți
+  count: Număr
+  settings: Setări cont
+  virus: Virus
+  virus_status: Stare antivirus
+  infected: Infectat
+  clean: Curat
+  not_scanned: Nescanat
+  not_yet_scanned: Încă nescanat
+  csrf_error: "CSRF: au fost detectați parametri nevalizi. Conectați-vă din nou pentru a continua."
+  could_not_be_saved: Nu s-a putut salva
+  label: Etichetă
+  updated: Actualizat
+  add: Adăugați
+  system_info: Informații despre sistem
+  location: Locație
+  accept: Acceptați
+  last_7_days: Ultimele 7 zile
+  last_30_days: Ultimele 30 de zile
+  last_60_days: Ultimele 60 de zile
+  last_90_days: Ultimele 90 de zile
+  last_180_days: Ultimele 180 de zile
+  last_365_days: Ultimele 365 de zile
+  file: Fișier
+  files: Fișiere
+  next: Următorul
+  previous: Anteriorul
+  name: Nume
+  view: Vizualizați
+  forget: Uitați
+  update: Actualizați
+  updated_at: Actualizat la
+  created_at: Creat la
+  download_link_expired: Linkul de descărcare a expirat.
+  no_html5_upload_warning: Încărcarea fișierelor necesită un browser modern, compatibil cu HTML5. Microsoft Edge, Chrome, Firefox și Safari funcționează foarte bine.
+  javascript_warning: JavaScript este necesar pentru a trimite fișiere și pentru a utiliza majoritatea funcțiilor.
+  cookie_accept: Acest site utilizează cookie-uri. Prin conectare sau prin clic pe „Acceptați”, sunteți de acord cu utilizarea cookie-urilor.
+  i_agree: Sunt de acord
+  session_timeout: Sesiunea a expirat, conectați-vă din nou
+  loading: Se încarcă...
+  unsupported_browser_header: Browser neacceptat
+  unsupported_browser_description_html: Browserul dvs. nu este acceptat, așa că probabil acest site nu va funcționa conform așteptărilor. Utilizați un browser mai nou.
+  not_logged_in_invalid_parameters: Neconectat, parametri nevalizi
+  toggle_dropdown: Afișați/ascundeți meniul
+  rejected: Respins
+  undetected: Nedetectat
+  invalid_link: Link nevalid, contactați expeditorul
+  account_settings_tooltip: Setări cont
+  logout_tooltip: Deconectare
+  download_id: ID descărcare
+  remote_host: Gazdă la distanță
+  show: Afișați
+  hide: Ascundeți
+  password: Parolă
+  download: Descărcați
+  unauthorized: Neautorizat
+  account:
+    login: Conectare
+    login_label: Adresă de e-mail
+    email: Adresă de e-mail
+    password: Parolă
+    current_password: Parola actuală
+    please_enter_your_current_password: Introduceți parola actuală
+    sign_in: Conectare
+    remember_me: Țineți-mă minte
+    not_administrator: Nu sunteți administrator
+    password_reset: Resetarea parolei
+    register: Înregistrare
+    register_description_html: Vă mulțumim! Pentru a continua, introduceți datele dvs. și creați un cont.<br>Data viitoare vă puteți conecta cu adresa de e-mail și parola.
+    account_not_activated: Contul nu este activat. Activați contul înainte de a vă conecta. V-am trimis un e-mail cu un cod aleatoriu. Introduceți codul mai jos sau faceți clic pe linkul din e-mail pentru a vă confirma contul.
+    incorrect_user_or_pw: Nume de utilizator sau parolă incorecte
+    confirmation_email_sent: E-mailul de confirmare a fost trimis
+    activated_successfully: Activat cu succes
+    not_activated: Contul nu este activat
+    password_reset_email_sent: E-mailul de resetare a parolei a fost trimis
+    no_such_user: Utilizatorul nu există
+    no_such_email: Adresa de e-mail nu a fost găsită
+    not_logged_in: Nu sunteți conectat. Conectați-vă pentru a continua.
+    saved_successfully: Salvat cu succes
+    unlicensed_install_some_settings: "Instalare fără licență: opțiunile de branding sunt vizibile doar administratorilor de sistem"
+    incorrect_login_or_demo: Nume de utilizator sau parolă incorecte ori a fost atinsă limita licenței
+    incorrect_login_or_ldap: Nume de utilizator sau parolă incorecte ori eroare a serverului LDAP
+    invalid_api_key: Cheie API nevalidă
+    cant_delete_last_sysadmin: Ultimul administrator de sistem nu poate fi șters
+    cant_change_last_sysadmin: Ultimul administrator de sistem nu poate fi modificat
+    sso_login: Conectare SSO
+    invalid_sso_response: Răspuns SSO nevalid
+    automatic: Detectat automat
+    network_access_blocked: Accesul la acest sistem din rețeaua dvs. nu este permis.
+    please_login: Conectați-vă pentru a deschide această pagină.
+    email_validation_session_timeout: Sesiunea a expirat, confirmați din nou adresa de e-mail.
+    signature: Semnătură
+    not_authorized_for_action: Nu aveți permisiunea de a efectua această acțiune
+    invalid_group: Grup nevalid. Contactați un administrator care vă poate muta contul într-un grup de utilizatori locali
+    invalid_group_configuration: Configurație de grup nevalidă. Contactați un administrator care vă poate crea un cont sau poate modifica configurația grupului.
+    please_enter_email_to_email_password: Introduceți adresa de e-mail pentru a reseta parola. La această adresă va fi trimis un e-mail de confirmare.
+    password_reset_successfully: Parola a fost resetată cu succes
+    password_cant_be_empty: Parola nu poate fi goală
+    password_complexity_title: Complexitatea parolei
+    password_complexity_description_html: "<p>Parola dvs. <strong>nu poate fi bazată pe un cuvânt din dicționar</strong> și trebuie să îndeplinească cel puțin 3 dintre următoarele cerințe:</p><ul><li>Cel puțin 8 caractere</li><li>Cel puțin 11 caractere</li><li>Cel puțin 15 caractere</li><li>Cel puțin 1 literă mică și 1 literă mare</li><li>Cel puțin 1 cifră (0-9)</li><li>Cel puțin unul dintre următoarele caractere: !,@,#,$,%,^,&amp;,*,?,_,~,-,(,)</li></ul>"
+    is_not_strong_enough: nu este suficient de puternică
+    your_password_has_expired: Parola dvs. a expirat
+    please_select_a_different_password: Alegeți o parolă diferită de cea anterioară
+    change_password: Schimbați parola
+    account_not_found: Contul nu a fost găsit. Conectați-vă din nou.
+    user_required_to_use_saml: Parola nu poate fi resetată, conectați-vă prin SAML
+    sysadmin_ldap_error: Acest cont este autentificat prin LDAP și nu poate fi resetat aici
+    login_limit_exceeded: Limita de conectări a fost depășită
+    a_confirmation_email_will_be_sent: La această adresă va fi trimis un e-mail de confirmare
+    name: Nume
+    password_confirm: Confirmați parola
+    save: Salvați
+    can_not_reset_password_please_check_with_your_administrator: Parola nu poate fi resetată, contactați administratorul
+    no_need_to_register_user: Nu este necesar să vă înregistrați. Conectați-vă cu contul existent.
+    registration_not_allowed: Înregistrarea nu este permisă
+    create_description: Creați-vă contul introducând numele și o parolă.
+    activated_successfully_please_login: Contul a fost activat cu succes. Acum vă puteți conecta cu adresa de e-mail și parola.
+    invalid_activation_url: Link de activare nevalid. Verificați linkul și încercați din nou.
+    already_logged_in: Sunteți deja conectat. Nu se poate înregistra un cont nou.
+    bruteforce_message: Ați depășit numărul de încercări nereușite. Încercați din nou peste %{minutes} minute.
+    admin_access_blocked: Accesul de administrator de la adresa dvs. IP nu este permis.
+    account_created_successfully: Contul a fost creat cu succes
+    create_account: Creați un cont
+    create_account_description: Actualizați-vă datele pentru a vă crea contul.
+    account_settings: Setări cont
+    change_language: Schimbați limba și fusul orar
+    filedrop_label: Filedrop (aleatoriu)
+    filedrop_email_label: Filedrop
+    verify_account: Se verifică contul
+    invalid_sso_signature: Semnătură sau conectare SSO nevalidă
+    user_not_found: Utilizatorul nu a fost găsit
+    could_not_create_account: Contul nu a putut fi creat
+    two_factor_authentication_failed: Autentificarea cu doi factori Duo a eșuat
+    copy_to_clipboard: Copiați în clipboard
+    copy_url_to_clipboard: Copiați URL-ul în clipboard
+    delete_user_warning: Sigur doriți să ștergeți acest utilizator?
+    unauthorized_to_login: Nu sunteți autorizat să vă conectați
+    first_time_message_title: Bun venit la LiquidFiles
+    first_time_message: <p>Bun venit la LiquidFiles, cea mai simplă modalitate de a trimite în siguranță fișiere mari.</p><p>Pentru operațiunile de bază, funcționează la fel ca un sistem de webmail.</p><p>Acest mesaj va fi afișat o singură dată. Dacă vă blocați sau doriți să descoperiți funcții mai avansate, faceți clic pe butonul „Ajutor” din colțul din dreapta sus al barei de meniu.</p>
+    first_time_message_button: Am înțeles!
+    registration_failed_unknown_error: Înregistrarea a eșuat din cauza unei erori necunoscute
+    session_timeout: Sesiunea a expirat
+    nothing_filled_in: Completați formularul
+    last_used: Ultima utilizare
+    strong_auth_required_before_password_reset: Pentru resetarea parolei acestui cont este necesară autentificarea puternică cu doi factori.
+    unfriendly_registration_message: Dacă vă puteți înregistra în acest sistem cu această adresă de e-mail, veți primi un e-mail. Dacă nu îl primiți, utilizați linkul de asistență de mai sus.
+    unfriendly_password_reset_message: Dacă contul cu această adresă de e-mail poate fi resetat, veți primi un e-mail. Dacă nu îl primiți, utilizați linkul de asistență de mai sus.
+    aliases:
+      aliases: Aliasuri
+      aliases_description: Puteți adăuga la cont aliasuri de expeditor și de destinatar. Un alias de expeditor vă permite să trimiteți mesaje în numele acelei adrese de e-mail. Un alias de destinatar vă permite să vizualizați mesajele pentru acea adresă. Mesajele pentru un alias de destinatar sunt vizibile și în căsuța dvs. de mesaje securizate.
+      aliases_no_change_description: Un alias de expeditor vă permite să trimiteți mesaje în numele acelei adrese de e-mail. Un alias de destinatar vă permite să vizualizați mesajele pentru acea adresă. Mesajele pentru un alias de destinatar sunt vizibile și în căsuța dvs. de mesaje securizate. Contactați un administrator pentru a adăuga sau modifica aliasuri.
+      recipient_aliases: Aliasuri de destinatar
+      sender_aliases: Aliasuri de expeditor
+      add_alias: Adăugați un alias
+      remove: Eliminați
+      default_sender_alias: Alias de expeditor implicit
+      default_sender_alias_description: Aliasul de expeditor implicit.
+      are_you_sure: Sigur doriți să eliminați acest alias?
+      no_emails: Nu a fost adăugat niciun alias.
+      please_contact_an_administrator: Contactați un administrator pentru a le gestiona
+      auto_added_aliases: Aliasuri adăugate automat
+      auto_added_aliases_description: Următoarele aliasuri au fost adăugate automat la profilul dvs. Contactați un administrator pentru a le gestiona.
+    alias:
+      confirm:
+        show:
+          title: Vă mulțumim pentru confirmare
+          alias_email: Adresa de e-mail a aliasului
+          user: Utilizator
+          recipient_and_sender_confirmation: Utilizatorul de mai sus poate acum vizualiza mesajele securizate pentru această adresă de e-mail și poate trimite mesaje securizate în numele ei. Dacă este o greșeală, faceți clic pe linkul de asistență de mai sus.
+          only_recipient_confirmation: Utilizatorul de mai sus poate acum vizualiza mesajele securizate pentru această adresă de e-mail. Dacă este o greșeală, faceți clic pe linkul de asistență de mai sus.
+          only_sender_confirmation: Utilizatorul de mai sus poate acum trimite mesaje securizate în numele acestei adrese de e-mail. Dacă este o greșeală, faceți clic pe linkul de asistență de mai sus.
+    add_alias_modal:
+      title: Adăugați un alias
+      description: Introduceți adresa de e-mail la care doriți acces ca alias de destinatar sau de expeditor. La această adresă va fi trimis un e-mail de confirmare.
+      recipient_alias: Alias de destinatar - doresc să citesc mesajele trimise la această adresă de e-mail.
+      sender_alias: Alias de expeditor - doresc să trimit mesaje în numele acestei adrese de e-mail.
+      invalid_email: Adresă de e-mail nevalidă
+      add_permission: Selectați aliasul de destinatar, aliasul de expeditor sau ambele.
+      send_request: Trimiteți solicitarea
+      request_has_been_sent: Solicitarea dvs. a fost trimisă.
+    api:
+      api_key: Cheie API
+      api_key_description: Cheia API este utilizată de pluginuri precum pluginul pentru Outlook și poate fi folosită pentru integrări personalizate. Aveți nevoie de ea doar dacă vă cere un administrator.
+      api_key_reset_warning: Sunteți sigur? Dacă resetați cheia API, va trebui să înlocuiți cheia veche peste tot unde ați utilizat-o.
+      reset_api_key: Resetați cheia API
+    contacts:
+      contacts: Contacte
+      contacts_description: Puteți adăuga oricâte contacte doriți. Fiecare contact poate avea mai multe adrese de e-mail, astfel încât să puteți trimite rapid și simplu mai multor destinatari deodată.
+      add_contact: Adăugați un contact
+      email_field_help: Listă de adrese de e-mail separate prin virgulă.
+      contact:
+        edit_label: Editați eticheta
+        edit_email: Editați adresa de e-mail
+        are_you_sure: Sigur doriți să ștergeți acest contact?
+    filedrops:
+      filedrops: Filedropuri
+      filedrops_description: Sunteți destinatarul principal sau destinatarul în copie al acestor Filedropuri. Orice fișier trimis prin oricare dintre ele vă va fi livrat.
+      name: Nume
+      title: Titlu
+      recipient: Destinatar
+      expires_after: Expiră după
+      max_size: Dimensiune max. fișier
+      url: URL
+      main_recipient: Destinatar principal
+      cc: Cc
+    personal_filedrop:
+      personal_filedrop: Filedrop personal
+      personal_filedrop_description: Filedropul personal este o modalitate simplă de a primi fișiere. Puteți trimite linkul, îl puteți publica pe un site web sau îl puteți include în semnătura de e-mail. Veți primi o notificare imediat ce cineva v-a trimis ceva prin Filedropul personal.
+    previous_recipients:
+      previous_recipients: Destinatari anteriori
+      previous_recipients_description: Când trimiteți un mesaj securizat, fiecare destinatar este adăugat în această listă de destinatari anteriori. Astfel puteți retrimite rapid acelorași destinatari. Destinatarii cărora nu le-ați trimis nimic timp de 180 de zile sunt eliminați automat din listă.
+      are_you_sure: Sigur doriți să ștergeți acest destinatar anterior?
+    pw_dictionary:
+      based_on_a_dictionary_word: se bazează pe un cuvânt din dicționar
+      based_upon_your_password_entry: se bazează pe parola introdusă
+      derived_from_your_password_entry: este derivată din parola introdusă
+      derivable_from_your_password_entry: poate fi dedusă din parola introdusă
+      way_too_short: este MULT prea scurtă
+      too_short: este prea scurtă
+      it_does_not_contain_enough_different_characters: nu conține suficiente caractere DIFERITE
+      all_whitespace: conține doar spații
+      too_simplistic_systematic: este prea simplă/sistematică
+      it_looks_like_a_national_insurance_number: arată ca un CNP
+      based_on_a_reversed_dictionary_word: se bazează pe un cuvânt din dicționar (inversat)
+    show:
+      basic_settings: Setări de bază
+      change_password: Schimbați parola
+      strong_auth: Autentificare cu doi factori
+      aliases: Aliasuri
+      previous_recipients: Destinatari anteriori
+      contacts: Contacte
+      personal_filedrop: Filedrop personal
+      api: API
+      filedrops: Filedropuri
+    sms_disable:
+      disable_sms_otp: Dezactivați autentificarea cu doi factori prin SMS
+      disable_sms_otp_description: Dacă doriți să dezactivați autentificarea cu doi factori prin SMS, faceți clic pe butonul de mai jos. Va fi trimis un cod SMS pentru confirmarea solicitării.
+      verify_token_description: "Pentru a dezactiva autentificarea cu doi factori prin SMS, introduceți codul trimis pe telefonul mobil:"
+      code: Cod
+      sms_token_failed: Cod SMS nevalid, autentificarea cu doi factori prin SMS nu a putut fi dezactivată
+      sms_otp_has_been_disabled: Autentificarea cu doi factori prin SMS a fost dezactivată
+    sms_signup:
+      sms_signup_description: Puteți îmbunătăți securitatea contului activând autentificarea cu doi factori. Introduceți numărul de telefon mai jos pentru a o activa.
+      phone_number: Număr de telefon
+    sms_enable:
+      signup_complete: Autentificarea cu doi factori prin SMS a fost activată
+    terms_of_service:
+      show:
+        title: Termeni de utilizare
+        accept_terms_of_service: Acceptați termenii de utilizare
+        do_not_accept: Nu accept
+      create:
+        you_need_to_accept: Trebuie să acceptați termenii de utilizare!
+  activerecord:
+    attributes:
+      attachment:
+        filename: Nume fișier
+        size: Dimensiune
+        secure_id: ID atașament
+        content_type: Tip de conținut
+        created_at: Creat la
+        updated_at: Actualizat la
+      download:
+        recipient: Destinatar
+        downloaded_at: Descărcat la
+        remote_ip: IP la distanță
+        remote_host: Gazdă la distanță
+        created_at: Creat la
+        updated_at: Actualizat la
+      filedrop:
+        name: Nume
+        title: Titlu
+        description: Descriere
+        blocked_extensions: Extensii blocate
+        permitted_extensions: Tipuri de fișiere permise
+        expires_after: Expiră după
+        max_filesize: Dimensiune maximă fișier
+        created_at: Creat la
+        updated_at: Actualizat la
+        api_key: Cheie API
+        cc: Cc
+        authorization: Autorizare
+      message:
+        recipients: Destinatari
+        sender: Expeditor
+        cc: Cc
+        bcc: Bcc
+        message: Mesaj
+        subject: Subiect
+        deleted: Șters
+        authorization: Autorizare
+        created_at: Creat la
+        updated_at: Actualizat la
+        expires_at: Expiră la
+      share/log:
+        created_at: Dată
+      share/file:
+        checksum: Sumă de control (SHA256)
+      share/file/version:
+        whodunnit: Modificat de
+        created_at: Modificat la
+      user:
+        name: Nume
+        email: Adresă de e-mail
+        quota: Cotă
+        used: Utilizat
+        max: Max.
+        password: Parolă
+        ldap_authentication: Autentificare LDAP
+        api_key: Cheie API
+        level: Nivel
+        filedrop: Filedrop
+    models:
+      configuration: Configurație
+      attachment: Atașament
+      filedrop: Filedrop
+      message: Mesaj
+      user: Utilizator
+      download: Descărcare
+  admin:
+    groups:
+      form:
+        bcc_myself: Trimiteți-mi o copie
+        can_change_bcc_myself: Permiteți utilizatorilor din acest grup să modifice setarea de trimitere a unei copii către ei înșiși
+      index:
+        default_group_assignment: Alocare implicită a grupului
+    users:
+      users:
+        email: Adresă de e-mail
+        name: Nume
+        group: Grup
+        max: Dimensiune max. fișier
+        quota: Cotă
+        strong_auth: Autentificare puternică
+        filedrop: Filedrop
+        last_login_at: Ultima conectare
+        last_login_ip: IP-ul ultimei conectări
+        created: Creat
+      form:
+        name_label: Nume
+        email: Adresă de e-mail
+        password: Parolă
+        password_confirmation: Confirmați parola
+        max_label: Dimensiune maximă fișier
+        group: Grup
+        strong_auth: Autentificare puternică
+        strong_auth_username: Nume de utilizator pentru autentificarea puternică
+        api_key: Cheie API
+        filedrop: Filedrop
+  attachments:
+    not_found: Atașamentul nu a fost găsit
+  config:
+    settings: Setări
+    email: E-mail
+    language_preferences_from_your_browser: Preferințele de limbă ale browserului
+    authentication: Autentificare
+    time_zone: Fus orar
+    current_time_zone: Fus orar actual
+    time_zone_from_browser: Fusul orar detectat de browser
+    time_zone_config_description: Dacă lăsați fusul orar pe „Detectat automat”, va fi utilizat fusul orar detectat de browser (toate orele vor fi afișate în acest fus orar). Dacă browserul nu poate detecta fusul orar, va fi utilizat fusul orar implicit al sistemului. Dacă browserul nu detectează fusul orar corect sau doriți să vedeți orele în alt fus orar, puteți seta un fus orar anume.
+    time_zone_default: Fusul orar implicit al sistemului
+    email_settings: Setări e-mail
+    configuration: Configurație
+    local_domains: Domeniu local
+    ldap_users: Utilizatori autentificați prin LDAP
+    ldap_users_are_always_local: Utilizatorii autentificați prin LDAP sunt întotdeauna locali
+    separated_by_comma: separate prin virgulă
+    default_max_file_size: Dimensiune maximă implicită a fișierelor
+    local_users: Utilizatori locali
+    external_users: Utilizatori externi
+    allow_registration: Permiteți înregistrarea
+    allow_registration_desc: Permiteți înregistrarea pe pagina de conectare
+    external_user_account: Destinatari externi
+    external_user_account_desc: Destinatarii externi trebuie să își creeze un cont
+    allow_users_to_change_expiration: Permiteți utilizatorilor să modifice expirarea fișierelor
+    authorization: Permisiune
+    authorization_description: Setarea implicită privind cine poate descărca fișiere.
+    file_expiration: Expirare
+    default_expire_files_after: Fișierele expiră implicit după
+    delete_downloaded_files_after: Ștergeți fișierele descărcate după
+    branding: Branding
+    company_name: Numele companiei
+    custom_stylesheet: Foaie de stil personalizată
+    custom_javascript: JavaScript personalizat
+    logotype: Logo
+    leave_blank_for_default: lăsați necompletat pentru valoarea implicită
+    email_configuration: Configurație e-mail
+    email_sender_address: Adresa expeditorului
+    email_host: URL de bază pentru e-mailuri
+    email_footer: Subsol e-mail
+    email_relay_host: Server de releu e-mail
+    email_relay_username: Nume de utilizator releu e-mail
+    email_relay_password: Parolă releu e-mail
+    port: Port
+    unlicensed_install_some_settings: "Instalare fără licență: setările de branding sunt vizibile doar administratorilor de sistem"
+    mail_relay_example: "Ex.: mailrelay.domeniu.ro, mx.domeniu.ro:587"
+    ldap: LDAP
+    please_see_the: consultați
+    for_more_information: pentru mai multe informații
+    virus_scan: Scanare antivirus
+    virus_scan_description: Scanați fișierele pentru viruși
+    blocked_file_extensions: Extensii de fișiere blocate
+    default_bcc_myself_label: Trimiteți-mi o copie
+    default_bcc_myself: Trimiteți-mi implicit o copie
+    allow_users_to_change_require_login_label: Solicitați autentificarea
+    allow_users_to_change_require_login: Permiteți utilizatorilor să modifice „Solicitați autentificarea”
+    permitted_file_extensions_label: Extensii de fișiere permise
+    delete: Ștergeți
+    ldap_description: "Activați autentificarea LDAP a utilizatorilor și setați câțiva parametri de bază pentru conectarea la serverul LDAP. Dacă nu este specificat niciun port, se va utiliza portul LDAP implicit 389 (sau portul 636 dacă SSL este activat). Notă: portul 3268 NU este utilizat pentru autentificare în Active Directory, ci doar pentru căutări în agenda globală de adrese. Utilizați în schimb portul 389/636."
+    ldap_authentication: Autentificare LDAP
+    basic_settings: Setări de bază
+    server: Nume server / adresă IP
+    username: Nume de utilizator
+    password: Parolă
+    authentication_description: Acest utilizator va fi folosit pentru conectarea la serverul LDAP (lăsați necompletat pentru o legare anonimă). Utilizatorul are nevoie de permisiuni de căutare în arborele LDAP.
+    search_key: Cheie de căutare
+    search_key_description: Cheia de căutare și domeniul sunt utilizate pentru a găsi utilizatori în arborele LDAP. Tabelul de mai jos arată cum interacționează cheia de căutare și domeniul pentru a găsi un utilizator.
+    search_key_description2: Așadar, dacă cheia de căutare LDAP conține adresa de e-mail, domeniul trebuie să rămână gol. Dacă cheia de căutare LDAP conține doar numele de utilizator, domeniul trebuie să conțină domeniul utilizatorilor.
+    search_key_defaults: "Pentru Active Directory, un bun punct de plecare este: sAMAccountName ca cheie de căutare LDAP și companie.ro (domeniul dvs.) ca domeniu."
+    user_enters: Utilizatorul introduce
+    authorized_ldap_groups: Grupuri LDAP autorizate
+    available_groups: Grupuri disponibile
+    default_settings: Setări implicite
+    setting: Setare
+    value: Valoare
+    description: Descriere
+    default_local_max_description: Aceasta este dimensiunea maximă implicită a fișierelor pentru utilizatorii locali noi. Poate fi modificată pentru fiecare utilizator.
+    user_changeable: Modificabil de utilizator?
+    non_local: Nelocal
+    remote: La distanță
+    new_external_recipient_is_nonlocal: Destinatarii externi noi sunt
+    email_message_on_top_label: Mesajul deasupra
+    email_message_on_top: Mesajul apare deasupra listei de fișiere în e-mailul către destinatari
+    use_either_permitted_or_blocked_extensions: Trebuie să alegeți fie extensii permise, fie extensii blocate, nu ambele
+    invalid_password: Parolă nevalidă
+    valid_password: Parolă validă
+    test_password_validation: Testați validarea parolei
+    custom_password_validation: Validare personalizată a parolei
+    custom_password_validation_description: "Această expresie regulată va fi utilizată pentru validarea personalizată a parolelor. Introduceți doar expresia regulată, fără delimitatori (nu începeți și nu terminați cu '/'). Exemplu: [a-zA-Z0-9]{7,} (parolele vor putea conține doar a-z, A-Z și 0-9, cu minimum 7 caractere)"
+    filedrop: Filedrop
+    receive: Primire
+    api_settings: Setări API
+    enable_api_label: Activați API-ul
+    enable_api_description: Activați API-ul pentru a permite accesul prin pluginuri și scripturi
+    enable_api_group_config: Setări API suplimentare sunt disponibile în configurația grupurilor.
+    api_client_size_override_label: Prag de dimensiune pentru clienții API
+    api_client_size_override_description: Clienții API vor trimite prin dispozitiv fișierele mai mari decât această dimensiune
+    sso_secret_key: Cheie secretă SSO
+    generate_key: Generați o cheie nouă
+    sso_replace_confirm: Sunteți sigur? Înlocuirea cheii secrete SSO va face ca integrările SSO existente să nu mai funcționeze.
+    virus_scan_skip_locals: Omiteți scanarea antivirus pentru utilizatorii locali
+    virus_scan_skip_locals_description: Nu scanați fișierele utilizatorilor locali pentru viruși
+    virus_scan_permit_unscanned: Permiteți fișierele nescanate
+    virus_scan_permit_unscanned_description: Permiteți descărcarea fișierelor care nu au fost încă scanate
+    userdrop: Filedrop de utilizator
+    user_filedrop_with_random_key: Filedropuri de utilizator cu cheie aleatorie
+    enable_userdrop: Activați Filedropurile de utilizator
+    example: Exemplu
+    user_filedrop_with_email: Filedropuri de utilizator cu adrese de e-mail
+    enable_userdrop_email: Activați Filedropurile de utilizator cu adresă de e-mail
+    userdop_email_data_leakage: Acest lucru ar putea fi folosit pentru a descoperi adrese de e-mail locale, prin testarea adreselor pe URL-ul Filedropului și observarea celor care returnează un răspuns valid.
+    userdrop_files_expire_after: Fișierele depuse expiră după
+    userdrop_max_filesize: Dimensiune maximă fișier pentru Filedropul de utilizator
+    bruteforce_label: Protecție împotriva atacurilor de forță brută
+    bruteforce_description_1: Blocați adresa IP timp de
+    bruteforce_description_2: minute după
+    bruteforce_description_3: conectări/înregistrări nereușite în decurs de
+    bruteforce_description_4: minute
+    bruteforce_whitelist_label: Listă albă pentru protecția împotriva forței brute
+    allowed_admin_networks_label: Rețele de administrare
+    allowed_admin_networks_description: Restricționați accesul de administrator la aceste gazde și rețele. Localhost (127.0.0.1, ::1) este întotdeauna permis
+    enable_strong_authentication: Activați implicit autentificarea puternică pentru aceste tipuri de utilizatori
+    authenticated_username: Nume de utilizator autentificat
+    duo_hostname: Nume gazdă Duo
+    duo_client_id: Cheie de integrare Duo
+    duo_client_secret: Cheie secretă Duo
+    strong_authentication_test: Testați autentificarea puternică
+    stronger_password: Alegeți o parolă mai puternică.
+    cannot_begin_or_end_with_blank: Parola nu poate începe sau se termina cu un spațiu.
+    at_least_one_invalid_domain: Cel puțin un domeniu nevalid
+    at_least_one_invalid_email: Cel puțin o adresă de e-mail nevalidă
+    email_security_level: Nivelul de securitate al livrării e-mailurilor
+    geoip: Căutare GeoIP
+    geoip_description: Descarcă date de geolocalizare de la https://geoip.liquidfiles.com și afișează hărți.
+    tooltip:
+      local_domains: Un utilizator local poate trimite fișiere oricui. Un utilizator nelocal poate trimite fișiere doar utilizatorilor locali. La prima conectare a unui utilizator sau la crearea contului, domeniul adresei de e-mail este comparat cu aceste domenii pentru a stabili dacă utilizatorul este considerat local.
+      ldap_users_are_always_local: Orice utilizator care se autentifică prin LDAP este considerat automat local, indiferent de domeniu.
+      allow_registration: Permite înregistrarea pe pagina de conectare. Pe baza listei de domenii locale se stabilește dacă un utilizator nou este local sau nelocal.
+      local_user_maxfile: Când un utilizator local se înregistrează sau se autentifică pentru prima dată prin autentificare la distanță, i se setează această dimensiune maximă a fișierelor.
+      nonlocal_user_maxfile: Când un utilizator nelocal se înregistrează, i se setează această dimensiune maximă a fișierelor.
+      delete_downloaded_files_after: Un fișier descărcat este păstrat atât timp. Perioada trebuie să fie suficient de lungă pentru ca destinatarul să poată alege altă locație de descărcare sau să o ia de la capăt, dar suficient de scurtă pentru ca linkul să nu fie distribuit altor persoane.
+      file_expiration: Permite utilizatorilor să modifice timpul de expirare al fișierelor. Dacă nu este activat, toate fișierele primesc timpul de expirare implicit.
+      default_expire_files_after: Fișierele vor expira după această perioadă.
+      blocked_file_extensions: Blocați fișierele cu aceste extensii (fără a ține cont de majuscule).
+      virus_scan: Scanați toate fișierele încărcate cu antivirusul ClamAV
+      require_authentication_permission: Dacă este activat, utilizatorii pot alege singuri dacă este necesară autentificarea
+      default_bcc_myself: Dacă este activat, mesajele sunt trimise implicit și utilizatorului însuși
+      permitted_file_extensions: "Dacă este gol, sunt permise toate extensiile. Dacă este introdusă cel puțin o extensie, sunt permise doar tipurile de fișiere introduse. Exemplu: png, gif, jpg, txt"
+      new_external_recipient_is_nonlocal: Când un mesaj este trimis unui destinatar nou, acesta trebuie creat ca utilizator nelocal (pentru a putea răspunde) sau ca utilizator extern?
+      email_message_on_top: Dacă este bifat, mesajul apare deasupra listei de fișiere în e-mailul către destinatari. Dacă nu, lista de fișiere apare deasupra mesajului.
+      email_sender: Această adresă de e-mail va fi utilizată ca expeditor pentru e-mailurile generate de sistem, cum ar fi resetările de parolă. Pentru ca aceste e-mailuri să nu fie marcate ca spam, trebuie să fie o adresă de e-mail reală.
+      email_host: Atașamentele vor utiliza acest URL ca URL de bază. De obicei este http://numegazda.domeniu sau https://numegazda.domeniu, dar poate fi și https://numegazda.domeniu:4433 dacă utilizați redirecționarea porturilor în firewall atunci când utilizatorii se conectează la dispozitivul LiquidFiles.
+      email_footer: Această semnătură va fi adăugată la toate e-mailurile trimise.
+      email_relay: Utilizați acest server de e-mail pentru a retransmite e-mailurile trimise.
+      email_relay_username: Contul utilizat pentru conectarea la serverul de releu e-mail
+      email_relay_password: Parola contului utilizat pentru conectarea la serverul de releu e-mail
+  date:
+    formats:
+      default: "%d.%m.%Y"
+      short: "%d.%m"
+      medium: "%d.%m.%Y"
+      long: "%d.%m.%Y"
+  time:
+    am: a.m.
+    pm: p.m.
+    formats:
+      default: "%d.%m.%Y %H:%M:%S %z"
+      short: "%d.%m %H:%M"
+      medium: "%d.%m.%Y %H:%M"
+      long: "%d.%m.%Y %H:%M"
+  downloads:
+    download_id: ID descărcare
+    index:
+      download_log_title: Descărcări
+      download_log_description: Cine a descărcat ce și când
+      paginator_entry_name: descărcări
+    show:
+      no_map_for_reserved_address: Nu se poate afișa o hartă pentru adresele rezervate
+  filedrop:
+    filedrop: Filedrop
+    no_such_filedrop: Acest Filedrop nu există
+    invalid_filedrop_url: URL Filedrop nevalid
+    invalid_filedrop_url_description: Nu există niciun Filedrop la acest URL. Verificați URL-ul și încercați din nou.
+    label: Filedropuri
+    mb: MB
+    name: Nume
+    name_description: Nume scurt utilizat și în URL (de ex. /filedrop/nume)
+    title: Titlu
+    title_description: Titlul din partea de sus a paginii
+    description: Descriere
+    description_description: Descrierea de sub titlu
+    user: Utilizator destinatar
+    user_description: Orice utilizator local poate fi setat ca destinatar
+    cc: Cc
+    cc_description: "(separate prin virgulă) Trimiteți o copie la aceste adrese"
+    expires_after: Expiră după
+    expires_after_description: zile
+    max_filesize: Dimensiune maximă fișier
+    max_filesize_description: MB
+    reset_filedrop: Resetați URL-ul Filedropului
+    filedrop_reset_warning: Sunteți sigur? Dacă resetați URL-ul Filedropului, va trebui să îl înlocuiți peste tot unde l-ați publicat.
+    permitted_extensions: Extensii permise
+    permitted_extensions_description: Doar aceste tipuri de fișiere vor fi permise
+    blocked_extensions: Extensii blocate
+    blocked_extensions_description: Aceste tipuri de fișiere vor fi blocate
+    demo_license_warning_standard: Filedropurile necesită o licență pentru utilizarea în producție. Faceți upgrade la o licență Pro pentru a activa funcția Filedrop.
+    max_one_during_demo: În perioada demo sau cu o licență Standard puteți configura cel mult un Filedrop
+    filedrop_info: Un Filedrop le permite clienților să vă trimită fișiere fără autentificare sau configurare prealabilă. Fiecare Filedrop are un URL fix către care puteți crea linkuri din pagini web sau din semnăturile de e-mail. Când cineva depune un fișier în Filedrop, acesta este trimis automat unui utilizator predefinit.
+    authorization: Permisiune
+    authorization_description: cine poate descărca fișierele depuse în Filedrop
+    you_will_be_notified: Veți primi o confirmare de descărcare când fișierele dvs. au fost descărcate.
+    require_authentication: Acest Filedrop necesită autentificare. Introduceți parola pentru a continua.
+    authenticate: Autentificați-vă
+    authentication_failed: Autentificarea a eșuat
+    require_validation: Acest Filedrop necesită autentificare sau confirmarea adresei de e-mail.
+  filelink:
+    filelink: FileLink
+    filelinks: FileLinkuri
+    filelink_title: FileLink
+    filelink_description: Un FileLink este un link către un singur fișier. Puteți trimite acest link oricui, fără a crea un mesaj sau a specifica destinatari. Doar persoanele cărora le-ați trimis linkul aleatoriu vor putea descărca fișierul.
+    expired_or_nonexistent_title: FileLink nevalid
+    expired_or_nonexistent: Acest FileLink a expirat sau nu există. Contactați expeditorul pentru un link nou.
+    existing_filelinks: FileLinkuri existente
+    new_filelink: FileLink nou
+    available_files: Fișiere disponibile
+    filename: Nume fișier
+    filesize: Dimensiune fișier
+    expires_at: Expiră
+    link: Link
+    checksum: Sumă de control
+    copy_link_to_clipboard: Copiați FileLinkul în clipboard
+    expire_link_at: Linkul expiră la
+    you_have_no_filelinks: Nu aveți FileLinkuri. Adăugați un FileLink nou sau creați unul dintr-un fișier disponibil.
+    you_have_no_files_available: Nu aveți fișiere trimise anterior. După ce ați trimis cel puțin un fișier, îl puteți selecta aici pentru a crea un FileLink.
+    create_link: Creați linkul
+    invalid_file: Fișier nevalid, nu se poate crea FileLinkul
+    delete: Ștergeți
+    delete_link_warning: Sigur doriți să ștergeți acest FileLink?
+    could_not_delete_link: FileLinkul nu a putut fi șters. Linkul nu a fost găsit!
+    filelink_deleted: FileLink șters!
+    select_file: Selectați fișierul
+    send_download_receipts: Trimiteți confirmări de descărcare
+    disabled: FileLinkurile sunt dezactivate, contactați un administrator
+    unauthorized: Nu aveți permisiunea de a utiliza FileLinkuri
+    require_authentication: Solicitați autentificarea
+    filelink_require_authentication: Acest FileLink necesită autentificare
+    filelink_url: URL FileLink
+    expired: Expirat
+    filelink_expired: FileLink expirat
+    select_from_available_files: Puteți crea un FileLink și din oricare dintre aceste fișiere existente.
+    downloads: Descărcări
+    authentication_failed: Autentificarea a eșuat
+    password_label_html: Parolă <small class="text-muted">(opțional)</small>
+    password_present_html: Pentru acest FileLink este setată o parolă.<br>O puteți elimina salvând o parolă goală.
+    password_not_present: Nu este setată nicio parolă.
+    copy_to_clipboard: Copiați FileLinkul în clipboard
+    add_file: Adăugați un fișier
+  ftpdrop:
+    create:
+      ftpdrop: FTPdrop
+  html_editor:
+    font:
+      bold: Aldin
+      italic: Cursiv
+      underline: Subliniat
+      clear: Eliminați formatarea
+      height: Înălțimea rândului
+      name: Font
+      strikethrough: Tăiat
+      subscript: Indice
+      superscript: Exponent
+      size: Dimensiune font
+    image:
+      image: Imagine
+      insert: Inserați o imagine
+      resize_full: Dimensiune completă
+      resize_half: Jumătate de dimensiune
+      resize_quarter: Un sfert din dimensiune
+      float_left: Aliniere la stânga
+      float_right: Aliniere la dreapta
+      float_none: Fără aliniere
+      shape_rounded: "Formă: rotunjită"
+      shape_circle: "Formă: cerc"
+      shape_thumbnail: "Formă: miniatură"
+      shape_none: "Formă: niciuna"
+      url: URL imagine
+      remove: Eliminați imaginea
+    link:
+      link: Link
+      insert: Inserați un link
+      unlink: Eliminați linkul
+      edit: Editați
+      text_to_display: Text de afișat
+      url: Către ce URL trebuie să ducă acest link?
+      open_in_new_window: Deschideți într-o fereastră nouă
+    table:
+      table: Tabel
+    hr:
+      insert: Inserați o linie orizontală
+    style:
+      style: Stil
+      normal: Normal
+      blockquote: Citat
+      pre: Cod
+      h1: Titlu 1
+      h2: Titlu 2
+      h3: Titlu 3
+      h4: Titlu 4
+      h5: Titlu 5
+      h6: Titlu 6
+    lists:
+      unordered: Listă cu marcatori
+      ordered: Listă numerotată
+    options:
+      help: Ajutor
+      fullscreen: Ecran complet
+      codeview: Vizualizare cod
+    paragraph:
+      paragraph: Paragraf
+      outdent: Micșorați indentarea
+      indent: Măriți indentarea
+      left: Aliniere la stânga
+      center: Centrare
+      right: Aliniere la dreapta
+      justify: Aliniere stânga-dreapta
+    color:
+      recent: Culoare recentă
+      more: Mai multe culori
+      background: Culoare de fundal
+      foreground: Culoare text
+      transparent: Transparent
+      set_transparent: Setați transparent
+      reset: Resetați
+      reset_to_default: Resetați la valorile implicite
+    shortcut:
+      shortcuts: Comenzi rapide de la tastatură
+      close: Închideți
+      text_formatting: Formatarea textului
+      action: Acțiune
+      paragraph_formatting: Formatarea paragrafului
+      document_style: Stilul documentului
+      extra_keys: Taste suplimentare
+    history:
+      undo: Anulați
+      redo: Refaceți
+  invite:
+    invite_user: Invitați un utilizator
+    description: Puteți invita utilizatori să partajeze fișiere cu dvs. După ce le introduceți datele, vor primi un e-mail cu instrucțiuni pentru finalizarea înregistrării.
+    send_invite: Trimiteți invitația
+    name_placeholder: Nume complet
+    invitation_sent: Invitația a fost trimisă
+    not_permitted_to_invite_users: Nu aveți permisiunea de a invita utilizatori.
+    invalid_email: Adresă de e-mail nevalidă
+  link:
+    show:
+      set_password: Setați parola
+      download: Descărcați
+      downloads_and_info: Toate descărcările și mai multe informații
+    authenticate:
+      show:
+        title: Parola FileLinkului
+        authenticate: Autentificați-vă
+        require_authentication: Pentru a accesa acest FileLink, trebuie să introduceți parola necesară.
+      create:
+        authentication_failed: Autentificarea a eșuat.
+    downloads:
+      index:
+        back_to_filelink: Înapoi la FileLink
+    link_downloads:
+      latest_downloads: Cele mai recente descărcări (%{count} din %{total} în total)
+  menu:
+    shares: Share-uri
+    messages: Mesaje
+    send_files: Compunere
+    users: Utilizatori
+    active_transfers: Transferuri active
+    configuration: Configurație
+    system: Sistem
+    message_list: Listă de mesaje
+    settings: Setări
+    admin: Administrare
+    account: Cont
+    inbox: Mesaje primite
+    sent_messages: Trimise
+    downloads: Jurnal de descărcări
+    filelink: FileLinkuri
+    secure_messages: Mesaje securizate
+    support: Asistență
+  message:
+    message_sent: Mesaj trimis
+    not_found: Mesajul nu a fost găsit
+    message_not_found_header: Mesajul nu a fost găsit!
+    message_not_found_description: Rugați expeditorul să retrimită acest mesaj.
+    previous_recipients: Destinatari anteriori
+    contacts: Contacte
+    is_not_permitted: nu este permis
+    not_permitted_to_delete_messages: Nu aveți permisiunea de a șterge mesaje
+    is_not_in_any_of_the_allowed_domains: nu face parte din niciunul dintre domeniile permise
+    is_not_in_any_of_the_allowed_groups: nu face parte din niciunul dintre grupurile permise
+    attach_1_file: Trebuie să atașați cel puțin un fișier
+    too_many_files: Prea multe fișiere atașate. Puteți atașa cel mult %{count} fișiere la un singur mesaj.
+    attached_files: Fișiere atașate
+    expired: Mesajul a expirat
+    authorize:
+      show:
+        title: Conectați-vă pentru a accesa mesajul securizat
+        authenticate_description_html: Sunteți pe cale să vizualizați un mesaj securizat. Mai întâi trebuie să vă conectați. Introduceți adresa de e-mail sau conectați-vă pentru a continua.<br>Dacă nu aveți un cont în acest sistem, introduceți adresa de e-mail și vă vom trimite un link securizat pentru a o confirma.
+        unauthenticated_html: <h4>Nume de utilizator sau parolă nevalide</h4><p>Introduceți numele de utilizator și parola. Puteți reseta parola cu butonul Resetarea parolei de mai jos.</p>
+        unauthorized_to_view_check_email_html: <h4>Adresă de e-mail neautorizată</h4><p>Verificați dacă mesajul securizat [<span class="font-monospace fw-bold">%{message_id}</span>] v-a fost trimis dvs. și introduceți adresa de e-mail exact așa cum a fost trimis mesajul.</p><p>De exemplu, dacă adresa dvs. poate fi atât ion.popescu@companie.ro, cât și ipopescu@companie.ro, sistemul nu are cum să știe că este aceeași adresă. Dacă mesajul securizat a fost trimis la ion.popescu@companie.ro, aceasta este adresa pe care trebuie să o introduceți aici.</p><p>Dacă nu sunteți sigur, contactați expeditorul mesajului securizat.</p>
+    errors:
+      not_authorized_to_view_message: "Nu sunteți autorizat să vizualizați mesajul cu ID-ul: %{message_id}. Verificați dacă acest mesaj v-a fost trimis dvs."
+      private_message_requires_authentication: Mesajele private necesită autentificare
+    attachments:
+      download_attachment_details_csv: Descărcați detaliile atașamentelor (CSV)
+      attachment:
+        fileinfo: Informații despre fișier
+        file_size: Dimensiune fișier
+        content_type: Tip de conținut
+        checksum: Sumă de control
+        virus_status: Stare antivirus
+    compose:
+      options_permission:
+        authentication_required: Autentificare necesară
+        authentication_not_required: Autentificare nenecesară
+        require_authentication_description: Trebuie ca destinatarii să se autentifice pentru a accesa acest mesaj?
+        access_restriction_html: Restricție de acces<br><small class="text-muted">Cine poate accesa acest mesaj?</small>
+        recipients_only_html: Doar<br>destinatarii
+        recipients_plus_locals_html: Destinatari<br>+ utilizatori locali
+        recipients_plus_domains_html: Destinatari<br>+ domenii
+        anyone_secret_link_html: Oricine<br>(link secret)
+    unavailable:
+      header: Mesaj indisponibil
+      description: Acest mesaj a expirat, a fost șters, nu există sau nu mai este disponibil. Rugați expeditorul să retrimită mesajul.
+    downloads:
+      index:
+        download_log_title: Jurnal de descărcări
+        message_id: ID mesaj
+        paginator_entry_name: Descărcări
+      download:
+        details: Detalii
+      not_found:
+        title: Mesajul sau descărcarea nu au fost găsite
+        description_html: Mesajul sau descărcarea nu au fost găsite ori nu aveți permisiunea de a le vizualiza
+    temporary_user:
+      create:
+        invalid_temporary_user: Parolă nevalidă. Verificați e-mailul cu parola temporară sau solicitați o parolă temporară nouă.
+        temporary_user_expired: Această parolă temporară a expirat. O parolă temporară nouă a fost trimisă la adresa dvs. de e-mail. Verificați căsuța de mesaje primite și utilizați noua parolă temporară.
+        not_authorized_to_view_message: "Nu sunteți autorizat să vizualizați mesajul cu ID-ul: %{message_id}. Verificați dacă acest mesaj v-a fost trimis dvs."
+      show:
+        title: Introduceți parola temporară
+        description_html: "Sunteți pe cale să vizualizați un mesaj securizat. Pentru a-l accesa, trebuie să introduceți parola temporară.<br>O parolă temporară este un șir unic și aleatoriu care vă identifică. Parola temporară v-a fost trimisă într-un e-mail separat (subiect: Parolă temporară)."
+        what_is_this: Ce este aceasta?
+        login: Conectare
+        submit: Verificați parola temporară
+        submit_email: Trimiteți
+        if_you_have_account: "(dacă aveți deja un cont)"
+        request_temporary_user_header: Solicitați o parolă temporară nouă
+        request_temporary_user_description_html: Puteți solicita o parolă temporară nouă pentru a accesa acest mesaj. Introduceți adresa de e-mail mai jos pentru a solicita o parolă temporară nouă pentru acest mesaj securizat.
+        info_header: Informații despre parola temporară
+        info_body_html: "<p>O parolă temporară este o secvență unică de cifre și litere, de exemplu:</p><pre><code>3ynp-7FKa-pZS9</code></pre><p><em>Această parolă temporară este doar un exemplu, ca să vedeți cum arată – nu poate fi utilizată.</em></p><p>În căsuța de mesaje primite veți găsi <strong>două e-mailuri</strong>: cel cu mesajul securizat și unul cu un <strong>subiect care începe cu: Parolă temporară</strong>. Acesta din urmă conține parola dvs. temporară unică pentru acest sistem.</p><p>Dacă nu ați primit un e-mail cu o parolă temporară, este posibil să aveți deja un cont în acest sistem. În acest caz, faceți clic pe „Conectare”.</p><p>Dacă credeți că ar fi trebuit să primiți o parolă temporară, dar nu ați primit-o, faceți clic pe „Solicitați o parolă temporară” pentru a obține una nouă.</p>"
+        email_address: Adresă de e-mail
+        email_not_permitted: Această adresă de e-mail nu are permisiunea de a vizualiza acest mesaj securizat.
+        email_not_permitted_description_html: <p>Verificați e-mailul cu mesajul securizat pe care l-ați primit și introduceți adresa de e-mail exact așa cum a fost trimis mesajul.</p><p>De exemplu, dacă adresa dvs. poate fi atât ion.popescu@companie.ro, cât și ipopescu@companie.ro, sistemul nu are cum să știe că este aceeași adresă. Dacă mesajul securizat a fost trimis la ion.popescu@companie.ro, aceasta este adresa pe care trebuie să o introduceți aici.</p><p>Dacă nu sunteți sigur, contactați expeditorul mesajului securizat.</p>
+        email_can_login: Aveți deja un cont în acest sistem
+        email_can_login_description_html: <p>Vă puteți conecta la acest sistem cu această adresă de e-mail și parola dvs.</p><p>Faceți clic pe butonul Conectare de mai jos pentru a vă conecta cu contul existent.</p>
+        temporary_user_delivered_header: Parola temporară a fost trimisă
+        temporary_user_delivered_description_html: <p>O parolă temporară a fost trimisă la adresa dvs. de e-mail. Verificați căsuța de mesaje primite, închideți această fereastră și introduceți parola temporară.</p>
+    reply:
+      re: "Re:"
+      wrote: a scris
+      show:
+        title: Răspundeți la mesajul securizat
+        from: De la
+        reply: Răspundeți
+        reply_all: Răspundeți tuturor
+      options:
+        options_description: Rețineți că toate opțiunile sunt preluate din mesajul original.
+    show:
+      back: Înapoi
+      message_header: Antetul mesajului
+      reply: Răspundeți
+  messages:
+    sent:
+      skipped_file_not_found: Omis - fișierul nu a fost găsit
+      show:
+        sent_title: Trimise
+        sent_description: Mesajele pe care le-ați trimis
+        paginator_entry_name: mesaje
+    attachments:
+      download_cmd:
+        unauthorized:
+          header: Neautorizat
+          body: Nu sunteți autorizat să descărcați acest fișier. Rugați expeditorul să vă retrimită fișierul.
+          back: Înapoi
+        exceeded:
+          header: Limita de descărcări a fost depășită
+          body: Limita de descărcări pentru acest fișier a fost depășită. Rugați expeditorul să vă retrimită fișierul.
+          back: Înapoi
+    download_zip:
+      unauthorized:
+        header: Neautorizat
+        body: Nu sunteți autorizat să descărcați această arhivă. Rugați expeditorul să vă retrimită fișierul.
+        back: Înapoi
+      exceeded:
+        header: Limita de descărcări a fost depășită
+        body: Limita de descărcări pentru unul sau mai multe fișiere din această arhivă a fost depășită. Rugați expeditorul să vă retrimită fișierul.
+        back: Înapoi
+    message:
+      reply: Răspundeți
+      reply_all: Răspundeți tuturor
+  models:
+    user:
+      no_need_to_create_local_user: Nu este necesar să creați un utilizator local
+      license_exceeded: Limita licenței a fost depășită
+  notifier:
+    activate_user_subject: "[%{hostname}] Activați contul"
+    user_activation: Activarea utilizatorului
+    please_visit_the_following_url_to_activate: Faceți clic pe următorul link pentru a vă activa contul
+    the_following_files_are_attached: Următoarele fișiere sunt atașate la acest mesaj
+    please_visit_the_following_url: Faceți clic pe acest link pentru a descărca atașamentele
+    attachments_are_available: Atașamentele sunt disponibile până la
+    message_id: "ID mesaj: %{id}"
+    email_password_reset_subject: Resetarea parolei
+    download_receipt_subject: "Confirmare de descărcare [ID: %{message_id}]"
+    a_file_that_you_sent: Un fișier pe care l-ați trimis a fost descărcat. Păstrați acest e-mail ca dovadă a descărcării.
+    recipient: Destinatar
+    filename: Nume fișier
+    time_of_download: Ora descărcării
+    downloaded_from: Descărcat de la
+    download_receipt: Confirmare de descărcare
+    user_created:
+      account_created: Cont creat
+      subject: "[%{hostname}] Cont creat"
+      message: "Vă așteaptă un atașament securizat. Pentru a-l descărca, trebuie să vă autentificați. Faceți clic pe următorul link pentru a vă înregistra:"
+  outlook:
+    messages:
+      new:
+        attachments_header: Atașamente
+        attachments_hint: Puteți atașa fișiere trăgându-le în secțiunea de mai jos sau făcând clic pe butonul Atașați fișiere.
+        add_to_message: Adăugați la mesaj
+      attachments:
+        attach_files: Atașați fișiere
+        drop_files_here: Plasați fișierele aici...
+      options:
+        recipients_can_reply: Destinatarii pot răspunde
+        send_copy_to_myself: Trimiteți-mi o copie
+        private_message: Mesaj privat
+        private_message_required_auth_error: Când trimiteți un mesaj privat, trebuie să utilizați modul „Autentificare necesară”.
+      options_authorization:
+        authentication_authorization_title_html: Autentificare &amp; autorizare
+        authentication_select_title: Selectați autentificarea
+        authentication_required: Autentificare necesară
+        authentication_not_required: Autentificare nenecesară
+        authorization_select_title: Selectați autorizarea
+        recipients_only: Doar destinatarii
+        recipients_locals: Destinatari + utilizatori locali
+        recipients_domains: Destinatari + domenii
+        anyone: Oricine (link secret)
+      options_expiration:
+        message_expires: Mesajul expiră
+        message_expires_after: Mesajul expiră după
+  pagination:
+    first: "&laquo; Prima"
+    last: Ultima &raquo;
+    previous: "&lsaquo; Anterioara"
+    next: Următoarea &rsaquo;
+    truncate: "&hellip;"
+  requests:
+    title: Solicitare de fișiere
+    file_request: Solicitare de fișiere
+    files_sent: Fișiere trimise, vă mulțumim!
+    request_file: Solicitați un fișier
+    file_requests: Solicitări de fișiere
+    description: O solicitare de fișiere vă permite să cereți cuiva să vă trimită fișiere. După ce introduceți datele, persoana va primi un e-mail cu un link unic pe care îl poate folosi pentru a vă trimite fișierele solicitate.
+    file_request_not_found: Solicitarea de fișiere nu a fost găsită
+    file_request_expired: Solicitarea de fișiere a expirat
+    file_request_already_used: Solicitarea de fișiere a fost deja utilizată
+    file_request_sent: Solicitarea de fișiere a fost trimisă
+    not_permited: Nu aveți permisiunea de a utiliza funcția de solicitare de fișiere
+    multiuse: Utilizare multiplă - acest link de solicitare de fișiere poate fi folosit de mai multe ori
+    invalid_recipient: Destinatar nevalid, această solicitare de fișiere a fost trimisă altcuiva
+    invalid_user: Aceasta nu este solicitarea dvs. de fișiere
+    index:
+      title: Solicitări de fișiere
+      new_file_request: Solicitare de fișiere nouă
+      multiuse: Utilizare multiplă
+      responded_to: Cu răspuns
+      hide_expired: Ascundeți cele expirate și utilizate
+      show_expired: Afișați cele expirate și utilizate
+    request:
+      resend: Retrimiteți
+      are_you_sure_you_want_to_delete: Sigur doriți să ștergeți această solicitare de fișiere?
+    popup:
+      from: De la
+      to: Către
+      subject: Subiect
+      message: Mesaj
+    resend:
+      request_resent: Solicitarea de fișiere a fost retrimisă
+    new:
+      request_expires: Solicitarea expiră
+  send:
+    send: Trimiteți
+    sent: Trimis
+    recipients: Către
+    send_as: Trimiteți ca
+    you_can_only_send_files_to_yourself: Puteți trimite fișiere doar dvs. înșivă
+    subject: Subiect
+    subject_placeholder: Subiect
+    attachments: Atașamente
+    max_file_size: "Dimensiunea maximă a atașamentelor: %{filesize} MB"
+    upload_queue: Coadă de încărcare
+    remove: Eliminați
+    cancel_all: Anulați tot
+    cancel_all_uploads: Anulați toate încărcările
+    message: Mesaj
+    message_placeholder: Mesaj
+    done_editing_please_send: Am terminat editarea, trimiteți fișierele când toate încărcările sunt finalizate
+    files_sent_successfully: Fișierele au fost trimise cu succes
+    you_need_at_least_one_recipient: Este necesar cel puțin un destinatar
+    you_need_at_least_one_attachment: Este necesar cel puțin un atașament
+    options: Opțiuni
+    cc: Cc
+    bcc: Bcc
+    bcc_message_description: Destinatarii în Bcc nu vor fi afișați celorlalți destinatari
+    add_cc: adăugați Cc
+    add_bcc: adăugați Bcc
+    bcc_myself: Trimiteți-mi o copie
+    require_login: Solicitați conectarea pentru descărcarea fișierelor
+    only_specified_recipients_can_download: Doar destinatarii specificați pot descărca atașamentele
+    anyone_can_download: Oricine poate descărca atașamentele
+    expires_in: Atașamentele pot fi descărcate timp de
+    expires_at: Atașamentele expiră la
+    send_options: Opțiuni de trimitere
+    to: Către
+    from: De la
+    filename: Nume fișier
+    filesize: Dimensiune fișier
+    downloaded_at: Descărcat la
+    message_sent: Mesaj trimis
+    message_expires: Mesajul expiră
+    message_expires_after: Mesajul expiră după
+    message_expires_after_description: Calculul se face pentru fiecare fișier. Dacă trimiteți 2 fișiere care expiră după 1 descărcare, fiecare destinatar va putea descărca fiecare fișier o dată.
+    downloads_per_recipient: Descărcări per destinatar
+    total_downloads: Descărcări în total
+    file_not_downloaded: Nu a fost descărcat niciun atașament
+    at_least_one_invalid_extension: Cel puțin unul dintre atașamente are o extensie nevalidă
+    invalid_filetype: Extensie nevalidă
+    blocked_extension: "Extensie nevalidă. Nu puteți încărca fișiere cu următoarele extensii: %{extensions}"
+    permitted_extensions: "Extensiile permise sunt: %{filetypes}"
+    already_selected: Acest fișier a fost deja selectat
+    maximum_filesize_exceeded: Dimensiunea maximă a fișierului a fost depășită
+    contains_virus: "%{filename} conține un VIRUS: %{virus}"
+    limited_by_browser: Limitat de browser
+    limited_by_disk: Limitat de spațiul pe disc
+    limited_by_system_quota: Limitat de cota sistemului
+    limited_by_group_quota: Limitat de cota grupului
+    limited_by_quota: Limitat de cotă
+    limited_per_message: Limită per mesaj
+    system_quota_exceeded: Cota sistemului a fost depășită
+    group_quota_exceeded: Cota grupului a fost depășită
+    quota_exceeded: Cota a fost depășită
+    no_available_quota: Cota a fost depășită, ștergeți câteva fișiere pentru a continua
+    not_authorized_to_send: Nu sunteți autorizat să trimiteți la %{email}
+    public_url: URL public
+    message_url: URL mesaj
+    authorization: Autorizare
+    insufficient_disk_space: Spațiu insuficient pe disc
+    active_transfers: Transferuri active
+    view_log: Vizualizați jurnalul
+    previously_sent_attachments: Atașamente trimise anterior
+    has_not_downloaded: "%{recipient} nu a descărcat niciunul dintre fișiere"
+    authentication: Autentificare
+    required: Necesară
+    disabled: Dezactivată
+    require_authentication_tooltip_html: <li>Destinatarul trebuie să se conecteze cu nume de utilizator și parolă pentru a descărca fișierul.</li> <li>Veți primi o confirmare când fișierul este descărcat.</li>
+    dont_require_authentication_tooltip_html: <li>Destinatarului nu i se va cere să se conecteze pentru a descărca fișierul.</li> <li>Veți primi o confirmare când fișierul a fost descărcat, dar nu și cine l-a descărcat (nu știm).</li> <li>Veți primi o confirmare doar când primul destinatar descarcă fișierul.</li>
+    authenticate_link_description: Trebuie să vă conectați înainte de a accesa acest FileLink.
+    unauthorized: Nu sunteți autorizat să vizualizați acest mesaj.
+    unauthenticated: Parolă incorectă
+    incorrect_login_or_demo: Parolă incorectă sau limita licenței a fost atinsă
+    email_authorization_message: Vă mulțumim. Pentru a verifica dacă aceasta este adresa dvs. de e-mail, v-am trimis un e-mail cu un cod de validare. Introduceți codul de validare mai jos sau faceți clic pe linkul din e-mail pentru a ajunge la mesaj.
+    email_authorization_link: Vă mulțumim. Pentru a verifica dacă aceasta este adresa dvs. de e-mail, v-am trimis un e-mail cu un cod de validare. Introduceți mai jos codul de validare din e-mail sau faceți clic pe linkul din e-mail pentru a ajunge la FileLink.
+    email_authorization_message_create_account: Vă mulțumim. Deoarece nu aveți un cont în acest sistem, v-am trimis un e-mail cu un cod de validare pentru a verifica dacă aceasta este adresa dvs. de e-mail. Introduceți codul de validare mai jos sau faceți clic pe linkul din e-mail pentru a vă confirma adresa. Apoi vi se va cere să creați un cont și veți fi redirecționat la mesaj.
+    email_authorization_link_create_account: Vă mulțumim. Deoarece nu aveți un cont în acest sistem, v-am trimis un e-mail cu un cod de validare pentru a verifica dacă aceasta este adresa dvs. de e-mail. Introduceți mai jos codul de validare din e-mail sau faceți clic pe linkul din e-mail pentru a vă confirma adresa. Apoi vi se va cere să creați un cont și veți fi redirecționat la FileLink.
+    authorize: Autorizați
+    authenticate: Conectare
+    sending: Se trimite...
+    abort_transfer: Întrerupeți transferul
+    files_to_big: Fișier(e) prea mare(i)
+    only_specified_recipients: Doar destinatarii specificați au acces
+    only_specified_recipients_and_local_users: Doar destinatarii specificați și utilizatorii locali au acces
+    only_specified_recipients_and_domains: Doar destinatarii specificați și utilizatorii din domeniul lor au acces
+    anyone_after_authentication: Oricine (care are linkul aleatoriu) are acces
+    no_recipient_validation: Fără validarea destinatarilor
+    anyone_can_access: Oricine are acces
+    anyone: Oricine
+    no_authentication: Fără autentificare
+    can_download: pot descărca
+    not_yet_scanned: este în curs de scanare antivirus, încercați din nou în scurt timp. %{queue} în coadă
+    was_infected: "a fost infectat cu virusul %{virus} și a fost șters"
+    deleted_or_expired: Șters sau expirat
+    im_done_editing: Trimiteți automat când încărcările curente sunt finalizate
+    download_all: Descărcați tot
+    zipped_archive: Arhivă ZIP
+    message_id: ID mesaj
+    overall_progress: Progres general
+    abort: Întrerupeți
+    limitations: Limitări
+    max_size: Dimensiune maximă
+    add_files: Adăugați fișiere...
+    add_folder: Adăugați un dosar...
+    no_attachment_added: Nu a fost adăugat niciun atașament
+    you_need_to_add_at_least_one_file: Trebuie să adăugați cel puțin un fișier.
+    private_message_or_attached_files: Trebuie fie să activați Mesaj privat, fie să atașați cel puțin un fișier.
+    no_runtime_found: Nu a fost găsit niciun mediu de execuție, fișierele nu pot fi trimise
+    runtime_check_title: Nu a fost găsit niciun mediu de execuție
+    selected: selectat(e)
+    file_size_error: Eroare de dimensiune a fișierului
+    remaining: rămas
+    attached_files: Fișiere atașate
+    show_message: Afișați mesajul
+    can_be_max: poate fi cel mult %{days} zile în viitor
+    not_ready: Încă nu este gata pentru descărcare
+    download_info: Informații despre descărcare
+    browser: Browser
+    platform: Platformă
+    operating_system: Sistem de operare
+    location: Locație
+    download_details: Detalii despre descărcare
+    download_information_not_found: Informațiile despre descărcare nu au putut fi găsite.
+    add: Adăugați
+    select_existing_files: Selectați fișiere existente
+    add_existing_files: Adăugați fișiere existente
+    add_existing_description: Aceste fișiere au fost deja trimise și le puteți retrimite.
+    zip_disabled: ZIP dezactivat
+    zip_disabled_description_exceeded: Numărul maxim de descărcări a fost depășit pentru cel puțin un atașament.
+    spinner_info_html: <strong>Mesajul dvs. este gata de trimis</strong>. Unele fișiere sunt încă procesate în fundal, dar nu trebuie să așteptați. <strong>Faceți clic pe Trimiteți când sunteți gata!</strong>
+    sent_to_you: Trimise către dvs.
+    excluding_admins: Fără administratori
+    downloads: Descărcări
+    download_log: Jurnal de descărcări
+    delete_attachments: Ștergeți atașamentele
+    delete_message: Ștergeți mesajul
+    delete_attachments_warning: Sigur doriți să ștergeți atașamentele?
+    delete_message_warning: Ștergerea mesajului va șterge și fișierele atașate și jurnalul de descărcări. Sigur doriți să ștergeți mesajul?
+    invalid_message: Mesaj nevalid
+    message_deleted: Mesaj șters
+    attachments_deleted: Atașamente șterse
+    checksum: Sumă de control (SHA256)
+    not_permitted_to_send_messages: Nu aveți permisiunea de a trimite mesaje.
+    invalid_group_belonging: Trimiterea nu este permisă (grup nevalid). Sunteți înregistrat ca utilizator extern, dar adresa dvs. de e-mail aparține domeniului %{domain}, care figurează și printre domeniile de destinatari restricționate. Acest lucru nu este permis utilizatorilor externi. Rugați administratorul de sistem să vă mute în alt grup pentru a continua.
+    expires_after_exceeded: Numărul de descărcări a fost depășit
+    expires_after_exceeded_for_zip: Numărul de descărcări a fost depășit pentru cel puțin un fișier din arhiva ZIP
+    permission_description_title: Restricții de acces
+    permission_description_only_specified_html: <ul> <li>Doar destinatarii specificați pot accesa mesajul și descărca fișierele.</li> <li>Redirecționarea e-mailului sau a URL-ului către oricine nu este permisă.</li> <li>Destinatarii trebuie să se conecteze pentru a accesa mesajul și a descărca fișierele.</li> <li>La fiecare descărcare a fiecărui fișier se trimite o confirmare de descărcare cu informații detaliate.</li> </ul>
+    permission_description_only_specified_and_local_html: <ul> <li>Doar destinatarii specificați și utilizatorii locali pot descărca fișierele.</li> <li>E-mailul sau URL-ul pot fi redirecționate doar către utilizatorii locali.</li> <li>Destinatarii trebuie să se conecteze pentru a descărca fișierele.</li> <li>La fiecare descărcare a fiecărui fișier se trimite o confirmare de descărcare cu informații detaliate.</li> </ul>
+    permission_description_only_specified_and_domains_html: <ul> <li>Doar destinatarii specificați și utilizatorii din același domeniu de e-mail au acces.</li> <li>Dacă trimiteți la director@partener.ro, secretariat@partener.ro poate accesa și el mesajul, dar curios@concurent.ro nu.</li> <li>Destinatarii trebuie să se conecteze pentru a descărca fișierele.</li> <li>La fiecare descărcare a fiecărui fișier se trimite o confirmare de descărcare cu informații detaliate.</li> </ul>
+    permission_description_anyone_after_authentication_html: <ul> <li>Oricine are URL-ul secret și aleatoriu poate descărca fișierele.</li> <li>E-mailul sau URL-ul pot fi redirecționate către oricine.</li> <li>Destinatarii trebuie să se conecteze pentru a descărca fișierele.</li> <li>La fiecare descărcare a fiecărui fișier se trimite o confirmare de descărcare cu informații detaliate.</li> </ul>
+    permission_description_anyone_html: <ul> <li>Oricine are URL-ul secret și aleatoriu poate descărca fișierele.</li> <li>E-mailul sau URL-ul pot fi redirecționate către oricine.</li> <li>Conectarea <strong>nu</strong> este necesară pentru a descărca fișierele.</li> <li>La prima descărcare efectuată de oricine se trimite o confirmare de descărcare <strong>de bază</strong> (autentificarea este necesară pentru a ști cine ce a descărcat).</li> </ul>
+    your_message_has_been_sent: Mesajul dvs. a fost trimis
+    you_can_send_to_anyone: "(Puteți trimite acest link oricui)"
+    send_more_files: Trimiteți mai multe fișiere
+    download_speed: Viteză de descărcare
+    download_time: Durată de descărcare
+    at_least_one_invalid_email: Cel puțin o adresă de e-mail nevalidă
+    reply: Destinatarul poate răspunde
+    private_message: Mesaj privat
+    private_message_description_html: La un mesaj privat, textul mesajului dvs. nu este trimis destinatarului prin e-mail – devine vizibil doar când destinatarul face clic pe linkul din e-mail și se autentifică. <ul> <li>Puteți trimite un mesaj privat fără atașamente.</li> <li>Veți primi o confirmare de acces când cineva v-a vizualizat mesajul.</li> <li>Nu puteți trimite un mesaj privat cu permisiunea de descărcare „Oricine poate descărca”.</li> </ul>
+    private_message_delivered_description: Mesajul a fost trimis ca mesaj privat. Corpul mesajului nu este inclus în e-mail și veți primi o confirmare de acces când fiecare destinatar a vizualizat mesajul.
+    access_info: Informații de acces
+    access_details: Detalii de acces
+    validation_code: Cod de validare
+    expired_token_inline: Autentificarea prin e-mail a expirat, încercați din nou.
+    invalid_token: Cod nevalid sau expirat. Faceți clic pe linkul din e-mailul original pentru a vă confirma din nou adresa de e-mail.
+    download_zip: Descărcați ZIP
+    zip_ready_for_download: ZIP gata de descărcare
+    processing_zip: Se procesează arhiva ZIP
+    drop_file_here: Plasați fișierul aici
+    drop_files_here: Plasați fișierele aici
+    drop_files_and_folders_here: Plasați fișierele și dosarele aici
+    select_pool_files: Selectați fișiere din colecție
+    add_pool_files: Adăugați fișiere din colecție
+    invalid_validation_token: Acesta nu este un cod de validare valid.
+    not_the_validation_token: Acesta este ID-ul mesajului, nu codul de validare. Introduceți codul de validare.
+    no_messages_in_inbox: Nu există mesaje în căsuța de mesaje primite.
+    filename_already_selected: La acest mesaj a fost deja adăugat un fișier cu acest nume
+    filesize_exceeded: Dimensiunea maximă a mesajului a fost depășită
+    infected_with: Infectat cu virus
+    not_permitted_to_download_content_blocked: "Descărcarea acestui fișier nu este permisă. Scanarea antivirus a detectat: %{virus}"
+    invalid_email_address: Adresă de e-mail nevalidă
+    cant_create_folder: Dosarul nu poate fi creat
+    cant_check_folder: Dosarul nu poate fi verificat
+    cant_restore_folder: Dosarul nu poate fi restaurat
+    cant_check_chunks: Fragmentele nu pot fi verificate
+    zip_not_include_all_files: Nu toate fișierele pot fi descărcate – arhiva ZIP va conține doar fișierele descărcabile.
+    paste_tip: Sfat! Lipiți cu Ctrl+Shift+V pentru a elimina formatarea.
+  session:
+    api:
+      authentication_error: Eroare de autentificare, încercați din nou.
+      not_local_user: Adresă de e-mail nevalidă. Doar utilizatorii locali pot folosi această funcție.
+      show:
+        login: Conectare
+        login_label: Adresă de e-mail
+        password: Parolă
+        sso_login: Conectare SSO
+        authentication_title: Conectare
+        authentication_description: Introduceți adresa de e-mail sau conectați-vă pentru a continua.
+      authenticated:
+        authentication_successful: Autentificare reușită
+    authenticate:
+      login: Conectați-vă pentru a continua
+      description_html: Trebuie să vă conectați pentru a accesa această pagină. Introduceți adresa de e-mail sau conectați-vă pentru a continua.<br>Dacă nu aveți un cont în acest sistem, introduceți adresa de e-mail și vă vom trimite o parolă temporară prin e-mail.
+      unauthorized: Nu sunteți autorizat să vizualizați acest mesaj. Introduceți adresa de e-mail exact așa cum v-a fost trimis mesajul sau contactați expeditorul.
+    email:
+      validate_email: Confirmați adresa de e-mail
+      validate_email_description_html: "Un cod de securitate a fost trimis la adresa dvs. de e-mail: <strong>%{email}</strong>. Faceți clic pe link sau introduceți aici codul de securitate pentru a vă confirma adresa și a continua."
+      session_expired: Sesiunea a expirat, introduceți din nou adresa de e-mail pentru a continua
+      token_expired: Linkul de autentificare din e-mail a expirat, încercați din nou.
+      already_authenticated: Sunteți deja conectat în acest browser.
+      resend_validation_email: Retrimiteți e-mailul de validare
+      verify: Verificați
+      validate_email_sent: "Un nou e-mail de validare a fost trimis la: %{time}. Faceți clic pe linkul din e-mail sau introduceți mai jos codul de securitate pentru a vă confirma adresa de e-mail."
+      invalid_temporary_user: Cod de securitate nevalid. Verificați-vă e-mailul – un cod de securitate nou a fost trimis în căsuța de mesaje primite.
+      create_account: Creați un cont
+      create_account_description: Creați un cont în acest sistem pentru a vă putea conecta cu adresa de e-mail și parola, în loc de un cod de securitate.
+      invalid_email: Adresă de e-mail nevalidă
+    login_limit_exceeded:
+      delivered:
+        page_header: Limita de conectări a fost depășită
+        description: Ați încercat să vă conectați de prea multe ori. Pentru a continua, trebuie să vă resetați parola.
+        email: A fost trimis un e-mail cu un link pentru resetarea parolei.
+      waiting:
+        page_header: Limita de conectări a fost depășită
+        description: "Ați încercat să vă conectați de prea multe ori. Notă: trebuie să vă conectați cu parola de rețea. Dacă trebuie să resetați această parolă și nu știți cum, contactați un administrator de rețea. După expirarea timpului de așteptare, puteți reîncărca această pagină pentru a reseta limita."
+        expiration_time: Timp de așteptare
+        reload: Reîncărcați
+      show:
+        page_header: Limita de conectări a fost depășită
+        description: Ați încercat să vă conectați de prea multe ori. Puteți reseta limita de conectări și vă puteți conecta din nou. V-a fost trimis un e-mail pentru resetarea limitei.
+      reset:
+        login_limit_reset: Limita de conectări a fost resetată
+    shared:
+      authentication_successful: Autentificare reușită
+    outlook:
+      edit:
+        authentication_title: Autentificați-vă
+        authentication_description: Conectați-vă pentru a continua
+        login: Conectare
+        login_label: Adresă de e-mail
+        password: Parolă
+        sso_login: Conectare SSO
+      show:
+        authentication_title: Autentificați-vă
+        authentication_description: Conectați-vă pentru a atașa fișiere securizate.
+        authenticate: Autentificați-vă
+    saml:
+      not_configured:
+        title: SAML nu este configurat
+        description: SAML nu este configurat în acest sistem. Dacă credeți că este o eroare, contactați asistența pentru a investiga.
+        support_button: Contactați asistența
+      api:
+        local:
+          title: Autentificare SAML
+          description: Autentificarea SAML a fost lansată în browserul implicit; continuați conectarea acolo. Dacă nu găsiți fereastra sau dacă nu funcționează din orice motiv, puteți continua făcând clic pe butonul de mai jos.
+          button_label: Conectare SSO
+      response:
+        api_error:
+          authentication_error: Autentificarea a eșuat
+          saml_authentication_error: Autentificarea SSO a eșuat
+          saml_authentication_error_description: Autentificarea SSO a eșuat. Contactați administratorul dacă problema persistă.
+        api_disabled:
+          api_disabled: Grup de utilizatori neautorizat
+          api_disabled_description: Contul dvs. nu are acces la această funcție (API dezactivat). Contactați un administrator pentru a vă muta contul în alt grup.
+        api_response:
+          authentication_successful: Autentificare reușită
+        create:
+          could_not_create_account: Contul nu a putut fi creat. Contactați un administrator pentru mai multe informații.
+        show:
+          could_not_create_account: Contul nu a putut fi creat. Contactați un administrator pentru mai multe informații.
+    temporary_user:
+      validate_email: Confirmați adresa de e-mail
+      validate_email_description_html: "O parolă temporară a fost trimisă la adresa dvs. de e-mail: <strong>%{email}</strong>. Faceți clic pe link sau introduceți aici parola temporară pentru a vă confirma adresa și a continua."
+      session_expired: Sesiunea a expirat, introduceți din nou adresa de e-mail pentru a continua
+      token_expired: Linkul de autentificare din e-mail a expirat, încercați din nou.
+      already_authenticated: Sunteți deja conectat în acest browser.
+      resend_validation_email: Retrimiteți e-mailul de validare
+      verify: Verificați
+      validate_email_sent: "Un nou e-mail de validare a fost trimis la: %{time}. Faceți clic pe linkul din e-mail sau introduceți mai jos parola pentru a vă confirma adresa de e-mail."
+      invalid_temporary_user: Parolă nevalidă. Verificați-vă e-mailul – parola temporară a fost retrimisă în căsuța de mesaje primite.
+      temporary_user_expired: Parola temporară a expirat. Verificați-vă e-mailul – o parolă temporară nouă a fost trimisă în căsuța de mesaje primite.
+      create_account: Creați un cont
+      create_account_description: Creați un cont permanent în acest sistem pentru a vă putea conecta cu adresa de e-mail și parola, în loc de un cont de utilizator temporar.
+  shared:
+    show: Afișați
+    reify: Restaurați
+    download: Descărcați
+    restore: Restaurați
+    delete: Ștergeți
+    trash: Coș de gunoi
+    cancel: Anulați
+    close: Închideți
+    current: Actual
+    bootstrap_confirm_dialog:
+      confirm_action: Confirmați acțiunea
+    shares:
+      bootstrap_confirm_dialog:
+        confirm_action: Confirmați acțiunea
+      navigation:
+        files: Fișiere
+        activity_log: Jurnal de activitate
+      wrap_content:
+        activity_log: Jurnal de activitate
+    error_messages:
+      prohibited_this_from_being_saved: a împiedicat salvarea %{target}
+  share:
+    share: Share
+    shares: Share-uri
+    no_shares: Nu există Share-uri disponibile
+    name: Nume
+    folder_name: Nume dosar
+    share_not_found: Share-ul nu a fost găsit
+    folder_not_found: Dosarul nu a fost găsit
+    file_not_found: Fișierul nu a fost găsit
+    no_read_access: Nu aveți permisiunea de a accesa acest Share
+    no_write_access: Nu aveți drept de scriere în acest Share
+    not_authorized_to_view_logs: Nu aveți permisiunea de a vizualiza jurnalele
+    require_authentication: Acest Share necesită autentificare. Introduceți parola pentru a continua.
+    authenticate: Autentificați-vă
+    authentication_failed: Autentificarea a eșuat
+  shares:
+    folders:
+      are_you_sure_you_want_to_delete: Sigur doriți să ștergeți acest dosar?
+      are_you_sure_you_want_to_trash: Sigur doriți să ștergeți definitiv acest dosar?
+      folder_name_already_taken: Acest nume de dosar este deja folosit!
+      folder_not_found: Dosarul nu a fost găsit
+      could_not_create_folder: "Dosarul nu a putut fi creat: %{error}"
+      zip_no_files: Nu există fișiere de adăugat în arhiva ZIP
+      windows_path_warning:
+        title: Limitarea lungimii căii în Windows
+        description_html: <strong>Utilizatori Windows:</strong> Windows limitează căile fișierelor la 259 de caractere. La încărcarea dosarelor din locații cu căi lungi, fișierele aflate adânc în structura de dosare pot fi omise fără avertisment, ceea ce poate duce la încărcări incomplete sau la dosare duplicate.
+        workarounds_title: Soluții recomandate
+        workarounds_html: "<li><strong>Utilizați o unitate virtuală:</strong> deschideți Linia de comandă și rulați: <code>subst X: \"C:\\calea\\dvs\\lunga\\catre\\dosar\"</code><br>Apoi încărcați de pe unitatea virtuală <code>X:\\</code></li><li><strong>Navigați mai aproape de fișiere:</strong> deschideți un subdosar mai apropiat de fișiere înainte de a selecta dosarul de încărcat</li><li><strong>Utilizați o cale mai scurtă:</strong> copiați fișierele într-o locație mai scurtă, cum ar fi <code>C:\\uploads\\</code>, înainte de încărcare</li><li><strong>Arhivați mai întâi dosarul:</strong> comprimați dosarul într-un fișier ZIP și încărcați în schimb fișierul ZIP</li>"
+        advanced_title: "Avansat: activarea căilor lungi în Windows 10/11"
+        advanced_description_html: Începând cu Windows 10 versiunea 1607, puteți activa suportul pentru căi mai lungi. <strong>Notă:</strong> acest lucru necesită drepturi de administrator și s-ar putea să nu funcționeze în toate browserele. Soluțiile de mai sus sunt mai fiabile.
+        registry_steps_title: Pași pentru activarea căilor lungi
+        registry_steps_html: "<li>Apăsați <kbd>Win + R</kbd>, tastați <code>regedit</code> și apăsați Enter</li><li>Navigați la: <code>HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\FileSystem</code></li><li>Găsiți sau creați o valoare DWORD numită <code>LongPathsEnabled</code> și setați-o la <code>1</code></li><li>Reporniți computerul pentru ca modificarea să intre în vigoare</li><li>Testați din nou încărcarea (suportul poate varia în funcție de browser)</li>"
+        browser_disclaimer_html: "<strong>Important:</strong> chiar și cu această setare de registru activată, suportul pentru căi lungi variază în funcție de browser. Chrome, Edge și Firefox pot aplica în continuare limita de 259 de caractere. Soluțiile de mai sus sunt mai fiabile."
+      folder:
+        rename_folder: Redenumiți dosarul
+        move_folder_description: Mutați dosarul %{foldername} în dosarul selectat mai jos
+        move_folder: Mutați dosarul
+      action_bar:
+        download_as_zip: Descărcați ca ZIP
+        download_as_zip_with_deleted: Descărcați ca ZIP, inclusiv fișierele șterse
+        toggle_deleted_view: Afișați/ascundeți fișierele șterse
+        filter: Filtru
+        upload_file: Încărcați fișiere
+        upload_folder: Încărcați un dosar
+        create_folder: Creați un dosar
+        windows_path_warning: Avertisment privind lungimea căii
+        upload_folder_unsupported: Încărcarea dosarelor nu este acceptată
+        upload_folder_unsupported_description: Din păcate, browserul dvs. nu acceptă încărcarea dosarelor. Utilizați versiunea desktop a Chrome sau Safari pentru a încărca o structură de dosare.
+        showing_deleted: Se afișează %{number_of} elemente șterse
+        hiding_deleted: Se ascund %{number_of} elemente șterse
+        actions: Acțiuni
+        move_selected: Mutați selecția
+        trash_selected: Mutați selecția în coșul de gunoi
+        delete_selected: Ștergeți selecția
+      action_bar_below:
+        send_notifications: Trimiteți notificări
+        sending_notifications: Se trimit notificările
+        quota: Cotă
+        used_of: utilizat din
+        available: disponibil
+        quota_exceeded: Cota a fost depășită
+      create_folder_modal:
+        create_folder: Creați un dosar
+        create: Creați
+      files:
+        are_you_sure_you_want_to_delete: Sigur doriți să ștergeți acest fișier?
+        are_you_sure_you_want_to_trash: Sigur doriți să ștergeți definitiv acest fișier?
+        file_not_found: Fișierul nu a fost găsit
+        file:
+          rename_file: Redenumiți fișierul
+          move_file: Mutați
+          move_file_description: Mutați fișierul %{filename} în dosarul selectat mai jos
+        show:
+          prev: Anterior
+          up: Sus
+          next: Următor
+          last_updated: Ultima actualizare
+          versions: Versiuni
+          show_all: Afișați tot
+          version_from: Versiune din
+          next_version: Versiunea următoare
+          previous_version: Versiunea anterioară
+          current_version: Versiunea actuală
+          pdf_preview_not_supported: Previzualizarea fișierelor PDF nu este acceptată de browserul dvs.
+        available_chunks:
+          available: Sunt disponibile încărcări parțiale ale următoarelor fișiere
+          resume_replace: Doriți să reluați încărcarea sau să înlocuiți fișierele?
+      quota:
+        quota: Cotă
+        used_of: utilizat din
+        available: disponibil
+        quota_exceeded: Cota a fost depășită
+      move_file_folder_modal:
+        move_folder: Mutați dosarul
+        move_file: Mutați fișierul
+        move: Mutați
+      show:
+        select_all: Selectați/deselectați tot
+    logs:
+      action_bar:
+        activity_log: Jurnal de activitate
+      message:
+        created: Creat
+        uploaded: Încărcat
+        downloaded: Descărcat
+        reified: Restaurat
+        removed: Eliminat
+        restored: Restaurat
+        deleted: Șters
+        moved: Mutat
+        renamed: Redenumit
+        added: Adăugat
+        viewed: Vizualizat
+        infected: Infectat
+        trashed: Mutat în coșul de gunoi
+        deleted_user: "(Utilizator șters)"
+        share: Share
+        folder: Dosar
+        file: Fișier
+        group: Grup
+        user: Utilizator
+        read: Citire
+        read/write: Citire/scriere
+        av_scanner: Antivirus
+        version_from: Versiune din
+        file_deleted: Fișier șters
+        to: către
+        from: din
+        unknown: Necunoscut
+        other: Altele
+  share/log:
+    message:
+      you: Dvs.
+      share: Share
+      folder: dosar
+      file: fișier
+      user: utilizator
+      version_from: versiune din
+      read: citire
+      read/write: citire/scriere
+      created: a creat
+      added: a adăugat
+      uploaded: a încărcat
+      downloaded: a descărcat
+      updated: a actualizat
+      restored: a restaurat
+      reified: a restaurat
+      deleted: a șters
+      removed: a șters definitiv
+      trashed: a mutat în coșul de gunoi
+      renamed: a redenumit
+      viewed: a vizualizat
+      infected: infectat
+      av_scanner: Antivirus
+      file_deleted: Fișier șters
+  sms_auth:
+    login_failed: Conectarea a eșuat
+    sms_error: Eroare de configurare SMS, contactați administratorul de sistem
+    verify_token: Verificați codul SMS
+    verify_token_description: "Introduceți codul trimis pe telefonul mobil:"
+    sms_login_failed: Validarea prin SMS a eșuat, a fost trimis un cod SMS nou
+    sms_signup: Înscriere pentru autentificarea cu doi factori prin SMS
+    sms_signup_failed: Autentificarea cu doi factori prin SMS a eșuat
+    sms_signup_description: Pentru a continua, trebuie să vă înscrieți pentru autentificarea cu doi factori prin SMS. Introduceți numărul de telefon mai jos pentru a continua.
+    verify: Verificați
+    resend: Retrimiteți codul
+    code: Cod
+    token_resent: Codul SMS a fost retrimis la %{time}
+    send_token: Trimiteți codul de verificare
+    phone_number: Număr de telefon
+    invalid_phone_number: Număr de telefon nevalid, încercați din nou.
+    change_phone_number: Schimbați numărul de telefon
+    phone_number_help: Introduceți numărul de telefon cu prefixul țării și fără zerouri inițiale (de ex. 40712345678). La acest număr va fi trimis un cod de verificare.
+    one-time-code: Cod de unică folosință
+  strong_auth:
+    two_factor_authentication: Autentificare cu doi factori
+    enable_2fa: Activați autentificarea cu doi factori
+    disable_2fa: Dezactivați autentificarea cu doi factori
+    title: Activați autentificarea cu doi factori
+    enable_2fa_description: Puteți activa autentificarea puternică cu doi factori pentru a crește securitatea contului.
+    require_description: Pentru a utiliza acest sistem, trebuie să configurați autentificarea cu doi factori.
+    disable_description: Introduceți codul actual pentru a dezactiva autentificarea cu doi factori
+    two_factor_auth_disabled: Autentificarea cu doi factori a fost dezactivată
+    step1: "Pasul 1: descărcați aplicația de autentificare"
+    step1_description: Activați autentificarea cu doi factori, de obicei cu o aplicație mobilă.
+    totp_apps_description_html: Printre aplicațiile de autentificare se numără <a href="https://authy.com" target="_blank" rel="external nofollow noopener noreferrer">Authy</a> (mai multe platforme) și Google Authenticator (iOS/Android). Consultați <a href="https://docs.liquidfiles.com/authentication/totp.html#clients" target="_blank">TOTP Clients</a> pentru mai multe opțiuni.
+    step2: "Pasul 2: configurați aplicația de autentificare"
+    step2_description: Configurați aplicația de autentificare scanând codul QR.
+    step2_alt: Sau introduceți următorul cod
+    step3: "Pasul 3: verificați"
+    step3_description: Verificați configurarea introducând codul generat de aplicația de autentificare.
+    failed_to_authenticate: Autentificarea a eșuat, încercați din nou.
+    click_on_link: Alternativ, faceți clic pe următorul link pentru a adăuga configurația în aplicația de autentificare cu doi factori
+    configure: Configurați autentificarea cu doi factori
+    success_saved: Reușit, configurația autentificării cu doi factori a fost salvată
+    verify_token: Verificați autentificarea cu doi factori
+    verify_token_description: Introduceți codul de autentificare cu doi factori din aplicația mobilă.
+    verify: Verificați
+    two_factor_login_failed: Autentificarea cu doi factori a eșuat
+    two_factor_validation_failed: Validarea autentificării cu doi factori a eșuat
+    skip_2fa_for_two_weeks: Omiteți autentificarea cu doi factori în acest browser timp de două săptămâni
+    one-time-code: Cod de unică folosință
+  support:
+    email_subject: Vă rog să mă ajutați cu
+    email_body: Descrieți problema cât mai detaliat posibil. Vă mulțumim.
+    navbar_tooltip: Dacă aveți nevoie de ajutor pentru a accesa sau a utiliza acest sistem, faceți clic pe acest link și vă vom ajuta cu plăcere.
+  user:
+    includes_at_least_one_invalid_email_address: conține cel puțin o adresă de e-mail nevalidă
+    confirm:
+      invalid_session: Sesiune nevalidă
+      already_validated: Adresa dvs. de e-mail a fost deja confirmată
+      invalid_token: Cod nevalid. Încercați din nou sau faceți clic pe Retrimiteți e-mailul de validare.
+      validation_email_sent: "E-mailul de validare a fost trimis la: %{time}"
+      activated_successfully: Activat cu succes
+      validate_email_description: Verificați-vă e-mailul și introduceți parola temporară pentru a vă confirma adresa de e-mail.
+    register:
+      already_registered: Acest cont este deja înregistrat, conectați-vă pentru a continua
+      already_registered_not_validated: Contul dvs. este deja înregistrat, dar adresa de e-mail trebuie încă confirmată. V-am trimis un e-mail cu un cod aleatoriu. Introduceți codul mai jos sau faceți clic pe linkul din e-mail pentru a vă confirma contul.
+      show:
+        register: Înregistrați un cont
+        description_html: <p>Introduceți datele dvs. pentru a crea un cont. Cu acest cont puteți trimite în siguranță fișiere mari către %{branding_name}.</p>
+    signup:
+      create:
+        need_password: Trebuie să introduceți o parolă
+        need_name: Trebuie să introduceți un nume
+    create:
+      show:
+        cancel_and_remember: Anulați și nu mai întrebați
+        cancel_and_remember_title: Acest lucru va fi reținut în browserul curent
+  validator:
+    required: Acest câmp este obligatoriu.
+    remote: Corectați acest câmp.
+    email: Introduceți o adresă de e-mail validă.
+    url: Introduceți un URL valid.
+    date: Introduceți o dată validă.
+    dateISO: Introduceți o dată validă (ISO).
+    number: Introduceți un număr valid.
+    digits: Introduceți doar cifre.
+    creditcard: Introduceți un număr de card de credit valid.
+    equalTo: Introduceți din nou aceeași valoare.
+    accept: Introduceți o valoare cu o extensie validă.
+    maxlength: Introduceți cel mult {0} caractere.
+    minlength: Introduceți cel puțin {0} caractere.
+    rangelength: Introduceți o valoare între {0} și {1} caractere.
+    range: Introduceți o valoare între {0} și {1}.
+    max: Introduceți o valoare mai mică sau egală cu {0}.
+    min: Introduceți o valoare mai mare sau egală cu {0}.
+    step: Introduceți un multiplu de {0}.
+    invalid_phone_number: Număr de telefon nevalid
+  locale: Română

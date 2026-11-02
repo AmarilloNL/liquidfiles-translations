@@ -1,0 +1,1569 @@
+pt:
+  s: s
+  min: min
+  hours: Horas
+  days: Dias
+  weeks: Semanas
+  months: Meses
+  years: Anos
+  ago: atrás
+  email: E-mail
+  save: Guardar
+  delete: Eliminar
+  cancel: Cancelar
+  remove: Remover
+  aborting: A cancelar
+  aborted: Cancelado
+  saved_successfully: Guardado com êxito
+  logout: Terminar sessão
+  error: Erro
+  enabled: Ativado
+  disabled: Desativado
+  disable: Desativar
+  default: Predefinido
+  submit: Enviar
+  session_expired: A sessão expirou
+  search: Pesquisar
+  filter: Filtrar
+  recipient: Destinatário
+  recipients: Destinatários
+  downloaded_by: Transferido por
+  filename: Nome do ficheiro
+  size: Tamanho
+  downloaded: Transferido
+  host: Anfitrião
+  ip: Endereço IP
+  action: Ação
+  view_message: Ver mensagem
+  view_message_popup: Ver mensagem (janela pop-up)
+  download_info: Informações da transferência
+  message_id: ID da mensagem
+  filelink_id: ID do FileLink
+  sent_at: Enviado em
+  id: ID
+  subject: Assunto
+  expires: Expira
+  invalid_method: Método inválido
+  export_csv: Exportar CSV
+  export_all: Exportar tudo
+  export_visible: Exportar visíveis
+  temporarily_unavailable: Temporariamente indisponível
+  generic_search_error: Erro de pesquisa genérico
+  sender: Remetente
+  search_temporary_disabled: Pesquisa temporariamente desativada
+  help: Ajuda
+  close: Fechar
+  count: Quantidade
+  settings: Definições da conta
+  virus: Vírus
+  virus_status: Estado do antivírus
+  infected: Infetado
+  clean: Limpo
+  not_scanned: Não analisado
+  not_yet_scanned: Ainda não analisado
+  csrf_error: "CSRF: foram detetados parâmetros inválidos. Inicie sessão novamente para continuar."
+  could_not_be_saved: Não foi possível guardar
+  label: Etiqueta
+  updated: Atualizado
+  add: Adicionar
+  system_info: Informações do sistema
+  location: Localização
+  accept: Aceitar
+  last_7_days: Últimos 7 dias
+  last_30_days: Últimos 30 dias
+  last_60_days: Últimos 60 dias
+  last_90_days: Últimos 90 dias
+  last_180_days: Últimos 180 dias
+  last_365_days: Últimos 365 dias
+  file: Ficheiro
+  files: Ficheiros
+  next: Seguinte
+  previous: Anterior
+  name: Nome
+  view: Ver
+  forget: Esquecer
+  update: Atualizar
+  updated_at: Atualizado em
+  created_at: Criado em
+  download_link_expired: A ligação de transferência expirou.
+  no_html5_upload_warning: Para carregar ficheiros é necessário um navegador moderno compatível com HTML5. O Microsoft Edge, o Chrome, o Firefox e o Safari funcionam todos perfeitamente.
+  javascript_warning: É necessário JavaScript para enviar ficheiros e utilizar a maioria das funcionalidades.
+  cookie_accept: Este site utiliza cookies. Ao iniciar sessão ou clicar em «Aceitar», aceita a utilização de cookies.
+  i_agree: Concordo
+  session_timeout: A sessão expirou, inicie sessão novamente
+  loading: A carregar...
+  unsupported_browser_header: Navegador não suportado
+  unsupported_browser_description_html: O seu navegador não é suportado, pelo que este site provavelmente não funcionará como esperado. Utilize um navegador mais recente neste site.
+  not_logged_in_invalid_parameters: Sessão não iniciada, parâmetros inválidos
+  toggle_dropdown: Mostrar/ocultar menu
+  rejected: Rejeitado
+  undetected: Não detetado
+  invalid_link: Ligação inválida, contacte o remetente
+  account_settings_tooltip: Definições da conta
+  logout_tooltip: Terminar sessão
+  download_id: ID da transferência
+  remote_host: Anfitrião remoto
+  show: Mostrar
+  hide: Ocultar
+  password: Palavra-passe
+  download: Transferir
+  unauthorized: Não autorizado
+  account:
+    login: Iniciar sessão
+    login_label: Endereço de e-mail
+    email: Endereço de e-mail
+    password: Palavra-passe
+    current_password: Palavra-passe atual
+    please_enter_your_current_password: Introduza a sua palavra-passe atual
+    sign_in: Iniciar sessão
+    remember_me: Lembrar-me
+    not_administrator: Não é administrador
+    password_reset: Repor palavra-passe
+    register: Registar
+    register_description_html: Obrigado! Para continuar, introduza os seus dados para criar uma conta.<br>Da próxima vez, poderá iniciar sessão com o seu endereço de e-mail e palavra-passe.
+    account_not_activated: A conta não está ativada. Ative a conta antes de iniciar sessão. Foi-lhe enviado um e-mail com um código aleatório. Introduza o código abaixo ou clique na ligação do e-mail para validar a sua conta.
+    incorrect_user_or_pw: Nome de utilizador ou palavra-passe incorretos
+    confirmation_email_sent: E-mail de confirmação enviado
+    activated_successfully: Ativado com êxito
+    not_activated: Conta não ativada
+    password_reset_email_sent: E-mail de reposição da palavra-passe enviado
+    no_such_user: O utilizador não existe
+    no_such_email: Endereço de e-mail não encontrado
+    not_logged_in: Não tem sessão iniciada. Inicie sessão para continuar.
+    saved_successfully: Guardado com êxito
+    unlicensed_install_some_settings: "Instalação sem licença: as opções de personalização só são visíveis para os administradores do sistema"
+    incorrect_login_or_demo: Nome de utilizador ou palavra-passe incorretos, ou limite da licença atingido
+    incorrect_login_or_ldap: Nome de utilizador ou palavra-passe incorretos, ou erro no servidor LDAP
+    invalid_api_key: Chave de API inválida
+    cant_delete_last_sysadmin: Não é possível eliminar o último administrador do sistema
+    cant_change_last_sysadmin: Não é possível alterar o último administrador do sistema
+    sso_login: Início de sessão SSO
+    invalid_sso_response: Resposta SSO inválida
+    automatic: Detetado automaticamente
+    network_access_blocked: Não é permitido aceder a este sistema a partir da sua rede.
+    please_login: Inicie sessão para aceder a esta página.
+    email_validation_session_timeout: A sessão expirou, valide novamente o seu endereço de e-mail.
+    signature: Assinatura
+    not_authorized_for_action: Não está autorizado a executar esta ação
+    invalid_group: Grupo inválido. Contacte um administrador que possa mover a sua conta para um grupo de utilizadores locais
+    invalid_group_configuration: Configuração de grupo inválida. Contacte um administrador que possa criar uma conta para si ou alterar a configuração do grupo.
+    please_enter_email_to_email_password: Introduza o seu endereço de e-mail para repor a palavra-passe. Será enviado um e-mail de confirmação para este endereço.
+    password_reset_successfully: Palavra-passe reposta com êxito
+    password_cant_be_empty: A palavra-passe não pode estar vazia
+    password_complexity_title: Complexidade da palavra-passe
+    password_complexity_description_html: "<p>A sua palavra-passe <strong>não pode basear-se numa palavra do dicionário</strong> e tem de cumprir pelo menos 3 dos seguintes requisitos:</p><ul><li>Pelo menos 8 caracteres</li><li>Pelo menos 11 caracteres</li><li>Pelo menos 15 caracteres</li><li>Pelo menos 1 letra minúscula e 1 maiúscula</li><li>Pelo menos 1 algarismo (0-9)</li><li>Pelo menos um dos seguintes caracteres: !,@,#,$,%,^,&amp;,*,?,_,~,-,(,)</li></ul>"
+    is_not_strong_enough: não é suficientemente forte
+    your_password_has_expired: A sua palavra-passe expirou
+    please_select_a_different_password: Escolha uma palavra-passe diferente da anterior
+    change_password: Alterar palavra-passe
+    account_not_found: Conta não encontrada. Inicie sessão novamente.
+    user_required_to_use_saml: Não é possível repor a palavra-passe, inicie sessão através de SAML
+    sysadmin_ldap_error: Esta conta é autenticada através de LDAP e não pode ser reposta aqui
+    login_limit_exceeded: Limite de inícios de sessão excedido
+    a_confirmation_email_will_be_sent: Será enviado um e-mail de confirmação para este endereço
+    name: Nome
+    password_confirm: Confirmar palavra-passe
+    save: Guardar
+    can_not_reset_password_please_check_with_your_administrator: Não é possível repor a palavra-passe, contacte o seu administrador
+    no_need_to_register_user: Não é necessário registar-se. Inicie sessão com a sua conta existente.
+    registration_not_allowed: Registo não permitido
+    create_description: Crie a sua conta introduzindo o seu nome e uma palavra-passe.
+    activated_successfully_please_login: Conta ativada com êxito. Já pode iniciar sessão com o seu endereço de e-mail e palavra-passe.
+    invalid_activation_url: URL de ativação inválido. Verifique o URL e tente novamente.
+    already_logged_in: Já tem sessão iniciada. Não é possível registar uma nova conta.
+    bruteforce_message: Excedeu o número de tentativas falhadas. Tente novamente dentro de %{minutes} minutos.
+    admin_access_blocked: Não é permitido o acesso de administrador a partir do seu endereço IP.
+    account_created_successfully: Conta criada com êxito
+    create_account: Criar conta
+    create_account_description: Complete os seus dados para criar a sua conta.
+    account_settings: Definições da conta
+    change_language: Alterar idioma e fuso horário
+    filedrop_label: Filedrop (aleatório)
+    filedrop_email_label: Filedrop
+    verify_account: A verificar a conta
+    invalid_sso_signature: Assinatura ou início de sessão SSO inválidos
+    user_not_found: Utilizador não encontrado
+    could_not_create_account: Não foi possível criar a conta
+    two_factor_authentication_failed: Falha na autenticação de dois fatores Duo
+    copy_to_clipboard: Copiar para a área de transferência
+    copy_url_to_clipboard: Copiar URL para a área de transferência
+    delete_user_warning: Tem a certeza de que pretende eliminar este utilizador?
+    unauthorized_to_login: Sem autorização para iniciar sessão
+    first_time_message_title: Bem-vindo ao LiquidFiles
+    first_time_message: <p>Bem-vindo ao LiquidFiles, a forma mais simples de enviar ficheiros grandes em segurança.</p><p>Para as operações básicas, funciona tal como um webmail.</p><p>Esta mensagem só será apresentada uma vez. Se tiver dificuldades ou quiser descobrir funcionalidades mais avançadas, clique no botão «Ajuda» no canto superior direito da barra de menus.</p>
+    first_time_message_button: Entendido!
+    registration_failed_unknown_error: O registo falhou devido a um erro desconhecido
+    session_timeout: A sessão expirou
+    nothing_filled_in: Preencha o formulário
+    last_used: Última utilização
+    strong_auth_required_before_password_reset: Esta conta requer autenticação forte de dois fatores antes de ser possível repor a palavra-passe.
+    unfriendly_registration_message: Se for possível registar-se neste sistema com este endereço de e-mail, receberá um e-mail. Caso contrário, utilize a ligação de suporte acima.
+    unfriendly_password_reset_message: Se for possível repor a conta associada a este endereço de e-mail, receberá um e-mail. Caso contrário, utilize a ligação de suporte acima.
+    aliases:
+      aliases: Aliases
+      aliases_description: Pode adicionar aliases de remetente e de destinatário à sua conta. Um alias de remetente permite-lhe enviar mensagens em nome desse endereço de e-mail. Um alias de destinatário permite-lhe ver as mensagens dirigidas a esse endereço. As mensagens para um alias de destinatário também ficam visíveis na sua caixa de entrada de mensagens seguras.
+      aliases_no_change_description: Um alias de remetente permite-lhe enviar mensagens em nome desse endereço de e-mail. Um alias de destinatário permite-lhe ver as mensagens dirigidas a esse endereço. As mensagens para um alias de destinatário também ficam visíveis na sua caixa de entrada de mensagens seguras. Contacte um administrador para adicionar ou alterar aliases.
+      recipient_aliases: Aliases de destinatário
+      sender_aliases: Aliases de remetente
+      add_alias: Adicionar alias
+      remove: Remover
+      default_sender_alias: Alias de remetente predefinido
+      default_sender_alias_description: O alias de remetente predefinido.
+      are_you_sure: Tem a certeza de que pretende remover este alias?
+      no_emails: Não foi adicionado nenhum alias.
+      please_contact_an_administrator: Contacte um administrador para os gerir
+      auto_added_aliases: Aliases adicionados automaticamente
+      auto_added_aliases_description: Os seguintes aliases foram adicionados automaticamente ao seu perfil. Contacte um administrador para os gerir.
+    alias:
+      confirm:
+        show:
+          title: Obrigado pela confirmação
+          alias_email: E-mail do alias
+          user: Utilizador
+          recipient_and_sender_confirmation: O utilizador acima pode agora ver as mensagens seguras dirigidas a este endereço de e-mail e enviar mensagens seguras em seu nome. Se isto foi um erro, clique na ligação de suporte acima.
+          only_recipient_confirmation: O utilizador acima pode agora ver as mensagens seguras dirigidas a este endereço de e-mail. Se isto foi um erro, clique na ligação de suporte acima.
+          only_sender_confirmation: O utilizador acima pode agora enviar mensagens seguras em nome deste endereço de e-mail. Se isto foi um erro, clique na ligação de suporte acima.
+    add_alias_modal:
+      title: Adicionar alias
+      description: Introduza o endereço de e-mail a que pretende aceder como alias de destinatário ou de remetente. Será enviado um e-mail para este endereço para confirmação.
+      recipient_alias: Alias de destinatário - pretendo ler as mensagens enviadas para este endereço de e-mail.
+      sender_alias: Alias de remetente - pretendo enviar mensagens em nome deste endereço de e-mail.
+      invalid_email: Endereço de e-mail inválido
+      add_permission: Selecione alias de destinatário, alias de remetente ou ambos.
+      send_request: Enviar pedido
+      request_has_been_sent: O seu pedido foi enviado.
+    api:
+      api_key: Chave de API
+      api_key_description: A chave de API é utilizada por plug-ins como o do Outlook e pode ser usada para integrações personalizadas. Só precisa dela se um administrador lho pedir.
+      api_key_reset_warning: Tem a certeza? Se repor a chave de API, terá de substituir a chave anterior em todos os locais onde a utilizou.
+      reset_api_key: Repor chave de API
+    contacts:
+      contacts: Contactos
+      contacts_description: Pode adicionar tantos contactos quantos quiser. Cada contacto pode ter vários endereços de e-mail, para enviar de forma rápida e simples para vários destinatários ao mesmo tempo.
+      add_contact: Adicionar contacto
+      email_field_help: Endereços de e-mail separados por vírgulas.
+      contact:
+        edit_label: Editar etiqueta
+        edit_email: Editar endereço de e-mail
+        are_you_sure: Tem a certeza de que pretende eliminar este contacto?
+    filedrops:
+      filedrops: Filedrops
+      filedrops_description: É o destinatário principal ou em cópia destes Filedrops. Qualquer ficheiro enviado através de um destes Filedrops ser-lhe-á entregue.
+      name: Nome
+      title: Título
+      recipient: Destinatário
+      expires_after: Expira após
+      max_size: Tamanho máx. do ficheiro
+      url: URL
+      main_recipient: Destinatário principal
+      cc: CC
+    personal_filedrop:
+      personal_filedrop: Filedrop pessoal
+      personal_filedrop_description: O seu Filedrop pessoal é uma forma simples de receber ficheiros. Pode enviar a ligação, publicá-la num site ou incluí-la na sua assinatura de e-mail. Receberá uma notificação assim que alguém lhe enviar algo através do seu Filedrop pessoal.
+    previous_recipients:
+      previous_recipients: Destinatários anteriores
+      previous_recipients_description: Quando envia uma mensagem segura, cada destinatário é adicionado a esta lista de destinatários anteriores. Assim pode reenviar rapidamente mensagens para os mesmos destinatários. Os destinatários a quem não enviou nada nos últimos 180 dias são removidos automaticamente desta lista.
+      are_you_sure: Tem a certeza de que pretende eliminar este destinatário anterior?
+    pw_dictionary:
+      based_on_a_dictionary_word: baseia-se numa palavra do dicionário
+      based_upon_your_password_entry: baseia-se na palavra-passe introduzida
+      derived_from_your_password_entry: deriva da palavra-passe introduzida
+      derivable_from_your_password_entry: pode ser deduzida da palavra-passe introduzida
+      way_too_short: é MUITO curta
+      too_short: é demasiado curta
+      it_does_not_contain_enough_different_characters: não contém caracteres DIFERENTES suficientes
+      all_whitespace: contém apenas espaços
+      too_simplistic_systematic: é demasiado simples/sistemática
+      it_looks_like_a_national_insurance_number: parece um número da Segurança Social
+      based_on_a_reversed_dictionary_word: baseia-se numa palavra do dicionário (invertida)
+    show:
+      basic_settings: Definições básicas
+      change_password: Alterar palavra-passe
+      strong_auth: Autenticação de dois fatores
+      aliases: Aliases
+      previous_recipients: Destinatários anteriores
+      contacts: Contactos
+      personal_filedrop: Filedrop pessoal
+      api: API
+      filedrops: Filedrops
+    sms_disable:
+      disable_sms_otp: Desativar a autenticação de dois fatores por SMS
+      disable_sms_otp_description: Se pretende desativar a autenticação de dois fatores por SMS, clique no botão abaixo. Será enviado um código por SMS para confirmar o pedido.
+      verify_token_description: "Para desativar a autenticação de dois fatores por SMS, introduza o código enviado para o seu telemóvel:"
+      code: Código
+      sms_token_failed: Código SMS inválido, não foi possível desativar a autenticação de dois fatores por SMS
+      sms_otp_has_been_disabled: A autenticação de dois fatores por SMS foi desativada
+    sms_signup:
+      sms_signup_description: Pode melhorar a segurança da sua conta ativando a autenticação de dois fatores. Introduza o seu número de telefone abaixo para a ativar.
+      phone_number: Número de telefone
+    sms_enable:
+      signup_complete: A autenticação de dois fatores por SMS foi ativada
+    terms_of_service:
+      show:
+        title: Termos de utilização
+        accept_terms_of_service: Aceitar os termos de utilização
+        do_not_accept: Não aceitar
+      create:
+        you_need_to_accept: Tem de aceitar os termos de utilização!
+  activerecord:
+    attributes:
+      attachment:
+        filename: Nome do ficheiro
+        size: Tamanho
+        secure_id: ID do anexo
+        content_type: Tipo de conteúdo
+        created_at: Criado em
+        updated_at: Atualizado em
+      download:
+        recipient: Destinatário
+        downloaded_at: Transferido em
+        remote_ip: IP remoto
+        remote_host: Anfitrião remoto
+        created_at: Criado em
+        updated_at: Atualizado em
+      filedrop:
+        name: Nome
+        title: Título
+        description: Descrição
+        blocked_extensions: Extensões bloqueadas
+        permitted_extensions: Tipos de ficheiro permitidos
+        expires_after: Expira após
+        max_filesize: Tamanho máximo do ficheiro
+        created_at: Criado em
+        updated_at: Atualizado em
+        api_key: Chave de API
+        cc: CC
+        authorization: Autorização
+      message:
+        recipients: Destinatários
+        sender: Remetente
+        cc: CC
+        bcc: BCC
+        message: Mensagem
+        subject: Assunto
+        deleted: Eliminado
+        authorization: Autorização
+        created_at: Criado em
+        updated_at: Atualizado em
+        expires_at: Expira em
+      share/log:
+        created_at: Data
+      share/file:
+        checksum: Soma de verificação (SHA256)
+      share/file/version:
+        whodunnit: Alterado por
+        created_at: Alterado em
+      user:
+        name: Nome
+        email: Endereço de e-mail
+        quota: Quota
+        used: Utilizado
+        max: Máx.
+        password: Palavra-passe
+        ldap_authentication: Autenticação LDAP
+        api_key: Chave de API
+        level: Nível
+        filedrop: Filedrop
+    models:
+      configuration: Configuração
+      attachment: Anexo
+      filedrop: Filedrop
+      message: Mensagem
+      user: Utilizador
+      download: Transferência
+  admin:
+    groups:
+      form:
+        bcc_myself: Enviar uma cópia para mim
+        can_change_bcc_myself: Permitir que os utilizadores deste grupo alterem a definição de enviar uma cópia para si próprios
+      index:
+        default_group_assignment: Atribuição de grupo predefinida
+    users:
+      users:
+        email: Endereço de e-mail
+        name: Nome
+        group: Grupo
+        max: Tamanho máx. do ficheiro
+        quota: Quota
+        strong_auth: Autenticação forte
+        filedrop: Filedrop
+        last_login_at: Último início de sessão
+        last_login_ip: IP do último início de sessão
+        created: Criado
+      form:
+        name_label: Nome
+        email: Endereço de e-mail
+        password: Palavra-passe
+        password_confirmation: Confirmar palavra-passe
+        max_label: Tamanho máximo do ficheiro
+        group: Grupo
+        strong_auth: Autenticação forte
+        strong_auth_username: Nome de utilizador da autenticação forte
+        api_key: Chave de API
+        filedrop: Filedrop
+  attachments:
+    not_found: Anexo não encontrado
+  config:
+    settings: Definições
+    email: E-mail
+    language_preferences_from_your_browser: Preferências de idioma do seu navegador
+    authentication: Autenticação
+    time_zone: Fuso horário
+    current_time_zone: Fuso horário atual
+    time_zone_from_browser: Fuso horário detetado pelo seu navegador
+    time_zone_config_description: Se deixar o fuso horário em «Detetado automaticamente», será utilizado o fuso horário detetado pelo seu navegador (todas as horas serão apresentadas nesse fuso horário). Se o navegador não conseguir detetar o fuso horário, será utilizado o fuso horário predefinido do sistema. Se o seu navegador não detetar o fuso horário correto ou se pretender ver as horas noutro fuso horário, pode definir um fuso horário específico.
+    time_zone_default: Fuso horário predefinido do sistema
+    email_settings: Definições de e-mail
+    configuration: Configuração
+    local_domains: Domínio local
+    ldap_users: Utilizadores autenticados por LDAP
+    ldap_users_are_always_local: Os utilizadores autenticados por LDAP são sempre locais
+    separated_by_comma: separados por vírgulas
+    default_max_file_size: Tamanho máximo de ficheiro predefinido
+    local_users: Utilizadores locais
+    external_users: Utilizadores externos
+    allow_registration: Permitir registo
+    allow_registration_desc: Permitir o registo na página de início de sessão
+    external_user_account: Destinatários externos
+    external_user_account_desc: Os destinatários externos têm de criar uma conta
+    allow_users_to_change_expiration: Permitir que os utilizadores alterem a expiração dos ficheiros
+    authorization: Permissão
+    authorization_description: Definição predefinida de quem pode transferir ficheiros.
+    file_expiration: Expiração
+    default_expire_files_after: Por predefinição, os ficheiros expiram após
+    delete_downloaded_files_after: Eliminar ficheiros transferidos após
+    branding: Personalização
+    company_name: Nome da empresa
+    custom_stylesheet: Folha de estilos personalizada
+    custom_javascript: JavaScript personalizado
+    logotype: Logótipo
+    leave_blank_for_default: deixar em branco para o valor predefinido
+    email_configuration: Configuração de e-mail
+    email_sender_address: Endereço do remetente
+    email_host: URL base dos e-mails
+    email_footer: Rodapé dos e-mails
+    email_relay_host: Servidor de reencaminhamento de e-mail
+    email_relay_username: Nome de utilizador do reencaminhamento de e-mail
+    email_relay_password: Palavra-passe do reencaminhamento de e-mail
+    port: Porta
+    unlicensed_install_some_settings: "Instalação sem licença: as definições de personalização só são visíveis para os administradores do sistema"
+    mail_relay_example: "Ex.: mailrelay.dominio.pt, mx.dominio.pt:587"
+    ldap: LDAP
+    please_see_the: consulte a
+    for_more_information: para mais informações
+    virus_scan: Análise antivírus
+    virus_scan_description: Analisar ficheiros à procura de vírus
+    blocked_file_extensions: Extensões de ficheiro bloqueadas
+    default_bcc_myself_label: Enviar uma cópia para mim
+    default_bcc_myself: Enviar uma cópia para mim por predefinição
+    allow_users_to_change_require_login_label: Exigir autenticação
+    allow_users_to_change_require_login: Permitir que os utilizadores alterem «Exigir autenticação»
+    permitted_file_extensions_label: Extensões de ficheiro permitidas
+    delete: Eliminar
+    ldap_description: "Ative a autenticação LDAP de utilizadores e defina alguns parâmetros básicos para a ligação ao servidor LDAP. Se não for indicada nenhuma porta, será utilizada a porta LDAP predefinida 389 (ou a porta 636 se o SSL estiver ativado). Nota: a porta 3268 NÃO é utilizada para autenticação no Active Directory, apenas para pesquisas no livro de endereços global. Utilize antes a porta 389/636."
+    ldap_authentication: Autenticação LDAP
+    basic_settings: Definições básicas
+    server: Nome do servidor / endereço IP
+    username: Nome de utilizador
+    password: Palavra-passe
+    authentication_description: Este utilizador será utilizado para ligar ao servidor LDAP (deixe em branco para uma ligação anónima). O utilizador necessita de permissões de pesquisa na árvore LDAP.
+    search_key: Chave de pesquisa
+    search_key_description: A chave de pesquisa e o domínio são utilizados para encontrar utilizadores na árvore LDAP. Consulte a tabela seguinte para ver como a chave de pesquisa e o domínio interagem para encontrar um utilizador.
+    search_key_description2: Assim, se a chave de pesquisa LDAP contiver o endereço de e-mail, o domínio deve ficar vazio. Se a chave de pesquisa LDAP contiver apenas o nome de utilizador, o domínio deve conter o domínio dos utilizadores.
+    search_key_defaults: "Para o Active Directory, um bom ponto de partida é: sAMAccountName como chave de pesquisa LDAP e empresa.pt (o seu domínio) como domínio."
+    user_enters: O utilizador introduz
+    authorized_ldap_groups: Grupos LDAP autorizados
+    available_groups: Grupos disponíveis
+    default_settings: Definições predefinidas
+    setting: Definição
+    value: Valor
+    description: Descrição
+    default_local_max_description: Este é o tamanho máximo de ficheiro predefinido para novos utilizadores locais. Pode ser alterado para cada utilizador.
+    user_changeable: Alterável pelo utilizador?
+    non_local: Não local
+    remote: Remoto
+    new_external_recipient_is_nonlocal: Os novos destinatários externos são
+    email_message_on_top_label: Mensagem no topo
+    email_message_on_top: A mensagem aparece acima da lista de ficheiros no e-mail para os destinatários
+    use_either_permitted_or_blocked_extensions: Tem de escolher extensões permitidas ou bloqueadas, não ambas
+    invalid_password: Palavra-passe inválida
+    valid_password: Palavra-passe válida
+    test_password_validation: Testar validação da palavra-passe
+    custom_password_validation: Validação personalizada da palavra-passe
+    custom_password_validation_description: "Esta expressão regular será utilizada para a validação personalizada da palavra-passe. Escreva apenas a expressão regular, sem delimitadores (não comece nem termine com '/'). Exemplo: [a-zA-Z0-9]{7,} (as palavras-passe só poderão conter a-z, A-Z e 0-9, com um mínimo de 7 caracteres)"
+    filedrop: Filedrop
+    receive: Receber
+    api_settings: Definições da API
+    enable_api_label: Ativar API
+    enable_api_description: Ativar a API para permitir o acesso através de plug-ins e scripts
+    enable_api_group_config: Estão disponíveis mais definições da API na configuração dos grupos.
+    api_client_size_override_label: Limite de tamanho para clientes da API
+    api_client_size_override_description: Os clientes da API enviarão através do appliance os ficheiros que excedam este tamanho
+    sso_secret_key: Chave secreta SSO
+    generate_key: Gerar nova chave
+    sso_replace_confirm: Tem a certeza? Se substituir a chave secreta SSO, as integrações SSO existentes deixarão de funcionar.
+    virus_scan_skip_locals: Ignorar a análise antivírus para utilizadores locais
+    virus_scan_skip_locals_description: Não analisar os ficheiros dos utilizadores locais
+    virus_scan_permit_unscanned: Permitir ficheiros não analisados
+    virus_scan_permit_unscanned_description: Permitir a transferência de ficheiros que ainda não foram analisados
+    userdrop: Filedrop de utilizador
+    user_filedrop_with_random_key: Filedrops de utilizador com chave aleatória
+    enable_userdrop: Ativar Filedrops de utilizador
+    example: Exemplo
+    user_filedrop_with_email: Filedrops de utilizador com endereços de e-mail
+    enable_userdrop_email: Ativar Filedrops de utilizador com endereço de e-mail
+    userdop_email_data_leakage: Isto poderia ser utilizado para descobrir endereços de e-mail locais, testando endereços no URL do Filedrop e verificando quais devolvem uma resposta válida.
+    userdrop_files_expire_after: Os ficheiros depositados expiram após
+    userdrop_max_filesize: Tamanho máximo de ficheiro para o Filedrop de utilizador
+    bruteforce_label: Proteção contra força bruta
+    bruteforce_description_1: Bloquear o endereço IP durante
+    bruteforce_description_2: minutos após
+    bruteforce_description_3: inícios de sessão/registos falhados em
+    bruteforce_description_4: minutos
+    bruteforce_whitelist_label: Lista de permissões de força bruta
+    allowed_admin_networks_label: Redes de administração
+    allowed_admin_networks_description: Restringir o acesso de administrador a estes anfitriões e redes. O localhost (127.0.0.1, ::1) é sempre permitido
+    enable_strong_authentication: Ativar por predefinição a autenticação forte para estes tipos de utilizadores
+    authenticated_username: Nome de utilizador autenticado
+    duo_hostname: Nome de anfitrião Duo
+    duo_client_id: Chave de integração Duo
+    duo_client_secret: Chave secreta Duo
+    strong_authentication_test: Testar autenticação forte
+    stronger_password: Escolha uma palavra-passe mais forte.
+    cannot_begin_or_end_with_blank: A palavra-passe não pode começar nem terminar com um espaço.
+    at_least_one_invalid_domain: Pelo menos um domínio inválido
+    at_least_one_invalid_email: Pelo menos um endereço de e-mail inválido
+    email_security_level: Nível de segurança da entrega de e-mails
+    geoip: Pesquisa GeoIP
+    geoip_description: Transfere dados de geolocalização de https://geoip.liquidfiles.com e apresenta mapas.
+    tooltip:
+      local_domains: Um utilizador local pode enviar ficheiros para qualquer pessoa. Um utilizador não local só pode enviar ficheiros para utilizadores locais. Na primeira vez que um utilizador inicia sessão, ou quando a conta é criada, o domínio do endereço de e-mail é comparado com estes domínios para determinar se o utilizador é considerado local.
+      ldap_users_are_always_local: Qualquer utilizador que se autentique através de LDAP é automaticamente considerado local, independentemente do domínio.
+      allow_registration: Permite o registo na página de início de sessão. A lista de domínios locais determina se um novo utilizador é local ou não local.
+      local_user_maxfile: Quando um utilizador local se regista ou se autentica pela primeira vez através de autenticação remota, é-lhe atribuído este tamanho máximo de ficheiro.
+      nonlocal_user_maxfile: Quando um utilizador não local se regista, é-lhe atribuído este tamanho máximo de ficheiro.
+      delete_downloaded_files_after: Um ficheiro transferido é mantido durante este período. Deve ser suficientemente longo para que o destinatário possa escolher outra localização de transferência ou recomeçar, mas suficientemente curto para que a ligação não seja distribuída a mais pessoas.
+      file_expiration: Permite que os utilizadores alterem o tempo de expiração dos ficheiros. Se não estiver ativado, todos os ficheiros terão o tempo de expiração predefinido.
+      default_expire_files_after: Os ficheiros expiram após este período.
+      blocked_file_extensions: Bloquear ficheiros com estas extensões (não distingue maiúsculas de minúsculas).
+      virus_scan: Analisar todos os ficheiros carregados com o antivírus ClamAV
+      require_authentication_permission: Se ativado, os utilizadores podem escolher se é exigida autenticação
+      default_bcc_myself: Se ativado, as mensagens são também enviadas por predefinição ao próprio utilizador
+      permitted_file_extensions: "Se ficar em branco, todas as extensões são permitidas. Se for introduzida pelo menos uma extensão, só serão permitidos os tipos de ficheiro indicados. Exemplo: png, gif, jpg, txt"
+      new_external_recipient_is_nonlocal: Quando é enviada uma mensagem a um novo destinatário, este deve ser criado como utilizador não local (para poder responder) ou como utilizador externo?
+      email_message_on_top: Se selecionado, a mensagem aparece acima da lista de ficheiros no e-mail para os destinatários. Se não, a lista de ficheiros aparece acima da mensagem.
+      email_sender: Este endereço de e-mail será utilizado como remetente dos e-mails gerados pelo sistema, como a reposição de palavras-passe. Para evitar que estes e-mails sejam marcados como spam, deve ser um endereço de e-mail real.
+      email_host: Os anexos utilizarão este URL como URL base. Normalmente será http://anfitriao.dominio ou https://anfitriao.dominio, mas pode ser https://anfitriao.dominio:4433 se utilizar reencaminhamento de portas na firewall quando os utilizadores se ligam ao appliance LiquidFiles.
+      email_footer: Esta assinatura será acrescentada a todos os e-mails enviados.
+      email_relay: Utilizar este servidor de correio para reencaminhar os e-mails enviados.
+      email_relay_username: Conta utilizada para iniciar sessão no servidor de reencaminhamento de e-mail
+      email_relay_password: Palavra-passe da conta utilizada para iniciar sessão no servidor de reencaminhamento de e-mail
+  date:
+    formats:
+      default: "%d/%m/%Y"
+      short: "%d/%m"
+      medium: "%d/%m/%Y"
+      long: "%d/%m/%Y"
+  time:
+    am: am
+    pm: pm
+    formats:
+      default: "%d/%m/%Y %H:%M:%S %z"
+      short: "%d/%m %H:%M"
+      medium: "%d/%m/%Y %H:%M"
+      long: "%d/%m/%Y %H:%M"
+  downloads:
+    download_id: ID da transferência
+    index:
+      download_log_title: Transferências
+      download_log_description: Quem transferiu o quê e quando
+      paginator_entry_name: transferências
+    show:
+      no_map_for_reserved_address: Não é possível apresentar um mapa para endereços reservados
+  filedrop:
+    filedrop: Filedrop
+    no_such_filedrop: Este Filedrop não existe
+    invalid_filedrop_url: URL do Filedrop inválido
+    invalid_filedrop_url_description: Não existe nenhum Filedrop neste URL. Verifique o URL e tente novamente.
+    label: Filedrops
+    mb: MB
+    name: Nome
+    name_description: Nome curto também utilizado no URL (por ex. /filedrop/nome)
+    title: Título
+    title_description: Título no topo da página
+    description: Descrição
+    description_description: Descrição por baixo do título
+    user: Utilizador destinatário
+    user_description: Qualquer utilizador local pode ser definido como destinatário
+    cc: CC
+    cc_description: "(separados por vírgulas) Enviar uma cópia para estes endereços"
+    expires_after: Expira após
+    expires_after_description: dias
+    max_filesize: Tamanho máximo do ficheiro
+    max_filesize_description: MB
+    reset_filedrop: Repor URL do Filedrop
+    filedrop_reset_warning: Tem a certeza? Se repor o URL do Filedrop, terá de o substituir em todos os locais onde o publicou.
+    permitted_extensions: Extensões permitidas
+    permitted_extensions_description: Apenas estes tipos de ficheiro serão permitidos
+    blocked_extensions: Extensões bloqueadas
+    blocked_extensions_description: Estes tipos de ficheiro serão bloqueados
+    demo_license_warning_standard: Os Filedrops requerem uma licença para produção. Atualize para uma licença Pro para ativar a funcionalidade Filedrop.
+    max_one_during_demo: Durante a demonstração ou com uma licença Standard pode configurar no máximo um Filedrop
+    filedrop_info: Um Filedrop permite que os seus clientes lhe enviem ficheiros sem autenticação nem configuração prévia. Cada Filedrop tem um URL fixo para o qual pode criar ligações a partir de páginas web ou em assinaturas de e-mail. Quando alguém deposita um ficheiro no Filedrop, este é enviado automaticamente para um utilizador predefinido.
+    authorization: Permissão
+    authorization_description: quem pode transferir os ficheiros depositados no Filedrop
+    you_will_be_notified: Receberá uma confirmação de transferência quando os seus ficheiros forem transferidos.
+    require_authentication: Este Filedrop requer autenticação. Introduza a palavra-passe para continuar.
+    authenticate: Autenticar
+    authentication_failed: Falha na autenticação
+    require_validation: Este Filedrop requer autenticação ou validação do seu endereço de e-mail.
+  filelink:
+    filelink: FileLink
+    filelinks: FileLinks
+    filelink_title: FileLink
+    filelink_description: Um FileLink é uma ligação para um único ficheiro. Pode enviar esta ligação a qualquer pessoa sem criar uma mensagem nem indicar destinatários. Apenas as pessoas a quem enviou a ligação aleatória poderão transferir o ficheiro.
+    expired_or_nonexistent_title: FileLink inválido
+    expired_or_nonexistent: Este FileLink expirou ou não existe. Contacte o remetente para obter uma nova ligação.
+    existing_filelinks: FileLinks existentes
+    new_filelink: Novo FileLink
+    available_files: Ficheiros disponíveis
+    filename: Nome do ficheiro
+    filesize: Tamanho do ficheiro
+    expires_at: Expira
+    link: Ligação
+    checksum: Soma de verificação
+    copy_link_to_clipboard: Copiar FileLink para a área de transferência
+    expire_link_at: A ligação expira em
+    you_have_no_filelinks: Não tem FileLinks. Adicione um novo FileLink ou crie um a partir de um ficheiro disponível.
+    you_have_no_files_available: Não tem ficheiros enviados anteriormente. Depois de enviar pelo menos um ficheiro, poderá selecioná-lo aqui para criar um FileLink.
+    create_link: Criar ligação
+    invalid_file: Ficheiro inválido, não é possível criar o FileLink
+    delete: Eliminar
+    delete_link_warning: Tem a certeza de que pretende eliminar este FileLink?
+    could_not_delete_link: Não foi possível eliminar o FileLink. Ligação não encontrada!
+    filelink_deleted: FileLink eliminado!
+    select_file: Selecionar ficheiro
+    send_download_receipts: Enviar confirmações de transferência
+    disabled: Os FileLinks estão desativados, contacte um administrador
+    unauthorized: Não está autorizado a utilizar FileLinks
+    require_authentication: Exigir autenticação
+    filelink_require_authentication: Este FileLink exige que se autentique para aceder
+    filelink_url: URL do FileLink
+    expired: Expirado
+    filelink_expired: FileLink expirado
+    select_from_available_files: Também pode criar um FileLink a partir de qualquer um destes ficheiros existentes.
+    downloads: Transferências
+    authentication_failed: Falha na autenticação
+    password_label_html: Palavra-passe <small class="text-muted">(opcional)</small>
+    password_present_html: Este FileLink tem uma palavra-passe definida.<br>Pode removê-la guardando uma palavra-passe vazia.
+    password_not_present: Não foi definida nenhuma palavra-passe.
+    copy_to_clipboard: Copiar FileLink para a área de transferência
+    add_file: Adicionar ficheiro
+  ftpdrop:
+    create:
+      ftpdrop: FTPdrop
+  html_editor:
+    font:
+      bold: Negrito
+      italic: Itálico
+      underline: Sublinhado
+      clear: Remover formatação
+      height: Altura da linha
+      name: Tipo de letra
+      strikethrough: Rasurado
+      subscript: Inferior à linha
+      superscript: Superior à linha
+      size: Tamanho do tipo de letra
+    image:
+      image: Imagem
+      insert: Inserir imagem
+      resize_full: Tamanho completo
+      resize_half: Metade do tamanho
+      resize_quarter: Um quarto do tamanho
+      float_left: Alinhar à esquerda
+      float_right: Alinhar à direita
+      float_none: Sem alinhamento
+      shape_rounded: "Forma: arredondada"
+      shape_circle: "Forma: círculo"
+      shape_thumbnail: "Forma: miniatura"
+      shape_none: "Forma: nenhuma"
+      url: URL da imagem
+      remove: Remover imagem
+    link:
+      link: Ligação
+      insert: Inserir ligação
+      unlink: Remover ligação
+      edit: Editar
+      text_to_display: Texto a apresentar
+      url: Para que URL deve apontar esta ligação?
+      open_in_new_window: Abrir numa nova janela
+    table:
+      table: Tabela
+    hr:
+      insert: Inserir linha horizontal
+    style:
+      style: Estilo
+      normal: Normal
+      blockquote: Citação
+      pre: Código
+      h1: Título 1
+      h2: Título 2
+      h3: Título 3
+      h4: Título 4
+      h5: Título 5
+      h6: Título 6
+    lists:
+      unordered: Lista com marcas
+      ordered: Lista numerada
+    options:
+      help: Ajuda
+      fullscreen: Ecrã inteiro
+      codeview: Ver código
+    paragraph:
+      paragraph: Parágrafo
+      outdent: Diminuir avanço
+      indent: Aumentar avanço
+      left: Alinhar à esquerda
+      center: Centrar
+      right: Alinhar à direita
+      justify: Justificar
+    color:
+      recent: Cor recente
+      more: Mais cores
+      background: Cor de fundo
+      foreground: Cor do texto
+      transparent: Transparente
+      set_transparent: Tornar transparente
+      reset: Repor
+      reset_to_default: Repor predefinição
+    shortcut:
+      shortcuts: Atalhos de teclado
+      close: Fechar
+      text_formatting: Formatação de texto
+      action: Ação
+      paragraph_formatting: Formatação de parágrafo
+      document_style: Estilo do documento
+      extra_keys: Teclas adicionais
+    history:
+      undo: Anular
+      redo: Refazer
+  invite:
+    invite_user: Convidar utilizador
+    description: Pode convidar utilizadores a partilhar ficheiros consigo. Depois de introduzir os respetivos dados, receberão um e-mail com instruções para concluir o registo.
+    send_invite: Enviar convite
+    name_placeholder: Nome completo
+    invitation_sent: Convite enviado
+    not_permitted_to_invite_users: Não tem permissão para convidar utilizadores.
+    invalid_email: Endereço de e-mail inválido
+  link:
+    show:
+      set_password: Definir palavra-passe
+      download: Transferir
+      downloads_and_info: Todas as transferências e mais informações
+    authenticate:
+      show:
+        title: Palavra-passe do FileLink
+        authenticate: Autenticar
+        require_authentication: Para aceder a este FileLink, tem de introduzir a palavra-passe de acesso necessária.
+      create:
+        authentication_failed: Falha na autenticação.
+    downloads:
+      index:
+        back_to_filelink: Voltar ao FileLink
+    link_downloads:
+      latest_downloads: Últimas transferências (%{count} de %{total} no total)
+  menu:
+    shares: Shares
+    messages: Mensagens
+    send_files: Escrever
+    users: Utilizadores
+    active_transfers: Transferências ativas
+    configuration: Configuração
+    system: Sistema
+    message_list: Lista de mensagens
+    settings: Definições
+    admin: Administração
+    account: Conta
+    inbox: Caixa de entrada
+    sent_messages: Enviadas
+    downloads: Registo de transferências
+    filelink: FileLinks
+    secure_messages: Mensagens seguras
+    support: Suporte
+  message:
+    message_sent: Mensagem enviada
+    not_found: Mensagem não encontrada
+    message_not_found_header: Mensagem não encontrada!
+    message_not_found_description: Peça ao remetente que reenvie esta mensagem.
+    previous_recipients: Destinatários anteriores
+    contacts: Contactos
+    is_not_permitted: não é permitido
+    not_permitted_to_delete_messages: Não tem permissão para eliminar mensagens
+    is_not_in_any_of_the_allowed_domains: não pertence a nenhum dos domínios permitidos
+    is_not_in_any_of_the_allowed_groups: não pertence a nenhum dos grupos permitidos
+    attach_1_file: Tem de anexar pelo menos um ficheiro
+    too_many_files: Demasiados ficheiros anexados. Pode anexar no máximo %{count} ficheiros a uma única mensagem.
+    attached_files: Ficheiros anexados
+    expired: A mensagem expirou
+    authorize:
+      show:
+        title: Inicie sessão para aceder à mensagem segura
+        authenticate_description_html: Está prestes a ver uma mensagem segura. Primeiro tem de iniciar sessão. Introduza o seu endereço de e-mail ou inicie sessão para continuar.<br>Se não tiver uma conta neste sistema, introduza o seu endereço de e-mail e enviaremos uma ligação segura para validar o seu endereço.
+        unauthenticated_html: <h4>Nome de utilizador ou palavra-passe inválidos</h4><p>Introduza o seu nome de utilizador e palavra-passe. Pode repor a palavra-passe com o botão Repor palavra-passe abaixo.</p>
+        unauthorized_to_view_check_email_html: <h4>Endereço de e-mail não autorizado</h4><p>Verifique se a mensagem segura [<span class="font-monospace fw-bold">%{message_id}</span>] lhe foi enviada e introduza o endereço de e-mail exatamente como foi utilizado no envio.</p><p>Por exemplo, se o seu endereço puder ser tanto joao.silva@empresa.pt como jsilva@empresa.pt, este sistema não tem forma de saber que são o mesmo. Se a mensagem segura foi enviada para joao.silva@empresa.pt, é esse o endereço que deve introduzir aqui.</p><p>Em caso de dúvida, contacte o remetente da mensagem segura.</p>
+    errors:
+      not_authorized_to_view_message: "Não está autorizado a ver a mensagem com o ID: %{message_id}. Verifique se esta mensagem lhe foi enviada."
+      private_message_requires_authentication: As mensagens privadas requerem autenticação
+    attachments:
+      download_attachment_details_csv: Transferir detalhes dos anexos (CSV)
+      attachment:
+        fileinfo: Informações do ficheiro
+        file_size: Tamanho do ficheiro
+        content_type: Tipo de conteúdo
+        checksum: Soma de verificação
+        virus_status: Estado do antivírus
+    compose:
+      options_permission:
+        authentication_required: Autenticação obrigatória
+        authentication_not_required: Autenticação não obrigatória
+        require_authentication_description: Os destinatários têm de se autenticar para aceder a esta mensagem?
+        access_restriction_html: Restrição de acesso<br><small class="text-muted">Quem pode aceder a esta mensagem?</small>
+        recipients_only_html: Apenas<br>destinatários
+        recipients_plus_locals_html: Destinatários<br>+ utilizadores locais
+        recipients_plus_domains_html: Destinatários<br>+ domínios
+        anyone_secret_link_html: Qualquer pessoa<br>(ligação secreta)
+    unavailable:
+      header: Mensagem indisponível
+      description: Esta mensagem expirou, foi eliminada, não existe ou já não está disponível. Peça ao remetente que reenvie a mensagem.
+    downloads:
+      index:
+        download_log_title: Registo de transferências
+        message_id: ID da mensagem
+        paginator_entry_name: Transferências
+      download:
+        details: Detalhes
+      not_found:
+        title: Mensagem ou transferência não encontrada
+        description_html: Não foi possível encontrar a mensagem ou a transferência, ou não tem permissão para a ver
+    temporary_user:
+      create:
+        invalid_temporary_user: Palavra-passe inválida. Verifique o e-mail com a sua palavra-passe temporária ou peça uma nova palavra-passe temporária.
+        temporary_user_expired: Esta palavra-passe temporária expirou. Foi enviada uma nova palavra-passe temporária para o seu e-mail. Verifique a sua caixa de entrada e utilize a nova palavra-passe temporária.
+        not_authorized_to_view_message: "Não está autorizado a ver a mensagem com o ID: %{message_id}. Verifique se esta mensagem lhe foi enviada."
+      show:
+        title: Introduza a sua palavra-passe temporária
+        description_html: "Está prestes a ver uma mensagem segura. Para aceder a esta mensagem, tem de introduzir a sua palavra-passe temporária.<br>Uma palavra-passe temporária é uma sequência única e aleatória que o identifica. A palavra-passe temporária foi-lhe enviada num e-mail separado (assunto: Palavra-passe temporária)."
+        what_is_this: O que é isto?
+        login: Iniciar sessão
+        submit: Verificar palavra-passe temporária
+        submit_email: Enviar
+        if_you_have_account: "(se já tiver uma conta)"
+        request_temporary_user_header: Pedir nova palavra-passe temporária
+        request_temporary_user_description_html: Pode pedir uma nova palavra-passe temporária para aceder a esta mensagem. Introduza o seu endereço de e-mail abaixo para pedir uma nova palavra-passe temporária para esta mensagem segura.
+        info_header: Informações sobre a palavra-passe temporária
+        info_body_html: "<p>Uma palavra-passe temporária é uma sequência única de números e letras, por exemplo:</p><pre><code>3ynp-7FKa-pZS9</code></pre><p><em>Esta palavra-passe temporária é apenas um exemplo para ver o seu aspeto; não pode ser utilizada.</em></p><p>Na sua caixa de entrada encontrará <strong>dois e-mails</strong>: o da mensagem segura e outro com um <strong>assunto que começa por: Palavra-passe temporária</strong>. Esse e-mail contém a sua palavra-passe temporária única para este sistema.</p><p>Se não recebeu nenhum e-mail com uma palavra-passe temporária, poderá já ter uma conta neste sistema. Nesse caso, clique em «Iniciar sessão».</p><p>Se acha que deveria ter recebido uma palavra-passe temporária mas tal não aconteceu, clique em «Pedir palavra-passe temporária» para obter uma nova.</p>"
+        email_address: Endereço de e-mail
+        email_not_permitted: Este endereço de e-mail não tem permissão para ver esta mensagem segura.
+        email_not_permitted_description_html: <p>Verifique o e-mail da mensagem segura que recebeu e introduza o endereço de e-mail exatamente como foi utilizado no envio.</p><p>Por exemplo, se o seu endereço puder ser tanto joao.silva@empresa.pt como jsilva@empresa.pt, este sistema não tem forma de saber que são o mesmo. Se a mensagem segura foi enviada para joao.silva@empresa.pt, é esse o endereço que deve introduzir aqui.</p><p>Em caso de dúvida, contacte o remetente da mensagem segura.</p>
+        email_can_login: Já tem uma conta neste sistema
+        email_can_login_description_html: <p>Pode iniciar sessão neste sistema com este endereço de e-mail e a sua palavra-passe.</p><p>Clique no botão Iniciar sessão abaixo para entrar com a sua conta existente.</p>
+        temporary_user_delivered_header: Palavra-passe temporária enviada
+        temporary_user_delivered_description_html: <p>Foi enviada uma palavra-passe temporária para o seu endereço de e-mail. Verifique a sua caixa de entrada, feche esta janela e introduza a palavra-passe temporária.</p>
+    reply:
+      re: "Re:"
+      wrote: escreveu
+      show:
+        title: Responder à mensagem segura
+        from: De
+        reply: Responder
+        reply_all: Responder a todos
+      options:
+        options_description: Tenha em atenção que todas as opções são herdadas da mensagem original.
+    show:
+      back: Voltar
+      message_header: Cabeçalho da mensagem
+      reply: Responder
+  messages:
+    sent:
+      skipped_file_not_found: Ignorado - ficheiro não encontrado
+      show:
+        sent_title: Enviadas
+        sent_description: Mensagens que enviou
+        paginator_entry_name: mensagens
+    attachments:
+      download_cmd:
+        unauthorized:
+          header: Não autorizado
+          body: Não está autorizado a transferir este ficheiro. Peça ao remetente que lho reenvie.
+          back: Voltar
+        exceeded:
+          header: Limite de transferências excedido
+          body: O limite de transferências deste ficheiro foi excedido. Peça ao remetente que lho reenvie.
+          back: Voltar
+    download_zip:
+      unauthorized:
+        header: Não autorizado
+        body: Não está autorizado a transferir este arquivo. Peça ao remetente que lhe reenvie o ficheiro.
+        back: Voltar
+      exceeded:
+        header: Limite de transferências excedido
+        body: O limite de transferências de um ou mais ficheiros deste arquivo foi excedido. Peça ao remetente que lhe reenvie o ficheiro.
+        back: Voltar
+    message:
+      reply: Responder
+      reply_all: Responder a todos
+  models:
+    user:
+      no_need_to_create_local_user: Não é necessário criar um utilizador local
+      license_exceeded: Limite da licença excedido
+  notifier:
+    activate_user_subject: "[%{hostname}] Ativar conta"
+    user_activation: Ativação de utilizador
+    please_visit_the_following_url_to_activate: Clique na seguinte ligação para ativar a sua conta
+    the_following_files_are_attached: Os seguintes ficheiros estão anexados a esta mensagem
+    please_visit_the_following_url: Clique nesta ligação para transferir os anexos
+    attachments_are_available: Os anexos estão disponíveis até
+    message_id: "ID da mensagem: %{id}"
+    email_password_reset_subject: Reposição da palavra-passe
+    download_receipt_subject: "Confirmação de transferência [ID: %{message_id}]"
+    a_file_that_you_sent: Um ficheiro que enviou foi transferido. Guarde este e-mail como registo da transferência.
+    recipient: Destinatário
+    filename: Nome do ficheiro
+    time_of_download: Hora da transferência
+    downloaded_from: Transferido a partir de
+    download_receipt: Confirmação de transferência
+    user_created:
+      account_created: Conta criada
+      subject: "[%{hostname}] Conta criada"
+      message: "Tem um anexo seguro à sua espera. Tem de se autenticar para o transferir. Clique na seguinte ligação para se registar:"
+  outlook:
+    messages:
+      new:
+        attachments_header: Anexos
+        attachments_hint: Pode anexar ficheiros arrastando-os para a secção abaixo ou clicando no botão Anexar ficheiros.
+        add_to_message: Adicionar à mensagem
+      attachments:
+        attach_files: Anexar ficheiros
+        drop_files_here: Largue os ficheiros aqui...
+      options:
+        recipients_can_reply: Os destinatários podem responder
+        send_copy_to_myself: Enviar uma cópia para mim
+        private_message: Mensagem privada
+        private_message_required_auth_error: Para enviar uma mensagem privada, tem de utilizar o modo «Autenticação obrigatória».
+      options_authorization:
+        authentication_authorization_title_html: Autenticação &amp; autorização
+        authentication_select_title: Selecionar autenticação
+        authentication_required: Autenticação obrigatória
+        authentication_not_required: Autenticação não obrigatória
+        authorization_select_title: Selecionar autorização
+        recipients_only: Apenas destinatários
+        recipients_locals: Destinatários + utilizadores locais
+        recipients_domains: Destinatários + domínios
+        anyone: Qualquer pessoa (ligação secreta)
+      options_expiration:
+        message_expires: A mensagem expira
+        message_expires_after: A mensagem expira após
+  pagination:
+    first: "&laquo; Primeira"
+    last: Última &raquo;
+    previous: "&lsaquo; Anterior"
+    next: Seguinte &rsaquo;
+    truncate: "&hellip;"
+  requests:
+    title: Pedido de ficheiros
+    file_request: Pedido de ficheiros
+    files_sent: Ficheiros enviados, obrigado!
+    request_file: Pedir ficheiro
+    file_requests: Pedidos de ficheiros
+    description: Um pedido de ficheiros permite pedir a alguém que lhe envie ficheiros. Depois de introduzir os dados, essa pessoa receberá um e-mail com uma ligação única que pode utilizar para lhe enviar os ficheiros pedidos.
+    file_request_not_found: Pedido de ficheiros não encontrado
+    file_request_expired: Pedido de ficheiros expirado
+    file_request_already_used: O pedido de ficheiros já foi utilizado
+    file_request_sent: Pedido de ficheiros enviado
+    not_permited: Não tem permissão para utilizar a funcionalidade de pedido de ficheiros
+    multiuse: Utilização múltipla - permite utilizar várias vezes esta ligação de pedido de ficheiros
+    invalid_recipient: Destinatário inválido, este pedido de ficheiros foi enviado a outra pessoa
+    invalid_user: Este não é o seu pedido de ficheiros
+    index:
+      title: Pedidos de ficheiros
+      new_file_request: Novo pedido de ficheiros
+      multiuse: Utilização múltipla
+      responded_to: Respondido
+      hide_expired: Ocultar expirados e utilizados
+      show_expired: Mostrar expirados e utilizados
+    request:
+      resend: Reenviar
+      are_you_sure_you_want_to_delete: Tem a certeza de que pretende eliminar este pedido de ficheiros?
+    popup:
+      from: De
+      to: Para
+      subject: Assunto
+      message: Mensagem
+    resend:
+      request_resent: O pedido de ficheiros foi reenviado
+    new:
+      request_expires: O pedido expira
+  send:
+    send: Enviar
+    sent: Enviado
+    recipients: Para
+    send_as: Enviar como
+    you_can_only_send_files_to_yourself: Só pode enviar ficheiros para si próprio
+    subject: Assunto
+    subject_placeholder: Assunto
+    attachments: Anexos
+    max_file_size: "Tamanho máximo dos anexos: %{filesize} MB"
+    upload_queue: Fila de carregamento
+    remove: Remover
+    cancel_all: Cancelar tudo
+    cancel_all_uploads: Cancelar todos os carregamentos
+    message: Mensagem
+    message_placeholder: Mensagem
+    done_editing_please_send: Terminei de editar, enviar os ficheiros quando todos os carregamentos estiverem concluídos
+    files_sent_successfully: Ficheiros enviados com êxito
+    you_need_at_least_one_recipient: Precisa de pelo menos um destinatário
+    you_need_at_least_one_attachment: Precisa de pelo menos um anexo
+    options: Opções
+    cc: CC
+    bcc: BCC
+    bcc_message_description: Os destinatários em BCC não serão mostrados aos outros destinatários
+    add_cc: adicionar CC
+    add_bcc: adicionar BCC
+    bcc_myself: Enviar uma cópia para mim
+    require_login: Exigir início de sessão para transferir ficheiros
+    only_specified_recipients_can_download: Apenas os destinatários indicados podem transferir os anexos
+    anyone_can_download: Qualquer pessoa pode transferir os anexos
+    expires_in: Os anexos podem ser transferidos durante
+    expires_at: Os anexos expiram em
+    send_options: Opções de envio
+    to: Para
+    from: De
+    filename: Nome do ficheiro
+    filesize: Tamanho do ficheiro
+    downloaded_at: Transferido em
+    message_sent: Mensagem enviada
+    message_expires: A mensagem expira
+    message_expires_after: A mensagem expira após
+    message_expires_after_description: O cálculo é feito por ficheiro. Se enviar 2 ficheiros que expiram após 1 transferência, cada destinatário poderá transferir cada ficheiro uma vez.
+    downloads_per_recipient: Transferências por destinatário
+    total_downloads: Transferências no total
+    file_not_downloaded: Nenhum anexo foi transferido
+    at_least_one_invalid_extension: Pelo menos um dos anexos tem uma extensão inválida
+    invalid_filetype: Extensão inválida
+    blocked_extension: "Extensão inválida. Não pode carregar ficheiros com as seguintes extensões: %{extensions}"
+    permitted_extensions: "As extensões permitidas são: %{filetypes}"
+    already_selected: Este ficheiro já foi selecionado
+    maximum_filesize_exceeded: Tamanho máximo do ficheiro excedido
+    contains_virus: "%{filename} contém um VÍRUS: %{virus}"
+    limited_by_browser: Limitado pelo navegador
+    limited_by_disk: Limitado pelo espaço em disco
+    limited_by_system_quota: Limitado pela quota do sistema
+    limited_by_group_quota: Limitado pela quota do grupo
+    limited_by_quota: Limitado pela quota
+    limited_per_message: Limite por mensagem
+    system_quota_exceeded: Quota do sistema excedida
+    group_quota_exceeded: Quota do grupo excedida
+    quota_exceeded: Quota excedida
+    no_available_quota: Quota excedida, elimine alguns ficheiros para continuar
+    not_authorized_to_send: Não está autorizado a enviar para %{email}
+    public_url: URL público
+    message_url: URL da mensagem
+    authorization: Autorização
+    insufficient_disk_space: Espaço em disco insuficiente
+    active_transfers: Transferências ativas
+    view_log: Ver registo
+    previously_sent_attachments: Anexos enviados anteriormente
+    has_not_downloaded: "%{recipient} não transferiu nenhum dos ficheiros"
+    authentication: Autenticação
+    required: Obrigatória
+    disabled: Desativada
+    require_authentication_tooltip_html: <li>O destinatário tem de iniciar sessão com nome de utilizador e palavra-passe para transferir o ficheiro.</li> <li>Receberá uma confirmação quando o ficheiro for transferido.</li>
+    dont_require_authentication_tooltip_html: <li>Não será pedido ao destinatário que inicie sessão para transferir o ficheiro.</li> <li>Receberá uma confirmação quando o ficheiro for transferido, mas não de quem o transferiu (não sabemos).</li> <li>Só receberá uma confirmação quando o primeiro destinatário transferir o ficheiro.</li>
+    authenticate_link_description: Tem de iniciar sessão antes de aceder a este FileLink.
+    unauthorized: Não está autorizado a ver esta mensagem.
+    unauthenticated: Palavra-passe incorreta
+    incorrect_login_or_demo: Palavra-passe incorreta ou limite da licença atingido
+    email_authorization_message: Obrigado. Para verificar que este é o seu endereço de e-mail, foi enviado um e-mail com um código de validação. Introduza o código de validação abaixo ou clique na ligação do e-mail para aceder à mensagem.
+    email_authorization_link: Obrigado. Para verificar que este é o seu endereço de e-mail, foi enviado um e-mail com um código de validação. Introduza abaixo o código de validação do e-mail ou clique na ligação do e-mail para aceder ao FileLink.
+    email_authorization_message_create_account: Obrigado. Como não tem uma conta neste sistema, foi enviado um e-mail com um código de validação para verificar que este é o seu endereço de e-mail. Introduza o código de validação abaixo ou clique na ligação do e-mail para validar o seu endereço. Em seguida, ser-lhe-á pedido que crie uma conta e depois será encaminhado para a mensagem.
+    email_authorization_link_create_account: Obrigado. Como não tem uma conta neste sistema, foi enviado um e-mail com um código de validação para verificar que este é o seu endereço de e-mail. Introduza abaixo o código de validação do e-mail ou clique na ligação do e-mail para validar o seu endereço. Em seguida, ser-lhe-á pedido que crie uma conta e depois será encaminhado para o FileLink.
+    authorize: Autorizar
+    authenticate: Iniciar sessão
+    sending: A enviar...
+    abort_transfer: Cancelar transferência
+    files_to_big: Ficheiro(s) demasiado grande(s)
+    only_specified_recipients: Apenas os destinatários indicados têm acesso
+    only_specified_recipients_and_local_users: Apenas os destinatários indicados e os utilizadores locais têm acesso
+    only_specified_recipients_and_domains: Apenas os destinatários indicados e os utilizadores do respetivo domínio têm acesso
+    anyone_after_authentication: Qualquer pessoa (com acesso à ligação aleatória) tem acesso
+    no_recipient_validation: Sem validação de destinatários
+    anyone_can_access: Qualquer pessoa tem acesso
+    anyone: Qualquer pessoa
+    no_authentication: Sem autenticação
+    can_download: podem transferir
+    not_yet_scanned: está a ser analisado à procura de vírus; tente novamente dentro de momentos. %{queue} em fila
+    was_infected: "estava infetado com o vírus %{virus} e foi eliminado"
+    deleted_or_expired: Eliminado ou expirado
+    im_done_editing: Enviar automaticamente quando os carregamentos atuais estiverem concluídos
+    download_all: Transferir tudo
+    zipped_archive: Arquivo ZIP
+    message_id: ID da mensagem
+    overall_progress: Progresso total
+    abort: Cancelar
+    limitations: Limitações
+    max_size: Tamanho máximo
+    add_files: Adicionar ficheiros...
+    add_folder: Adicionar pasta...
+    no_attachment_added: Nenhum anexo adicionado
+    you_need_to_add_at_least_one_file: Tem de adicionar pelo menos um ficheiro.
+    private_message_or_attached_files: Tem de ativar Mensagem privada ou anexar pelo menos um ficheiro.
+    no_runtime_found: Nenhum ambiente de execução encontrado, não é possível enviar ficheiros
+    runtime_check_title: Nenhum ambiente de execução encontrado
+    selected: selecionado(s)
+    file_size_error: Erro no tamanho do ficheiro
+    remaining: restante
+    attached_files: Ficheiros anexados
+    show_message: Mostrar mensagem
+    can_be_max: pode ser no máximo %{days} dias no futuro
+    not_ready: Ainda não está pronto para transferência
+    download_info: Informações da transferência
+    browser: Navegador
+    platform: Plataforma
+    operating_system: Sistema operativo
+    location: Localização
+    download_details: Detalhes da transferência
+    download_information_not_found: Não foi possível encontrar as informações da transferência.
+    add: Adicionar
+    select_existing_files: Selecionar ficheiros existentes
+    add_existing_files: Adicionar ficheiros existentes
+    add_existing_description: Estes ficheiros já foram enviados e pode enviá-los novamente.
+    zip_disabled: ZIP desativado
+    zip_disabled_description_exceeded: O número máximo de transferências foi excedido para pelo menos um anexo.
+    spinner_info_html: <strong>A sua mensagem está pronta para ser enviada</strong>. Alguns ficheiros ainda estão a ser processados em segundo plano, mas não precisa de esperar. <strong>Clique em Enviar quando estiver pronto!</strong>
+    sent_to_you: Enviadas para si
+    excluding_admins: Excluindo administradores
+    downloads: Transferências
+    download_log: Registo de transferências
+    delete_attachments: Eliminar anexos
+    delete_message: Eliminar mensagem
+    delete_attachments_warning: Tem a certeza de que pretende eliminar os anexos?
+    delete_message_warning: Eliminar a mensagem também elimina os ficheiros anexados e o registo de transferências. Tem a certeza de que pretende eliminar a mensagem?
+    invalid_message: Mensagem inválida
+    message_deleted: Mensagem eliminada
+    attachments_deleted: Anexos eliminados
+    checksum: Soma de verificação (SHA256)
+    not_permitted_to_send_messages: Não tem permissão para enviar mensagens.
+    invalid_group_belonging: Envio não permitido (grupo inválido). Está registado como utilizador externo, mas o seu endereço de e-mail pertence ao domínio %{domain}, que também consta de um dos domínios de destinatários restritos. Isto não é permitido para utilizadores externos. Peça ao administrador do sistema que o mova para outro grupo para continuar.
+    expires_after_exceeded: Número de transferências excedido
+    expires_after_exceeded_for_zip: Número de transferências excedido para pelo menos um ficheiro do arquivo ZIP
+    permission_description_title: Restrições de acesso
+    permission_description_only_specified_html: <ul> <li>Apenas os destinatários indicados podem aceder à mensagem e transferir os ficheiros.</li> <li>Não é permitido reencaminhar o e-mail ou o URL a ninguém.</li> <li>Os destinatários têm de iniciar sessão para aceder à mensagem e transferir os ficheiros.</li> <li>Sempre que um utilizador transfere um ficheiro é enviada uma confirmação de transferência com informações detalhadas.</li> </ul>
+    permission_description_only_specified_and_local_html: <ul> <li>Apenas os destinatários indicados e os utilizadores locais podem transferir os ficheiros.</li> <li>O e-mail ou o URL só podem ser reencaminhados para utilizadores locais.</li> <li>Os destinatários têm de iniciar sessão para transferir os ficheiros.</li> <li>Sempre que um utilizador transfere um ficheiro é enviada uma confirmação de transferência com informações detalhadas.</li> </ul>
+    permission_description_only_specified_and_domains_html: <ul> <li>Apenas os destinatários indicados e os utilizadores do mesmo domínio de e-mail têm acesso.</li> <li>Se enviar para diretor@parceiro.pt, secretaria@parceiro.pt também pode aceder à mensagem, mas curioso@concorrente.pt não.</li> <li>Os destinatários têm de iniciar sessão para transferir os ficheiros.</li> <li>Sempre que um utilizador transfere um ficheiro é enviada uma confirmação de transferência com informações detalhadas.</li> </ul>
+    permission_description_anyone_after_authentication_html: <ul> <li>Qualquer pessoa que tenha o URL secreto e aleatório pode transferir os ficheiros.</li> <li>O e-mail ou o URL podem ser reencaminhados para qualquer pessoa.</li> <li>Os destinatários têm de iniciar sessão para transferir os ficheiros.</li> <li>Sempre que um utilizador transfere um ficheiro é enviada uma confirmação de transferência com informações detalhadas.</li> </ul>
+    permission_description_anyone_html: <ul> <li>Qualquer pessoa que tenha o URL secreto e aleatório pode transferir os ficheiros.</li> <li>O e-mail ou o URL podem ser reencaminhados para qualquer pessoa.</li> <li>O início de sessão <strong>não</strong> é necessário para transferir os ficheiros.</li> <li>É enviada uma confirmação de transferência <strong>básica</strong> quando ocorre a primeira transferência por qualquer pessoa (é necessária autenticação para saber quem transferiu o quê).</li> </ul>
+    your_message_has_been_sent: A sua mensagem foi enviada
+    you_can_send_to_anyone: "(Pode enviar esta ligação a qualquer pessoa)"
+    send_more_files: Enviar mais ficheiros
+    download_speed: Velocidade de transferência
+    download_time: Duração da transferência
+    at_least_one_invalid_email: Pelo menos um endereço de e-mail inválido
+    reply: O destinatário pode responder
+    private_message: Mensagem privada
+    private_message_description_html: Numa mensagem privada, o texto da sua mensagem não é enviado por e-mail ao destinatário; só fica visível quando o destinatário clica na ligação do e-mail e se autentica. <ul> <li>Pode enviar uma mensagem privada sem anexos.</li> <li>Receberá uma confirmação de acesso quando alguém tiver visto a sua mensagem.</li> <li>Não pode enviar uma mensagem privada com a permissão de transferência «Qualquer pessoa pode transferir».</li> </ul>
+    private_message_delivered_description: A mensagem foi enviada como mensagem privada. O corpo da mensagem não é incluído no e-mail e receberá uma confirmação de acesso quando cada destinatário tiver visto a mensagem.
+    access_info: Informações de acesso
+    access_details: Detalhes do acesso
+    validation_code: Código de validação
+    expired_token_inline: A autenticação por e-mail expirou, tente novamente.
+    invalid_token: Código inválido ou expirado. Clique na ligação do e-mail original para validar novamente o seu endereço de e-mail.
+    download_zip: Transferir ZIP
+    zip_ready_for_download: ZIP pronto para transferência
+    processing_zip: A processar o arquivo ZIP
+    drop_file_here: Largue o ficheiro aqui
+    drop_files_here: Largue os ficheiros aqui
+    drop_files_and_folders_here: Largue os ficheiros e pastas aqui
+    select_pool_files: Selecionar ficheiros do pool
+    add_pool_files: Adicionar ficheiros do pool
+    invalid_validation_token: Este código de validação não é válido.
+    not_the_validation_token: Esse é o ID da mensagem, não o código de validação. Introduza o código de validação.
+    no_messages_in_inbox: Não há mensagens na caixa de entrada.
+    filename_already_selected: Já foi adicionado a esta mensagem um ficheiro com este nome
+    filesize_exceeded: Tamanho máximo da mensagem excedido
+    infected_with: Infetado com vírus
+    not_permitted_to_download_content_blocked: "Não é permitido transferir este ficheiro. A análise antivírus detetou: %{virus}"
+    invalid_email_address: Endereço de e-mail inválido
+    cant_create_folder: Não é possível criar a pasta
+    cant_check_folder: Não é possível verificar a pasta
+    cant_restore_folder: Não é possível restaurar a pasta
+    cant_check_chunks: Não é possível verificar os fragmentos
+    zip_not_include_all_files: Nem todos os ficheiros podem ser transferidos; o ZIP incluirá apenas os ficheiros transferíveis.
+    paste_tip: Dica! Cole com Ctrl+Shift+V para remover a formatação.
+  session:
+    api:
+      authentication_error: Erro de autenticação, tente novamente.
+      not_local_user: Endereço de e-mail inválido. Apenas os utilizadores locais podem utilizar esta função.
+      show:
+        login: Iniciar sessão
+        login_label: Endereço de e-mail
+        password: Palavra-passe
+        sso_login: Início de sessão SSO
+        authentication_title: Iniciar sessão
+        authentication_description: Introduza o seu endereço de e-mail ou inicie sessão para continuar.
+      authenticated:
+        authentication_successful: Autenticação bem-sucedida
+    authenticate:
+      login: Inicie sessão para continuar
+      description_html: Tem de iniciar sessão para aceder a esta página. Introduza o seu endereço de e-mail ou inicie sessão para continuar.<br>Se não tiver uma conta neste sistema, introduza o seu endereço de e-mail e enviaremos uma palavra-passe temporária para o seu e-mail.
+      unauthorized: Não está autorizado a ver esta mensagem. Introduza o seu endereço de e-mail exatamente como a mensagem lhe foi enviada ou contacte o remetente.
+    email:
+      validate_email: Valide o seu endereço de e-mail
+      validate_email_description_html: "Foi enviado um código de segurança para o seu endereço de e-mail: <strong>%{email}</strong>. Clique na ligação ou introduza aqui o código de segurança para verificar o seu endereço e continuar."
+      session_expired: A sessão expirou, introduza novamente o seu endereço de e-mail para continuar
+      token_expired: A ligação de autenticação do e-mail expirou, tente novamente.
+      already_authenticated: Já tem sessão iniciada neste navegador.
+      resend_validation_email: Reenviar e-mail de validação
+      verify: Verificar
+      validate_email_sent: "Foi enviado um novo e-mail de validação às: %{time}. Clique na ligação do e-mail ou introduza o código de segurança abaixo para verificar o seu endereço."
+      invalid_temporary_user: Código de segurança inválido. Verifique o seu e-mail; foi enviado um novo código de segurança para a sua caixa de entrada.
+      create_account: Criar conta
+      create_account_description: Crie uma conta neste sistema para poder iniciar sessão com o seu endereço de e-mail e palavra-passe em vez de um código de segurança.
+      invalid_email: Endereço de e-mail inválido
+    login_limit_exceeded:
+      delivered:
+        page_header: Limite de inícios de sessão excedido
+        description: Tentou iniciar sessão demasiadas vezes. Para continuar, tem de repor a sua palavra-passe.
+        email: Foi enviado um e-mail com uma ligação para repor a sua palavra-passe.
+      waiting:
+        page_header: Limite de inícios de sessão excedido
+        description: "Tentou iniciar sessão demasiadas vezes. Nota: tem de iniciar sessão com a sua palavra-passe de rede. Se precisar de repor esta palavra-passe e não souber como, contacte um administrador de rede. Depois do tempo de espera, pode recarregar esta página para repor o limite."
+        expiration_time: Tempo de espera
+        reload: Recarregar
+      show:
+        page_header: Limite de inícios de sessão excedido
+        description: Tentou iniciar sessão demasiadas vezes. Pode repor o limite de inícios de sessão e iniciar sessão novamente. Foi-lhe enviado um e-mail para repor o limite.
+      reset:
+        login_limit_reset: Limite de inícios de sessão reposto
+    shared:
+      authentication_successful: Autenticação bem-sucedida
+    outlook:
+      edit:
+        authentication_title: Autenticar
+        authentication_description: Inicie sessão para continuar
+        login: Iniciar sessão
+        login_label: Endereço de e-mail
+        password: Palavra-passe
+        sso_login: Início de sessão SSO
+      show:
+        authentication_title: Autenticar
+        authentication_description: Inicie sessão para anexar ficheiros seguros.
+        authenticate: Autenticar
+    saml:
+      not_configured:
+        title: SAML não configurado
+        description: O SAML não está configurado neste sistema. Se acha que se trata de um erro, contacte o suporte para que possa investigar.
+        support_button: Contactar o suporte
+      api:
+        local:
+          title: Autenticação SAML
+          description: A autenticação SAML foi aberta no seu navegador predefinido; continue aí o início de sessão. Se não encontrar a janela ou se não funcionar por algum motivo, pode continuar clicando no botão abaixo.
+          button_label: Início de sessão SSO
+      response:
+        api_error:
+          authentication_error: Falha na autenticação
+          saml_authentication_error: Falha na autenticação SSO
+          saml_authentication_error_description: Falha na autenticação SSO. Contacte o administrador se o problema persistir.
+        api_disabled:
+          api_disabled: Grupo de utilizadores não autorizado
+          api_disabled_description: A sua conta não tem permissão para aceder a esta função (API desativada). Contacte um administrador para mover a sua conta para outro grupo.
+        api_response:
+          authentication_successful: Autenticação bem-sucedida
+        create:
+          could_not_create_account: Não foi possível criar a conta. Contacte um administrador para mais informações.
+        show:
+          could_not_create_account: Não foi possível criar a conta. Contacte um administrador para mais informações.
+    temporary_user:
+      validate_email: Valide o seu endereço de e-mail
+      validate_email_description_html: "Foi enviada uma palavra-passe temporária para o seu endereço de e-mail: <strong>%{email}</strong>. Clique na ligação ou introduza aqui a palavra-passe temporária para verificar o seu endereço e continuar."
+      session_expired: A sessão expirou, introduza novamente o seu endereço de e-mail para continuar
+      token_expired: A ligação de autenticação do e-mail expirou, tente novamente.
+      already_authenticated: Já tem sessão iniciada neste navegador.
+      resend_validation_email: Reenviar e-mail de validação
+      verify: Verificar
+      validate_email_sent: "Foi enviado um novo e-mail de validação às: %{time}. Clique na ligação do e-mail ou introduza a palavra-passe abaixo para verificar o seu endereço."
+      invalid_temporary_user: Palavra-passe inválida. Verifique o seu e-mail; a palavra-passe temporária foi reenviada para a sua caixa de entrada.
+      temporary_user_expired: A palavra-passe temporária expirou. Verifique o seu e-mail; foi enviada uma nova palavra-passe temporária para a sua caixa de entrada.
+      create_account: Criar conta
+      create_account_description: Crie uma conta permanente neste sistema para poder iniciar sessão com o seu endereço de e-mail e palavra-passe em vez de uma conta de utilizador temporária.
+  shared:
+    show: Mostrar
+    reify: Restaurar
+    download: Transferir
+    restore: Restaurar
+    delete: Eliminar
+    trash: Lixo
+    cancel: Cancelar
+    close: Fechar
+    current: Atual
+    bootstrap_confirm_dialog:
+      confirm_action: Confirmar ação
+    shares:
+      bootstrap_confirm_dialog:
+        confirm_action: Confirmar ação
+      navigation:
+        files: Ficheiros
+        activity_log: Registo de atividade
+      wrap_content:
+        activity_log: Registo de atividade
+    error_messages:
+      prohibited_this_from_being_saved: impediu que %{target} fosse guardado
+  share:
+    share: Share
+    shares: Shares
+    no_shares: Nenhum Share disponível
+    name: Nome
+    folder_name: Nome da pasta
+    share_not_found: Share não encontrado
+    folder_not_found: Pasta não encontrada
+    file_not_found: Ficheiro não encontrado
+    no_read_access: Sem autorização para aceder a este Share
+    no_write_access: Sem permissão de escrita neste Share
+    not_authorized_to_view_logs: Sem autorização para ver os registos
+    require_authentication: Este Share requer autenticação. Introduza a palavra-passe para continuar.
+    authenticate: Autenticar
+    authentication_failed: Falha na autenticação
+  shares:
+    folders:
+      are_you_sure_you_want_to_delete: Tem a certeza de que pretende eliminar esta pasta?
+      are_you_sure_you_want_to_trash: Tem a certeza de que pretende eliminar definitivamente esta pasta?
+      folder_name_already_taken: Este nome de pasta já está a ser utilizado!
+      folder_not_found: Pasta não encontrada
+      could_not_create_folder: "Não foi possível criar a pasta: %{error}"
+      zip_no_files: Não há ficheiros para adicionar ao ZIP
+      windows_path_warning:
+        title: Limite de comprimento de caminhos no Windows
+        description_html: <strong>Utilizadores do Windows:</strong> o Windows limita os caminhos de ficheiros a 259 caracteres. Ao carregar pastas a partir de localizações com caminhos longos, os ficheiros situados em níveis profundos da estrutura podem ser excluídos sem aviso, o que pode causar carregamentos incompletos ou pastas duplicadas.
+        workarounds_title: Soluções recomendadas
+        workarounds_html: "<li><strong>Utilizar uma unidade virtual:</strong> abra a Linha de comandos e execute: <code>subst X: \"C:\\o\\seu\\caminho\\longo\\para\\a\\pasta\"</code><br>Depois carregue a partir da unidade virtual <code>X:\\</code></li><li><strong>Aproximar-se dos ficheiros:</strong> navegue para uma subpasta mais próxima dos seus ficheiros antes de selecionar a pasta a carregar</li><li><strong>Utilizar um caminho mais curto:</strong> copie os seus ficheiros para uma localização mais curta, como <code>C:\\uploads\\</code>, antes de os carregar</li><li><strong>Comprimir primeiro a pasta:</strong> comprima a pasta num ficheiro ZIP e carregue antes o ficheiro ZIP</li>"
+        advanced_title: "Avançado: ativar caminhos longos no Windows 10/11"
+        advanced_description_html: A partir do Windows 10 versão 1607, pode ativar o suporte para caminhos mais longos. <strong>Nota:</strong> requer privilégios de administrador e pode não funcionar em todos os navegadores. As soluções acima são mais fiáveis.
+        registry_steps_title: Passos para ativar caminhos longos
+        registry_steps_html: "<li>Prima <kbd>Win + R</kbd>, escreva <code>regedit</code> e prima Enter</li><li>Navegue até: <code>HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\FileSystem</code></li><li>Localize ou crie um valor DWORD com o nome <code>LongPathsEnabled</code> e defina-o como <code>1</code></li><li>Reinicie o computador para que a alteração tenha efeito</li><li>Teste novamente o carregamento (o suporte pode variar consoante o navegador)</li>"
+        browser_disclaimer_html: "<strong>Importante:</strong> mesmo com esta definição de registo ativada, o suporte para caminhos longos varia consoante o navegador. O Chrome, o Edge e o Firefox podem continuar a aplicar o limite de 259 caracteres. As soluções acima são mais fiáveis."
+      folder:
+        rename_folder: Mudar o nome da pasta
+        move_folder_description: Mover a pasta %{foldername} para a pasta selecionada abaixo
+        move_folder: Mover pasta
+      action_bar:
+        download_as_zip: Transferir como ZIP
+        download_as_zip_with_deleted: Transferir como ZIP, incluindo ficheiros eliminados
+        toggle_deleted_view: Mostrar/ocultar ficheiros eliminados
+        filter: Filtrar
+        upload_file: Carregar ficheiros
+        upload_folder: Carregar pasta
+        create_folder: Criar pasta
+        windows_path_warning: Aviso de comprimento do caminho
+        upload_folder_unsupported: Carregamento de pastas não suportado
+        upload_folder_unsupported_description: Infelizmente, o carregamento de pastas não é suportado no seu navegador. Utilize a versão para computador do Chrome ou do Safari para carregar uma estrutura de pastas.
+        showing_deleted: A mostrar %{number_of} eliminados
+        hiding_deleted: A ocultar %{number_of} eliminados
+        actions: Ações
+        move_selected: Mover seleção
+        trash_selected: Enviar seleção para o lixo
+        delete_selected: Eliminar seleção
+      action_bar_below:
+        send_notifications: Enviar notificações
+        sending_notifications: A enviar notificações
+        quota: Quota
+        used_of: utilizado de
+        available: disponível
+        quota_exceeded: Quota excedida
+      create_folder_modal:
+        create_folder: Criar pasta
+        create: Criar
+      files:
+        are_you_sure_you_want_to_delete: Tem a certeza de que pretende eliminar este ficheiro?
+        are_you_sure_you_want_to_trash: Tem a certeza de que pretende eliminar definitivamente este ficheiro?
+        file_not_found: Ficheiro não encontrado
+        file:
+          rename_file: Mudar o nome do ficheiro
+          move_file: Mover
+          move_file_description: Mover o ficheiro %{filename} para a pasta selecionada abaixo
+        show:
+          prev: Anterior
+          up: Subir
+          next: Seguinte
+          last_updated: Última atualização
+          versions: Versões
+          show_all: Mostrar tudo
+          version_from: Versão de
+          next_version: Versão seguinte
+          previous_version: Versão anterior
+          current_version: Versão atual
+          pdf_preview_not_supported: A pré-visualização de ficheiros PDF não é suportada no seu navegador
+        available_chunks:
+          available: Existem carregamentos parciais disponíveis dos seguintes ficheiros
+          resume_replace: Pretende retomar o carregamento ou substituir os ficheiros?
+      quota:
+        quota: Quota
+        used_of: utilizado de
+        available: disponível
+        quota_exceeded: Quota excedida
+      move_file_folder_modal:
+        move_folder: Mover pasta
+        move_file: Mover ficheiro
+        move: Mover
+      show:
+        select_all: Selecionar/desmarcar tudo
+    logs:
+      action_bar:
+        activity_log: Registo de atividade
+      message:
+        created: Criado
+        uploaded: Carregado
+        downloaded: Transferido
+        reified: Restaurado
+        removed: Removido
+        restored: Restaurado
+        deleted: Eliminado
+        moved: Movido
+        renamed: Nome alterado
+        added: Adicionado
+        viewed: Visto
+        infected: Infetado
+        trashed: Enviado para o lixo
+        deleted_user: "(Utilizador eliminado)"
+        share: Share
+        folder: Pasta
+        file: Ficheiro
+        group: Grupo
+        user: Utilizador
+        read: Leitura
+        read/write: Leitura/escrita
+        av_scanner: Antivírus
+        version_from: Versão de
+        file_deleted: Ficheiro eliminado
+        to: para
+        from: de
+        unknown: Desconhecido
+        other: Outro
+  share/log:
+    message:
+      you: O utilizador
+      share: Share
+      folder: pasta
+      file: ficheiro
+      user: utilizador
+      version_from: versão de
+      read: leitura
+      read/write: leitura/escrita
+      created: criou
+      added: adicionou
+      uploaded: carregou
+      downloaded: transferiu
+      updated: atualizou
+      restored: restaurou
+      reified: restaurou
+      deleted: eliminou
+      removed: eliminou definitivamente
+      trashed: enviou para o lixo
+      renamed: mudou o nome de
+      viewed: viu
+      infected: infetado
+      av_scanner: Antivírus
+      file_deleted: Ficheiro eliminado
+  sms_auth:
+    login_failed: Falha ao iniciar sessão
+    sms_error: Erro na configuração de SMS, contacte o administrador do sistema
+    verify_token: Verificar código SMS
+    verify_token_description: "Introduza o código enviado para o seu telemóvel:"
+    sms_login_failed: Falha na validação por SMS, foi enviado um novo código SMS
+    sms_signup: Registo na autenticação de dois fatores por SMS
+    sms_signup_failed: Falha na autenticação de dois fatores por SMS
+    sms_signup_description: Para continuar, tem de se registar na autenticação de dois fatores por SMS. Introduza o seu número de telefone abaixo para continuar.
+    verify: Verificar
+    resend: Reenviar código
+    code: Código
+    token_resent: Código SMS reenviado às %{time}
+    send_token: Enviar código de verificação
+    phone_number: Número de telefone
+    invalid_phone_number: Número de telefone inválido, tente novamente.
+    change_phone_number: Alterar número de telefone
+    phone_number_help: Introduza o seu número de telefone com o indicativo do país e sem zeros iniciais (por ex. 351912345678). Será enviado um código de verificação para este número.
+    one-time-code: Código de utilização única
+  strong_auth:
+    two_factor_authentication: Autenticação de dois fatores
+    enable_2fa: Ativar a autenticação de dois fatores
+    disable_2fa: Desativar a autenticação de dois fatores
+    title: Ativar a autenticação de dois fatores
+    enable_2fa_description: Pode ativar a autenticação forte de dois fatores para aumentar a segurança da sua conta.
+    require_description: Para utilizar este sistema, tem de configurar a autenticação de dois fatores.
+    disable_description: Introduza o código atual para desativar a autenticação de dois fatores
+    two_factor_auth_disabled: Autenticação de dois fatores desativada
+    step1: "Passo 1: transfira a aplicação de autenticação"
+    step1_description: Ative a autenticação de dois fatores, normalmente através de uma aplicação móvel.
+    totp_apps_description_html: Entre as aplicações de autenticação incluem-se o <a href="https://authy.com" target="_blank" rel="external nofollow noopener noreferrer">Authy</a> (várias plataformas) e o Google Authenticator (iOS/Android). Consulte <a href="https://docs.liquidfiles.com/authentication/totp.html#clients" target="_blank">TOTP Clients</a> para mais opções.
+    step2: "Passo 2: configure a aplicação de autenticação"
+    step2_description: Configure a sua aplicação de autenticação lendo o código QR.
+    step2_alt: Ou introduza o seguinte código
+    step3: "Passo 3: verifique"
+    step3_description: Verifique a configuração introduzindo o código gerado pela aplicação de autenticação.
+    failed_to_authenticate: Falha na autenticação, tente novamente.
+    click_on_link: Em alternativa, clique na seguinte ligação para adicionar a configuração à sua aplicação de autenticação de dois fatores
+    configure: Configurar a autenticação de dois fatores
+    success_saved: Concluído, a configuração da autenticação de dois fatores foi guardada
+    verify_token: Verificar a autenticação de dois fatores
+    verify_token_description: Introduza o código de autenticação de dois fatores da sua aplicação móvel.
+    verify: Verificar
+    two_factor_login_failed: Falha na autenticação de dois fatores
+    two_factor_validation_failed: Falha na validação da autenticação de dois fatores
+    skip_2fa_for_two_weeks: Ignorar a autenticação de dois fatores neste navegador durante duas semanas
+    one-time-code: Código de utilização única
+  support:
+    email_subject: Preciso de ajuda com
+    email_body: Descreva o problema com o máximo de detalhe possível. Obrigado.
+    navbar_tooltip: Se precisar de ajuda para aceder a este sistema ou utilizá-lo, clique nesta ligação e teremos todo o gosto em ajudar.
+  user:
+    includes_at_least_one_invalid_email_address: inclui pelo menos um endereço de e-mail inválido
+    confirm:
+      invalid_session: Sessão inválida
+      already_validated: O seu endereço de e-mail já foi validado
+      invalid_token: Código inválido. Tente novamente ou clique em Reenviar e-mail de validação.
+      validation_email_sent: "E-mail de validação enviado às: %{time}"
+      activated_successfully: Ativado com êxito
+      validate_email_description: Verifique o seu e-mail e introduza a palavra-passe temporária para validar o seu endereço de e-mail.
+    register:
+      already_registered: Esta conta já está registada, inicie sessão para continuar
+      already_registered_not_validated: A sua conta já está registada, mas o seu endereço de e-mail ainda tem de ser validado. Foi-lhe enviado um e-mail com um código aleatório. Introduza o código abaixo ou clique na ligação do e-mail para validar a sua conta.
+      show:
+        register: Registar uma conta
+        description_html: <p>Introduza os seus dados para criar uma conta. Com esta conta, pode enviar ficheiros grandes em segurança para %{branding_name}.</p>
+    signup:
+      create:
+        need_password: Tem de introduzir uma palavra-passe
+        need_name: Tem de introduzir um nome
+    create:
+      show:
+        cancel_and_remember: Cancelar e não voltar a perguntar
+        cancel_and_remember_title: Esta opção será memorizada no seu navegador atual
+  validator:
+    required: Este campo é obrigatório.
+    remote: Corrija este campo.
+    email: Introduza um endereço de e-mail válido.
+    url: Introduza um URL válido.
+    date: Introduza uma data válida.
+    dateISO: Introduza uma data válida (ISO).
+    number: Introduza um número válido.
+    digits: Introduza apenas algarismos.
+    creditcard: Introduza um número de cartão de crédito válido.
+    equalTo: Introduza novamente o mesmo valor.
+    accept: Introduza um valor com uma extensão válida.
+    maxlength: Introduza no máximo {0} caracteres.
+    minlength: Introduza pelo menos {0} caracteres.
+    rangelength: Introduza um valor com entre {0} e {1} caracteres.
+    range: Introduza um valor entre {0} e {1}.
+    max: Introduza um valor menor ou igual a {0}.
+    min: Introduza um valor maior ou igual a {0}.
+    step: Introduza um múltiplo de {0}.
+    invalid_phone_number: Número de telefone inválido
+  locale: Português

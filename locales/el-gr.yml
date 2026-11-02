@@ -1,0 +1,1569 @@
+el:
+  s: δ
+  min: λεπ.
+  hours: Ώρες
+  days: Ημέρες
+  weeks: Εβδομάδες
+  months: Μήνες
+  years: Έτη
+  ago: πριν
+  email: Email
+  save: Αποθήκευση
+  delete: Διαγραφή
+  cancel: Ακύρωση
+  remove: Αφαίρεση
+  aborting: Διακοπή σε εξέλιξη
+  aborted: Διακόπηκε
+  saved_successfully: Αποθηκεύτηκε επιτυχώς
+  logout: Αποσύνδεση
+  error: Σφάλμα
+  enabled: Ενεργοποιημένο
+  disabled: Απενεργοποιημένο
+  disable: Απενεργοποίηση
+  default: Προεπιλογή
+  submit: Υποβολή
+  session_expired: Η περίοδος σύνδεσης έληξε
+  search: Αναζήτηση
+  filter: Φίλτρο
+  recipient: Παραλήπτης
+  recipients: Παραλήπτες
+  downloaded_by: Λήψη από
+  filename: Όνομα αρχείου
+  size: Μέγεθος
+  downloaded: Έγινε λήψη
+  host: Κεντρικός υπολογιστής
+  ip: Διεύθυνση IP
+  action: Ενέργεια
+  view_message: Προβολή μηνύματος
+  view_message_popup: Προβολή μηνύματος (αναδυόμενο παράθυρο)
+  download_info: Πληροφορίες λήψης
+  message_id: Αναγνωριστικό μηνύματος
+  filelink_id: Αναγνωριστικό FileLink
+  sent_at: Στάλθηκε
+  id: Αναγνωριστικό
+  subject: Θέμα
+  expires: Λήγει
+  invalid_method: Μη έγκυρη μέθοδος
+  export_csv: Εξαγωγή CSV
+  export_all: Εξαγωγή όλων
+  export_visible: Εξαγωγή ορατών
+  temporarily_unavailable: Προσωρινά μη διαθέσιμο
+  generic_search_error: Γενικό σφάλμα αναζήτησης
+  sender: Αποστολέας
+  search_temporary_disabled: Η αναζήτηση είναι προσωρινά απενεργοποιημένη
+  help: Βοήθεια
+  close: Κλείσιμο
+  count: Πλήθος
+  settings: Ρυθμίσεις λογαριασμού
+  virus: Ιός
+  virus_status: Κατάσταση προστασίας από ιούς
+  infected: Μολυσμένο
+  clean: Καθαρό
+  not_scanned: Δεν έχει σαρωθεί
+  not_yet_scanned: Δεν έχει σαρωθεί ακόμη
+  csrf_error: "CSRF: εντοπίστηκαν μη έγκυρες παράμετροι. Συνδεθείτε ξανά για να συνεχίσετε."
+  could_not_be_saved: Δεν ήταν δυνατή η αποθήκευση
+  label: Ετικέτα
+  updated: Ενημερώθηκε
+  add: Προσθήκη
+  system_info: Πληροφορίες συστήματος
+  location: Τοποθεσία
+  accept: Αποδοχή
+  last_7_days: Τελευταίες 7 ημέρες
+  last_30_days: Τελευταίες 30 ημέρες
+  last_60_days: Τελευταίες 60 ημέρες
+  last_90_days: Τελευταίες 90 ημέρες
+  last_180_days: Τελευταίες 180 ημέρες
+  last_365_days: Τελευταίες 365 ημέρες
+  file: Αρχείο
+  files: Αρχεία
+  next: Επόμενο
+  previous: Προηγούμενο
+  name: Όνομα
+  view: Προβολή
+  forget: Λήθη
+  update: Ενημέρωση
+  updated_at: Ενημερώθηκε στις
+  created_at: Δημιουργήθηκε στις
+  download_link_expired: Ο σύνδεσμος λήψης έχει λήξει.
+  no_html5_upload_warning: Η αποστολή αρχείων απαιτεί σύγχρονο πρόγραμμα περιήγησης συμβατό με HTML5. Τα Microsoft Edge, Chrome, Firefox και Safari λειτουργούν όλα άψογα.
+  javascript_warning: Η JavaScript απαιτείται για την αποστολή αρχείων και τη χρήση των περισσότερων λειτουργιών.
+  cookie_accept: Αυτός ο ιστότοπος χρησιμοποιεί cookies. Συνδεόμενοι ή πατώντας «Αποδοχή», αποδέχεστε τη χρήση cookies.
+  i_agree: Συμφωνώ
+  session_timeout: Η περίοδος σύνδεσης έληξε, συνδεθείτε ξανά
+  loading: Φόρτωση...
+  unsupported_browser_header: Μη υποστηριζόμενο πρόγραμμα περιήγησης
+  unsupported_browser_description_html: Το πρόγραμμα περιήγησής σας δεν υποστηρίζεται και ο ιστότοπος πιθανότατα δεν θα λειτουργεί όπως αναμένεται. Χρησιμοποιήστε ένα νεότερο πρόγραμμα περιήγησης.
+  not_logged_in_invalid_parameters: Δεν έχετε συνδεθεί, μη έγκυρες παράμετροι
+  toggle_dropdown: Εμφάνιση/απόκρυψη μενού
+  rejected: Απορρίφθηκε
+  undetected: Δεν εντοπίστηκε
+  invalid_link: Μη έγκυρος σύνδεσμος, επικοινωνήστε με τον αποστολέα
+  account_settings_tooltip: Ρυθμίσεις λογαριασμού
+  logout_tooltip: Αποσύνδεση
+  download_id: Αναγνωριστικό λήψης
+  remote_host: Απομακρυσμένος κεντρικός υπολογιστής
+  show: Εμφάνιση
+  hide: Απόκρυψη
+  password: Κωδικός πρόσβασης
+  download: Λήψη
+  unauthorized: Χωρίς εξουσιοδότηση
+  account:
+    login: Σύνδεση
+    login_label: Διεύθυνση email
+    email: Διεύθυνση email
+    password: Κωδικός πρόσβασης
+    current_password: Τρέχων κωδικός πρόσβασης
+    please_enter_your_current_password: Εισαγάγετε τον τρέχοντα κωδικό πρόσβασής σας
+    sign_in: Σύνδεση
+    remember_me: Να με θυμάσαι
+    not_administrator: Δεν είστε διαχειριστής
+    password_reset: Επαναφορά κωδικού πρόσβασης
+    register: Εγγραφή
+    register_description_html: Σας ευχαριστούμε! Για να συνεχίσετε, εισαγάγετε τα στοιχεία σας και δημιουργήστε λογαριασμό.<br>Την επόμενη φορά μπορείτε να συνδεθείτε με τη διεύθυνση email και τον κωδικό πρόσβασής σας.
+    account_not_activated: Ο λογαριασμός δεν έχει ενεργοποιηθεί. Ενεργοποιήστε τον πριν συνδεθείτε. Σας στείλαμε ένα email με έναν τυχαίο κωδικό. Εισαγάγετε τον κωδικό παρακάτω ή κάντε κλικ στον σύνδεσμο του email για να επιβεβαιώσετε τον λογαριασμό σας.
+    incorrect_user_or_pw: Λανθασμένο όνομα χρήστη ή κωδικός πρόσβασης
+    confirmation_email_sent: Το email επιβεβαίωσης στάλθηκε
+    activated_successfully: Ενεργοποιήθηκε επιτυχώς
+    not_activated: Ο λογαριασμός δεν έχει ενεργοποιηθεί
+    password_reset_email_sent: Το email επαναφοράς κωδικού πρόσβασης στάλθηκε
+    no_such_user: Ο χρήστης δεν υπάρχει
+    no_such_email: Η διεύθυνση email δεν βρέθηκε
+    not_logged_in: Δεν έχετε συνδεθεί. Συνδεθείτε για να συνεχίσετε.
+    saved_successfully: Αποθηκεύτηκε επιτυχώς
+    unlicensed_install_some_settings: "Εγκατάσταση χωρίς άδεια: οι επιλογές εταιρικής ταυτότητας είναι ορατές μόνο στους διαχειριστές συστήματος"
+    incorrect_login_or_demo: Λανθασμένο όνομα χρήστη ή κωδικός πρόσβασης ή έχει συμπληρωθεί το όριο της άδειας
+    incorrect_login_or_ldap: Λανθασμένο όνομα χρήστη ή κωδικός πρόσβασης ή σφάλμα του διακομιστή LDAP
+    invalid_api_key: Μη έγκυρο κλειδί API
+    cant_delete_last_sysadmin: Δεν είναι δυνατή η διαγραφή του τελευταίου διαχειριστή συστήματος
+    cant_change_last_sysadmin: Δεν είναι δυνατή η αλλαγή του τελευταίου διαχειριστή συστήματος
+    sso_login: Σύνδεση SSO
+    invalid_sso_response: Μη έγκυρη απόκριση SSO
+    automatic: Αυτόματος εντοπισμός
+    network_access_blocked: Η πρόσβαση σε αυτό το σύστημα από το δίκτυό σας δεν επιτρέπεται.
+    please_login: Συνδεθείτε για να ανοίξετε αυτή τη σελίδα.
+    email_validation_session_timeout: Η περίοδος σύνδεσης έληξε, επιβεβαιώστε ξανά τη διεύθυνση email σας.
+    signature: Υπογραφή
+    not_authorized_for_action: Δεν έχετε εξουσιοδότηση για αυτή την ενέργεια
+    invalid_group: Μη έγκυρη ομάδα. Επικοινωνήστε με έναν διαχειριστή που μπορεί να μεταφέρει τον λογαριασμό σας σε ομάδα τοπικών χρηστών
+    invalid_group_configuration: Μη έγκυρη διαμόρφωση ομάδας. Επικοινωνήστε με έναν διαχειριστή που μπορεί να σας δημιουργήσει λογαριασμό ή να προσαρμόσει τη διαμόρφωση της ομάδας.
+    please_enter_email_to_email_password: Εισαγάγετε τη διεύθυνση email σας για να επαναφέρετε τον κωδικό πρόσβασης. Θα σταλεί email επιβεβαίωσης σε αυτή τη διεύθυνση.
+    password_reset_successfully: Ο κωδικός πρόσβασης επαναφέρθηκε επιτυχώς
+    password_cant_be_empty: Ο κωδικός πρόσβασης δεν μπορεί να είναι κενός
+    password_complexity_title: Πολυπλοκότητα κωδικού πρόσβασης
+    password_complexity_description_html: "<p>Ο κωδικός πρόσβασής σας <strong>δεν μπορεί να βασίζεται σε λέξη του λεξικού</strong> και πρέπει να πληροί τουλάχιστον 3 από τις παρακάτω απαιτήσεις:</p><ul><li>Τουλάχιστον 8 χαρακτήρες</li><li>Τουλάχιστον 11 χαρακτήρες</li><li>Τουλάχιστον 15 χαρακτήρες</li><li>Τουλάχιστον 1 πεζό και 1 κεφαλαίο γράμμα</li><li>Τουλάχιστον 1 ψηφίο (0-9)</li><li>Τουλάχιστον έναν από τους εξής χαρακτήρες: !,@,#,$,%,^,&amp;,*,?,_,~,-,(,)</li></ul>"
+    is_not_strong_enough: δεν είναι αρκετά ισχυρός
+    your_password_has_expired: Ο κωδικός πρόσβασής σας έχει λήξει
+    please_select_a_different_password: Επιλέξτε κωδικό πρόσβασης διαφορετικό από τον προηγούμενο
+    change_password: Αλλαγή κωδικού πρόσβασης
+    account_not_found: Ο λογαριασμός δεν βρέθηκε. Συνδεθείτε ξανά.
+    user_required_to_use_saml: Δεν είναι δυνατή η επαναφορά του κωδικού πρόσβασης, συνδεθείτε μέσω SAML
+    sysadmin_ldap_error: Αυτός ο λογαριασμός ελέγχεται μέσω LDAP και δεν μπορεί να επαναφερθεί από εδώ
+    login_limit_exceeded: Υπέρβαση ορίου συνδέσεων
+    a_confirmation_email_will_be_sent: Θα σταλεί email επιβεβαίωσης σε αυτή τη διεύθυνση
+    name: Όνομα
+    password_confirm: Επιβεβαίωση κωδικού πρόσβασης
+    save: Αποθήκευση
+    can_not_reset_password_please_check_with_your_administrator: Δεν είναι δυνατή η επαναφορά του κωδικού πρόσβασης, επικοινωνήστε με τον διαχειριστή σας
+    no_need_to_register_user: Δεν χρειάζεται να εγγραφείτε. Συνδεθείτε με τον υπάρχοντα λογαριασμό σας.
+    registration_not_allowed: Η εγγραφή δεν επιτρέπεται
+    create_description: Δημιουργήστε τον λογαριασμό σας εισάγοντας το όνομά σας και έναν κωδικό πρόσβασης.
+    activated_successfully_please_login: Ο λογαριασμός ενεργοποιήθηκε επιτυχώς. Τώρα μπορείτε να συνδεθείτε με τη διεύθυνση email και τον κωδικό πρόσβασής σας.
+    invalid_activation_url: Μη έγκυρος σύνδεσμος ενεργοποίησης. Ελέγξτε τον σύνδεσμο και δοκιμάστε ξανά.
+    already_logged_in: Έχετε ήδη συνδεθεί. Δεν είναι δυνατή η εγγραφή νέου λογαριασμού.
+    bruteforce_message: Υπερβήκατε τον αριθμό των αποτυχημένων προσπαθειών. Δοκιμάστε ξανά σε %{minutes} λεπτά.
+    admin_access_blocked: Η πρόσβαση διαχειριστή από τη διεύθυνση IP σας δεν επιτρέπεται.
+    account_created_successfully: Ο λογαριασμός δημιουργήθηκε επιτυχώς
+    create_account: Δημιουργία λογαριασμού
+    create_account_description: Ενημερώστε τα στοιχεία σας για να δημιουργήσετε τον λογαριασμό σας.
+    account_settings: Ρυθμίσεις λογαριασμού
+    change_language: Αλλαγή γλώσσας και ζώνης ώρας
+    filedrop_label: Filedrop (τυχαίο)
+    filedrop_email_label: Filedrop
+    verify_account: Επαλήθευση λογαριασμού
+    invalid_sso_signature: Μη έγκυρη υπογραφή ή σύνδεση SSO
+    user_not_found: Ο χρήστης δεν βρέθηκε
+    could_not_create_account: Δεν ήταν δυνατή η δημιουργία λογαριασμού
+    two_factor_authentication_failed: Ο έλεγχος ταυτότητας δύο παραγόντων Duo απέτυχε
+    copy_to_clipboard: Αντιγραφή στο πρόχειρο
+    copy_url_to_clipboard: Αντιγραφή URL στο πρόχειρο
+    delete_user_warning: Θέλετε σίγουρα να διαγράψετε αυτόν τον χρήστη;
+    unauthorized_to_login: Δεν έχετε εξουσιοδότηση να συνδεθείτε
+    first_time_message_title: Καλώς ορίσατε στο LiquidFiles
+    first_time_message: <p>Καλώς ορίσατε στο LiquidFiles, τον πιο εύκολο τρόπο να στέλνετε μεγάλα αρχεία με ασφάλεια.</p><p>Οι βασικές λειτουργίες λειτουργούν ακριβώς όπως ένα σύστημα webmail.</p><p>Αυτό το μήνυμα θα εμφανιστεί μόνο μία φορά. Αν κολλήσετε κάπου ή θέλετε να ανακαλύψετε πιο προηγμένες λειτουργίες, κάντε κλικ στο κουμπί «Βοήθεια» επάνω δεξιά στη γραμμή μενού.</p>
+    first_time_message_button: Κατάλαβα!
+    registration_failed_unknown_error: Η εγγραφή απέτυχε λόγω άγνωστου σφάλματος
+    session_timeout: Η περίοδος σύνδεσης έληξε
+    nothing_filled_in: Συμπληρώστε τη φόρμα
+    last_used: Τελευταία χρήση
+    strong_auth_required_before_password_reset: Απαιτείται ισχυρός έλεγχος ταυτότητας δύο παραγόντων πριν από την επαναφορά του κωδικού πρόσβασης αυτού του λογαριασμού.
+    unfriendly_registration_message: Αν μπορείτε να εγγραφείτε στο σύστημα με αυτή τη διεύθυνση email, θα λάβετε ένα email. Αν δεν το λάβετε, χρησιμοποιήστε τον σύνδεσμο υποστήριξης παραπάνω.
+    unfriendly_password_reset_message: Αν ο λογαριασμός με αυτή τη διεύθυνση email μπορεί να επαναφερθεί, θα λάβετε ένα email. Αν δεν το λάβετε, χρησιμοποιήστε τον σύνδεσμο υποστήριξης παραπάνω.
+    aliases:
+      aliases: Ψευδώνυμα
+      aliases_description: Μπορείτε να προσθέσετε στον λογαριασμό σας ψευδώνυμα αποστολέα και παραλήπτη. Ένα ψευδώνυμο αποστολέα σάς επιτρέπει να στέλνετε μηνύματα εκ μέρους αυτής της διεύθυνσης email. Ένα ψευδώνυμο παραλήπτη σάς επιτρέπει να βλέπετε τα μηνύματα για αυτή τη διεύθυνση. Τα μηνύματα προς ψευδώνυμο παραλήπτη εμφανίζονται επίσης στα εισερχόμενα των ασφαλών μηνυμάτων σας.
+      aliases_no_change_description: Ένα ψευδώνυμο αποστολέα σάς επιτρέπει να στέλνετε μηνύματα εκ μέρους αυτής της διεύθυνσης email. Ένα ψευδώνυμο παραλήπτη σάς επιτρέπει να βλέπετε τα μηνύματα για αυτή τη διεύθυνση. Τα μηνύματα προς ψευδώνυμο παραλήπτη εμφανίζονται επίσης στα εισερχόμενα των ασφαλών μηνυμάτων σας. Επικοινωνήστε με έναν διαχειριστή για να προσθέσετε ή να αλλάξετε ψευδώνυμα.
+      recipient_aliases: Ψευδώνυμα παραλήπτη
+      sender_aliases: Ψευδώνυμα αποστολέα
+      add_alias: Προσθήκη ψευδωνύμου
+      remove: Αφαίρεση
+      default_sender_alias: Προεπιλεγμένο ψευδώνυμο αποστολέα
+      default_sender_alias_description: Το προεπιλεγμένο ψευδώνυμο αποστολέα.
+      are_you_sure: Θέλετε σίγουρα να αφαιρέσετε αυτό το ψευδώνυμο;
+      no_emails: Δεν έχει προστεθεί κανένα ψευδώνυμο.
+      please_contact_an_administrator: Επικοινωνήστε με έναν διαχειριστή για να τα διαχειριστείτε
+      auto_added_aliases: Ψευδώνυμα που προστέθηκαν αυτόματα
+      auto_added_aliases_description: Τα παρακάτω ψευδώνυμα προστέθηκαν αυτόματα στο προφίλ σας. Επικοινωνήστε με έναν διαχειριστή για να τα διαχειριστείτε.
+    alias:
+      confirm:
+        show:
+          title: Σας ευχαριστούμε για την επιβεβαίωση
+          alias_email: Διεύθυνση email ψευδωνύμου
+          user: Χρήστης
+          recipient_and_sender_confirmation: Ο παραπάνω χρήστης μπορεί πλέον να βλέπει τα ασφαλή μηνύματα για αυτή τη διεύθυνση email και να στέλνει ασφαλή μηνύματα εκ μέρους της. Αν πρόκειται για λάθος, κάντε κλικ στον σύνδεσμο υποστήριξης παραπάνω.
+          only_recipient_confirmation: Ο παραπάνω χρήστης μπορεί πλέον να βλέπει τα ασφαλή μηνύματα για αυτή τη διεύθυνση email. Αν πρόκειται για λάθος, κάντε κλικ στον σύνδεσμο υποστήριξης παραπάνω.
+          only_sender_confirmation: Ο παραπάνω χρήστης μπορεί πλέον να στέλνει ασφαλή μηνύματα εκ μέρους αυτής της διεύθυνσης email. Αν πρόκειται για λάθος, κάντε κλικ στον σύνδεσμο υποστήριξης παραπάνω.
+    add_alias_modal:
+      title: Προσθήκη ψευδωνύμου
+      description: Εισαγάγετε τη διεύθυνση email στην οποία θέλετε πρόσβαση ως ψευδώνυμο παραλήπτη ή αποστολέα. Θα σταλεί email επιβεβαίωσης σε αυτή τη διεύθυνση.
+      recipient_alias: Ψευδώνυμο παραλήπτη - θέλω να διαβάζω τα μηνύματα που αποστέλλονται σε αυτή τη διεύθυνση email.
+      sender_alias: Ψευδώνυμο αποστολέα - θέλω να στέλνω μηνύματα εκ μέρους αυτής της διεύθυνσης email.
+      invalid_email: Μη έγκυρη διεύθυνση email
+      add_permission: Επιλέξτε ψευδώνυμο παραλήπτη, ψευδώνυμο αποστολέα ή και τα δύο.
+      send_request: Αποστολή αιτήματος
+      request_has_been_sent: Το αίτημά σας στάλθηκε.
+    api:
+      api_key: Κλειδί API
+      api_key_description: Το κλειδί API χρησιμοποιείται από πρόσθετα όπως το πρόσθετο του Outlook και μπορεί να χρησιμοποιηθεί για προσαρμοσμένες ενσωματώσεις. Το χρειάζεστε μόνο αν σας το ζητήσει ένας διαχειριστής.
+      api_key_reset_warning: Είστε σίγουροι; Αν επαναφέρετε το κλειδί API, θα πρέπει να αντικαταστήσετε το παλιό κλειδί παντού όπου το χρησιμοποιούσατε.
+      reset_api_key: Επαναφορά κλειδιού API
+    contacts:
+      contacts: Επαφές
+      contacts_description: Μπορείτε να προσθέσετε όσες επαφές θέλετε. Κάθε επαφή μπορεί να έχει πολλές διευθύνσεις email, ώστε να στέλνετε γρήγορα και εύκολα σε πολλούς παραλήπτες ταυτόχρονα.
+      add_contact: Προσθήκη επαφής
+      email_field_help: Λίστα διευθύνσεων email διαχωρισμένων με κόμμα.
+      contact:
+        edit_label: Επεξεργασία ετικέτας
+        edit_email: Επεξεργασία διεύθυνσης email
+        are_you_sure: Θέλετε σίγουρα να διαγράψετε αυτή την επαφή;
+    filedrops:
+      filedrops: Filedrop
+      filedrops_description: Είστε ο κύριος παραλήπτης ή παραλήπτης κοινοποίησης αυτών των Filedrop. Κάθε αρχείο που αποστέλλεται μέσω οποιουδήποτε από αυτά θα παραδοθεί σε εσάς.
+      name: Όνομα
+      title: Τίτλος
+      recipient: Παραλήπτης
+      expires_after: Λήγει μετά από
+      max_size: Μέγ. μέγεθος αρχείου
+      url: URL
+      main_recipient: Κύριος παραλήπτης
+      cc: Κοιν.
+    personal_filedrop:
+      personal_filedrop: Προσωπικό Filedrop
+      personal_filedrop_description: Το προσωπικό Filedrop είναι ένας απλός τρόπος να λαμβάνετε αρχεία. Μπορείτε να στείλετε τον σύνδεσμο, να τον δημοσιεύσετε σε έναν ιστότοπο ή να τον προσθέσετε στην υπογραφή του email σας. Θα λάβετε ειδοποίηση μόλις κάποιος σας στείλει κάτι μέσω του προσωπικού σας Filedrop.
+    previous_recipients:
+      previous_recipients: Προηγούμενοι παραλήπτες
+      previous_recipients_description: Όταν στέλνετε ένα ασφαλές μήνυμα, κάθε παραλήπτης προστίθεται σε αυτή τη λίστα προηγούμενων παραληπτών. Έτσι μπορείτε να στείλετε ξανά γρήγορα στους ίδιους παραλήπτες. Οι παραλήπτες στους οποίους δεν έχετε στείλει τίποτα για 180 ημέρες αφαιρούνται αυτόματα από τη λίστα.
+      are_you_sure: Θέλετε σίγουρα να διαγράψετε αυτόν τον προηγούμενο παραλήπτη;
+    pw_dictionary:
+      based_on_a_dictionary_word: βασίζεται σε λέξη του λεξικού
+      based_upon_your_password_entry: βασίζεται στον κωδικό πρόσβασης που εισαγάγατε
+      derived_from_your_password_entry: προέρχεται από τον κωδικό πρόσβασης που εισαγάγατε
+      derivable_from_your_password_entry: μπορεί να προκύψει από τον κωδικό πρόσβασης που εισαγάγατε
+      way_too_short: είναι ΠΟΛΥ σύντομος
+      too_short: είναι πολύ σύντομος
+      it_does_not_contain_enough_different_characters: δεν περιέχει αρκετούς ΔΙΑΦΟΡΕΤΙΚΟΥΣ χαρακτήρες
+      all_whitespace: περιέχει μόνο κενά
+      too_simplistic_systematic: είναι πολύ απλός/συστηματικός
+      it_looks_like_a_national_insurance_number: μοιάζει με ΑΜΚΑ
+      based_on_a_reversed_dictionary_word: βασίζεται σε (αντεστραμμένη) λέξη του λεξικού
+    show:
+      basic_settings: Βασικές ρυθμίσεις
+      change_password: Αλλαγή κωδικού πρόσβασης
+      strong_auth: Έλεγχος ταυτότητας δύο παραγόντων
+      aliases: Ψευδώνυμα
+      previous_recipients: Προηγούμενοι παραλήπτες
+      contacts: Επαφές
+      personal_filedrop: Προσωπικό Filedrop
+      api: API
+      filedrops: Filedrop
+    sms_disable:
+      disable_sms_otp: Απενεργοποίηση ελέγχου ταυτότητας δύο παραγόντων μέσω SMS
+      disable_sms_otp_description: Αν θέλετε να απενεργοποιήσετε τον έλεγχο ταυτότητας δύο παραγόντων μέσω SMS, κάντε κλικ στο παρακάτω κουμπί. Θα σταλεί ένας κωδικός SMS για την επιβεβαίωση του αιτήματος.
+      verify_token_description: "Για να απενεργοποιήσετε τον έλεγχο ταυτότητας δύο παραγόντων μέσω SMS, εισαγάγετε τον κωδικό που στάλθηκε στο κινητό σας τηλέφωνο:"
+      code: Κωδικός
+      sms_token_failed: Μη έγκυρος κωδικός SMS, δεν ήταν δυνατή η απενεργοποίηση του ελέγχου ταυτότητας δύο παραγόντων μέσω SMS
+      sms_otp_has_been_disabled: Ο έλεγχος ταυτότητας δύο παραγόντων μέσω SMS απενεργοποιήθηκε
+    sms_signup:
+      sms_signup_description: Μπορείτε να βελτιώσετε την ασφάλεια του λογαριασμού σας ενεργοποιώντας τον έλεγχο ταυτότητας δύο παραγόντων. Εισαγάγετε τον αριθμό τηλεφώνου σας παρακάτω για να τον ενεργοποιήσετε.
+      phone_number: Αριθμός τηλεφώνου
+    sms_enable:
+      signup_complete: Ο έλεγχος ταυτότητας δύο παραγόντων μέσω SMS ενεργοποιήθηκε
+    terms_of_service:
+      show:
+        title: Όροι χρήσης
+        accept_terms_of_service: Αποδοχή των όρων χρήσης
+        do_not_accept: Δεν αποδέχομαι
+      create:
+        you_need_to_accept: Πρέπει να αποδεχτείτε τους όρους χρήσης!
+  activerecord:
+    attributes:
+      attachment:
+        filename: Όνομα αρχείου
+        size: Μέγεθος
+        secure_id: Αναγνωριστικό συνημμένου
+        content_type: Τύπος περιεχομένου
+        created_at: Δημιουργήθηκε στις
+        updated_at: Ενημερώθηκε στις
+      download:
+        recipient: Παραλήπτης
+        downloaded_at: Λήψη στις
+        remote_ip: Απομακρυσμένη IP
+        remote_host: Απομακρυσμένος κεντρικός υπολογιστής
+        created_at: Δημιουργήθηκε στις
+        updated_at: Ενημερώθηκε στις
+      filedrop:
+        name: Όνομα
+        title: Τίτλος
+        description: Περιγραφή
+        blocked_extensions: Αποκλεισμένες επεκτάσεις
+        permitted_extensions: Επιτρεπόμενοι τύποι αρχείων
+        expires_after: Λήγει μετά από
+        max_filesize: Μέγιστο μέγεθος αρχείου
+        created_at: Δημιουργήθηκε στις
+        updated_at: Ενημερώθηκε στις
+        api_key: Κλειδί API
+        cc: Κοιν.
+        authorization: Εξουσιοδότηση
+      message:
+        recipients: Παραλήπτες
+        sender: Αποστολέας
+        cc: Κοιν.
+        bcc: Κρυφή κοιν.
+        message: Μήνυμα
+        subject: Θέμα
+        deleted: Διαγράφηκε
+        authorization: Εξουσιοδότηση
+        created_at: Δημιουργήθηκε στις
+        updated_at: Ενημερώθηκε στις
+        expires_at: Λήγει στις
+      share/log:
+        created_at: Ημερομηνία
+      share/file:
+        checksum: Άθροισμα ελέγχου (SHA256)
+      share/file/version:
+        whodunnit: Τροποποιήθηκε από
+        created_at: Τροποποιήθηκε στις
+      user:
+        name: Όνομα
+        email: Διεύθυνση email
+        quota: Όριο χώρου
+        used: Χρησιμοποιείται
+        max: Μέγ.
+        password: Κωδικός πρόσβασης
+        ldap_authentication: Έλεγχος ταυτότητας LDAP
+        api_key: Κλειδί API
+        level: Επίπεδο
+        filedrop: Filedrop
+    models:
+      configuration: Διαμόρφωση
+      attachment: Συνημμένο
+      filedrop: Filedrop
+      message: Μήνυμα
+      user: Χρήστης
+      download: Λήψη
+  admin:
+    groups:
+      form:
+        bcc_myself: Αποστολή αντιγράφου σε εμένα
+        can_change_bcc_myself: Οι χρήστες αυτής της ομάδας μπορούν να αλλάζουν τη ρύθμιση αποστολής αντιγράφου στον εαυτό τους
+      index:
+        default_group_assignment: Προεπιλεγμένη αντιστοίχιση ομάδας
+    users:
+      users:
+        email: Διεύθυνση email
+        name: Όνομα
+        group: Ομάδα
+        max: Μέγ. μέγεθος αρχείου
+        quota: Όριο χώρου
+        strong_auth: Ισχυρός έλεγχος ταυτότητας
+        filedrop: Filedrop
+        last_login_at: Τελευταία σύνδεση
+        last_login_ip: IP τελευταίας σύνδεσης
+        created: Δημιουργήθηκε
+      form:
+        name_label: Όνομα
+        email: Διεύθυνση email
+        password: Κωδικός πρόσβασης
+        password_confirmation: Επιβεβαίωση κωδικού πρόσβασης
+        max_label: Μέγιστο μέγεθος αρχείου
+        group: Ομάδα
+        strong_auth: Ισχυρός έλεγχος ταυτότητας
+        strong_auth_username: Όνομα χρήστη ισχυρού ελέγχου ταυτότητας
+        api_key: Κλειδί API
+        filedrop: Filedrop
+  attachments:
+    not_found: Το συνημμένο δεν βρέθηκε
+  config:
+    settings: Ρυθμίσεις
+    email: Email
+    language_preferences_from_your_browser: Προτιμήσεις γλώσσας του προγράμματος περιήγησης
+    authentication: Έλεγχος ταυτότητας
+    time_zone: Ζώνη ώρας
+    current_time_zone: Τρέχουσα ζώνη ώρας
+    time_zone_from_browser: Ζώνη ώρας που εντόπισε το πρόγραμμα περιήγησης
+    time_zone_config_description: Αν αφήσετε τη ζώνη ώρας στην επιλογή «Αυτόματος εντοπισμός», θα χρησιμοποιηθεί η ζώνη ώρας που εντοπίζει το πρόγραμμα περιήγησής σας (όλες οι ώρες θα εμφανίζονται σε αυτή τη ζώνη). Αν το πρόγραμμα περιήγησης δεν μπορεί να εντοπίσει τη ζώνη ώρας, θα χρησιμοποιηθεί η προεπιλεγμένη ζώνη ώρας του συστήματος. Αν το πρόγραμμα περιήγησης δεν εντοπίζει τη σωστή ζώνη ώρας ή θέλετε να βλέπετε τις ώρες σε άλλη ζώνη, μπορείτε να ορίσετε μια συγκεκριμένη ζώνη ώρας.
+    time_zone_default: Προεπιλεγμένη ζώνη ώρας του συστήματος
+    email_settings: Ρυθμίσεις email
+    configuration: Διαμόρφωση
+    local_domains: Τοπικός τομέας
+    ldap_users: Χρήστες με έλεγχο ταυτότητας LDAP
+    ldap_users_are_always_local: Οι χρήστες με έλεγχο ταυτότητας LDAP είναι πάντα τοπικοί
+    separated_by_comma: διαχωρισμένα με κόμμα
+    default_max_file_size: Προεπιλεγμένο μέγιστο μέγεθος αρχείου
+    local_users: Τοπικοί χρήστες
+    external_users: Εξωτερικοί χρήστες
+    allow_registration: Να επιτρέπεται η εγγραφή
+    allow_registration_desc: Να επιτρέπεται η εγγραφή από τη σελίδα σύνδεσης
+    external_user_account: Εξωτερικοί παραλήπτες
+    external_user_account_desc: Οι εξωτερικοί παραλήπτες πρέπει να δημιουργήσουν λογαριασμό
+    allow_users_to_change_expiration: Οι χρήστες μπορούν να αλλάζουν τη λήξη των αρχείων
+    authorization: Άδεια
+    authorization_description: Προεπιλεγμένη ρύθμιση για το ποιος μπορεί να κάνει λήψη αρχείων.
+    file_expiration: Λήξη
+    default_expire_files_after: Τα αρχεία λήγουν από προεπιλογή μετά από
+    delete_downloaded_files_after: Διαγραφή αρχείων που έχουν ληφθεί μετά από
+    branding: Εταιρική ταυτότητα
+    company_name: Όνομα εταιρείας
+    custom_stylesheet: Προσαρμοσμένο φύλλο στυλ
+    custom_javascript: Προσαρμοσμένη JavaScript
+    logotype: Λογότυπο
+    leave_blank_for_default: αφήστε κενό για την προεπιλεγμένη τιμή
+    email_configuration: Διαμόρφωση email
+    email_sender_address: Διεύθυνση αποστολέα
+    email_host: Βασικό URL των email
+    email_footer: Υποσέλιδο email
+    email_relay_host: Διακομιστής αναμετάδοσης email
+    email_relay_username: Όνομα χρήστη αναμετάδοσης email
+    email_relay_password: Κωδικός πρόσβασης αναμετάδοσης email
+    port: Θύρα
+    unlicensed_install_some_settings: "Εγκατάσταση χωρίς άδεια: οι ρυθμίσεις εταιρικής ταυτότητας είναι ορατές μόνο στους διαχειριστές συστήματος"
+    mail_relay_example: "Π.χ.: mailrelay.domain.gr, mx.domain.gr:587"
+    ldap: LDAP
+    please_see_the: δείτε την
+    for_more_information: για περισσότερες πληροφορίες
+    virus_scan: Σάρωση για ιούς
+    virus_scan_description: Σάρωση αρχείων για ιούς
+    blocked_file_extensions: Αποκλεισμένες επεκτάσεις αρχείων
+    default_bcc_myself_label: Αποστολή αντιγράφου σε εμένα
+    default_bcc_myself: Αποστολή αντιγράφου σε εμένα από προεπιλογή
+    allow_users_to_change_require_login_label: Απαίτηση ελέγχου ταυτότητας
+    allow_users_to_change_require_login: Οι χρήστες μπορούν να αλλάζουν την «Απαίτηση ελέγχου ταυτότητας»
+    permitted_file_extensions_label: Επιτρεπόμενες επεκτάσεις αρχείων
+    delete: Διαγραφή
+    ldap_description: "Ενεργοποιήστε τον έλεγχο ταυτότητας χρηστών μέσω LDAP και ορίστε μερικές βασικές παραμέτρους για τη σύνδεση με τον διακομιστή LDAP. Αν δεν οριστεί θύρα, θα χρησιμοποιηθεί η προεπιλεγμένη θύρα LDAP 389 (ή η θύρα 636 αν είναι ενεργοποιημένο το SSL). Σημείωση: η θύρα 3268 ΔΕΝ χρησιμοποιείται για έλεγχο ταυτότητας στο Active Directory, μόνο για αναζητήσεις στο καθολικό βιβλίο διευθύνσεων. Χρησιμοποιήστε αντί αυτής τη θύρα 389/636."
+    ldap_authentication: Έλεγχος ταυτότητας LDAP
+    basic_settings: Βασικές ρυθμίσεις
+    server: Όνομα διακομιστή / διεύθυνση IP
+    username: Όνομα χρήστη
+    password: Κωδικός πρόσβασης
+    authentication_description: Αυτός ο χρήστης θα χρησιμοποιείται για τη σύνδεση με τον διακομιστή LDAP (αφήστε κενό για ανώνυμη σύνδεση). Ο χρήστης χρειάζεται δικαιώματα αναζήτησης στο δέντρο LDAP.
+    search_key: Κλειδί αναζήτησης
+    search_key_description: Το κλειδί αναζήτησης και ο τομέας χρησιμοποιούνται για την εύρεση χρηστών στο δέντρο LDAP. Ο παρακάτω πίνακας δείχνει πώς συνεργάζονται το κλειδί αναζήτησης και ο τομέας για να βρεθεί ένας χρήστης.
+    search_key_description2: Επομένως, αν το κλειδί αναζήτησης LDAP περιέχει τη διεύθυνση email, ο τομέας πρέπει να μείνει κενός. Αν το κλειδί αναζήτησης LDAP περιέχει μόνο το όνομα χρήστη, ο τομέας πρέπει να περιέχει τον τομέα των χρηστών.
+    search_key_defaults: "Για το Active Directory, ένα καλό σημείο εκκίνησης είναι: sAMAccountName ως κλειδί αναζήτησης LDAP και etaireia.gr (ο τομέας σας) ως τομέας."
+    user_enters: Ο χρήστης εισάγει
+    authorized_ldap_groups: Εξουσιοδοτημένες ομάδες LDAP
+    available_groups: Διαθέσιμες ομάδες
+    default_settings: Προεπιλεγμένες ρυθμίσεις
+    setting: Ρύθμιση
+    value: Τιμή
+    description: Περιγραφή
+    default_local_max_description: Αυτό είναι το προεπιλεγμένο μέγιστο μέγεθος αρχείου για νέους τοπικούς χρήστες. Μπορεί να αλλάξει για κάθε χρήστη ξεχωριστά.
+    user_changeable: Μπορεί να το αλλάξει ο χρήστης;
+    non_local: Μη τοπικός
+    remote: Απομακρυσμένος
+    new_external_recipient_is_nonlocal: Οι νέοι εξωτερικοί παραλήπτες είναι
+    email_message_on_top_label: Μήνυμα στην κορυφή
+    email_message_on_top: Το μήνυμα εμφανίζεται πάνω από τη λίστα αρχείων στο email προς τους παραλήπτες
+    use_either_permitted_or_blocked_extensions: Πρέπει να επιλέξετε είτε επιτρεπόμενες είτε αποκλεισμένες επεκτάσεις, όχι και τα δύο
+    invalid_password: Μη έγκυρος κωδικός πρόσβασης
+    valid_password: Έγκυρος κωδικός πρόσβασης
+    test_password_validation: Δοκιμή επικύρωσης κωδικού πρόσβασης
+    custom_password_validation: Προσαρμοσμένη επικύρωση κωδικού πρόσβασης
+    custom_password_validation_description: "Αυτή η κανονική έκφραση θα χρησιμοποιείται για την προσαρμοσμένη επικύρωση κωδικών πρόσβασης. Πληκτρολογήστε μόνο την κανονική έκφραση, χωρίς οριοθέτες (μην ξεκινάτε και μην τελειώνετε με '/'). Παράδειγμα: [a-zA-Z0-9]{7,} (οι κωδικοί πρόσβασης θα μπορούν να περιέχουν μόνο a-z, A-Z και 0-9, τουλάχιστον 7 χαρακτήρες)"
+    filedrop: Filedrop
+    receive: Λήψη
+    api_settings: Ρυθμίσεις API
+    enable_api_label: Ενεργοποίηση API
+    enable_api_description: Ενεργοποίηση του API για πρόσβαση μέσω πρόσθετων και σεναρίων
+    enable_api_group_config: Περισσότερες ρυθμίσεις API είναι διαθέσιμες στη διαμόρφωση ομάδων.
+    api_client_size_override_label: Όριο μεγέθους για προγράμματα-πελάτες API
+    api_client_size_override_description: Τα προγράμματα-πελάτες API θα στέλνουν μέσω της συσκευής τα αρχεία που υπερβαίνουν αυτό το μέγεθος
+    sso_secret_key: Μυστικό κλειδί SSO
+    generate_key: Δημιουργία νέου κλειδιού
+    sso_replace_confirm: Είστε σίγουροι; Η αντικατάσταση του μυστικού κλειδιού SSO θα κάνει τις υπάρχουσες ενσωματώσεις SSO να σταματήσουν να λειτουργούν.
+    virus_scan_skip_locals: Παράλειψη σάρωσης για ιούς για τοπικούς χρήστες
+    virus_scan_skip_locals_description: Να μην σαρώνονται για ιούς τα αρχεία των τοπικών χρηστών
+    virus_scan_permit_unscanned: Να επιτρέπονται μη σαρωμένα αρχεία
+    virus_scan_permit_unscanned_description: Να επιτρέπεται η λήψη αρχείων που δεν έχουν σαρωθεί ακόμη για ιούς
+    userdrop: Filedrop χρήστη
+    user_filedrop_with_random_key: Filedrop χρηστών με τυχαίο κλειδί
+    enable_userdrop: Ενεργοποίηση Filedrop χρηστών
+    example: Παράδειγμα
+    user_filedrop_with_email: Filedrop χρηστών με διευθύνσεις email
+    enable_userdrop_email: Ενεργοποίηση Filedrop χρηστών με διεύθυνση email
+    userdop_email_data_leakage: Αυτό θα μπορούσε να χρησιμοποιηθεί για τον εντοπισμό τοπικών διευθύνσεων email, δοκιμάζοντας διευθύνσεις στο URL του Filedrop και ελέγχοντας ποιες δίνουν έγκυρη απόκριση.
+    userdrop_files_expire_after: Τα κατατεθειμένα αρχεία λήγουν μετά από
+    userdrop_max_filesize: Μέγιστο μέγεθος αρχείου για Filedrop χρήστη
+    bruteforce_label: Προστασία από επιθέσεις ωμής βίας
+    bruteforce_description_1: Αποκλεισμός της διεύθυνσης IP για
+    bruteforce_description_2: λεπτά μετά από
+    bruteforce_description_3: αποτυχημένες συνδέσεις/εγγραφές μέσα σε
+    bruteforce_description_4: λεπτά
+    bruteforce_whitelist_label: Λίστα επιτρεπόμενων για την προστασία από επιθέσεις ωμής βίας
+    allowed_admin_networks_label: Δίκτυα διαχείρισης
+    allowed_admin_networks_description: Περιορισμός της πρόσβασης διαχειριστή σε αυτούς τους κεντρικούς υπολογιστές και δίκτυα. Το localhost (127.0.0.1, ::1) επιτρέπεται πάντα
+    enable_strong_authentication: Ενεργοποίηση ισχυρού ελέγχου ταυτότητας από προεπιλογή για αυτούς τους τύπους χρηστών
+    authenticated_username: Όνομα χρήστη με έλεγχο ταυτότητας
+    duo_hostname: Όνομα κεντρικού υπολογιστή Duo
+    duo_client_id: Κλειδί ενσωμάτωσης Duo
+    duo_client_secret: Μυστικό κλειδί Duo
+    strong_authentication_test: Δοκιμή ισχυρού ελέγχου ταυτότητας
+    stronger_password: Επιλέξτε ισχυρότερο κωδικό πρόσβασης.
+    cannot_begin_or_end_with_blank: Ο κωδικός πρόσβασης δεν μπορεί να ξεκινά ή να τελειώνει με κενό.
+    at_least_one_invalid_domain: Τουλάχιστον ένας μη έγκυρος τομέας
+    at_least_one_invalid_email: Τουλάχιστον μία μη έγκυρη διεύθυνση email
+    email_security_level: Επίπεδο ασφάλειας παράδοσης email
+    geoip: Αναζήτηση GeoIP
+    geoip_description: Λαμβάνει δεδομένα γεωγραφικής θέσης από το https://geoip.liquidfiles.com και εμφανίζει χάρτες.
+    tooltip:
+      local_domains: Ένας τοπικός χρήστης μπορεί να στέλνει αρχεία σε οποιονδήποτε. Ένας μη τοπικός χρήστης μπορεί να στέλνει αρχεία μόνο σε τοπικούς χρήστες. Την πρώτη φορά που συνδέεται ένας χρήστης ή όταν δημιουργείται ο λογαριασμός, ο τομέας της διεύθυνσης email συγκρίνεται με αυτούς τους τομείς για να καθοριστεί αν ο χρήστης θεωρείται τοπικός.
+      ldap_users_are_always_local: Κάθε χρήστης που ελέγχεται μέσω LDAP θεωρείται αυτόματα τοπικός, ανεξάρτητα από τον τομέα.
+      allow_registration: Επιτρέπει την εγγραφή από τη σελίδα σύνδεσης. Με βάση τη λίστα τοπικών τομέων καθορίζεται αν ένας νέος χρήστης είναι τοπικός ή μη τοπικός.
+      local_user_maxfile: Όταν ένας τοπικός χρήστης εγγράφεται ή ελέγχεται για πρώτη φορά μέσω απομακρυσμένου ελέγχου ταυτότητας, του ορίζεται αυτό το μέγιστο μέγεθος αρχείου.
+      nonlocal_user_maxfile: Όταν ένας μη τοπικός χρήστης εγγράφεται, του ορίζεται αυτό το μέγιστο μέγεθος αρχείου.
+      delete_downloaded_files_after: Ένα αρχείο που έχει ληφθεί διατηρείται για αυτό το διάστημα. Πρέπει να είναι αρκετά μεγάλο ώστε ο παραλήπτης να μπορεί να επιλέξει άλλη θέση λήψης ή να ξεκινήσει από την αρχή, αλλά αρκετά μικρό ώστε ο σύνδεσμος να μη διαδοθεί σε περισσότερα άτομα.
+      file_expiration: Επιτρέπει στους χρήστες να αλλάζουν τον χρόνο λήξης των αρχείων. Αν δεν είναι ενεργοποιημένο, όλα τα αρχεία λαμβάνουν τον προεπιλεγμένο χρόνο λήξης.
+      default_expire_files_after: Τα αρχεία θα λήξουν μετά από αυτό το διάστημα.
+      blocked_file_extensions: Αποκλεισμός αρχείων με αυτές τις επεκτάσεις (χωρίς διάκριση πεζών-κεφαλαίων).
+      virus_scan: Σάρωση όλων των αρχείων που αποστέλλονται για ιούς με το πρόγραμμα προστασίας ClamAV
+      require_authentication_permission: Όταν είναι ενεργοποιημένο, οι χρήστες μπορούν να επιλέγουν οι ίδιοι αν απαιτείται έλεγχος ταυτότητας
+      default_bcc_myself: Όταν είναι ενεργοποιημένο, τα μηνύματα στέλνονται από προεπιλογή και στον ίδιο τον χρήστη
+      permitted_file_extensions: "Αν μείνει κενό, επιτρέπονται όλες οι επεκτάσεις. Αν εισαχθεί τουλάχιστον μία επέκταση, επιτρέπονται μόνο οι τύποι αρχείων που εισήχθησαν. Παράδειγμα: png, gif, jpg, txt"
+      new_external_recipient_is_nonlocal: Όταν ένα μήνυμα στέλνεται σε νέο παραλήπτη, πρέπει να δημιουργηθεί ως μη τοπικός χρήστης (ώστε να μπορεί να απαντήσει) ή ως εξωτερικός χρήστης;
+      email_message_on_top: Όταν είναι επιλεγμένο, το μήνυμα εμφανίζεται πάνω από τη λίστα αρχείων στο email προς τους παραλήπτες. Όταν δεν είναι, η λίστα αρχείων εμφανίζεται πάνω από το μήνυμα.
+      email_sender: Αυτή η διεύθυνση email θα χρησιμοποιείται ως αποστολέας για τα email που δημιουργεί το σύστημα, όπως η επαναφορά κωδικού πρόσβασης. Για να μη χαρακτηρίζονται αυτά τα email ως ανεπιθύμητα, πρέπει να είναι πραγματική διεύθυνση email.
+      email_host: Τα συνημμένα θα χρησιμοποιούν αυτό το URL ως βασικό URL. Κανονικά είναι http://onoma-host.domain ή https://onoma-host.domain, αλλά μπορεί να είναι και https://onoma-host.domain:4433 αν χρησιμοποιείτε προώθηση θυρών στο τείχος προστασίας όταν οι χρήστες συνδέονται στη συσκευή LiquidFiles.
+      email_footer: Αυτή η υπογραφή θα προστίθεται σε όλα τα εξερχόμενα email.
+      email_relay: Χρήση αυτού του διακομιστή αλληλογραφίας για την αναμετάδοση των εξερχόμενων email.
+      email_relay_username: Λογαριασμός που χρησιμοποιείται για σύνδεση στον διακομιστή αναμετάδοσης email
+      email_relay_password: Κωδικός πρόσβασης του λογαριασμού που χρησιμοποιείται για σύνδεση στον διακομιστή αναμετάδοσης email
+  date:
+    formats:
+      default: "%d/%m/%Y"
+      short: "%d/%m"
+      medium: "%d/%m/%Y"
+      long: "%d/%m/%Y"
+  time:
+    am: π.μ.
+    pm: μ.μ.
+    formats:
+      default: "%d/%m/%Y %H:%M:%S %z"
+      short: "%d/%m %H:%M"
+      medium: "%d/%m/%Y %H:%M"
+      long: "%d/%m/%Y %H:%M"
+  downloads:
+    download_id: Αναγνωριστικό λήψης
+    index:
+      download_log_title: Λήψεις
+      download_log_description: Ποιος έκανε λήψη τι και πότε
+      paginator_entry_name: λήψεις
+    show:
+      no_map_for_reserved_address: Δεν είναι δυνατή η εμφάνιση χάρτη για δεσμευμένες διευθύνσεις
+  filedrop:
+    filedrop: Filedrop
+    no_such_filedrop: Αυτό το Filedrop δεν υπάρχει
+    invalid_filedrop_url: Μη έγκυρο URL Filedrop
+    invalid_filedrop_url_description: Δεν υπάρχει Filedrop σε αυτό το URL. Ελέγξτε το URL και δοκιμάστε ξανά.
+    label: Filedrop
+    mb: MB
+    name: Όνομα
+    name_description: Σύντομο όνομα που χρησιμοποιείται και στο URL (π.χ. /filedrop/onoma)
+    title: Τίτλος
+    title_description: Ο τίτλος στο επάνω μέρος της σελίδας
+    description: Περιγραφή
+    description_description: Η περιγραφή κάτω από τον τίτλο
+    user: Χρήστης παραλήπτης
+    user_description: Οποιοσδήποτε τοπικός χρήστης μπορεί να οριστεί ως παραλήπτης
+    cc: Κοιν.
+    cc_description: "(διαχωρισμένα με κόμμα) Αποστολή αντιγράφου σε αυτές τις διευθύνσεις"
+    expires_after: Λήγει μετά από
+    expires_after_description: ημέρες
+    max_filesize: Μέγιστο μέγεθος αρχείου
+    max_filesize_description: MB
+    reset_filedrop: Επαναφορά URL του Filedrop
+    filedrop_reset_warning: Είστε σίγουροι; Αν επαναφέρετε το URL του Filedrop, θα πρέπει να το αντικαταστήσετε παντού όπου το έχετε δημοσιεύσει.
+    permitted_extensions: Επιτρεπόμενες επεκτάσεις
+    permitted_extensions_description: Θα επιτρέπονται μόνο αυτοί οι τύποι αρχείων
+    blocked_extensions: Αποκλεισμένες επεκτάσεις
+    blocked_extensions_description: Αυτοί οι τύποι αρχείων θα αποκλείονται
+    demo_license_warning_standard: Τα Filedrop απαιτούν άδεια για χρήση σε παραγωγή. Αναβαθμίστε σε άδεια Pro για να ενεργοποιήσετε τη λειτουργία Filedrop.
+    max_one_during_demo: Κατά τη διάρκεια της επίδειξης ή με άδεια Standard μπορείτε να διαμορφώσετε το πολύ ένα Filedrop
+    filedrop_info: Ένα Filedrop επιτρέπει στους πελάτες σας να σας στέλνουν αρχεία χωρίς έλεγχο ταυτότητας ή προηγούμενη ρύθμιση. Κάθε Filedrop έχει σταθερό URL στο οποίο μπορείτε να παραπέμπετε από ιστοσελίδες ή υπογραφές email. Όταν κάποιος καταθέτει ένα αρχείο στο Filedrop, αυτό αποστέλλεται αυτόματα σε έναν προκαθορισμένο χρήστη.
+    authorization: Άδεια
+    authorization_description: ποιος μπορεί να κάνει λήψη των αρχείων που κατατέθηκαν στο Filedrop
+    you_will_be_notified: Θα λάβετε επιβεβαίωση λήψης όταν γίνει λήψη των αρχείων σας.
+    require_authentication: Αυτό το Filedrop απαιτεί έλεγχο ταυτότητας. Εισαγάγετε τον κωδικό πρόσβασης για να συνεχίσετε.
+    authenticate: Έλεγχος ταυτότητας
+    authentication_failed: Ο έλεγχος ταυτότητας απέτυχε
+    require_validation: Αυτό το Filedrop απαιτεί έλεγχο ταυτότητας ή επιβεβαίωση της διεύθυνσης email σας.
+  filelink:
+    filelink: FileLink
+    filelinks: FileLink
+    filelink_title: FileLink
+    filelink_description: Ένα FileLink είναι σύνδεσμος προς ένα μεμονωμένο αρχείο. Μπορείτε να στείλετε αυτόν τον σύνδεσμο σε οποιονδήποτε χωρίς να δημιουργήσετε μήνυμα ή να ορίσετε παραλήπτες. Μόνο όσοι έχουν λάβει τον τυχαίο σύνδεσμο θα μπορούν να κάνουν λήψη του αρχείου.
+    expired_or_nonexistent_title: Μη έγκυρο FileLink
+    expired_or_nonexistent: Αυτό το FileLink έχει λήξει ή δεν υπάρχει. Επικοινωνήστε με τον αποστολέα για νέο σύνδεσμο.
+    existing_filelinks: Υπάρχοντα FileLink
+    new_filelink: Νέο FileLink
+    available_files: Διαθέσιμα αρχεία
+    filename: Όνομα αρχείου
+    filesize: Μέγεθος αρχείου
+    expires_at: Λήγει
+    link: Σύνδεσμος
+    checksum: Άθροισμα ελέγχου
+    copy_link_to_clipboard: Αντιγραφή FileLink στο πρόχειρο
+    expire_link_at: Ο σύνδεσμος λήγει στις
+    you_have_no_filelinks: Δεν έχετε FileLink. Προσθέστε ένα νέο FileLink ή δημιουργήστε ένα από ένα διαθέσιμο αρχείο.
+    you_have_no_files_available: Δεν έχετε αρχεία που στάλθηκαν προηγουμένως. Μόλις στείλετε τουλάχιστον ένα αρχείο, μπορείτε να το επιλέξετε εδώ για να δημιουργήσετε FileLink.
+    create_link: Δημιουργία συνδέσμου
+    invalid_file: Μη έγκυρο αρχείο, δεν είναι δυνατή η δημιουργία FileLink
+    delete: Διαγραφή
+    delete_link_warning: Θέλετε σίγουρα να διαγράψετε αυτό το FileLink;
+    could_not_delete_link: Δεν ήταν δυνατή η διαγραφή του FileLink. Ο σύνδεσμος δεν βρέθηκε!
+    filelink_deleted: Το FileLink διαγράφηκε!
+    select_file: Επιλογή αρχείου
+    send_download_receipts: Αποστολή επιβεβαιώσεων λήψης
+    disabled: Τα FileLink είναι απενεργοποιημένα, επικοινωνήστε με έναν διαχειριστή
+    unauthorized: Δεν έχετε εξουσιοδότηση να χρησιμοποιείτε FileLink
+    require_authentication: Απαίτηση ελέγχου ταυτότητας
+    filelink_require_authentication: Αυτό το FileLink απαιτεί έλεγχο ταυτότητας
+    filelink_url: URL του FileLink
+    expired: Έληξε
+    filelink_expired: Το FileLink έληξε
+    select_from_available_files: Μπορείτε επίσης να δημιουργήσετε FileLink από οποιοδήποτε από αυτά τα υπάρχοντα αρχεία.
+    downloads: Λήψεις
+    authentication_failed: Ο έλεγχος ταυτότητας απέτυχε
+    password_label_html: Κωδικός πρόσβασης <small class="text-muted">(προαιρετικό)</small>
+    password_present_html: Έχει οριστεί κωδικός πρόσβασης για αυτό το FileLink.<br>Μπορείτε να τον αφαιρέσετε αποθηκεύοντας κενό κωδικό πρόσβασης.
+    password_not_present: Δεν έχει οριστεί κωδικός πρόσβασης.
+    copy_to_clipboard: Αντιγραφή FileLink στο πρόχειρο
+    add_file: Προσθήκη αρχείου
+  ftpdrop:
+    create:
+      ftpdrop: FTPdrop
+  html_editor:
+    font:
+      bold: Έντονα
+      italic: Πλάγια
+      underline: Υπογράμμιση
+      clear: Κατάργηση μορφοποίησης
+      height: Ύψος γραμμής
+      name: Γραμματοσειρά
+      strikethrough: Διακριτή διαγραφή
+      subscript: Δείκτης
+      superscript: Εκθέτης
+      size: Μέγεθος γραμματοσειράς
+    image:
+      image: Εικόνα
+      insert: Εισαγωγή εικόνας
+      resize_full: Πλήρες μέγεθος
+      resize_half: Μισό μέγεθος
+      resize_quarter: Ένα τέταρτο του μεγέθους
+      float_left: Στοίχιση αριστερά
+      float_right: Στοίχιση δεξιά
+      float_none: Χωρίς στοίχιση
+      shape_rounded: "Σχήμα: στρογγυλεμένο"
+      shape_circle: "Σχήμα: κύκλος"
+      shape_thumbnail: "Σχήμα: μικρογραφία"
+      shape_none: "Σχήμα: κανένα"
+      url: URL εικόνας
+      remove: Αφαίρεση εικόνας
+    link:
+      link: Σύνδεσμος
+      insert: Εισαγωγή συνδέσμου
+      unlink: Αφαίρεση συνδέσμου
+      edit: Επεξεργασία
+      text_to_display: Κείμενο προς εμφάνιση
+      url: Σε ποιο URL πρέπει να οδηγεί αυτός ο σύνδεσμος;
+      open_in_new_window: Άνοιγμα σε νέο παράθυρο
+    table:
+      table: Πίνακας
+    hr:
+      insert: Εισαγωγή οριζόντιας γραμμής
+    style:
+      style: Στυλ
+      normal: Κανονικό
+      blockquote: Παράθεση
+      pre: Κώδικας
+      h1: Επικεφαλίδα 1
+      h2: Επικεφαλίδα 2
+      h3: Επικεφαλίδα 3
+      h4: Επικεφαλίδα 4
+      h5: Επικεφαλίδα 5
+      h6: Επικεφαλίδα 6
+    lists:
+      unordered: Λίστα με κουκκίδες
+      ordered: Αριθμημένη λίστα
+    options:
+      help: Βοήθεια
+      fullscreen: Πλήρης οθόνη
+      codeview: Προβολή κώδικα
+    paragraph:
+      paragraph: Παράγραφος
+      outdent: Μείωση εσοχής
+      indent: Αύξηση εσοχής
+      left: Στοίχιση αριστερά
+      center: Στοίχιση στο κέντρο
+      right: Στοίχιση δεξιά
+      justify: Πλήρης στοίχιση
+    color:
+      recent: Πρόσφατο χρώμα
+      more: Περισσότερα χρώματα
+      background: Χρώμα φόντου
+      foreground: Χρώμα κειμένου
+      transparent: Διαφανές
+      set_transparent: Ορισμός διαφάνειας
+      reset: Επαναφορά
+      reset_to_default: Επαναφορά προεπιλογής
+    shortcut:
+      shortcuts: Συντομεύσεις πληκτρολογίου
+      close: Κλείσιμο
+      text_formatting: Μορφοποίηση κειμένου
+      action: Ενέργεια
+      paragraph_formatting: Μορφοποίηση παραγράφου
+      document_style: Στυλ εγγράφου
+      extra_keys: Επιπλέον πλήκτρα
+    history:
+      undo: Αναίρεση
+      redo: Επανάληψη
+  invite:
+    invite_user: Πρόσκληση χρήστη
+    description: Μπορείτε να προσκαλέσετε χρήστες να μοιράζονται αρχεία μαζί σας. Μόλις καταχωρίσετε τα στοιχεία τους, θα λάβουν ένα email με οδηγίες για την ολοκλήρωση της εγγραφής.
+    send_invite: Αποστολή πρόσκλησης
+    name_placeholder: Ονοματεπώνυμο
+    invitation_sent: Η πρόσκληση στάλθηκε
+    not_permitted_to_invite_users: Δεν έχετε δικαίωμα να προσκαλείτε χρήστες.
+    invalid_email: Μη έγκυρη διεύθυνση email
+  link:
+    show:
+      set_password: Ορισμός κωδικού πρόσβασης
+      download: Λήψη
+      downloads_and_info: Όλες οι λήψεις και περισσότερες πληροφορίες
+    authenticate:
+      show:
+        title: Κωδικός πρόσβασης FileLink
+        authenticate: Έλεγχος ταυτότητας
+        require_authentication: Για να ανοίξετε αυτό το FileLink, πρέπει να εισαγάγετε τον απαιτούμενο κωδικό πρόσβασης.
+      create:
+        authentication_failed: Ο έλεγχος ταυτότητας απέτυχε.
+    downloads:
+      index:
+        back_to_filelink: Επιστροφή στο FileLink
+    link_downloads:
+      latest_downloads: Πιο πρόσφατες λήψεις (%{count} από %{total} συνολικά)
+  menu:
+    shares: Share
+    messages: Μηνύματα
+    send_files: Σύνταξη
+    users: Χρήστες
+    active_transfers: Ενεργές μεταφορές
+    configuration: Διαμόρφωση
+    system: Σύστημα
+    message_list: Λίστα μηνυμάτων
+    settings: Ρυθμίσεις
+    admin: Διαχείριση
+    account: Λογαριασμός
+    inbox: Εισερχόμενα
+    sent_messages: Απεσταλμένα
+    downloads: Αρχείο καταγραφής λήψεων
+    filelink: FileLink
+    secure_messages: Ασφαλή μηνύματα
+    support: Υποστήριξη
+  message:
+    message_sent: Το μήνυμα στάλθηκε
+    not_found: Το μήνυμα δεν βρέθηκε
+    message_not_found_header: Το μήνυμα δεν βρέθηκε!
+    message_not_found_description: Ζητήστε από τον αποστολέα να στείλει ξανά αυτό το μήνυμα.
+    previous_recipients: Προηγούμενοι παραλήπτες
+    contacts: Επαφές
+    is_not_permitted: δεν επιτρέπεται
+    not_permitted_to_delete_messages: Δεν έχετε δικαίωμα να διαγράφετε μηνύματα
+    is_not_in_any_of_the_allowed_domains: δεν ανήκει σε κανέναν από τους επιτρεπόμενους τομείς
+    is_not_in_any_of_the_allowed_groups: δεν ανήκει σε καμία από τις επιτρεπόμενες ομάδες
+    attach_1_file: Πρέπει να επισυνάψετε τουλάχιστον ένα αρχείο
+    too_many_files: Επισυνάψατε πάρα πολλά αρχεία. Μπορείτε να επισυνάψετε έως %{count} αρχεία σε ένα μήνυμα.
+    attached_files: Συνημμένα αρχεία
+    expired: Το μήνυμα έχει λήξει
+    authorize:
+      show:
+        title: Συνδεθείτε για να ανοίξετε το ασφαλές μήνυμα
+        authenticate_description_html: Πρόκειται να δείτε ένα ασφαλές μήνυμα. Πρέπει πρώτα να συνδεθείτε. Εισαγάγετε τη διεύθυνση email σας ή συνδεθείτε για να συνεχίσετε.<br>Αν δεν έχετε λογαριασμό σε αυτό το σύστημα, εισαγάγετε τη διεύθυνση email σας και θα σας στείλουμε έναν ασφαλή σύνδεσμο για να την επιβεβαιώσετε.
+        unauthenticated_html: <h4>Μη έγκυρο όνομα χρήστη ή κωδικός πρόσβασης</h4><p>Εισαγάγετε το όνομα χρήστη και τον κωδικό πρόσβασής σας. Μπορείτε να επαναφέρετε τον κωδικό πρόσβασης με το κουμπί Επαναφορά κωδικού πρόσβασης παρακάτω.</p>
+        unauthorized_to_view_check_email_html: <h4>Μη εξουσιοδοτημένη διεύθυνση email</h4><p>Ελέγξτε ότι το ασφαλές μήνυμα [<span class="font-monospace fw-bold">%{message_id}</span>] στάλθηκε σε εσάς και εισαγάγετε τη διεύθυνση email ακριβώς όπως στάλθηκε το μήνυμα.</p><p>Για παράδειγμα, αν η διεύθυνσή σας μπορεί να είναι τόσο giorgos.papadopoulos@etaireia.gr όσο και gpapadopoulos@etaireia.gr, το σύστημα δεν μπορεί να γνωρίζει ότι πρόκειται για την ίδια διεύθυνση. Αν το ασφαλές μήνυμα στάλθηκε στη giorgos.papadopoulos@etaireia.gr, αυτή είναι η διεύθυνση που πρέπει να εισαγάγετε εδώ.</p><p>Αν δεν είστε σίγουροι, επικοινωνήστε με τον αποστολέα του ασφαλούς μηνύματος.</p>
+    errors:
+      not_authorized_to_view_message: "Δεν έχετε εξουσιοδότηση να δείτε το μήνυμα με αναγνωριστικό: %{message_id}. Ελέγξτε ότι αυτό το μήνυμα στάλθηκε σε εσάς."
+      private_message_requires_authentication: Τα ιδιωτικά μηνύματα απαιτούν έλεγχο ταυτότητας
+    attachments:
+      download_attachment_details_csv: Λήψη στοιχείων συνημμένων (CSV)
+      attachment:
+        fileinfo: Πληροφορίες αρχείου
+        file_size: Μέγεθος αρχείου
+        content_type: Τύπος περιεχομένου
+        checksum: Άθροισμα ελέγχου
+        virus_status: Κατάσταση προστασίας από ιούς
+    compose:
+      options_permission:
+        authentication_required: Απαιτείται έλεγχος ταυτότητας
+        authentication_not_required: Δεν απαιτείται έλεγχος ταυτότητας
+        require_authentication_description: Πρέπει οι παραλήπτες να περάσουν έλεγχο ταυτότητας για να ανοίξουν αυτό το μήνυμα;
+        access_restriction_html: Περιορισμός πρόσβασης<br><small class="text-muted">Ποιος έχει πρόσβαση σε αυτό το μήνυμα;</small>
+        recipients_only_html: Μόνο<br>παραλήπτες
+        recipients_plus_locals_html: Παραλήπτες<br>+ τοπικοί χρήστες
+        recipients_plus_domains_html: Παραλήπτες<br>+ τομείς
+        anyone_secret_link_html: Οποιοσδήποτε<br>(μυστικός σύνδεσμος)
+    unavailable:
+      header: Το μήνυμα δεν είναι διαθέσιμο
+      description: Αυτό το μήνυμα έχει λήξει, έχει διαγραφεί, δεν υπάρχει ή δεν είναι πλέον διαθέσιμο. Ζητήστε από τον αποστολέα να στείλει ξανά το μήνυμα.
+    downloads:
+      index:
+        download_log_title: Αρχείο καταγραφής λήψεων
+        message_id: Αναγνωριστικό μηνύματος
+        paginator_entry_name: Λήψεις
+      download:
+        details: Λεπτομέρειες
+      not_found:
+        title: Το μήνυμα ή η λήψη δεν βρέθηκε
+        description_html: Δεν ήταν δυνατή η εύρεση του μηνύματος ή της λήψης ή δεν έχετε δικαίωμα να τα δείτε
+    temporary_user:
+      create:
+        invalid_temporary_user: Μη έγκυρος κωδικός πρόσβασης. Ελέγξτε το email με τον προσωρινό κωδικό πρόσβασής σας ή ζητήστε νέο προσωρινό κωδικό πρόσβασης.
+        temporary_user_expired: Αυτός ο προσωρινός κωδικός πρόσβασης έχει λήξει. Ένας νέος προσωρινός κωδικός πρόσβασης στάλθηκε στη διεύθυνση email σας. Ελέγξτε τα εισερχόμενά σας και χρησιμοποιήστε τον νέο προσωρινό κωδικό πρόσβασης.
+        not_authorized_to_view_message: "Δεν έχετε εξουσιοδότηση να δείτε το μήνυμα με αναγνωριστικό: %{message_id}. Ελέγξτε ότι αυτό το μήνυμα στάλθηκε σε εσάς."
+      show:
+        title: Εισαγάγετε τον προσωρινό κωδικό πρόσβασής σας
+        description_html: "Πρόκειται να δείτε ένα ασφαλές μήνυμα. Για να το ανοίξετε, πρέπει να εισαγάγετε τον προσωρινό κωδικό πρόσβασής σας.<br>Ο προσωρινός κωδικός πρόσβασης είναι μια μοναδική τυχαία συμβολοσειρά που σας ταυτοποιεί. Ο προσωρινός κωδικός πρόσβασης σας στάλθηκε σε ξεχωριστό email (θέμα: Προσωρινός κωδικός πρόσβασης)."
+        what_is_this: Τι είναι αυτό;
+        login: Σύνδεση
+        submit: Επαλήθευση προσωρινού κωδικού πρόσβασης
+        submit_email: Υποβολή
+        if_you_have_account: "(αν έχετε ήδη λογαριασμό)"
+        request_temporary_user_header: Αίτημα για νέο προσωρινό κωδικό πρόσβασης
+        request_temporary_user_description_html: Μπορείτε να ζητήσετε νέο προσωρινό κωδικό πρόσβασης για να ανοίξετε αυτό το μήνυμα. Εισαγάγετε τη διεύθυνση email σας παρακάτω για να ζητήσετε νέο προσωρινό κωδικό πρόσβασης για αυτό το ασφαλές μήνυμα.
+        info_header: Πληροφορίες για τον προσωρινό κωδικό πρόσβασης
+        info_body_html: "<p>Ο προσωρινός κωδικός πρόσβασης είναι μια μοναδική σειρά αριθμών και γραμμάτων, για παράδειγμα:</p><pre><code>3ynp-7FKa-pZS9</code></pre><p><em>Αυτός ο προσωρινός κωδικός πρόσβασης είναι μόνο παράδειγμα για να δείτε πώς μοιάζει – δεν μπορεί να χρησιμοποιηθεί.</em></p><p>Στα εισερχόμενά σας θα βρείτε <strong>δύο email</strong>: αυτό με το ασφαλές μήνυμα και ένα με <strong>θέμα που ξεκινά με: Προσωρινός κωδικός πρόσβασης</strong>. Το δεύτερο περιέχει τον μοναδικό προσωρινό κωδικό πρόσβασής σας για αυτό το σύστημα.</p><p>Αν δεν έχετε λάβει email με προσωρινό κωδικό πρόσβασης, ίσως έχετε ήδη λογαριασμό σε αυτό το σύστημα. Σε αυτή την περίπτωση, κάντε κλικ στη «Σύνδεση».</p><p>Αν πιστεύετε ότι έπρεπε να λάβετε προσωρινό κωδικό πρόσβασης αλλά δεν τον λάβατε, κάντε κλικ στο «Αίτημα προσωρινού κωδικού πρόσβασης» για να λάβετε νέο.</p>"
+        email_address: Διεύθυνση email
+        email_not_permitted: Αυτή η διεύθυνση email δεν έχει δικαίωμα να δει αυτό το ασφαλές μήνυμα.
+        email_not_permitted_description_html: <p>Ελέγξτε το email με το ασφαλές μήνυμα που λάβατε και εισαγάγετε τη διεύθυνση email ακριβώς όπως στάλθηκε το μήνυμα.</p><p>Για παράδειγμα, αν η διεύθυνσή σας μπορεί να είναι τόσο giorgos.papadopoulos@etaireia.gr όσο και gpapadopoulos@etaireia.gr, το σύστημα δεν μπορεί να γνωρίζει ότι πρόκειται για την ίδια διεύθυνση. Αν το ασφαλές μήνυμα στάλθηκε στη giorgos.papadopoulos@etaireia.gr, αυτή είναι η διεύθυνση που πρέπει να εισαγάγετε εδώ.</p><p>Αν δεν είστε σίγουροι, επικοινωνήστε με τον αποστολέα του ασφαλούς μηνύματος.</p>
+        email_can_login: Έχετε ήδη λογαριασμό σε αυτό το σύστημα
+        email_can_login_description_html: <p>Μπορείτε να συνδεθείτε σε αυτό το σύστημα με αυτή τη διεύθυνση email και τον κωδικό πρόσβασής σας.</p><p>Κάντε κλικ στο κουμπί Σύνδεση παρακάτω για να συνδεθείτε με τον υπάρχοντα λογαριασμό σας.</p>
+        temporary_user_delivered_header: Ο προσωρινός κωδικός πρόσβασης στάλθηκε
+        temporary_user_delivered_description_html: <p>Ένας προσωρινός κωδικός πρόσβασης στάλθηκε στη διεύθυνση email σας. Ελέγξτε τα εισερχόμενά σας, κλείστε αυτό το παράθυρο και εισαγάγετε τον προσωρινό κωδικό πρόσβασης.</p>
+    reply:
+      re: "Απ:"
+      wrote: έγραψε
+      show:
+        title: Απάντηση σε ασφαλές μήνυμα
+        from: Από
+        reply: Απάντηση
+        reply_all: Απάντηση σε όλους
+      options:
+        options_description: Σημειώστε ότι όλες οι επιλογές μεταφέρονται από το αρχικό μήνυμα.
+    show:
+      back: Πίσω
+      message_header: Κεφαλίδα μηνύματος
+      reply: Απάντηση
+  messages:
+    sent:
+      skipped_file_not_found: Παραλείφθηκε - το αρχείο δεν βρέθηκε
+      show:
+        sent_title: Απεσταλμένα
+        sent_description: Μηνύματα που έχετε στείλει
+        paginator_entry_name: μηνύματα
+    attachments:
+      download_cmd:
+        unauthorized:
+          header: Χωρίς εξουσιοδότηση
+          body: Δεν έχετε εξουσιοδότηση να κάνετε λήψη αυτού του αρχείου. Ζητήστε από τον αποστολέα να σας το στείλει ξανά.
+          back: Πίσω
+        exceeded:
+          header: Υπέρβαση ορίου λήψεων
+          body: Το όριο λήψεων για αυτό το αρχείο έχει ξεπεραστεί. Ζητήστε από τον αποστολέα να σας το στείλει ξανά.
+          back: Πίσω
+    download_zip:
+      unauthorized:
+        header: Χωρίς εξουσιοδότηση
+        body: Δεν έχετε εξουσιοδότηση να κάνετε λήψη αυτού του αρχείου συμπίεσης. Ζητήστε από τον αποστολέα να σας στείλει ξανά το αρχείο.
+        back: Πίσω
+      exceeded:
+        header: Υπέρβαση ορίου λήψεων
+        body: Το όριο λήψεων για ένα ή περισσότερα αρχεία σε αυτό το αρχείο συμπίεσης έχει ξεπεραστεί. Ζητήστε από τον αποστολέα να σας στείλει ξανά το αρχείο.
+        back: Πίσω
+    message:
+      reply: Απάντηση
+      reply_all: Απάντηση σε όλους
+  models:
+    user:
+      no_need_to_create_local_user: Δεν χρειάζεται να δημιουργηθεί τοπικός χρήστης
+      license_exceeded: Υπέρβαση ορίου άδειας
+  notifier:
+    activate_user_subject: "[%{hostname}] Ενεργοποίηση λογαριασμού"
+    user_activation: Ενεργοποίηση χρήστη
+    please_visit_the_following_url_to_activate: Κάντε κλικ στον παρακάτω σύνδεσμο για να ενεργοποιήσετε τον λογαριασμό σας
+    the_following_files_are_attached: Τα παρακάτω αρχεία είναι συνημμένα σε αυτό το μήνυμα
+    please_visit_the_following_url: Κάντε κλικ σε αυτόν τον σύνδεσμο για να κάνετε λήψη των συνημμένων
+    attachments_are_available: Τα συνημμένα είναι διαθέσιμα έως
+    message_id: "Αναγνωριστικό μηνύματος: %{id}"
+    email_password_reset_subject: Επαναφορά κωδικού πρόσβασης
+    download_receipt_subject: "Επιβεβαίωση λήψης [ID: %{message_id}]"
+    a_file_that_you_sent: Ένα αρχείο που στείλατε έχει ληφθεί. Κρατήστε αυτό το email ως αποδεικτικό της λήψης.
+    recipient: Παραλήπτης
+    filename: Όνομα αρχείου
+    time_of_download: Ώρα λήψης
+    downloaded_from: Λήψη από
+    download_receipt: Επιβεβαίωση λήψης
+    user_created:
+      account_created: Ο λογαριασμός δημιουργήθηκε
+      subject: "[%{hostname}] Ο λογαριασμός δημιουργήθηκε"
+      message: "Σας περιμένει ένα ασφαλές συνημμένο. Για να το λάβετε, πρέπει να περάσετε έλεγχο ταυτότητας. Κάντε κλικ στον παρακάτω σύνδεσμο για να εγγραφείτε:"
+  outlook:
+    messages:
+      new:
+        attachments_header: Συνημμένα
+        attachments_hint: Μπορείτε να επισυνάψετε αρχεία σύροντάς τα στην παρακάτω ενότητα ή κάνοντας κλικ στο κουμπί Επισύναψη αρχείων.
+        add_to_message: Προσθήκη στο μήνυμα
+      attachments:
+        attach_files: Επισύναψη αρχείων
+        drop_files_here: Αποθέστε τα αρχεία εδώ...
+      options:
+        recipients_can_reply: Οι παραλήπτες μπορούν να απαντήσουν
+        send_copy_to_myself: Αποστολή αντιγράφου σε εμένα
+        private_message: Ιδιωτικό μήνυμα
+        private_message_required_auth_error: Όταν στέλνετε ιδιωτικό μήνυμα, πρέπει να χρησιμοποιείτε τη λειτουργία «Απαιτείται έλεγχος ταυτότητας».
+      options_authorization:
+        authentication_authorization_title_html: Έλεγχος ταυτότητας &amp; εξουσιοδότηση
+        authentication_select_title: Επιλογή ελέγχου ταυτότητας
+        authentication_required: Απαιτείται έλεγχος ταυτότητας
+        authentication_not_required: Δεν απαιτείται έλεγχος ταυτότητας
+        authorization_select_title: Επιλογή εξουσιοδότησης
+        recipients_only: Μόνο παραλήπτες
+        recipients_locals: Παραλήπτες + τοπικοί χρήστες
+        recipients_domains: Παραλήπτες + τομείς
+        anyone: Οποιοσδήποτε (μυστικός σύνδεσμος)
+      options_expiration:
+        message_expires: Λήξη μηνύματος
+        message_expires_after: Το μήνυμα λήγει μετά από
+  pagination:
+    first: "&laquo; Πρώτη"
+    last: Τελευταία &raquo;
+    previous: "&lsaquo; Προηγούμενη"
+    next: Επόμενη &rsaquo;
+    truncate: "&hellip;"
+  requests:
+    title: Αίτημα αρχείων
+    file_request: Αίτημα αρχείων
+    files_sent: Τα αρχεία στάλθηκαν, ευχαριστούμε!
+    request_file: Αίτημα αρχείου
+    file_requests: Αιτήματα αρχείων
+    description: Με ένα αίτημα αρχείων μπορείτε να ζητήσετε από κάποιον να σας στείλει αρχεία. Μόλις καταχωρίσετε τα στοιχεία, το άτομο θα λάβει ένα email με έναν μοναδικό σύνδεσμο μέσω του οποίου μπορεί να σας στείλει τα ζητούμενα αρχεία.
+    file_request_not_found: Το αίτημα αρχείων δεν βρέθηκε
+    file_request_expired: Το αίτημα αρχείων έχει λήξει
+    file_request_already_used: Το αίτημα αρχείων έχει ήδη χρησιμοποιηθεί
+    file_request_sent: Το αίτημα αρχείων στάλθηκε
+    not_permited: Δεν έχετε δικαίωμα να χρησιμοποιείτε τη λειτουργία αιτήματος αρχείων
+    multiuse: Πολλαπλή χρήση - αυτός ο σύνδεσμος αιτήματος αρχείων μπορεί να χρησιμοποιηθεί πολλές φορές
+    invalid_recipient: Μη έγκυρος παραλήπτης, αυτό το αίτημα αρχείων στάλθηκε σε κάποιον άλλο
+    invalid_user: Αυτό δεν είναι δικό σας αίτημα αρχείων
+    index:
+      title: Αιτήματα αρχείων
+      new_file_request: Νέο αίτημα αρχείων
+      multiuse: Πολλαπλή χρήση
+      responded_to: Απαντήθηκε
+      hide_expired: Απόκρυψη ληγμένων και χρησιμοποιημένων
+      show_expired: Εμφάνιση ληγμένων και χρησιμοποιημένων
+    request:
+      resend: Επανάληψη αποστολής
+      are_you_sure_you_want_to_delete: Θέλετε σίγουρα να διαγράψετε αυτό το αίτημα αρχείων;
+    popup:
+      from: Από
+      to: Προς
+      subject: Θέμα
+      message: Μήνυμα
+    resend:
+      request_resent: Το αίτημα αρχείων στάλθηκε ξανά
+    new:
+      request_expires: Λήξη αιτήματος
+  send:
+    send: Αποστολή
+    sent: Στάλθηκε
+    recipients: Προς
+    send_as: Αποστολή ως
+    you_can_only_send_files_to_yourself: Μπορείτε να στέλνετε αρχεία μόνο στον εαυτό σας
+    subject: Θέμα
+    subject_placeholder: Θέμα
+    attachments: Συνημμένα
+    max_file_size: "Μέγιστο μέγεθος συνημμένων: %{filesize} MB"
+    upload_queue: Ουρά αποστολής
+    remove: Αφαίρεση
+    cancel_all: Ακύρωση όλων
+    cancel_all_uploads: Ακύρωση όλων των αποστολών
+    message: Μήνυμα
+    message_placeholder: Μήνυμα
+    done_editing_please_send: Τελείωσα με την επεξεργασία, στείλτε τα αρχεία όταν ολοκληρωθούν όλες οι αποστολές
+    files_sent_successfully: Τα αρχεία στάλθηκαν επιτυχώς
+    you_need_at_least_one_recipient: Απαιτείται τουλάχιστον ένας παραλήπτης
+    you_need_at_least_one_attachment: Απαιτείται τουλάχιστον ένα συνημμένο
+    options: Επιλογές
+    cc: Κοιν.
+    bcc: Κρυφή κοιν.
+    bcc_message_description: Οι παραλήπτες κρυφής κοινοποίησης δεν θα εμφανίζονται στους άλλους παραλήπτες
+    add_cc: προσθήκη κοινοποίησης
+    add_bcc: προσθήκη κρυφής κοινοποίησης
+    bcc_myself: Αποστολή αντιγράφου σε εμένα
+    require_login: Απαίτηση σύνδεσης για τη λήψη αρχείων
+    only_specified_recipients_can_download: Μόνο οι καθορισμένοι παραλήπτες μπορούν να κάνουν λήψη των συνημμένων
+    anyone_can_download: Οποιοσδήποτε μπορεί να κάνει λήψη των συνημμένων
+    expires_in: Η λήψη των συνημμένων είναι δυνατή για
+    expires_at: Τα συνημμένα λήγουν στις
+    send_options: Επιλογές αποστολής
+    to: Προς
+    from: Από
+    filename: Όνομα αρχείου
+    filesize: Μέγεθος αρχείου
+    downloaded_at: Λήψη στις
+    message_sent: Το μήνυμα στάλθηκε
+    message_expires: Λήξη μηνύματος
+    message_expires_after: Το μήνυμα λήγει μετά από
+    message_expires_after_description: Ο υπολογισμός γίνεται ανά αρχείο. Αν στείλετε 2 αρχεία που λήγουν μετά από 1 λήψη, κάθε παραλήπτης θα μπορεί να κάνει λήψη κάθε αρχείου μία φορά.
+    downloads_per_recipient: Λήψεις ανά παραλήπτη
+    total_downloads: Συνολικές λήψεις
+    file_not_downloaded: Δεν έχει γίνει λήψη κανενός συνημμένου
+    at_least_one_invalid_extension: Τουλάχιστον ένα από τα συνημμένα έχει μη έγκυρη επέκταση
+    invalid_filetype: Μη έγκυρη επέκταση
+    blocked_extension: "Μη έγκυρη επέκταση. Δεν μπορείτε να στείλετε αρχεία με τις εξής επεκτάσεις: %{extensions}"
+    permitted_extensions: "Οι επιτρεπόμενες επεκτάσεις είναι: %{filetypes}"
+    already_selected: Αυτό το αρχείο έχει ήδη επιλεγεί
+    maximum_filesize_exceeded: Υπέρβαση μέγιστου μεγέθους αρχείου
+    contains_virus: "Το %{filename} περιέχει ΙΟ: %{virus}"
+    limited_by_browser: Περιορίζεται από το πρόγραμμα περιήγησης
+    limited_by_disk: Περιορίζεται από τον χώρο στον δίσκο
+    limited_by_system_quota: Περιορίζεται από το όριο χώρου του συστήματος
+    limited_by_group_quota: Περιορίζεται από το όριο χώρου της ομάδας
+    limited_by_quota: Περιορίζεται από το όριο χώρου
+    limited_per_message: Όριο ανά μήνυμα
+    system_quota_exceeded: Υπέρβαση ορίου χώρου συστήματος
+    group_quota_exceeded: Υπέρβαση ορίου χώρου ομάδας
+    quota_exceeded: Υπέρβαση ορίου χώρου
+    no_available_quota: Υπέρβαση ορίου χώρου, διαγράψτε μερικά αρχεία για να συνεχίσετε
+    not_authorized_to_send: Δεν έχετε εξουσιοδότηση να στέλνετε στο %{email}
+    public_url: Δημόσιο URL
+    message_url: URL μηνύματος
+    authorization: Εξουσιοδότηση
+    insufficient_disk_space: Ανεπαρκής χώρος στον δίσκο
+    active_transfers: Ενεργές μεταφορές
+    view_log: Προβολή αρχείου καταγραφής
+    previously_sent_attachments: Συνημμένα που στάλθηκαν προηγουμένως
+    has_not_downloaded: "Ο/Η %{recipient} δεν έχει κάνει λήψη κανενός αρχείου"
+    authentication: Έλεγχος ταυτότητας
+    required: Απαιτείται
+    disabled: Απενεργοποιημένο
+    require_authentication_tooltip_html: <li>Ο παραλήπτης πρέπει να συνδεθεί με όνομα χρήστη και κωδικό πρόσβασης για να κάνει λήψη του αρχείου.</li> <li>Θα λάβετε επιβεβαίωση όταν γίνει λήψη του αρχείου.</li>
+    dont_require_authentication_tooltip_html: <li>Δεν θα ζητηθεί από τον παραλήπτη να συνδεθεί για να κάνει λήψη του αρχείου.</li> <li>Θα λάβετε επιβεβαίωση όταν γίνει λήψη του αρχείου, αλλά όχι το ποιος το κατέβασε (αυτό δεν είναι γνωστό).</li> <li>Θα λάβετε επιβεβαίωση μόνο όταν ο πρώτος παραλήπτης κάνει λήψη του αρχείου.</li>
+    authenticate_link_description: Πρέπει να συνδεθείτε πριν ανοίξετε αυτό το FileLink.
+    unauthorized: Δεν έχετε εξουσιοδότηση να δείτε αυτό το μήνυμα.
+    unauthenticated: Λανθασμένος κωδικός πρόσβασης
+    incorrect_login_or_demo: Λανθασμένος κωδικός πρόσβασης ή έχει συμπληρωθεί το όριο της άδειας
+    email_authorization_message: Σας ευχαριστούμε. Για να επαληθεύσουμε ότι αυτή είναι η διεύθυνση email σας, σας στείλαμε ένα email με κωδικό επικύρωσης. Εισαγάγετε τον κωδικό επικύρωσης παρακάτω ή κάντε κλικ στον σύνδεσμο του email για να μεταβείτε στο μήνυμα.
+    email_authorization_link: Σας ευχαριστούμε. Για να επαληθεύσουμε ότι αυτή είναι η διεύθυνση email σας, σας στείλαμε ένα email με κωδικό επικύρωσης. Εισαγάγετε παρακάτω τον κωδικό επικύρωσης από το email ή κάντε κλικ στον σύνδεσμο του email για να μεταβείτε στο FileLink.
+    email_authorization_message_create_account: Σας ευχαριστούμε. Επειδή δεν έχετε λογαριασμό σε αυτό το σύστημα, σας στείλαμε ένα email με κωδικό επικύρωσης για να επαληθεύσουμε ότι αυτή είναι η διεύθυνση email σας. Εισαγάγετε τον κωδικό επικύρωσης παρακάτω ή κάντε κλικ στον σύνδεσμο του email για να επιβεβαιώσετε τη διεύθυνσή σας. Στη συνέχεια θα σας ζητηθεί να δημιουργήσετε λογαριασμό και θα μεταφερθείτε στο μήνυμα.
+    email_authorization_link_create_account: Σας ευχαριστούμε. Επειδή δεν έχετε λογαριασμό σε αυτό το σύστημα, σας στείλαμε ένα email με κωδικό επικύρωσης για να επαληθεύσουμε ότι αυτή είναι η διεύθυνση email σας. Εισαγάγετε παρακάτω τον κωδικό επικύρωσης από το email ή κάντε κλικ στον σύνδεσμο του email για να επιβεβαιώσετε τη διεύθυνσή σας. Στη συνέχεια θα σας ζητηθεί να δημιουργήσετε λογαριασμό και θα μεταφερθείτε στο FileLink.
+    authorize: Εξουσιοδότηση
+    authenticate: Σύνδεση
+    sending: Αποστολή...
+    abort_transfer: Διακοπή μεταφοράς
+    files_to_big: Πολύ μεγάλο(-α) αρχείο(-α)
+    only_specified_recipients: Πρόσβαση έχουν μόνο οι καθορισμένοι παραλήπτες
+    only_specified_recipients_and_local_users: Πρόσβαση έχουν μόνο οι καθορισμένοι παραλήπτες και οι τοπικοί χρήστες
+    only_specified_recipients_and_domains: Πρόσβαση έχουν μόνο οι καθορισμένοι παραλήπτες και οι χρήστες του τομέα τους
+    anyone_after_authentication: Πρόσβαση έχει οποιοσδήποτε (διαθέτει τον τυχαίο σύνδεσμο)
+    no_recipient_validation: Χωρίς επικύρωση παραληπτών
+    anyone_can_access: Πρόσβαση έχει οποιοσδήποτε
+    anyone: Οποιοσδήποτε
+    no_authentication: Χωρίς έλεγχο ταυτότητας
+    can_download: μπορούν να κάνουν λήψη
+    not_yet_scanned: σαρώνεται για ιούς, δοκιμάστε ξανά σε λίγο. %{queue} στην ουρά
+    was_infected: "είχε μολυνθεί από τον ιό %{virus} και διαγράφηκε"
+    deleted_or_expired: Διαγράφηκε ή έληξε
+    im_done_editing: Αυτόματη αποστολή όταν ολοκληρωθούν οι τρέχουσες αποστολές
+    download_all: Λήψη όλων
+    zipped_archive: Αρχείο ZIP
+    message_id: Αναγνωριστικό μηνύματος
+    overall_progress: Συνολική πρόοδος
+    abort: Διακοπή
+    limitations: Περιορισμοί
+    max_size: Μέγιστο μέγεθος
+    add_files: Προσθήκη αρχείων...
+    add_folder: Προσθήκη φακέλου...
+    no_attachment_added: Δεν προστέθηκε συνημμένο
+    you_need_to_add_at_least_one_file: Πρέπει να προσθέσετε τουλάχιστον ένα αρχείο.
+    private_message_or_attached_files: Πρέπει είτε να ενεργοποιήσετε το Ιδιωτικό μήνυμα είτε να επισυνάψετε τουλάχιστον ένα αρχείο.
+    no_runtime_found: Δεν βρέθηκε περιβάλλον εκτέλεσης, δεν είναι δυνατή η αποστολή αρχείων
+    runtime_check_title: Δεν βρέθηκε περιβάλλον εκτέλεσης
+    selected: επιλεγμένα
+    file_size_error: Σφάλμα μεγέθους αρχείου
+    remaining: απομένουν
+    attached_files: Συνημμένα αρχεία
+    show_message: Εμφάνιση μηνύματος
+    can_be_max: μπορεί να είναι έως %{days} ημέρες στο μέλλον
+    not_ready: Δεν είναι ακόμη έτοιμο για λήψη
+    download_info: Πληροφορίες λήψης
+    browser: Πρόγραμμα περιήγησης
+    platform: Πλατφόρμα
+    operating_system: Λειτουργικό σύστημα
+    location: Τοποθεσία
+    download_details: Λεπτομέρειες λήψης
+    download_information_not_found: Δεν ήταν δυνατή η εύρεση των πληροφοριών λήψης.
+    add: Προσθήκη
+    select_existing_files: Επιλογή υπαρχόντων αρχείων
+    add_existing_files: Προσθήκη υπαρχόντων αρχείων
+    add_existing_description: Αυτά τα αρχεία έχουν ήδη σταλεί και μπορείτε να τα στείλετε ξανά.
+    zip_disabled: Το ZIP είναι απενεργοποιημένο
+    zip_disabled_description_exceeded: Ο μέγιστος αριθμός λήψεων έχει ξεπεραστεί για τουλάχιστον ένα συνημμένο.
+    spinner_info_html: <strong>Το μήνυμά σας είναι έτοιμο για αποστολή</strong>. Ορισμένα αρχεία εξακολουθούν να επεξεργάζονται στο παρασκήνιο, αλλά δεν χρειάζεται να περιμένετε. <strong>Πατήστε Αποστολή όταν είστε έτοιμοι!</strong>
+    sent_to_you: Στάλθηκαν σε εσάς
+    excluding_admins: Εκτός από διαχειριστές
+    downloads: Λήψεις
+    download_log: Αρχείο καταγραφής λήψεων
+    delete_attachments: Διαγραφή συνημμένων
+    delete_message: Διαγραφή μηνύματος
+    delete_attachments_warning: Θέλετε σίγουρα να διαγράψετε τα συνημμένα;
+    delete_message_warning: Η διαγραφή του μηνύματος θα διαγράψει επίσης τα συνημμένα αρχεία και το αρχείο καταγραφής λήψεων. Θέλετε σίγουρα να διαγράψετε το μήνυμα;
+    invalid_message: Μη έγκυρο μήνυμα
+    message_deleted: Το μήνυμα διαγράφηκε
+    attachments_deleted: Τα συνημμένα διαγράφηκαν
+    checksum: Άθροισμα ελέγχου (SHA256)
+    not_permitted_to_send_messages: Δεν έχετε δικαίωμα να στέλνετε μηνύματα.
+    invalid_group_belonging: Η αποστολή δεν επιτρέπεται (μη έγκυρη ομάδα). Είστε καταχωρισμένοι ως εξωτερικός χρήστης, αλλά η διεύθυνση email σας ανήκει στον τομέα %{domain}, ο οποίος περιλαμβάνεται επίσης στους περιορισμένους τομείς παραληπτών. Αυτό δεν επιτρέπεται για εξωτερικούς χρήστες. Ζητήστε από τον διαχειριστή συστήματος να σας μεταφέρει σε άλλη ομάδα για να συνεχίσετε.
+    expires_after_exceeded: Υπέρβαση αριθμού λήψεων
+    expires_after_exceeded_for_zip: Υπέρβαση αριθμού λήψεων για τουλάχιστον ένα αρχείο στο αρχείο ZIP
+    permission_description_title: Περιορισμοί πρόσβασης
+    permission_description_only_specified_html: <ul> <li>Μόνο οι καθορισμένοι παραλήπτες έχουν πρόσβαση στο μήνυμα και μπορούν να κάνουν λήψη των αρχείων.</li> <li>Η προώθηση του email ή του URL σε οποιονδήποτε δεν επιτρέπεται.</li> <li>Οι παραλήπτες πρέπει να συνδεθούν για να ανοίξουν το μήνυμα και να κάνουν λήψη των αρχείων.</li> <li>Σε κάθε λήψη κάθε αρχείου αποστέλλεται επιβεβαίωση λήψης με λεπτομερείς πληροφορίες.</li> </ul>
+    permission_description_only_specified_and_local_html: <ul> <li>Μόνο οι καθορισμένοι παραλήπτες και οι τοπικοί χρήστες μπορούν να κάνουν λήψη των αρχείων.</li> <li>Το email ή το URL μπορεί να προωθηθεί μόνο σε τοπικούς χρήστες.</li> <li>Οι παραλήπτες πρέπει να συνδεθούν για να κάνουν λήψη των αρχείων.</li> <li>Σε κάθε λήψη κάθε αρχείου αποστέλλεται επιβεβαίωση λήψης με λεπτομερείς πληροφορίες.</li> </ul>
+    permission_description_only_specified_and_domains_html: <ul> <li>Πρόσβαση έχουν μόνο οι καθορισμένοι παραλήπτες και οι χρήστες του ίδιου τομέα email.</li> <li>Αν στείλετε στο diefthyntis@synergatis.gr, πρόσβαση στο μήνυμα έχει και το grammateia@synergatis.gr, αλλά όχι το periergos@antagonistis.gr.</li> <li>Οι παραλήπτες πρέπει να συνδεθούν για να κάνουν λήψη των αρχείων.</li> <li>Σε κάθε λήψη κάθε αρχείου αποστέλλεται επιβεβαίωση λήψης με λεπτομερείς πληροφορίες.</li> </ul>
+    permission_description_anyone_after_authentication_html: <ul> <li>Οποιοσδήποτε έχει το μυστικό, τυχαίο URL μπορεί να κάνει λήψη των αρχείων.</li> <li>Το email ή το URL μπορεί να προωθηθεί σε οποιονδήποτε.</li> <li>Οι παραλήπτες πρέπει να συνδεθούν για να κάνουν λήψη των αρχείων.</li> <li>Σε κάθε λήψη κάθε αρχείου αποστέλλεται επιβεβαίωση λήψης με λεπτομερείς πληροφορίες.</li> </ul>
+    permission_description_anyone_html: <ul> <li>Οποιοσδήποτε έχει το μυστικό, τυχαίο URL μπορεί να κάνει λήψη των αρχείων.</li> <li>Το email ή το URL μπορεί να προωθηθεί σε οποιονδήποτε.</li> <li>Η σύνδεση <strong>δεν</strong> απαιτείται για τη λήψη των αρχείων.</li> <li>Αποστέλλεται <strong>βασική</strong> επιβεβαίωση λήψης κατά την πρώτη λήψη από οποιονδήποτε (απαιτείται έλεγχος ταυτότητας για να είναι γνωστό ποιος κατέβασε τι).</li> </ul>
+    your_message_has_been_sent: Το μήνυμά σας στάλθηκε
+    you_can_send_to_anyone: "(Μπορείτε να στείλετε αυτόν τον σύνδεσμο σε οποιονδήποτε)"
+    send_more_files: Αποστολή περισσότερων αρχείων
+    download_speed: Ταχύτητα λήψης
+    download_time: Χρόνος λήψης
+    at_least_one_invalid_email: Τουλάχιστον μία μη έγκυρη διεύθυνση email
+    reply: Ο παραλήπτης μπορεί να απαντήσει
+    private_message: Ιδιωτικό μήνυμα
+    private_message_description_html: Σε ένα ιδιωτικό μήνυμα, το κείμενο του μηνύματός σας δεν αποστέλλεται στον παραλήπτη με email – γίνεται ορατό μόνο όταν ο παραλήπτης κάνει κλικ στον σύνδεσμο του email και περάσει έλεγχο ταυτότητας. <ul> <li>Μπορείτε να στείλετε ιδιωτικό μήνυμα χωρίς συνημμένα.</li> <li>Θα λάβετε επιβεβαίωση πρόσβασης όταν κάποιος δει το μήνυμά σας.</li> <li>Δεν μπορείτε να στείλετε ιδιωτικό μήνυμα με την άδεια λήψης «Οποιοσδήποτε μπορεί να κάνει λήψη».</li> </ul>
+    private_message_delivered_description: Το μήνυμα στάλθηκε ως ιδιωτικό μήνυμα. Το κείμενο του μηνύματος δεν περιλαμβάνεται στο email και θα λάβετε επιβεβαίωση πρόσβασης όταν κάθε παραλήπτης δει το μήνυμα.
+    access_info: Πληροφορίες πρόσβασης
+    access_details: Λεπτομέρειες πρόσβασης
+    validation_code: Κωδικός επικύρωσης
+    expired_token_inline: Ο έλεγχος ταυτότητας μέσω email έληξε, δοκιμάστε ξανά.
+    invalid_token: Μη έγκυρος ή ληγμένος κωδικός. Κάντε κλικ στον σύνδεσμο του αρχικού email για να επιβεβαιώσετε ξανά τη διεύθυνση email σας.
+    download_zip: Λήψη ZIP
+    zip_ready_for_download: Το ZIP είναι έτοιμο για λήψη
+    processing_zip: Επεξεργασία αρχείου ZIP
+    drop_file_here: Αποθέστε το αρχείο εδώ
+    drop_files_here: Αποθέστε τα αρχεία εδώ
+    drop_files_and_folders_here: Αποθέστε αρχεία και φακέλους εδώ
+    select_pool_files: Επιλογή αρχείων από τη συλλογή
+    add_pool_files: Προσθήκη αρχείων από τη συλλογή
+    invalid_validation_token: Αυτός δεν είναι έγκυρος κωδικός επικύρωσης.
+    not_the_validation_token: Αυτό είναι το αναγνωριστικό μηνύματος, όχι ο κωδικός επικύρωσης. Εισαγάγετε τον κωδικό επικύρωσης.
+    no_messages_in_inbox: Δεν υπάρχουν μηνύματα στα εισερχόμενα.
+    filename_already_selected: Έχει ήδη προστεθεί σε αυτό το μήνυμα αρχείο με αυτό το όνομα
+    filesize_exceeded: Υπέρβαση μέγιστου μεγέθους μηνύματος
+    infected_with: Μολυσμένο με ιό
+    not_permitted_to_download_content_blocked: "Η λήψη αυτού του αρχείου δεν επιτρέπεται. Η σάρωση για ιούς εντόπισε: %{virus}"
+    invalid_email_address: Μη έγκυρη διεύθυνση email
+    cant_create_folder: Δεν είναι δυνατή η δημιουργία φακέλου
+    cant_check_folder: Δεν είναι δυνατός ο έλεγχος του φακέλου
+    cant_restore_folder: Δεν είναι δυνατή η επαναφορά του φακέλου
+    cant_check_chunks: Δεν είναι δυνατός ο έλεγχος των τμημάτων
+    zip_not_include_all_files: Δεν είναι δυνατή η λήψη όλων των αρχείων – το ZIP θα περιέχει μόνο τα αρχεία που μπορούν να ληφθούν.
+    paste_tip: Συμβουλή! Επικολλήστε με Ctrl+Shift+V για να αφαιρέσετε τη μορφοποίηση.
+  session:
+    api:
+      authentication_error: Σφάλμα ελέγχου ταυτότητας, δοκιμάστε ξανά.
+      not_local_user: Μη έγκυρη διεύθυνση email. Μόνο οι τοπικοί χρήστες μπορούν να χρησιμοποιήσουν αυτή τη λειτουργία.
+      show:
+        login: Σύνδεση
+        login_label: Διεύθυνση email
+        password: Κωδικός πρόσβασης
+        sso_login: Σύνδεση SSO
+        authentication_title: Σύνδεση
+        authentication_description: Εισαγάγετε τη διεύθυνση email σας ή συνδεθείτε για να συνεχίσετε.
+      authenticated:
+        authentication_successful: Ο έλεγχος ταυτότητας ολοκληρώθηκε επιτυχώς
+    authenticate:
+      login: Συνδεθείτε για να συνεχίσετε
+      description_html: Πρέπει να συνδεθείτε για να ανοίξετε αυτή τη σελίδα. Εισαγάγετε τη διεύθυνση email σας ή συνδεθείτε για να συνεχίσετε.<br>Αν δεν έχετε λογαριασμό σε αυτό το σύστημα, εισαγάγετε τη διεύθυνση email σας και θα σας στείλουμε έναν προσωρινό κωδικό πρόσβασης με email.
+      unauthorized: Δεν έχετε εξουσιοδότηση να δείτε αυτό το μήνυμα. Εισαγάγετε τη διεύθυνση email σας ακριβώς όπως σας στάλθηκε το μήνυμα ή επικοινωνήστε με τον αποστολέα.
+    email:
+      validate_email: Επιβεβαιώστε τη διεύθυνση email σας
+      validate_email_description_html: "Στάλθηκε κωδικός ασφαλείας στη διεύθυνση email σας: <strong>%{email}</strong>. Κάντε κλικ στον σύνδεσμο ή εισαγάγετε εδώ τον κωδικό ασφαλείας για να επιβεβαιώσετε τη διεύθυνσή σας και να συνεχίσετε."
+      session_expired: Η περίοδος σύνδεσης έληξε, εισαγάγετε ξανά τη διεύθυνση email σας για να συνεχίσετε
+      token_expired: Ο σύνδεσμος ελέγχου ταυτότητας στο email έληξε, δοκιμάστε ξανά.
+      already_authenticated: Έχετε ήδη συνδεθεί σε αυτό το πρόγραμμα περιήγησης.
+      resend_validation_email: Επανάληψη αποστολής email επικύρωσης
+      verify: Επαλήθευση
+      validate_email_sent: "Ένα νέο email επικύρωσης στάλθηκε στις: %{time}. Κάντε κλικ στον σύνδεσμο του email ή εισαγάγετε παρακάτω τον κωδικό ασφαλείας για να επιβεβαιώσετε τη διεύθυνση email σας."
+      invalid_temporary_user: Μη έγκυρος κωδικός ασφαλείας. Ελέγξτε το email σας – ένας νέος κωδικός ασφαλείας στάλθηκε στα εισερχόμενά σας.
+      create_account: Δημιουργία λογαριασμού
+      create_account_description: Δημιουργήστε λογαριασμό σε αυτό το σύστημα ώστε να συνδέεστε με τη διεύθυνση email και τον κωδικό πρόσβασής σας αντί για κωδικό ασφαλείας.
+      invalid_email: Μη έγκυρη διεύθυνση email
+    login_limit_exceeded:
+      delivered:
+        page_header: Υπέρβαση ορίου συνδέσεων
+        description: Προσπαθήσατε να συνδεθείτε πάρα πολλές φορές. Για να συνεχίσετε, πρέπει να επαναφέρετε τον κωδικό πρόσβασής σας.
+        email: Στάλθηκε email με σύνδεσμο για την επαναφορά του κωδικού πρόσβασής σας.
+      waiting:
+        page_header: Υπέρβαση ορίου συνδέσεων
+        description: "Προσπαθήσατε να συνδεθείτε πάρα πολλές φορές. Σημείωση: πρέπει να συνδεθείτε με τον κωδικό πρόσβασης δικτύου σας. Αν χρειάζεται να τον επαναφέρετε και δεν ξέρετε πώς, επικοινωνήστε με έναν διαχειριστή δικτύου. Μετά τη λήξη του χρόνου αναμονής, μπορείτε να φορτώσετε ξανά αυτή τη σελίδα για να επαναφέρετε το όριο."
+        expiration_time: Χρόνος αναμονής
+        reload: Επαναφόρτωση
+      show:
+        page_header: Υπέρβαση ορίου συνδέσεων
+        description: Προσπαθήσατε να συνδεθείτε πάρα πολλές φορές. Μπορείτε να επαναφέρετε το όριο συνδέσεων και να συνδεθείτε ξανά. Σας στάλθηκε email για την επαναφορά του ορίου.
+      reset:
+        login_limit_reset: Το όριο συνδέσεων επαναφέρθηκε
+    shared:
+      authentication_successful: Ο έλεγχος ταυτότητας ολοκληρώθηκε επιτυχώς
+    outlook:
+      edit:
+        authentication_title: Έλεγχος ταυτότητας
+        authentication_description: Συνδεθείτε για να συνεχίσετε
+        login: Σύνδεση
+        login_label: Διεύθυνση email
+        password: Κωδικός πρόσβασης
+        sso_login: Σύνδεση SSO
+      show:
+        authentication_title: Έλεγχος ταυτότητας
+        authentication_description: Συνδεθείτε για να επισυνάψετε ασφαλή αρχεία.
+        authenticate: Έλεγχος ταυτότητας
+    saml:
+      not_configured:
+        title: Το SAML δεν έχει διαμορφωθεί
+        description: Το SAML δεν έχει διαμορφωθεί σε αυτό το σύστημα. Αν πιστεύετε ότι πρόκειται για σφάλμα, επικοινωνήστε με την υποστήριξη για να το διερευνήσει.
+        support_button: Επικοινωνία με την υποστήριξη
+      api:
+        local:
+          title: Έλεγχος ταυτότητας SAML
+          description: Ο έλεγχος ταυτότητας SAML ξεκίνησε στο προεπιλεγμένο πρόγραμμα περιήγησής σας – συνεχίστε τη σύνδεση εκεί. Αν δεν βρίσκετε το παράθυρο ή αν δεν λειτουργεί για οποιονδήποτε λόγο, μπορείτε να συνεχίσετε κάνοντας κλικ στο παρακάτω κουμπί.
+          button_label: Σύνδεση SSO
+      response:
+        api_error:
+          authentication_error: Ο έλεγχος ταυτότητας απέτυχε
+          saml_authentication_error: Ο έλεγχος ταυτότητας SSO απέτυχε
+          saml_authentication_error_description: Ο έλεγχος ταυτότητας SSO απέτυχε. Επικοινωνήστε με τον διαχειριστή αν το πρόβλημα παραμένει.
+        api_disabled:
+          api_disabled: Μη εξουσιοδοτημένη ομάδα χρηστών
+          api_disabled_description: Ο λογαριασμός σας δεν έχει πρόσβαση σε αυτή τη λειτουργία (API απενεργοποιημένο). Επικοινωνήστε με έναν διαχειριστή και ζητήστε του να μεταφέρει τον λογαριασμό σας σε άλλη ομάδα.
+        api_response:
+          authentication_successful: Ο έλεγχος ταυτότητας ολοκληρώθηκε επιτυχώς
+        create:
+          could_not_create_account: Δεν ήταν δυνατή η δημιουργία λογαριασμού. Επικοινωνήστε με έναν διαχειριστή για περισσότερες πληροφορίες.
+        show:
+          could_not_create_account: Δεν ήταν δυνατή η δημιουργία λογαριασμού. Επικοινωνήστε με έναν διαχειριστή για περισσότερες πληροφορίες.
+    temporary_user:
+      validate_email: Επιβεβαιώστε τη διεύθυνση email σας
+      validate_email_description_html: "Στάλθηκε προσωρινός κωδικός πρόσβασης στη διεύθυνση email σας: <strong>%{email}</strong>. Κάντε κλικ στον σύνδεσμο ή εισαγάγετε εδώ τον προσωρινό κωδικό πρόσβασης για να επιβεβαιώσετε τη διεύθυνσή σας και να συνεχίσετε."
+      session_expired: Η περίοδος σύνδεσης έληξε, εισαγάγετε ξανά τη διεύθυνση email σας για να συνεχίσετε
+      token_expired: Ο σύνδεσμος ελέγχου ταυτότητας στο email έληξε, δοκιμάστε ξανά.
+      already_authenticated: Έχετε ήδη συνδεθεί σε αυτό το πρόγραμμα περιήγησης.
+      resend_validation_email: Επανάληψη αποστολής email επικύρωσης
+      verify: Επαλήθευση
+      validate_email_sent: "Ένα νέο email επικύρωσης στάλθηκε στις: %{time}. Κάντε κλικ στον σύνδεσμο του email ή εισαγάγετε παρακάτω τον κωδικό πρόσβασης για να επιβεβαιώσετε τη διεύθυνση email σας."
+      invalid_temporary_user: Μη έγκυρος κωδικός πρόσβασης. Ελέγξτε το email σας – ο προσωρινός κωδικός πρόσβασης στάλθηκε ξανά στα εισερχόμενά σας.
+      temporary_user_expired: Ο προσωρινός κωδικός πρόσβασης έληξε. Ελέγξτε το email σας – ένας νέος προσωρινός κωδικός πρόσβασης στάλθηκε στα εισερχόμενά σας.
+      create_account: Δημιουργία λογαριασμού
+      create_account_description: Δημιουργήστε μόνιμο λογαριασμό σε αυτό το σύστημα ώστε να συνδέεστε με τη διεύθυνση email και τον κωδικό πρόσβασής σας αντί για προσωρινό λογαριασμό χρήστη.
+  shared:
+    show: Εμφάνιση
+    reify: Επαναφορά
+    download: Λήψη
+    restore: Επαναφορά
+    delete: Διαγραφή
+    trash: Κάδος
+    cancel: Ακύρωση
+    close: Κλείσιμο
+    current: Τρέχον
+    bootstrap_confirm_dialog:
+      confirm_action: Επιβεβαίωση ενέργειας
+    shares:
+      bootstrap_confirm_dialog:
+        confirm_action: Επιβεβαίωση ενέργειας
+      navigation:
+        files: Αρχεία
+        activity_log: Αρχείο καταγραφής δραστηριότητας
+      wrap_content:
+        activity_log: Αρχείο καταγραφής δραστηριότητας
+    error_messages:
+      prohibited_this_from_being_saved: εμπόδισε την αποθήκευση του %{target}
+  share:
+    share: Share
+    shares: Share
+    no_shares: Δεν υπάρχουν διαθέσιμα Share
+    name: Όνομα
+    folder_name: Όνομα φακέλου
+    share_not_found: Το Share δεν βρέθηκε
+    folder_not_found: Ο φάκελος δεν βρέθηκε
+    file_not_found: Το αρχείο δεν βρέθηκε
+    no_read_access: Δεν έχετε εξουσιοδότηση πρόσβασης σε αυτό το Share
+    no_write_access: Δεν έχετε δικαίωμα εγγραφής σε αυτό το Share
+    not_authorized_to_view_logs: Δεν έχετε εξουσιοδότηση να βλέπετε αρχεία καταγραφής
+    require_authentication: Αυτό το Share απαιτεί έλεγχο ταυτότητας. Εισαγάγετε τον κωδικό πρόσβασης για να συνεχίσετε.
+    authenticate: Έλεγχος ταυτότητας
+    authentication_failed: Ο έλεγχος ταυτότητας απέτυχε
+  shares:
+    folders:
+      are_you_sure_you_want_to_delete: Θέλετε σίγουρα να διαγράψετε αυτόν τον φάκελο;
+      are_you_sure_you_want_to_trash: Θέλετε σίγουρα να διαγράψετε οριστικά αυτόν τον φάκελο;
+      folder_name_already_taken: Αυτό το όνομα φακέλου χρησιμοποιείται ήδη!
+      folder_not_found: Ο φάκελος δεν βρέθηκε
+      could_not_create_folder: "Δεν ήταν δυνατή η δημιουργία του φακέλου: %{error}"
+      zip_no_files: Δεν υπάρχουν αρχεία για προσθήκη στο ZIP
+      windows_path_warning:
+        title: Περιορισμός μήκους διαδρομής στα Windows
+        description_html: <strong>Χρήστες Windows:</strong> τα Windows περιορίζουν τις διαδρομές αρχείων σε 259 χαρακτήρες. Κατά την αποστολή φακέλων από θέσεις με μεγάλες διαδρομές, αρχεία που βρίσκονται βαθιά στη δομή φακέλων ενδέχεται να παραλειφθούν χωρίς προειδοποίηση, με αποτέλεσμα ελλιπείς αποστολές ή διπλότυπους φακέλους.
+        workarounds_title: Προτεινόμενες λύσεις
+        workarounds_html: "<li><strong>Χρησιμοποιήστε εικονική μονάδα δίσκου:</strong> ανοίξτε τη Γραμμή εντολών και εκτελέστε: <code>subst X: \"C:\\i\\megali\\diadromi\\pros\\fakelo\"</code><br>Στη συνέχεια κάντε αποστολή από την εικονική μονάδα <code>X:\\</code></li><li><strong>Μεταβείτε πιο κοντά στα αρχεία:</strong> ανοίξτε έναν υποφάκελο πιο κοντά στα αρχεία σας πριν επιλέξετε τον φάκελο αποστολής</li><li><strong>Χρησιμοποιήστε συντομότερη διαδρομή:</strong> αντιγράψτε τα αρχεία σας σε μια συντομότερη θέση, όπως <code>C:\\uploads\\</code>, πριν από την αποστολή</li><li><strong>Συμπιέστε πρώτα τον φάκελο:</strong> συμπιέστε τον φάκελο σε αρχείο ZIP και στείλτε αντί αυτού το αρχείο ZIP</li>"
+        advanced_title: "Για προχωρημένους: ενεργοποίηση μεγάλων διαδρομών στα Windows 10/11"
+        advanced_description_html: Από τα Windows 10 έκδοση 1607 και μετά, μπορείτε να ενεργοποιήσετε την υποστήριξη μεγαλύτερων διαδρομών. <strong>Σημείωση:</strong> απαιτούνται δικαιώματα διαχειριστή και ενδέχεται να μη λειτουργεί σε όλα τα προγράμματα περιήγησης. Οι παραπάνω λύσεις είναι πιο αξιόπιστες.
+        registry_steps_title: Βήματα για την ενεργοποίηση μεγάλων διαδρομών
+        registry_steps_html: "<li>Πατήστε <kbd>Win + R</kbd>, πληκτρολογήστε <code>regedit</code> και πατήστε Enter</li><li>Μεταβείτε στο: <code>HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\FileSystem</code></li><li>Βρείτε ή δημιουργήστε μια τιμή DWORD με όνομα <code>LongPathsEnabled</code> και ορίστε την σε <code>1</code></li><li>Επανεκκινήστε τον υπολογιστή για να τεθεί σε ισχύ η αλλαγή</li><li>Δοκιμάστε ξανά την αποστολή (η υποστήριξη μπορεί να διαφέρει ανάλογα με το πρόγραμμα περιήγησης)</li>"
+        browser_disclaimer_html: "<strong>Σημαντικό:</strong> ακόμη και με αυτή τη ρύθμιση μητρώου ενεργοποιημένη, η υποστήριξη μεγάλων διαδρομών διαφέρει ανάλογα με το πρόγραμμα περιήγησης. Τα Chrome, Edge και Firefox ενδέχεται να εξακολουθούν να επιβάλλουν το όριο των 259 χαρακτήρων. Οι παραπάνω λύσεις είναι πιο αξιόπιστες."
+      folder:
+        rename_folder: Μετονομασία φακέλου
+        move_folder_description: Μετακίνηση του φακέλου %{foldername} στον φάκελο που έχει επιλεγεί παρακάτω
+        move_folder: Μετακίνηση φακέλου
+      action_bar:
+        download_as_zip: Λήψη ως ZIP
+        download_as_zip_with_deleted: Λήψη ως ZIP, μαζί με τα διαγραμμένα αρχεία
+        toggle_deleted_view: Εμφάνιση/απόκρυψη διαγραμμένων αρχείων
+        filter: Φίλτρο
+        upload_file: Αποστολή αρχείων
+        upload_folder: Αποστολή φακέλου
+        create_folder: Δημιουργία φακέλου
+        windows_path_warning: Προειδοποίηση μήκους διαδρομής
+        upload_folder_unsupported: Η αποστολή φακέλων δεν υποστηρίζεται
+        upload_folder_unsupported_description: Δυστυχώς, το πρόγραμμα περιήγησής σας δεν υποστηρίζει την αποστολή φακέλων. Χρησιμοποιήστε την έκδοση υπολογιστή του Chrome ή του Safari για να στείλετε δομή φακέλων.
+        showing_deleted: Εμφανίζονται %{number_of} διαγραμμένα
+        hiding_deleted: Αποκρύπτονται %{number_of} διαγραμμένα
+        actions: Ενέργειες
+        move_selected: Μετακίνηση επιλεγμένων
+        trash_selected: Μεταφορά επιλεγμένων στον κάδο
+        delete_selected: Διαγραφή επιλεγμένων
+      action_bar_below:
+        send_notifications: Αποστολή ειδοποιήσεων
+        sending_notifications: Αποστολή ειδοποιήσεων σε εξέλιξη
+        quota: Όριο χώρου
+        used_of: χρησιμοποιούνται από
+        available: διαθέσιμα
+        quota_exceeded: Υπέρβαση ορίου χώρου
+      create_folder_modal:
+        create_folder: Δημιουργία φακέλου
+        create: Δημιουργία
+      files:
+        are_you_sure_you_want_to_delete: Θέλετε σίγουρα να διαγράψετε αυτό το αρχείο;
+        are_you_sure_you_want_to_trash: Θέλετε σίγουρα να διαγράψετε οριστικά αυτό το αρχείο;
+        file_not_found: Το αρχείο δεν βρέθηκε
+        file:
+          rename_file: Μετονομασία αρχείου
+          move_file: Μετακίνηση
+          move_file_description: Μετακίνηση του αρχείου %{filename} στον φάκελο που έχει επιλεγεί παρακάτω
+        show:
+          prev: Προηγούμενο
+          up: Επάνω
+          next: Επόμενο
+          last_updated: Τελευταία ενημέρωση
+          versions: Εκδόσεις
+          show_all: Εμφάνιση όλων
+          version_from: Έκδοση από
+          next_version: Επόμενη έκδοση
+          previous_version: Προηγούμενη έκδοση
+          current_version: Τρέχουσα έκδοση
+          pdf_preview_not_supported: Η προεπισκόπηση αρχείων PDF δεν υποστηρίζεται από το πρόγραμμα περιήγησής σας
+        available_chunks:
+          available: Υπάρχουν διαθέσιμες μερικές αποστολές των παρακάτω αρχείων
+          resume_replace: Θέλετε να συνεχίσετε την αποστολή ή να αντικαταστήσετε τα αρχεία;
+      quota:
+        quota: Όριο χώρου
+        used_of: χρησιμοποιούνται από
+        available: διαθέσιμα
+        quota_exceeded: Υπέρβαση ορίου χώρου
+      move_file_folder_modal:
+        move_folder: Μετακίνηση φακέλου
+        move_file: Μετακίνηση αρχείου
+        move: Μετακίνηση
+      show:
+        select_all: Επιλογή/αποεπιλογή όλων
+    logs:
+      action_bar:
+        activity_log: Αρχείο καταγραφής δραστηριότητας
+      message:
+        created: Δημιουργήθηκε
+        uploaded: Αποστάλθηκε
+        downloaded: Έγινε λήψη
+        reified: Επαναφέρθηκε
+        removed: Αφαιρέθηκε
+        restored: Επαναφέρθηκε
+        deleted: Διαγράφηκε
+        moved: Μετακινήθηκε
+        renamed: Μετονομάστηκε
+        added: Προστέθηκε
+        viewed: Προβλήθηκε
+        infected: Μολυσμένο
+        trashed: Μεταφέρθηκε στον κάδο
+        deleted_user: "(Διαγραμμένος χρήστης)"
+        share: Share
+        folder: Φάκελος
+        file: Αρχείο
+        group: Ομάδα
+        user: Χρήστης
+        read: Ανάγνωση
+        read/write: Ανάγνωση/εγγραφή
+        av_scanner: Πρόγραμμα προστασίας από ιούς
+        version_from: Έκδοση από
+        file_deleted: Το αρχείο διαγράφηκε
+        to: προς
+        from: από
+        unknown: Άγνωστο
+        other: Άλλο
+  share/log:
+    message:
+      you: Εσείς
+      share: Share
+      folder: φάκελος
+      file: αρχείο
+      user: χρήστης
+      version_from: έκδοση από
+      read: ανάγνωση
+      read/write: ανάγνωση/εγγραφή
+      created: δημιούργησε
+      added: πρόσθεσε
+      uploaded: απέστειλε
+      downloaded: έκανε λήψη
+      updated: ενημέρωσε
+      restored: επανέφερε
+      reified: επανέφερε
+      deleted: διέγραψε
+      removed: διέγραψε οριστικά
+      trashed: μετέφερε στον κάδο
+      renamed: μετονόμασε
+      viewed: προέβαλε
+      infected: μολυσμένο
+      av_scanner: Πρόγραμμα προστασίας από ιούς
+      file_deleted: Το αρχείο διαγράφηκε
+  sms_auth:
+    login_failed: Η σύνδεση απέτυχε
+    sms_error: Σφάλμα διαμόρφωσης SMS, επικοινωνήστε με τον διαχειριστή συστήματος
+    verify_token: Επαλήθευση κωδικού SMS
+    verify_token_description: "Εισαγάγετε τον κωδικό που στάλθηκε στο κινητό σας τηλέφωνο:"
+    sms_login_failed: Η επικύρωση SMS απέτυχε, στάλθηκε νέος κωδικός SMS
+    sms_signup: Εγγραφή στον έλεγχο ταυτότητας δύο παραγόντων μέσω SMS
+    sms_signup_failed: Ο έλεγχος ταυτότητας δύο παραγόντων μέσω SMS απέτυχε
+    sms_signup_description: Για να συνεχίσετε, πρέπει να εγγραφείτε στον έλεγχο ταυτότητας δύο παραγόντων μέσω SMS. Εισαγάγετε τον αριθμό τηλεφώνου σας παρακάτω για να συνεχίσετε.
+    verify: Επαλήθευση
+    resend: Επανάληψη αποστολής κωδικού
+    code: Κωδικός
+    token_resent: Ο κωδικός SMS στάλθηκε ξανά στις %{time}
+    send_token: Αποστολή κωδικού επαλήθευσης
+    phone_number: Αριθμός τηλεφώνου
+    invalid_phone_number: Μη έγκυρος αριθμός τηλεφώνου, δοκιμάστε ξανά.
+    change_phone_number: Αλλαγή αριθμού τηλεφώνου
+    phone_number_help: Εισαγάγετε τον αριθμό τηλεφώνου σας με τον κωδικό χώρας και χωρίς αρχικά μηδενικά (π.χ. 306912345678). Θα σταλεί κωδικός επαλήθευσης σε αυτόν τον αριθμό.
+    one-time-code: Κωδικός μίας χρήσης
+  strong_auth:
+    two_factor_authentication: Έλεγχος ταυτότητας δύο παραγόντων
+    enable_2fa: Ενεργοποίηση ελέγχου ταυτότητας δύο παραγόντων
+    disable_2fa: Απενεργοποίηση ελέγχου ταυτότητας δύο παραγόντων
+    title: Ενεργοποίηση ελέγχου ταυτότητας δύο παραγόντων
+    enable_2fa_description: Μπορείτε να ενεργοποιήσετε ισχυρό έλεγχο ταυτότητας δύο παραγόντων για να αυξήσετε την ασφάλεια του λογαριασμού σας.
+    require_description: Για να χρησιμοποιήσετε αυτό το σύστημα, πρέπει να ρυθμίσετε τον έλεγχο ταυτότητας δύο παραγόντων.
+    disable_description: Εισαγάγετε τον τρέχοντα κωδικό για να απενεργοποιήσετε τον έλεγχο ταυτότητας δύο παραγόντων
+    two_factor_auth_disabled: Ο έλεγχος ταυτότητας δύο παραγόντων απενεργοποιήθηκε
+    step1: "Βήμα 1: λάβετε την εφαρμογή ελέγχου ταυτότητας"
+    step1_description: Ενεργοποιήστε τον έλεγχο ταυτότητας δύο παραγόντων, συνήθως με μια εφαρμογή για κινητά.
+    totp_apps_description_html: Στις εφαρμογές ελέγχου ταυτότητας περιλαμβάνονται το <a href="https://authy.com" target="_blank" rel="external nofollow noopener noreferrer">Authy</a> (πολλές πλατφόρμες) και το Google Authenticator (iOS/Android). Δείτε το <a href="https://docs.liquidfiles.com/authentication/totp.html#clients" target="_blank">TOTP Clients</a> για περισσότερες επιλογές.
+    step2: "Βήμα 2: ρυθμίστε την εφαρμογή ελέγχου ταυτότητας"
+    step2_description: Ρυθμίστε την εφαρμογή ελέγχου ταυτότητας σαρώνοντας τον κωδικό QR.
+    step2_alt: Ή εισαγάγετε τον παρακάτω κωδικό
+    step3: "Βήμα 3: επαληθεύστε"
+    step3_description: Επαληθεύστε τη ρύθμιση εισάγοντας τον κωδικό που δημιουργεί η εφαρμογή ελέγχου ταυτότητας.
+    failed_to_authenticate: Ο έλεγχος ταυτότητας απέτυχε, δοκιμάστε ξανά.
+    click_on_link: Εναλλακτικά, κάντε κλικ στον παρακάτω σύνδεσμο για να προσθέσετε τη διαμόρφωση στην εφαρμογή ελέγχου ταυτότητας δύο παραγόντων
+    configure: Ρύθμιση ελέγχου ταυτότητας δύο παραγόντων
+    success_saved: Επιτυχία, η διαμόρφωση του ελέγχου ταυτότητας δύο παραγόντων αποθηκεύτηκε
+    verify_token: Επαλήθευση ελέγχου ταυτότητας δύο παραγόντων
+    verify_token_description: Εισαγάγετε τον κωδικό ελέγχου ταυτότητας δύο παραγόντων από την εφαρμογή για κινητά.
+    verify: Επαλήθευση
+    two_factor_login_failed: Ο έλεγχος ταυτότητας δύο παραγόντων απέτυχε
+    two_factor_validation_failed: Η επικύρωση του ελέγχου ταυτότητας δύο παραγόντων απέτυχε
+    skip_2fa_for_two_weeks: Παράλειψη ελέγχου ταυτότητας δύο παραγόντων σε αυτό το πρόγραμμα περιήγησης για δύο εβδομάδες
+    one-time-code: Κωδικός μίας χρήσης
+  support:
+    email_subject: Χρειάζομαι βοήθεια με
+    email_body: Περιγράψτε το πρόβλημά σας όσο πιο αναλυτικά μπορείτε. Σας ευχαριστούμε.
+    navbar_tooltip: Αν χρειάζεστε βοήθεια για την πρόσβαση ή τη χρήση αυτού του συστήματος, κάντε κλικ σε αυτόν τον σύνδεσμο και θα χαρούμε να σας βοηθήσουμε.
+  user:
+    includes_at_least_one_invalid_email_address: περιέχει τουλάχιστον μία μη έγκυρη διεύθυνση email
+    confirm:
+      invalid_session: Μη έγκυρη περίοδος σύνδεσης
+      already_validated: Η διεύθυνση email σας έχει ήδη επιβεβαιωθεί
+      invalid_token: Μη έγκυρος κωδικός. Δοκιμάστε ξανά ή κάντε κλικ στην Επανάληψη αποστολής email επικύρωσης.
+      validation_email_sent: "Το email επικύρωσης στάλθηκε στις: %{time}"
+      activated_successfully: Ενεργοποιήθηκε επιτυχώς
+      validate_email_description: Ελέγξτε το email σας και εισαγάγετε τον προσωρινό κωδικό πρόσβασης για να επιβεβαιώσετε τη διεύθυνση email σας.
+    register:
+      already_registered: Αυτός ο λογαριασμός είναι ήδη εγγεγραμμένος, συνδεθείτε για να συνεχίσετε
+      already_registered_not_validated: Ο λογαριασμός σας είναι ήδη εγγεγραμμένος, αλλά η διεύθυνση email σας πρέπει ακόμη να επιβεβαιωθεί. Σας στείλαμε ένα email με έναν τυχαίο κωδικό. Εισαγάγετε τον κωδικό παρακάτω ή κάντε κλικ στον σύνδεσμο του email για να επιβεβαιώσετε τον λογαριασμό σας.
+      show:
+        register: Εγγραφή λογαριασμού
+        description_html: <p>Εισαγάγετε τα στοιχεία σας για να δημιουργήσετε λογαριασμό. Με αυτόν τον λογαριασμό μπορείτε να στέλνετε μεγάλα αρχεία με ασφάλεια στο %{branding_name}.</p>
+    signup:
+      create:
+        need_password: Πρέπει να εισαγάγετε κωδικό πρόσβασης
+        need_name: Πρέπει να εισαγάγετε όνομα
+    create:
+      show:
+        cancel_and_remember: Ακύρωση και να μην ερωτηθώ ξανά
+        cancel_and_remember_title: Αυτό θα απομνημονευτεί στο τρέχον πρόγραμμα περιήγησης
+  validator:
+    required: Αυτό το πεδίο είναι υποχρεωτικό.
+    remote: Διορθώστε αυτό το πεδίο.
+    email: Εισαγάγετε μια έγκυρη διεύθυνση email.
+    url: Εισαγάγετε ένα έγκυρο URL.
+    date: Εισαγάγετε μια έγκυρη ημερομηνία.
+    dateISO: Εισαγάγετε μια έγκυρη ημερομηνία (ISO).
+    number: Εισαγάγετε έναν έγκυρο αριθμό.
+    digits: Εισαγάγετε μόνο ψηφία.
+    creditcard: Εισαγάγετε έναν έγκυρο αριθμό πιστωτικής κάρτας.
+    equalTo: Εισαγάγετε ξανά την ίδια τιμή.
+    accept: Εισαγάγετε μια τιμή με έγκυρη επέκταση.
+    maxlength: Εισαγάγετε έως {0} χαρακτήρες.
+    minlength: Εισαγάγετε τουλάχιστον {0} χαρακτήρες.
+    rangelength: Εισαγάγετε μια τιμή μήκους από {0} έως {1} χαρακτήρες.
+    range: Εισαγάγετε μια τιμή από {0} έως {1}.
+    max: Εισαγάγετε μια τιμή μικρότερη ή ίση με {0}.
+    min: Εισαγάγετε μια τιμή μεγαλύτερη ή ίση με {0}.
+    step: Εισαγάγετε ένα πολλαπλάσιο του {0}.
+    invalid_phone_number: Μη έγκυρος αριθμός τηλεφώνου
+  locale: Ελληνικά
